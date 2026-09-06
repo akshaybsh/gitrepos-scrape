@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:38:18 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:48:14 GMT</pubDate>
   <item>
     <title>google-deepmind / formal-conjectures</title>
     <link>https://github.com/google-deepmind/formal-conjectures</link>
@@ -21,11 +21,6 @@
     <description>The math library of Lean 4</description>
   </item>
   <item>
-    <title>LionSR / TNLean</title>
-    <link>https://github.com/LionSR/TNLean</link>
-    <description>Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library</description>
-  </item>
-  <item>
     <title>leanprover-community / ProofWidgets4</title>
     <link>https://github.com/leanprover-community/ProofWidgets4</link>
     <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
@@ -36,24 +31,24 @@
     <description>White-box automation for Lean 4</description>
   </item>
   <item>
-    <title>leanprover-community / LeanSearchClient</title>
-    <link>https://github.com/leanprover-community/LeanSearchClient</link>
-    <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
-  </item>
-  <item>
-    <title>leanprover-community / plausible</title>
-    <link>https://github.com/leanprover-community/plausible</link>
-    <description></description>
-  </item>
-  <item>
     <title>leanprover-community / import-graph</title>
     <link>https://github.com/leanprover-community/import-graph</link>
     <description>Tool to analyse the import structure of lean projects.</description>
   </item>
   <item>
+    <title>leanprover-community / LeanSearchClient</title>
+    <link>https://github.com/leanprover-community/LeanSearchClient</link>
+    <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
+  </item>
+  <item>
     <title>leanprover / lean4-cli</title>
     <link>https://github.com/leanprover/lean4-cli</link>
     <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
+  </item>
+  <item>
+    <title>leanprover-community / plausible</title>
+    <link>https://github.com/leanprover-community/plausible</link>
+    <description></description>
   </item>
   <item>
     <title>leanprover-community / quote4</title>

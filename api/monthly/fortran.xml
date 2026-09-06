@@ -4,7 +4,7 @@
   <title>GitHub Fortran Languages Daily Trending</title>
   <description>Daily Trending of Fortran Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:40:26 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
   <item>
     <title>GEOS-ESM / MAPL</title>
     <link>https://github.com/GEOS-ESM/MAPL</link>
@@ -21,29 +21,14 @@
     <description>Energy Exascale Earth System Model source code. NOTE: use &quot;maint&quot; branches for your work. Head of master is not validated.</description>
   </item>
   <item>
+    <title>wrf-model / WRF</title>
+    <link>https://github.com/wrf-model/WRF</link>
+    <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
+  </item>
+  <item>
     <title>MetOffice / jules</title>
     <link>https://github.com/MetOffice/jules</link>
     <description>The Joint UK Land Environment Simulator</description>
-  </item>
-  <item>
-    <title>NGEET / fates</title>
-    <link>https://github.com/NGEET/fates</link>
-    <description>repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</description>
-  </item>
-  <item>
-    <title>MFlowCode / MFC</title>
-    <link>https://github.com/MFlowCode/MFC</link>
-    <description>Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs</description>
-  </item>
-  <item>
-    <title>MCSclimate / MCT</title>
-    <link>https://github.com/MCSclimate/MCT</link>
-    <description>Model Coupling Tookit</description>
-  </item>
-  <item>
-    <title>MetOffice / lfric_core</title>
-    <link>https://github.com/MetOffice/lfric_core</link>
-    <description>LFRic Infrastructure</description>
   </item>
   <item>
     <title>MetOffice / lfric_apps</title>
@@ -51,9 +36,19 @@
     <description>LFRic Applications</description>
   </item>
   <item>
-    <title>wrf-model / WRF</title>
-    <link>https://github.com/wrf-model/WRF</link>
-    <description>The official repository for the Weather Research and Forecasting (WRF) model</description>
+    <title>NGEET / fates</title>
+    <link>https://github.com/NGEET/fates</link>
+    <description>repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</description>
+  </item>
+  <item>
+    <title>MetOffice / lfric_core</title>
+    <link>https://github.com/MetOffice/lfric_core</link>
+    <description>LFRic Infrastructure</description>
+  </item>
+  <item>
+    <title>MCSclimate / MCT</title>
+    <link>https://github.com/MCSclimate/MCT</link>
+    <description>Model Coupling Tookit</description>
   </item>
   <item>
     <title>cp2k / cp2k</title>
@@ -74,6 +69,16 @@
     <title>JuliaPackaging / Yggdrasil</title>
     <link>https://github.com/JuliaPackaging/Yggdrasil</link>
     <description>Collection of builder repositories for BinaryBuilder.jl</description>
+  </item>
+  <item>
+    <title>OpenFAST / openfast</title>
+    <link>https://github.com/OpenFAST/openfast</link>
+    <description>Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</description>
+  </item>
+  <item>
+    <title>grimme-lab / xtb</title>
+    <link>https://github.com/grimme-lab/xtb</link>
+    <description>Semiempirical Extended Tight-Binding Program Package</description>
   </item>
 </channel>
 </rss>

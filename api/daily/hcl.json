@@ -2,47 +2,17 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5003,
-      "forks": 4409,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 3260,
-      "forks": 4625,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2091,
-      "forks": 1260,
+      "stars": 1278,
+      "forks": 1286,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 583,
-      "forks": 3811,
-      "added_stars": "1 star today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -55,24 +25,54 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ministryofjustice / cloud-platform-environments",
-      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
-      "description": "Environment configuration for the Cloud Platform",
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 84,
-      "forks": 39,
+      "stars": 5002,
+      "forks": 4410,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1278,
-      "forks": 1286,
-      "added_stars": "1 star today"
+      "stars": 3260,
+      "forks": 4626,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 583,
+      "forks": 3811,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2091,
+      "forks": 1260,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "zealvora / terraform-beginner-to-advanced-resource",
+      "url": "https://github.com/zealvora/terraform-beginner-to-advanced-resource",
+      "description": "HashiCorp Certified Terraform Associate 2026",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2502,
+      "forks": 6344,
+      "added_stars": "0 stars today"
     }
   ]
 }

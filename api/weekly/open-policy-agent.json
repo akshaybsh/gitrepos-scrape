@@ -2,8 +2,18 @@
   "title": "GitHub Open-policy-agent Languages Daily Trending",
   "description": "Daily Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
+    {
+      "title": "Checkmarx / kics",
+      "url": "https://github.com/Checkmarx/kics",
+      "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 2698,
+      "forks": 381,
+      "added_stars": "2 stars this week"
+    },
     {
       "title": "harness-community / harnesscd-example-apps",
       "url": "https://github.com/harness-community/harnesscd-example-apps",
@@ -15,16 +25,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Checkmarx / kics",
-      "url": "https://github.com/Checkmarx/kics",
-      "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
-      "language": "Open Policy Agent",
-      "languageColor": "#7d9199",
-      "stars": 2699,
-      "forks": 381,
-      "added_stars": "3 stars this week"
-    },
-    {
       "title": "DataDog / security-agent-policies",
       "url": "https://github.com/DataDog/security-agent-policies",
       "description": "Policies for Security Agent - compliance and runtime checks",
@@ -32,6 +32,16 @@
       "languageColor": "#7d9199",
       "stars": 26,
       "forks": 8,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "aquasecurity / trivy-checks",
+      "url": "https://github.com/aquasecurity/trivy-checks",
+      "description": "",
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 83,
+      "forks": 72,
       "added_stars": "0 stars this week"
     }
   ]

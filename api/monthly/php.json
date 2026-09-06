@@ -2,17 +2,37 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
+    {
+      "title": "kimai / kimai",
+      "url": "https://github.com/kimai/kimai",
+      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4958,
+      "forks": 840,
+      "added_stars": "99 stars this month"
+    },
+    {
+      "title": "monicahq / monica",
+      "url": "https://github.com/monicahq/monica",
+      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 25233,
+      "forks": 2600,
+      "added_stars": "303 stars this month"
+    },
     {
       "title": "nextcloud / server",
       "url": "https://github.com/nextcloud/server",
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 36719,
-      "forks": 5154,
-      "added_stars": "445 stars this month"
+      "stars": 36732,
+      "forks": 5158,
+      "added_stars": "444 stars this month"
     },
     {
       "title": "FreshRSS / FreshRSS",
@@ -20,29 +40,19 @@
       "description": "A free, self-hostable news aggregator…",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 15927,
-      "forks": 1268,
-      "added_stars": "281 stars this month"
+      "stars": 15932,
+      "forks": 1269,
+      "added_stars": "271 stars this month"
     },
     {
-      "title": "livewire / livewire",
-      "url": "https://github.com/livewire/livewire",
-      "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+      "title": "freescout-help-desk / freescout",
+      "url": "https://github.com/freescout-help-desk/freescout",
+      "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 23566,
-      "forks": 1748,
-      "added_stars": "38 stars this month"
-    },
-    {
-      "title": "firefly-iii / firefly-iii",
-      "url": "https://github.com/firefly-iii/firefly-iii",
-      "description": "Firefly III: a personal finances manager",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 24495,
-      "forks": 2275,
-      "added_stars": "329 stars this month"
+      "stars": 4524,
+      "forks": 714,
+      "added_stars": "72 stars this month"
     },
     {
       "title": "danielmiessler / SecLists",
@@ -50,9 +60,59 @@
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 73284,
-      "forks": 25107,
-      "added_stars": "791 stars this month"
+      "stars": 73301,
+      "forks": 25106,
+      "added_stars": "789 stars this month"
+    },
+    {
+      "title": "symfony / symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 31146,
+      "forks": 9865,
+      "added_stars": "63 stars this month"
+    },
+    {
+      "title": "koel / koel",
+      "url": "https://github.com/koel/koel",
+      "description": "Music streaming solution that works.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 17239,
+      "forks": 2110,
+      "added_stars": "52 stars this month"
+    },
+    {
+      "title": "firefly-iii / firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 24511,
+      "forks": 2275,
+      "added_stars": "337 stars this month"
+    },
+    {
+      "title": "matomo-org / matomo",
+      "url": "https://github.com/matomo-org/matomo",
+      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 21841,
+      "forks": 2899,
+      "added_stars": "132 stars this month"
+    },
+    {
+      "title": "opnsense / core",
+      "url": "https://github.com/opnsense/core",
+      "description": "OPNsense GUI, API and systems backend",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4670,
+      "forks": 988,
+      "added_stars": "109 stars this month"
     },
     {
       "title": "espocrm / espocrm",
@@ -62,47 +122,17 @@
       "languageColor": "#4F5D95",
       "stars": 3327,
       "forks": 969,
-      "added_stars": "147 stars this month"
+      "added_stars": "143 stars this month"
     },
     {
-      "title": "freescout-help-desk / freescout",
-      "url": "https://github.com/freescout-help-desk/freescout",
-      "description": "FreeScout — Free self-hosted omnichannel AI-powered helpdesk & shared mailbox",
+      "title": "laravel / framework",
+      "url": "https://github.com/laravel/framework",
+      "description": "Laravel is a web application framework with expressive, elegant syntax.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4524,
-      "forks": 713,
-      "added_stars": "76 stars this month"
-    },
-    {
-      "title": "symfony / symfony",
-      "url": "https://github.com/symfony/symfony",
-      "description": "The Symfony PHP framework",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 31145,
-      "forks": 9863,
-      "added_stars": "64 stars this month"
-    },
-    {
-      "title": "koel / koel",
-      "url": "https://github.com/koel/koel",
-      "description": "Music streaming solution that works.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 17238,
-      "forks": 2110,
-      "added_stars": "55 stars this month"
-    },
-    {
-      "title": "matomo-org / matomo",
-      "url": "https://github.com/matomo-org/matomo",
-      "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 21839,
-      "forks": 2899,
-      "added_stars": "133 stars this month"
+      "stars": 34900,
+      "forks": 11971,
+      "added_stars": "96 stars this month"
     },
     {
       "title": "pterodactyl / panel",
@@ -110,9 +140,9 @@
       "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 9212,
-      "forks": 2666,
-      "added_stars": "125 stars this month"
+      "stars": 9214,
+      "forks": 2668,
+      "added_stars": "117 stars this month"
     },
     {
       "title": "krayin / laravel-crm",
@@ -120,9 +150,29 @@
       "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 23837,
-      "forks": 1611,
-      "added_stars": "269 stars this month"
+      "stars": 23842,
+      "forks": 1612,
+      "added_stars": "266 stars this month"
+    },
+    {
+      "title": "glpi-project / glpi",
+      "url": "https://github.com/glpi-project/glpi",
+      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 6314,
+      "forks": 1802,
+      "added_stars": "124 stars this month"
+    },
+    {
+      "title": "relaticle / relaticle",
+      "url": "https://github.com/relaticle/relaticle",
+      "description": "Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel & Filament",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 1606,
+      "forks": 192,
+      "added_stars": "127 stars this month"
     },
     {
       "title": "elementor / elementor",
@@ -132,27 +182,7 @@
       "languageColor": "#4F5D95",
       "stars": 7067,
       "forks": 1564,
-      "added_stars": "77 stars this month"
-    },
-    {
-      "title": "glpi-project / glpi",
-      "url": "https://github.com/glpi-project/glpi",
-      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 6313,
-      "forks": 1800,
-      "added_stars": "126 stars this month"
-    },
-    {
-      "title": "monicahq / monica",
-      "url": "https://github.com/monicahq/monica",
-      "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 25228,
-      "forks": 2599,
-      "added_stars": "302 stars this month"
+      "added_stars": "56 stars this month"
     },
     {
       "title": "PrivateBin / PrivateBin",
@@ -160,19 +190,9 @@
       "description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 8585,
+      "stars": 8589,
       "forks": 1031,
-      "added_stars": "100 stars this month"
-    },
-    {
-      "title": "laravel / framework",
-      "url": "https://github.com/laravel/framework",
-      "description": "Laravel is a web application framework with expressive, elegant syntax.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 34896,
-      "forks": 11972,
-      "added_stars": "102 stars this month"
+      "added_stars": "101 stars this month"
     },
     {
       "title": "SuiteCRM / SuiteCRM",
@@ -180,29 +200,19 @@
       "description": "SuiteCRM - Open source CRM for the world",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5722,
+      "stars": 5725,
       "forks": 2416,
-      "added_stars": "104 stars this month"
+      "added_stars": "103 stars this month"
     },
     {
-      "title": "kimai / kimai",
-      "url": "https://github.com/kimai/kimai",
-      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+      "title": "livewire / livewire",
+      "url": "https://github.com/livewire/livewire",
+      "description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 4957,
-      "forks": 840,
-      "added_stars": "105 stars this month"
-    },
-    {
-      "title": "roundcube / roundcubemail",
-      "url": "https://github.com/roundcube/roundcubemail",
-      "description": "The Roundcube Webmail suite",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 7156,
-      "forks": 1779,
-      "added_stars": "57 stars this month"
+      "stars": 23565,
+      "forks": 1748,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "DenverCoder1 / github-readme-streak-stats",
@@ -212,7 +222,7 @@
       "languageColor": "#4F5D95",
       "stars": 7127,
       "forks": 1755,
-      "added_stars": "93 stars this month"
+      "added_stars": "90 stars this month"
     },
     {
       "title": "composer / composer",
@@ -221,18 +231,8 @@
       "language": "PHP",
       "languageColor": "#4F5D95",
       "stars": 29511,
-      "forks": 4834,
-      "added_stars": "40 stars this month"
-    },
-    {
-      "title": "nextcloud / all-in-one",
-      "url": "https://github.com/nextcloud/all-in-one",
-      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10376,
-      "forks": 1094,
-      "added_stars": "173 stars this month"
+      "forks": 4835,
+      "added_stars": "36 stars this month"
     }
   ]
 }

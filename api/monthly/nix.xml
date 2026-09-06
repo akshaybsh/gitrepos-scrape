@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:40:26 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -31,11 +31,6 @@
     <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
-    <title>microvm-nix / microvm.nix</title>
-    <link>https://github.com/microvm-nix/microvm.nix</link>
-    <description>NixOS MicroVMs</description>
-  </item>
-  <item>
     <title>NixOS / nixos-hardware</title>
     <link>https://github.com/NixOS/nixos-hardware</link>
     <description>A collection of NixOS modules covering hardware quirks.</description>
@@ -44,6 +39,11 @@
     <title>supabase / postgres</title>
     <link>https://github.com/supabase/postgres</link>
     <description>Unmodified Postgres with some useful extensions</description>
+  </item>
+  <item>
+    <title>microvm-nix / microvm.nix</title>
+    <link>https://github.com/microvm-nix/microvm.nix</link>
+    <description>NixOS MicroVMs</description>
   </item>
   <item>
     <title>nix-community / disko</title>
@@ -66,11 +66,6 @@
     <description>Manage system config using nix on any distro</description>
   </item>
   <item>
-    <title>sodiboo / niri-flake</title>
-    <link>https://github.com/sodiboo/niri-flake</link>
-    <description>Nix-native configuration for niri</description>
-  </item>
-  <item>
     <title>nix-community / NixOS-WSL</title>
     <link>https://github.com/nix-community/NixOS-WSL</link>
     <description>NixOS on WSL [maintainer=@nzbr]</description>
@@ -79,6 +74,11 @@
     <title>NotAShelf / nvf</title>
     <link>https://github.com/NotAShelf/nvf</link>
     <description>Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS</description>
+  </item>
+  <item>
+    <title>xddxdd / nix-cachyos-kernel</title>
+    <link>https://github.com/xddxdd/nix-cachyos-kernel</link>
+    <description>CachyOS kernel for NixOS</description>
   </item>
   <item>
     <title>Misterio77 / nix-starter-configs</title>

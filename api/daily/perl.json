@@ -2,37 +2,17 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23502,
-      "forks": 1124,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19731,
-      "forks": 2111,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3410,
-      "forks": 378,
-      "added_stars": "0 stars today"
+      "stars": 2324,
+      "forks": 642,
+      "added_stars": "1 star today"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -45,44 +25,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2664,
-      "forks": 168,
+      "stars": 19732,
+      "forks": 2111,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 5007,
-      "forks": 481,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Perl / perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2323,
-      "forks": 641,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "major / MySQLTuner-perl",
-      "url": "https://github.com/major/MySQLTuner-perl",
-      "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 9475,
-      "forks": 1288,
-      "added_stars": "0 stars today"
     },
     {
       "title": "os-autoinst / os-autoinst-distri-opensuse",
@@ -91,17 +41,57 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 92,
-      "forks": 303,
+      "forks": 304,
       "added_stars": "0 stars today"
     },
     {
-      "title": "fusioninventory / fusioninventory-agent",
-      "url": "https://github.com/fusioninventory/fusioninventory-agent",
-      "description": "FusionInventory Agent",
+      "title": "szTheory / exifcleaner",
+      "url": "https://github.com/szTheory/exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 268,
-      "forks": 124,
+      "stars": 2665,
+      "forks": 168,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "major / MySQLTuner-perl",
+      "url": "https://github.com/major/MySQLTuner-perl",
+      "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 9477,
+      "forks": 1288,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23503,
+      "forks": 1125,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 5008,
+      "forks": 481,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1514,
+      "forks": 1217,
       "added_stars": "0 stars today"
     }
   ]

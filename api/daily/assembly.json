@@ -2,67 +2,37 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3091,
+      "forks": 1015,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "pret / pokered",
       "url": "https://github.com/pret/pokered",
       "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4909,
-      "forks": 1296,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 827,
-      "forks": 209,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 487,
-      "forks": 233,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ROCm / rocm-libraries",
-      "url": "https://github.com/ROCm/rocm-libraries",
-      "description": "super repo for rocm libraries",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 417,
-      "forks": 397,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6416,
-      "forks": 474,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "apple / swift-crypto",
-      "url": "https://github.com/apple/swift-crypto",
-      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1720,
-      "forks": 220,
+      "stars": 4907,
+      "forks": 1300,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3864,
+      "forks": 130,
+      "added_stars": "7 stars today"
     },
     {
       "title": "apple / swift-nio-ssl",
@@ -75,33 +45,53 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "apple / swift-crypto",
+      "url": "https://github.com/apple/swift-crypto",
+      "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3859,
-      "forks": 129,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openhwgroup / cva6",
-      "url": "https://github.com/openhwgroup/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3091,
-      "forks": 1013,
+      "stars": 1720,
+      "forks": 222,
       "added_stars": "0 stars today"
     },
     {
-      "title": "leachim6 / hello-world",
-      "url": "https://github.com/leachim6/hello-world",
-      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11943,
-      "forks": 2114,
+      "stars": 18702,
+      "forks": 2100,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 6416,
+      "forks": 477,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "netwide-assembler / nasm",
+      "url": "https://github.com/netwide-assembler/nasm",
+      "description": "A cross-platform x86 assembler with an Intel-like syntax",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3311,
+      "forks": 421,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "hiteshchoudhary / open-source-contribution",
+      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
+      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 540,
+      "forks": 1700,
       "added_stars": "0 stars today"
     },
     {
@@ -112,6 +102,26 @@
       "languageColor": "#6E4C13",
       "stars": 2228,
       "forks": 1149,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leachim6 / hello-world",
+      "url": "https://github.com/leachim6/hello-world",
+      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 11942,
+      "forks": 2114,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kanaka / mal",
+      "url": "https://github.com/kanaka/mal",
+      "description": "mal - Make a Lisp",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 10725,
+      "forks": 2703,
       "added_stars": "1 star today"
     },
     {
@@ -120,9 +130,59 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 72284,
-      "forks": 7996,
-      "added_stars": "10 stars today"
+      "stars": 72294,
+      "forks": 7997,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1635,
+      "forks": 343,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "JSsixtyfour / smashremix",
+      "url": "https://github.com/JSsixtyfour/smashremix",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 955,
+      "forks": 80,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ROCm / rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 417,
+      "forks": 397,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "RibShark / OmniDrive",
+      "url": "https://github.com/RibShark/OmniDrive",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1112,
+      "forks": 59,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "joaorb64 / smashremix-plus-extra",
+      "url": "https://github.com/joaorb64/smashremix-plus-extra",
+      "description": "Modding engine for Smash Remix",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 116,
+      "forks": 10,
+      "added_stars": "0 stars today"
     }
   ]
 }

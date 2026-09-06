@@ -2,97 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
-      "title": "longbridge / gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13989,
-      "forks": 840,
-      "added_stars": "179 stars today"
+      "stars": 19583,
+      "forks": 595,
+      "added_stars": "280 stars today"
     },
     {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5756,
-      "forks": 406,
-      "added_stars": "113 stars today"
-    },
-    {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 117453,
-      "forks": 15525,
-      "added_stars": "42 stars today"
-    },
-    {
-      "title": "LanRhyme / MicYou",
-      "url": "https://github.com/LanRhyme/MicYou",
-      "description": "MicYou is a powerful tool that turns your Android device into a high-quality microphone for your PC.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3605,
-      "forks": 173,
-      "added_stars": "56 stars today"
-    },
-    {
-      "title": "CapSoftware / Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 21711,
-      "forks": 1864,
-      "added_stars": "95 stars today"
-    },
-    {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3220,
-      "forks": 204,
-      "added_stars": "69 stars today"
-    },
-    {
-      "title": "jj-vcs / jj",
-      "url": "https://github.com/jj-vcs/jj",
-      "description": "A Git-compatible VCS that is both simple and powerful",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31403,
-      "forks": 1201,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "confeden / Antigravity",
-      "url": "https://github.com/confeden/Antigravity",
-      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 444,
-      "forks": 30,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31023,
-      "forks": 3335,
-      "added_stars": "53 stars today"
+      "stars": 121816,
+      "forks": 18690,
+      "added_stars": "232 stars today"
     },
     {
       "title": "tonhowtf / omniget",
@@ -100,59 +30,39 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9493,
-      "forks": 798,
-      "added_stars": "102 stars today"
+      "stars": 9531,
+      "forks": 805,
+      "added_stars": "49 stars today"
     },
     {
-      "title": "farion1231 / cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "title": "longbridge / gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 131115,
-      "forks": 9018,
-      "added_stars": "182 stars today"
+      "stars": 14028,
+      "forks": 844,
+      "added_stars": "59 stars today"
     },
     {
-      "title": "arcboxlabs / arcbox",
-      "url": "https://github.com/arcboxlabs/arcbox",
-      "description": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2756,
-      "forks": 87,
-      "added_stars": "567 stars today"
+      "stars": 42020,
+      "forks": 2801,
+      "added_stars": "62 stars today"
     },
     {
-      "title": "dani-garcia / vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "title": "coulsontl / ai-toolbox",
+      "url": "https://github.com/coulsontl/ai-toolbox",
+      "description": "Personal AI Toolbox",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 66862,
-      "forks": 3184,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "ankitects / anki",
-      "url": "https://github.com/ankitects/anki",
-      "description": "Anki is a smart spaced repetition flashcard program",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30326,
-      "forks": 3184,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 78617,
-      "forks": 4966,
-      "added_stars": "142 stars today"
+      "stars": 1384,
+      "forks": 91,
+      "added_stars": "18 stars today"
     },
     {
       "title": "GreptimeTeam / greptimedb",
@@ -160,9 +70,99 @@
       "description": "The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6623,
-      "forks": 539,
+      "stars": 6632,
+      "forks": 540,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "jlcodes99 / cockpit-tools",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17117,
+      "forks": 1509,
+      "added_stars": "56 stars today"
+    },
+    {
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 66908,
+      "forks": 3186,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "slint-ui / slint",
+      "url": "https://github.com/slint-ui/slint",
+      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 23720,
+      "forks": 991,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "claration / Impactor",
+      "url": "https://github.com/claration/Impactor",
+      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3153,
+      "forks": 199,
       "added_stars": "11 stars today"
+    },
+    {
+      "title": "clockworklabs / SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25099,
+      "forks": 1060,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7977,
+      "forks": 1550,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "nolabs-ai / nono",
+      "url": "https://github.com/nolabs-ai/nono",
+      "description": "secure multiplexed execution paths for agents - zero trust, zero setup, zero latency.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3978,
+      "forks": 256,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "astral-sh / ruff",
+      "url": "https://github.com/astral-sh/ruff",
+      "description": "An extremely fast Python linter and code formatter, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 49512,
+      "forks": 2389,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "espanso / espanso",
+      "url": "https://github.com/espanso/espanso",
+      "description": "A Privacy-first, Cross-platform Text Expander written in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14435,
+      "forks": 462,
+      "added_stars": "10 stars today"
     }
   ]
 }

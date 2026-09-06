@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "karpathy / llm.c",
@@ -10,9 +10,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30929,
+      "stars": 30935,
       "forks": 3759,
-      "added_stars": "48 stars this week"
+      "added_stars": "53 stars this week"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -20,9 +20,9 @@
       "description": "cuVS - a library for vector search and clustering on the GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 845,
+      "stars": 847,
       "forks": 231,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -32,7 +32,7 @@
       "languageColor": "#3A4E3A",
       "stars": 1033,
       "forks": 226,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -40,19 +40,9 @@
       "description": "Instant neural graphics primitives: lightning fast NeRF and more",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 17543,
+      "stars": 17541,
       "forks": 2064,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "HazyResearch / ThunderKittens",
-      "url": "https://github.com/HazyResearch/ThunderKittens",
-      "description": "Tile primitives for speedy kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3667,
-      "forks": 319,
-      "added_stars": "11 stars this week"
+      "added_stars": "10 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -65,24 +55,14 @@
       "added_stars": "7 stars this week"
     },
     {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3245,
-      "forks": 290,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2475,
-      "forks": 245,
-      "added_stars": "16 stars this week"
+      "stars": 3666,
+      "forks": 319,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "alibaba / rtp-llm",
@@ -91,8 +71,28 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 1326,
-      "forks": 271,
+      "forks": 270,
       "added_stars": "7 stars this week"
+    },
+    {
+      "title": "BBuf / how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3244,
+      "forks": 290,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2478,
+      "forks": 245,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -103,26 +103,6 @@
       "stars": 3702,
       "forks": 501,
       "added_stars": "20 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7779,
-      "forks": 1229,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "MoonshotAI / FlashKDA",
-      "url": "https://github.com/MoonshotAI/FlashKDA",
-      "description": "FlashKDA: high-performance Kimi Delta Attention kernels",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1246,
-      "forks": 121,
-      "added_stars": "14 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27437,
-      "forks": 7712,
-      "added_stars": "38 stars this week"
+      "stars": 27438,
+      "forks": 7710,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,7 +20,7 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1732,
+      "stars": 1735,
       "forks": 250,
       "added_stars": "14 stars this week"
     },
@@ -42,16 +42,16 @@
       "languageColor": "#DA3434",
       "stars": 1634,
       "forks": 128,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
-      "title": "jrl-umi3218 / jrl-cmakemodules",
-      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
-      "description": "CMake utility toolbox",
+      "title": "KIT-MRT / mrt_cmake_modules",
+      "url": "https://github.com/KIT-MRT/mrt_cmake_modules",
+      "description": "Automated catkin project handling framework",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 78,
-      "forks": 58,
+      "stars": 44,
+      "forks": 28,
       "added_stars": "0 stars this week"
     },
     {
@@ -65,33 +65,13 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "steinbergmedia / vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 2348,
-      "forks": 227,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "KIT-MRT / mrt_cmake_modules",
-      "url": "https://github.com/KIT-MRT/mrt_cmake_modules",
-      "description": "Automated catkin project handling framework",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 44,
-      "forks": 28,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "arsenm / sanitizers-cmake",
-      "url": "https://github.com/arsenm/sanitizers-cmake",
-      "description": "CMake modules to help use sanitizers",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 412,
-      "forks": 74,
+      "stars": 78,
+      "forks": 58,
       "added_stars": "0 stars this week"
     },
     {
@@ -105,14 +85,24 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "arsenm / sanitizers-cmake",
+      "url": "https://github.com/arsenm/sanitizers-cmake",
+      "description": "CMake modules to help use sanitizers",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 412,
+      "forks": 74,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "Andersama / obs-asio",
       "url": "https://github.com/Andersama/obs-asio",
       "description": "ASIO plugin for OBS-Studio",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 843,
+      "stars": 844,
       "forks": 53,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
     }
   ]
 }

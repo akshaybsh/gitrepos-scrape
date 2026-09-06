@@ -2,8 +2,18 @@
   "title": "GitHub Al Languages Daily Trending",
   "description": "Daily Trending of Al Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
+    {
+      "title": "microsoft / BCApps",
+      "url": "https://github.com/microsoft/BCApps",
+      "description": "Repository for collaboration on Microsoft Dynamics 365 Business Central applications.",
+      "language": "AL",
+      "languageColor": "#3AA2B5",
+      "stars": 678,
+      "forks": 450,
+      "added_stars": "5 stars this week"
+    },
     {
       "title": "microsoft / ALAppExtensions",
       "url": "https://github.com/microsoft/ALAppExtensions",
@@ -15,14 +25,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "microsoft / BCApps",
-      "url": "https://github.com/microsoft/BCApps",
-      "description": "Repository for collaboration on Microsoft Dynamics 365 Business Central applications.",
+      "title": "microsoft / BCQuality",
+      "url": "https://github.com/microsoft/BCQuality",
+      "description": "Quality skills and knowledge for Business Central development. The shared bar for humans and agents alike.",
       "language": "AL",
       "languageColor": "#3AA2B5",
-      "stars": 678,
-      "forks": 450,
-      "added_stars": "5 stars this week"
+      "stars": 206,
+      "forks": 110,
+      "added_stars": "3 stars this week"
     }
   ]
 }

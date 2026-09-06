@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27231,
-      "forks": 12405,
-      "added_stars": "11 stars this week"
+      "stars": 27230,
+      "forks": 12404,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "ensdomains / contracts-v2",
@@ -30,9 +30,9 @@
       "description": "The Ethereum Request for Comment repository",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 750,
+      "stars": 751,
       "forks": 1053,
-      "added_stars": "8 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -45,16 +45,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "a16z / erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 223,
-      "forks": 44,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "dapphub / ds-test",
       "url": "https://github.com/dapphub/ds-test",
       "description": "Assertions, equality checks and other test helpers",
@@ -62,6 +52,26 @@
       "languageColor": "#AA6746",
       "stars": 239,
       "forks": 75,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho's non-custodial vault protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 100,
+      "forks": 74,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 223,
+      "forks": 44,
       "added_stars": "1 star this week"
     },
     {
@@ -82,17 +92,7 @@
       "languageColor": "#AA6746",
       "stars": 3369,
       "forks": 487,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho's non-custodial vault protocol",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 100,
-      "forks": 74,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "Uniswap / v4-core",
@@ -101,7 +101,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 2526,
-      "forks": 1317,
+      "forks": 1319,
       "added_stars": "2 stars this week"
     },
     {
@@ -135,14 +135,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "aave-dao / aave-v3-origin",
-      "url": "https://github.com/aave-dao/aave-v3-origin",
-      "description": "Aave V3 Protocol",
+      "title": "matter-labs / era-contracts",
+      "url": "https://github.com/matter-labs/era-contracts",
+      "description": "Smart Contract Submodule For zkSync Era",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 289,
-      "forks": 227,
-      "added_stars": "0 stars this week"
+      "stars": 538,
+      "forks": 422,
+      "added_stars": "1 star this week"
     },
     {
       "title": "Uniswap / v4-periphery",
@@ -155,14 +155,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "matter-labs / era-contracts",
-      "url": "https://github.com/matter-labs/era-contracts",
-      "description": "Smart Contract Submodule For zkSync Era",
+      "title": "aave-dao / aave-v3-origin",
+      "url": "https://github.com/aave-dao/aave-v3-origin",
+      "description": "Aave V3 Protocol",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 538,
-      "forks": 422,
-      "added_stars": "1 star this week"
+      "stars": 289,
+      "forks": 227,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "OffchainLabs / nitro-contracts",
+      "url": "https://github.com/OffchainLabs/nitro-contracts",
+      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 151,
+      "forks": 158,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "OpenZeppelin / openzeppelin-foundry-upgrades",

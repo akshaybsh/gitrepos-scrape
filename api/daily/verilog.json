@@ -2,8 +2,38 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
+    {
+      "title": "The-OpenROAD-Project / OpenROAD",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 3068,
+      "forks": 1002,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 729,
+      "forks": 523,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "EttusResearch / uhd",
+      "url": "https://github.com/EttusResearch/uhd",
+      "description": "The USRP™ Hardware Driver Repository",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 1274,
+      "forks": 777,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "analogdevicesinc / hdl",
       "url": "https://github.com/analogdevicesinc/hdl",
@@ -12,37 +42,7 @@
       "languageColor": "#b2b7f8",
       "stars": 2006,
       "forks": 1682,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vortexgpgpu / vortex",
-      "url": "https://github.com/vortexgpgpu/vortex",
-      "description": "",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 2236,
-      "forks": 540,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "EttusResearch / uhd",
-      "url": "https://github.com/EttusResearch/uhd",
-      "description": "The USRP™ Hardware Driver Repository",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 1273,
-      "forks": 777,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "The-OpenROAD-Project / OpenROAD",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 3064,
-      "forks": 1002,
-      "added_stars": "9 stars today"
     }
   ]
 }

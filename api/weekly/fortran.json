@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "GEOS-ESM / MAPL",
@@ -13,6 +13,26 @@
       "stars": 43,
       "forks": 25,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 440,
+      "forks": 481,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1199,
+      "forks": 496,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "NGEET / fates",
@@ -35,14 +55,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1198,
-      "forks": 496,
-      "added_stars": "3 stars this week"
+      "stars": 31,
+      "forks": 115,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -52,6 +72,26 @@
       "languageColor": "#4d41b1",
       "stars": 26,
       "forks": 72,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1691,
+      "forks": 394,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 54,
+      "forks": 19,
       "added_stars": "0 stars this week"
     },
     {
@@ -65,16 +105,6 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 439,
-      "forks": 481,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "ecmwf / fckit",
       "url": "https://github.com/ecmwf/fckit",
       "description": "A Fortran toolkit for interoperating Fortran with C/C++",
@@ -85,34 +115,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MetOffice / lfric_apps",
-      "url": "https://github.com/MetOffice/lfric_apps",
-      "description": "LFRic Applications",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 31,
-      "forks": 115,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "MCSclimate / MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 54,
-      "forks": 19,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "firemodels / fds",
       "url": "https://github.com/firemodels/fds",
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 867,
+      "stars": 868,
       "forks": 686,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "wrf-model / WRF",
@@ -123,16 +133,6 @@
       "stars": 1747,
       "forks": 881,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "MFlowCode / MFC",
-      "url": "https://github.com/MFlowCode/MFC",
-      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 417,
-      "forks": 171,
-      "added_stars": "5 stars this week"
     }
   ]
 }

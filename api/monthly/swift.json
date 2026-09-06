@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "vorssaint / vorssaint-utils",
@@ -10,9 +10,9 @@
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 15317,
-      "forks": 541,
-      "added_stars": "11,071 stars this month"
+      "stars": 15542,
+      "forks": 558,
+      "added_stars": "11,072 stars this month"
     },
     {
       "title": "Lakr233 / vphone-cli",
@@ -20,9 +20,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10576,
-      "forks": 1356,
-      "added_stars": "2,955 stars this month"
+      "stars": 10815,
+      "forks": 1382,
+      "added_stars": "3,201 stars this month"
     },
     {
       "title": "jaywcjlove / awesome-mac",
@@ -30,9 +30,9 @@
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 112495,
-      "forks": 8667,
-      "added_stars": "3,512 stars this month"
+      "stars": 112613,
+      "forks": 8687,
+      "added_stars": "3,537 stars this month"
     },
     {
       "title": "nikitabobko / AeroSpace",
@@ -40,49 +40,9 @@
       "description": "AeroSpace is an i3-like tiling window manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 22863,
-      "forks": 664,
-      "added_stars": "756 stars this month"
-    },
-    {
-      "title": "BarutSRB / OmniWM",
-      "url": "https://github.com/BarutSRB/OmniWM",
-      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2718,
-      "forks": 111,
-      "added_stars": "404 stars this month"
-    },
-    {
-      "title": "ronitsingh10 / FineTune",
-      "url": "https://github.com/ronitsingh10/FineTune",
-      "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 9149,
-      "forks": 338,
-      "added_stars": "638 stars this month"
-    },
-    {
-      "title": "iina / iina",
-      "url": "https://github.com/iina/iina",
-      "description": "The modern video player for macOS.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 46213,
-      "forks": 2912,
-      "added_stars": "460 stars this month"
-    },
-    {
-      "title": "utmapp / UTM",
-      "url": "https://github.com/utmapp/UTM",
-      "description": "Virtual machines for iOS and macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 35355,
-      "forks": 1808,
-      "added_stars": "519 stars this month"
+      "stars": 22879,
+      "forks": 666,
+      "added_stars": "739 stars this month"
     },
     {
       "title": "sozercan / kaset",
@@ -90,9 +50,49 @@
       "description": "📼 The missing YouTube and YouTube Music macOS app",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2191,
+      "stars": 2196,
       "forks": 145,
-      "added_stars": "468 stars this month"
+      "added_stars": "465 stars this month"
+    },
+    {
+      "title": "utmapp / UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 35364,
+      "forks": 1808,
+      "added_stars": "519 stars this month"
+    },
+    {
+      "title": "ronitsingh10 / FineTune",
+      "url": "https://github.com/ronitsingh10/FineTune",
+      "description": "FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 9162,
+      "forks": 338,
+      "added_stars": "645 stars this month"
+    },
+    {
+      "title": "BarutSRB / OmniWM",
+      "url": "https://github.com/BarutSRB/OmniWM",
+      "description": "MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2727,
+      "forks": 111,
+      "added_stars": "389 stars this month"
+    },
+    {
+      "title": "iina / iina",
+      "url": "https://github.com/iina/iina",
+      "description": "The modern video player for macOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 46228,
+      "forks": 2913,
+      "added_stars": "458 stars this month"
     },
     {
       "title": "LiveContainer / LiveContainer",
@@ -100,49 +100,9 @@
       "description": "Run iOS apps without actually installing them!",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11904,
-      "forks": 946,
-      "added_stars": "1,431 stars this month"
-    },
-    {
-      "title": "TheBoredTeam / boring.notch",
-      "url": "https://github.com/TheBoredTeam/boring.notch",
-      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 10614,
-      "forks": 979,
-      "added_stars": "410 stars this month"
-    },
-    {
-      "title": "alielsokary / CaskHub",
-      "url": "https://github.com/alielsokary/CaskHub",
-      "description": "Native GUI for Homebrew Casks",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1119,
-      "forks": 49,
-      "added_stars": "684 stars this month"
-    },
-    {
-      "title": "p0deje / Maccy",
-      "url": "https://github.com/p0deje/Maccy",
-      "description": "Lightweight clipboard manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 21475,
-      "forks": 1137,
-      "added_stars": "494 stars this month"
-    },
-    {
-      "title": "frankea / Whisky",
-      "url": "https://github.com/frankea/Whisky",
-      "description": "Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 627,
-      "forks": 39,
-      "added_stars": "270 stars this month"
+      "stars": 11939,
+      "forks": 953,
+      "added_stars": "1,435 stars this month"
     },
     {
       "title": "apple / coreai-models",
@@ -150,69 +110,39 @@
       "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2053,
-      "forks": 195,
+      "stars": 2056,
+      "forks": 196,
       "added_stars": "601 stars this month"
     },
     {
-      "title": "pluk-inc / markdown-preview",
-      "url": "https://github.com/pluk-inc/markdown-preview",
-      "description": "A simple Markdown viewer for reading .md files",
+      "title": "TheBoredTeam / boring.notch",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2271,
-      "forks": 107,
-      "added_stars": "508 stars this month"
+      "stars": 10624,
+      "forks": 982,
+      "added_stars": "415 stars this month"
     },
     {
-      "title": "abue-ammar / tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. CA: 682r79Fjc3U2aMEZASFSbd5SW2u4bzqfVPAHofsipump",
+      "title": "p0deje / Maccy",
+      "url": "https://github.com/p0deje/Maccy",
+      "description": "Lightweight clipboard manager for macOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2184,
-      "forks": 144,
-      "added_stars": "879 stars this month"
+      "stars": 21489,
+      "forks": 1138,
+      "added_stars": "495 stars this month"
     },
     {
-      "title": "TelegramMessenger / Telegram-iOS",
-      "url": "https://github.com/TelegramMessenger/Telegram-iOS",
-      "description": "Telegram-iOS",
+      "title": "alielsokary / CaskHub",
+      "url": "https://github.com/alielsokary/CaskHub",
+      "description": "Native GUI for Homebrew Casks",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 8938,
-      "forks": 2865,
-      "added_stars": "152 stars this month"
-    },
-    {
-      "title": "Alamofire / Alamofire",
-      "url": "https://github.com/Alamofire/Alamofire",
-      "description": "Elegant HTTP Networking in Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 42428,
-      "forks": 7660,
-      "added_stars": "57 stars this month"
-    },
-    {
-      "title": "exelban / stats",
-      "url": "https://github.com/exelban/stats",
-      "description": "macOS system monitor in your menu bar",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 41613,
-      "forks": 1512,
-      "added_stars": "704 stars this month"
-    },
-    {
-      "title": "rxhanson / Rectangle",
-      "url": "https://github.com/rxhanson/Rectangle",
-      "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 29827,
-      "forks": 984,
-      "added_stars": "244 stars this month"
+      "stars": 1133,
+      "forks": 51,
+      "added_stars": "702 stars this month"
     },
     {
       "title": "Beingpax / VoiceInk",
@@ -220,9 +150,69 @@
       "description": "The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6303,
-      "forks": 898,
-      "added_stars": "536 stars this month"
+      "stars": 6322,
+      "forks": 900,
+      "added_stars": "545 stars this month"
+    },
+    {
+      "title": "frankea / Whisky",
+      "url": "https://github.com/frankea/Whisky",
+      "description": "Active community fork of the archived whisky-app/whisky — a modern Wine wrapper for macOS built with SwiftUI",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 641,
+      "forks": 40,
+      "added_stars": "292 stars this month"
+    },
+    {
+      "title": "pluk-inc / markdown-preview",
+      "url": "https://github.com/pluk-inc/markdown-preview",
+      "description": "A simple Markdown viewer for reading .md files",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2276,
+      "forks": 109,
+      "added_stars": "506 stars this month"
+    },
+    {
+      "title": "abue-ammar / tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. CA: 682r79Fjc3U2aMEZASFSbd5SW2u4bzqfVPAHofsipump",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2223,
+      "forks": 144,
+      "added_stars": "944 stars this month"
+    },
+    {
+      "title": "exelban / stats",
+      "url": "https://github.com/exelban/stats",
+      "description": "macOS system monitor in your menu bar",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 41618,
+      "forks": 1513,
+      "added_stars": "692 stars this month"
+    },
+    {
+      "title": "Alamofire / Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 42423,
+      "forks": 7661,
+      "added_stars": "55 stars this month"
+    },
+    {
+      "title": "rxhanson / Rectangle",
+      "url": "https://github.com/rxhanson/Rectangle",
+      "description": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 29834,
+      "forks": 984,
+      "added_stars": "247 stars this month"
     }
   ]
 }

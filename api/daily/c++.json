@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
       "title": "fmtlib / fmt",
@@ -10,19 +10,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25500,
-      "forks": 3035,
-      "added_stars": "688 stars today"
-    },
-    {
-      "title": "audacity / audacity",
-      "url": "https://github.com/audacity/audacity",
-      "description": "Audio Editor",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18218,
-      "forks": 2639,
-      "added_stars": "272 stars today"
+      "stars": 25589,
+      "forks": 3043,
+      "added_stars": "134 stars today"
     },
     {
       "title": "nlohmann / json",
@@ -30,29 +20,59 @@
       "description": "JSON for Modern C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50540,
-      "forks": 7493,
-      "added_stars": "17 stars today"
+      "stars": 50547,
+      "forks": 7495,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "abseil / abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
+      "title": "nextcloud / desktop",
+      "url": "https://github.com/nextcloud/desktop",
+      "description": "💻 Desktop sync client for Nextcloud",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18124,
-      "forks": 3200,
+      "stars": 3859,
+      "forks": 1000,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "google / flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 26436,
+      "forks": 3648,
       "added_stars": "1 star today"
     },
     {
-      "title": "tenstorrent / tt-metal",
-      "url": "https://github.com/tenstorrent/tt-metal",
-      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "title": "imputnet / helium",
+      "url": "https://github.com/imputnet/helium",
+      "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1659,
-      "forks": 643,
-      "added_stars": "0 stars today"
+      "stars": 20309,
+      "forks": 561,
+      "added_stars": "111 stars today"
+    },
+    {
+      "title": "audacity / audacity",
+      "url": "https://github.com/audacity/audacity",
+      "description": "Audio Editor",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18278,
+      "forks": 2648,
+      "added_stars": "85 stars today"
+    },
+    {
+      "title": "noctalia-dev / noctalia",
+      "url": "https://github.com/noctalia-dev/noctalia",
+      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10275,
+      "forks": 777,
+      "added_stars": "65 stars today"
     },
     {
       "title": "alibaba / zvec",
@@ -60,109 +80,39 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15786,
+      "stars": 15800,
       "forks": 992,
-      "added_stars": "77 stars today"
+      "added_stars": "15 stars today"
     },
     {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
+      "title": "crosire / reshade",
+      "url": "https://github.com/crosire/reshade",
+      "description": "A generic post-processing injector for games and video software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 71999,
-      "forks": 16270,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "dragonflydb / dragonfly",
-      "url": "https://github.com/dragonflydb/dragonfly",
-      "description": "A modern replacement for Redis and Memcached",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31410,
-      "forks": 1254,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "cloudflare / workerd",
-      "url": "https://github.com/cloudflare/workerd",
-      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8685,
-      "forks": 731,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "ocornut / imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 76069,
-      "forks": 12040,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "prusa3d / PrusaSlicer",
-      "url": "https://github.com/prusa3d/PrusaSlicer",
-      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9300,
-      "forks": 2336,
+      "stars": 5441,
+      "forks": 706,
       "added_stars": "10 stars today"
     },
     {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "title": "Neroued / ninfer",
+      "url": "https://github.com/Neroued/ninfer",
+      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10330,
-      "forks": 422,
-      "added_stars": "53 stars today"
+      "stars": 1439,
+      "forks": 256,
+      "added_stars": "45 stars today"
     },
     {
-      "title": "google / benchmark",
-      "url": "https://github.com/google/benchmark",
-      "description": "A microbenchmark support library",
+      "title": "SpriteOvO / AirPodsDesktop",
+      "url": "https://github.com/SpriteOvO/AirPodsDesktop",
+      "description": "☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10385,
-      "forks": 1797,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ZLMediaKit / ZLMediaKit",
-      "url": "https://github.com/ZLMediaKit/ZLMediaKit",
-      "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17497,
-      "forks": 4125,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "drogonframework / drogon",
-      "url": "https://github.com/drogonframework/drogon",
-      "description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14251,
-      "forks": 1378,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "MaaAssistantArknights / MaaAssistantArknights",
-      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 23026,
-      "forks": 2822,
-      "added_stars": "35 stars today"
+      "stars": 3265,
+      "forks": 195,
+      "added_stars": "40 stars today"
     },
     {
       "title": "praydog / REFramework",
@@ -170,29 +120,99 @@
       "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5412,
-      "forks": 613,
-      "added_stars": "16 stars today"
+      "stars": 5417,
+      "forks": 614,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "CalcProgrammer1 / OpenRGB",
-      "url": "https://github.com/CalcProgrammer1/OpenRGB",
-      "description": "Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.",
+      "title": "MaaAssistantArknights / MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4386,
-      "forks": 413,
+      "stars": 23062,
+      "forks": 2824,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "electron / electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122901,
+      "forks": 17462,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "google / filament",
+      "url": "https://github.com/google/filament",
+      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 20461,
+      "forks": 2250,
       "added_stars": "9 stars today"
     },
     {
-      "title": "mavlink / qgroundcontrol",
-      "url": "https://github.com/mavlink/qgroundcontrol",
-      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "title": "PlotJuggler / PlotJuggler",
+      "url": "https://github.com/PlotJuggler/PlotJuggler",
+      "description": "The Time Series Visualization Tool that you deserve.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4897,
-      "forks": 5024,
+      "stars": 6155,
+      "forks": 819,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2761,
+      "forks": 2198,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "tesseract-ocr / tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 76352,
+      "forks": 10792,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "prusa3d / PrusaSlicer",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 9304,
+      "forks": 2338,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "zhongyang219 / TrafficMonitor",
+      "url": "https://github.com/zhongyang219/TrafficMonitor",
+      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 46050,
+      "forks": 3789,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "FreeCAD / FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 33303,
+      "forks": 5995,
+      "added_stars": "31 stars today"
     }
   ]
 }

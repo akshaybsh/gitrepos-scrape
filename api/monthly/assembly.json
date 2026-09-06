@@ -2,7 +2,7 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "vxunderground / MalwareSourceCode",
@@ -10,19 +10,9 @@
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18703,
+      "stars": 18702,
       "forks": 2100,
-      "added_stars": "145 stars this month"
-    },
-    {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1634,
-      "forks": 341,
-      "added_stars": "39 stars this month"
+      "added_stars": "139 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -32,17 +22,27 @@
       "languageColor": "#6E4C13",
       "stars": 417,
       "forks": 397,
-      "added_stars": "21 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
-      "title": "pret / pokered",
-      "url": "https://github.com/pret/pokered",
-      "description": "Disassembly of Pokémon Red/Blue",
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 4909,
-      "forks": 1296,
-      "added_stars": "62 stars this month"
+      "stars": 3091,
+      "forks": 1015,
+      "added_stars": "38 stars this month"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1635,
+      "forks": 343,
+      "added_stars": "39 stars this month"
     },
     {
       "title": "apache / arrow-go",
@@ -52,7 +52,7 @@
       "languageColor": "#6E4C13",
       "stars": 401,
       "forks": 140,
-      "added_stars": "10 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "pq-code-package / mlkem-native",
@@ -65,24 +65,14 @@
       "added_stars": "12 stars this month"
     },
     {
-      "title": "openhwgroup / cva6",
-      "url": "https://github.com/openhwgroup/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "title": "pret / pokered",
+      "url": "https://github.com/pret/pokered",
+      "description": "Disassembly of Pokémon Red/Blue",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3091,
-      "forks": 1013,
-      "added_stars": "40 stars this month"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 827,
-      "forks": 209,
-      "added_stars": "17 stars this month"
+      "stars": 4907,
+      "forks": 1300,
+      "added_stars": "60 stars this month"
     },
     {
       "title": "livekit / rust-sdks",
@@ -90,9 +80,49 @@
       "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 487,
-      "forks": 233,
-      "added_stars": "15 stars this month"
+      "stars": 488,
+      "forks": 236,
+      "added_stars": "14 stars this month"
+    },
+    {
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 828,
+      "forks": 211,
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3864,
+      "forks": 130,
+      "added_stars": "108 stars this month"
+    },
+    {
+      "title": "RibShark / OmniDrive",
+      "url": "https://github.com/RibShark/OmniDrive",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1112,
+      "forks": 59,
+      "added_stars": "98 stars this month"
+    },
+    {
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2497,
+      "forks": 972,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "joaorb64 / smashremix-plus-extra",
@@ -102,47 +132,7 @@
       "languageColor": "#6E4C13",
       "stars": 116,
       "forks": 10,
-      "added_stars": "21 stars this month"
-    },
-    {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3859,
-      "forks": 129,
-      "added_stars": "103 stars this month"
-    },
-    {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1109,
-      "forks": 60,
-      "added_stars": "96 stars this month"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2496,
-      "forks": 970,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
-      "url": "https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy",
-      "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 295,
-      "forks": 59,
-      "added_stars": "9 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "BLAKE3-team / BLAKE3",
@@ -151,7 +141,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 6416,
-      "forks": 474,
+      "forks": 477,
       "added_stars": "69 stars this month"
     },
     {
@@ -162,7 +152,7 @@
       "languageColor": "#6E4C13",
       "stars": 5350,
       "forks": 431,
-      "added_stars": "29 stars this month"
+      "added_stars": "26 stars this month"
     },
     {
       "title": "bitdump / BLHeli",
@@ -175,34 +165,34 @@
       "added_stars": "7 stars this month"
     },
     {
+      "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
+      "url": "https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy",
+      "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 296,
+      "forks": 59,
+      "added_stars": "9 stars this month"
+    },
+    {
       "title": "cemu-project / cemu_graphic_packs",
       "url": "https://github.com/cemu-project/cemu_graphic_packs",
       "description": "Community Graphic Packs for Cemu",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1472,
+      "stars": 1473,
       "forks": 599,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
-      "title": "JSsixtyfour / smashremix",
-      "url": "https://github.com/JSsixtyfour/smashremix",
-      "description": "",
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 955,
-      "forks": 80,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "SheerSt / pokewilds",
-      "url": "https://github.com/SheerSt/pokewilds",
-      "description": "PokeWilds - A Gen 2 Game/Engine using libGDX",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2882,
-      "forks": 217,
-      "added_stars": "17 stars this month"
+      "stars": 783,
+      "forks": 358,
+      "added_stars": "20 stars this month"
     }
   ]
 }

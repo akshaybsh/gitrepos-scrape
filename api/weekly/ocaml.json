@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "semgrep / semgrep",
@@ -10,9 +10,9 @@
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 16517,
+      "stars": 16525,
       "forks": 1048,
-      "added_stars": "93 stars this week"
+      "added_stars": "96 stars this week"
     },
     {
       "title": "facebook / infer",
@@ -20,19 +20,9 @@
       "description": "A static analyzer for Java, C, C++, and Objective-C",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 15702,
+      "stars": 15701,
       "forks": 2100,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "MinaProtocol / mina",
-      "url": "https://github.com/MinaProtocol/mina",
-      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 2118,
-      "forks": 584,
-      "added_stars": "1 star this week"
+      "added_stars": "15 stars this week"
     },
     {
       "title": "opengrep / opengrep",
@@ -40,9 +30,49 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3042,
+      "stars": 3043,
       "forks": 257,
-      "added_stars": "43 stars this week"
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "MinaProtocol / mina",
+      "url": "https://github.com/MinaProtocol/mina",
+      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2119,
+      "forks": 584,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 6554,
+      "forks": 1421,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "savonet / liquidsoap",
+      "url": "https://github.com/savonet/liquidsoap",
+      "description": "Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1726,
+      "forks": 160,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "AeneasVerif / aeneas",
+      "url": "https://github.com/AeneasVerif/aeneas",
+      "description": "A verification toolchain for Rust programs",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 946,
+      "forks": 103,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
@@ -53,36 +83,6 @@
       "stars": 60,
       "forks": 11,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "savonet / liquidsoap",
-      "url": "https://github.com/savonet/liquidsoap",
-      "description": "Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1725,
-      "forks": 160,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "AeneasVerif / aeneas",
-      "url": "https://github.com/AeneasVerif/aeneas",
-      "description": "A verification toolchain for Rust programs",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 946,
-      "forks": 103,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "ocaml / ocaml",
-      "url": "https://github.com/ocaml/ocaml",
-      "description": "The core OCaml system: compilers, runtime system, base libraries",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 6553,
-      "forks": 1421,
-      "added_stars": "19 stars this week"
     },
     {
       "title": "ocaml / dune",
@@ -102,7 +102,17 @@
       "languageColor": "#ef7a08",
       "stars": 1391,
       "forks": 58,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 873,
+      "forks": 176,
+      "added_stars": "16 stars this week"
     }
   ]
 }

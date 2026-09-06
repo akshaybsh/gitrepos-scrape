@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
       "title": "wrf-model / WRF",
@@ -15,23 +15,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 439,
-      "forks": 481,
-      "added_stars": "0 stars today"
+      "stars": 405,
+      "forks": 757,
+      "added_stars": "1 star today"
     },
     {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 867,
-      "forks": 686,
+      "stars": 1199,
+      "forks": 496,
       "added_stars": "0 stars today"
     },
     {
@@ -42,7 +42,27 @@
       "languageColor": "#4d41b1",
       "stars": 962,
       "forks": 538,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1691,
+      "forks": 394,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 440,
+      "forks": 481,
+      "added_stars": "1 star today"
     },
     {
       "title": "OpenRadioss / OpenRadioss",
@@ -50,19 +70,19 @@
       "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 867,
+      "stars": 868,
       "forks": 390,
       "added_stars": "2 stars today"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1198,
-      "forks": 496,
-      "added_stars": "0 stars today"
+      "stars": 868,
+      "forks": 686,
+      "added_stars": "1 star today"
     }
   ]
 }

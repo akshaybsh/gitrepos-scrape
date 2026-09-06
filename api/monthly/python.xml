@@ -4,7 +4,7 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:40:26 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
   <item>
     <title>semantica-agi / semantica</title>
     <link>https://github.com/semantica-agi/semantica</link>
@@ -26,14 +26,14 @@
     <description>The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs</description>
   </item>
   <item>
-    <title>cactus-compute / needle</title>
-    <link>https://github.com/cactus-compute/needle</link>
-    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
-  </item>
-  <item>
     <title>youssofal / MTPLX</title>
     <link>https://github.com/youssofal/MTPLX</link>
     <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
+  </item>
+  <item>
+    <title>cactus-compute / needle</title>
+    <link>https://github.com/cactus-compute/needle</link>
+    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
   </item>
   <item>
     <title>3b1b / manim</title>
@@ -41,9 +41,9 @@
     <description>Animation engine for explanatory math videos</description>
   </item>
   <item>
-    <title>google / skills</title>
-    <link>https://github.com/google/skills</link>
-    <description>Agent Skills for Google products and technologies</description>
+    <title>debpalash / VoiceStudio</title>
+    <link>https://github.com/debpalash/VoiceStudio</link>
+    <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
   </item>
   <item>
     <title>public-apis / public-apis</title>
@@ -51,29 +51,14 @@
     <description>A collective list of free APIs</description>
   </item>
   <item>
-    <title>debpalash / VoiceStudio</title>
-    <link>https://github.com/debpalash/VoiceStudio</link>
-    <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
-  </item>
-  <item>
-    <title>megadose / holehe</title>
-    <link>https://github.com/megadose/holehe</link>
-    <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
-  </item>
-  <item>
     <title>abi / screenshot-to-code</title>
     <link>https://github.com/abi/screenshot-to-code</link>
     <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
   </item>
   <item>
-    <title>huangruiteng / loopx</title>
-    <link>https://github.com/huangruiteng/loopx</link>
-    <description>Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.</description>
-  </item>
-  <item>
-    <title>ayghri / i-have-adhd</title>
-    <link>https://github.com/ayghri/i-have-adhd</link>
-    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
+    <title>megadose / holehe</title>
+    <link>https://github.com/megadose/holehe</link>
+    <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
   </item>
   <item>
     <title>unslothai / unsloth</title>
@@ -86,24 +71,9 @@
     <description>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</description>
   </item>
   <item>
-    <title>donnemartin / system-design-primer</title>
-    <link>https://github.com/donnemartin/system-design-primer</link>
-    <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
-  </item>
-  <item>
     <title>blader / humanizer</title>
     <link>https://github.com/blader/humanizer</link>
     <description>Agent skill that removes signs of AI-generated writing from text</description>
-  </item>
-  <item>
-    <title>p-e-w / heretic</title>
-    <link>https://github.com/p-e-w/heretic</link>
-    <description>Fully automatic censorship removal for language models</description>
-  </item>
-  <item>
-    <title>virgiliojr94 / book-to-skill</title>
-    <link>https://github.com/virgiliojr94/book-to-skill</link>
-    <description>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</description>
   </item>
   <item>
     <title>harry0703 / MoneyPrinterTurbo</title>
@@ -111,9 +81,39 @@
     <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
   </item>
   <item>
+    <title>donnemartin / system-design-primer</title>
+    <link>https://github.com/donnemartin/system-design-primer</link>
+    <description>Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</description>
+  </item>
+  <item>
+    <title>p-e-w / heretic</title>
+    <link>https://github.com/p-e-w/heretic</link>
+    <description>Fully automatic censorship removal for language models</description>
+  </item>
+  <item>
+    <title>ayghri / i-have-adhd</title>
+    <link>https://github.com/ayghri/i-have-adhd</link>
+    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
+  </item>
+  <item>
     <title>Tencent / AI-Infra-Guard</title>
     <link>https://github.com/Tencent/AI-Infra-Guard</link>
     <description>A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</description>
+  </item>
+  <item>
+    <title>virgiliojr94 / book-to-skill</title>
+    <link>https://github.com/virgiliojr94/book-to-skill</link>
+    <description>Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.</description>
+  </item>
+  <item>
+    <title>K-Dense-AI / scientific-agent-skills</title>
+    <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
+    <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
+  </item>
+  <item>
+    <title>whiteguo233 / OpenBiliClaw</title>
+    <link>https://github.com/whiteguo233/OpenBiliClaw</link>
+    <description>本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "argoproj / argo-helm",
@@ -11,8 +11,8 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 2362,
-      "forks": 2112,
-      "added_stars": "5 stars this week"
+      "forks": 2113,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "prometheus-community / helm-charts",
@@ -20,9 +20,19 @@
       "description": "Prometheus community Helm charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 6182,
+      "stars": 6183,
       "forks": 5387,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "netbox-community / netbox-chart",
+      "url": "https://github.com/netbox-community/netbox-chart",
+      "description": "A Helm chart for NetBox",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 355,
+      "forks": 185,
+      "added_stars": "1 star this week"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -40,19 +50,9 @@
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 904,
+      "stars": 906,
       "forks": 794,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "netbox-community / netbox-chart",
-      "url": "https://github.com/netbox-community/netbox-chart",
-      "description": "A Helm chart for NetBox",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 355,
-      "forks": 185,
-      "added_stars": "1 star this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "codecentric / helm-charts",
@@ -62,7 +62,7 @@
       "languageColor": "#724b3b",
       "stars": 742,
       "forks": 626,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "swagger-api / swagger-codegen",
@@ -71,18 +71,8 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 17786,
-      "forks": 5963,
+      "forks": 5962,
       "added_stars": "4 stars this week"
-    },
-    {
-      "title": "goharbor / harbor-helm",
-      "url": "https://github.com/goharbor/harbor-helm",
-      "description": "The helm chart to deploy Harbor",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1517,
-      "forks": 863,
-      "added_stars": "5 stars this week"
     },
     {
       "title": "temporalio / helm-charts",
@@ -93,6 +83,16 @@
       "stars": 557,
       "forks": 449,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "goharbor / harbor-helm",
+      "url": "https://github.com/goharbor/harbor-helm",
+      "description": "The helm chart to deploy Harbor",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 1517,
+      "forks": 863,
+      "added_stars": "5 stars this week"
     }
   ]
 }

@@ -2,17 +2,37 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
+    {
+      "title": "ilyamiro / serpantinum",
+      "url": "https://github.com/ilyamiro/serpantinum",
+      "description": "A shell for wayland compositors",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 6647,
+      "forks": 267,
+      "added_stars": "252 stars this week"
+    },
     {
       "title": "pctrade / end4-pC",
       "url": "https://github.com/pctrade/end4-pC",
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2731,
+      "stars": 2774,
       "forks": 148,
-      "added_stars": "491 stars this week"
+      "added_stars": "439 stars this week"
+    },
+    {
+      "title": "neur0map / ryoku-arch",
+      "url": "https://github.com/neur0map/ryoku-arch",
+      "description": "Opinionated premium Arch workstation for powerful desktops and laptops.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 876,
+      "forks": 45,
+      "added_stars": "139 stars this week"
     },
     {
       "title": "caelestia-dots / shell",
@@ -20,19 +40,9 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 12046,
-      "forks": 877,
-      "added_stars": "330 stars this week"
-    },
-    {
-      "title": "ilyamiro / serpantinum",
-      "url": "https://github.com/ilyamiro/serpantinum",
-      "description": "A shell for wayland compositors",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 6623,
-      "forks": 265,
-      "added_stars": "232 stars this week"
+      "stars": 12072,
+      "forks": 879,
+      "added_stars": "323 stars this week"
     },
     {
       "title": "AvengeMedia / DankMaterialShell",
@@ -40,9 +50,9 @@
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 7919,
-      "forks": 497,
-      "added_stars": "142 stars this week"
+      "stars": 7938,
+      "forks": 503,
+      "added_stars": "146 stars this week"
     },
     {
       "title": "end-4 / dots-hyprland",
@@ -50,9 +60,9 @@
       "description": "Usability-first dotfiles",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 15980,
-      "forks": 1342,
-      "added_stars": "126 stars this week"
+      "stars": 15992,
+      "forks": 1343,
+      "added_stars": "118 stars this week"
     },
     {
       "title": "ladybug-me / caelestia-dots-kde",
@@ -60,19 +70,9 @@
       "description": "caelestia-dots ported to KDE plasma 6",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 582,
-      "forks": 27,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "snowarch / iNiR",
-      "url": "https://github.com/snowarch/iNiR",
-      "description": "A Niri shell illogical-impulse based - with some modifications..",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 1560,
-      "forks": 88,
-      "added_stars": "42 stars this week"
+      "stars": 593,
+      "forks": 28,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "Darkkal44 / qylock",
@@ -80,9 +80,29 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2669,
+      "stars": 2677,
       "forks": 106,
-      "added_stars": "78 stars this week"
+      "added_stars": "76 stars this week"
+    },
+    {
+      "title": "mylinuxforwork / dotfiles",
+      "url": "https://github.com/mylinuxforwork/dotfiles",
+      "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 5003,
+      "forks": 373,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "snowarch / iNiR",
+      "url": "https://github.com/snowarch/iNiR",
+      "description": "A Niri shell illogical-impulse based - with some modifications..",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1575,
+      "forks": 88,
+      "added_stars": "53 stars this week"
     },
     {
       "title": "victronenergy / gui-v2",
@@ -100,29 +120,9 @@
       "description": "Noctalia's official plugins",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 219,
+      "stars": 220,
       "forks": 277,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "barry-ran / QuickDesk",
-      "url": "https://github.com/barry-ran/QuickDesk",
-      "description": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 432,
-      "forks": 74,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "liixini / skwd-wall",
-      "url": "https://github.com/liixini/skwd-wall",
-      "description": "An aesthetics-first wallpaper selector that supports images, videos and Wallpaper Engine Scenes. It can generate matugen themes from these sources as well! Also has a built in Wallhaven.cc & Steam browser because why not.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 657,
-      "forks": 24,
-      "added_stars": "19 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "Swordfish90 / cool-retro-term",
@@ -130,9 +130,19 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25975,
-      "forks": 1005,
-      "added_stars": "25 stars this week"
+      "stars": 25980,
+      "forks": 1006,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "barry-ran / QuickDesk",
+      "url": "https://github.com/barry-ran/QuickDesk",
+      "description": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 434,
+      "forks": 74,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "anthonycaccese / 240-MP",
@@ -140,9 +150,9 @@
       "description": "240-MP is a retro VCR styled frontend designed first for CRT displays to playback media via a Raspberry Pi, SteamOS or MacOS (ARM)",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 478,
+      "stars": 482,
       "forks": 44,
-      "added_stars": "18 stars this week"
+      "added_stars": "19 stars this week"
     }
   ]
 }

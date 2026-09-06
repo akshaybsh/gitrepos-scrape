@@ -2,7 +2,7 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "SaschaWillems / Vulkan",
@@ -10,7 +10,7 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 12138,
+      "stars": 12137,
       "forks": 2231,
       "added_stars": "11 stars this week"
     },
@@ -22,17 +22,17 @@
       "languageColor": "#5686a5",
       "stars": 990,
       "forks": 92,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "KhronosGroup / SPIRV-Cross",
-      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
-      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "title": "libretro / glsl-shaders",
+      "url": "https://github.com/libretro/glsl-shaders",
+      "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 2504,
-      "forks": 708,
-      "added_stars": "9 stars this week"
+      "stars": 1236,
+      "forks": 250,
+      "added_stars": "6 stars this week"
     }
   ]
 }

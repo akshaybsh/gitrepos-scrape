@@ -4,16 +4,21 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:40:26 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
+  <item>
+    <title>emacs-mirror / emacs</title>
+    <link>https://github.com/emacs-mirror/emacs</link>
+    <description>Mirror of GNU Emacs</description>
+  </item>
   <item>
     <title>doomemacs / core</title>
     <link>https://github.com/doomemacs/core</link>
     <description>An Emacs framework for the stubborn martian hacker</description>
   </item>
   <item>
-    <title>emacs-mirror / emacs</title>
-    <link>https://github.com/emacs-mirror/emacs</link>
-    <description>Mirror of GNU Emacs</description>
+    <title>akermu / emacs-libvterm</title>
+    <link>https://github.com/akermu/emacs-libvterm</link>
+    <description>Emacs libvterm integration</description>
   </item>
   <item>
     <title>karthink / gptel</title>
@@ -31,19 +36,14 @@
     <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
-    <title>dnouri / pilish</title>
-    <link>https://github.com/dnouri/pilish</link>
-    <description>Emacs frontend for the Pi coding agent</description>
-  </item>
-  <item>
     <title>melpa / melpa</title>
     <link>https://github.com/melpa/melpa</link>
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
   <item>
-    <title>doomemacs / modules</title>
-    <link>https://github.com/doomemacs/modules</link>
-    <description>Official module library for Doom Emacs</description>
+    <title>dnouri / pilish</title>
+    <link>https://github.com/dnouri/pilish</link>
+    <description>Emacs frontend for the Pi coding agent</description>
   </item>
   <item>
     <title>emacs-lsp / lsp-mode</title>
@@ -51,19 +51,14 @@
     <description>Emacs client/library for the Language Server Protocol</description>
   </item>
   <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
-  </item>
-  <item>
     <title>tumashu / posframe</title>
     <link>https://github.com/tumashu/posframe</link>
     <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
   </item>
   <item>
-    <title>bbatsov / projectile</title>
-    <link>https://github.com/bbatsov/projectile</link>
-    <description>Project Interaction Library for Emacs</description>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
     <title>emacsattic / helm-swoop</title>
@@ -71,14 +66,14 @@
     <description>Efficiently hopping squeezed lines powered by Emacs helm interface</description>
   </item>
   <item>
-    <title>seagle0128 / doom-modeline</title>
-    <link>https://github.com/seagle0128/doom-modeline</link>
-    <description>A fancy and fast mode-line inspired by minimalism design.</description>
+    <title>bbatsov / projectile</title>
+    <link>https://github.com/bbatsov/projectile</link>
+    <description>Project Interaction Library for Emacs</description>
   </item>
   <item>
-    <title>org-roam / org-roam</title>
-    <link>https://github.com/org-roam/org-roam</link>
-    <description>Rudimentary Roam replica with Org-mode</description>
+    <title>doomemacs / modules</title>
+    <link>https://github.com/doomemacs/modules</link>
+    <description>Official module library for Doom Emacs</description>
   </item>
   <item>
     <title>mmontone / emacs-inspector</title>
@@ -86,9 +81,39 @@
     <description>Inspection tool for Emacs Lisp objects.</description>
   </item>
   <item>
+    <title>seagle0128 / doom-modeline</title>
+    <link>https://github.com/seagle0128/doom-modeline</link>
+    <description>A fancy and fast mode-line inspired by minimalism design.</description>
+  </item>
+  <item>
     <title>emacs-evil / evil</title>
     <link>https://github.com/emacs-evil/evil</link>
     <description>The extensible vi layer for Emacs.</description>
+  </item>
+  <item>
+    <title>org-roam / org-roam</title>
+    <link>https://github.com/org-roam/org-roam</link>
+    <description>Rudimentary Roam replica with Org-mode</description>
+  </item>
+  <item>
+    <title>yoshiki / yaml-mode</title>
+    <link>https://github.com/yoshiki/yaml-mode</link>
+    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+  </item>
+  <item>
+    <title>oantolin / embark</title>
+    <link>https://github.com/oantolin/embark</link>
+    <description>Emacs Mini-Buffer Actions Rooted in Keymaps</description>
+  </item>
+  <item>
+    <title>company-mode / company-mode</title>
+    <link>https://github.com/company-mode/company-mode</link>
+    <description>Modular in-buffer completion framework for Emacs</description>
+  </item>
+  <item>
+    <title>MatthewZMD / aidermacs</title>
+    <link>https://github.com/MatthewZMD/aidermacs</link>
+    <description>AI Pair Programming in Emacs with Aider</description>
   </item>
 </channel>
 </rss>

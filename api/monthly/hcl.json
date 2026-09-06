@@ -2,27 +2,27 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5003,
-      "forks": 4409,
-      "added_stars": "19 stars this month"
-    },
     {
       "title": "techiescamp / devops-projects",
       "url": "https://github.com/techiescamp/devops-projects",
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2306,
-      "forks": 1554,
+      "stars": 2308,
+      "forks": 1555,
       "added_stars": "98 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5002,
+      "forks": 4410,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -31,7 +31,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3260,
-      "forks": 4625,
+      "forks": 4626,
       "added_stars": "9 stars this month"
     },
     {
@@ -45,16 +45,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1246,
-      "forks": 584,
-      "added_stars": "27 stars this month"
-    },
-    {
       "title": "GoogleCloudPlatform / accelerated-platforms",
       "url": "https://github.com/GoogleCloudPlatform/accelerated-platforms",
       "description": "This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.",
@@ -63,6 +53,26 @@
       "stars": 103,
       "forks": 36,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1249,
+      "forks": 584,
+      "added_stars": "29 stars this month"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2091,
+      "forks": 1260,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -75,34 +85,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2091,
-      "forks": 1260,
-      "added_stars": "15 stars this month"
-    },
-    {
       "title": "hashicorp / agent-skills",
       "url": "https://github.com/hashicorp/agent-skills",
       "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 863,
+      "stars": 864,
       "forks": 125,
-      "added_stars": "84 stars this month"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 48,
-      "forks": 60,
-      "added_stars": "0 stars this month"
+      "added_stars": "81 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-naming",
@@ -115,13 +105,13 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "hashicorp / terraform-cidr-subnets",
-      "url": "https://github.com/hashicorp/terraform-cidr-subnets",
-      "description": "A Terraform module for calculating subnet IP address prefixes",
+      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
+      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
+      "description": "Terraform Azure Verified Resource Module for Key Vault",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 80,
-      "forks": 40,
+      "stars": 48,
+      "forks": 60,
       "added_stars": "0 stars this month"
     }
   ]

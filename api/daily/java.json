@@ -2,177 +2,67 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5108,
+      "forks": 4621,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "iluwatar / java-design-patterns",
+      "url": "https://github.com/iluwatar/java-design-patterns",
+      "description": "Design patterns implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 94658,
+      "forks": 27383,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "648540858 / wvp-GB28181-pro",
+      "url": "https://github.com/648540858/wvp-GB28181-pro",
+      "description": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 7294,
+      "forks": 2082,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "zalexdev / strykerapp",
       "url": "https://github.com/zalexdev/strykerapp",
       "description": "Magic tool for pentest from your android device!",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1489,
-      "forks": 216,
-      "added_stars": "30 stars today"
+      "stars": 1504,
+      "forks": 220,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "OtterMind / Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.",
+      "title": "JetBrains / intellij-community",
+      "url": "https://github.com/JetBrains/intellij-community",
+      "description": "IntelliJ IDEA & IntelliJ Platform",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 28078,
-      "forks": 3028,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "languagetool-org / languagetool",
-      "url": "https://github.com/languagetool-org/languagetool",
-      "description": "Style and Grammar Checker for 25+ Languages",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 14970,
-      "forks": 1572,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "zhukunpenglinyutong / jetbrains-cc-gui",
-      "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-      "description": "Jetbrains Claude Code and Codex GUI Plugin",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5821,
-      "forks": 646,
-      "added_stars": "50 stars today"
-    },
-    {
-      "title": "agentscope-ai / agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "description": "Build distributed, production-grade, long-running agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5441,
-      "forks": 1302,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "github / copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 10460,
-      "forks": 1428,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 36606,
-      "forks": 8894,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "sepinf-inc / IPED",
-      "url": "https://github.com/sepinf-inc/IPED",
-      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2743,
-      "forks": 474,
+      "stars": 20523,
+      "forks": 6044,
       "added_stars": "4 stars today"
     },
     {
-      "title": "krahets / hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "title": "spring-ai-alibaba / DataAgent",
+      "url": "https://github.com/spring-ai-alibaba/DataAgent",
+      "description": "Spring AI Alibaba DataAgent",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 129876,
-      "forks": 15537,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "nageoffer / ragent",
-      "url": "https://github.com/nageoffer/ragent",
-      "description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3891,
-      "forks": 786,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "opendataloader-project / opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28933,
-      "forks": 2764,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "ashishps1 / awesome-system-design-resources",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 41170,
-      "forks": 8703,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "dromara / RuoYi-Vue-Plus",
-      "url": "https://github.com/dromara/RuoYi-Vue-Plus",
-      "description": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2631,
-      "forks": 758,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "EnterpriseQualityCoding / FizzBuzzEnterpriseEdition",
-      "url": "https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition",
-      "description": "FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 23831,
-      "forks": 807,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "apache / iceberg",
-      "url": "https://github.com/apache/iceberg",
-      "description": "Apache Iceberg",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9205,
-      "forks": 3511,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "apache / hadoop",
-      "url": "https://github.com/apache/hadoop",
-      "description": "Apache Hadoop",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15650,
-      "forks": 9245,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ashishps1 / awesome-low-level-design",
-      "url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26599,
-      "forks": 6447,
-      "added_stars": "22 stars today"
+      "stars": 2610,
+      "forks": 620,
+      "added_stars": "2 stars today"
     },
     {
       "title": "logisim-evolution / logisim-evolution",
@@ -182,47 +72,157 @@
       "languageColor": "#b07219",
       "stars": 7527,
       "forks": 1002,
-      "added_stars": "10 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "Zoeille / picsou-finance",
-      "url": "https://github.com/Zoeille/picsou-finance",
-      "description": "Self-hosted personal finance dashboard Track bank accounts, brokerage, crypto, and net worth — all in one place.",
+      "title": "netty / netty",
+      "url": "https://github.com/netty/netty",
+      "description": "Netty project - an event-driven asynchronous network application framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 504,
-      "forks": 49,
-      "added_stars": "3 stars today"
+      "stars": 35044,
+      "forks": 16268,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "Brazzo978 / L.L.E-Legacy-Lockscreen-Effects",
-      "url": "https://github.com/Brazzo978/L.L.E-Legacy-Lockscreen-Effects",
-      "description": "",
+      "title": "dbeaver / dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 143,
-      "forks": 14,
+      "stars": 51675,
+      "forks": 4373,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "MuntashirAkon / AppManager",
+      "url": "https://github.com/MuntashirAkon/AppManager",
+      "description": "A full-featured package manager and viewer for Android",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 8903,
+      "forks": 515,
       "added_stars": "9 stars today"
     },
     {
-      "title": "JetBrains / intellij-community",
-      "url": "https://github.com/JetBrains/intellij-community",
-      "description": "IntelliJ IDEA & IntelliJ Platform",
+      "title": "00-Evan / shattered-pixel-dungeon",
+      "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
+      "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 20518,
-      "forks": 6043,
+      "stars": 6484,
+      "forks": 1603,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 60388,
+      "forks": 7449,
+      "added_stars": "71 stars today"
+    },
+    {
+      "title": "nageoffer / ragent",
+      "url": "https://github.com/nageoffer/ragent",
+      "description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3901,
+      "forks": 789,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "termux / termux-api",
+      "url": "https://github.com/termux/termux-api",
+      "description": "Termux add-on app which exposes device functionality as API to command line programs.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4266,
+      "forks": 896,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "1Panel-dev / CordysCRM",
+      "url": "https://github.com/1Panel-dev/CordysCRM",
+      "description": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2697,
+      "forks": 556,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "kunal-kushwaha / DSA-Bootcamp-Java",
+      "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+      "description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 23723,
+      "forks": 13542,
       "added_stars": "11 stars today"
     },
     {
-      "title": "karma9874 / AndroRAT",
-      "url": "https://github.com/karma9874/AndroRAT",
-      "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+      "title": "MojoLauncher / MojoLauncher",
+      "url": "https://github.com/MojoLauncher/MojoLauncher",
+      "description": "A Minecraft: Java Edition launcher, based on PojavLauncher",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5077,
-      "forks": 1643,
-      "added_stars": "5 stars today"
+      "stars": 969,
+      "forks": 390,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "zhukunpenglinyutong / jetbrains-cc-gui",
+      "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
+      "description": "Jetbrains Claude Code and Codex GUI Plugin",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5844,
+      "forks": 648,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "krahets / hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 129898,
+      "forks": 15537,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "trinodb / trino",
+      "url": "https://github.com/trinodb/trino",
+      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13207,
+      "forks": 3766,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "alibaba / nacos",
+      "url": "https://github.com/alibaba/nacos",
+      "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 33348,
+      "forks": 13290,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "TheAlgorithms / Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 66218,
+      "forks": 21258,
+      "added_stars": "9 stars today"
     }
   ]
 }

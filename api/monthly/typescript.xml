@@ -4,16 +4,16 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:40:26 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
+  <item>
+    <title>cursor / plugins</title>
+    <link>https://github.com/cursor/plugins</link>
+    <description>Cursor plugin specification and official plugins</description>
+  </item>
   <item>
     <title>PrimeIntellect-ai / prime-agent</title>
     <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
     <description>A self-improving RLM agent for coding workflows and long-running autonomous tasks.</description>
-  </item>
-  <item>
-    <title>cloudflare / cloudflare-os</title>
-    <link>https://github.com/cloudflare/cloudflare-os</link>
-    <description>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.</description>
   </item>
   <item>
     <title>THU-MAIC / OpenMAIC</title>
@@ -26,19 +26,14 @@
     <description>Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.</description>
   </item>
   <item>
-    <title>pingdotgg / t3code</title>
-    <link>https://github.com/pingdotgg/t3code</link>
-    <description></description>
-  </item>
-  <item>
-    <title>TencentCloud / TencentDB-Agent-Memory</title>
-    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
-    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
-  </item>
-  <item>
     <title>CodebuffAI / freebuff</title>
     <link>https://github.com/CodebuffAI/freebuff</link>
     <description>The free coding agent</description>
+  </item>
+  <item>
+    <title>pingdotgg / t3code</title>
+    <link>https://github.com/pingdotgg/t3code</link>
+    <description></description>
   </item>
   <item>
     <title>every-app / open-seo</title>
@@ -46,34 +41,14 @@
     <description>Open source alternative to Semrush and Ahrefs</description>
   </item>
   <item>
-    <title>earendil-works / pi</title>
-    <link>https://github.com/earendil-works/pi</link>
-    <description>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</description>
+    <title>cloudflare / cloudflare-os</title>
+    <link>https://github.com/cloudflare/cloudflare-os</link>
+    <description>Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.</description>
   </item>
   <item>
-    <title>can1357 / oh-my-pi</title>
-    <link>https://github.com/can1357/oh-my-pi</link>
-    <description>⌥ Coding agent with the IDE wired in</description>
-  </item>
-  <item>
-    <title>diegosouzapw / OmniRoute</title>
-    <link>https://github.com/diegosouzapw/OmniRoute</link>
-    <description>Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors</description>
-  </item>
-  <item>
-    <title>bookorbit / bookorbit</title>
-    <link>https://github.com/bookorbit/bookorbit</link>
-    <description>BookOrbit: Your Reading Space</description>
-  </item>
-  <item>
-    <title>tashfeenahmed / freellmapi</title>
-    <link>https://github.com/tashfeenahmed/freellmapi</link>
-    <description>7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
-  </item>
-  <item>
-    <title>cloudflare / computer</title>
-    <link>https://github.com/cloudflare/computer</link>
-    <description>Give your agent a computer 👾</description>
+    <title>TencentCloud / TencentDB-Agent-Memory</title>
+    <link>https://github.com/TencentCloud/TencentDB-Agent-Memory</link>
+    <description>TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.</description>
   </item>
   <item>
     <title>titanwings / distilly</title>
@@ -81,19 +56,54 @@
     <description>Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.</description>
   </item>
   <item>
+    <title>earendil-works / pi</title>
+    <link>https://github.com/earendil-works/pi</link>
+    <description>AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI</description>
+  </item>
+  <item>
+    <title>tashfeenahmed / freellmapi</title>
+    <link>https://github.com/tashfeenahmed/freellmapi</link>
+    <description>7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.</description>
+  </item>
+  <item>
+    <title>bookorbit / bookorbit</title>
+    <link>https://github.com/bookorbit/bookorbit</link>
+    <description>BookOrbit: Your Reading Space</description>
+  </item>
+  <item>
+    <title>can1357 / oh-my-pi</title>
+    <link>https://github.com/can1357/oh-my-pi</link>
+    <description>⌥ Coding agent with the IDE wired in</description>
+  </item>
+  <item>
     <title>elizaOS / eliza</title>
     <link>https://github.com/elizaOS/eliza</link>
     <description>Open source agentic operating system</description>
   </item>
   <item>
-    <title>colinhacks / zod</title>
-    <link>https://github.com/colinhacks/zod</link>
-    <description>TypeScript-first schema validation with static type inference</description>
+    <title>apify / apify-mcp-server</title>
+    <link>https://github.com/apify/apify-mcp-server</link>
+    <description>The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.</description>
+  </item>
+  <item>
+    <title>diegosouzapw / OmniRoute</title>
+    <link>https://github.com/diegosouzapw/OmniRoute</link>
+    <description>Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors</description>
+  </item>
+  <item>
+    <title>Gitlawb / openclaude</title>
+    <link>https://github.com/Gitlawb/openclaude</link>
+    <description>runs anywhere. uses anything</description>
   </item>
   <item>
     <title>amruthpillai / reactive-resume</title>
     <link>https://github.com/amruthpillai/reactive-resume</link>
     <description>A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!</description>
+  </item>
+  <item>
+    <title>vercel-labs / portless</title>
+    <link>https://github.com/vercel-labs/portless</link>
+    <description>Replace port numbers with stable, named local URLs. For humans and agents.</description>
   </item>
 </channel>
 </rss>

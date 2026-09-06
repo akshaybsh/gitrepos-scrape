@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,49 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 250836,
-      "forks": 21198,
-      "added_stars": "2,758 stars today"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 281865,
-      "forks": 25246,
-      "added_stars": "559 stars today"
-    },
-    {
-      "title": "bin456789 / reinstall",
-      "url": "https://github.com/bin456789/reinstall",
-      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 12987,
-      "forks": 2089,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11136,
-      "forks": 1910,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "pyenv / pyenv",
-      "url": "https://github.com/pyenv/pyenv",
-      "description": "Simple Python version management",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 45075,
-      "forks": 3269,
-      "added_stars": "5 stars today"
+      "stars": 253096,
+      "forks": 21359,
+      "added_stars": "2,692 stars today"
     },
     {
       "title": "nvm-sh / nvm",
@@ -60,59 +20,69 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94832,
-      "forks": 10416,
+      "stars": 94951,
+      "forks": 10427,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 282166,
+      "forks": 25274,
+      "added_stars": "323 stars today"
+    },
+    {
+      "title": "VoltAgent / awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 24884,
+      "forks": 2878,
       "added_stars": "17 stars today"
     },
     {
-      "title": "acmesh-official / acme.sh",
-      "url": "https://github.com/acmesh-official/acme.sh",
-      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+      "title": "bin456789 / reinstall",
+      "url": "https://github.com/bin456789/reinstall",
+      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47585,
-      "forks": 5660,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "nelvko / clash-for-linux-install",
-      "url": "https://github.com/nelvko/clash-for-linux-install",
-      "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 14693,
-      "forks": 1628,
+      "stars": 12998,
+      "forks": 2090,
       "added_stars": "13 stars today"
     },
     {
-      "title": "openshift / release",
-      "url": "https://github.com/openshift/release",
-      "description": "Release tooling for OpenShift",
+      "title": "github / copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 329,
-      "forks": 2358,
-      "added_stars": "0 stars today"
+      "stars": 11138,
+      "forks": 1914,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "microsoft / azure-skills",
-      "url": "https://github.com/microsoft/azure-skills",
-      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
+      "title": "armbian / build",
+      "url": "https://github.com/armbian/build",
+      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1453,
-      "forks": 241,
-      "added_stars": "5 stars today"
+      "stars": 5400,
+      "forks": 3130,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "233boy / v2ray",
-      "url": "https://github.com/233boy/v2ray",
-      "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
+      "title": "cloudflare / skills",
+      "url": "https://github.com/cloudflare/skills",
+      "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29566,
-      "forks": 16619,
-      "added_stars": "8 stars today"
+      "stars": 2791,
+      "forks": 269,
+      "added_stars": "11 stars today"
     },
     {
       "title": "expo / skills",
@@ -120,19 +90,59 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2501,
+      "stars": 2503,
       "forks": 140,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "kodekloudhub / certified-kubernetes-administrator-course",
+      "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+      "description": "Certified Kubernetes Administrator - CKA Course",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 10809,
+      "forks": 9618,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "omacom / omarchy-pkgs",
+      "url": "https://github.com/omacom/omarchy-pkgs",
+      "description": "",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 98,
+      "forks": 113,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33134,
+      "forks": 1860,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "RROrg / rr",
+      "url": "https://github.com/RROrg/rr",
+      "description": "Redpill Recovery (arpl-i18n)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 8593,
+      "forks": 1371,
       "added_stars": "4 stars today"
     },
     {
-      "title": "six2dez / reconftw",
-      "url": "https://github.com/six2dez/reconftw",
-      "description": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
+      "title": "skills / introduction-to-git",
+      "url": "https://github.com/skills/introduction-to-git",
+      "description": "Use Git version control to work on a game using command line (CLI) and VS Code",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 8065,
-      "forks": 1227,
-      "added_stars": "7 stars today"
+      "stars": 196,
+      "forks": 151,
+      "added_stars": "1 star today"
     }
   ]
 }

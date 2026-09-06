@@ -4,16 +4,11 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:36:12 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:46:02 GMT</pubDate>
   <item>
     <title>fmtlib / fmt</title>
     <link>https://github.com/fmtlib/fmt</link>
     <description>A modern formatting library</description>
-  </item>
-  <item>
-    <title>audacity / audacity</title>
-    <link>https://github.com/audacity/audacity</link>
-    <description>Audio Editor</description>
   </item>
   <item>
     <title>nlohmann / json</title>
@@ -21,14 +16,29 @@
     <description>JSON for Modern C++</description>
   </item>
   <item>
-    <title>abseil / abseil-cpp</title>
-    <link>https://github.com/abseil/abseil-cpp</link>
-    <description>Abseil Common Libraries (C++)</description>
+    <title>nextcloud / desktop</title>
+    <link>https://github.com/nextcloud/desktop</link>
+    <description>💻 Desktop sync client for Nextcloud</description>
   </item>
   <item>
-    <title>tenstorrent / tt-metal</title>
-    <link>https://github.com/tenstorrent/tt-metal</link>
-    <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
+    <title>google / flatbuffers</title>
+    <link>https://github.com/google/flatbuffers</link>
+    <description>FlatBuffers: Memory Efficient Serialization Library</description>
+  </item>
+  <item>
+    <title>imputnet / helium</title>
+    <link>https://github.com/imputnet/helium</link>
+    <description>Private, fast, and honest web browser</description>
+  </item>
+  <item>
+    <title>audacity / audacity</title>
+    <link>https://github.com/audacity/audacity</link>
+    <description>Audio Editor</description>
+  </item>
+  <item>
+    <title>noctalia-dev / noctalia</title>
+    <link>https://github.com/noctalia-dev/noctalia</link>
+    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
   </item>
   <item>
     <title>alibaba / zvec</title>
@@ -36,54 +46,19 @@
     <description>A lightweight, lightning-fast, in-process vector database</description>
   </item>
   <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+    <title>crosire / reshade</title>
+    <link>https://github.com/crosire/reshade</link>
+    <description>A generic post-processing injector for games and video software.</description>
   </item>
   <item>
-    <title>dragonflydb / dragonfly</title>
-    <link>https://github.com/dragonflydb/dragonfly</link>
-    <description>A modern replacement for Redis and Memcached</description>
+    <title>Neroued / ninfer</title>
+    <link>https://github.com/Neroued/ninfer</link>
+    <description>High-performance single-GPU inference for selected model checkpoints and GPUs.</description>
   </item>
   <item>
-    <title>cloudflare / workerd</title>
-    <link>https://github.com/cloudflare/workerd</link>
-    <description>The JavaScript / Wasm runtime that powers Cloudflare Workers</description>
-  </item>
-  <item>
-    <title>ocornut / imgui</title>
-    <link>https://github.com/ocornut/imgui</link>
-    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
-  </item>
-  <item>
-    <title>prusa3d / PrusaSlicer</title>
-    <link>https://github.com/prusa3d/PrusaSlicer</link>
-    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
-  </item>
-  <item>
-    <title>optiscaler / OptiScaler</title>
-    <link>https://github.com/optiscaler/OptiScaler</link>
-    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
-  </item>
-  <item>
-    <title>google / benchmark</title>
-    <link>https://github.com/google/benchmark</link>
-    <description>A microbenchmark support library</description>
-  </item>
-  <item>
-    <title>ZLMediaKit / ZLMediaKit</title>
-    <link>https://github.com/ZLMediaKit/ZLMediaKit</link>
-    <description>WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11</description>
-  </item>
-  <item>
-    <title>drogonframework / drogon</title>
-    <link>https://github.com/drogonframework/drogon</link>
-    <description>Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows</description>
-  </item>
-  <item>
-    <title>MaaAssistantArknights / MaaAssistantArknights</title>
-    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
-    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
+    <title>SpriteOvO / AirPodsDesktop</title>
+    <link>https://github.com/SpriteOvO/AirPodsDesktop</link>
+    <description>☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)</description>
   </item>
   <item>
     <title>praydog / REFramework</title>
@@ -91,14 +66,49 @@
     <description>Mod loader, scripting platform, and VR support for all RE Engine games</description>
   </item>
   <item>
-    <title>CalcProgrammer1 / OpenRGB</title>
-    <link>https://github.com/CalcProgrammer1/OpenRGB</link>
-    <description>Open source RGB lighting control that doesn&#x27;t depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.</description>
+    <title>MaaAssistantArknights / MaaAssistantArknights</title>
+    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
-    <title>mavlink / qgroundcontrol</title>
-    <link>https://github.com/mavlink/qgroundcontrol</link>
-    <description>Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)</description>
+    <title>electron / electron</title>
+    <link>https://github.com/electron/electron</link>
+    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+  </item>
+  <item>
+    <title>google / filament</title>
+    <link>https://github.com/google/filament</link>
+    <description>Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2</description>
+  </item>
+  <item>
+    <title>PlotJuggler / PlotJuggler</title>
+    <link>https://github.com/PlotJuggler/PlotJuggler</link>
+    <description>The Time Series Visualization Tool that you deserve.</description>
+  </item>
+  <item>
+    <title>vllm-project / vllm-ascend</title>
+    <link>https://github.com/vllm-project/vllm-ascend</link>
+    <description>Community maintained hardware plugin for vLLM on Ascend</description>
+  </item>
+  <item>
+    <title>tesseract-ocr / tesseract</title>
+    <link>https://github.com/tesseract-ocr/tesseract</link>
+    <description>Tesseract Open Source OCR Engine (main repository)</description>
+  </item>
+  <item>
+    <title>prusa3d / PrusaSlicer</title>
+    <link>https://github.com/prusa3d/PrusaSlicer</link>
+    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
+  </item>
+  <item>
+    <title>zhongyang219 / TrafficMonitor</title>
+    <link>https://github.com/zhongyang219/TrafficMonitor</link>
+    <description>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</description>
+  </item>
+  <item>
+    <title>FreeCAD / FreeCAD</title>
+    <link>https://github.com/FreeCAD/FreeCAD</link>
+    <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
   </item>
 </channel>
 </rss>

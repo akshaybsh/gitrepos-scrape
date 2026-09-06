@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "termux / termux-app",
@@ -10,9 +10,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 60336,
-      "forks": 7431,
-      "added_stars": "1,862 stars this month"
+      "stars": 60388,
+      "forks": 7449,
+      "added_stars": "1,872 stars this month"
     },
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -20,19 +20,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 74392,
-      "forks": 8114,
-      "added_stars": "2,654 stars this month"
-    },
-    {
-      "title": "zalexdev / strykerapp",
-      "url": "https://github.com/zalexdev/strykerapp",
-      "description": "Magic tool for pentest from your android device!",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1489,
-      "forks": 216,
-      "added_stars": "400 stars this month"
+      "stars": 74442,
+      "forks": 8123,
+      "added_stars": "2,649 stars this month"
     },
     {
       "title": "keycloak / keycloak",
@@ -40,9 +30,19 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 36606,
-      "forks": 8894,
-      "added_stars": "655 stars this month"
+      "stars": 36620,
+      "forks": 8897,
+      "added_stars": "630 stars this month"
+    },
+    {
+      "title": "zalexdev / strykerapp",
+      "url": "https://github.com/zalexdev/strykerapp",
+      "description": "Magic tool for pentest from your android device!",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1504,
+      "forks": 220,
+      "added_stars": "416 stars this month"
     },
     {
       "title": "karma9874 / AndroRAT",
@@ -50,19 +50,9 @@
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5077,
+      "stars": 5079,
       "forks": 1643,
-      "added_stars": "149 stars this month"
-    },
-    {
-      "title": "conductor-oss / conductor",
-      "url": "https://github.com/conductor-oss/conductor",
-      "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 32182,
-      "forks": 1005,
-      "added_stars": "290 stars this month"
+      "added_stars": "147 stars this month"
     },
     {
       "title": "crimera / piko",
@@ -70,9 +60,9 @@
       "description": "morphe patches for twitter and instagram",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5102,
-      "forks": 188,
-      "added_stars": "558 stars this month"
+      "stars": 5122,
+      "forks": 193,
+      "added_stars": "562 stars this month"
     },
     {
       "title": "TeamNewPipe / NewPipe",
@@ -80,9 +70,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 39596,
+      "stars": 39611,
       "forks": 3769,
-      "added_stars": "456 stars this month"
+      "added_stars": "458 stars this month"
     },
     {
       "title": "checkstyle / checkstyle",
@@ -90,9 +80,19 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9530,
-      "forks": 4218,
-      "added_stars": "608 stars this month"
+      "stars": 9548,
+      "forks": 4220,
+      "added_stars": "615 stars this month"
+    },
+    {
+      "title": "apache / dubbo",
+      "url": "https://github.com/apache/dubbo",
+      "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 41565,
+      "forks": 26377,
+      "added_stars": "66 stars this month"
     },
     {
       "title": "mateaix / mateclaw",
@@ -100,29 +100,9 @@
       "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1078,
-      "forks": 322,
-      "added_stars": "265 stars this month"
-    },
-    {
-      "title": "bethington / ghidra-mcp",
-      "url": "https://github.com/bethington/ghidra-mcp",
-      "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3689,
-      "forks": 123,
-      "added_stars": "563 stars this month"
-    },
-    {
-      "title": "dromara / RuoYi-Vue-Plus",
-      "url": "https://github.com/dromara/RuoYi-Vue-Plus",
-      "description": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2631,
-      "forks": 758,
-      "added_stars": "163 stars this month"
+      "stars": 1080,
+      "forks": 323,
+      "added_stars": "261 stars this month"
     },
     {
       "title": "booklore-app / booklore",
@@ -130,9 +110,19 @@
       "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1073,
+      "stars": 1077,
       "forks": 82,
-      "added_stars": "373 stars this month"
+      "added_stars": "372 stars this month"
+    },
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5108,
+      "forks": 4621,
+      "added_stars": "306 stars this month"
     },
     {
       "title": "Card-Forge / forge",
@@ -141,8 +131,18 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 2670,
-      "forks": 1067,
-      "added_stars": "104 stars this month"
+      "forks": 1068,
+      "added_stars": "103 stars this month"
+    },
+    {
+      "title": "dromara / RuoYi-Vue-Plus",
+      "url": "https://github.com/dromara/RuoYi-Vue-Plus",
+      "description": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2634,
+      "forks": 757,
+      "added_stars": "156 stars this month"
     },
     {
       "title": "LawnchairLauncher / lawnchair",
@@ -150,19 +150,9 @@
       "description": "No clever tagline needed.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 13459,
-      "forks": 1655,
-      "added_stars": "269 stars this month"
-    },
-    {
-      "title": "AndroidIDEOfficial / AndroidIDE",
-      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
-      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3086,
-      "forks": 627,
-      "added_stars": "63 stars this month"
+      "stars": 13464,
+      "forks": 1657,
+      "added_stars": "271 stars this month"
     },
     {
       "title": "cabaletta / baritone",
@@ -170,29 +160,39 @@
       "description": "google maps for block game",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9183,
-      "forks": 2045,
-      "added_stars": "130 stars this month"
+      "stars": 9185,
+      "forks": 2043,
+      "added_stars": "132 stars this month"
     },
     {
-      "title": "languagetool-org / languagetool",
-      "url": "https://github.com/languagetool-org/languagetool",
-      "description": "Style and Grammar Checker for 25+ Languages",
+      "title": "AndroidIDEOfficial / AndroidIDE",
+      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 14970,
-      "forks": 1572,
-      "added_stars": "221 stars this month"
+      "stars": 3089,
+      "forks": 629,
+      "added_stars": "66 stars this month"
     },
     {
-      "title": "apache / iceberg",
-      "url": "https://github.com/apache/iceberg",
-      "description": "Apache Iceberg",
+      "title": "SeleniumHQ / selenium",
+      "url": "https://github.com/SeleniumHQ/selenium",
+      "description": "A browser automation framework and ecosystem.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9205,
-      "forks": 3511,
-      "added_stars": "111 stars this month"
+      "stars": 34472,
+      "forks": 8722,
+      "added_stars": "180 stars this month"
+    },
+    {
+      "title": "DrKLO / Telegram",
+      "url": "https://github.com/DrKLO/Telegram",
+      "description": "Telegram for Android source",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 29826,
+      "forks": 10022,
+      "added_stars": "219 stars this month"
     }
   ]
 }

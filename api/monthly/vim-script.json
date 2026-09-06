@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -10,9 +10,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40853,
-      "forks": 6136,
-      "added_stars": "249 stars this month"
+      "stars": 40861,
+      "forks": 6138,
+      "added_stars": "233 stars this month"
     },
     {
       "title": "neovim / neovim",
@@ -20,9 +20,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102128,
-      "forks": 7078,
-      "added_stars": "898 stars this month"
+      "stars": 102159,
+      "forks": 7083,
+      "added_stars": "870 stars this month"
     },
     {
       "title": "morhetz / gruvbox",
@@ -30,9 +30,9 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15727,
+      "stars": 15728,
       "forks": 1125,
-      "added_stars": "90 stars this month"
+      "added_stars": "88 stars this month"
     },
     {
       "title": "junegunn / vim-plug",
@@ -40,9 +40,9 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35761,
+      "stars": 35763,
       "forks": 1932,
-      "added_stars": "79 stars this month"
+      "added_stars": "77 stars this month"
     },
     {
       "title": "tpope / vim-eunuch",
@@ -55,22 +55,12 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21777,
-      "forks": 1079,
-      "added_stars": "58 stars this month"
-    },
-    {
       "title": "derekhe / msfs2020-map-enhancement",
       "url": "https://github.com/derekhe/msfs2020-map-enhancement",
       "description": "MSFS2020 Map Enhancement",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 358,
+      "stars": 357,
       "forks": 44,
       "added_stars": "6 stars this month"
     },
@@ -81,8 +71,28 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 14017,
-      "forks": 1485,
+      "forks": 1484,
       "added_stars": "10 stars this month"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21777,
+      "forks": 1079,
+      "added_stars": "57 stars this month"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11687,
+      "forks": 806,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "mhinz / vim-galore",
@@ -90,7 +100,7 @@
       "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 17970,
+      "stars": 17969,
       "forks": 626,
       "added_stars": "62 stars this month"
     },
@@ -102,37 +112,17 @@
       "languageColor": "#199f4b",
       "stars": 4188,
       "forks": 145,
-      "added_stars": "53 stars this month"
+      "added_stars": "52 stars this month"
     },
     {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
+      "title": "tpope / vim-unimpaired",
+      "url": "https://github.com/tpope/vim-unimpaired",
+      "description": "unimpaired.vim: Pairs of handy bracket mappings",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11688,
-      "forks": 806,
-      "added_stars": "46 stars this month"
-    },
-    {
-      "title": "jbranchaud / til",
-      "url": "https://github.com/jbranchaud/til",
-      "description": "📝 Today I Learned",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14147,
-      "forks": 756,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "dracula / vim",
-      "url": "https://github.com/dracula/vim",
-      "description": "🧛🏻‍♂️ Dark theme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 1395,
-      "forks": 450,
-      "added_stars": "9 stars this month"
+      "stars": 3466,
+      "forks": 205,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "ggml-org / llama.vim",
@@ -140,9 +130,19 @@
       "description": "Vim plugin for LLM-assisted code/text completion",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 2159,
-      "forks": 120,
-      "added_stars": "43 stars this month"
+      "stars": 2162,
+      "forks": 121,
+      "added_stars": "41 stars this month"
+    },
+    {
+      "title": "dracula / vim",
+      "url": "https://github.com/dracula/vim",
+      "description": "🧛🏻‍♂️ Dark theme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 1396,
+      "forks": 450,
+      "added_stars": "10 stars this month"
     }
   ]
 }

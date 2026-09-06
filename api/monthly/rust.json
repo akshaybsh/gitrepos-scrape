@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "AprilNEA / OpenLogi",
@@ -10,9 +10,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19371,
-      "forks": 581,
-      "added_stars": "11,070 stars this month"
+      "stars": 19583,
+      "forks": 595,
+      "added_stars": "11,323 stars this month"
     },
     {
       "title": "xai-org / x-algorithm",
@@ -20,19 +20,9 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32667,
-      "forks": 5360,
-      "added_stars": "5,878 stars this month"
-    },
-    {
-      "title": "denoland / celld",
-      "url": "https://github.com/denoland/celld",
-      "description": "self-hosted, distributed Durable Objects",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4493,
-      "forks": 156,
-      "added_stars": "4,433 stars this month"
+      "stars": 32737,
+      "forks": 5364,
+      "added_stars": "5,935 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -40,9 +30,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5756,
-      "forks": 406,
-      "added_stars": "4,357 stars this month"
+      "stars": 5822,
+      "forks": 410,
+      "added_stars": "4,430 stars this month"
     },
     {
       "title": "AlexsJones / llmfit",
@@ -50,19 +40,29 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34893,
-      "forks": 2192,
-      "added_stars": "3,863 stars this month"
+      "stars": 34943,
+      "forks": 2195,
+      "added_stars": "3,882 stars this month"
     },
     {
-      "title": "firecrawl / pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "title": "denoland / celld",
+      "url": "https://github.com/denoland/celld",
+      "description": "self-hosted, distributed Durable Objects",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18828,
-      "forks": 1263,
-      "added_stars": "9,431 stars this month"
+      "stars": 4521,
+      "forks": 162,
+      "added_stars": "4,263 stars this month"
+    },
+    {
+      "title": "longbridge / gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 14028,
+      "forks": 844,
+      "added_stars": "1,611 stars this month"
     },
     {
       "title": "superradcompany / microsandbox",
@@ -70,9 +70,19 @@
       "description": "🧱 easy fast local-first microVM runtime and library",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8084,
+      "stars": 8093,
       "forks": 427,
-      "added_stars": "967 stars this month"
+      "added_stars": "958 stars this month"
+    },
+    {
+      "title": "koharu-rs / koharu",
+      "url": "https://github.com/koharu-rs/koharu",
+      "description": "AI-powered manga translator, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5494,
+      "forks": 376,
+      "added_stars": "510 stars this month"
     },
     {
       "title": "openai / codex",
@@ -80,19 +90,19 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 121606,
-      "forks": 18636,
-      "added_stars": "18,307 stars this month"
+      "stars": 121817,
+      "forks": 18690,
+      "added_stars": "18,266 stars this month"
     },
     {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "title": "firecrawl / pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7971,
-      "forks": 1550,
-      "added_stars": "308 stars this month"
+      "stars": 18872,
+      "forks": 1264,
+      "added_stars": "7,866 stars this month"
     },
     {
       "title": "pnpm / pnpm",
@@ -100,59 +110,19 @@
       "description": "Fast, disk space efficient package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36412,
-      "forks": 1691,
-      "added_stars": "502 stars this month"
+      "stars": 36432,
+      "forks": 1693,
+      "added_stars": "493 stars this month"
     },
     {
-      "title": "nautechsystems / nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28383,
-      "forks": 3691,
-      "added_stars": "3,213 stars this month"
-    },
-    {
-      "title": "jdx / mise",
-      "url": "https://github.com/jdx/mise",
-      "description": "dev tools, env vars, task runner",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 33491,
-      "forks": 1420,
-      "added_stars": "2,045 stars this month"
-    },
-    {
-      "title": "pola-rs / polars",
-      "url": "https://github.com/pola-rs/polars",
-      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39651,
-      "forks": 3079,
-      "added_stars": "467 stars this month"
-    },
-    {
-      "title": "ZSeven-W / openpencil",
-      "url": "https://github.com/ZSeven-W/openpencil",
-      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5826,
-      "forks": 502,
-      "added_stars": "1,234 stars this month"
-    },
-    {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31023,
-      "forks": 3335,
-      "added_stars": "955 stars this month"
+      "stars": 36561,
+      "forks": 2603,
+      "added_stars": "691 stars this month"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -160,9 +130,19 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 122635,
-      "forks": 18843,
-      "added_stars": "3,327 stars this month"
+      "stars": 122713,
+      "forks": 18855,
+      "added_stars": "3,325 stars this month"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7977,
+      "forks": 1550,
+      "added_stars": "310 stars this month"
     },
     {
       "title": "sinelaw / fresh",
@@ -170,9 +150,19 @@
       "description": "Terminal based IDE & text editor: easy, powerful and fast",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8698,
+      "stars": 8708,
       "forks": 332,
-      "added_stars": "613 stars this month"
+      "added_stars": "621 stars this month"
+    },
+    {
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 28422,
+      "forks": 3699,
+      "added_stars": "3,226 stars this month"
     },
     {
       "title": "BoundaryML / baml",
@@ -182,17 +172,37 @@
       "languageColor": "#dea584",
       "stars": 9140,
       "forks": 491,
-      "added_stars": "366 stars this month"
+      "added_stars": "356 stars this month"
     },
     {
-      "title": "zerx-lab / FluxDown",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2892,
-      "forks": 147,
-      "added_stars": "1,457 stars this month"
+      "stars": 31060,
+      "forks": 3341,
+      "added_stars": "976 stars this month"
+    },
+    {
+      "title": "jdx / mise",
+      "url": "https://github.com/jdx/mise",
+      "description": "dev tools, env vars, task runner",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 33518,
+      "forks": 1422,
+      "added_stars": "1,964 stars this month"
+    },
+    {
+      "title": "ZSeven-W / openpencil",
+      "url": "https://github.com/ZSeven-W/openpencil",
+      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5840,
+      "forks": 503,
+      "added_stars": "1,241 stars this month"
     }
   ]
 }

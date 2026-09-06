@@ -2,27 +2,17 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
-      "title": "omacom / omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 38104,
-      "forks": 4054,
-      "added_stars": "4,728 stars this week"
-    },
-    {
-      "title": "llm-d / llm-d",
-      "url": "https://github.com/llm-d/llm-d",
-      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4419,
-      "forks": 747,
-      "added_stars": "114 stars this week"
+      "stars": 253099,
+      "forks": 21359,
+      "added_stars": "11,871 stars this week"
     },
     {
       "title": "quickemu-project / quickemu",
@@ -30,9 +20,19 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16108,
+      "stars": 16112,
       "forks": 734,
-      "added_stars": "375 stars this week"
+      "added_stars": "333 stars this week"
+    },
+    {
+      "title": "omacom / omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 38387,
+      "forks": 4104,
+      "added_stars": "3,631 stars this week"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -40,9 +40,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4798,
-      "forks": 1562,
-      "added_stars": "500 stars this week"
+      "stars": 4844,
+      "forks": 1582,
+      "added_stars": "480 stars this week"
     },
     {
       "title": "community-scripts / ProxmoxVE",
@@ -50,19 +50,9 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29498,
+      "stars": 29504,
       "forks": 2865,
-      "added_stars": "88 stars this week"
-    },
-    {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 7702,
-      "forks": 871,
-      "added_stars": "289 stars this week"
+      "added_stars": "85 stars this week"
     },
     {
       "title": "OthmanAdi / planning-with-files",
@@ -70,39 +60,29 @@
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26635,
+      "stars": 26649,
       "forks": 2220,
-      "added_stars": "251 stars this week"
+      "added_stars": "257 stars this week"
     },
     {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "title": "SimoneAvogadro / android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33118,
-      "forks": 1860,
-      "added_stars": "130 stars this week"
+      "stars": 7705,
+      "forks": 872,
+      "added_stars": "204 stars this week"
     },
     {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
+      "title": "llm-d / llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 53165,
-      "forks": 4729,
-      "added_stars": "112 stars this week"
-    },
-    {
-      "title": "MichaelCade / 90DaysOfDevOps",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29705,
-      "forks": 6753,
-      "added_stars": "40 stars this week"
+      "stars": 4426,
+      "forks": 749,
+      "added_stars": "102 stars this week"
     },
     {
       "title": "pystardust / ani-cli",
@@ -110,9 +90,49 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13717,
-      "forks": 874,
-      "added_stars": "108 stars this week"
+      "stars": 13725,
+      "forks": 875,
+      "added_stars": "87 stars this week"
+    },
+    {
+      "title": "bin456789 / reinstall",
+      "url": "https://github.com/bin456789/reinstall",
+      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 12998,
+      "forks": 2090,
+      "added_stars": "131 stars this week"
+    },
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33134,
+      "forks": 1860,
+      "added_stars": "130 stars this week"
+    },
+    {
+      "title": "MichaelCade / 90DaysOfDevOps",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29706,
+      "forks": 6753,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 53174,
+      "forks": 4740,
+      "added_stars": "118 stars this week"
     },
     {
       "title": "acmesh-official / acme.sh",
@@ -120,19 +140,9 @@
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47585,
-      "forks": 5660,
-      "added_stars": "45 stars this week"
-    },
-    {
-      "title": "microsoft / azure-skills",
-      "url": "https://github.com/microsoft/azure-skills",
-      "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1453,
-      "forks": 241,
-      "added_stars": "22 stars this week"
+      "stars": 47591,
+      "forks": 5661,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "dokku / dokku",
@@ -140,39 +150,39 @@
       "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 32123,
-      "forks": 2071,
+      "stars": 32122,
+      "forks": 2072,
       "added_stars": "14 stars this week"
     },
     {
-      "title": "githubnext / monaspace",
-      "url": "https://github.com/githubnext/monaspace",
-      "description": "An innovative superfamily of fonts for code",
+      "title": "mbadolato / iTerm2-Color-Schemes",
+      "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
+      "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 19613,
-      "forks": 323,
-      "added_stars": "30 stars this week"
+      "stars": 27177,
+      "forks": 6514,
+      "added_stars": "29 stars this week"
     },
     {
-      "title": "nelvko / clash-for-linux-install",
-      "url": "https://github.com/nelvko/clash-for-linux-install",
-      "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
+      "title": "ophub / amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 14693,
-      "forks": 1628,
-      "added_stars": "86 stars this week"
+      "stars": 9750,
+      "forks": 3126,
+      "added_stars": "50 stars this week"
     },
     {
-      "title": "docker-mailserver / docker-mailserver",
-      "url": "https://github.com/docker-mailserver/docker-mailserver",
-      "description": "Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.",
+      "title": "mack-a / v2ray-agent",
+      "url": "https://github.com/mack-a/v2ray-agent",
+      "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 18826,
-      "forks": 2046,
-      "added_stars": "28 stars this week"
+      "stars": 21817,
+      "forks": 5539,
+      "added_stars": "80 stars this week"
     }
   ]
 }

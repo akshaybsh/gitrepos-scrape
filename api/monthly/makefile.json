@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "mindsdb / mindshub",
@@ -10,9 +10,9 @@
       "description": "The unified workspace where open-source models get things done for you.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 39697,
+      "stars": 39699,
       "forks": 6238,
-      "added_stars": "226 stars this month"
+      "added_stars": "227 stars this month"
     },
     {
       "title": "openwrt / packages",
@@ -20,7 +20,7 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4596,
+      "stars": 4597,
       "forks": 3959,
       "added_stars": "29 stars this month"
     },
@@ -30,9 +30,9 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56542,
+      "stars": 56544,
       "forks": 5426,
-      "added_stars": "207 stars this month"
+      "added_stars": "210 stars this month"
     },
     {
       "title": "foostan / crkbd",
@@ -60,59 +60,9 @@
       "description": "Source ontology files for the Gene Ontology",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 252,
+      "stars": 253,
       "forks": 48,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-proto",
-      "url": "https://github.com/open-telemetry/opentelemetry-proto",
-      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 816,
-      "forks": 320,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "ROCKNIX / distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1531,
-      "forks": 342,
-      "added_stars": "71 stars this month"
-    },
-    {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1125,
-      "forks": 1339,
-      "added_stars": "41 stars this month"
-    },
-    {
-      "title": "dbt-labs / dbt-utils",
-      "url": "https://github.com/dbt-labs/dbt-utils",
-      "description": "Utility functions for dbt projects.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1799,
-      "forks": 631,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4297,
-      "forks": 122,
-      "added_stars": "48 stars this month"
+      "added_stars": "2 stars this month"
     },
     {
       "title": "githubnext / agentics",
@@ -125,12 +75,62 @@
       "added_stars": "65 stars this month"
     },
     {
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1126,
+      "forks": 1341,
+      "added_stars": "43 stars this month"
+    },
+    {
+      "title": "ROCKNIX / distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1532,
+      "forks": 342,
+      "added_stars": "67 stars this month"
+    },
+    {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4297,
+      "forks": 122,
+      "added_stars": "46 stars this month"
+    },
+    {
+      "title": "dbt-labs / dbt-utils",
+      "url": "https://github.com/dbt-labs/dbt-utils",
+      "description": "Utility functions for dbt projects.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1799,
+      "forks": 631,
+      "added_stars": "14 stars this month"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-proto",
+      "url": "https://github.com/open-telemetry/opentelemetry-proto",
+      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 816,
+      "forks": 320,
+      "added_stars": "15 stars this month"
+    },
+    {
       "title": "PartialVolume / shredos.x86_64",
       "url": "https://github.com/PartialVolume/shredos.x86_64",
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 3142,
+      "stars": 3145,
       "forks": 139,
       "added_stars": "49 stars this month"
     },
@@ -145,14 +145,14 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "Ysurac / openmptcprouter",
-      "url": "https://github.com/Ysurac/openmptcprouter",
-      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
+      "title": "freebsd / freebsd-ports",
+      "url": "https://github.com/freebsd/freebsd-ports",
+      "description": "FreeBSD ports tree (read-only mirror)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 2485,
-      "forks": 352,
-      "added_stars": "40 stars this month"
+      "stars": 1201,
+      "forks": 869,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "SiftScience / sift-ios",
@@ -170,9 +170,9 @@
       "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 30594,
-      "forks": 7927,
-      "added_stars": "110 stars this month"
+      "stars": 30595,
+      "forks": 7924,
+      "added_stars": "105 stars this month"
     }
   ]
 }

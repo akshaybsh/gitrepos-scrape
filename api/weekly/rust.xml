@@ -4,7 +4,17 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:38:18 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:48:14 GMT</pubDate>
+  <item>
+    <title>apache / iggy</title>
+    <link>https://github.com/apache/iggy</link>
+    <description>Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed</description>
+  </item>
+  <item>
+    <title>martin-olivier / airgorah</title>
+    <link>https://github.com/martin-olivier/airgorah</link>
+    <description>A WiFi security auditing software mainly based on aircrack-ng tools suite</description>
+  </item>
   <item>
     <title>firecracker-microvm / firecracker</title>
     <link>https://github.com/firecracker-microvm/firecracker</link>
@@ -26,14 +36,14 @@
     <description>Modern embedded framework, using Rust and async.</description>
   </item>
   <item>
-    <title>dmtrKovalenko / fff</title>
-    <link>https://github.com/dmtrKovalenko/fff</link>
-    <description>The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS</description>
-  </item>
-  <item>
     <title>stalwartlabs / stalwart</title>
     <link>https://github.com/stalwartlabs/stalwart</link>
     <description>All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</description>
+  </item>
+  <item>
+    <title>xingkongliang / skills-manager</title>
+    <link>https://github.com/xingkongliang/skills-manager</link>
+    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
   </item>
   <item>
     <title>rust-unofficial / awesome-rust</title>
@@ -41,44 +51,9 @@
     <description>A curated list of Rust code and resources.</description>
   </item>
   <item>
-    <title>dandavison / delta</title>
-    <link>https://github.com/dandavison/delta</link>
-    <description>A syntax-highlighting pager for git, diff, grep, rg --json, and blame output</description>
-  </item>
-  <item>
-    <title>tinyhumansai / openhuman</title>
-    <link>https://github.com/tinyhumansai/openhuman</link>
-    <description>OpenHuman is an open source personal AI for Mac, Windows and Linux — local-first memory, agent orchestration, and deep research.</description>
-  </item>
-  <item>
-    <title>tailcallhq / forgecode</title>
-    <link>https://github.com/tailcallhq/forgecode</link>
-    <description>AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models</description>
-  </item>
-  <item>
-    <title>starship / starship</title>
-    <link>https://github.com/starship/starship</link>
-    <description>☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</description>
-  </item>
-  <item>
-    <title>ajeetdsouza / zoxide</title>
-    <link>https://github.com/ajeetdsouza/zoxide</link>
-    <description>A smarter cd command. Supports all major shells.</description>
-  </item>
-  <item>
-    <title>pnpm / pnpm</title>
-    <link>https://github.com/pnpm/pnpm</link>
-    <description>Fast, disk space efficient package manager</description>
-  </item>
-  <item>
     <title>ankitects / anki</title>
     <link>https://github.com/ankitects/anki</link>
     <description>Anki is a smart spaced repetition flashcard program</description>
-  </item>
-  <item>
-    <title>xingkongliang / skills-manager</title>
-    <link>https://github.com/xingkongliang/skills-manager</link>
-    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
   </item>
   <item>
     <title>RizRiyz / luvus</title>
@@ -96,14 +71,29 @@
     <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
   </item>
   <item>
-    <title>GraphiteEditor / Graphite</title>
-    <link>https://github.com/GraphiteEditor/Graphite</link>
-    <description>Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine</description>
+    <title>starship / starship</title>
+    <link>https://github.com/starship/starship</link>
+    <description>☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</description>
   </item>
   <item>
-    <title>rtk-ai / rtk</title>
-    <link>https://github.com/rtk-ai/rtk</link>
-    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
+  </item>
+  <item>
+    <title>dmtrKovalenko / fff</title>
+    <link>https://github.com/dmtrKovalenko/fff</link>
+    <description>The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS</description>
+  </item>
+  <item>
+    <title>dandavison / delta</title>
+    <link>https://github.com/dandavison/delta</link>
+    <description>A syntax-highlighting pager for git, diff, grep, rg --json, and blame output</description>
+  </item>
+  <item>
+    <title>pnpm / pnpm</title>
+    <link>https://github.com/pnpm/pnpm</link>
+    <description>Fast, disk space efficient package manager</description>
   </item>
 </channel>
 </rss>

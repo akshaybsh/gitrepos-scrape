@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,19 +10,29 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46143,
-      "forks": 3956,
+      "stars": 46157,
+      "forks": 3958,
       "added_stars": "18 stars today"
     },
     {
-      "title": "plaintextaccounting / hledger",
-      "url": "https://github.com/plaintextaccounting/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 4692,
-      "forks": 413,
-      "added_stars": "2 stars today"
+      "stars": 39996,
+      "forks": 1944,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19388,
+      "forks": 1362,
+      "added_stars": "7 stars today"
     },
     {
       "title": "hadolint / hadolint",
@@ -32,27 +42,27 @@
       "languageColor": "#5e5086",
       "stars": 12385,
       "forks": 501,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 39989,
-      "forks": 1944,
-      "added_stars": "8 stars today"
+      "stars": 2926,
+      "forks": 429,
+      "added_stars": "1 star today"
     },
     {
-      "title": "carp-lang / Carp",
-      "url": "https://github.com/carp-lang/Carp",
-      "description": "A statically typed lisp, without a GC, for real-time applications.",
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6030,
-      "forks": 185,
-      "added_stars": "2 stars today"
+      "stars": 3177,
+      "forks": 752,
+      "added_stars": "0 stars today"
     },
     {
       "title": "mtolly / onyx",
@@ -63,6 +73,16 @@
       "stars": 292,
       "forks": 23,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27640,
+      "forks": 1227,
+      "added_stars": "2 stars today"
     }
   ]
 }

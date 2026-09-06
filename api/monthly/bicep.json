@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "microsoft-foundry / foundry-samples",
@@ -10,9 +10,19 @@
       "description": "Embedded samples in Azure AI Foundry docs",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 437,
+      "stars": 438,
       "forks": 481,
       "added_stars": "25 stars this month"
+    },
+    {
+      "title": "Azure / azure-quickstart-templates",
+      "url": "https://github.com/Azure/azure-quickstart-templates",
+      "description": "Azure Quickstart Templates",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 14872,
+      "forks": 16199,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "Azure / bicep",
@@ -22,17 +32,7 @@
       "languageColor": "#519aba",
       "stars": 3637,
       "forks": 826,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "Azure / azure-quickstart-templates",
-      "url": "https://github.com/Azure/azure-quickstart-templates",
-      "description": "Azure Quickstart Templates",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 14872,
-      "forks": 16198,
-      "added_stars": "42 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "Azure / bicep-registry-modules",

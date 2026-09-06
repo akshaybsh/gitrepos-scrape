@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
     {
       "title": "brendangregg / FlameGraph",
@@ -10,19 +10,29 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19731,
+      "stars": 19732,
       "forks": 2111,
-      "added_stars": "32 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
-      "title": "znuny / Znuny",
-      "url": "https://github.com/znuny/Znuny",
-      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
+      "title": "acl-org / ACLPUB",
+      "url": "https://github.com/acl-org/ACLPUB",
+      "description": "The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 591,
-      "forks": 121,
+      "stars": 252,
+      "forks": 306,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2324,
+      "forks": 642,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -33,6 +43,16 @@
       "stars": 484,
       "forks": 121,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "znuny / Znuny",
+      "url": "https://github.com/znuny/Znuny",
+      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 591,
+      "forks": 121,
+      "added_stars": "1 star this week"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -50,9 +70,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23502,
-      "forks": 1124,
-      "added_stars": "33 stars this week"
+      "stars": 23503,
+      "forks": 1125,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "Zimbra / zm-build",
@@ -65,6 +85,26 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3097,
+      "forks": 226,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3409,
+      "forks": 379,
+      "added_stars": "12 stars this week"
+    },
+    {
       "title": "inverse-inc / packetfence",
       "url": "https://github.com/inverse-inc/packetfence",
       "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
@@ -75,44 +115,14 @@
       "added_stars": "6 stars this week"
     },
     {
-      "title": "yaml / yaml-test-suite",
-      "url": "https://github.com/yaml/yaml-test-suite",
-      "description": "Comprehensive, language independent Test Suite for YAML",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 265,
-      "forks": 98,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3410,
-      "forks": 378,
-      "added_stars": "12 stars this week"
-    },
-    {
       "title": "OpenKore / openkore",
       "url": "https://github.com/OpenKore/openkore",
       "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 1514,
-      "forks": 1216,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "Difegue / LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3097,
-      "forks": 226,
-      "added_stars": "12 stars this week"
+      "forks": 1217,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "exiftool / exiftool",
@@ -120,9 +130,19 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5007,
+      "stars": 5008,
       "forks": 481,
-      "added_stars": "16 stars this week"
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3899,
+      "forks": 210,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "szTheory / exifcleaner",
@@ -130,9 +150,19 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2664,
+      "stars": 2665,
       "forks": 168,
-      "added_stars": "14 stars this week"
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "yaml / yaml-test-suite",
+      "url": "https://github.com/yaml/yaml-test-suite",
+      "description": "Comprehensive, language independent Test Suite for YAML",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 266,
+      "forks": 98,
+      "added_stars": "3 stars this week"
     }
   ]
 }

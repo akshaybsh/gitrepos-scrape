@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27437,
-      "forks": 7712,
-      "added_stars": "146 stars this month"
+      "stars": 27438,
+      "forks": 7710,
+      "added_stars": "144 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,9 +20,9 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1732,
+      "stars": 1735,
       "forks": 250,
-      "added_stars": "70 stars this month"
+      "added_stars": "71 stars this month"
     },
     {
       "title": "OpenMoonRay / openmoonray",
@@ -30,9 +30,9 @@
       "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 4721,
+      "stars": 4722,
       "forks": 313,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
@@ -42,7 +42,7 @@
       "languageColor": "#DA3434",
       "stars": 1634,
       "forks": 128,
-      "added_stars": "36 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "steinbergmedia / vst3sdk",
@@ -65,26 +65,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "corrosion-rs / corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1489,
-      "forks": 150,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "Andersama / obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 843,
-      "forks": 53,
-      "added_stars": "10 stars this month"
-    },
-    {
       "title": "TheLartians / PackageProject.cmake",
       "url": "https://github.com/TheLartians/PackageProject.cmake",
       "description": "🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.",
@@ -93,6 +73,16 @@
       "stars": 137,
       "forks": 18,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "Andersama / obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 844,
+      "forks": 53,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "arsenm / sanitizers-cmake",
@@ -105,14 +95,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "vector-of-bool / cmrc",
-      "url": "https://github.com/vector-of-bool/cmrc",
-      "description": "A Resource Compiler in a Single CMake Script",
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 776,
-      "forks": 84,
-      "added_stars": "0 stars this month"
+      "stars": 1489,
+      "forks": 150,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "KiCad / kicad-symbols",
@@ -135,14 +125,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "desktop-app / cmake_helpers",
-      "url": "https://github.com/desktop-app/cmake_helpers",
-      "description": "CMake helper scripts.",
+      "title": "vector-of-bool / cmrc",
+      "url": "https://github.com/vector-of-bool/cmrc",
+      "description": "A Resource Compiler in a Single CMake Script",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 144,
-      "forks": 149,
-      "added_stars": "5 stars this month"
+      "stars": 776,
+      "forks": 84,
+      "added_stars": "0 stars this month"
     }
   ]
 }

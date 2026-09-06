@@ -4,16 +4,26 @@
   <title>GitHub Shell Languages Daily Trending</title>
   <description>Daily Trending of Shell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:36:12 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:46:02 GMT</pubDate>
   <item>
     <title>mattpocock / skills</title>
     <link>https://github.com/mattpocock/skills</link>
     <description>Skills for Real Engineers. Straight from my .agents directory.</description>
   </item>
   <item>
+    <title>nvm-sh / nvm</title>
+    <link>https://github.com/nvm-sh/nvm</link>
+    <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump</description>
+  </item>
+  <item>
     <title>obra / superpowers</title>
     <link>https://github.com/obra/superpowers</link>
     <description>An agentic skills framework &amp; software development methodology that works.</description>
+  </item>
+  <item>
+    <title>VoltAgent / awesome-claude-code-subagents</title>
+    <link>https://github.com/VoltAgent/awesome-claude-code-subagents</link>
+    <description>A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases</description>
   </item>
   <item>
     <title>bin456789 / reinstall</title>
@@ -26,39 +36,14 @@
     <description>GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.</description>
   </item>
   <item>
-    <title>pyenv / pyenv</title>
-    <link>https://github.com/pyenv/pyenv</link>
-    <description>Simple Python version management</description>
+    <title>armbian / build</title>
+    <link>https://github.com/armbian/build</link>
+    <description>The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.</description>
   </item>
   <item>
-    <title>nvm-sh / nvm</title>
-    <link>https://github.com/nvm-sh/nvm</link>
-    <description>Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump</description>
-  </item>
-  <item>
-    <title>acmesh-official / acme.sh</title>
-    <link>https://github.com/acmesh-official/acme.sh</link>
-    <description>A pure Unix shell script ACME client for SSL / TLS certificate automation</description>
-  </item>
-  <item>
-    <title>nelvko / clash-for-linux-install</title>
-    <link>https://github.com/nelvko/clash-for-linux-install</link>
-    <description>😼 优雅地使用基于 clash/mihomo 的代理环境</description>
-  </item>
-  <item>
-    <title>openshift / release</title>
-    <link>https://github.com/openshift/release</link>
-    <description>Release tooling for OpenShift</description>
-  </item>
-  <item>
-    <title>microsoft / azure-skills</title>
-    <link>https://github.com/microsoft/azure-skills</link>
-    <description>Official agent plugin providing skills and MCP server configurations for Azure scenarios.</description>
-  </item>
-  <item>
-    <title>233boy / v2ray</title>
-    <link>https://github.com/233boy/v2ray</link>
-    <description>最好用的 V2Ray 一键安装脚本 &amp; 管理脚本</description>
+    <title>cloudflare / skills</title>
+    <link>https://github.com/cloudflare/skills</link>
+    <description>Skills for teaching agents how to build on Cloudflare.</description>
   </item>
   <item>
     <title>expo / skills</title>
@@ -66,9 +51,29 @@
     <description>A collection of AI agent skills for working with Expo projects and Expo Application Services</description>
   </item>
   <item>
-    <title>six2dez / reconftw</title>
-    <link>https://github.com/six2dez/reconftw</link>
-    <description>reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities</description>
+    <title>kodekloudhub / certified-kubernetes-administrator-course</title>
+    <link>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</link>
+    <description>Certified Kubernetes Administrator - CKA Course</description>
+  </item>
+  <item>
+    <title>omacom / omarchy-pkgs</title>
+    <link>https://github.com/omacom/omarchy-pkgs</link>
+    <description></description>
+  </item>
+  <item>
+    <title>VSCodium / vscodium</title>
+    <link>https://github.com/VSCodium/vscodium</link>
+    <description>binary releases of VS Code without MS branding/telemetry/licensing</description>
+  </item>
+  <item>
+    <title>RROrg / rr</title>
+    <link>https://github.com/RROrg/rr</link>
+    <description>Redpill Recovery (arpl-i18n)</description>
+  </item>
+  <item>
+    <title>skills / introduction-to-git</title>
+    <link>https://github.com/skills/introduction-to-git</link>
+    <description>Use Git version control to work on a game using command line (CLI) and VS Code</description>
   </item>
 </channel>
 </rss>

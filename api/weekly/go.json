@@ -2,57 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:38:18 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
   "items": [
-    {
-      "title": "majd / ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10885,
-      "forks": 910,
-      "added_stars": "903 stars this week"
-    },
-    {
-      "title": "JetBrains / go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "description": "Help AI coding agents write modern Go",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3194,
-      "forks": 93,
-      "added_stars": "648 stars this week"
-    },
     {
       "title": "tailscale / tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6258,
-      "forks": 240,
-      "added_stars": "3,762 stars this week"
+      "stars": 6413,
+      "forks": 245,
+      "added_stars": "3,187 stars this week"
     },
     {
-      "title": "SagerNet / sing-box",
-      "url": "https://github.com/SagerNet/sing-box",
-      "description": "The universal proxy platform",
+      "title": "majd / ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37630,
-      "forks": 4527,
-      "added_stars": "320 stars this week"
-    },
-    {
-      "title": "TecharoHQ / anubis",
-      "url": "https://github.com/TecharoHQ/anubis",
-      "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22136,
-      "forks": 710,
-      "added_stars": "351 stars this week"
+      "stars": 10926,
+      "forks": 913,
+      "added_stars": "926 stars this week"
     },
     {
       "title": "danielmiessler / Fabric",
@@ -60,49 +30,19 @@
       "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 43820,
-      "forks": 4254,
-      "added_stars": "292 stars this week"
+      "stars": 43838,
+      "forks": 4253,
+      "added_stars": "301 stars this week"
     },
     {
-      "title": "seakee / CPA-Manager-Plus",
-      "url": "https://github.com/seakee/CPA-Manager-Plus",
-      "description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
+      "title": "SagerNet / sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3201,
-      "forks": 327,
-      "added_stars": "264 stars this week"
-    },
-    {
-      "title": "weave-os / router",
-      "url": "https://github.com/weave-os/router",
-      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3878,
-      "forks": 109,
-      "added_stars": "1,521 stars this week"
-    },
-    {
-      "title": "kenn-io / agentsview",
-      "url": "https://github.com/kenn-io/agentsview",
-      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5771,
-      "forks": 651,
-      "added_stars": "467 stars this week"
-    },
-    {
-      "title": "Ed1s0nZ / CyberStrikeAI",
-      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
-      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6383,
-      "forks": 1034,
-      "added_stars": "342 stars this week"
+      "stars": 37664,
+      "forks": 4534,
+      "added_stars": "329 stars this week"
     },
     {
       "title": "vllm-project / semantic-router",
@@ -110,39 +50,19 @@
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5574,
-      "forks": 910,
-      "added_stars": "180 stars this week"
+      "stars": 5602,
+      "forks": 914,
+      "added_stars": "186 stars this week"
     },
     {
-      "title": "tailscale / tailscale",
-      "url": "https://github.com/tailscale/tailscale",
-      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "title": "TecharoHQ / anubis",
+      "url": "https://github.com/TecharoHQ/anubis",
+      "description": "Weighs the soul of incoming HTTP requests to stop AI crawlers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36128,
-      "forks": 3164,
-      "added_stars": "442 stars this week"
-    },
-    {
-      "title": "glanceapp / glance",
-      "url": "https://github.com/glanceapp/glance",
-      "description": "A self-hosted dashboard that puts all your feeds in one place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36850,
-      "forks": 1445,
-      "added_stars": "201 stars this week"
-    },
-    {
-      "title": "slackhq / nebula",
-      "url": "https://github.com/slackhq/nebula",
-      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 18288,
-      "forks": 1181,
-      "added_stars": "635 stars this week"
+      "stars": 22159,
+      "forks": 709,
+      "added_stars": "349 stars this week"
     },
     {
       "title": "go-vikunja / vikunja",
@@ -150,9 +70,19 @@
       "description": "The task manager you actually own.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5279,
-      "forks": 664,
-      "added_stars": "88 stars this week"
+      "stars": 5291,
+      "forks": 666,
+      "added_stars": "94 stars this week"
+    },
+    {
+      "title": "JetBrains / go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "description": "Help AI coding agents write modern Go",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3237,
+      "forks": 96,
+      "added_stars": "436 stars this week"
     },
     {
       "title": "TencentCloud / CubeSandbox",
@@ -160,29 +90,69 @@
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11790,
-      "forks": 1098,
-      "added_stars": "411 stars this week"
+      "stars": 11808,
+      "forks": 1099,
+      "added_stars": "435 stars this week"
     },
     {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "title": "seakee / CPA-Manager-Plus",
+      "url": "https://github.com/seakee/CPA-Manager-Plus",
+      "description": "A self-hosted CPA / CLIProxyAPI management panel and AI gateway observability dashboard for requests, usage, cost, quota, failures, and account health.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21370,
-      "forks": 3092,
-      "added_stars": "500 stars this week"
+      "stars": 3220,
+      "forks": 330,
+      "added_stars": "280 stars this week"
     },
     {
-      "title": "dapr / dapr",
-      "url": "https://github.com/dapr/dapr",
-      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+      "title": "slackhq / nebula",
+      "url": "https://github.com/slackhq/nebula",
+      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26071,
-      "forks": 2144,
-      "added_stars": "36 stars this week"
+      "stars": 18297,
+      "forks": 1181,
+      "added_stars": "637 stars this week"
+    },
+    {
+      "title": "kenn-io / agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "description": "Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5780,
+      "forks": 653,
+      "added_stars": "292 stars this week"
+    },
+    {
+      "title": "weave-os / router",
+      "url": "https://github.com/weave-os/router",
+      "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3952,
+      "forks": 112,
+      "added_stars": "1,378 stars this week"
+    },
+    {
+      "title": "tailscale / tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "description": "The easiest, most secure way to use WireGuard and 2FA.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36153,
+      "forks": 3173,
+      "added_stars": "410 stars this week"
+    },
+    {
+      "title": "kopia / kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14050,
+      "forks": 722,
+      "added_stars": "66 stars this week"
     },
     {
       "title": "seaweedfs / seaweedfs",
@@ -190,49 +160,79 @@
       "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 34472,
-      "forks": 2985,
-      "added_stars": "137 stars this week"
+      "stars": 34485,
+      "forks": 2988,
+      "added_stars": "140 stars this week"
     },
     {
-      "title": "semaphoreui / semaphore",
-      "url": "https://github.com/semaphoreui/semaphore",
-      "description": "Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.",
+      "title": "Ed1s0nZ / CyberStrikeAI",
+      "url": "https://github.com/Ed1s0nZ/CyberStrikeAI",
+      "description": "The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14098,
-      "forks": 1301,
-      "added_stars": "37 stars this week"
+      "stars": 6393,
+      "forks": 1035,
+      "added_stars": "351 stars this week"
     },
     {
-      "title": "juanfont / headscale",
-      "url": "https://github.com/juanfont/headscale",
-      "description": "An open source, self-hosted implementation of the Tailscale control server",
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 43562,
-      "forks": 2557,
-      "added_stars": "302 stars this week"
+      "stars": 21468,
+      "forks": 3102,
+      "added_stars": "545 stars this week"
     },
     {
-      "title": "Layr-Labs / d-inference",
-      "url": "https://github.com/Layr-Labs/d-inference",
-      "description": "Private Inference Network on Idle Macs",
+      "title": "dapr / dapr",
+      "url": "https://github.com/dapr/dapr",
+      "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 495,
-      "forks": 105,
-      "added_stars": "34 stars this week"
+      "stars": 26076,
+      "forks": 2145,
+      "added_stars": "41 stars this week"
     },
     {
-      "title": "milvus-io / milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
+      "title": "netbirdio / netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 45978,
-      "forks": 4227,
-      "added_stars": "136 stars this week"
+      "stars": 28940,
+      "forks": 1656,
+      "added_stars": "222 stars this week"
+    },
+    {
+      "title": "henrygd / beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25107,
+      "forks": 994,
+      "added_stars": "277 stars this week"
+    },
+    {
+      "title": "cloudflare / cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15525,
+      "forks": 1421,
+      "added_stars": "101 stars this week"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 45954,
+      "forks": 11103,
+      "added_stars": "426 stars this week"
     }
   ]
 }

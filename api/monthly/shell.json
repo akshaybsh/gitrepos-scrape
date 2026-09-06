@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:40:26 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
   "items": [
     {
       "title": "omacom / omarchy",
@@ -10,9 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 38104,
-      "forks": 4054,
-      "added_stars": "13,961 stars this month"
+      "stars": 38387,
+      "forks": 4104,
+      "added_stars": "14,222 stars this month"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,9 +20,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4798,
-      "forks": 1562,
-      "added_stars": "2,007 stars this month"
+      "stars": 4844,
+      "forks": 1582,
+      "added_stars": "1,985 stars this month"
     },
     {
       "title": "mattpocock / skills",
@@ -30,19 +30,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 250843,
-      "forks": 21198,
-      "added_stars": "48,036 stars this month"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 94832,
-      "forks": 10416,
-      "added_stars": "636 stars this month"
+      "stars": 253099,
+      "forks": 21359,
+      "added_stars": "48,649 stars this month"
     },
     {
       "title": "llm-d / llm-d",
@@ -50,19 +40,19 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4419,
-      "forks": 747,
-      "added_stars": "457 stars this month"
+      "stars": 4426,
+      "forks": 749,
+      "added_stars": "454 stars this month"
     },
     {
-      "title": "d3 / d3",
-      "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 113628,
-      "forks": 22666,
-      "added_stars": "465 stars this month"
+      "stars": 94952,
+      "forks": 10427,
+      "added_stars": "670 stars this month"
     },
     {
       "title": "termux / termux-packages",
@@ -70,19 +60,9 @@
       "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16904,
-      "forks": 4367,
-      "added_stars": "224 stars this month"
-    },
-    {
-      "title": "BtbN / FFmpeg-Builds",
-      "url": "https://github.com/BtbN/FFmpeg-Builds",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11612,
-      "forks": 1522,
-      "added_stars": "250 stars this month"
+      "stars": 16910,
+      "forks": 4370,
+      "added_stars": "225 stars this month"
     },
     {
       "title": "community-scripts / ProxmoxVE",
@@ -90,29 +70,19 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29498,
+      "stars": 29504,
       "forks": 2865,
-      "added_stars": "389 stars this month"
+      "added_stars": "388 stars this month"
     },
     {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "title": "BtbN / FFmpeg-Builds",
+      "url": "https://github.com/BtbN/FFmpeg-Builds",
+      "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33118,
-      "forks": 1860,
-      "added_stars": "544 stars this month"
-    },
-    {
-      "title": "eugr / spark-vllm-docker",
-      "url": "https://github.com/eugr/spark-vllm-docker",
-      "description": "Docker configuration for running VLLM on dual DGX Sparks",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2226,
-      "forks": 382,
-      "added_stars": "281 stars this month"
+      "stars": 11617,
+      "forks": 1524,
+      "added_stars": "245 stars this month"
     },
     {
       "title": "armbian / build",
@@ -120,9 +90,39 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5398,
-      "forks": 3126,
-      "added_stars": "72 stars this month"
+      "stars": 5400,
+      "forks": 3130,
+      "added_stars": "75 stars this month"
+    },
+    {
+      "title": "d3 / d3",
+      "url": "https://github.com/d3/d3",
+      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 113649,
+      "forks": 22667,
+      "added_stars": "476 stars this month"
+    },
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33134,
+      "forks": 1860,
+      "added_stars": "542 stars this month"
+    },
+    {
+      "title": "eugr / spark-vllm-docker",
+      "url": "https://github.com/eugr/spark-vllm-docker",
+      "description": "Docker configuration for running VLLM on dual DGX Sparks",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2231,
+      "forks": 382,
+      "added_stars": "281 stars this month"
     },
     {
       "title": "1N3 / Sn1per",
@@ -130,9 +130,9 @@
       "description": "Automated penetration testing & attack surface management platform. Recon, scan, exploit, report — 600+ exploits, 90+ integrations, 10K+ detections.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11198,
-      "forks": 2187,
-      "added_stars": "521 stars this month"
+      "stars": 11202,
+      "forks": 2188,
+      "added_stars": "505 stars this month"
     },
     {
       "title": "SimoneAvogadro / android-reverse-engineering-skill",
@@ -140,9 +140,19 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7702,
-      "forks": 871,
-      "added_stars": "1,040 stars this month"
+      "stars": 7705,
+      "forks": 872,
+      "added_stars": "1,039 stars this month"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9161,
+      "forks": 286,
+      "added_stars": "363 stars this month"
     },
     {
       "title": "Donchitos / Claude-Code-Game-Studios",
@@ -150,9 +160,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24823,
-      "forks": 3545,
-      "added_stars": "1,315 stars this month"
+      "stars": 24837,
+      "forks": 3550,
+      "added_stars": "1,303 stars this month"
     }
   ]
 }

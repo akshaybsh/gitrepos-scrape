@@ -2,107 +2,47 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 05 Sep 2026 06:36:12 GMT",
+  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
   "items": [
-    {
-      "title": "DataTalksClub / llm-zoomcamp",
-      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
-      "description": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 7208,
-      "forks": 1334,
-      "added_stars": "16 stars today"
-    },
     {
       "title": "Lordog / dive-into-llms",
       "url": "https://github.com/Lordog/dive-into-llms",
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 51842,
-      "forks": 6198,
-      "added_stars": "186 stars today"
+      "stars": 52059,
+      "forks": 6219,
+      "added_stars": "243 stars today"
     },
     {
-      "title": "greyhatguy007 / Machine-Learning-Specialization-Coursera",
-      "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
-      "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+      "title": "GoogleCloudPlatform / generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 7878,
-      "forks": 3735,
+      "stars": 17668,
+      "forks": 4434,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "karpathy / nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 24265,
+      "forks": 3556,
       "added_stars": "10 stars today"
     },
     {
-      "title": "ageron / handson-ml3",
-      "url": "https://github.com/ageron/handson-ml3",
-      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+      "title": "NVIDIA / cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 14071,
-      "forks": 5285,
+      "stars": 11741,
+      "forks": 860,
       "added_stars": "5 stars today"
-    },
-    {
-      "title": "anthropics / claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 52439,
-      "forks": 6271,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "microsoft / ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "18 Lessons to Get Started Building AI Agents",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 73964,
-      "forks": 24424,
-      "added_stars": "99 stars today"
-    },
-    {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6100,
-      "forks": 5239,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "microsoft / generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 119178,
-      "forks": 62769,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "microsoft / mcp-for-beginners",
-      "url": "https://github.com/microsoft/mcp-for-beginners",
-      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17157,
-      "forks": 5584,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "facebookresearch / audiocraft",
-      "url": "https://github.com/facebookresearch/audiocraft",
-      "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 23608,
-      "forks": 2697,
-      "added_stars": "3 stars today"
     },
     {
       "title": "jackfrued / Python-100-Days",
@@ -110,29 +50,29 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 185940,
-      "forks": 55712,
-      "added_stars": "45 stars today"
+      "stars": 185986,
+      "forks": 55717,
+      "added_stars": "36 stars today"
     },
     {
-      "title": "gepa-ai / gepa",
-      "url": "https://github.com/gepa-ai/gepa",
-      "description": "Optimize prompts, code, and more with AI-powered Reflective Optimization",
+      "title": "NirDiamant / RAG_Techniques",
+      "url": "https://github.com/NirDiamant/RAG_Techniques",
+      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 6416,
-      "forks": 535,
-      "added_stars": "20 stars today"
+      "stars": 29384,
+      "forks": 3597,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "langchain-ai / rag-from-scratch",
-      "url": "https://github.com/langchain-ai/rag-from-scratch",
-      "description": "",
+      "title": "GokuMohandas / Made-With-ML",
+      "url": "https://github.com/GokuMohandas/Made-With-ML",
+      "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 9251,
-      "forks": 2186,
-      "added_stars": "6 stars today"
+      "stars": 49365,
+      "forks": 7748,
+      "added_stars": "12 stars today"
     },
     {
       "title": "facebookresearch / sam2",
@@ -140,19 +80,59 @@
       "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 19811,
-      "forks": 2537,
-      "added_stars": "10 stars today"
+      "stars": 19810,
+      "forks": 2538,
+      "added_stars": "1 star today"
     },
     {
-      "title": "Pierian-Data / Complete-Python-3-Bootcamp",
-      "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
-      "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+      "title": "microsoft / ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "description": "18 Lessons to Get Started Building AI Agents",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29747,
-      "forks": 87234,
+      "stars": 74015,
+      "forks": 24437,
+      "added_stars": "60 stars today"
+    },
+    {
+      "title": "OpenBMB / MiniCPM",
+      "url": "https://github.com/OpenBMB/MiniCPM",
+      "description": "MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 10309,
+      "forks": 700,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "anthropics / claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 52455,
+      "forks": 6280,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "romanmichaelpaolucci / Quant-Guild-Library",
+      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
+      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 1440,
+      "forks": 335,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "NirDiamant / GenAI_Agents",
+      "url": "https://github.com/NirDiamant/GenAI_Agents",
+      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 24157,
+      "forks": 4064,
+      "added_stars": "15 stars today"
     }
   ]
 }

@@ -4,16 +4,11 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 05 Sep 2026 06:38:18 GMT</pubDate>
+  <pubDate>Sun, 06 Sep 2026 06:48:14 GMT</pubDate>
   <item>
     <title>valkey-io / valkey</title>
     <link>https://github.com/valkey-io/valkey</link>
     <description>A flexible distributed key-value database that is optimized for caching and other realtime workloads.</description>
-  </item>
-  <item>
-    <title>aircrack-ng / aircrack-ng</title>
-    <link>https://github.com/aircrack-ng/aircrack-ng</link>
-    <description>WiFi security auditing tools suite</description>
   </item>
   <item>
     <title>Genymobile / scrcpy</title>
@@ -21,34 +16,14 @@
     <description>Display and control your Android device</description>
   </item>
   <item>
+    <title>aircrack-ng / aircrack-ng</title>
+    <link>https://github.com/aircrack-ng/aircrack-ng</link>
+    <description>WiFi security auditing tools suite</description>
+  </item>
+  <item>
     <title>sumatrapdfreader / sumatrapdf</title>
     <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
     <description>SumatraPDF reader</description>
-  </item>
-  <item>
-    <title>ImageMagick / ImageMagick</title>
-    <link>https://github.com/ImageMagick/ImageMagick</link>
-    <description>ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.</description>
-  </item>
-  <item>
-    <title>nothings / stb</title>
-    <link>https://github.com/nothings/stb</link>
-    <description>stb single-file public domain libraries for C/C++</description>
-  </item>
-  <item>
-    <title>merbanan / rtl_433</title>
-    <link>https://github.com/merbanan/rtl_433</link>
-    <description>Program to decode radio transmissions from devices on the ISM bands (and other frequencies)</description>
-  </item>
-  <item>
-    <title>openssl / openssl</title>
-    <link>https://github.com/openssl/openssl</link>
-    <description>General purpose TLS and crypto library</description>
-  </item>
-  <item>
-    <title>lvgl / lvgl</title>
-    <link>https://github.com/lvgl/lvgl</link>
-    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
   </item>
   <item>
     <title>openwrt / openwrt</title>
@@ -56,19 +31,9 @@
     <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-  </item>
-  <item>
-    <title>DeusData / codebase-memory-mcp</title>
-    <link>https://github.com/DeusData/codebase-memory-mcp</link>
-    <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
-  </item>
-  <item>
-    <title>OpenVPN / openvpn</title>
-    <link>https://github.com/OpenVPN/openvpn</link>
-    <description>OpenVPN is an open source VPN daemon</description>
+    <title>colbymchenry / codegraph</title>
+    <link>https://github.com/colbymchenry/codegraph</link>
+    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
   </item>
   <item>
     <title>curl / curl</title>
@@ -76,24 +41,9 @@
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>FreeRDP / FreeRDP</title>
-    <link>https://github.com/FreeRDP/FreeRDP</link>
-    <description>FreeRDP is a free remote desktop protocol library and clients</description>
-  </item>
-  <item>
-    <title>raspberrypi / linux</title>
-    <link>https://github.com/raspberrypi/linux</link>
-    <description>Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/</description>
-  </item>
-  <item>
-    <title>facebook / zstd</title>
-    <link>https://github.com/facebook/zstd</link>
-    <description>Zstandard - Fast real-time compression algorithm</description>
-  </item>
-  <item>
-    <title>rexglue / rexglue-sdk</title>
-    <link>https://github.com/rexglue/rexglue-sdk</link>
-    <description>Xbox 360 Recompilation Runtime and Toolkit</description>
+    <title>DeusData / codebase-memory-mcp</title>
+    <link>https://github.com/DeusData/codebase-memory-mcp</link>
+    <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
   </item>
   <item>
     <title>winsiderss / systeminformer</title>
@@ -101,19 +51,59 @@
     <description>A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars &amp; Solutions, Inc. @ https://windows-internals.com</description>
   </item>
   <item>
-    <title>mpv-player / mpv</title>
-    <link>https://github.com/mpv-player/mpv</link>
-    <description>🎥 Command line media player</description>
+    <title>OpenVPN / openvpn</title>
+    <link>https://github.com/OpenVPN/openvpn</link>
+    <description>OpenVPN is an open source VPN daemon</description>
   </item>
   <item>
-    <title>raysan5 / raylib</title>
-    <link>https://github.com/raysan5/raylib</link>
-    <description>A simple and easy-to-use library to enjoy videogames programming</description>
+    <title>nothings / stb</title>
+    <link>https://github.com/nothings/stb</link>
+    <description>stb single-file public domain libraries for C/C++</description>
   </item>
   <item>
-    <title>Dr-TSNG / ZygiskNext</title>
-    <link>https://github.com/Dr-TSNG/ZygiskNext</link>
-    <description>Standalone implementation of Zygisk</description>
+    <title>facebook / zstd</title>
+    <link>https://github.com/facebook/zstd</link>
+    <description>Zstandard - Fast real-time compression algorithm</description>
+  </item>
+  <item>
+    <title>ImageMagick / ImageMagick</title>
+    <link>https://github.com/ImageMagick/ImageMagick</link>
+    <description>ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.</description>
+  </item>
+  <item>
+    <title>zephyrproject-rtos / zephyr</title>
+    <link>https://github.com/zephyrproject-rtos/zephyr</link>
+    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
+  </item>
+  <item>
+    <title>libretro / RetroArch</title>
+    <link>https://github.com/libretro/RetroArch</link>
+    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+  </item>
+  <item>
+    <title>openssl / openssl</title>
+    <link>https://github.com/openssl/openssl</link>
+    <description>General purpose TLS and crypto library</description>
+  </item>
+  <item>
+    <title>raspberrypi / linux</title>
+    <link>https://github.com/raspberrypi/linux</link>
+    <description>Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/</description>
+  </item>
+  <item>
+    <title>lvgl / lvgl</title>
+    <link>https://github.com/lvgl/lvgl</link>
+    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
+  </item>
+  <item>
+    <title>NebuSec / CyberMeowfia</title>
+    <link>https://github.com/NebuSec/CyberMeowfia</link>
+    <description>PoCs and exploits for CVEs discovered by NebuSec.</description>
+  </item>
+  <item>
+    <title>rexglue / rexglue-sdk</title>
+    <link>https://github.com/rexglue/rexglue-sdk</link>
+    <description>Xbox 360 Recompilation Runtime and Toolkit</description>
   </item>
 </channel>
 </rss>
