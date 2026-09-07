@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 253096,
-      "forks": 21359,
-      "added_stars": "2,692 stars today"
+      "stars": 255186,
+      "forks": 21505,
+      "added_stars": "2,207 stars today"
     },
     {
       "title": "nvm-sh / nvm",
@@ -20,59 +20,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 94951,
-      "forks": 10427,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 282166,
-      "forks": 25274,
-      "added_stars": "323 stars today"
-    },
-    {
-      "title": "VoltAgent / awesome-claude-code-subagents",
-      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
-      "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 24884,
-      "forks": 2878,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "bin456789 / reinstall",
-      "url": "https://github.com/bin456789/reinstall",
-      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 12998,
-      "forks": 2090,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11138,
-      "forks": 1914,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "armbian / build",
-      "url": "https://github.com/armbian/build",
-      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5400,
-      "forks": 3130,
-      "added_stars": "2 stars today"
+      "stars": 95009,
+      "forks": 10434,
+      "added_stars": "150 stars today"
     },
     {
       "title": "cloudflare / skills",
@@ -80,9 +30,99 @@
       "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2791,
-      "forks": 269,
+      "stars": 2794,
+      "forks": 271,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "pi-hole / pi-hole",
+      "url": "https://github.com/pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 60784,
+      "forks": 3306,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "youngyangyang04 / leetcode-master",
+      "url": "https://github.com/youngyangyang04/leetcode-master",
+      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 62398,
+      "forks": 12302,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "kunchenguid / firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4889,
+      "forks": 1604,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "ophub / amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9757,
+      "forks": 3127,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "msitarzewski / agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 150560,
+      "forks": 24262,
+      "added_stars": "200 stars today"
+    },
+    {
+      "title": "pystardust / ani-cli",
+      "url": "https://github.com/pystardust/ani-cli",
+      "description": "A cli tool to browse and play anime",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 13733,
+      "forks": 877,
       "added_stars": "11 stars today"
+    },
+    {
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 16918,
+      "forks": 4374,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "WhatsApp / proxy",
+      "url": "https://github.com/WhatsApp/proxy",
+      "description": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2342,
+      "forks": 995,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "hq450 / fancyss",
+      "url": "https://github.com/hq450/fancyss",
+      "description": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 13737,
+      "forks": 3247,
+      "added_stars": "2 stars today"
     },
     {
       "title": "expo / skills",
@@ -90,59 +130,49 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2503,
+      "stars": 2504,
       "forks": 140,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "kodekloudhub / certified-kubernetes-administrator-course",
-      "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
-      "description": "Certified Kubernetes Administrator - CKA Course",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 10809,
-      "forks": 9618,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "omacom / omarchy-pkgs",
-      "url": "https://github.com/omacom/omarchy-pkgs",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 98,
-      "forks": 113,
       "added_stars": "2 stars today"
     },
     {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33134,
-      "forks": 1860,
-      "added_stars": "15 stars today"
+      "stars": 53184,
+      "forks": 4742,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "RROrg / rr",
-      "url": "https://github.com/RROrg/rr",
-      "description": "Redpill Recovery (arpl-i18n)",
+      "title": "pyenv / pyenv",
+      "url": "https://github.com/pyenv/pyenv",
+      "description": "Simple Python version management",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 8593,
-      "forks": 1371,
+      "stars": 45081,
+      "forks": 3272,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "aditya-shri / VPN",
+      "url": "https://github.com/aditya-shri/VPN",
+      "description": "Personal VPN using Shadowsocks and v2ray",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2105,
+      "forks": 1411,
       "added_stars": "4 stars today"
     },
     {
-      "title": "skills / introduction-to-git",
-      "url": "https://github.com/skills/introduction-to-git",
-      "description": "Use Git version control to work on a game using command line (CLI) and VS Code",
+      "title": "sabamdarif / termux-desktop",
+      "url": "https://github.com/sabamdarif/termux-desktop",
+      "description": "Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 196,
-      "forks": 151,
-      "added_stars": "1 star today"
+      "stars": 2233,
+      "forks": 948,
+      "added_stars": "7 stars today"
     }
   ]
 }

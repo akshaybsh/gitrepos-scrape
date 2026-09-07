@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,9 +10,9 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 40133,
-      "forks": 18551,
-      "added_stars": "626 stars this month"
+      "stars": 40269,
+      "forks": 18563,
+      "added_stars": "691 stars this month"
     },
     {
       "title": "arm / arm-toolchain",
@@ -25,16 +25,6 @@
       "added_stars": "10 stars this month"
     },
     {
-      "title": "intel / llvm",
-      "url": "https://github.com/intel/llvm",
-      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 1521,
-      "forks": 853,
-      "added_stars": "18 stars this month"
-    },
-    {
       "title": "KhronosGroup / SPIRV-LLVM-Translator",
       "url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator",
       "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
@@ -43,6 +33,16 @@
       "stars": 623,
       "forks": 276,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "intel / llvm",
+      "url": "https://github.com/intel/llvm",
+      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 1521,
+      "forks": 853,
+      "added_stars": "18 stars this month"
     }
   ]
 }

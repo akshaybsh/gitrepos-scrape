@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,19 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 253099,
-      "forks": 21359,
-      "added_stars": "11,871 stars this week"
-    },
-    {
-      "title": "quickemu-project / quickemu",
-      "url": "https://github.com/quickemu-project/quickemu",
-      "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16112,
-      "forks": 734,
-      "added_stars": "333 stars this week"
+      "stars": 255189,
+      "forks": 21506,
+      "added_stars": "12,898 stars this week"
     },
     {
       "title": "omacom / omarchy",
@@ -30,9 +20,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 38387,
-      "forks": 4104,
-      "added_stars": "3,631 stars this week"
+      "stars": 38692,
+      "forks": 4163,
+      "added_stars": "3,245 stars this week"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -40,19 +30,19 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4844,
-      "forks": 1582,
-      "added_stars": "480 stars this week"
+      "stars": 4889,
+      "forks": 1604,
+      "added_stars": "427 stars this week"
     },
     {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "title": "quickemu-project / quickemu",
+      "url": "https://github.com/quickemu-project/quickemu",
+      "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29504,
-      "forks": 2865,
-      "added_stars": "85 stars this week"
+      "stars": 16127,
+      "forks": 735,
+      "added_stars": "219 stars this week"
     },
     {
       "title": "OthmanAdi / planning-with-files",
@@ -60,29 +50,9 @@
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26649,
-      "forks": 2220,
-      "added_stars": "257 stars this week"
-    },
-    {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 7705,
-      "forks": 872,
-      "added_stars": "204 stars this week"
-    },
-    {
-      "title": "llm-d / llm-d",
-      "url": "https://github.com/llm-d/llm-d",
-      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4426,
-      "forks": 749,
-      "added_stars": "102 stars this week"
+      "stars": 26682,
+      "forks": 2225,
+      "added_stars": "247 stars this week"
     },
     {
       "title": "pystardust / ani-cli",
@@ -90,9 +60,39 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13725,
-      "forks": 875,
-      "added_stars": "87 stars this week"
+      "stars": 13733,
+      "forks": 877,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29516,
+      "forks": 2868,
+      "added_stars": "85 stars this week"
+    },
+    {
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 95009,
+      "forks": 10434,
+      "added_stars": "257 stars this week"
+    },
+    {
+      "title": "llm-d / llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4435,
+      "forks": 752,
+      "added_stars": "99 stars this week"
     },
     {
       "title": "bin456789 / reinstall",
@@ -100,29 +100,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 12998,
-      "forks": 2090,
-      "added_stars": "131 stars this week"
-    },
-    {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 33134,
-      "forks": 1860,
-      "added_stars": "130 stars this week"
-    },
-    {
-      "title": "MichaelCade / 90DaysOfDevOps",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29706,
-      "forks": 6753,
-      "added_stars": "38 stars this week"
+      "stars": 13122,
+      "forks": 2112,
+      "added_stars": "181 stars this week"
     },
     {
       "title": "dockur / windows",
@@ -130,9 +110,9 @@
       "description": "Windows inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 53174,
-      "forks": 4740,
-      "added_stars": "118 stars this week"
+      "stars": 53184,
+      "forks": 4742,
+      "added_stars": "121 stars this week"
     },
     {
       "title": "acmesh-official / acme.sh",
@@ -140,49 +120,39 @@
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47591,
-      "forks": 5661,
+      "stars": 47595,
+      "forks": 5663,
       "added_stars": "47 stars this week"
     },
     {
-      "title": "dokku / dokku",
-      "url": "https://github.com/dokku/dokku",
-      "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+      "title": "RROrg / rr",
+      "url": "https://github.com/RROrg/rr",
+      "description": "Redpill Recovery (arpl-i18n)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 32122,
-      "forks": 2072,
-      "added_stars": "14 stars this week"
+      "stars": 8594,
+      "forks": 1371,
+      "added_stars": "19 stars this week"
     },
     {
-      "title": "mbadolato / iTerm2-Color-Schemes",
-      "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
-      "description": "Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, Ghostty, and many more",
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 27177,
-      "forks": 6514,
-      "added_stars": "29 stars this week"
+      "stars": 33150,
+      "forks": 1862,
+      "added_stars": "125 stars this week"
     },
     {
-      "title": "ophub / amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "title": "nelvko / clash-for-linux-install",
+      "url": "https://github.com/nelvko/clash-for-linux-install",
+      "description": "😼 优雅地使用基于 clash/mihomo 的代理环境",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9750,
-      "forks": 3126,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "mack-a / v2ray-agent",
-      "url": "https://github.com/mack-a/v2ray-agent",
-      "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 21817,
-      "forks": 5539,
-      "added_stars": "80 stars this week"
+      "stars": 14704,
+      "forks": 1630,
+      "added_stars": "93 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "google / googletest",
@@ -10,9 +10,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39492,
-      "forks": 10889,
-      "added_stars": "663 stars this month"
+      "stars": 39499,
+      "forks": 10891,
+      "added_stars": "658 stars this month"
     },
     {
       "title": "microsoft / microsoft-ui-xaml",
@@ -20,29 +20,9 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8342,
-      "forks": 935,
-      "added_stars": "522 stars this month"
-    },
-    {
-      "title": "microsoft / onnxruntime",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21769,
-      "forks": 4210,
-      "added_stars": "515 stars this month"
-    },
-    {
-      "title": "dragonflydb / dragonfly",
-      "url": "https://github.com/dragonflydb/dragonfly",
-      "description": "A modern replacement for Redis and Memcached",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31429,
-      "forks": 1255,
-      "added_stars": "505 stars this month"
+      "stars": 8355,
+      "forks": 936,
+      "added_stars": "530 stars this month"
     },
     {
       "title": "audacity / audacity",
@@ -50,9 +30,29 @@
       "description": "Audio Editor",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18278,
-      "forks": 2648,
-      "added_stars": "789 stars this month"
+      "stars": 18313,
+      "forks": 2650,
+      "added_stars": "834 stars this month"
+    },
+    {
+      "title": "microsoft / onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21783,
+      "forks": 4209,
+      "added_stars": "520 stars this month"
+    },
+    {
+      "title": "dragonflydb / dragonfly",
+      "url": "https://github.com/dragonflydb/dragonfly",
+      "description": "A modern replacement for Redis and Memcached",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 31442,
+      "forks": 1256,
+      "added_stars": "514 stars this month"
     },
     {
       "title": "prusa3d / PrusaSlicer",
@@ -60,8 +60,8 @@
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9304,
-      "forks": 2338,
+      "stars": 9308,
+      "forks": 2339,
       "added_stars": "109 stars this month"
     },
     {
@@ -70,9 +70,9 @@
       "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 49415,
-      "forks": 2838,
-      "added_stars": "387 stars this month"
+      "stars": 49430,
+      "forks": 2839,
+      "added_stars": "396 stars this month"
     },
     {
       "title": "fmtlib / fmt",
@@ -80,39 +80,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25589,
-      "forks": 3043,
-      "added_stars": "1,898 stars this month"
-    },
-    {
-      "title": "electron / electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122901,
-      "forks": 17462,
-      "added_stars": "841 stars this month"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 127191,
-      "forks": 22825,
-      "added_stars": "4,847 stars this month"
-    },
-    {
-      "title": "cloudflare / workerd",
-      "url": "https://github.com/cloudflare/workerd",
-      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8685,
-      "forks": 733,
-      "added_stars": "242 stars this month"
+      "stars": 25631,
+      "forks": 3047,
+      "added_stars": "1,960 stars this month"
     },
     {
       "title": "dmlc / xgboost",
@@ -120,9 +90,29 @@
       "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28738,
-      "forks": 8892,
+      "stars": 28740,
+      "forks": 8891,
       "added_stars": "131 stars this month"
+    },
+    {
+      "title": "electron / electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122918,
+      "forks": 17463,
+      "added_stars": "839 stars this month"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 127310,
+      "forks": 22846,
+      "added_stars": "4,862 stars this month"
     },
     {
       "title": "moonlight-stream / moonlight-qt",
@@ -130,9 +120,39 @@
       "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18540,
-      "forks": 1286,
-      "added_stars": "428 stars this month"
+      "stars": 18552,
+      "forks": 1288,
+      "added_stars": "424 stars this month"
+    },
+    {
+      "title": "cloudflare / workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8690,
+      "forks": 735,
+      "added_stars": "191 stars this month"
+    },
+    {
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19658,
+      "forks": 2426,
+      "added_stars": "317 stars this month"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 40952,
+      "forks": 2091,
+      "added_stars": "1,111 stars this month"
     },
     {
       "title": "duckdb / duckdb",
@@ -140,39 +160,19 @@
       "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41021,
-      "forks": 3723,
-      "added_stars": "1,073 stars this month"
+      "stars": 41042,
+      "forks": 3728,
+      "added_stars": "1,061 stars this month"
     },
     {
-      "title": "k4yt3x / video2x",
-      "url": "https://github.com/k4yt3x/video2x",
-      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+      "title": "telegramdesktop / tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 21505,
-      "forks": 1860,
-      "added_stars": "810 stars this month"
-    },
-    {
-      "title": "wazuh / wazuh",
-      "url": "https://github.com/wazuh/wazuh",
-      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16781,
-      "forks": 2470,
-      "added_stars": "382 stars this month"
-    },
-    {
-      "title": "PrismLauncher / PrismLauncher",
-      "url": "https://github.com/PrismLauncher/PrismLauncher",
-      "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10322,
-      "forks": 1538,
-      "added_stars": "312 stars this month"
+      "stars": 32849,
+      "forks": 7187,
+      "added_stars": "378 stars this month"
     },
     {
       "title": "protocolbuffers / protobuf",
@@ -181,8 +181,28 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 72000,
-      "forks": 16270,
-      "added_stars": "378 stars this month"
+      "forks": 16274,
+      "added_stars": "373 stars this month"
+    },
+    {
+      "title": "PrismLauncher / PrismLauncher",
+      "url": "https://github.com/PrismLauncher/PrismLauncher",
+      "description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10332,
+      "forks": 1537,
+      "added_stars": "310 stars this month"
+    },
+    {
+      "title": "k4yt3x / video2x",
+      "url": "https://github.com/k4yt3x/video2x",
+      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21517,
+      "forks": 1861,
+      "added_stars": "806 stars this month"
     },
     {
       "title": "ml-explore / mlx",
@@ -190,39 +210,19 @@
       "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28314,
+      "stars": 28331,
       "forks": 2228,
-      "added_stars": "520 stars this month"
+      "added_stars": "512 stars this month"
     },
     {
-      "title": "LadybirdBrowser / ladybird",
-      "url": "https://github.com/LadybirdBrowser/ladybird",
-      "description": "Truly independent web browser",
+      "title": "wazuh / wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 66031,
-      "forks": 3150,
-      "added_stars": "1,413 stars this month"
-    },
-    {
-      "title": "cactus-compute / cactus",
-      "url": "https://github.com/cactus-compute/cactus",
-      "description": "Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5987,
-      "forks": 502,
-      "added_stars": "438 stars this month"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 40904,
-      "forks": 2086,
-      "added_stars": "1,103 stars this month"
+      "stars": 16791,
+      "forks": 2472,
+      "added_stars": "371 stars this month"
     }
   ]
 }

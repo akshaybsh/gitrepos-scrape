@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 06:59:08 GMT</pubDate>
   <item>
     <title>AprilNEA / OpenLogi</title>
     <link>https://github.com/AprilNEA/OpenLogi</link>
@@ -26,11 +26,6 @@
     <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
   </item>
   <item>
-    <title>denoland / celld</title>
-    <link>https://github.com/denoland/celld</link>
-    <description>self-hosted, distributed Durable Objects</description>
-  </item>
-  <item>
     <title>longbridge / gpui-kit</title>
     <link>https://github.com/longbridge/gpui-kit</link>
     <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
@@ -38,12 +33,7 @@
   <item>
     <title>superradcompany / microsandbox</title>
     <link>https://github.com/superradcompany/microsandbox</link>
-    <description>🧱 easy fast local-first microVM runtime and library</description>
-  </item>
-  <item>
-    <title>koharu-rs / koharu</title>
-    <link>https://github.com/koharu-rs/koharu</link>
-    <description>AI-powered manga translator, written in Rust.</description>
+    <description>🧱 Easy fast local-first microVM runtime and library</description>
   </item>
   <item>
     <title>openai / codex</title>
@@ -51,9 +41,14 @@
     <description>Lightweight coding agent that runs in your terminal</description>
   </item>
   <item>
-    <title>firecrawl / pdf-inspector</title>
-    <link>https://github.com/firecrawl/pdf-inspector</link>
-    <description>Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.</description>
+    <title>denoland / celld</title>
+    <link>https://github.com/denoland/celld</link>
+    <description>self-hosted, distributed Durable Objects</description>
+  </item>
+  <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
     <title>pnpm / pnpm</title>
@@ -64,11 +59,6 @@
     <title>firecracker-microvm / firecracker</title>
     <link>https://github.com/firecracker-microvm/firecracker</link>
     <description>Secure and fast microVMs for serverless computing.</description>
-  </item>
-  <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
     <title>ai-dynamo / dynamo</title>
@@ -86,24 +76,39 @@
     <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
   </item>
   <item>
-    <title>BoundaryML / baml</title>
-    <link>https://github.com/BoundaryML/baml</link>
-    <description>The programming language for agents</description>
+    <title>zenbu-labs / terminal-browser</title>
+    <link>https://github.com/zenbu-labs/terminal-browser</link>
+    <description>A browser inside your terminal</description>
   </item>
   <item>
-    <title>lbjlaq / Antigravity-Manager</title>
-    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
-    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
-  </item>
-  <item>
-    <title>jdx / mise</title>
-    <link>https://github.com/jdx/mise</link>
-    <description>dev tools, env vars, task runner</description>
+    <title>pola-rs / polars</title>
+    <link>https://github.com/pola-rs/polars</link>
+    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
   </item>
   <item>
     <title>ZSeven-W / openpencil</title>
     <link>https://github.com/ZSeven-W/openpencil</link>
     <description>The world&#x27;s first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.</description>
+  </item>
+  <item>
+    <title>BoundaryML / baml</title>
+    <link>https://github.com/BoundaryML/baml</link>
+    <description>The programming language for agents</description>
+  </item>
+  <item>
+    <title>koharu-rs / koharu</title>
+    <link>https://github.com/koharu-rs/koharu</link>
+    <description>AI-powered manga translator, written in Rust.</description>
+  </item>
+  <item>
+    <title>zerx-lab / FluxDown</title>
+    <link>https://github.com/zerx-lab/FluxDown</link>
+    <description>Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。</description>
+  </item>
+  <item>
+    <title>gleam-lang / gleam</title>
+    <link>https://github.com/gleam-lang/gleam</link>
+    <description>⭐️ A friendly language for building type-safe, scalable systems!</description>
   </item>
 </channel>
 </rss>

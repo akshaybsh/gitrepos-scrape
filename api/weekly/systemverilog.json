@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
     {
       "title": "lowRISC / ibex",
@@ -12,7 +12,7 @@
       "languageColor": "#DAE1C2",
       "stars": 2035,
       "forks": 803,
-      "added_stars": "5 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -20,19 +20,9 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12919,
+      "stars": 12922,
       "forks": 1243,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3630,
-      "forks": 1102,
-      "added_stars": "15 stars this week"
+      "added_stars": "46 stars this week"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -55,16 +45,6 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "openhwgroup / cv32e40p",
-      "url": "https://github.com/openhwgroup/cv32e40p",
-      "description": "CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 1283,
-      "forks": 550,
-      "added_stars": "4 stars this week"
-    },
-    {
       "title": "pulp-platform / common_cells",
       "url": "https://github.com/pulp-platform/common_cells",
       "description": "Common SystemVerilog components",
@@ -72,7 +52,27 @@
       "languageColor": "#DAE1C2",
       "stars": 793,
       "forks": 205,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3631,
+      "forks": 1104,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3908,
+      "forks": 892,
+      "added_stars": "22 stars this week"
     }
   ]
 }

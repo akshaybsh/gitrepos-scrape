@@ -2,17 +2,27 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
+    {
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27724,
+      "forks": 2584,
+      "added_stars": "75 stars this week"
+    },
     {
       "title": "valkey-io / valkey",
       "url": "https://github.com/valkey-io/valkey",
       "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27138,
+      "stars": 27141,
       "forks": 1308,
-      "added_stars": "120 stars this week"
+      "added_stars": "105 stars this week"
     },
     {
       "title": "Genymobile / scrcpy",
@@ -20,29 +30,19 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 148966,
-      "forks": 13691,
-      "added_stars": "488 stars this week"
+      "stars": 149047,
+      "forks": 13694,
+      "added_stars": "480 stars this week"
     },
     {
-      "title": "aircrack-ng / aircrack-ng",
-      "url": "https://github.com/aircrack-ng/aircrack-ng",
-      "description": "WiFi security auditing tools suite",
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7597,
-      "forks": 1366,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "sumatrapdfreader / sumatrapdf",
-      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
-      "description": "SumatraPDF reader",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17509,
-      "forks": 2035,
-      "added_stars": "75 stars this week"
+      "stars": 14507,
+      "forks": 3392,
+      "added_stars": "50 stars this week"
     },
     {
       "title": "openwrt / openwrt",
@@ -50,28 +50,38 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28290,
-      "forks": 12904,
-      "added_stars": "154 stars this week"
+      "stars": 28311,
+      "forks": 12909,
+      "added_stars": "159 stars this week"
     },
     {
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "title": "aircrack-ng / aircrack-ng",
+      "url": "https://github.com/aircrack-ng/aircrack-ng",
+      "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 69778,
-      "forks": 4452,
-      "added_stars": "1,189 stars this week"
+      "stars": 7603,
+      "forks": 1369,
+      "added_stars": "37 stars this week"
     },
     {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "title": "libretro / RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42764,
-      "forks": 7340,
+      "stars": 13877,
+      "forks": 2213,
+      "added_stars": "150 stars this week"
+    },
+    {
+      "title": "nothings / stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34608,
+      "forks": 8087,
       "added_stars": "67 stars this week"
     },
     {
@@ -80,99 +90,9 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42378,
-      "forks": 3460,
-      "added_stars": "1,291 stars this week"
-    },
-    {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15856,
-      "forks": 1779,
-      "added_stars": "131 stars this week"
-    },
-    {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14500,
-      "forks": 3390,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34601,
-      "forks": 8084,
-      "added_stars": "79 stars this week"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27712,
-      "forks": 2582,
-      "added_stars": "68 stars this week"
-    },
-    {
-      "title": "ImageMagick / ImageMagick",
-      "url": "https://github.com/ImageMagick/ImageMagick",
-      "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17348,
-      "forks": 1652,
-      "added_stars": "96 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16408,
-      "forks": 9912,
-      "added_stars": "75 stars this week"
-    },
-    {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13854,
-      "forks": 2211,
-      "added_stars": "141 stars this week"
-    },
-    {
-      "title": "openssl / openssl",
-      "url": "https://github.com/openssl/openssl",
-      "description": "General purpose TLS and crypto library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 30755,
-      "forks": 11445,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "raspberrypi / linux",
-      "url": "https://github.com/raspberrypi/linux",
-      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13143,
-      "forks": 5464,
-      "added_stars": "39 stars this week"
+      "stars": 42486,
+      "forks": 3468,
+      "added_stars": "1,199 stars this week"
     },
     {
       "title": "lvgl / lvgl",
@@ -180,19 +100,59 @@
       "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24607,
+      "stars": 24623,
       "forks": 4351,
-      "added_stars": "81 stars this week"
+      "added_stars": "91 stars this week"
     },
     {
-      "title": "NebuSec / CyberMeowfia",
-      "url": "https://github.com/NebuSec/CyberMeowfia",
-      "description": "PoCs and exploits for CVEs discovered by NebuSec.",
+      "title": "winsiderss / systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1578,
-      "forks": 409,
-      "added_stars": "124 stars this week"
+      "stars": 15880,
+      "forks": 1780,
+      "added_stars": "154 stars this week"
+    },
+    {
+      "title": "QwenAudio / SenseVoice",
+      "url": "https://github.com/QwenAudio/SenseVoice",
+      "description": "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 9255,
+      "forks": 821,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "sandboxie-plus / Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19364,
+      "forks": 2061,
+      "added_stars": "85 stars this week"
+    },
+    {
+      "title": "raspberrypi / linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13147,
+      "forks": 5464,
+      "added_stars": "36 stars this week"
+    },
+    {
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 42774,
+      "forks": 7346,
+      "added_stars": "71 stars this week"
     },
     {
       "title": "rexglue / rexglue-sdk",
@@ -200,9 +160,49 @@
       "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 848,
+      "stars": 854,
       "forks": 115,
-      "added_stars": "33 stars this week"
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 69886,
+      "forks": 4458,
+      "added_stars": "1,203 stars this week"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16423,
+      "forks": 9917,
+      "added_stars": "78 stars this week"
+    },
+    {
+      "title": "NebuSec / CyberMeowfia",
+      "url": "https://github.com/NebuSec/CyberMeowfia",
+      "description": "PoCs and exploits for CVEs discovered by NebuSec.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1601,
+      "forks": 411,
+      "added_stars": "136 stars this week"
+    },
+    {
+      "title": "sumatrapdfreader / sumatrapdf",
+      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17521,
+      "forks": 2036,
+      "added_stars": "75 stars this week"
     }
   ]
 }

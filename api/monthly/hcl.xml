@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 06:59:08 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
@@ -31,11 +31,6 @@
     <description>This repository is a collection of accelerated platform best practices, reference architectures, example use cases, reference implementations, and various other assets on Google Cloud.</description>
   </item>
   <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
@@ -46,9 +41,9 @@
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
-    <title>hashicorp / agent-skills</title>
-    <link>https://github.com/hashicorp/agent-skills</link>
-    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-naming</title>
@@ -59,6 +54,16 @@
     <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
     <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
     <description>Terraform Azure Verified Resource Module for Key Vault</description>
+  </item>
+  <item>
+    <title>hashicorp / agent-skills</title>
+    <link>https://github.com/hashicorp/agent-skills</link>
+    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-project-factory</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
+    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
   </item>
 </channel>
 </rss>

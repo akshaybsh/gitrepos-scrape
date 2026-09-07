@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "GEOS-ESM / MAPL",
@@ -13,6 +13,16 @@
       "stars": 43,
       "forks": 25,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1748,
+      "forks": 881,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "Reference-LAPACK / lapack",
@@ -33,16 +43,6 @@
       "stars": 440,
       "forks": 481,
       "added_stars": "6 stars this month"
-    },
-    {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1747,
-      "forks": 881,
-      "added_stars": "20 stars this month"
     },
     {
       "title": "MetOffice / jules",
@@ -85,6 +85,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1201,
+      "forks": 496,
+      "added_stars": "22 stars this month"
+    },
+    {
       "title": "MCSclimate / MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
@@ -95,36 +105,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1199,
-      "forks": 496,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1691,
-      "forks": 394,
-      "added_stars": "42 stars this month"
-    },
-    {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 868,
-      "forks": 686,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "JuliaPackaging / Yggdrasil",
       "url": "https://github.com/JuliaPackaging/Yggdrasil",
       "description": "Collection of builder repositories for BinaryBuilder.jl",
@@ -132,7 +112,27 @@
       "languageColor": "#4d41b1",
       "stars": 405,
       "forks": 757,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1696,
+      "forks": 395,
+      "added_stars": "48 stars this month"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 870,
+      "forks": 687,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "OpenFAST / openfast",
@@ -145,14 +145,14 @@
       "added_stars": "18 stars this month"
     },
     {
-      "title": "grimme-lab / xtb",
-      "url": "https://github.com/grimme-lab/xtb",
-      "description": "Semiempirical Extended Tight-Binding Program Package",
+      "title": "MFlowCode / MFC",
+      "url": "https://github.com/MFlowCode/MFC",
+      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 840,
-      "forks": 206,
-      "added_stars": "17 stars this month"
+      "stars": 418,
+      "forks": 171,
+      "added_stars": "27 stars this month"
     }
   ]
 }

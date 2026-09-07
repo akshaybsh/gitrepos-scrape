@@ -2,27 +2,27 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
-    {
-      "title": "ChrisTitusTech / winutil",
-      "url": "https://github.com/ChrisTitusTech/winutil",
-      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 61979,
-      "forks": 3629,
-      "added_stars": "498 stars this week"
-    },
     {
       "title": "ntdevlabs / tiny11builder",
       "url": "https://github.com/ntdevlabs/tiny11builder",
       "description": "Scripts to build a trimmed-down Windows 11 image.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 19516,
-      "forks": 1500,
-      "added_stars": "66 stars this week"
+      "stars": 19528,
+      "forks": 1501,
+      "added_stars": "67 stars this week"
+    },
+    {
+      "title": "mandiant / flare-vm",
+      "url": "https://github.com/mandiant/flare-vm",
+      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 8999,
+      "forks": 1107,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "actions / runner-images",
@@ -30,19 +30,49 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13108,
+      "stars": 13112,
       "forks": 3836,
-      "added_stars": "43 stars this week"
+      "added_stars": "39 stars this week"
     },
     {
-      "title": "zoicware / RemoveWindowsAI",
-      "url": "https://github.com/zoicware/RemoveWindowsAI",
-      "description": "Force Remove Copilot, Recall and More in Windows 11",
+      "title": "ChrisTitusTech / winutil",
+      "url": "https://github.com/ChrisTitusTech/winutil",
+      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 12986,
-      "forks": 458,
-      "added_stars": "71 stars this week"
+      "stars": 62116,
+      "forks": 3631,
+      "added_stars": "575 stars this week"
+    },
+    {
+      "title": "microsoft / WindowsDeveloperConfig",
+      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
+      "description": "Automate the setup and configuration of your Windows development environment.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2042,
+      "forks": 160,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "microsoft / sql-server-samples",
+      "url": "https://github.com/microsoft/sql-server-samples",
+      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 11209,
+      "forks": 9088,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "Raphire / Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 56792,
+      "forks": 2422,
+      "added_stars": "350 stars this week"
     },
     {
       "title": "cmderdev / cmder",
@@ -52,57 +82,7 @@
       "languageColor": "#012456",
       "stars": 27000,
       "forks": 2074,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "microsoft / WindowsDeveloperConfig",
-      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
-      "description": "Automate the setup and configuration of your Windows development environment.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2000,
-      "forks": 160,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "mandiant / flare-vm",
-      "url": "https://github.com/mandiant/flare-vm",
-      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 8997,
-      "forks": 1107,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 11207,
-      "forks": 9088,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "Raphire / Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 56755,
-      "forks": 2420,
-      "added_stars": "363 stars this week"
-    },
-    {
-      "title": "leapbtw / uxplay-windows",
-      "url": "https://github.com/leapbtw/uxplay-windows",
-      "description": "FREE AirPlay to Windows PC",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 675,
-      "forks": 197,
-      "added_stars": "19 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "Orange-Cyberdefense / GOAD",
@@ -110,19 +90,29 @@
       "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 8287,
-      "forks": 1129,
-      "added_stars": "39 stars this week"
+      "stars": 8289,
+      "forks": 1132,
+      "added_stars": "40 stars this week"
     },
     {
-      "title": "mkevenaar / chocolatey-packages",
-      "url": "https://github.com/mkevenaar/chocolatey-packages",
-      "description": "My chocolatey packages",
+      "title": "microsoft / fabric-toolbox",
+      "url": "https://github.com/microsoft/fabric-toolbox",
+      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 47,
-      "forks": 77,
-      "added_stars": "0 stars this week"
+      "stars": 896,
+      "forks": 378,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "hak5 / usbrubberducky-payloads",
+      "url": "https://github.com/hak5/usbrubberducky-payloads",
+      "description": "The Official USB Rubber Ducky Payload Repository",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 5988,
+      "forks": 1676,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "ScoopInstaller / Extras",
@@ -131,8 +121,58 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": 2150,
-      "forks": 1775,
-      "added_stars": "4 stars this week"
+      "forks": 1776,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "zoicware / RemoveWindowsAI",
+      "url": "https://github.com/zoicware/RemoveWindowsAI",
+      "description": "Force Remove Copilot, Recall and More in Windows 11",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 12991,
+      "forks": 458,
+      "added_stars": "66 stars this week"
+    },
+    {
+      "title": "Romanitho / Winget-AutoUpdate",
+      "url": "https://github.com/Romanitho/Winget-AutoUpdate",
+      "description": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1991,
+      "forks": 192,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "Sycnex / Windows10Debloater",
+      "url": "https://github.com/Sycnex/Windows10Debloater",
+      "description": "Script to remove Windows 10 bloatware.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 18831,
+      "forks": 2060,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "0Chencc / clawgod",
+      "url": "https://github.com/0Chencc/clawgod",
+      "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1986,
+      "forks": 325,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "leapbtw / uxplay-windows",
+      "url": "https://github.com/leapbtw/uxplay-windows",
+      "description": "FREE AirPlay to Windows PC",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 681,
+      "forks": 197,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "comol / ai_rules_1c",
@@ -140,19 +180,19 @@
       "description": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 451,
-      "forks": 101,
-      "added_stars": "8 stars this week"
+      "stars": 452,
+      "forks": 100,
+      "added_stars": "9 stars this week"
     },
     {
-      "title": "hak5 / usbrubberducky-payloads",
-      "url": "https://github.com/hak5/usbrubberducky-payloads",
-      "description": "The Official USB Rubber Ducky Payload Repository",
+      "title": "microsoft / work-iq",
+      "url": "https://github.com/microsoft/work-iq",
+      "description": "MCP Server and CLI for accessing Work IQ",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 5984,
-      "forks": 1675,
-      "added_stars": "23 stars this week"
+      "stars": 992,
+      "forks": 124,
+      "added_stars": "12 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "JuliaRegistries / General",
@@ -12,7 +12,7 @@
       "languageColor": "#a270ba",
       "stars": 730,
       "forks": 601,
-      "added_stars": "6 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "JuliaLang / julia",
@@ -20,9 +20,9 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 49078,
+      "stars": 49079,
       "forks": 5988,
-      "added_stars": "168 stars this month"
+      "added_stars": "169 stars this month"
     },
     {
       "title": "CliMA / ClimaCoupler.jl",
@@ -55,16 +55,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "MakieOrg / Makie.jl",
-      "url": "https://github.com/MakieOrg/Makie.jl",
-      "description": "Interactive data visualizations and plotting in Julia",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 2806,
-      "forks": 396,
-      "added_stars": "11 stars this month"
-    },
-    {
       "title": "CliMA / ClimaAtmos.jl",
       "url": "https://github.com/CliMA/ClimaAtmos.jl",
       "description": "GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning",
@@ -75,13 +65,23 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "MakieOrg / Makie.jl",
+      "url": "https://github.com/MakieOrg/Makie.jl",
+      "description": "Interactive data visualizations and plotting in Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 2806,
+      "forks": 396,
+      "added_stars": "11 stars this month"
+    },
+    {
       "title": "SciML / OrdinaryDiffEq.jl",
       "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
       "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 676,
-      "forks": 274,
+      "forks": 275,
       "added_stars": "10 stars this month"
     }
   ]

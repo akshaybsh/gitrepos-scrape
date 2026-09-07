@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27230,
+      "stars": 27232,
       "forks": 12404,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -22,16 +22,6 @@
       "languageColor": "#AA6746",
       "stars": 1055,
       "forks": 520,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dapphub / ds-test",
-      "url": "https://github.com/dapphub/ds-test",
-      "description": "Assertions, equality checks and other test helpers",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 239,
-      "forks": 75,
       "added_stars": "0 stars today"
     },
     {
@@ -45,14 +35,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "base / contracts",
-      "url": "https://github.com/base/contracts",
+      "title": "dapphub / ds-test",
+      "url": "https://github.com/dapphub/ds-test",
+      "description": "Assertions, equality checks and other test helpers",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 239,
+      "forks": 75,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "1inch / swap-vm",
+      "url": "https://github.com/1inch/swap-vm",
       "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 323,
-      "forks": 242,
-      "added_stars": "0 stars today"
+      "stars": 38,
+      "forks": 33,
+      "added_stars": "2 stars today"
     }
   ]
 }

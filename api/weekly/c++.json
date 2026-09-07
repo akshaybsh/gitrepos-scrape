@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
     {
       "title": "fmtlib / fmt",
@@ -10,9 +10,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25589,
-      "forks": 3043,
-      "added_stars": "1,809 stars this week"
+      "stars": 25631,
+      "forks": 3047,
+      "added_stars": "1,885 stars this week"
     },
     {
       "title": "protocolbuffers / protobuf",
@@ -21,8 +21,18 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 72000,
-      "forks": 16270,
-      "added_stars": "182 stars this week"
+      "forks": 16274,
+      "added_stars": "158 stars this week"
+    },
+    {
+      "title": "rui314 / mold",
+      "url": "https://github.com/rui314/mold",
+      "description": "mold: A Modern Linker 🦠",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16951,
+      "forks": 550,
+      "added_stars": "71 stars this week"
     },
     {
       "title": "doitsujin / dxvk",
@@ -30,19 +40,9 @@
       "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18008,
-      "forks": 1227,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 39492,
-      "forks": 10889,
-      "added_stars": "239 stars this week"
+      "stars": 18020,
+      "forks": 1228,
+      "added_stars": "58 stars this week"
     },
     {
       "title": "audacity / audacity",
@@ -50,9 +50,9 @@
       "description": "Audio Editor",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18278,
-      "forks": 2648,
-      "added_stars": "611 stars this week"
+      "stars": 18313,
+      "forks": 2650,
+      "added_stars": "657 stars this week"
     },
     {
       "title": "dragonflydb / dragonfly",
@@ -60,19 +60,19 @@
       "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31429,
-      "forks": 1255,
-      "added_stars": "380 stars this week"
+      "stars": 31442,
+      "forks": 1256,
+      "added_stars": "398 stars this week"
     },
     {
-      "title": "flameshot-org / flameshot",
-      "url": "https://github.com/flameshot-org/flameshot",
-      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "title": "falcosecurity / falco",
+      "url": "https://github.com/falcosecurity/falco",
+      "description": "Cloud Native Runtime Security",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 30781,
-      "forks": 2007,
-      "added_stars": "77 stars this week"
+      "stars": 9344,
+      "forks": 1075,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "microsoft / microsoft-ui-xaml",
@@ -80,9 +80,29 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8342,
-      "forks": 935,
-      "added_stars": "313 stars this week"
+      "stars": 8355,
+      "forks": 936,
+      "added_stars": "233 stars this week"
+    },
+    {
+      "title": "flameshot-org / flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 30790,
+      "forks": 2008,
+      "added_stars": "75 stars this week"
+    },
+    {
+      "title": "zhongyang219 / TrafficMonitor",
+      "url": "https://github.com/zhongyang219/TrafficMonitor",
+      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 46070,
+      "forks": 3786,
+      "added_stars": "134 stars this week"
     },
     {
       "title": "optiscaler / OptiScaler",
@@ -90,19 +110,9 @@
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10377,
-      "forks": 434,
-      "added_stars": "318 stars this week"
-    },
-    {
-      "title": "ocornut / imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 76090,
-      "forks": 12041,
-      "added_stars": "162 stars this week"
+      "stars": 10433,
+      "forks": 442,
+      "added_stars": "335 stars this week"
     },
     {
       "title": "abseil / abseil-cpp",
@@ -110,8 +120,8 @@
       "description": "Abseil Common Libraries (C++)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18123,
-      "forks": 3201,
+      "stars": 18124,
+      "forks": 3203,
       "added_stars": "18 stars this week"
     },
     {
@@ -120,29 +130,9 @@
       "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8931,
+      "stars": 8937,
       "forks": 2467,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "PCSX2 / pcsx2",
-      "url": "https://github.com/PCSX2/pcsx2",
-      "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15496,
-      "forks": 2178,
-      "added_stars": "92 stars this week"
-    },
-    {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41021,
-      "forks": 3723,
-      "added_stars": "240 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
       "title": "OHF-Voice / piper1-gpl",
@@ -150,49 +140,59 @@
       "description": "Fast and local neural text-to-speech engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5466,
-      "forks": 529,
-      "added_stars": "146 stars this week"
+      "stars": 5483,
+      "forks": 531,
+      "added_stars": "122 stars this week"
     },
     {
-      "title": "noctalia-dev / noctalia",
-      "url": "https://github.com/noctalia-dev/noctalia",
-      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10275,
-      "forks": 777,
-      "added_stars": "288 stars this week"
+      "stars": 41042,
+      "forks": 3728,
+      "added_stars": "233 stars this week"
     },
     {
-      "title": "MrNeRF / LichtFeld-Studio",
-      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
-      "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "title": "keepassxreboot / keepassxc",
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3660,
-      "forks": 443,
-      "added_stars": "41 stars this week"
+      "stars": 28707,
+      "forks": 1909,
+      "added_stars": "108 stars this week"
     },
     {
-      "title": "deskflow / deskflow",
-      "url": "https://github.com/deskflow/deskflow",
-      "description": "Share a single keyboard and mouse between multiple computers.",
+      "title": "aria2 / aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28605,
-      "forks": 4843,
-      "added_stars": "198 stars this week"
+      "stars": 41943,
+      "forks": 3899,
+      "added_stars": "70 stars this week"
     },
     {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
+      "title": "PCSX2 / pcsx2",
+      "url": "https://github.com/PCSX2/pcsx2",
+      "description": "PCSX2 - The Playstation 2 Emulator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50547,
-      "forks": 7495,
-      "added_stars": "77 stars this week"
+      "stars": 15503,
+      "forks": 2178,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "MaaAssistantArknights / MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 23087,
+      "forks": 2826,
+      "added_stars": "205 stars this week"
     },
     {
       "title": "k2-fsa / sherpa-onnx",
@@ -200,9 +200,19 @@
       "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14625,
-      "forks": 1668,
-      "added_stars": "149 stars this week"
+      "stars": 14645,
+      "forks": 1670,
+      "added_stars": "152 stars this week"
+    },
+    {
+      "title": "monero-project / monero",
+      "url": "https://github.com/monero-project/monero",
+      "description": "Monero: the secure, private, untraceable cryptocurrency",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10839,
+      "forks": 3512,
+      "added_stars": "34 stars this week"
     }
   ]
 }

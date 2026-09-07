@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -10,9 +10,9 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 49078,
+      "stars": 49079,
       "forks": 5988,
-      "added_stars": "52 stars this week"
+      "added_stars": "54 stars this week"
     },
     {
       "title": "JuliaRegistries / General",
@@ -22,6 +22,26 @@
       "languageColor": "#a270ba",
       "stars": 730,
       "forks": 601,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "Evovest / EvoTrees.jl",
+      "url": "https://github.com/Evovest/EvoTrees.jl",
+      "description": "Boosted trees in Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 200,
+      "forks": 26,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "CliMA / ClimaAtmos.jl",
+      "url": "https://github.com/CliMA/ClimaAtmos.jl",
+      "description": "GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 126,
+      "forks": 38,
       "added_stars": "1 star this week"
     }
   ]

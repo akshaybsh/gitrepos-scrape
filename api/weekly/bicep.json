@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
     {
       "title": "microsoft-foundry / foundry-samples",
@@ -11,8 +11,8 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 438,
-      "forks": 481,
-      "added_stars": "7 stars this week"
+      "forks": 482,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "Azure / azure-quickstart-templates",
@@ -22,7 +22,17 @@
       "languageColor": "#519aba",
       "stars": 14872,
       "forks": 16199,
-      "added_stars": "8 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "Azure-Samples / get-started-with-ai-chat",
+      "url": "https://github.com/Azure-Samples/get-started-with-ai-chat",
+      "description": "Basic sample for deploying chat web apps with Azure AI Foundry and SDKs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 280,
+      "forks": 401,
+      "added_stars": "1 star this week"
     },
     {
       "title": "microsoft / azure-container-apps",
@@ -43,16 +53,6 @@
       "stars": 736,
       "forks": 563,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Azure-Samples / get-started-with-ai-chat",
-      "url": "https://github.com/Azure-Samples/get-started-with-ai-chat",
-      "description": "Basic sample for deploying chat web apps with Azure AI Foundry and SDKs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 280,
-      "forks": 401,
-      "added_stars": "1 star this week"
     }
   ]
 }

@@ -2,37 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
-    {
-      "title": "apache / iggy",
-      "url": "https://github.com/apache/iggy",
-      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4794,
-      "forks": 417,
-      "added_stars": "194 stars this week"
-    },
     {
       "title": "martin-olivier / airgorah",
       "url": "https://github.com/martin-olivier/airgorah",
       "description": "A WiFi security auditing software mainly based on aircrack-ng tools suite",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3010,
-      "forks": 479,
-      "added_stars": "1,180 stars this week"
-    },
-    {
-      "title": "firecracker-microvm / firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36561,
-      "forks": 2603,
-      "added_stars": "198 stars this week"
+      "stars": 3037,
+      "forks": 486,
+      "added_stars": "572 stars this week"
     },
     {
       "title": "emilk / egui",
@@ -40,9 +20,19 @@
       "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30438,
+      "stars": 30455,
       "forks": 2127,
-      "added_stars": "215 stars this week"
+      "added_stars": "206 stars this week"
+    },
+    {
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36585,
+      "forks": 2603,
+      "added_stars": "200 stars this week"
     },
     {
       "title": "CapSoftware / Cap",
@@ -50,19 +40,39 @@
       "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21766,
-      "forks": 1867,
-      "added_stars": "398 stars this week"
+      "stars": 21878,
+      "forks": 1875,
+      "added_stars": "485 stars this week"
     },
     {
-      "title": "embassy-rs / embassy",
-      "url": "https://github.com/embassy-rs/embassy",
-      "description": "Modern embedded framework, using Rust and async.",
+      "title": "iii-hq / iii",
+      "url": "https://github.com/iii-hq/iii",
+      "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9789,
-      "forks": 1646,
-      "added_stars": "38 stars this week"
+      "stars": 18678,
+      "forks": 1254,
+      "added_stars": "45 stars this week"
+    },
+    {
+      "title": "eythaann / Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17725,
+      "forks": 590,
+      "added_stars": "90 stars this week"
+    },
+    {
+      "title": "apache / iggy",
+      "url": "https://github.com/apache/iggy",
+      "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4811,
+      "forks": 421,
+      "added_stars": "193 stars this week"
     },
     {
       "title": "stalwartlabs / stalwart",
@@ -70,29 +80,9 @@
       "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14547,
-      "forks": 927,
-      "added_stars": "157 stars this week"
-    },
-    {
-      "title": "xingkongliang / skills-manager",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4475,
-      "forks": 380,
-      "added_stars": "271 stars this week"
-    },
-    {
-      "title": "rust-unofficial / awesome-rust",
-      "url": "https://github.com/rust-unofficial/awesome-rust",
-      "description": "A curated list of Rust code and resources.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 59211,
-      "forks": 3595,
-      "added_stars": "190 stars this week"
+      "stars": 14560,
+      "forks": 928,
+      "added_stars": "142 stars this week"
     },
     {
       "title": "ankitects / anki",
@@ -100,49 +90,79 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30343,
-      "forks": 3187,
-      "added_stars": "245 stars this week"
+      "stars": 30378,
+      "forks": 3189,
+      "added_stars": "243 stars this week"
     },
     {
-      "title": "RizRiyz / luvus",
-      "url": "https://github.com/RizRiyz/luvus",
-      "description": "Mission control for your AI agents",
+      "title": "longbridge / gpui-kit",
+      "url": "https://github.com/longbridge/gpui-kit",
+      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 719,
-      "forks": 47,
-      "added_stars": "193 stars this week"
+      "stars": 14090,
+      "forks": 848,
+      "added_stars": "437 stars this week"
     },
     {
-      "title": "helix-editor / helix",
-      "url": "https://github.com/helix-editor/helix",
-      "description": "A post-modern modal text editor.",
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 46095,
-      "forks": 3724,
-      "added_stars": "125 stars this week"
+      "stars": 79159,
+      "forks": 5010,
+      "added_stars": "1,318 stars this week"
     },
     {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "title": "rust-unofficial / awesome-rust",
+      "url": "https://github.com/rust-unofficial/awesome-rust",
+      "description": "A curated list of Rust code and resources.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31060,
-      "forks": 3341,
-      "added_stars": "283 stars this week"
+      "stars": 59223,
+      "forks": 3596,
+      "added_stars": "174 stars this week"
     },
     {
-      "title": "starship / starship",
-      "url": "https://github.com/starship/starship",
-      "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+      "title": "jj-vcs / jj",
+      "url": "https://github.com/jj-vcs/jj",
+      "description": "A Git-compatible VCS that is both simple and powerful",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 59799,
-      "forks": 2653,
-      "added_stars": "153 stars this week"
+      "stars": 31432,
+      "forks": 1202,
+      "added_stars": "185 stars this week"
+    },
+    {
+      "title": "Universal-Debloater-Alliance / universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9076,
+      "forks": 386,
+      "added_stars": "112 stars this week"
+    },
+    {
+      "title": "ajeetdsouza / zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39201,
+      "forks": 888,
+      "added_stars": "172 stars this week"
+    },
+    {
+      "title": "xingkongliang / skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4512,
+      "forks": 381,
+      "added_stars": "268 stars this week"
     },
     {
       "title": "tonhowtf / omniget",
@@ -150,39 +170,39 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9531,
-      "forks": 805,
-      "added_stars": "341 stars this week"
+      "stars": 9627,
+      "forks": 814,
+      "added_stars": "356 stars this week"
     },
     {
-      "title": "dmtrKovalenko / fff",
-      "url": "https://github.com/dmtrKovalenko/fff",
-      "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
+      "title": "RizRiyz / luvus",
+      "url": "https://github.com/RizRiyz/luvus",
+      "description": "Mission control for your AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10415,
-      "forks": 434,
-      "added_stars": "219 stars this week"
-    },
-    {
-      "title": "dandavison / delta",
-      "url": "https://github.com/dandavison/delta",
-      "description": "A syntax-highlighting pager for git, diff, grep, rg --json, and blame output",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32094,
-      "forks": 568,
-      "added_stars": "148 stars this week"
-    },
-    {
-      "title": "pnpm / pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36432,
-      "forks": 1693,
+      "stars": 739,
+      "forks": 50,
       "added_stars": "131 stars this week"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2387,
+      "forks": 317,
+      "added_stars": "105 stars this week"
+    },
+    {
+      "title": "GraphiteEditor / Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 27151,
+      "forks": 1248,
+      "added_stars": "152 stars this week"
     }
   ]
 }

@@ -2,47 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
-      "title": "fmtlib / fmt",
-      "url": "https://github.com/fmtlib/fmt",
-      "description": "A modern formatting library",
+      "title": "FreeCAD / FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25589,
-      "forks": 3043,
-      "added_stars": "134 stars today"
+      "stars": 33327,
+      "forks": 6003,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
+      "title": "Diegiwg / PrismLauncher-Cracked",
+      "url": "https://github.com/Diegiwg/PrismLauncher-Cracked",
+      "description": "This project is a Fork of Prism Launcher which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50547,
-      "forks": 7495,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "nextcloud / desktop",
-      "url": "https://github.com/nextcloud/desktop",
-      "description": "💻 Desktop sync client for Nextcloud",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3859,
-      "forks": 1000,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "google / flatbuffers",
-      "url": "https://github.com/google/flatbuffers",
-      "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 26436,
-      "forks": 3648,
-      "added_stars": "1 star today"
+      "stars": 891,
+      "forks": 130,
+      "added_stars": "5 stars today"
     },
     {
       "title": "imputnet / helium",
@@ -50,38 +30,98 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20309,
-      "forks": 561,
-      "added_stars": "111 stars today"
+      "stars": 20359,
+      "forks": 566,
+      "added_stars": "64 stars today"
     },
     {
-      "title": "audacity / audacity",
-      "url": "https://github.com/audacity/audacity",
-      "description": "Audio Editor",
+      "title": "official-stockfish / Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18278,
-      "forks": 2648,
-      "added_stars": "85 stars today"
+      "stars": 16519,
+      "forks": 3003,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "noctalia-dev / noctalia",
-      "url": "https://github.com/noctalia-dev/noctalia",
-      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10275,
-      "forks": 777,
-      "added_stars": "65 stars today"
+      "stars": 10433,
+      "forks": 442,
+      "added_stars": "54 stars today"
     },
     {
-      "title": "alibaba / zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "description": "A lightweight, lightning-fast, in-process vector database",
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15800,
-      "forks": 992,
+      "stars": 40952,
+      "forks": 2091,
+      "added_stars": "46 stars today"
+    },
+    {
+      "title": "praydog / REFramework",
+      "url": "https://github.com/praydog/REFramework",
+      "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5424,
+      "forks": 615,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "aria2 / aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41943,
+      "forks": 3899,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 127308,
+      "forks": 22845,
+      "added_stars": "113 stars today"
+    },
+    {
+      "title": "musescore / MuseScore",
+      "url": "https://github.com/musescore/MuseScore",
+      "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15068,
+      "forks": 3282,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "YimMenu / YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1700,
+      "forks": 392,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "bitcoin / bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 90128,
+      "forks": 39389,
       "added_stars": "15 stars today"
     },
     {
@@ -90,129 +130,69 @@
       "description": "A generic post-processing injector for games and video software.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5441,
-      "forks": 706,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "Neroued / ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1439,
-      "forks": 256,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "SpriteOvO / AirPodsDesktop",
-      "url": "https://github.com/SpriteOvO/AirPodsDesktop",
-      "description": "☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3265,
-      "forks": 195,
-      "added_stars": "40 stars today"
-    },
-    {
-      "title": "praydog / REFramework",
-      "url": "https://github.com/praydog/REFramework",
-      "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5417,
-      "forks": 614,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "MaaAssistantArknights / MaaAssistantArknights",
-      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
-      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 23062,
-      "forks": 2824,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "electron / electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122901,
-      "forks": 17462,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "google / filament",
-      "url": "https://github.com/google/filament",
-      "description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 20461,
-      "forks": 2250,
+      "stars": 5451,
+      "forks": 707,
       "added_stars": "9 stars today"
     },
     {
-      "title": "PlotJuggler / PlotJuggler",
-      "url": "https://github.com/PlotJuggler/PlotJuggler",
-      "description": "The Time Series Visualization Tool that you deserve.",
+      "title": "notepad-plus-plus / notepad-plus-plus",
+      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
+      "description": "Notepad++ official repository",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 6155,
-      "forks": 819,
-      "added_stars": "7 stars today"
+      "stars": 29252,
+      "forks": 5352,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "vllm-project / vllm-ascend",
-      "url": "https://github.com/vllm-project/vllm-ascend",
-      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "title": "jellyfin / jellyfin-desktop",
+      "url": "https://github.com/jellyfin/jellyfin-desktop",
+      "description": "Jellyfin Desktop Client",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2761,
-      "forks": 2198,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "tesseract-ocr / tesseract",
-      "url": "https://github.com/tesseract-ocr/tesseract",
-      "description": "Tesseract Open Source OCR Engine (main repository)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 76352,
-      "forks": 10792,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "prusa3d / PrusaSlicer",
-      "url": "https://github.com/prusa3d/PrusaSlicer",
-      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9304,
-      "forks": 2338,
+      "stars": 5708,
+      "forks": 538,
       "added_stars": "4 stars today"
     },
     {
-      "title": "zhongyang219 / TrafficMonitor",
-      "url": "https://github.com/zhongyang219/TrafficMonitor",
-      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+      "title": "esphome / esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46050,
-      "forks": 3789,
-      "added_stars": "19 stars today"
+      "stars": 11656,
+      "forks": 5609,
+      "added_stars": "1 star today"
     },
     {
-      "title": "FreeCAD / FreeCAD",
-      "url": "https://github.com/FreeCAD/FreeCAD",
-      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33303,
-      "forks": 5995,
-      "added_stars": "31 stars today"
+      "stars": 199255,
+      "forks": 76289,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "HIllya51 / LunaTranslator",
+      "url": "https://github.com/HIllya51/LunaTranslator",
+      "description": "视觉小说翻译器 / Visual Novel Translator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 13060,
+      "forks": 1145,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "praydog / UEVR",
+      "url": "https://github.com/praydog/UEVR",
+      "description": "Universal Unreal Engine VR Mod (4.8 - 5.4)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4494,
+      "forks": 266,
+      "added_stars": "3 stars today"
     }
   ]
 }

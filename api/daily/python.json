@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
       "title": "NousResearch / hermes-agent",
@@ -10,19 +10,19 @@
       "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 242115,
-      "forks": 49756,
-      "added_stars": "575 stars today"
+      "stars": 242707,
+      "forks": 49919,
+      "added_stars": "520 stars today"
     },
     {
-      "title": "anthropics / skills",
-      "url": "https://github.com/anthropics/skills",
-      "description": "Public repository for Agent Skills",
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 174652,
-      "forks": 20683,
-      "added_stars": "475 stars today"
+      "stars": 25714,
+      "forks": 1734,
+      "added_stars": "46 stars today"
     },
     {
       "title": "blader / humanizer",
@@ -30,109 +30,149 @@
       "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43651,
-      "forks": 3654,
-      "added_stars": "990 stars today"
+      "stars": 44553,
+      "forks": 3690,
+      "added_stars": "748 stars today"
     },
     {
-      "title": "bikini / exploitarium",
-      "url": "https://github.com/bikini/exploitarium",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4745,
-      "forks": 1255,
-      "added_stars": "230 stars today"
+      "stars": 4875,
+      "forks": 784,
+      "added_stars": "142 stars today"
     },
     {
-      "title": "sgl-project / sglang",
-      "url": "https://github.com/sgl-project/sglang",
-      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "title": "sooryathejas / METATRON",
+      "url": "https://github.com/sooryathejas/METATRON",
+      "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 35516,
-      "forks": 8583,
-      "added_stars": "708 stars today"
+      "stars": 3973,
+      "forks": 792,
+      "added_stars": "68 stars today"
     },
     {
-      "title": "debpalash / VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "title": "ahujasid / blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 19160,
-      "forks": 2452,
-      "added_stars": "1,456 stars today"
+      "stars": 27380,
+      "forks": 2553,
+      "added_stars": "204 stars today"
     },
     {
-      "title": "NVIDIA / SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "title": "maziyarpanahi / openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 16319,
-      "forks": 1384,
-      "added_stars": "166 stars today"
+      "stars": 5251,
+      "forks": 660,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "sngyai / Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "title": "earthtojake / text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6761,
-      "forks": 1362,
-      "added_stars": "112 stars today"
+      "stars": 14524,
+      "forks": 1535,
+      "added_stars": "80 stars today"
     },
     {
-      "title": "k2-fsa / OmniVoice",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "title": "home-assistant / core",
+      "url": "https://github.com/home-assistant/core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9959,
-      "forks": 1616,
-      "added_stars": "128 stars today"
+      "stars": 90295,
+      "forks": 38521,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "huggingface / datasets",
-      "url": "https://github.com/huggingface/datasets",
-      "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 21919,
-      "forks": 3396,
-      "added_stars": "5 stars today"
+      "stars": 131832,
+      "forks": 15547,
+      "added_stars": "139 stars today"
     },
     {
-      "title": "radixark / miles",
-      "url": "https://github.com/radixark/miles",
-      "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "title": "Sumanth077 / Hands-On-AI-Engineering",
+      "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
+      "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2636,
-      "forks": 449,
-      "added_stars": "132 stars today"
+      "stars": 3209,
+      "forks": 829,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "Imbad0202 / academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "title": "donnemartin / system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46449,
-      "forks": 3647,
-      "added_stars": "156 stars today"
+      "stars": 368418,
+      "forks": 58272,
+      "added_stars": "217 stars today"
     },
     {
-      "title": "Significant-Gravitas / AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "title": "Soju06 / codex-lb",
+      "url": "https://github.com/Soju06/codex-lb",
+      "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 187165,
-      "forks": 46042,
-      "added_stars": "44 stars today"
+      "stars": 2992,
+      "forks": 448,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "yt-dlp / yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 189502,
+      "forks": 16442,
+      "added_stars": "222 stars today"
+    },
+    {
+      "title": "public-apis / public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "description": "A collective list of free APIs",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 476641,
+      "forks": 52624,
+      "added_stars": "590 stars today"
+    },
+    {
+      "title": "openai / whisper",
+      "url": "https://github.com/openai/whisper",
+      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 108655,
+      "forks": 13170,
+      "added_stars": "88 stars today"
+    },
+    {
+      "title": "browser-use / browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 112812,
+      "forks": 12434,
+      "added_stars": "231 stars today"
     },
     {
       "title": "eriklindernoren / ML-From-Scratch",
@@ -140,9 +180,39 @@
       "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32671,
-      "forks": 5466,
-      "added_stars": "18 stars today"
+      "stars": 32734,
+      "forks": 5481,
+      "added_stars": "83 stars today"
+    },
+    {
+      "title": "swisskyrepo / PayloadsAllTheThings",
+      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+      "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 80689,
+      "forks": 17350,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "experientiallabs / experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2094,
+      "forks": 107,
+      "added_stars": "628 stars today"
+    },
+    {
+      "title": "bikini / exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4822,
+      "forks": 1265,
+      "added_stars": "180 stars today"
     }
   ]
 }

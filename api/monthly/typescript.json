@@ -2,27 +2,17 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
-    {
-      "title": "cursor / plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 6940,
-      "forks": 581,
-      "added_stars": "4,411 stars this month"
-    },
     {
       "title": "PrimeIntellect-ai / prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19989,
-      "forks": 2184,
-      "added_stars": "20,036 stars this month"
+      "stars": 20077,
+      "forks": 2196,
+      "added_stars": "17,024 stars this month"
     },
     {
       "title": "THU-MAIC / OpenMAIC",
@@ -30,9 +20,9 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 32065,
-      "forks": 5252,
-      "added_stars": "11,420 stars this month"
+      "stars": 32612,
+      "forks": 5319,
+      "added_stars": "11,874 stars this month"
     },
     {
       "title": "apache / maka",
@@ -40,29 +30,9 @@
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4795,
-      "forks": 457,
-      "added_stars": "3,614 stars this month"
-    },
-    {
-      "title": "CodebuffAI / freebuff",
-      "url": "https://github.com/CodebuffAI/freebuff",
-      "description": "The free coding agent",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11716,
-      "forks": 1255,
-      "added_stars": "3,404 stars this month"
-    },
-    {
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21795,
-      "forks": 5346,
-      "added_stars": "5,180 stars this month"
+      "stars": 4850,
+      "forks": 461,
+      "added_stars": "3,647 stars this month"
     },
     {
       "title": "every-app / open-seo",
@@ -70,29 +40,29 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17316,
-      "forks": 2173,
-      "added_stars": "6,811 stars this month"
+      "stars": 17571,
+      "forks": 2218,
+      "added_stars": "6,825 stars this month"
     },
     {
-      "title": "cloudflare / cloudflare-os",
-      "url": "https://github.com/cloudflare/cloudflare-os",
-      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "title": "CodebuffAI / freebuff",
+      "url": "https://github.com/CodebuffAI/freebuff",
+      "description": "The free coding agent",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9685,
-      "forks": 1140,
-      "added_stars": "8,663 stars this month"
+      "stars": 11767,
+      "forks": 1267,
+      "added_stars": "3,385 stars this month"
     },
     {
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25984,
-      "forks": 2424,
-      "added_stars": "11,283 stars this month"
+      "stars": 21879,
+      "forks": 5380,
+      "added_stars": "5,085 stars this month"
     },
     {
       "title": "titanwings / distilly",
@@ -100,29 +70,9 @@
       "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24380,
+      "stars": 24405,
       "forks": 2135,
-      "added_stars": "3,748 stars this month"
-    },
-    {
-      "title": "earendil-works / pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 102197,
-      "forks": 12752,
-      "added_stars": "18,400 stars this month"
-    },
-    {
-      "title": "tashfeenahmed / freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 24461,
-      "forks": 3347,
-      "added_stars": "6,802 stars this month"
+      "added_stars": "3,746 stars this month"
     },
     {
       "title": "bookorbit / bookorbit",
@@ -130,9 +80,29 @@
       "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3970,
-      "forks": 244,
-      "added_stars": "2,008 stars this month"
+      "stars": 4022,
+      "forks": 249,
+      "added_stars": "2,048 stars this month"
+    },
+    {
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 24664,
+      "forks": 3376,
+      "added_stars": "6,840 stars this month"
+    },
+    {
+      "title": "earendil-works / pi",
+      "url": "https://github.com/earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 102540,
+      "forks": 12795,
+      "added_stars": "18,041 stars this month"
     },
     {
       "title": "can1357 / oh-my-pi",
@@ -140,19 +110,19 @@
       "description": "⌥ Coding agent with the IDE wired in",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 29728,
-      "forks": 3022,
-      "added_stars": "7,735 stars this month"
+      "stars": 29895,
+      "forks": 3044,
+      "added_stars": "7,681 stars this month"
     },
     {
-      "title": "elizaOS / eliza",
-      "url": "https://github.com/elizaOS/eliza",
-      "description": "Open source agentic operating system",
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19261,
-      "forks": 5710,
-      "added_stars": "423 stars this month"
+      "stars": 26039,
+      "forks": 2430,
+      "added_stars": "10,244 stars this month"
     },
     {
       "title": "apify / apify-mcp-server",
@@ -160,19 +130,19 @@
       "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6099,
-      "forks": 251,
-      "added_stars": "3,473 stars this month"
+      "stars": 6194,
+      "forks": 252,
+      "added_stars": "3,445 stars this month"
     },
     {
-      "title": "diegosouzapw / OmniRoute",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
+      "title": "maotoumao / MusicFree",
+      "url": "https://github.com/maotoumao/MusicFree",
+      "description": "插件化、定制化、无广告的免费音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 61695,
-      "forks": 8606,
-      "added_stars": "21,515 stars this month"
+      "stars": 26658,
+      "forks": 1904,
+      "added_stars": "802 stars this month"
     },
     {
       "title": "Gitlawb / openclaude",
@@ -180,19 +150,39 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 32740,
-      "forks": 9064,
-      "added_stars": "2,325 stars this month"
+      "stars": 32867,
+      "forks": 9061,
+      "added_stars": "2,427 stars this month"
     },
     {
-      "title": "amruthpillai / reactive-resume",
-      "url": "https://github.com/amruthpillai/reactive-resume",
-      "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+      "title": "lightningpixel / modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 42225,
-      "forks": 4691,
-      "added_stars": "2,279 stars this month"
+      "stars": 7453,
+      "forks": 702,
+      "added_stars": "2,599 stars this month"
+    },
+    {
+      "title": "elizaOS / eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "description": "Open source agentic operating system",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19275,
+      "forks": 5709,
+      "added_stars": "419 stars this month"
+    },
+    {
+      "title": "solidjs / solid",
+      "url": "https://github.com/solidjs/solid",
+      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 35972,
+      "forks": 1103,
+      "added_stars": "208 stars this month"
     },
     {
       "title": "vercel-labs / portless",
@@ -200,9 +190,9 @@
       "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12173,
-      "forks": 399,
-      "added_stars": "1,869 stars this month"
+      "stars": 12221,
+      "forks": 401,
+      "added_stars": "1,884 stars this month"
     }
   ]
 }

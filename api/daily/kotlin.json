@@ -2,27 +2,47 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
-      "title": "topjohnwu / Magisk",
-      "url": "https://github.com/topjohnwu/Magisk",
-      "description": "The Magic Mask for Android",
+      "title": "andreknieriem / open-headunit",
+      "url": "https://github.com/andreknieriem/open-headunit",
+      "description": "Headunit App for displaying Android Auto",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 62610,
-      "forks": 18510,
-      "added_stars": "32 stars today"
+      "stars": 2335,
+      "forks": 195,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "bannedbook / fanqiang",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "description": "翻墙-科学上网",
+      "title": "libre-tube / LibreTube",
+      "url": "https://github.com/libre-tube/LibreTube",
+      "description": "An alternative frontend for YouTube, for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 53033,
-      "forks": 8542,
-      "added_stars": "296 stars today"
+      "stars": 12656,
+      "forks": 659,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "zhanghai / MaterialFiles",
+      "url": "https://github.com/zhanghai/MaterialFiles",
+      "description": "Material Design file manager for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 8881,
+      "forks": 725,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "RikkaApps / Shizuku",
+      "url": "https://github.com/RikkaApps/Shizuku",
+      "description": "Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 29843,
+      "forks": 3024,
+      "added_stars": "46 stars today"
     },
     {
       "title": "recloudstream / cloudstream",
@@ -30,49 +50,109 @@
       "description": "Android app for streaming and downloading media.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 10596,
-      "forks": 1037,
-      "added_stars": "13 stars today"
+      "stars": 10607,
+      "forks": 1042,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "JunkFood02 / Seal",
-      "url": "https://github.com/JunkFood02/Seal",
-      "description": "🦭 Video/Audio Downloader for Android, based on yt-dlp",
+      "title": "utkarshdalal / GameNative",
+      "url": "https://github.com/utkarshdalal/GameNative",
+      "description": "Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 28771,
-      "forks": 1379,
-      "added_stars": "34 stars today"
+      "stars": 10355,
+      "forks": 409,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "andreknieriem / open-headunit",
-      "url": "https://github.com/andreknieriem/open-headunit",
-      "description": "Headunit App for displaying Android Auto",
+      "title": "The412Banner / Bannerlator",
+      "url": "https://github.com/The412Banner/Bannerlator",
+      "description": "Bannerlator — run Windows PC games and apps on Android (Wine + Box64/86). A personal, community-driven continuation of the discontinued Winlator Star Bionic project. GitHub Actions builds + releases.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2320,
-      "forks": 191,
-      "added_stars": "27 stars today"
+      "stars": 262,
+      "forks": 29,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "gkd-kit / gkd",
-      "url": "https://github.com/gkd-kit/gkd",
-      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+      "title": "topjohnwu / Magisk",
+      "url": "https://github.com/topjohnwu/Magisk",
+      "description": "The Magic Mask for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 41491,
-      "forks": 1963,
-      "added_stars": "33 stars today"
+      "stars": 62639,
+      "forks": 18517,
+      "added_stars": "25 stars today"
     },
     {
-      "title": "amir1376 / ab-download-manager",
-      "url": "https://github.com/amir1376/ab-download-manager",
-      "description": "A Download Manager that speeds up your downloads",
+      "title": "mihonapp / mihon",
+      "url": "https://github.com/mihonapp/mihon",
+      "description": "Free and open source manga reader for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 17724,
-      "forks": 909,
-      "added_stars": "30 stars today"
+      "stars": 23423,
+      "forks": 1481,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "bannedbook / fanqiang",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "description": "翻墙-科学上网",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 53175,
+      "forks": 8562,
+      "added_stars": "143 stars today"
+    },
+    {
+      "title": "google-ai-edge / gallery",
+      "url": "https://github.com/google-ai-edge/gallery",
+      "description": "A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 24645,
+      "forks": 2670,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "bitwarden / android",
+      "url": "https://github.com/bitwarden/android",
+      "description": "Bitwarden mobile apps (Password Manager and Authenticator) for Android.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 9329,
+      "forks": 1050,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "xororz / local-dream",
+      "url": "https://github.com/xororz/local-dream",
+      "description": "Run Stable Diffusion on Android Devices with Snapdragon NPU acceleration. Also supports CPU/GPU inference.",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3433,
+      "forks": 220,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "Ujhhgtg / WeKit",
+      "url": "https://github.com/Ujhhgtg/WeKit",
+      "description": "WeChat, now with superpowers",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 785,
+      "forks": 155,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "SukiSU-Ultra / SukiSU-Ultra",
+      "url": "https://github.com/SukiSU-Ultra/SukiSU-Ultra",
+      "description": "Kernel-based Android Root Solution & KPM",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 6220,
+      "forks": 1298,
+      "added_stars": "7 stars today"
     },
     {
       "title": "2dust / v2rayNG",
@@ -80,49 +160,39 @@
       "description": "A V2Ray client for Android, support Xray core and v2fly core",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 62224,
-      "forks": 8057,
-      "added_stars": "58 stars today"
+      "stars": 62281,
+      "forks": 8060,
+      "added_stars": "67 stars today"
     },
     {
-      "title": "kododake / AABrowser",
-      "url": "https://github.com/kododake/AABrowser",
-      "description": "Android Auto WEB Browser",
+      "title": "breezy-weather / breezy-weather",
+      "url": "https://github.com/breezy-weather/breezy-weather",
+      "description": "A feature-rich weather app with good visualizations and more than 50 sources.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 473,
-      "forks": 143,
-      "added_stars": "2 stars today"
+      "stars": 11336,
+      "forks": 403,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "bmax121 / APatch",
-      "url": "https://github.com/bmax121/APatch",
-      "description": "The patching of Android kernel and Android system",
+      "title": "ZalithLauncher / ZalithLauncher2",
+      "url": "https://github.com/ZalithLauncher/ZalithLauncher2",
+      "description": "A Minecraft: Java Edition Launcher for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 7902,
-      "forks": 771,
-      "added_stars": "5 stars today"
+      "stars": 1792,
+      "forks": 286,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "thejaustin / ShizukuPlus",
-      "url": "https://github.com/thejaustin/ShizukuPlus",
-      "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
+      "title": "Kyant0 / AndroidLiquidGlass",
+      "url": "https://github.com/Kyant0/AndroidLiquidGlass",
+      "description": "Compose Multiplatform Liquid Glass effect",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 910,
-      "forks": 54,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "videolan / vlc-android",
-      "url": "https://github.com/videolan/vlc-android",
-      "description": "VLC for Android, Android TV and ChromeOS",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 3977,
-      "forks": 842,
-      "added_stars": "2 stars today"
+      "stars": 3640,
+      "forks": 302,
+      "added_stars": "10 stars today"
     }
   ]
 }

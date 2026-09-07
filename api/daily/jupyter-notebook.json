@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
       "title": "Lordog / dive-into-llms",
@@ -10,39 +10,9 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 52059,
-      "forks": 6219,
-      "added_stars": "243 stars today"
-    },
-    {
-      "title": "GoogleCloudPlatform / generative-ai",
-      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
-      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 17668,
-      "forks": 4434,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "karpathy / nn-zero-to-hero",
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 24265,
-      "forks": 3556,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "NVIDIA / cosmos",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 11741,
-      "forks": 860,
-      "added_stars": "5 stars today"
+      "stars": 52279,
+      "forks": 6246,
+      "added_stars": "168 stars today"
     },
     {
       "title": "jackfrued / Python-100-Days",
@@ -50,89 +20,169 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 185986,
-      "forks": 55717,
-      "added_stars": "36 stars today"
+      "stars": 186064,
+      "forks": 55733,
+      "added_stars": "78 stars today"
     },
     {
-      "title": "NirDiamant / RAG_Techniques",
-      "url": "https://github.com/NirDiamant/RAG_Techniques",
-      "description": "This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.",
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 29384,
-      "forks": 3597,
-      "added_stars": "14 stars today"
+      "stars": 119314,
+      "forks": 62827,
+      "added_stars": "78 stars today"
     },
     {
-      "title": "GokuMohandas / Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+      "title": "ed-donner / agents",
+      "url": "https://github.com/ed-donner/agents",
+      "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 49365,
-      "forks": 7748,
-      "added_stars": "12 stars today"
+      "stars": 6116,
+      "forks": 5261,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "facebookresearch / sam2",
-      "url": "https://github.com/facebookresearch/sam2",
-      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "title": "AI4Finance-Foundation / FinRobot",
+      "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+      "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 19810,
-      "forks": 2538,
-      "added_stars": "1 star today"
+      "stars": 7924,
+      "forks": 1346,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "microsoft / ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "18 Lessons to Get Started Building AI Agents",
+      "title": "DataExpert-io / data-engineer-handbook",
+      "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+      "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 74015,
-      "forks": 24437,
-      "added_stars": "60 stars today"
+      "stars": 44005,
+      "forks": 9276,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "OpenBMB / MiniCPM",
-      "url": "https://github.com/OpenBMB/MiniCPM",
-      "description": "MiniCPM5-1B: A SOTA 1B on-device LLM, small yet powerful.",
+      "title": "microsoft / mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 10309,
-      "forks": 700,
-      "added_stars": "1 star today"
+      "stars": 17163,
+      "forks": 5588,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "anthropics / claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "title": "DataTalksClub / llm-zoomcamp",
+      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
+      "description": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 52455,
-      "forks": 6280,
-      "added_stars": "23 stars today"
+      "stars": 7227,
+      "forks": 1339,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "romanmichaelpaolucci / Quant-Guild-Library",
-      "url": "https://github.com/romanmichaelpaolucci/Quant-Guild-Library",
-      "description": "A library of Jupyter notebooks and corresponding YouTube lectures by Roman Paolucci",
+      "title": "CompVis / stable-diffusion",
+      "url": "https://github.com/CompVis/stable-diffusion",
+      "description": "A latent text-to-image diffusion model",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 1440,
-      "forks": 335,
+      "stars": 73391,
+      "forks": 10577,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "langchain-ai / rag-from-scratch",
+      "url": "https://github.com/langchain-ai/rag-from-scratch",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 9265,
+      "forks": 2192,
       "added_stars": "2 stars today"
     },
     {
-      "title": "NirDiamant / GenAI_Agents",
-      "url": "https://github.com/NirDiamant/GenAI_Agents",
-      "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+      "title": "openai / CLIP",
+      "url": "https://github.com/openai/CLIP",
+      "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 24157,
-      "forks": 4064,
+      "stars": 34266,
+      "forks": 4045,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "stefan-jansen / machine-learning-for-trading",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+      "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 20810,
+      "forks": 5592,
       "added_stars": "15 stars today"
+    },
+    {
+      "title": "ed-donner / llm_engineering",
+      "url": "https://github.com/ed-donner/llm_engineering",
+      "description": "Repo to accompany my mastering LLM engineering course",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 7304,
+      "forks": 7125,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "wesm / pydata-book",
+      "url": "https://github.com/wesm/pydata-book",
+      "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 24892,
+      "forks": 15686,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Pierian-Data / Complete-Python-3-Bootcamp",
+      "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+      "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 29756,
+      "forks": 87233,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "microsoft / PhiCookBook",
+      "url": "https://github.com/microsoft/PhiCookBook",
+      "description": "This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 3868,
+      "forks": 521,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "jakevdp / PythonDataScienceHandbook",
+      "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+      "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 49800,
+      "forks": 19107,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "higgsfield-ai / higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 4155,
+      "forks": 707,
+      "added_stars": "11 stars today"
     }
   ]
 }

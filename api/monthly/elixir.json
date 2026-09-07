@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "openai / symphony",
@@ -10,9 +10,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27050,
-      "forks": 2779,
-      "added_stars": "684 stars this month"
+      "stars": 27066,
+      "forks": 2780,
+      "added_stars": "672 stars this month"
     },
     {
       "title": "firezone / firezone",
@@ -20,9 +20,9 @@
       "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9052,
+      "stars": 9053,
       "forks": 451,
-      "added_stars": "71 stars this month"
+      "added_stars": "70 stars this month"
     },
     {
       "title": "blockscout / blockscout",
@@ -30,9 +30,9 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4668,
-      "forks": 3159,
-      "added_stars": "56 stars this month"
+      "stars": 4669,
+      "forks": 3163,
+      "added_stars": "55 stars this month"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -40,9 +40,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23142,
+      "stars": 23144,
       "forks": 3109,
-      "added_stars": "60 stars this month"
+      "added_stars": "61 stars this month"
     },
     {
       "title": "plausible / analytics",
@@ -50,9 +50,9 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28900,
-      "forks": 1841,
-      "added_stars": "569 stars this month"
+      "stars": 28926,
+      "forks": 1843,
+      "added_stars": "557 stars this month"
     },
     {
       "title": "elixir-lang / elixir",
@@ -60,9 +60,19 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26627,
+      "stars": 26628,
       "forks": 3684,
-      "added_stars": "83 stars this month"
+      "added_stars": "81 stars this month"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8957,
+      "forks": 1004,
+      "added_stars": "162 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -71,18 +81,8 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 7629,
-      "forks": 461,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8952,
-      "forks": 1004,
-      "added_stars": "159 stars this month"
+      "forks": 462,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "mtrudel / bandit",
@@ -91,8 +91,8 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 1920,
-      "forks": 117,
-      "added_stars": "19 stars this month"
+      "forks": 118,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "elixir-grpc / grpc",
@@ -102,7 +102,7 @@
       "languageColor": "#6e4a7e",
       "stars": 1522,
       "forks": 264,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "Logflare / logflare",
@@ -122,17 +122,7 @@
       "languageColor": "#6e4a7e",
       "stars": 2484,
       "forks": 420,
-      "added_stars": "21 stars this month"
-    },
-    {
-      "title": "operately / operately",
-      "url": "https://github.com/operately/operately",
-      "description": "The open source company operating system.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 548,
-      "forks": 69,
-      "added_stars": "15 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -145,12 +135,22 @@
       "added_stars": "19 stars this month"
     },
     {
+      "title": "operately / operately",
+      "url": "https://github.com/operately/operately",
+      "description": "The open source company operating system.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 548,
+      "forks": 69,
+      "added_stars": "14 stars this month"
+    },
+    {
       "title": "expert-lsp / expert",
       "url": "https://github.com/expert-lsp/expert",
       "description": "Official Elixir Language Server Protocol implementation",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2053,
+      "stars": 2052,
       "forks": 109,
       "added_stars": "22 stars this month"
     },
@@ -160,9 +160,19 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5296,
-      "forks": 163,
-      "added_stars": "100 stars this month"
+      "stars": 5300,
+      "forks": 164,
+      "added_stars": "101 stars this month"
+    },
+    {
+      "title": "thechangelog / changelog.com",
+      "url": "https://github.com/thechangelog/changelog.com",
+      "description": "Changelog makes world-class developer pods. This is our open source platform.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2767,
+      "forks": 247,
+      "added_stars": "1 star this month"
     },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
@@ -182,7 +192,7 @@
       "languageColor": "#6e4a7e",
       "stars": 1463,
       "forks": 194,
-      "added_stars": "22 stars this month"
+      "added_stars": "21 stars this month"
     }
   ]
 }

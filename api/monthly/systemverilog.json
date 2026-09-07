@@ -2,37 +2,37 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3904,
-      "forks": 891,
-      "added_stars": "95 stars this month"
-    },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3630,
-      "forks": 1102,
+      "stars": 3631,
+      "forks": 1104,
       "added_stars": "55 stars this month"
     },
     {
-      "title": "chipsalliance / caliptra-ss",
-      "url": "https://github.com/chipsalliance/caliptra-ss",
-      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 51,
-      "forks": 60,
-      "added_stars": "4 stars this month"
+      "stars": 3908,
+      "forks": 892,
+      "added_stars": "95 stars this month"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2035,
+      "forks": 803,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "chipsalliance / adams-bridge",
@@ -45,14 +45,14 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "title": "chipsalliance / caliptra-ss",
+      "url": "https://github.com/chipsalliance/caliptra-ss",
+      "description": "HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2035,
-      "forks": 803,
-      "added_stars": "36 stars this month"
+      "stars": 51,
+      "forks": 60,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -70,9 +70,9 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12919,
+      "stars": 12922,
       "forks": 1243,
-      "added_stars": "123 stars this month"
+      "added_stars": "118 stars this month"
     },
     {
       "title": "pulp-platform / riscv-dbg",

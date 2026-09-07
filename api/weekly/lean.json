@@ -2,27 +2,17 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
-    {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1229,
-      "forks": 446,
-      "added_stars": "21 stars this week"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9000,
-      "forks": 962,
-      "added_stars": "72 stars this week"
+      "stars": 9011,
+      "forks": 965,
+      "added_stars": "76 stars this week"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -30,9 +20,19 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4024,
-      "forks": 1649,
-      "added_stars": "43 stars this week"
+      "stars": 4049,
+      "forks": 1655,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1229,
+      "forks": 448,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "leanprover-community / ProofWidgets4",
@@ -40,7 +40,7 @@
       "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 223,
+      "stars": 224,
       "forks": 49,
       "added_stars": "1 star this week"
     },
@@ -52,7 +52,7 @@
       "languageColor": "#ccc",
       "stars": 402,
       "forks": 61,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "leanprover-community / import-graph",
@@ -85,16 +85,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 115,
-      "forks": 30,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "leanprover-community / quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
@@ -105,14 +95,24 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "leanprover-community / plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 115,
+      "forks": 30,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 420,
+      "stars": 419,
       "forks": 161,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "leanprover / cslib",
@@ -120,9 +120,9 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 689,
-      "forks": 191,
-      "added_stars": "11 stars this week"
+      "stars": 691,
+      "forks": 193,
+      "added_stars": "12 stars this week"
     }
   ]
 }

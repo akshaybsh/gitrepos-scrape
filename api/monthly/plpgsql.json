@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "guchengwuyue / yshop-drink",
@@ -10,9 +10,9 @@
       "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1561,
+      "stars": 1563,
       "forks": 393,
-      "added_stars": "58 stars this month"
+      "added_stars": "56 stars this month"
     },
     {
       "title": "pgpartman / pg_partman",
@@ -30,19 +30,9 @@
       "description": "OpenMapTiles Vector Tile Schema Implementation",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 3150,
-      "forks": 674,
-      "added_stars": "20 stars this month"
-    },
-    {
-      "title": "NikolayS / PgQue",
-      "url": "https://github.com/NikolayS/PgQue",
-      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 1818,
-      "forks": 39,
-      "added_stars": "47 stars this month"
+      "stars": 3153,
+      "forks": 675,
+      "added_stars": "23 stars this month"
     },
     {
       "title": "qiantongtech / qData",
@@ -50,9 +40,19 @@
       "description": "qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&A.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 584,
-      "forks": 125,
+      "stars": 586,
+      "forks": 126,
       "added_stars": "46 stars this month"
+    },
+    {
+      "title": "NikolayS / PgQue",
+      "url": "https://github.com/NikolayS/PgQue",
+      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 1817,
+      "forks": 39,
+      "added_stars": "44 stars this month"
     },
     {
       "title": "DataDog / storedog",

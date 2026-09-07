@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 06 Sep 2026 06:48:14 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 06:56:56 GMT</pubDate>
   <item>
     <title>fmtlib / fmt</title>
     <link>https://github.com/fmtlib/fmt</link>
@@ -16,14 +16,14 @@
     <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
+    <title>rui314 / mold</title>
+    <link>https://github.com/rui314/mold</link>
+    <description>mold: A Modern Linker 🦠</description>
+  </item>
+  <item>
     <title>doitsujin / dxvk</title>
     <link>https://github.com/doitsujin/dxvk</link>
     <description>Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</description>
-  </item>
-  <item>
-    <title>google / googletest</title>
-    <link>https://github.com/google/googletest</link>
-    <description>GoogleTest - Google Testing and Mocking Framework</description>
   </item>
   <item>
     <title>audacity / audacity</title>
@@ -36,9 +36,9 @@
     <description>A modern replacement for Redis and Memcached</description>
   </item>
   <item>
-    <title>flameshot-org / flameshot</title>
-    <link>https://github.com/flameshot-org/flameshot</link>
-    <description>Powerful yet simple to use screenshot software 🖥️ 📸</description>
+    <title>falcosecurity / falco</title>
+    <link>https://github.com/falcosecurity/falco</link>
+    <description>Cloud Native Runtime Security</description>
   </item>
   <item>
     <title>microsoft / microsoft-ui-xaml</title>
@@ -46,14 +46,19 @@
     <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
   </item>
   <item>
+    <title>flameshot-org / flameshot</title>
+    <link>https://github.com/flameshot-org/flameshot</link>
+    <description>Powerful yet simple to use screenshot software 🖥️ 📸</description>
+  </item>
+  <item>
+    <title>zhongyang219 / TrafficMonitor</title>
+    <link>https://github.com/zhongyang219/TrafficMonitor</link>
+    <description>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</description>
+  </item>
+  <item>
     <title>optiscaler / OptiScaler</title>
     <link>https://github.com/optiscaler/OptiScaler</link>
     <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
-  </item>
-  <item>
-    <title>ocornut / imgui</title>
-    <link>https://github.com/ocornut/imgui</link>
-    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
   </item>
   <item>
     <title>abseil / abseil-cpp</title>
@@ -66,9 +71,9 @@
     <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
   </item>
   <item>
-    <title>PCSX2 / pcsx2</title>
-    <link>https://github.com/PCSX2/pcsx2</link>
-    <description>PCSX2 - The Playstation 2 Emulator</description>
+    <title>OHF-Voice / piper1-gpl</title>
+    <link>https://github.com/OHF-Voice/piper1-gpl</link>
+    <description>Fast and local neural text-to-speech engine</description>
   </item>
   <item>
     <title>duckdb / duckdb</title>
@@ -76,34 +81,34 @@
     <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
-    <title>OHF-Voice / piper1-gpl</title>
-    <link>https://github.com/OHF-Voice/piper1-gpl</link>
-    <description>Fast and local neural text-to-speech engine</description>
+    <title>keepassxreboot / keepassxc</title>
+    <link>https://github.com/keepassxreboot/keepassxc</link>
+    <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
   </item>
   <item>
-    <title>noctalia-dev / noctalia</title>
-    <link>https://github.com/noctalia-dev/noctalia</link>
-    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
+    <title>aria2 / aria2</title>
+    <link>https://github.com/aria2/aria2</link>
+    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
   </item>
   <item>
-    <title>MrNeRF / LichtFeld-Studio</title>
-    <link>https://github.com/MrNeRF/LichtFeld-Studio</link>
-    <description>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</description>
+    <title>PCSX2 / pcsx2</title>
+    <link>https://github.com/PCSX2/pcsx2</link>
+    <description>PCSX2 - The Playstation 2 Emulator</description>
   </item>
   <item>
-    <title>deskflow / deskflow</title>
-    <link>https://github.com/deskflow/deskflow</link>
-    <description>Share a single keyboard and mouse between multiple computers.</description>
-  </item>
-  <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
+    <title>MaaAssistantArknights / MaaAssistantArknights</title>
+    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
     <title>k2-fsa / sherpa-onnx</title>
     <link>https://github.com/k2-fsa/sherpa-onnx</link>
     <description>Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages</description>
+  </item>
+  <item>
+    <title>monero-project / monero</title>
+    <link>https://github.com/monero-project/monero</link>
+    <description>Monero: the secure, private, untraceable cryptocurrency</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "tt-a1i / archify",
@@ -10,9 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 49776,
-      "forks": 3230,
-      "added_stars": "40,038 stars this month"
+      "stars": 51374,
+      "forks": 3353,
+      "added_stars": "41,018 stars this month"
     },
     {
       "title": "freestylefly / awesome-gpt-image-2",
@@ -20,19 +20,9 @@
       "description": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 28207,
-      "forks": 2710,
-      "added_stars": "19,395 stars this month"
-    },
-    {
-      "title": "ToolJet / ToolJet",
-      "url": "https://github.com/ToolJet/ToolJet",
-      "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 40849,
-      "forks": 5435,
-      "added_stars": "2,645 stars this month"
+      "stars": 28379,
+      "forks": 2719,
+      "added_stars": "19,087 stars this month"
     },
     {
       "title": "WorldFlowAI / everything-claude-code",
@@ -40,19 +30,9 @@
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2429,
-      "forks": 368,
-      "added_stars": "1,366 stars this month"
-    },
-    {
-      "title": "plankanban / planka",
-      "url": "https://github.com/plankanban/planka",
-      "description": "PLANKA is the Kanban-style project mastering tool for everyone",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 12513,
-      "forks": 1381,
-      "added_stars": "255 stars this month"
+      "stars": 2571,
+      "forks": 376,
+      "added_stars": "1,560 stars this month"
     },
     {
       "title": "OpenWhispr / openwhispr",
@@ -60,9 +40,19 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6992,
-      "forks": 923,
-      "added_stars": "1,794 stars this month"
+      "stars": 7592,
+      "forks": 941,
+      "added_stars": "1,875 stars this month"
+    },
+    {
+      "title": "ToolJet / ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 40858,
+      "forks": 5439,
+      "added_stars": "2,645 stars this month"
     },
     {
       "title": "citrolabs / ego-lite",
@@ -70,9 +60,19 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 15106,
-      "forks": 786,
-      "added_stars": "6,526 stars this month"
+      "stars": 15198,
+      "forks": 790,
+      "added_stars": "6,222 stars this month"
+    },
+    {
+      "title": "plankanban / planka",
+      "url": "https://github.com/plankanban/planka",
+      "description": "PLANKA is the Kanban-style project mastering tool for everyone",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 12515,
+      "forks": 1381,
+      "added_stars": "258 stars this month"
     },
     {
       "title": "byoungd / up",
@@ -80,119 +80,9 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 62333,
-      "forks": 6310,
-      "added_stars": "5,239 stars this month"
-    },
-    {
-      "title": "MagicMirrorOrg / MagicMirror",
-      "url": "https://github.com/MagicMirrorOrg/MagicMirror",
-      "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 23837,
-      "forks": 4568,
-      "added_stars": "154 stars this month"
-    },
-    {
-      "title": "gorhill / uBlock",
-      "url": "https://github.com/gorhill/uBlock",
-      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 67589,
-      "forks": 4332,
-      "added_stars": "1,002 stars this month"
-    },
-    {
-      "title": "drawdb-io / drawdb",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 39356,
-      "forks": 3220,
-      "added_stars": "1,132 stars this month"
-    },
-    {
-      "title": "mui / material-ui",
-      "url": "https://github.com/mui/material-ui",
-      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 99014,
-      "forks": 32561,
-      "added_stars": "451 stars this month"
-    },
-    {
-      "title": "darkzOGx / youtube-automation-agent",
-      "url": "https://github.com/darkzOGx/youtube-automation-agent",
-      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 3179,
-      "forks": 922,
-      "added_stars": "1,446 stars this month"
-    },
-    {
-      "title": "electerm / electerm",
-      "url": "https://github.com/electerm/electerm",
-      "description": "📻Free and open-sourced terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android, HarmonyOS, iOS)",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 15034,
-      "forks": 1210,
-      "added_stars": "399 stars this month"
-    },
-    {
-      "title": "conorbronsdon / avoid-ai-writing",
-      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
-      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 4136,
-      "forks": 349,
-      "added_stars": "1,333 stars this month"
-    },
-    {
-      "title": "louislam / uptime-kuma",
-      "url": "https://github.com/louislam/uptime-kuma",
-      "description": "A fancy self-hosted monitoring tool",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 91029,
-      "forks": 8338,
-      "added_stars": "1,317 stars this month"
-    },
-    {
-      "title": "Javis603 / token-monitor",
-      "url": "https://github.com/Javis603/token-monitor",
-      "description": "Local-first desktop widget for tracking token usage, costs, and limits across 35+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 1957,
-      "forks": 190,
-      "added_stars": "800 stars this month"
-    },
-    {
-      "title": "fmhy / edit",
-      "url": "https://github.com/fmhy/edit",
-      "description": "Make changes to FMHY",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11585,
-      "forks": 3018,
-      "added_stars": "632 stars this month"
-    },
-    {
-      "title": "poteto / hiring-without-whiteboards",
-      "url": "https://github.com/poteto/hiring-without-whiteboards",
-      "description": "⭐️ Companies that don't have a broken hiring process",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 51943,
-      "forks": 3931,
-      "added_stars": "703 stars this month"
+      "stars": 62382,
+      "forks": 6315,
+      "added_stars": "4,990 stars this month"
     },
     {
       "title": "OpenSenseNova / SenseNova-Skills",
@@ -200,9 +90,119 @@
       "description": "Modular SenseNova skills for building AI-powered office assistants and productivity workflows",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5393,
+      "stars": 5418,
       "forks": 385,
-      "added_stars": "677 stars this month"
+      "added_stars": "671 stars this month"
+    },
+    {
+      "title": "MagicMirrorOrg / MagicMirror",
+      "url": "https://github.com/MagicMirrorOrg/MagicMirror",
+      "description": "MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 23843,
+      "forks": 4567,
+      "added_stars": "153 stars this month"
+    },
+    {
+      "title": "gorhill / uBlock",
+      "url": "https://github.com/gorhill/uBlock",
+      "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 67618,
+      "forks": 4332,
+      "added_stars": "998 stars this month"
+    },
+    {
+      "title": "louislam / uptime-kuma",
+      "url": "https://github.com/louislam/uptime-kuma",
+      "description": "A fancy self-hosted monitoring tool",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 91067,
+      "forks": 8360,
+      "added_stars": "1,300 stars this month"
+    },
+    {
+      "title": "conorbronsdon / avoid-ai-writing",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 4164,
+      "forks": 353,
+      "added_stars": "1,336 stars this month"
+    },
+    {
+      "title": "darkzOGx / youtube-automation-agent",
+      "url": "https://github.com/darkzOGx/youtube-automation-agent",
+      "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 3212,
+      "forks": 931,
+      "added_stars": "1,464 stars this month"
+    },
+    {
+      "title": "mui / material-ui",
+      "url": "https://github.com/mui/material-ui",
+      "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 99022,
+      "forks": 32560,
+      "added_stars": "451 stars this month"
+    },
+    {
+      "title": "poteto / hiring-without-whiteboards",
+      "url": "https://github.com/poteto/hiring-without-whiteboards",
+      "description": "⭐️ Companies that don't have a broken hiring process",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 51956,
+      "forks": 3931,
+      "added_stars": "699 stars this month"
+    },
+    {
+      "title": "microsoft / power-platform-skills",
+      "url": "https://github.com/microsoft/power-platform-skills",
+      "description": "A plugin marketplace for Claude Code/GitHub Copilot that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 836,
+      "forks": 174,
+      "added_stars": "213 stars this month"
+    },
+    {
+      "title": "Javis603 / token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "description": "Local-first desktop widget for tracking token usage, costs, and limits across 35+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 1974,
+      "forks": 190,
+      "added_stars": "790 stars this month"
+    },
+    {
+      "title": "idurar / idurar-erp-crm",
+      "url": "https://github.com/idurar/idurar-erp-crm",
+      "description": "Free Open Source ERP CRM Software Accounting Invoicing | Node.Js React",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8766,
+      "forks": 3128,
+      "added_stars": "155 stars this month"
+    },
+    {
+      "title": "mrdoob / three.js",
+      "url": "https://github.com/mrdoob/three.js",
+      "description": "JavaScript 3D Library.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 115212,
+      "forks": 36532,
+      "added_stars": "1,010 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "termux / termux-app",
@@ -10,9 +10,9 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 60388,
-      "forks": 7449,
-      "added_stars": "1,872 stars this month"
+      "stars": 60448,
+      "forks": 7459,
+      "added_stars": "1,860 stars this month"
     },
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -20,29 +20,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 74442,
-      "forks": 8123,
-      "added_stars": "2,649 stars this month"
-    },
-    {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 36620,
-      "forks": 8897,
-      "added_stars": "630 stars this month"
-    },
-    {
-      "title": "zalexdev / strykerapp",
-      "url": "https://github.com/zalexdev/strykerapp",
-      "description": "Magic tool for pentest from your android device!",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1504,
-      "forks": 220,
-      "added_stars": "416 stars this month"
+      "stars": 74523,
+      "forks": 8133,
+      "added_stars": "2,653 stars this month"
     },
     {
       "title": "karma9874 / AndroRAT",
@@ -50,9 +30,29 @@
       "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5079,
+      "stars": 5084,
       "forks": 1643,
-      "added_stars": "147 stars this month"
+      "added_stars": "148 stars this month"
+    },
+    {
+      "title": "zalexdev / strykerapp",
+      "url": "https://github.com/zalexdev/strykerapp",
+      "description": "Magic tool for pentest from your android device!",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1517,
+      "forks": 222,
+      "added_stars": "427 stars this month"
+    },
+    {
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 36633,
+      "forks": 8900,
+      "added_stars": "627 stars this month"
     },
     {
       "title": "crimera / piko",
@@ -60,9 +60,9 @@
       "description": "morphe patches for twitter and instagram",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5122,
-      "forks": 193,
-      "added_stars": "562 stars this month"
+      "stars": 5141,
+      "forks": 194,
+      "added_stars": "571 stars this month"
     },
     {
       "title": "TeamNewPipe / NewPipe",
@@ -70,9 +70,9 @@
       "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 39611,
+      "stars": 39618,
       "forks": 3769,
-      "added_stars": "458 stars this month"
+      "added_stars": "451 stars this month"
     },
     {
       "title": "checkstyle / checkstyle",
@@ -80,99 +80,29 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9548,
-      "forks": 4220,
-      "added_stars": "615 stars this month"
+      "stars": 9557,
+      "forks": 4234,
+      "added_stars": "631 stars this month"
     },
     {
-      "title": "apache / dubbo",
-      "url": "https://github.com/apache/dubbo",
-      "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+      "title": "conductor-oss / conductor",
+      "url": "https://github.com/conductor-oss/conductor",
+      "description": "Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 41565,
-      "forks": 26377,
-      "added_stars": "66 stars this month"
+      "stars": 32186,
+      "forks": 1006,
+      "added_stars": "283 stars this month"
     },
     {
-      "title": "mateaix / mateclaw",
-      "url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "title": "jeecgboot / jimureport",
+      "url": "https://github.com/jeecgboot/jimureport",
+      "description": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1080,
-      "forks": 323,
-      "added_stars": "261 stars this month"
-    },
-    {
-      "title": "booklore-app / booklore",
-      "url": "https://github.com/booklore-app/booklore",
-      "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1077,
-      "forks": 82,
-      "added_stars": "372 stars this month"
-    },
-    {
-      "title": "NotHarshhaa / DevOps-Projects",
-      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
-      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5108,
-      "forks": 4621,
-      "added_stars": "306 stars this month"
-    },
-    {
-      "title": "Card-Forge / forge",
-      "url": "https://github.com/Card-Forge/forge",
-      "description": "An unofficial rules engine for the world's greatest card game.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2670,
-      "forks": 1068,
-      "added_stars": "103 stars this month"
-    },
-    {
-      "title": "dromara / RuoYi-Vue-Plus",
-      "url": "https://github.com/dromara/RuoYi-Vue-Plus",
-      "description": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2634,
-      "forks": 757,
-      "added_stars": "156 stars this month"
-    },
-    {
-      "title": "LawnchairLauncher / lawnchair",
-      "url": "https://github.com/LawnchairLauncher/lawnchair",
-      "description": "No clever tagline needed.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13464,
-      "forks": 1657,
-      "added_stars": "271 stars this month"
-    },
-    {
-      "title": "cabaletta / baritone",
-      "url": "https://github.com/cabaletta/baritone",
-      "description": "google maps for block game",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9185,
-      "forks": 2043,
-      "added_stars": "132 stars this month"
-    },
-    {
-      "title": "AndroidIDEOfficial / AndroidIDE",
-      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
-      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3089,
-      "forks": 629,
-      "added_stars": "66 stars this month"
+      "stars": 8388,
+      "forks": 1879,
+      "added_stars": "249 stars this month"
     },
     {
       "title": "SeleniumHQ / selenium",
@@ -180,9 +110,29 @@
       "description": "A browser automation framework and ecosystem.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 34472,
-      "forks": 8722,
-      "added_stars": "180 stars this month"
+      "stars": 34477,
+      "forks": 8721,
+      "added_stars": "186 stars this month"
+    },
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5117,
+      "forks": 4633,
+      "added_stars": "310 stars this month"
+    },
+    {
+      "title": "mateaix / mateclaw",
+      "url": "https://github.com/mateaix/mateclaw",
+      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1083,
+      "forks": 323,
+      "added_stars": "262 stars this month"
     },
     {
       "title": "DrKLO / Telegram",
@@ -190,9 +140,79 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 29826,
-      "forks": 10022,
-      "added_stars": "219 stars this month"
+      "stars": 29834,
+      "forks": 10028,
+      "added_stars": "218 stars this month"
+    },
+    {
+      "title": "JabRef / jabref",
+      "url": "https://github.com/JabRef/jabref",
+      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4696,
+      "forks": 3552,
+      "added_stars": "155 stars this month"
+    },
+    {
+      "title": "cabaletta / baritone",
+      "url": "https://github.com/cabaletta/baritone",
+      "description": "google maps for block game",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9187,
+      "forks": 2046,
+      "added_stars": "131 stars this month"
+    },
+    {
+      "title": "booklore-app / booklore",
+      "url": "https://github.com/booklore-app/booklore",
+      "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1085,
+      "forks": 82,
+      "added_stars": "371 stars this month"
+    },
+    {
+      "title": "Card-Forge / forge",
+      "url": "https://github.com/Card-Forge/forge",
+      "description": "An unofficial rules engine for the world's greatest card game.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2673,
+      "forks": 1070,
+      "added_stars": "102 stars this month"
+    },
+    {
+      "title": "dromara / RuoYi-Vue-Plus",
+      "url": "https://github.com/dromara/RuoYi-Vue-Plus",
+      "description": "多租户后台管理系统 重写RuoYi-Vue所有功能 集成 Sa-Token、Mybatis-Plus、WarmFlow、SpringDoc、Hutool、OSS 定期同步",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2641,
+      "forks": 759,
+      "added_stars": "161 stars this month"
+    },
+    {
+      "title": "AndroidIDEOfficial / AndroidIDE",
+      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3091,
+      "forks": 630,
+      "added_stars": "66 stars this month"
+    },
+    {
+      "title": "LawnchairLauncher / lawnchair",
+      "url": "https://github.com/LawnchairLauncher/lawnchair",
+      "description": "No clever tagline needed.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13469,
+      "forks": 1663,
+      "added_stars": "269 stars this month"
     }
   ]
 }

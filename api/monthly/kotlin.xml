@@ -4,7 +4,7 @@
   <title>GitHub Kotlin Languages Daily Trending</title>
   <description>Daily Trending of Kotlin Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 06 Sep 2026 06:50:26 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 06:59:08 GMT</pubDate>
   <item>
     <title>tiann / KernelSU</title>
     <link>https://github.com/tiann/KernelSU</link>
@@ -26,6 +26,11 @@
     <description>Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)</description>
   </item>
   <item>
+    <title>topjohnwu / Magisk</title>
+    <link>https://github.com/topjohnwu/Magisk</link>
+    <description>The Magic Mask for Android</description>
+  </item>
+  <item>
     <title>jellyfin / jellyfin-androidtv</title>
     <link>https://github.com/jellyfin/jellyfin-androidtv</link>
     <description>Android TV Client for Jellyfin</description>
@@ -36,14 +41,9 @@
     <description>Legado 3.0 Book Reader with powerful controls</description>
   </item>
   <item>
-    <title>topjohnwu / Magisk</title>
-    <link>https://github.com/topjohnwu/Magisk</link>
-    <description>The Magic Mask for Android</description>
-  </item>
-  <item>
-    <title>RikkaApps / Shizuku</title>
-    <link>https://github.com/RikkaApps/Shizuku</link>
-    <description>Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</description>
+    <title>bitwarden / android</title>
+    <link>https://github.com/bitwarden/android</link>
+    <description>Bitwarden mobile apps (Password Manager and Authenticator) for Android.</description>
   </item>
   <item>
     <title>rukamori / ArchiveTune</title>
@@ -51,14 +51,34 @@
     <description>🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!</description>
   </item>
   <item>
-    <title>JunkFood02 / Seal</title>
-    <link>https://github.com/JunkFood02/Seal</link>
-    <description>🦭 Video/Audio Downloader for Android, based on yt-dlp</description>
+    <title>open-ani / animeko</title>
+    <link>https://github.com/open-ani/animeko</link>
+    <description>集找番、追番、看番的一站式弹幕追番平台，云收藏同步 (Bangumi)，离线缓存，BitTorrent，弹幕云过滤。100% Kotlin/Compose Multiplatform</description>
+  </item>
+  <item>
+    <title>OuterTune / OuterTune</title>
+    <link>https://github.com/OuterTune/OuterTune</link>
+    <description>A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune</description>
   </item>
   <item>
     <title>gkd-kit / gkd</title>
     <link>https://github.com/gkd-kit/gkd</link>
     <description>基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules</description>
+  </item>
+  <item>
+    <title>JunkFood02 / Seal</title>
+    <link>https://github.com/JunkFood02/Seal</link>
+    <description>🦭 Video/Audio Downloader for Android, based on yt-dlp</description>
+  </item>
+  <item>
+    <title>RikkaApps / Shizuku</title>
+    <link>https://github.com/RikkaApps/Shizuku</link>
+    <description>Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.</description>
+  </item>
+  <item>
+    <title>libre-tube / LibreTube</title>
+    <link>https://github.com/libre-tube/LibreTube</link>
+    <description>An alternative frontend for YouTube, for Android.</description>
   </item>
   <item>
     <title>maxrave-dev / SimpMusic</title>
@@ -71,34 +91,14 @@
     <description>Vivi-Music is an expressive Material 3–based YouTube Music client for Android.</description>
   </item>
   <item>
-    <title>OuterTune / OuterTune</title>
-    <link>https://github.com/OuterTune/OuterTune</link>
-    <description>A Material 3 Music Player for Android with local file &amp; YouTube Music support. Forked from InnerTune</description>
-  </item>
-  <item>
-    <title>ReVanced / revanced-manager</title>
-    <link>https://github.com/ReVanced/revanced-manager</link>
-    <description>💊 Application to use ReVanced on Android</description>
-  </item>
-  <item>
-    <title>bitwarden / android</title>
-    <link>https://github.com/bitwarden/android</link>
-    <description>Bitwarden mobile apps (Password Manager and Authenticator) for Android.</description>
-  </item>
-  <item>
-    <title>libre-tube / LibreTube</title>
-    <link>https://github.com/libre-tube/LibreTube</link>
-    <description>An alternative frontend for YouTube, for Android.</description>
-  </item>
-  <item>
     <title>2dust / v2rayNG</title>
     <link>https://github.com/2dust/v2rayNG</link>
     <description>A V2Ray client for Android, support Xray core and v2fly core</description>
   </item>
   <item>
-    <title>breezy-weather / breezy-weather</title>
-    <link>https://github.com/breezy-weather/breezy-weather</link>
-    <description>A feature-rich weather app with good visualizations and more than 50 sources.</description>
+    <title>ReVanced / revanced-manager</title>
+    <link>https://github.com/ReVanced/revanced-manager</link>
+    <description>💊 Application to use ReVanced on Android</description>
   </item>
 </channel>
 </rss>

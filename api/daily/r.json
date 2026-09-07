@@ -2,27 +2,17 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 4590,
-      "forks": 7193,
+      "stars": 5682,
+      "forks": 1891,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "satijalab / seurat",
-      "url": "https://github.com/satijalab/seurat",
-      "description": "R toolkit for single cell genomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 2795,
-      "forks": 996,
-      "added_stars": "2 stars today"
     },
     {
       "title": "nflverse / nflverse-data",
@@ -30,28 +20,8 @@
       "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 385,
+      "stars": 386,
       "forks": 43,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "jinworks / CellChat",
-      "url": "https://github.com/jinworks/CellChat",
-      "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 663,
-      "forks": 112,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5149,
-      "forks": 4443,
       "added_stars": "1 star today"
     }
   ]

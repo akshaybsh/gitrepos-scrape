@@ -2,57 +2,27 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
-      "title": "madler / zlib",
-      "url": "https://github.com/madler/zlib",
-      "description": "A massively spiffy yet delicately unobtrusive compression library.",
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7068,
-      "forks": 2847,
-      "added_stars": "5 stars today"
+      "stars": 75906,
+      "forks": 10070,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "meshcore-dev / MeshCore",
-      "url": "https://github.com/meshcore-dev/MeshCore",
-      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "title": "portapack-mayhem / mayhem-firmware",
+      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
+      "description": "The firmware for the HackRF+PortaPack H1/H2/H4/H4M",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3608,
-      "forks": 1298,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 69777,
-      "forks": 4452,
-      "added_stars": "120 stars today"
-    },
-    {
-      "title": "NVIDIA-RTX / Streamline",
-      "url": "https://github.com/NVIDIA-RTX/Streamline",
-      "description": "Streamline Integration Framework",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1106,
-      "forks": 151,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 138440,
-      "forks": 8554,
-      "added_stars": "52 stars today"
+      "stars": 5391,
+      "forks": 914,
+      "added_stars": "3 stars today"
     },
     {
       "title": "NebuSec / CyberMeowfia",
@@ -60,9 +30,79 @@
       "description": "PoCs and exploits for CVEs discovered by NebuSec.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1578,
-      "forks": 409,
-      "added_stars": "55 stars today"
+      "stars": 1601,
+      "forks": 411,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "xmrig / xmrig",
+      "url": "https://github.com/xmrig/xmrig",
+      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10114,
+      "forks": 3831,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "moonlight-stream / moonlight-android",
+      "url": "https://github.com/moonlight-stream/moonlight-android",
+      "description": "GameStream client for Android",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7073,
+      "forks": 1487,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "libretro / RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13877,
+      "forks": 2213,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "Yuzhii0718 / bl-mt798x-dhcpd",
+      "url": "https://github.com/Yuzhii0718/bl-mt798x-dhcpd",
+      "description": "A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, more functions please see README.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 427,
+      "forks": 216,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "valinet / ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 33806,
+      "forks": 1370,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "opa334 / Dopamine",
+      "url": "https://github.com/opa334/Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6581,
+      "forks": 6274,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "Mbed-TLS / mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6945,
+      "forks": 2963,
+      "added_stars": "2 stars today"
     },
     {
       "title": "facebook / zstd",
@@ -70,149 +110,89 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27712,
-      "forks": 2582,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "haiwen / seafile",
-      "url": "https://github.com/haiwen/seafile",
-      "description": "Beyond file syncing and sharing, a new way to organize your files with extensible file properties and flexible views",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15215,
-      "forks": 1680,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "mcu-tools / mcuboot",
-      "url": "https://github.com/mcu-tools/mcuboot",
-      "description": "Secure boot for 32-bit Microcontrollers!",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2089,
-      "forks": 990,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 813,
-      "forks": 218,
+      "stars": 27724,
+      "forks": 2584,
       "added_stars": "9 stars today"
     },
     {
-      "title": "maxsteeel / nomount",
-      "url": "https://github.com/maxsteeel/nomount",
-      "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
+      "title": "libarchive / libarchive",
+      "url": "https://github.com/libarchive/libarchive",
+      "description": "Multi-format archive and compression library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 219,
-      "forks": 58,
+      "stars": 3609,
+      "forks": 1001,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "raysan5 / raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34621,
+      "forks": 3274,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "sandboxie-plus / Sandboxie",
+      "url": "https://github.com/sandboxie-plus/Sandboxie",
+      "description": "Sandboxie Plus & Classic",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19364,
+      "forks": 2061,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "winsiderss / systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 15880,
+      "forks": 1780,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "Filoppi / Luma-Framework",
+      "url": "https://github.com/Filoppi/Luma-Framework",
+      "description": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 812,
+      "forks": 45,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "DaveGamble / cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12979,
+      "forks": 3517,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "pbatard / rufus",
+      "url": "https://github.com/pbatard/rufus",
+      "description": "The Reliable USB Formatting Utility",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 37566,
+      "forks": 3154,
       "added_stars": "11 stars today"
     },
     {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "title": "flipperdevices / flipperzero-firmware",
+      "url": "https://github.com/flipperdevices/flipperzero-firmware",
+      "description": "Flipper Zero firmware source code",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28290,
-      "forks": 12904,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22923,
-      "forks": 1308,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "coredevices / PebbleOS",
-      "url": "https://github.com/coredevices/PebbleOS",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1391,
-      "forks": 276,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "espressif / esp-claw",
-      "url": "https://github.com/espressif/esp-claw",
-      "description": "ESP-Claw, a \"Chat Coding\" AI agent framework for IoT devices",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2092,
-      "forks": 443,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "NVIDIA / open-gpu-kernel-modules",
-      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
-      "description": "NVIDIA Linux open GPU kernel module source",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17344,
-      "forks": 1840,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "networkupstools / nut",
-      "url": "https://github.com/networkupstools/nut",
-      "description": "The Network UPS Tools repository. UPS management protocol Informational RFC 9271 published by IETF at https://www.rfc-editor.org/info/rfc9271 Please star NUT on GitHub, this helps with sponsorships!",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4325,
-      "forks": 473,
+      "stars": 16555,
+      "forks": 3455,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "FreeRTOS / FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4473,
-      "forks": 1610,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "xroche / httrack",
-      "url": "https://github.com/xroche/httrack",
-      "description": "HTTrack Website Copier, copy websites to your computer (Official repository)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4728,
-      "forks": 776,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "DeusData / codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 42378,
-      "forks": 3460,
-      "added_stars": "125 stars today"
-    },
-    {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 26878,
-      "forks": 2949,
-      "added_stars": "50 stars today"
     }
   ]
 }

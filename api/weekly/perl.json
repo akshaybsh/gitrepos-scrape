@@ -2,18 +2,8 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:48:14 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
   "items": [
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19732,
-      "forks": 2111,
-      "added_stars": "25 stars this week"
-    },
     {
       "title": "acl-org / ACLPUB",
       "url": "https://github.com/acl-org/ACLPUB",
@@ -23,6 +13,16 @@
       "stars": 252,
       "forks": 306,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19735,
+      "forks": 2111,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "Perl / perl5",
@@ -35,6 +35,16 @@
       "added_stars": "5 stars this week"
     },
     {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23505,
+      "forks": 1125,
+      "added_stars": "25 stars this week"
+    },
+    {
       "title": "glpi-project / glpi-agent",
       "url": "https://github.com/glpi-project/glpi-agent",
       "description": "GLPI Agent",
@@ -43,6 +53,16 @@
       "stars": 484,
       "forks": 121,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 5010,
+      "forks": 482,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "znuny / Znuny",
@@ -55,6 +75,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "so-fancy / diff-so-fancy",
+      "url": "https://github.com/so-fancy/diff-so-fancy",
+      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 18089,
+      "forks": 348,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "oetiker / SmokePing",
+      "url": "https://github.com/oetiker/SmokePing",
+      "description": "The Active Monitoring System",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1962,
+      "forks": 216,
+      "added_stars": "5 stars this week"
+    },
+    {
       "title": "fusioninventory / fusioninventory-agent",
       "url": "https://github.com/fusioninventory/fusioninventory-agent",
       "description": "FusionInventory Agent",
@@ -63,16 +103,6 @@
       "stars": 268,
       "forks": 124,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 23503,
-      "forks": 1125,
-      "added_stars": "30 stars this week"
     },
     {
       "title": "Zimbra / zm-build",
@@ -85,54 +115,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "Difegue / LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "title": "Aetherinox / csf-firewall",
+      "url": "https://github.com/Aetherinox/csf-firewall",
+      "description": "ConfigServer Security & Firewall (CSF) - Robust linux iptables/nftables firewall & free ipset blocklist service.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3097,
-      "forks": 226,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3409,
-      "forks": 379,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "inverse-inc / packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1684,
-      "forks": 325,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1514,
-      "forks": 1217,
+      "stars": 370,
+      "forks": 71,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 5008,
-      "forks": 481,
-      "added_stars": "17 stars this week"
     },
     {
       "title": "holzschu / a-shell",
@@ -140,9 +130,29 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3899,
+      "stars": 3902,
       "forks": 210,
       "added_stars": "12 stars this week"
+    },
+    {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3099,
+      "forks": 226,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3410,
+      "forks": 379,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "szTheory / exifcleaner",
@@ -150,19 +160,19 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2665,
+      "stars": 2670,
       "forks": 168,
-      "added_stars": "15 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
-      "title": "yaml / yaml-test-suite",
-      "url": "https://github.com/yaml/yaml-test-suite",
-      "description": "Comprehensive, language independent Test Suite for YAML",
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 266,
-      "forks": 98,
-      "added_stars": "3 stars this week"
+      "stars": 1515,
+      "forks": 1217,
+      "added_stars": "1 star this week"
     }
   ]
 }

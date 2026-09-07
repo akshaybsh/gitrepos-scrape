@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:50:26 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
   "items": [
     {
       "title": "szTheory / exifcleaner",
@@ -10,9 +10,9 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2665,
+      "stars": 2670,
       "forks": 168,
-      "added_stars": "121 stars this month"
+      "added_stars": "125 stars this month"
     },
     {
       "title": "exiftool / exiftool",
@@ -20,19 +20,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5008,
-      "forks": 481,
+      "stars": 5010,
+      "forks": 482,
       "added_stars": "92 stars this month"
-    },
-    {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3899,
-      "forks": 210,
-      "added_stars": "58 stars this month"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -42,7 +32,17 @@
       "languageColor": "#0298c3",
       "stars": 484,
       "forks": 121,
-      "added_stars": "21 stars this month"
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3902,
+      "forks": 210,
+      "added_stars": "60 stars this month"
     },
     {
       "title": "znuny / Znuny",
@@ -52,17 +52,7 @@
       "languageColor": "#0298c3",
       "stars": 591,
       "forks": 121,
-      "added_stars": "8 stars this month"
-    },
-    {
-      "title": "metabrainz / musicbrainz-server",
-      "url": "https://github.com/metabrainz/musicbrainz-server",
-      "description": "Server for the MusicBrainz project (website, API, database tools)",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1084,
-      "forks": 339,
-      "added_stars": "12 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "brendangregg / FlameGraph",
@@ -70,19 +60,9 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19732,
+      "stars": 19735,
       "forks": 2111,
       "added_stars": "99 stars this month"
-    },
-    {
-      "title": "Zimbra / zm-build",
-      "url": "https://github.com/Zimbra/zm-build",
-      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 245,
-      "forks": 106,
-      "added_stars": "5 stars this month"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -90,7 +70,7 @@
       "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1684,
+      "stars": 1685,
       "forks": 325,
       "added_stars": "21 stars this month"
     },
@@ -100,7 +80,7 @@
       "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1514,
+      "stars": 1515,
       "forks": 1217,
       "added_stars": "13 stars this month"
     },
@@ -115,12 +95,32 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "Zimbra / zm-build",
+      "url": "https://github.com/Zimbra/zm-build",
+      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 245,
+      "forks": 106,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "centreon / centreon-plugins",
+      "url": "https://github.com/centreon/centreon-plugins",
+      "description": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 335,
+      "forks": 307,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "AlDanial / cloc",
       "url": "https://github.com/AlDanial/cloc",
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23503,
+      "stars": 23505,
       "forks": 1125,
       "added_stars": "126 stars this month"
     },
@@ -130,9 +130,9 @@
       "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3409,
+      "stars": 3410,
       "forks": 379,
-      "added_stars": "31 stars this month"
+      "added_stars": "29 stars this month"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -145,36 +145,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "Difegue / LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3097,
-      "forks": 226,
-      "added_stars": "49 stars this month"
-    },
-    {
-      "title": "mrash / fwknop",
-      "url": "https://github.com/mrash/fwknop",
-      "description": "Single Packet Authorization > Port Knocking",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1448,
-      "forks": 256,
-      "added_stars": "47 stars this month"
-    },
-    {
-      "title": "ddclient / ddclient",
-      "url": "https://github.com/ddclient/ddclient",
-      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3534,
-      "forks": 400,
-      "added_stars": "33 stars this month"
-    },
-    {
       "title": "yaml / yaml-test-suite",
       "url": "https://github.com/yaml/yaml-test-suite",
       "description": "Comprehensive, language independent Test Suite for YAML",
@@ -185,14 +155,34 @@
       "added_stars": "9 stars this month"
     },
     {
-      "title": "docker-library / repo-info",
-      "url": "https://github.com/docker-library/repo-info",
-      "description": "Extended information (especially license and layer details) about the published Official Images",
+      "title": "bestpractical / rt",
+      "url": "https://github.com/bestpractical/rt",
+      "description": "Request Tracker, an enterprise-grade issue tracking system",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 608,
-      "forks": 358,
-      "added_stars": "4 stars this month"
+      "stars": 1153,
+      "forks": 296,
+      "added_stars": "12 stars this month"
+    },
+    {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3099,
+      "forks": 226,
+      "added_stars": "48 stars this month"
+    },
+    {
+      "title": "ddclient / ddclient",
+      "url": "https://github.com/ddclient/ddclient",
+      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3536,
+      "forks": 400,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "os-autoinst / os-autoinst-distri-opensuse",
@@ -203,6 +193,16 @@
       "stars": 92,
       "forks": 304,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "docker-library / repo-info",
+      "url": "https://github.com/docker-library/repo-info",
+      "description": "Extended information (especially license and layer details) about the published Official Images",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 608,
+      "forks": 358,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "manwar / perlweeklychallenge-club",

@@ -4,7 +4,7 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 06 Sep 2026 06:48:14 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 06:56:56 GMT</pubDate>
   <item>
     <title>tailscale / tailcat</title>
     <link>https://github.com/tailscale/tailcat</link>
@@ -26,29 +26,19 @@
     <description>The universal proxy platform</description>
   </item>
   <item>
-    <title>vllm-project / semantic-router</title>
-    <link>https://github.com/vllm-project/semantic-router</link>
-    <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
+    <title>TencentCloud / CubeSandbox</title>
+    <link>https://github.com/TencentCloud/CubeSandbox</link>
+    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+  </item>
+  <item>
+    <title>kubernetes / minikube</title>
+    <link>https://github.com/kubernetes/minikube</link>
+    <description>Run Kubernetes locally</description>
   </item>
   <item>
     <title>TecharoHQ / anubis</title>
     <link>https://github.com/TecharoHQ/anubis</link>
     <description>Weighs the soul of incoming HTTP requests to stop AI crawlers</description>
-  </item>
-  <item>
-    <title>go-vikunja / vikunja</title>
-    <link>https://github.com/go-vikunja/vikunja</link>
-    <description>The task manager you actually own.</description>
-  </item>
-  <item>
-    <title>JetBrains / go-modern-guidelines</title>
-    <link>https://github.com/JetBrains/go-modern-guidelines</link>
-    <description>Help AI coding agents write modern Go</description>
-  </item>
-  <item>
-    <title>TencentCloud / CubeSandbox</title>
-    <link>https://github.com/TencentCloud/CubeSandbox</link>
-    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
   </item>
   <item>
     <title>seakee / CPA-Manager-Plus</title>
@@ -61,9 +51,24 @@
     <description>A scalable overlay networking tool with a focus on performance, simplicity and security</description>
   </item>
   <item>
-    <title>kenn-io / agentsview</title>
-    <link>https://github.com/kenn-io/agentsview</link>
-    <description>Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.</description>
+    <title>vllm-project / semantic-router</title>
+    <link>https://github.com/vllm-project/semantic-router</link>
+    <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
+  </item>
+  <item>
+    <title>glanceapp / glance</title>
+    <link>https://github.com/glanceapp/glance</link>
+    <description>A self-hosted dashboard that puts all your feeds in one place</description>
+  </item>
+  <item>
+    <title>Tencent / WeKnora</title>
+    <link>https://github.com/Tencent/WeKnora</link>
+    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+  </item>
+  <item>
+    <title>netbirdio / netbird</title>
+    <link>https://github.com/netbirdio/netbird</link>
+    <description>Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</description>
   </item>
   <item>
     <title>weave-os / router</title>
@@ -76,34 +81,24 @@
     <description>The easiest, most secure way to use WireGuard and 2FA.</description>
   </item>
   <item>
-    <title>kopia / kopia</title>
-    <link>https://github.com/kopia/kopia</link>
-    <description>Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</description>
-  </item>
-  <item>
     <title>seaweedfs / seaweedfs</title>
     <link>https://github.com/seaweedfs/seaweedfs</link>
     <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
   </item>
   <item>
-    <title>Ed1s0nZ / CyberStrikeAI</title>
-    <link>https://github.com/Ed1s0nZ/CyberStrikeAI</link>
-    <description>The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.</description>
+    <title>go-vikunja / vikunja</title>
+    <link>https://github.com/go-vikunja/vikunja</link>
+    <description>The task manager you actually own.</description>
   </item>
   <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+    <title>smallstep / certificates</title>
+    <link>https://github.com/smallstep/certificates</link>
+    <description>🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</description>
   </item>
   <item>
-    <title>dapr / dapr</title>
-    <link>https://github.com/dapr/dapr</link>
-    <description>Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.</description>
-  </item>
-  <item>
-    <title>netbirdio / netbird</title>
-    <link>https://github.com/netbirdio/netbird</link>
-    <description>Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</description>
+    <title>goreleaser / goreleaser</title>
+    <link>https://github.com/goreleaser/goreleaser</link>
+    <description>Release engineering, simplified</description>
   </item>
   <item>
     <title>henrygd / beszel</title>
@@ -111,14 +106,24 @@
     <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
   </item>
   <item>
-    <title>cloudflare / cloudflared</title>
-    <link>https://github.com/cloudflare/cloudflared</link>
-    <description>Cloudflare Tunnel client</description>
+    <title>kopia / kopia</title>
+    <link>https://github.com/kopia/kopia</link>
+    <description>Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</description>
   </item>
   <item>
-    <title>MHSanaei / 3x-ui</title>
-    <link>https://github.com/MHSanaei/3x-ui</link>
-    <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+    <title>envoyproxy / ai-gateway</title>
+    <link>https://github.com/envoyproxy/ai-gateway</link>
+    <description>Manages Unified Access to Generative AI Services built on Envoy Gateway</description>
+  </item>
+  <item>
+    <title>dapr / dapr</title>
+    <link>https://github.com/dapr/dapr</link>
+    <description>Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.</description>
+  </item>
+  <item>
+    <title>Ed1s0nZ / CyberStrikeAI</title>
+    <link>https://github.com/Ed1s0nZ/CyberStrikeAI</link>
+    <description>The system of action for AI-native cybersecurity—where intent becomes governed execution, evidence becomes operational memory, and every operation improves the next.</description>
   </item>
 </channel>
 </rss>

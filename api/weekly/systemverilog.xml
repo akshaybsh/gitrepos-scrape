@@ -4,7 +4,7 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 06 Sep 2026 06:48:14 GMT</pubDate>
+  <pubDate>Mon, 07 Sep 2026 06:56:56 GMT</pubDate>
   <item>
     <title>lowRISC / ibex</title>
     <link>https://github.com/lowRISC/ibex</link>
@@ -14,11 +14,6 @@
     <title>adam-maj / tiny-gpu</title>
     <link>https://github.com/adam-maj/tiny-gpu</link>
     <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
-  </item>
-  <item>
-    <title>lowRISC / opentitan</title>
-    <link>https://github.com/lowRISC/opentitan</link>
-    <description>OpenTitan: Open source silicon root of trust</description>
   </item>
   <item>
     <title>chipsalliance / caliptra-ss</title>
@@ -31,14 +26,19 @@
     <description>HW Design Collateral for Caliptra RoT IP</description>
   </item>
   <item>
-    <title>openhwgroup / cv32e40p</title>
-    <link>https://github.com/openhwgroup/cv32e40p</link>
-    <description>CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform</description>
-  </item>
-  <item>
     <title>pulp-platform / common_cells</title>
     <link>https://github.com/pulp-platform/common_cells</link>
     <description>Common SystemVerilog components</description>
+  </item>
+  <item>
+    <title>lowRISC / opentitan</title>
+    <link>https://github.com/lowRISC/opentitan</link>
+    <description>OpenTitan: Open source silicon root of trust</description>
+  </item>
+  <item>
+    <title>verilator / verilator</title>
+    <link>https://github.com/verilator/verilator</link>
+    <description>Verilator open-source SystemVerilog simulator and lint system</description>
   </item>
 </channel>
 </rss>

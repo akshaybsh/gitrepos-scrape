@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 06 Sep 2026 06:46:02 GMT",
+  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
   "items": [
     {
       "title": "leanprover / lean4",
@@ -10,9 +10,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9000,
-      "forks": 962,
-      "added_stars": "18 stars today"
+      "stars": 9011,
+      "forks": 965,
+      "added_stars": "14 stars today"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,9 +20,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4024,
-      "forks": 1649,
-      "added_stars": "18 stars today"
+      "stars": 4049,
+      "forks": 1655,
+      "added_stars": "32 stars today"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -31,38 +31,18 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 1229,
-      "forks": 446,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 689,
-      "forks": 191,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "opencompl / veir",
-      "url": "https://github.com/opencompl/veir",
-      "description": "Verified Intermediate Representation",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 104,
-      "forks": 31,
+      "forks": 448,
       "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover-community / iris-lean",
-      "url": "https://github.com/leanprover-community/iris-lean",
-      "description": "Lean 4 port of Iris, a higher-order concurrent separation logic framework",
+      "title": "leanprover / comparator",
+      "url": "https://github.com/leanprover/comparator",
+      "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 217,
-      "forks": 62,
-      "added_stars": "0 stars today"
+      "stars": 187,
+      "forks": 30,
+      "added_stars": "3 stars today"
     }
   ]
 }
