@@ -2,27 +2,47 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
-    {
-      "title": "PojavLauncherTeam / PojavLauncher_iOS",
-      "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
-      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3237,
-      "forks": 1406,
-      "added_stars": "1 star today"
-    },
     {
       "title": "opa334 / TrollStore",
       "url": "https://github.com/opa334/TrollStore",
       "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 22119,
-      "forks": 1652,
-      "added_stars": "8 stars today"
+      "stars": 22127,
+      "forks": 1657,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "noah-nuebling / mac-mouse-fix",
+      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
+      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 10811,
+      "forks": 405,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13147,
+      "forks": 598,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Sequel-Ace / Sequel-Ace",
+      "url": "https://github.com/Sequel-Ace/Sequel-Ace",
+      "description": "MySQL/MariaDB database management for macOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 7528,
+      "forks": 333,
+      "added_stars": "1 star today"
     },
     {
       "title": "geode-sdk / ios-launcher",
@@ -30,19 +50,9 @@
       "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 709,
-      "forks": 258,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "iodefog / VipVideo",
-      "url": "https://github.com/iodefog/VipVideo",
-      "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 5723,
-      "forks": 692,
-      "added_stars": "6 stars today"
+      "stars": 711,
+      "forks": 259,
+      "added_stars": "2 stars today"
     },
     {
       "title": "SDWebImage / SDWebImage",
@@ -50,29 +60,19 @@
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25632,
+      "stars": 25633,
       "forks": 5956,
       "added_stars": "1 star today"
     },
     {
-      "title": "sparkle-project / Sparkle",
-      "url": "https://github.com/sparkle-project/Sparkle",
-      "description": "A software update framework for macOS",
+      "title": "MacPass / MacPass",
+      "url": "https://github.com/MacPass/MacPass",
+      "description": "A native macOS KeePass client",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 9657,
-      "forks": 1133,
+      "stars": 6861,
+      "forks": 468,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "syncthing / syncthing-macos",
-      "url": "https://github.com/syncthing/syncthing-macos",
-      "description": "Official frugal and native macOS Syncthing application bundle",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3915,
-      "forks": 201,
-      "added_stars": "2 stars today"
     },
     {
       "title": "google / promises",
@@ -80,8 +80,18 @@
       "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3829,
+      "stars": 3830,
       "forks": 315,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "google / GoogleUtilities",
+      "url": "https://github.com/google/GoogleUtilities",
+      "description": "",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 134,
+      "forks": 76,
       "added_stars": "0 stars today"
     },
     {
@@ -105,44 +115,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "google / GoogleUtilities",
-      "url": "https://github.com/google/GoogleUtilities",
-      "description": "",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 134,
-      "forks": 76,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "objective-see / LuLu",
-      "url": "https://github.com/objective-see/LuLu",
-      "description": "LuLu is the free open-source macOS firewall",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 13145,
-      "forks": 598,
-      "added_stars": "4 stars today"
-    },
-    {
       "title": "google / app-check",
       "url": "https://github.com/google/app-check",
       "description": "Google-internal core components of Firebase App Check.",
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 45,
-      "forks": 25,
+      "forks": 24,
       "added_stars": "0 stars today"
     },
     {
-      "title": "SoCuul / SCInsta",
-      "url": "https://github.com/SoCuul/SCInsta",
-      "description": "A feature-rich tweak for Instagram on iOS!",
+      "title": "facebookincubator / SocketRocket",
+      "url": "https://github.com/facebookincubator/SocketRocket",
+      "description": "A conforming Objective-C WebSocket client library.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 793,
-      "forks": 2970,
-      "added_stars": "1 star today"
+      "stars": 9604,
+      "forks": 2006,
+      "added_stars": "0 stars today"
     },
     {
       "title": "openid / AppAuth-iOS",
@@ -151,7 +141,17 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 2029,
-      "forks": 867,
+      "forks": 866,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PojavLauncherTeam / PojavLauncher_iOS",
+      "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
+      "description": "A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3238,
+      "forks": 1407,
       "added_stars": "0 stars today"
     },
     {
@@ -160,9 +160,39 @@
       "description": "Enables iOS and macOS apps to sign in with Google.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 750,
-      "forks": 282,
+      "stars": 751,
+      "forks": 281,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "SDWebImage / SDWebImageSVGCoder",
+      "url": "https://github.com/SDWebImage/SDWebImageSVGCoder",
+      "description": "A SVG coder plugin for SDWebImage, using Apple's built-in framework",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 135,
+      "forks": 43,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "julienXX / terminal-notifier",
+      "url": "https://github.com/julienXX/terminal-notifier",
+      "description": "Send User Notifications on macOS from the command-line.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 7312,
+      "forks": 358,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "maderix / ANE",
+      "url": "https://github.com/maderix/ANE",
+      "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 7252,
+      "forks": 961,
+      "added_stars": "1 star today"
     },
     {
       "title": "SDWebImage / SDWebImageWebPCoder",
@@ -175,34 +205,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Hammerspoon / hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "title": "TimOliver / TOCropViewController",
+      "url": "https://github.com/TimOliver/TOCropViewController",
+      "description": "A view controller for iOS that allows users to crop portions of UIImage objects",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16062,
-      "forks": 716,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "facebookincubator / SocketRocket",
-      "url": "https://github.com/facebookincubator/SocketRocket",
-      "description": "A conforming Objective-C WebSocket client library.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 9605,
-      "forks": 2006,
+      "stars": 4948,
+      "forks": 1023,
       "added_stars": "0 stars today"
     },
     {
-      "title": "34306 / FilzaJailedDS",
-      "url": "https://github.com/34306/FilzaJailedDS",
-      "description": "Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)",
+      "title": "SoCuul / SCInsta",
+      "url": "https://github.com/SoCuul/SCInsta",
+      "description": "A feature-rich tweak for Instagram on iOS!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 506,
-      "forks": 56,
-      "added_stars": "2 stars today"
+      "stars": 793,
+      "forks": 2974,
+      "added_stars": "1 star today"
     }
   ]
 }

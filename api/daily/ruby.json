@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
     {
       "title": "Homebrew / brew",
@@ -10,39 +10,19 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49455,
-      "forks": 11328,
-      "added_stars": "36 stars today"
+      "stars": 49467,
+      "forks": 11327,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "fastlane / fastlane",
-      "url": "https://github.com/fastlane/fastlane",
-      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "title": "Homebrew / homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 42072,
-      "forks": 6025,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "Freika / dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 10339,
-      "forks": 372,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "antiwork / gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 9665,
-      "forks": 2031,
-      "added_stars": "6 stars today"
+      "stars": 22190,
+      "forks": 11881,
+      "added_stars": "3 stars today"
     },
     {
       "title": "mastodon / mastodon",
@@ -50,19 +30,29 @@
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 50276,
+      "stars": 50284,
       "forks": 7492,
       "added_stars": "7 stars today"
     },
     {
-      "title": "rubocop / rubocop",
-      "url": "https://github.com/rubocop/rubocop",
-      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "title": "Freika / dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 12894,
-      "forks": 3136,
-      "added_stars": "0 stars today"
+      "stars": 10351,
+      "forks": 373,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 23705,
+      "forks": 5634,
+      "added_stars": "3 stars today"
     },
     {
       "title": "spree / spree",
@@ -71,57 +61,27 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 15672,
-      "forks": 5295,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "ruby / ruby",
-      "url": "https://github.com/ruby/ruby",
-      "description": "The Ruby Programming Language",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 23704,
-      "forks": 5635,
+      "forks": 5296,
       "added_stars": "1 star today"
     },
     {
-      "title": "github-linguist / linguist",
-      "url": "https://github.com/github-linguist/linguist",
-      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "title": "rapid7 / metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 13682,
-      "forks": 5376,
+      "stars": 38957,
+      "forks": 14960,
       "added_stars": "4 stars today"
     },
     {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 47795,
-      "forks": 9014,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "otwcode / otwarchive",
-      "url": "https://github.com/otwcode/otwarchive",
-      "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2210,
-      "forks": 845,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "we-promise / sure",
-      "url": "https://github.com/we-promise/sure",
-      "description": "The personal finance app for everyone (by everyone)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 9746,
-      "forks": 446,
+      "stars": 42075,
+      "forks": 6026,
       "added_stars": "11 stars today"
     },
     {
@@ -130,29 +90,119 @@
       "description": "🤖 Dependabot's core logic for creating update PRs.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 5760,
-      "forks": 1513,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "chromebrew / chromebrew",
-      "url": "https://github.com/chromebrew/chromebrew",
-      "description": "Package manager for Chrome OS",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2512,
-      "forks": 421,
+      "stars": 5762,
+      "forks": 1514,
       "added_stars": "0 stars today"
     },
     {
-      "title": "citation-style-language / styles",
-      "url": "https://github.com/citation-style-language/styles",
-      "description": "Official repository for Citation Style Language (CSL) citation styles.",
+      "title": "kilimchoi / engineering-blogs",
+      "url": "https://github.com/kilimchoi/engineering-blogs",
+      "description": "A curated list of engineering blogs",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3888,
-      "forks": 4153,
-      "added_stars": "1 star today"
+      "stars": 38585,
+      "forks": 2035,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "docusealco / docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 18469,
+      "forks": 1848,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "hanami / hanami",
+      "url": "https://github.com/hanami/hanami",
+      "description": "A flexible framework for maintainable Ruby apps",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 6406,
+      "forks": 552,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "github-linguist / linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 13682,
+      "forks": 5382,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "antiwork / gumroad",
+      "url": "https://github.com/antiwork/gumroad",
+      "description": "See what sticks",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 9669,
+      "forks": 2031,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "instructure / canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 6801,
+      "forks": 3016,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "basecamp / fizzy",
+      "url": "https://github.com/basecamp/fizzy",
+      "description": "Kanban as it should be. Not as it has been.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 8181,
+      "forks": 1182,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "github / explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 4879,
+      "forks": 14504,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "googleapis / google-api-ruby-client",
+      "url": "https://github.com/googleapis/google-api-ruby-client",
+      "description": "REST client for Google APIs",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2897,
+      "forks": 888,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "endoflife-date / endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3369,
+      "forks": 1294,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "otwcode / otwarchive",
+      "url": "https://github.com/otwcode/otwarchive",
+      "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2211,
+      "forks": 846,
+      "added_stars": "0 stars today"
     }
   ]
 }

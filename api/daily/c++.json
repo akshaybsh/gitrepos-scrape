@@ -2,27 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
     {
-      "title": "FreeCAD / FreeCAD",
-      "url": "https://github.com/FreeCAD/FreeCAD",
-      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "title": "ClassicOldSong / Apollo",
+      "url": "https://github.com/ClassicOldSong/Apollo",
+      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33327,
-      "forks": 6003,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "Diegiwg / PrismLauncher-Cracked",
-      "url": "https://github.com/Diegiwg/PrismLauncher-Cracked",
-      "description": "This project is a Fork of Prism Launcher which aims to 'unblock' the use of Offline Accounts, disabling the restriction of having a functional Online Account.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 891,
-      "forks": 130,
-      "added_stars": "5 stars today"
+      "stars": 10823,
+      "forks": 427,
+      "added_stars": "14 stars today"
     },
     {
       "title": "imputnet / helium",
@@ -30,29 +20,69 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20359,
-      "forks": 566,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "official-stockfish / Stockfish",
-      "url": "https://github.com/official-stockfish/Stockfish",
-      "description": "A free and strong UCI chess engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16519,
-      "forks": 3003,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10433,
-      "forks": 442,
+      "stars": 20406,
+      "forks": 565,
       "added_stars": "54 stars today"
+    },
+    {
+      "title": "mamedev / mame",
+      "url": "https://github.com/mamedev/mame",
+      "description": "MAME",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10464,
+      "forks": 2507,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "vcmi / vcmi",
+      "url": "https://github.com/vcmi/vcmi",
+      "description": "Open-source engine for Heroes of Might and Magic III",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5840,
+      "forks": 679,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "stenzek / duckstation",
+      "url": "https://github.com/stenzek/duckstation",
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10648,
+      "forks": 963,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "justcallmekoko / ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12251,
+      "forks": 1457,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "NVIDIA / cutlass",
+      "url": "https://github.com/NVIDIA/cutlass",
+      "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10402,
+      "forks": 2071,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "juce-framework / JUCE",
+      "url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8878,
+      "forks": 2173,
+      "added_stars": "5 stars today"
     },
     {
       "title": "LizardByte / Sunshine",
@@ -60,139 +90,89 @@
       "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40952,
-      "forks": 2091,
-      "added_stars": "46 stars today"
+      "stars": 40999,
+      "forks": 2095,
+      "added_stars": "44 stars today"
     },
     {
-      "title": "praydog / REFramework",
-      "url": "https://github.com/praydog/REFramework",
-      "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
+      "title": "official-stockfish / Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5424,
-      "forks": 615,
+      "stars": 16528,
+      "forks": 3003,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "google / flatbuffers",
+      "url": "https://github.com/google/flatbuffers",
+      "description": "FlatBuffers: Memory Efficient Serialization Library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 26446,
+      "forks": 3649,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "lemonade-sdk / lemonade",
+      "url": "https://github.com/lemonade-sdk/lemonade",
+      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5658,
+      "forks": 491,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "LMMS / lmms",
+      "url": "https://github.com/LMMS/lmms",
+      "description": "Cross-platform music production software",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10344,
+      "forks": 1246,
       "added_stars": "7 stars today"
     },
     {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41943,
-      "forks": 3899,
-      "added_stars": "9 stars today"
+      "stars": 19685,
+      "forks": 2427,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
+      "title": "zen-browser / desktop",
+      "url": "https://github.com/zen-browser/desktop",
+      "description": "Welcome to a calmer internet",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 127308,
-      "forks": 22845,
-      "added_stars": "113 stars today"
+      "stars": 44330,
+      "forks": 1739,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "musescore / MuseScore",
-      "url": "https://github.com/musescore/MuseScore",
-      "description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!",
+      "title": "LibreSprite / LibreSprite",
+      "url": "https://github.com/LibreSprite/LibreSprite",
+      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15068,
-      "forks": 3282,
-      "added_stars": "3 stars today"
+      "stars": 8359,
+      "forks": 559,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "YimMenu / YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
+      "title": "doitsujin / dxvk",
+      "url": "https://github.com/doitsujin/dxvk",
+      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1700,
-      "forks": 392,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "bitcoin / bitcoin",
-      "url": "https://github.com/bitcoin/bitcoin",
-      "description": "Bitcoin Core integration/staging tree",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 90128,
-      "forks": 39389,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "crosire / reshade",
-      "url": "https://github.com/crosire/reshade",
-      "description": "A generic post-processing injector for games and video software.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5451,
-      "forks": 707,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "notepad-plus-plus / notepad-plus-plus",
-      "url": "https://github.com/notepad-plus-plus/notepad-plus-plus",
-      "description": "Notepad++ official repository",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29252,
-      "forks": 5352,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "jellyfin / jellyfin-desktop",
-      "url": "https://github.com/jellyfin/jellyfin-desktop",
-      "description": "Jellyfin Desktop Client",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5708,
-      "forks": 538,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "esphome / esphome",
-      "url": "https://github.com/esphome/esphome",
-      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11656,
-      "forks": 5609,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 199255,
-      "forks": 76289,
-      "added_stars": "43 stars today"
-    },
-    {
-      "title": "HIllya51 / LunaTranslator",
-      "url": "https://github.com/HIllya51/LunaTranslator",
-      "description": "视觉小说翻译器 / Visual Novel Translator",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 13060,
-      "forks": 1145,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "praydog / UEVR",
-      "url": "https://github.com/praydog/UEVR",
-      "description": "Universal Unreal Engine VR Mod (4.8 - 5.4)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4494,
-      "forks": 266,
-      "added_stars": "3 stars today"
+      "stars": 18029,
+      "forks": 1231,
+      "added_stars": "14 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
   "items": [
     {
       "title": "AssemblyScript / assemblyscript",
@@ -12,7 +12,7 @@
       "languageColor": "#04133b",
       "stars": 18003,
       "forks": 691,
-      "added_stars": "36 stars this month"
+      "added_stars": "38 stars this month"
     },
     {
       "title": "WebAssembly / component-model",
@@ -20,9 +20,19 @@
       "description": "Repository for design and specification of the Component Model",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 1366,
+      "stars": 1368,
       "forks": 130,
-      "added_stars": "22 stars this month"
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "WebAssembly / binaryen",
+      "url": "https://github.com/WebAssembly/binaryen",
+      "description": "Optimizer and compiler/toolchain library for WebAssembly",
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 8619,
+      "forks": 882,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "iRath96 / webNBT",
@@ -33,16 +43,6 @@
       "stars": 281,
       "forks": 53,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "WebAssembly / binaryen",
-      "url": "https://github.com/WebAssembly/binaryen",
-      "description": "Optimizer and compiler/toolchain library for WebAssembly",
-      "language": "WebAssembly",
-      "languageColor": "#04133b",
-      "stars": 8619,
-      "forks": 882,
-      "added_stars": "36 stars this month"
     }
   ]
 }

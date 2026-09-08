@@ -4,7 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 07 Sep 2026 06:56:56 GMT</pubDate>
+  <pubDate>Tue, 08 Sep 2026 06:53:02 GMT</pubDate>
   <item>
     <title>delta-io / delta</title>
     <link>https://github.com/delta-io/delta</link>
@@ -16,11 +16,6 @@
     <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
-    <title>apache / spark</title>
-    <link>https://github.com/apache/spark</link>
-    <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
-  </item>
-  <item>
     <title>joernio / joern</title>
     <link>https://github.com/joernio/joern</link>
     <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
@@ -29,6 +24,16 @@
     <title>apache / datafusion-comet</title>
     <link>https://github.com/apache/datafusion-comet</link>
     <description>Apache DataFusion Comet Spark Accelerator</description>
+  </item>
+  <item>
+    <title>apache / spark</title>
+    <link>https://github.com/apache/spark</link>
+    <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
+  </item>
+  <item>
+    <title>twitter / the-algorithm</title>
+    <link>https://github.com/twitter/the-algorithm</link>
+    <description>Source code for the X Recommendation Algorithm</description>
   </item>
   <item>
     <title>apache / gluten</title>
@@ -46,14 +51,9 @@
     <description>The Guardian DotCom.</description>
   </item>
   <item>
-    <title>twitter / the-algorithm</title>
-    <link>https://github.com/twitter/the-algorithm</link>
-    <description>Source code for the X Recommendation Algorithm</description>
-  </item>
-  <item>
-    <title>ThoughtWorksInc / Compute.scala</title>
-    <link>https://github.com/ThoughtWorksInc/Compute.scala</link>
-    <description>Scientific computing with N-dimensional arrays</description>
+    <title>lichess-org / lila</title>
+    <link>https://github.com/lichess-org/lila</link>
+    <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
   </item>
   <item>
     <title>chipsalliance / rocket-chip</title>
@@ -71,14 +71,29 @@
     <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
   </item>
   <item>
+    <title>NVIDIA / cudf-spark</title>
+    <link>https://github.com/NVIDIA/cudf-spark</link>
+    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
+  </item>
+  <item>
+    <title>Adi23041999 / UpstateLiberty</title>
+    <link>https://github.com/Adi23041999/UpstateLiberty</link>
+    <description></description>
+  </item>
+  <item>
     <title>sbt / sbt</title>
     <link>https://github.com/sbt/sbt</link>
     <description>sbt, the interactive build tool</description>
   </item>
   <item>
-    <title>lichess-org / lila</title>
-    <link>https://github.com/lichess-org/lila</link>
-    <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+    <title>apache / pekko</title>
+    <link>https://github.com/apache/pekko</link>
+    <description>Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala</description>
+  </item>
+  <item>
+    <title>scala / scala</title>
+    <link>https://github.com/scala/scala</link>
+    <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
   </item>
   <item>
     <title>scalapb / ScalaPB</title>
@@ -91,11 +106,6 @@
     <description>Human-AI Collaborative Data Science Using Visual Workflows</description>
   </item>
   <item>
-    <title>ucb-bar / berkeley-hardfloat</title>
-    <link>https://github.com/ucb-bar/berkeley-hardfloat</link>
-    <description></description>
-  </item>
-  <item>
     <title>dyrkin / luxmed-bot</title>
     <link>https://github.com/dyrkin/luxmed-bot</link>
     <description>Non official telegram bot for Portal Pacjenta LUX MED</description>
@@ -106,14 +116,9 @@
     <description>Scala language server with rich IDE features 🚀</description>
   </item>
   <item>
-    <title>scala / scala</title>
-    <link>https://github.com/scala/scala</link>
-    <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
-  </item>
-  <item>
-    <title>apache / kyuubi</title>
-    <link>https://github.com/apache/kyuubi</link>
-    <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
+    <title>ucb-bar / berkeley-hardfloat</title>
+    <link>https://github.com/ucb-bar/berkeley-hardfloat</link>
+    <description></description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
   "items": [
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -10,9 +10,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105610,
+      "stars": 105612,
       "forks": 10725,
-      "added_stars": "245 stars this month"
+      "added_stars": "244 stars this month"
     },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
@@ -20,9 +20,9 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 22737,
-      "forks": 1156,
-      "added_stars": "592 stars this month"
+      "stars": 22743,
+      "forks": 1155,
+      "added_stars": "593 stars this month"
     },
     {
       "title": "Gar-b-age / CookLikeHOC",
@@ -30,9 +30,9 @@
       "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 24607,
-      "forks": 2394,
-      "added_stars": "886 stars this month"
+      "stars": 24609,
+      "forks": 2395,
+      "added_stars": "889 stars this month"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -40,9 +40,9 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12049,
-      "forks": 3711,
-      "added_stars": "116 stars this month"
+      "stars": 12051,
+      "forks": 3712,
+      "added_stars": "115 stars this month"
     },
     {
       "title": "laradock / laradock",
@@ -50,9 +50,9 @@
       "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12670,
+      "stars": 12672,
       "forks": 4347,
-      "added_stars": "21 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "oxsecurity / megalinter",
@@ -60,9 +60,9 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2578,
+      "stars": 2579,
       "forks": 310,
-      "added_stars": "30 stars this month"
+      "added_stars": "31 stars this month"
     },
     {
       "title": "microsoft / vscode-remote-release",
@@ -70,9 +70,9 @@
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4170,
+      "stars": 4171,
       "forks": 468,
-      "added_stars": "39 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "nordquant / dbt-student-repo",
@@ -81,28 +81,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 23,
-      "forks": 3220,
+      "forks": 3235,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21213,
-      "forks": 4806,
-      "added_stars": "140 stars this month"
-    },
-    {
-      "title": "Dark-Xploit / CypherX",
-      "url": "https://github.com/Dark-Xploit/CypherX",
-      "description": "𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2926,
-      "forks": 7757,
-      "added_stars": "47 stars this month"
     },
     {
       "title": "dotnet / dotnet-docker",
@@ -112,7 +92,27 @@
       "languageColor": "#384d54",
       "stars": 4873,
       "forks": 1976,
-      "added_stars": "17 stars this month"
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21218,
+      "forks": 4806,
+      "added_stars": "140 stars this month"
+    },
+    {
+      "title": "Dark-Xploit / CypherX",
+      "url": "https://github.com/Dark-Xploit/CypherX",
+      "description": "𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2928,
+      "forks": 7760,
+      "added_stars": "48 stars this month"
     },
     {
       "title": "redhat-openshift-ecosystem / certified-operators",
@@ -125,14 +125,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
+      "title": "MicrosoftDocs / windows-powershell-docs",
+      "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
+      "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 284,
-      "forks": 2087,
-      "added_stars": "3 stars this month"
+      "stars": 501,
+      "forks": 636,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "aws-amplify / amplify-hosting",
@@ -145,24 +145,34 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "render-examples / mysql",
-      "url": "https://github.com/render-examples/mysql",
-      "description": "MySQL 8.0 and 5.7 on Render",
+      "title": "openai / codex-universal",
+      "url": "https://github.com/openai/codex-universal",
+      "description": "Base docker image used in Codex environments",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 46,
-      "forks": 1142,
-      "added_stars": "2 stars this month"
+      "stars": 1056,
+      "forks": 279,
+      "added_stars": "48 stars this month"
     },
     {
-      "title": "corretto / corretto-docker",
-      "url": "https://github.com/corretto/corretto-docker",
-      "description": "Dockerfiles for Amazon Corretto Official images.",
+      "title": "solana-foundation / solana-verifiable-build",
+      "url": "https://github.com/solana-foundation/solana-verifiable-build",
+      "description": "CLI tool for deterministically building and verifying executable against on-chain programs or buffer accounts",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 198,
-      "forks": 68,
-      "added_stars": "0 stars this month"
+      "stars": 486,
+      "forks": 251,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "docker-library / python",
+      "url": "https://github.com/docker-library/python",
+      "description": "Docker Official Image packaging for Python",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2774,
+      "forks": 1108,
+      "added_stars": "7 stars this month"
     }
   ]
 }

@@ -2,137 +2,47 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
     {
-      "title": "jlcodes99 / cockpit-tools",
-      "url": "https://github.com/jlcodes99/cockpit-tools",
-      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+      "title": "1jehuang / jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "description": "The most RAM efficient harness",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17185,
-      "forks": 1518,
-      "added_stars": "52 stars today"
+      "stars": 19317,
+      "forks": 2219,
+      "added_stars": "74 stars today"
     },
     {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 79157,
-      "forks": 5010,
-      "added_stars": "390 stars today"
+      "stars": 9666,
+      "forks": 815,
+      "added_stars": "72 stars today"
     },
     {
-      "title": "arcboxlabs / arcbox",
-      "url": "https://github.com/arcboxlabs/arcbox",
-      "description": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3496,
-      "forks": 113,
-      "added_stars": "361 stars today"
+      "stars": 28625,
+      "forks": 3729,
+      "added_stars": "130 stars today"
     },
     {
-      "title": "nklmilojevic / sofka",
-      "url": "https://github.com/nklmilojevic/sofka",
-      "description": "A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.",
+      "title": "louis-e / arnis",
+      "url": "https://github.com/louis-e/arnis",
+      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 618,
-      "forks": 28,
-      "added_stars": "139 stars today"
-    },
-    {
-      "title": "cocoindex-io / cocoindex",
-      "url": "https://github.com/cocoindex-io/cocoindex",
-      "description": "Incremental engine for long horizon agents 🌟 Star if you like it!",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11497,
-      "forks": 898,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "eythaann / Seelen-UI",
-      "url": "https://github.com/eythaann/Seelen-UI",
-      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17725,
-      "forks": 590,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "oven-sh / bun",
-      "url": "https://github.com/oven-sh/bun",
-      "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 95898,
-      "forks": 5043,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "ramensoftware / windhawk",
-      "url": "https://github.com/ramensoftware/windhawk",
-      "description": "The customization marketplace for Windows programs: https://windhawk.net/",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8929,
-      "forks": 236,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "mixelpixx / Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 479,
-      "forks": 74,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "slint-ui / slint",
-      "url": "https://github.com/slint-ui/slint",
-      "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 23738,
-      "forks": 991,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "claration / Impactor",
-      "url": "https://github.com/claration/Impactor",
-      "description": "Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3169,
-      "forks": 199,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "longbridge / gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14090,
-      "forks": 848,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "AprilNEA / OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 19789,
-      "forks": 607,
-      "added_stars": "198 stars today"
+      "stars": 17772,
+      "forks": 1490,
+      "added_stars": "16 stars today"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -140,29 +50,129 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11113,
-      "forks": 786,
-      "added_stars": "17 stars today"
+      "stars": 11149,
+      "forks": 790,
+      "added_stars": "34 stars today"
     },
     {
-      "title": "GreptimeTeam / greptimedb",
-      "url": "https://github.com/GreptimeTeam/greptimedb",
-      "description": "The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.",
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6647,
-      "forks": 540,
-      "added_stars": "13 stars today"
+      "stars": 1173,
+      "forks": 135,
+      "added_stars": "46 stars today"
     },
     {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "title": "mixelpixx / Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31079,
-      "forks": 3345,
+      "stars": 526,
+      "forks": 80,
+      "added_stars": "53 stars today"
+    },
+    {
+      "title": "nklmilojevic / sofka",
+      "url": "https://github.com/nklmilojevic/sofka",
+      "description": "A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 844,
+      "forks": 33,
+      "added_stars": "259 stars today"
+    },
+    {
+      "title": "remorses / gpuix",
+      "url": "https://github.com/remorses/gpuix",
+      "description": "Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1663,
+      "forks": 46,
+      "added_stars": "72 stars today"
+    },
+    {
+      "title": "cachix / devenv",
+      "url": "https://github.com/cachix/devenv",
+      "description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7598,
+      "forks": 558,
       "added_stars": "41 stars today"
+    },
+    {
+      "title": "huggingface / funes",
+      "url": "https://github.com/huggingface/funes",
+      "description": "Durable, searchable memory of your past agent sessions.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 286,
+      "forks": 22,
+      "added_stars": "48 stars today"
+    },
+    {
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 92762,
+      "forks": 12306,
+      "added_stars": "126 stars today"
+    },
+    {
+      "title": "koharu-rs / koharu",
+      "url": "https://github.com/koharu-rs/koharu",
+      "description": "AI-powered manga translator, written in Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5516,
+      "forks": 381,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "gleam-lang / gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 21886,
+      "forks": 1014,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "visioncortex / vtracer",
+      "url": "https://github.com/visioncortex/vtracer",
+      "description": "Raster to Vector Graphics Converter",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6916,
+      "forks": 473,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "vllm-project / agentic-api",
+      "url": "https://github.com/vllm-project/agentic-api",
+      "description": "Stateful API logic for agentic applications using vLLM",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 222,
+      "forks": 60,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "eythaann / Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17740,
+      "forks": 591,
+      "added_stars": "23 stars today"
     }
   ]
 }

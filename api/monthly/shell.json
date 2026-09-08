@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
   "items": [
     {
       "title": "omacom / omarchy",
@@ -10,9 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 38695,
-      "forks": 4163,
-      "added_stars": "14,497 stars this month"
+      "stars": 39133,
+      "forks": 4224,
+      "added_stars": "14,766 stars this month"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,9 +20,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4889,
-      "forks": 1604,
-      "added_stars": "1,968 stars this month"
+      "stars": 4934,
+      "forks": 1619,
+      "added_stars": "1,942 stars this month"
     },
     {
       "title": "mattpocock / skills",
@@ -30,9 +30,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 255194,
-      "forks": 21505,
-      "added_stars": "48,844 stars this month"
+      "stars": 256339,
+      "forks": 21595,
+      "added_stars": "48,687 stars this month"
     },
     {
       "title": "SimoneAvogadro / android-reverse-engineering-skill",
@@ -40,9 +40,9 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7715,
-      "forks": 873,
-      "added_stars": "1,039 stars this month"
+      "stars": 7726,
+      "forks": 874,
+      "added_stars": "1,041 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
@@ -50,9 +50,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 95009,
+      "stars": 95020,
       "forks": 10434,
-      "added_stars": "793 stars this month"
+      "added_stars": "794 stars this month"
     },
     {
       "title": "llm-d / llm-d",
@@ -60,19 +60,9 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4435,
+      "stars": 4448,
       "forks": 752,
-      "added_stars": "457 stars this month"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16918,
-      "forks": 4374,
-      "added_stars": "220 stars this month"
+      "added_stars": "463 stars this month"
     },
     {
       "title": "community-scripts / ProxmoxVE",
@@ -80,9 +70,19 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29516,
-      "forks": 2868,
-      "added_stars": "383 stars this month"
+      "stars": 29517,
+      "forks": 2873,
+      "added_stars": "390 stars this month"
+    },
+    {
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 16921,
+      "forks": 4377,
+      "added_stars": "222 stars this month"
     },
     {
       "title": "armbian / build",
@@ -90,9 +90,9 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5402,
-      "forks": 3135,
-      "added_stars": "73 stars this month"
+      "stars": 5404,
+      "forks": 3138,
+      "added_stars": "72 stars this month"
     },
     {
       "title": "BtbN / FFmpeg-Builds",
@@ -100,19 +100,9 @@
       "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11623,
+      "stars": 11631,
       "forks": 1524,
-      "added_stars": "239 stars this month"
-    },
-    {
-      "title": "d3 / d3",
-      "url": "https://github.com/d3/d3",
-      "description": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 113665,
-      "forks": 22668,
-      "added_stars": "482 stars this month"
+      "added_stars": "237 stars this month"
     },
     {
       "title": "VSCodium / vscodium",
@@ -120,49 +110,19 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33150,
+      "stars": 33160,
       "forks": 1862,
-      "added_stars": "541 stars this month"
+      "added_stars": "537 stars this month"
     },
     {
-      "title": "eugr / spark-vllm-docker",
-      "url": "https://github.com/eugr/spark-vllm-docker",
-      "description": "Docker configuration for running VLLM on dual DGX Sparks",
+      "title": "iuricode / padroes-de-commits",
+      "url": "https://github.com/iuricode/padroes-de-commits",
+      "description": "Padrões de commits",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2233,
-      "forks": 383,
-      "added_stars": "272 stars this month"
-    },
-    {
-      "title": "pi-hole / pi-hole",
-      "url": "https://github.com/pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 60784,
-      "forks": 3306,
-      "added_stars": "634 stars this month"
-    },
-    {
-      "title": "HyDE-Project / HyDE",
-      "url": "https://github.com/HyDE-Project/HyDE",
-      "description": "HyDE, your Development Environment 🖥️💻",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9578,
-      "forks": 641,
-      "added_stars": "186 stars this month"
-    },
-    {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9169,
-      "forks": 286,
-      "added_stars": "367 stars this month"
+      "stars": 9670,
+      "forks": 1401,
+      "added_stars": "112 stars this month"
     },
     {
       "title": "Donchitos / Claude-Code-Game-Studios",
@@ -170,9 +130,49 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24852,
-      "forks": 3551,
-      "added_stars": "1,294 stars this month"
+      "stars": 24880,
+      "forks": 3557,
+      "added_stars": "1,281 stars this month"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9179,
+      "forks": 288,
+      "added_stars": "363 stars this month"
+    },
+    {
+      "title": "eugr / spark-vllm-docker",
+      "url": "https://github.com/eugr/spark-vllm-docker",
+      "description": "Docker configuration for running VLLM on dual DGX Sparks",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2239,
+      "forks": 385,
+      "added_stars": "258 stars this month"
+    },
+    {
+      "title": "pi-hole / pi-hole",
+      "url": "https://github.com/pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 60796,
+      "forks": 3307,
+      "added_stars": "632 stars this month"
+    },
+    {
+      "title": "HyDE-Project / HyDE",
+      "url": "https://github.com/HyDE-Project/HyDE",
+      "description": "HyDE, your Development Environment 🖥️💻",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9583,
+      "forks": 642,
+      "added_stars": "190 stars this month"
     }
   ]
 }

@@ -2,37 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19396,
-      "forks": 1361,
-      "added_stars": "67 stars this week"
-    },
-    {
-      "title": "plaintextaccounting / hledger",
-      "url": "https://github.com/plaintextaccounting/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4698,
-      "forks": 413,
-      "added_stars": "18 stars this week"
-    },
     {
       "title": "jgm / pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46166,
-      "forks": 3959,
-      "added_stars": "112 stars this week"
+      "stars": 46183,
+      "forks": 3962,
+      "added_stars": "106 stars this week"
     },
     {
       "title": "koalaman / shellcheck",
@@ -40,9 +20,29 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40001,
+      "stars": 40005,
       "forks": 1945,
-      "added_stars": "43 stars this week"
+      "added_stars": "46 stars this week"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19404,
+      "forks": 1359,
+      "added_stars": "70 stars this week"
+    },
+    {
+      "title": "plaintextaccounting / hledger",
+      "url": "https://github.com/plaintextaccounting/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4702,
+      "forks": 413,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "haskell / cabal",
@@ -52,6 +52,16 @@
       "languageColor": "#5e5086",
       "stars": 1747,
       "forks": 747,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "mtolly / onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 294,
+      "forks": 23,
       "added_stars": "1 star this week"
     },
     {
@@ -65,24 +75,24 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "mtolly / onyx",
-      "url": "https://github.com/mtolly/onyx",
-      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 292,
-      "forks": 23,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "monoscope-tech / monoscope",
       "url": "https://github.com/monoscope-tech/monoscope",
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1733,
-      "forks": 70,
-      "added_stars": "52 stars this week"
+      "stars": 1738,
+      "forks": 71,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2928,
+      "forks": 430,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "hadolint / hadolint",
@@ -90,7 +100,7 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12387,
+      "stars": 12388,
       "forks": 501,
       "added_stars": "13 stars this week"
     },
@@ -103,6 +113,16 @@
       "stars": 2537,
       "forks": 396,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7901,
+      "forks": 691,
+      "added_stars": "3 stars this week"
     }
   ]
 }

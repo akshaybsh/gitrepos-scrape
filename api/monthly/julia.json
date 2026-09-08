@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
   "items": [
     {
       "title": "JuliaRegistries / General",
@@ -20,9 +20,9 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 49079,
-      "forks": 5988,
-      "added_stars": "169 stars this month"
+      "stars": 49086,
+      "forks": 5989,
+      "added_stars": "171 stars this month"
     },
     {
       "title": "CliMA / ClimaCoupler.jl",
@@ -42,7 +42,7 @@
       "languageColor": "#a270ba",
       "stars": 1412,
       "forks": 293,
-      "added_stars": "22 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "CliMA / ClimaCore.jl",
@@ -53,6 +53,16 @@
       "stars": 117,
       "forks": 19,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "SciML / OrdinaryDiffEq.jl",
+      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
+      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 678,
+      "forks": 275,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "CliMA / ClimaAtmos.jl",
@@ -75,14 +85,24 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "SciML / OrdinaryDiffEq.jl",
-      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
-      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
+      "title": "SciML / ModelingToolkit.jl",
+      "url": "https://github.com/SciML/ModelingToolkit.jl",
+      "description": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 676,
-      "forks": 275,
-      "added_stars": "10 stars this month"
+      "stars": 1665,
+      "forks": 266,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "EnzymeAD / Enzyme.jl",
+      "url": "https://github.com/EnzymeAD/Enzyme.jl",
+      "description": "Julia bindings for the Enzyme automatic differentiator",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 586,
+      "forks": 105,
+      "added_stars": "7 stars this month"
     }
   ]
 }

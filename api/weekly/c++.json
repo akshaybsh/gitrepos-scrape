@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
     {
       "title": "fmtlib / fmt",
@@ -10,19 +10,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25631,
-      "forks": 3047,
-      "added_stars": "1,885 stars this week"
-    },
-    {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 72000,
-      "forks": 16274,
-      "added_stars": "158 stars this week"
+      "stars": 25658,
+      "forks": 3046,
+      "added_stars": "1,909 stars this week"
     },
     {
       "title": "rui314 / mold",
@@ -30,19 +20,19 @@
       "description": "mold: A Modern Linker 🦠",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16951,
+      "stars": 16954,
       "forks": 550,
-      "added_stars": "71 stars this week"
+      "added_stars": "72 stars this week"
     },
     {
-      "title": "doitsujin / dxvk",
-      "url": "https://github.com/doitsujin/dxvk",
-      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18020,
-      "forks": 1228,
-      "added_stars": "58 stars this week"
+      "stars": 72007,
+      "forks": 16275,
+      "added_stars": "155 stars this week"
     },
     {
       "title": "audacity / audacity",
@@ -50,9 +40,19 @@
       "description": "Audio Editor",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18313,
-      "forks": 2650,
-      "added_stars": "657 stars this week"
+      "stars": 18342,
+      "forks": 2657,
+      "added_stars": "675 stars this week"
+    },
+    {
+      "title": "prusa3d / PrusaSlicer",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 9310,
+      "forks": 2342,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "dragonflydb / dragonfly",
@@ -60,9 +60,19 @@
       "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31442,
+      "stars": 31452,
       "forks": 1256,
-      "added_stars": "398 stars this week"
+      "added_stars": "405 stars this week"
+    },
+    {
+      "title": "alibaba / zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "description": "A lightweight, lightning-fast, in-process vector database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15847,
+      "forks": 993,
+      "added_stars": "301 stars this week"
     },
     {
       "title": "falcosecurity / falco",
@@ -70,119 +80,29 @@
       "description": "Cloud Native Runtime Security",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9344,
-      "forks": 1075,
-      "added_stars": "34 stars this week"
+      "stars": 9352,
+      "forks": 1076,
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "microsoft / microsoft-ui-xaml",
-      "url": "https://github.com/microsoft/microsoft-ui-xaml",
-      "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+      "title": "doitsujin / dxvk",
+      "url": "https://github.com/doitsujin/dxvk",
+      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8355,
-      "forks": 936,
-      "added_stars": "233 stars this week"
+      "stars": 18029,
+      "forks": 1231,
+      "added_stars": "66 stars this week"
     },
     {
-      "title": "flameshot-org / flameshot",
-      "url": "https://github.com/flameshot-org/flameshot",
-      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "title": "official-stockfish / Stockfish",
+      "url": "https://github.com/official-stockfish/Stockfish",
+      "description": "A free and strong UCI chess engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 30790,
-      "forks": 2008,
-      "added_stars": "75 stars this week"
-    },
-    {
-      "title": "zhongyang219 / TrafficMonitor",
-      "url": "https://github.com/zhongyang219/TrafficMonitor",
-      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 46070,
-      "forks": 3786,
-      "added_stars": "134 stars this week"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10433,
-      "forks": 442,
-      "added_stars": "335 stars this week"
-    },
-    {
-      "title": "abseil / abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18124,
-      "forks": 3203,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "project-chip / connectedhomeip",
-      "url": "https://github.com/project-chip/connectedhomeip",
-      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8937,
-      "forks": 2467,
-      "added_stars": "25 stars this week"
-    },
-    {
-      "title": "OHF-Voice / piper1-gpl",
-      "url": "https://github.com/OHF-Voice/piper1-gpl",
-      "description": "Fast and local neural text-to-speech engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5483,
-      "forks": 531,
-      "added_stars": "122 stars this week"
-    },
-    {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41042,
-      "forks": 3728,
-      "added_stars": "233 stars this week"
-    },
-    {
-      "title": "keepassxreboot / keepassxc",
-      "url": "https://github.com/keepassxreboot/keepassxc",
-      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 28707,
-      "forks": 1909,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41943,
-      "forks": 3899,
-      "added_stars": "70 stars this week"
-    },
-    {
-      "title": "PCSX2 / pcsx2",
-      "url": "https://github.com/PCSX2/pcsx2",
-      "description": "PCSX2 - The Playstation 2 Emulator",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15503,
-      "forks": 2178,
-      "added_stars": "88 stars this week"
+      "stars": 16528,
+      "forks": 3003,
+      "added_stars": "92 stars this week"
     },
     {
       "title": "MaaAssistantArknights / MaaAssistantArknights",
@@ -190,29 +110,99 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23087,
+      "stars": 23125,
       "forks": 2826,
-      "added_stars": "205 stars this week"
+      "added_stars": "213 stars this week"
     },
     {
-      "title": "k2-fsa / sherpa-onnx",
-      "url": "https://github.com/k2-fsa/sherpa-onnx",
-      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "title": "flameshot-org / flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 14645,
-      "forks": 1670,
-      "added_stars": "152 stars this week"
+      "stars": 30801,
+      "forks": 2009,
+      "added_stars": "72 stars this week"
     },
     {
-      "title": "monero-project / monero",
-      "url": "https://github.com/monero-project/monero",
-      "description": "Monero: the secure, private, untraceable cryptocurrency",
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10839,
-      "forks": 3512,
-      "added_stars": "34 stars this week"
+      "stars": 10475,
+      "forks": 447,
+      "added_stars": "358 stars this week"
+    },
+    {
+      "title": "microsoft / microsoft-ui-xaml",
+      "url": "https://github.com/microsoft/microsoft-ui-xaml",
+      "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8366,
+      "forks": 936,
+      "added_stars": "141 stars this week"
+    },
+    {
+      "title": "zhongyang219 / TrafficMonitor",
+      "url": "https://github.com/zhongyang219/TrafficMonitor",
+      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 46092,
+      "forks": 3788,
+      "added_stars": "139 stars this week"
+    },
+    {
+      "title": "imputnet / helium",
+      "url": "https://github.com/imputnet/helium",
+      "description": "Private, fast, and honest web browser",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 20406,
+      "forks": 565,
+      "added_stars": "386 stars this week"
+    },
+    {
+      "title": "project-chip / connectedhomeip",
+      "url": "https://github.com/project-chip/connectedhomeip",
+      "description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8943,
+      "forks": 2469,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "praydog / REFramework",
+      "url": "https://github.com/praydog/REFramework",
+      "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 5427,
+      "forks": 615,
+      "added_stars": "56 stars this week"
+    },
+    {
+      "title": "abseil / abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18126,
+      "forks": 3205,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "OrcaSlicer / OrcaSlicer",
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer",
+      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15626,
+      "forks": 3039,
+      "added_stars": "87 stars this week"
     }
   ]
 }

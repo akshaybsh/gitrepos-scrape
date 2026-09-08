@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
     {
       "title": "leanprover / lean4",
@@ -10,9 +10,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9011,
-      "forks": 965,
-      "added_stars": "76 stars this week"
+      "stars": 9026,
+      "forks": 967,
+      "added_stars": "82 stars this week"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,8 +20,8 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4049,
-      "forks": 1655,
+      "stars": 4055,
+      "forks": 1660,
       "added_stars": "74 stars this week"
     },
     {
@@ -30,8 +30,8 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1229,
-      "forks": 448,
+      "stars": 1233,
+      "forks": 457,
       "added_stars": "16 stars this week"
     },
     {
@@ -62,7 +62,7 @@
       "languageColor": "#ccc",
       "stars": 26,
       "forks": 16,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
@@ -75,16 +75,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 120,
-      "forks": 29,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "leanprover-community / quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
@@ -93,6 +83,16 @@
       "stars": 111,
       "forks": 27,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 120,
+      "forks": 29,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leanprover-community / plausible",
@@ -112,7 +112,7 @@
       "languageColor": "#ccc",
       "stars": 419,
       "forks": 161,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "leanprover / cslib",
@@ -120,9 +120,9 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 691,
+      "stars": 693,
       "forks": 193,
-      "added_stars": "12 stars this week"
+      "added_stars": "14 stars this week"
     }
   ]
 }

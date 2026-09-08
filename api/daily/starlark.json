@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,9 +10,29 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8736,
+      "stars": 8738,
       "forks": 2630,
-      "added_stars": "4 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23059,
+      "forks": 1436,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 270,
+      "forks": 84,
+      "added_stars": "0 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -21,18 +41,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 385,
-      "forks": 879,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 271,
-      "forks": 84,
-      "added_stars": "0 stars today"
+      "forks": 881,
+      "added_stars": "1 star today"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -42,16 +52,16 @@
       "languageColor": "#76d275",
       "stars": 3964,
       "forks": 304,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     },
     {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "title": "tronbyt / apps",
+      "url": "https://github.com/tronbyt/apps",
+      "description": "Hard Fork of Tidbyt Community Repo",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 424,
-      "forks": 815,
+      "stars": 57,
+      "forks": 134,
       "added_stars": "0 stars today"
     }
   ]

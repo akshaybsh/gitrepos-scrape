@@ -2,37 +2,27 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10330,
-      "forks": 2474,
-      "added_stars": "4 stars today"
-    },
     {
       "title": "NixOS / nixpkgs",
       "url": "https://github.com/NixOS/nixpkgs",
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26044,
-      "forks": 20026,
-      "added_stars": "8 stars today"
+      "stars": 26052,
+      "forks": 20025,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1910,
-      "forks": 239,
-      "added_stars": "6 stars today"
+      "stars": 10336,
+      "forks": 2474,
+      "added_stars": "9 stars today"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -40,19 +30,29 @@
       "description": "Manage your macOS using Nix",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 5907,
+      "stars": 5909,
       "forks": 658,
-      "added_stars": "2 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3296,
-      "forks": 969,
-      "added_stars": "0 stars today"
+      "stars": 1912,
+      "forks": 239,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "nix-community / nixos-apple-silicon",
+      "url": "https://github.com/nix-community/nixos-apple-silicon",
+      "description": "Resources to install NixOS bare metal on Apple Silicon Macs [maintainers=@tpwrules,@flokli,@yuyuyureka]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1637,
+      "forks": 171,
+      "added_stars": "2 stars today"
     },
     {
       "title": "microvm-nix / microvm.nix",
@@ -60,29 +60,39 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2908,
+      "stars": 2910,
       "forks": 228,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "feel-co / hjem",
-      "url": "https://github.com/feel-co/hjem",
-      "description": "Streamlined, elegant $HOME management with Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 625,
-      "forks": 26,
       "added_stars": "2 stars today"
     },
     {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
+      "title": "nix-community / disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3152,
-      "forks": 231,
+      "stars": 3310,
+      "forks": 327,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "zardus / ctf-tools",
+      "url": "https://github.com/zardus/ctf-tools",
+      "description": "Some setup scripts for security research tools.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 9510,
+      "forks": 1910,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3297,
+      "forks": 968,
+      "added_stars": "2 stars today"
     }
   ]
 }

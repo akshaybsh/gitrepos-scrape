@@ -2,16 +2,26 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
+    {
+      "title": "Freika / dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 10351,
+      "forks": 373,
+      "added_stars": "127 stars this week"
+    },
     {
       "title": "opf / openproject",
       "url": "https://github.com/opf/openproject",
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 16037,
-      "forks": 3468,
+      "stars": 16051,
+      "forks": 3470,
       "added_stars": "67 stars this week"
     },
     {
@@ -20,29 +30,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9746,
-      "forks": 446,
-      "added_stars": "93 stars this week"
-    },
-    {
-      "title": "Freika / dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 10339,
-      "forks": 372,
-      "added_stars": "123 stars this week"
-    },
-    {
-      "title": "freeCodeCamp / devdocs",
-      "url": "https://github.com/freeCodeCamp/devdocs",
-      "description": "API Documentation Browser",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 39422,
-      "forks": 2639,
-      "added_stars": "34 stars this week"
+      "stars": 9757,
+      "forks": 447,
+      "added_stars": "95 stars this week"
     },
     {
       "title": "Homebrew / brew",
@@ -50,9 +40,9 @@
       "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49455,
-      "forks": 11328,
-      "added_stars": "138 stars this week"
+      "stars": 49467,
+      "forks": 11327,
+      "added_stars": "131 stars this week"
     },
     {
       "title": "postalserver / postal",
@@ -60,19 +50,9 @@
       "description": "📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 16792,
+      "stars": 16796,
       "forks": 1286,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "dependabot / dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5760,
-      "forks": 1513,
-      "added_stars": "20 stars this week"
+      "added_stars": "27 stars this week"
     },
     {
       "title": "basecamp / kamal",
@@ -80,29 +60,69 @@
       "description": "Deploy web apps anywhere.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 14563,
+      "stars": 14565,
       "forks": 750,
-      "added_stars": "22 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "spree / spree",
-      "url": "https://github.com/spree/spree",
-      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
+      "title": "basecamp / writebook",
+      "url": "https://github.com/basecamp/writebook",
+      "description": "",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 15672,
-      "forks": 5295,
-      "added_stars": "19 stars this week"
+      "stars": 538,
+      "forks": 92,
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "rails / rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
+      "title": "freeCodeCamp / devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 58756,
-      "forks": 22396,
-      "added_stars": "34 stars this week"
+      "stars": 39424,
+      "forks": 2639,
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "chatwoot / chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 36590,
+      "forks": 8849,
+      "added_stars": "244 stars this week"
+    },
+    {
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 42075,
+      "forks": 6026,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "discourse / discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 47797,
+      "forks": 9014,
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "dependabot / dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5762,
+      "forks": 1514,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "basecamp / fizzy",
@@ -111,38 +131,28 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 8181,
-      "forks": 1181,
+      "forks": 1182,
       "added_stars": "35 stars this week"
     },
     {
-      "title": "basecamp / writebook",
-      "url": "https://github.com/basecamp/writebook",
-      "description": "",
+      "title": "activeadmin / activeadmin",
+      "url": "https://github.com/activeadmin/activeadmin",
+      "description": "The administration framework for Ruby on Rails applications.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 537,
-      "forks": 92,
-      "added_stars": "18 stars this week"
+      "stars": 9708,
+      "forks": 3326,
+      "added_stars": "2 stars this week"
     },
     {
-      "title": "chatwoot / chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "title": "crmne / ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 36558,
-      "forks": 8830,
-      "added_stars": "246 stars this week"
-    },
-    {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 47795,
-      "forks": 9014,
-      "added_stars": "49 stars this week"
+      "stars": 4342,
+      "forks": 494,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "citation-style-language / styles",
@@ -150,9 +160,9 @@
       "description": "Official repository for Citation Style Language (CSL) citation styles.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3888,
-      "forks": 4153,
-      "added_stars": "4 stars this week"
+      "stars": 3889,
+      "forks": 4154,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "neutraltone / awesome-stock-resources",
@@ -160,19 +170,9 @@
       "description": "🌇 A collection of links for free stock photography, video and Illustration websites",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 14521,
+      "stars": 14522,
       "forks": 817,
-      "added_stars": "57 stars this week"
-    },
-    {
-      "title": "Homebrew / homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15548,
-      "forks": 13819,
-      "added_stars": "13 stars this week"
+      "added_stars": "56 stars this week"
     },
     {
       "title": "jekyll / jekyll",
@@ -181,18 +181,28 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 51660,
-      "forks": 10301,
+      "forks": 10302,
       "added_stars": "16 stars this week"
     },
     {
-      "title": "ubicloud / ubicloud",
-      "url": "https://github.com/ubicloud/ubicloud",
-      "description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.",
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 12260,
-      "forks": 588,
-      "added_stars": "9 stars this week"
+      "stars": 23705,
+      "forks": 5634,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "spree / spree",
+      "url": "https://github.com/spree/spree",
+      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15672,
+      "forks": 5296,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "docusealco / docuseal",
@@ -200,19 +210,29 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 18446,
-      "forks": 1847,
-      "added_stars": "49 stars this week"
+      "stars": 18469,
+      "forks": 1848,
+      "added_stars": "58 stars this week"
     },
     {
-      "title": "kilimchoi / engineering-blogs",
-      "url": "https://github.com/kilimchoi/engineering-blogs",
-      "description": "A curated list of engineering blogs",
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 38583,
-      "forks": 2035,
-      "added_stars": "32 stars this week"
+      "stars": 58758,
+      "forks": 22396,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "diaspora / diaspora",
+      "url": "https://github.com/diaspora/diaspora",
+      "description": "A privacy-aware, distributed, open source social network.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 13652,
+      "forks": 2864,
+      "added_stars": "2 stars this week"
     }
   ]
 }

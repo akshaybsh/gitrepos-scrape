@@ -2,8 +2,18 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
   "items": [
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1751,
+      "forks": 881,
+      "added_stars": "20 stars this month"
+    },
     {
       "title": "GEOS-ESM / MAPL",
       "url": "https://github.com/GEOS-ESM/MAPL",
@@ -15,24 +25,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1748,
-      "forks": 881,
-      "added_stars": "21 stars this month"
-    },
-    {
       "title": "Reference-LAPACK / lapack",
       "url": "https://github.com/Reference-LAPACK/lapack",
       "description": "LAPACK development repository",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1897,
+      "stars": 1898,
       "forks": 514,
-      "added_stars": "18 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "E3SM-Project / E3SM",
@@ -45,13 +45,23 @@
       "added_stars": "6 stars this month"
     },
     {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 405,
+      "forks": 757,
+      "added_stars": "4 stars this month"
+    },
+    {
       "title": "MetOffice / jules",
       "url": "https://github.com/MetOffice/jules",
       "description": "The Joint UK Land Environment Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 21,
-      "forks": 31,
+      "forks": 33,
       "added_stars": "2 stars this month"
     },
     {
@@ -61,7 +71,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 31,
-      "forks": 115,
+      "forks": 116,
       "added_stars": "0 stars this month"
     },
     {
@@ -72,6 +82,16 @@
       "languageColor": "#4d41b1",
       "stars": 130,
       "forks": 109,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 54,
+      "forks": 19,
       "added_stars": "0 stars this month"
     },
     {
@@ -90,29 +110,9 @@
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1201,
+      "stars": 1202,
       "forks": 496,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "MCSclimate / MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 54,
-      "forks": 19,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 757,
-      "added_stars": "4 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -120,9 +120,9 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1696,
+      "stars": 1698,
       "forks": 395,
-      "added_stars": "48 stars this month"
+      "added_stars": "46 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -132,7 +132,7 @@
       "languageColor": "#4d41b1",
       "stars": 870,
       "forks": 687,
-      "added_stars": "8 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "OpenFAST / openfast",
@@ -145,14 +145,14 @@
       "added_stars": "18 stars this month"
     },
     {
-      "title": "MFlowCode / MFC",
-      "url": "https://github.com/MFlowCode/MFC",
-      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
+      "title": "grimme-lab / xtb",
+      "url": "https://github.com/grimme-lab/xtb",
+      "description": "Semiempirical Extended Tight-Binding Program Package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 418,
-      "forks": 171,
-      "added_stars": "27 stars this month"
+      "stars": 838,
+      "forks": 206,
+      "added_stars": "16 stars this month"
     }
   ]
 }

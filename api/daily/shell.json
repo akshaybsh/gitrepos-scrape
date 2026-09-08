@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 255186,
-      "forks": 21505,
-      "added_stars": "2,207 stars today"
+      "stars": 256334,
+      "forks": 21595,
+      "added_stars": "1,923 stars today"
     },
     {
       "title": "nvm-sh / nvm",
@@ -20,39 +20,19 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 95009,
+      "stars": 95020,
       "forks": 10434,
-      "added_stars": "150 stars today"
-    },
-    {
-      "title": "cloudflare / skills",
-      "url": "https://github.com/cloudflare/skills",
-      "description": "Skills for teaching agents how to build on Cloudflare.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2794,
-      "forks": 271,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "pi-hole / pi-hole",
-      "url": "https://github.com/pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 60784,
-      "forks": 3306,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "youngyangyang04 / leetcode-master",
-      "url": "https://github.com/youngyangyang04/leetcode-master",
-      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 62398,
-      "forks": 12302,
       "added_stars": "13 stars today"
+    },
+    {
+      "title": "bin456789 / reinstall",
+      "url": "https://github.com/bin456789/reinstall",
+      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 13197,
+      "forks": 2124,
+      "added_stars": "132 stars today"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -60,19 +40,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4889,
-      "forks": 1604,
-      "added_stars": "43 stars today"
-    },
-    {
-      "title": "ophub / amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9757,
-      "forks": 3127,
-      "added_stars": "17 stars today"
+      "stars": 4934,
+      "forks": 1619,
+      "added_stars": "44 stars today"
     },
     {
       "title": "msitarzewski / agency-agents",
@@ -80,99 +50,119 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 150560,
-      "forks": 24262,
-      "added_stars": "200 stars today"
+      "stars": 150836,
+      "forks": 24295,
+      "added_stars": "306 stars today"
     },
     {
-      "title": "pystardust / ani-cli",
-      "url": "https://github.com/pystardust/ani-cli",
-      "description": "A cli tool to browse and play anime",
+      "title": "zhnnky329 / MathModeling-skills",
+      "url": "https://github.com/zhnnky329/MathModeling-skills",
+      "description": "面向数学建模竞赛的 Claude Code / Codex Skills ，支持分阶段建模流程与 Python、MATLAB/北太天元代码分支。",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13733,
-      "forks": 877,
-      "added_stars": "11 stars today"
+      "stars": 782,
+      "forks": 35,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16918,
-      "forks": 4374,
-      "added_stars": "7 stars today"
+      "title": "OthmanAdi / planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 26707,
+      "forks": 2225,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "WhatsApp / proxy",
-      "url": "https://github.com/WhatsApp/proxy",
-      "description": "This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)",
+      "title": "ohmyzsh / ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2342,
-      "forks": 995,
-      "added_stars": "3 stars today"
+      "stars": 189625,
+      "forks": 26594,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "hq450 / fancyss",
-      "url": "https://github.com/hq450/fancyss",
-      "description": "fancyss is a project providing tools to across the GFW on asuswrt/merlin based router.",
+      "title": "VoltAgent / awesome-claude-code-subagents",
+      "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13737,
-      "forks": 3247,
-      "added_stars": "2 stars today"
+      "stars": 24924,
+      "forks": 2886,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "expo / skills",
-      "url": "https://github.com/expo/skills",
-      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "title": "cloudflare / skills",
+      "url": "https://github.com/cloudflare/skills",
+      "description": "Skills for teaching agents how to build on Cloudflare.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2504,
-      "forks": 140,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53184,
-      "forks": 4742,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "pyenv / pyenv",
-      "url": "https://github.com/pyenv/pyenv",
-      "description": "Simple Python version management",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 45081,
-      "forks": 3272,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "aditya-shri / VPN",
-      "url": "https://github.com/aditya-shri/VPN",
-      "description": "Personal VPN using Shadowsocks and v2ray",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2105,
-      "forks": 1411,
+      "stars": 2798,
+      "forks": 271,
       "added_stars": "4 stars today"
     },
     {
-      "title": "sabamdarif / termux-desktop",
-      "url": "https://github.com/sabamdarif/termux-desktop",
-      "description": "Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration",
+      "title": "StressOzz / Zapret-Manager",
+      "url": "https://github.com/StressOzz/Zapret-Manager",
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt https://t.me/stressozz_manager",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2233,
-      "forks": 948,
-      "added_stars": "7 stars today"
+      "stars": 1794,
+      "forks": 75,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "itzg / docker-minecraft-server",
+      "url": "https://github.com/itzg/docker-minecraft-server",
+      "description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 14275,
+      "forks": 1914,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "pi-hole / pi-hole",
+      "url": "https://github.com/pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 60796,
+      "forks": 3307,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "Astrosp / Awesome-OSINT-List",
+      "url": "https://github.com/Astrosp/Awesome-OSINT-List",
+      "description": "📡 Comprehensive collection of OSINT tools for cybersecurity professionals, researchers, and bug bounty hunters. Topics: information gathering, reverse search, red team, trust & safety, AI.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4376,
+      "forks": 583,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29517,
+      "forks": 2873,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "assafdori / bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2235,
+      "forks": 526,
+      "added_stars": "17 stars today"
     }
   ]
 }

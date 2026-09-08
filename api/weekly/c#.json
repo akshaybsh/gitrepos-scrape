@@ -2,47 +2,57 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
+    {
+      "title": "meshcore-dev / MeshCore",
+      "url": "https://github.com/meshcore-dev/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3627,
+      "forks": 1305,
+      "added_stars": "11 stars today"
+    },
     {
       "title": "obsproject / obs-studio",
       "url": "https://github.com/obsproject/obs-studio",
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 75906,
-      "forks": 10070,
-      "added_stars": "39 stars today"
+      "stars": 75946,
+      "forks": 10075,
+      "added_stars": "37 stars today"
     },
     {
-      "title": "portapack-mayhem / mayhem-firmware",
-      "url": "https://github.com/portapack-mayhem/mayhem-firmware",
-      "description": "The firmware for the HackRF+PortaPack H1/H2/H4/H4M",
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5391,
-      "forks": 914,
-      "added_stars": "3 stars today"
+      "stars": 63061,
+      "forks": 28377,
+      "added_stars": "30 stars today"
     },
     {
-      "title": "NebuSec / CyberMeowfia",
-      "url": "https://github.com/NebuSec/CyberMeowfia",
-      "description": "PoCs and exploits for CVEs discovered by NebuSec.",
+      "title": "ClusterM / wg-obfuscator",
+      "url": "https://github.com/ClusterM/wg-obfuscator",
+      "description": "WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1601,
-      "forks": 411,
-      "added_stars": "17 stars today"
+      "stars": 976,
+      "forks": 60,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "xmrig / xmrig",
-      "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "title": "lcdyk0517 / arkos4clone",
+      "url": "https://github.com/lcdyk0517/arkos4clone",
+      "description": "Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10114,
-      "forks": 3831,
-      "added_stars": "2 stars today"
+      "stars": 679,
+      "forks": 410,
+      "added_stars": "6 stars today"
     },
     {
       "title": "moonlight-stream / moonlight-android",
@@ -50,119 +60,9 @@
       "description": "GameStream client for Android",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7073,
-      "forks": 1487,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13877,
-      "forks": 2213,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "Yuzhii0718 / bl-mt798x-dhcpd",
-      "url": "https://github.com/Yuzhii0718/bl-mt798x-dhcpd",
-      "description": "A variant of hanwckf's u-boot by yuzhii, with support for dhcpd, and advance web ui, support i18n, more functions please see README.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 427,
-      "forks": 216,
+      "stars": 7077,
+      "forks": 1488,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "valinet / ExplorerPatcher",
-      "url": "https://github.com/valinet/ExplorerPatcher",
-      "description": "This project aims to enhance the working environment on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 33806,
-      "forks": 1370,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "opa334 / Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6581,
-      "forks": 6274,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "Mbed-TLS / mbedtls",
-      "url": "https://github.com/Mbed-TLS/mbedtls",
-      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6945,
-      "forks": 2963,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27724,
-      "forks": 2584,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "libarchive / libarchive",
-      "url": "https://github.com/libarchive/libarchive",
-      "description": "Multi-format archive and compression library",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3609,
-      "forks": 1001,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "raysan5 / raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34621,
-      "forks": 3274,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "sandboxie-plus / Sandboxie",
-      "url": "https://github.com/sandboxie-plus/Sandboxie",
-      "description": "Sandboxie Plus & Classic",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19364,
-      "forks": 2061,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15880,
-      "forks": 1780,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "Filoppi / Luma-Framework",
-      "url": "https://github.com/Filoppi/Luma-Framework",
-      "description": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 812,
-      "forks": 45,
-      "added_stars": "9 stars today"
     },
     {
       "title": "DaveGamble / cJSON",
@@ -170,28 +70,128 @@
       "description": "Ultralightweight JSON parser in ANSI C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12979,
-      "forks": 3517,
-      "added_stars": "5 stars today"
+      "stars": 12981,
+      "forks": 3519,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "pbatard / rufus",
-      "url": "https://github.com/pbatard/rufus",
-      "description": "The Reliable USB Formatting Utility",
+      "title": "HandBrake / HandBrake",
+      "url": "https://github.com/HandBrake/HandBrake",
+      "description": "HandBrake's development repository",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 37566,
-      "forks": 3154,
+      "stars": 24309,
+      "forks": 1693,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "bol-van / zapret2",
+      "url": "https://github.com/bol-van/zapret2",
+      "description": "anti-dpi software",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5411,
+      "forks": 236,
       "added_stars": "11 stars today"
     },
     {
-      "title": "flipperdevices / flipperzero-firmware",
-      "url": "https://github.com/flipperdevices/flipperzero-firmware",
-      "description": "Flipper Zero firmware source code",
+      "title": "86Box / 86Box",
+      "url": "https://github.com/86Box/86Box",
+      "description": "Emulator of x86-based machines.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16555,
-      "forks": 3455,
+      "stars": 4776,
+      "forks": 587,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "flightlessmango / MangoHud",
+      "url": "https://github.com/flightlessmango/MangoHud",
+      "description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 9010,
+      "forks": 426,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "ish-app / ish",
+      "url": "https://github.com/ish-app/ish",
+      "description": "Linux shell for iOS",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 20428,
+      "forks": 1513,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "screetsec / TheFatRat",
+      "url": "https://github.com/screetsec/TheFatRat",
+      "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11466,
+      "forks": 2536,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "maxsteeel / nomount",
+      "url": "https://github.com/maxsteeel/nomount",
+      "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 240,
+      "forks": 58,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "mpv-player / mpv",
+      "url": "https://github.com/mpv-player/mpv",
+      "description": "🎥 Command line media player",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 36895,
+      "forks": 3512,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "openzfs / zfs",
+      "url": "https://github.com/openzfs/zfs",
+      "description": "OpenZFS on Linux and FreeBSD",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12450,
+      "forks": 2036,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "betaflight / betaflight",
+      "url": "https://github.com/betaflight/betaflight",
+      "description": "Open Source Flight Controller Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11512,
+      "forks": 4023,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "immortalwrt / immortalwrt",
+      "url": "https://github.com/immortalwrt/immortalwrt",
+      "description": "An opensource OpenWrt variant for mainland China users.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11565,
+      "forks": 3891,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "arendst / Tasmota",
+      "url": "https://github.com/arendst/Tasmota",
+      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24741,
+      "forks": 5173,
       "added_stars": "4 stars today"
     }
   ]

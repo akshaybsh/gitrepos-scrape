@@ -4,7 +4,7 @@
   <title>GitHub Julia Languages Daily Trending</title>
   <description>Daily Trending of Julia Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 07 Sep 2026 06:59:08 GMT</pubDate>
+  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
   <item>
     <title>JuliaRegistries / General</title>
     <link>https://github.com/JuliaRegistries/General</link>
@@ -31,6 +31,11 @@
     <description>GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools</description>
   </item>
   <item>
+    <title>SciML / OrdinaryDiffEq.jl</title>
+    <link>https://github.com/SciML/OrdinaryDiffEq.jl</link>
+    <description>High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)</description>
+  </item>
+  <item>
     <title>CliMA / ClimaAtmos.jl</title>
     <link>https://github.com/CliMA/ClimaAtmos.jl</link>
     <description>GPU-capable global atmosphere model of the CliMA Earth System Model, designed for calibration with data assimilation and machine learning</description>
@@ -41,9 +46,14 @@
     <description>Interactive data visualizations and plotting in Julia</description>
   </item>
   <item>
-    <title>SciML / OrdinaryDiffEq.jl</title>
-    <link>https://github.com/SciML/OrdinaryDiffEq.jl</link>
-    <description>High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)</description>
+    <title>SciML / ModelingToolkit.jl</title>
+    <link>https://github.com/SciML/ModelingToolkit.jl</link>
+    <description>An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</description>
+  </item>
+  <item>
+    <title>EnzymeAD / Enzyme.jl</title>
+    <link>https://github.com/EnzymeAD/Enzyme.jl</link>
+    <description>Julia bindings for the Enzyme automatic differentiator</description>
   </item>
 </channel>
 </rss>

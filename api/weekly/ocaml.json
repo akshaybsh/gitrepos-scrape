@@ -2,17 +2,27 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
+    {
+      "title": "facebook / infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 15706,
+      "forks": 2100,
+      "added_stars": "14 stars this week"
+    },
     {
       "title": "semgrep / semgrep",
       "url": "https://github.com/semgrep/semgrep",
       "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 16533,
-      "forks": 1049,
-      "added_stars": "92 stars this week"
+      "stars": 16540,
+      "forks": 1051,
+      "added_stars": "90 stars this week"
     },
     {
       "title": "MinaProtocol / mina",
@@ -25,16 +35,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "facebook / infer",
-      "url": "https://github.com/facebook/infer",
-      "description": "A static analyzer for Java, C, C++, and Objective-C",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 15704,
-      "forks": 2100,
-      "added_stars": "17 stars this week"
-    },
-    {
       "title": "semgrep / ocaml-tree-sitter-core",
       "url": "https://github.com/semgrep/ocaml-tree-sitter-core",
       "description": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
@@ -45,14 +45,24 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 6558,
+      "forks": 1422,
+      "added_stars": "13 stars this week"
+    },
+    {
       "title": "AeneasVerif / aeneas",
       "url": "https://github.com/AeneasVerif/aeneas",
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 948,
-      "forks": 104,
-      "added_stars": "16 stars this week"
+      "stars": 949,
+      "forks": 105,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "opengrep / opengrep",
@@ -60,29 +70,19 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3047,
+      "stars": 3055,
       "forks": 257,
-      "added_stars": "38 stars this week"
+      "added_stars": "39 stars this week"
     },
     {
-      "title": "ocaml / ocaml",
-      "url": "https://github.com/ocaml/ocaml",
-      "description": "The core OCaml system: compilers, runtime system, base libraries",
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6555,
-      "forks": 1421,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "janestreet / bonsai",
-      "url": "https://github.com/janestreet/bonsai",
-      "description": "A library for building dynamic webapps, using Js_of_ocaml",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 1393,
-      "forks": 58,
-      "added_stars": "4 stars this week"
+      "stars": 874,
+      "forks": 177,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "ocaml / dune",
@@ -101,18 +101,18 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 5567,
-      "forks": 757,
-      "added_stars": "12 stars this week"
+      "forks": 758,
+      "added_stars": "10 stars this week"
     },
     {
-      "title": "bcpierce00 / unison",
-      "url": "https://github.com/bcpierce00/unison",
-      "description": "Unison file synchronizer",
+      "title": "janestreet / bonsai",
+      "url": "https://github.com/janestreet/bonsai",
+      "description": "A library for building dynamic webapps, using Js_of_ocaml",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5469,
-      "forks": 273,
-      "added_stars": "14 stars this week"
+      "stars": 1393,
+      "forks": 58,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "savonet / liquidsoap",
@@ -122,7 +122,7 @@
       "languageColor": "#ef7a08",
       "stars": 1727,
       "forks": 160,
-      "added_stars": "6 stars this week"
+      "added_stars": "5 stars this week"
     }
   ]
 }

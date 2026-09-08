@@ -2,17 +2,47 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
+    {
+      "title": "szTheory / exifcleaner",
+      "url": "https://github.com/szTheory/exifcleaner",
+      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2672,
+      "forks": 168,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "znuny / Znuny",
       "url": "https://github.com/znuny/Znuny",
       "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 591,
+      "stars": 592,
       "forks": 121,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1517,
+      "forks": 1217,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 5014,
+      "forks": 482,
+      "added_stars": "3 stars today"
     },
     {
       "title": "major / MySQLTuner-perl",
@@ -25,33 +55,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2670,
-      "forks": 168,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 5010,
-      "forks": 482,
+      "stars": 3903,
+      "forks": 211,
       "added_stars": "2 stars today"
     },
     {
-      "title": "os-autoinst / os-autoinst-distri-opensuse",
-      "url": "https://github.com/os-autoinst/os-autoinst-distri-opensuse",
-      "description": "os-autoinst test cases for openSUSE",
+      "title": "so-fancy / diff-so-fancy",
+      "url": "https://github.com/so-fancy/diff-so-fancy",
+      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 92,
-      "forks": 304,
+      "stars": 18090,
+      "forks": 348,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19737,
+      "forks": 2111,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "awsdocs / aws-cdk-guide",
+      "url": "https://github.com/awsdocs/aws-cdk-guide",
+      "description": "User guide for the AWS Cloud Development Kit (CDK).",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 364,
+      "forks": 230,
       "added_stars": "0 stars today"
     }
   ]

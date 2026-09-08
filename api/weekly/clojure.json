@@ -2,17 +2,17 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
     {
-      "title": "unclebob / swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
+      "title": "logseq / logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 3748,
-      "forks": 363,
-      "added_stars": "374 stars this week"
+      "stars": 44820,
+      "forks": 2802,
+      "added_stars": "126 stars this week"
     },
     {
       "title": "penpot / penpot",
@@ -20,29 +20,9 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 59688,
-      "forks": 4071,
-      "added_stars": "296 stars this week"
-    },
-    {
-      "title": "logseq / logseq",
-      "url": "https://github.com/logseq/logseq",
-      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 44805,
-      "forks": 2801,
-      "added_stars": "124 stars this week"
-    },
-    {
-      "title": "tonsky / FiraCode",
-      "url": "https://github.com/tonsky/FiraCode",
-      "description": "Free monospaced font with programming ligatures",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 81989,
-      "forks": 3190,
-      "added_stars": "40 stars this week"
+      "stars": 59742,
+      "forks": 4074,
+      "added_stars": "317 stars this week"
     },
     {
       "title": "metabase / metabase",
@@ -50,19 +30,29 @@
       "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 49113,
-      "forks": 6797,
-      "added_stars": "121 stars this week"
+      "stars": 49127,
+      "forks": 6799,
+      "added_stars": "115 stars this week"
     },
     {
-      "title": "replikativ / datahike",
-      "url": "https://github.com/replikativ/datahike",
-      "description": "Versioned, fast, distributed Datalog engine for everyone.",
+      "title": "tonsky / FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 1872,
-      "forks": 117,
-      "added_stars": "6 stars this week"
+      "stars": 81992,
+      "forks": 3189,
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "unclebob / swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 3763,
+      "forks": 367,
+      "added_stars": "318 stars this week"
     }
   ]
 }

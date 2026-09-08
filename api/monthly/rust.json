@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:59:08 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
   "items": [
     {
       "title": "AprilNEA / OpenLogi",
@@ -10,9 +10,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19790,
-      "forks": 608,
-      "added_stars": "11,494 stars this month"
+      "stars": 20006,
+      "forks": 617,
+      "added_stars": "11,676 stars this month"
     },
     {
       "title": "xai-org / x-algorithm",
@@ -20,19 +20,9 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32813,
-      "forks": 5366,
-      "added_stars": "5,983 stars this month"
-    },
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5917,
-      "forks": 418,
-      "added_stars": "4,490 stars this month"
+      "stars": 32886,
+      "forks": 5370,
+      "added_stars": "6,041 stars this month"
     },
     {
       "title": "AlexsJones / llmfit",
@@ -40,9 +30,9 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34985,
-      "forks": 2201,
-      "added_stars": "3,891 stars this month"
+      "stars": 35047,
+      "forks": 2206,
+      "added_stars": "3,892 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -50,9 +40,9 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14090,
-      "forks": 848,
-      "added_stars": "1,637 stars this month"
+      "stars": 14150,
+      "forks": 852,
+      "added_stars": "1,702 stars this month"
     },
     {
       "title": "superradcompany / microsandbox",
@@ -60,39 +50,9 @@
       "description": "🧱 Easy fast local-first microVM runtime and library",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8106,
-      "forks": 427,
-      "added_stars": "956 stars this month"
-    },
-    {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 122064,
-      "forks": 18745,
-      "added_stars": "18,213 stars this month"
-    },
-    {
-      "title": "denoland / celld",
-      "url": "https://github.com/denoland/celld",
-      "description": "self-hosted, distributed Durable Objects",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4546,
-      "forks": 163,
-      "added_stars": "3,057 stars this month"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 122805,
-      "forks": 18881,
-      "added_stars": "3,307 stars this month"
+      "stars": 8125,
+      "forks": 428,
+      "added_stars": "963 stars this month"
     },
     {
       "title": "pnpm / pnpm",
@@ -100,29 +60,29 @@
       "description": "Fast, disk space efficient package manager",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36452,
-      "forks": 1696,
-      "added_stars": "507 stars this month"
+      "stars": 36458,
+      "forks": 1702,
+      "added_stars": "514 stars this month"
     },
     {
-      "title": "firecracker-microvm / firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36585,
-      "forks": 2603,
-      "added_stars": "692 stars this month"
+      "stars": 122351,
+      "forks": 18799,
+      "added_stars": "18,265 stars this month"
     },
     {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7983,
-      "forks": 1551,
-      "added_stars": "310 stars this month"
+      "stars": 122889,
+      "forks": 18893,
+      "added_stars": "3,325 stars this month"
     },
     {
       "title": "sinelaw / fresh",
@@ -130,9 +90,9 @@
       "description": "Terminal based IDE & text editor: easy, powerful and fast",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8723,
-      "forks": 331,
-      "added_stars": "624 stars this month"
+      "stars": 8735,
+      "forks": 333,
+      "added_stars": "629 stars this month"
     },
     {
       "title": "nautechsystems / nautilus_trader",
@@ -140,19 +100,19 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 28567,
-      "forks": 3720,
-      "added_stars": "3,271 stars this month"
+      "stars": 28626,
+      "forks": 3729,
+      "added_stars": "3,376 stars this month"
     },
     {
-      "title": "zenbu-labs / terminal-browser",
-      "url": "https://github.com/zenbu-labs/terminal-browser",
-      "description": "A browser inside your terminal",
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2718,
-      "forks": 126,
-      "added_stars": "1,864 stars this month"
+      "stars": 7992,
+      "forks": 1557,
+      "added_stars": "306 stars this month"
     },
     {
       "title": "pola-rs / polars",
@@ -160,19 +120,19 @@
       "description": "Extremely fast Query Engine for DataFrames, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 39671,
-      "forks": 3085,
-      "added_stars": "441 stars this month"
+      "stars": 39681,
+      "forks": 3086,
+      "added_stars": "445 stars this month"
     },
     {
-      "title": "ZSeven-W / openpencil",
-      "url": "https://github.com/ZSeven-W/openpencil",
-      "description": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
+      "title": "zenbu-labs / terminal-browser",
+      "url": "https://github.com/zenbu-labs/terminal-browser",
+      "description": "A browser inside your terminal",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5857,
-      "forks": 503,
-      "added_stars": "1,240 stars this month"
+      "stars": 2755,
+      "forks": 128,
+      "added_stars": "1,890 stars this month"
     },
     {
       "title": "BoundaryML / baml",
@@ -180,9 +140,9 @@
       "description": "The programming language for agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9145,
-      "forks": 491,
-      "added_stars": "357 stars this month"
+      "stars": 9152,
+      "forks": 493,
+      "added_stars": "350 stars this month"
     },
     {
       "title": "koharu-rs / koharu",
@@ -190,19 +150,19 @@
       "description": "AI-powered manga translator, written in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5507,
-      "forks": 377,
-      "added_stars": "512 stars this month"
+      "stars": 5516,
+      "forks": 381,
+      "added_stars": "521 stars this month"
     },
     {
-      "title": "zerx-lab / FluxDown",
-      "url": "https://github.com/zerx-lab/FluxDown",
-      "description": "Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。",
+      "title": "GraphiteEditor / Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2935,
-      "forks": 149,
-      "added_stars": "1,404 stars this month"
+      "stars": 27167,
+      "forks": 1250,
+      "added_stars": "431 stars this month"
     },
     {
       "title": "gleam-lang / gleam",
@@ -210,9 +170,29 @@
       "description": "⭐️ A friendly language for building type-safe, scalable systems!",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21882,
-      "forks": 1012,
-      "added_stars": "190 stars this month"
+      "stars": 21886,
+      "forks": 1014,
+      "added_stars": "189 stars this month"
+    },
+    {
+      "title": "xingkongliang / skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4544,
+      "forks": 385,
+      "added_stars": "982 stars this month"
+    },
+    {
+      "title": "zed-industries / zed",
+      "url": "https://github.com/zed-industries/zed",
+      "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 89921,
+      "forks": 10493,
+      "added_stars": "1,977 stars this month"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1910,
-      "forks": 239,
-      "added_stars": "55 stars this week"
-    },
     {
       "title": "nix-community / home-manager",
       "url": "https://github.com/nix-community/home-manager",
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10330,
+      "stars": 10336,
       "forks": 2474,
-      "added_stars": "31 stars this week"
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 1912,
+      "forks": 239,
+      "added_stars": "55 stars this week"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -30,9 +30,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26044,
-      "forks": 20026,
-      "added_stars": "79 stars this week"
+      "stars": 26052,
+      "forks": 20025,
+      "added_stars": "75 stars this week"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -40,9 +40,9 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3296,
-      "forks": 969,
-      "added_stars": "5 stars this week"
+      "stars": 3297,
+      "forks": 968,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "henrysipp / omarchy-nix",
@@ -52,7 +52,7 @@
       "languageColor": "#7e7eff",
       "stars": 788,
       "forks": 66,
-      "added_stars": "14 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "supabase / postgres",
@@ -62,7 +62,27 @@
       "languageColor": "#7e7eff",
       "stars": 1783,
       "forks": 267,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "nix-community / NixOS-WSL",
+      "url": "https://github.com/nix-community/NixOS-WSL",
+      "description": "NixOS on WSL [maintainer=@nzbr]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3084,
+      "forks": 164,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "nix-community / disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3310,
+      "forks": 327,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "Mic92 / sops-nix",
@@ -70,9 +90,9 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3152,
+      "stars": 3153,
       "forks": 231,
-      "added_stars": "17 stars this week"
+      "added_stars": "14 stars this week"
     }
   ]
 }

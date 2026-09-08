@@ -2,37 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:53:46 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
   "items": [
     {
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 242707,
-      "forks": 49919,
-      "added_stars": "520 stars today"
-    },
-    {
-      "title": "openai / skills",
-      "url": "https://github.com/openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 25714,
-      "forks": 1734,
-      "added_stars": "46 stars today"
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 44553,
-      "forks": 3690,
-      "added_stars": "748 stars today"
+      "stars": 180825,
+      "forks": 13287,
+      "added_stars": "886 stars today"
     },
     {
       "title": "The-Swarm-Corporation / AutoHedge",
@@ -40,129 +20,39 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4875,
-      "forks": 784,
-      "added_stars": "142 stars today"
+      "stars": 5383,
+      "forks": 821,
+      "added_stars": "517 stars today"
     },
     {
-      "title": "sooryathejas / METATRON",
-      "url": "https://github.com/sooryathejas/METATRON",
-      "description": "AI-powered penetration testing assistant using local LLM on linux (Parrot OS)",
+      "title": "bytedance / deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3973,
-      "forks": 792,
-      "added_stars": "68 stars today"
+      "stars": 81960,
+      "forks": 11297,
+      "added_stars": "195 stars today"
     },
     {
-      "title": "ahujasid / blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice",
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27380,
-      "forks": 2553,
-      "added_stars": "204 stars today"
+      "stars": 26184,
+      "forks": 1757,
+      "added_stars": "351 stars today"
     },
     {
-      "title": "maziyarpanahi / openmed",
-      "url": "https://github.com/maziyarpanahi/openmed",
-      "description": "Local-first healthcare AI: clinical NER & HIPAA PII de-identification that runs 100% on-device. 2,200+ medical models, 21 languages, Apple MLX + Python, no cloud, no patient data leaving your network. Apache-2.0",
+      "title": "pytorch / pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5251,
-      "forks": 660,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "earthtojake / text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "description": "A library of agent skills for CAD, CAE and CAM",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 14524,
-      "forks": 1535,
-      "added_stars": "80 stars today"
-    },
-    {
-      "title": "home-assistant / core",
-      "url": "https://github.com/home-assistant/core",
-      "description": "🏡 Open source home automation that puts local control and privacy first.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 90295,
-      "forks": 38521,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "Comfy-Org / ComfyUI",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 131832,
-      "forks": 15547,
-      "added_stars": "139 stars today"
-    },
-    {
-      "title": "Sumanth077 / Hands-On-AI-Engineering",
-      "url": "https://github.com/Sumanth077/Hands-On-AI-Engineering",
-      "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3209,
-      "forks": 829,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "donnemartin / system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 368418,
-      "forks": 58272,
-      "added_stars": "217 stars today"
-    },
-    {
-      "title": "Soju06 / codex-lb",
-      "url": "https://github.com/Soju06/codex-lb",
-      "description": "Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2992,
-      "forks": 448,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "yt-dlp / yt-dlp",
-      "url": "https://github.com/yt-dlp/yt-dlp",
-      "description": "A feature-rich command-line audio/video downloader",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 189502,
-      "forks": 16442,
-      "added_stars": "222 stars today"
-    },
-    {
-      "title": "public-apis / public-apis",
-      "url": "https://github.com/public-apis/public-apis",
-      "description": "A collective list of free APIs",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 476641,
-      "forks": 52624,
-      "added_stars": "590 stars today"
-    },
-    {
-      "title": "openai / whisper",
-      "url": "https://github.com/openai/whisper",
-      "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 108655,
-      "forks": 13170,
-      "added_stars": "88 stars today"
+      "stars": 102848,
+      "forks": 29160,
+      "added_stars": "36 stars today"
     },
     {
       "title": "browser-use / browser-use",
@@ -170,39 +60,19 @@
       "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 112812,
-      "forks": 12434,
-      "added_stars": "231 stars today"
+      "stars": 112991,
+      "forks": 12464,
+      "added_stars": "330 stars today"
     },
     {
-      "title": "eriklindernoren / ML-From-Scratch",
-      "url": "https://github.com/eriklindernoren/ML-From-Scratch",
-      "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+      "title": "Comfy-Org / ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32734,
-      "forks": 5481,
-      "added_stars": "83 stars today"
-    },
-    {
-      "title": "swisskyrepo / PayloadsAllTheThings",
-      "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
-      "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 80689,
-      "forks": 17350,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "experientiallabs / experiential",
-      "url": "https://github.com/experientiallabs/experiential",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2094,
-      "forks": 107,
-      "added_stars": "628 stars today"
+      "stars": 132003,
+      "forks": 15565,
+      "added_stars": "181 stars today"
     },
     {
       "title": "bikini / exploitarium",
@@ -210,9 +80,119 @@
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4822,
-      "forks": 1265,
-      "added_stars": "180 stars today"
+      "stars": 4971,
+      "forks": 1285,
+      "added_stars": "63 stars today"
+    },
+    {
+      "title": "mukul975 / cve-mcp-server",
+      "url": "https://github.com/mukul975/cve-mcp-server",
+      "description": "Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 1480,
+      "forks": 252,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "AgriciDaniel / claude-ads",
+      "url": "https://github.com/AgriciDaniel/claude-ads",
+      "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8997,
+      "forks": 1343,
+      "added_stars": "89 stars today"
+    },
+    {
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 243161,
+      "forks": 50078,
+      "added_stars": "638 stars today"
+    },
+    {
+      "title": "Free-TV / IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 20390,
+      "forks": 2951,
+      "added_stars": "71 stars today"
+    },
+    {
+      "title": "k2-fsa / OmniVoice",
+      "url": "https://github.com/k2-fsa/OmniVoice",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10522,
+      "forks": 1667,
+      "added_stars": "329 stars today"
+    },
+    {
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 45069,
+      "forks": 3714,
+      "added_stars": "903 stars today"
+    },
+    {
+      "title": "numpy / numpy",
+      "url": "https://github.com/numpy/numpy",
+      "description": "The fundamental package for scientific computing with Python.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32704,
+      "forks": 12750,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "vinta / awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "description": "The definitive list that answers \"I want to do X in Python, which tool should I use?\"",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 319197,
+      "forks": 28685,
+      "added_stars": "335 stars today"
+    },
+    {
+      "title": "NVIDIA / personaplex",
+      "url": "https://github.com/NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10441,
+      "forks": 1453,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "huggingface / datasets",
+      "url": "https://github.com/huggingface/datasets",
+      "description": "🤗 The largest hub of ready-to-use datasets for AI models with fast, easy-to-use and efficient data manipulation tools",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 21953,
+      "forks": 3413,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "Zie619 / n8n-workflows",
+      "url": "https://github.com/Zie619/n8n-workflows",
+      "description": "all of the workflows of n8n i could find (also from the site itself)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 56539,
+      "forks": 7611,
+      "added_stars": "55 stars today"
     }
   ]
 }

@@ -2,27 +2,37 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
-    {
-      "title": "lowRISC / ibex",
-      "url": "https://github.com/lowRISC/ibex",
-      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 2035,
-      "forks": 803,
-      "added_stars": "3 stars this week"
-    },
     {
       "title": "adam-maj / tiny-gpu",
       "url": "https://github.com/adam-maj/tiny-gpu",
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12922,
+      "stars": 12925,
       "forks": 1243,
-      "added_stars": "46 stars this week"
+      "added_stars": "41 stars this week"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2039,
+      "forks": 803,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "chipsalliance / adams-bridge",
+      "url": "https://github.com/chipsalliance/adams-bridge",
+      "description": "Post-Quantum Cryptography IP Core (Crystals-Dilithium)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 63,
+      "forks": 17,
+      "added_stars": "1 star this week"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -35,12 +45,32 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3912,
+      "forks": 892,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3632,
+      "forks": 1106,
+      "added_stars": "15 stars this week"
+    },
+    {
       "title": "chipsalliance / caliptra-rtl",
       "url": "https://github.com/chipsalliance/caliptra-rtl",
       "description": "HW Design Collateral for Caliptra RoT IP",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 154,
+      "stars": 155,
       "forks": 106,
       "added_stars": "3 stars this week"
     },
@@ -55,24 +85,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
+      "title": "pulp-platform / axi",
+      "url": "https://github.com/pulp-platform/axi",
+      "description": "AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3631,
-      "forks": 1104,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3908,
-      "forks": 892,
-      "added_stars": "22 stars this week"
+      "stars": 1685,
+      "forks": 373,
+      "added_stars": "12 stars this week"
     }
   ]
 }

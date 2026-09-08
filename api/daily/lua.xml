@@ -4,61 +4,11 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 07 Sep 2026 06:53:46 GMT</pubDate>
-  <item>
-    <title>folke / snacks.nvim</title>
-    <link>https://github.com/folke/snacks.nvim</link>
-    <description>🍿 A collection of QoL plugins for Neovim</description>
-  </item>
-  <item>
-    <title>LazyVim / LazyVim</title>
-    <link>https://github.com/LazyVim/LazyVim</link>
-    <description>Neovim config for the lazy</description>
-  </item>
-  <item>
-    <title>AndyHazz / bookshelf.koplugin</title>
-    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
-  </item>
-  <item>
-    <title>opentibiabr / canary</title>
-    <link>https://github.com/opentibiabr/canary</link>
-    <description>Canary Server 15.25 for OpenTibia community.</description>
-  </item>
-  <item>
-    <title>xmake-io / xmake</title>
-    <link>https://github.com/xmake-io/xmake</link>
-    <description>🔥 A cross-platform build utility based on Lua</description>
-  </item>
+  <pubDate>Tue, 08 Sep 2026 06:49:40 GMT</pubDate>
   <item>
     <title>neovim / nvim-lspconfig</title>
     <link>https://github.com/neovim/nvim-lspconfig</link>
     <description>Quickstart configs for Nvim LSP</description>
-  </item>
-  <item>
-    <title>nvim-mini / mini.nvim</title>
-    <link>https://github.com/nvim-mini/mini.nvim</link>
-    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
-  </item>
-  <item>
-    <title>nvim-lualine / lualine.nvim</title>
-    <link>https://github.com/nvim-lualine/lualine.nvim</link>
-    <description>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</description>
-  </item>
-  <item>
-    <title>lewis6991 / gitsigns.nvim</title>
-    <link>https://github.com/lewis6991/gitsigns.nvim</link>
-    <description>Git integration for buffers</description>
-  </item>
-  <item>
-    <title>hrsh7th / nvim-cmp</title>
-    <link>https://github.com/hrsh7th/nvim-cmp</link>
-    <description>A completion plugin for neovim coded in Lua.</description>
-  </item>
-  <item>
-    <title>saghen / blink.cmp</title>
-    <link>https://github.com/saghen/blink.cmp</link>
-    <description>Performant, batteries-included completion plugin for Neovim</description>
   </item>
   <item>
     <title>koreader / koreader</title>
@@ -66,9 +16,14 @@
     <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
   </item>
   <item>
-    <title>iDvel / rime-ice</title>
-    <link>https://github.com/iDvel/rime-ice</link>
-    <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
+    <title>id577 / FS25_AdvancedDamageSystem</title>
+    <link>https://github.com/id577/FS25_AdvancedDamageSystem</link>
+    <description>Advanced Damage System mod for Farming Simulator 25</description>
+  </item>
+  <item>
+    <title>catppuccin / nvim</title>
+    <link>https://github.com/catppuccin/nvim</link>
+    <description>🍨 Soothing pastel theme for Neovim</description>
   </item>
   <item>
     <title>mason-org / mason.nvim</title>
@@ -76,14 +31,24 @@
     <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
   </item>
   <item>
-    <title>nvim-lua / kickstart.nvim</title>
-    <link>https://github.com/nvim-lua/kickstart.nvim</link>
-    <description>A launch point for your personal nvim configuration</description>
+    <title>nickjvandyke / opencode.nvim</title>
+    <link>https://github.com/nickjvandyke/opencode.nvim</link>
+    <description>Neovim 🤝 OpenCode in the flow that you already know.</description>
   </item>
   <item>
-    <title>olimorris / codecompanion.nvim</title>
-    <link>https://github.com/olimorris/codecompanion.nvim</link>
-    <description>✨ AI Coding, Vim Style</description>
+    <title>PathOfBuildingCommunity / PathOfBuilding-PoE2</title>
+    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2</link>
+    <description></description>
+  </item>
+  <item>
+    <title>stevearc / conform.nvim</title>
+    <link>https://github.com/stevearc/conform.nvim</link>
+    <description>Lightweight yet powerful formatter plugin for Neovim</description>
+  </item>
+  <item>
+    <title>folke / lazy.nvim</title>
+    <link>https://github.com/folke/lazy.nvim</link>
+    <description>💤 A modern plugin manager for Neovim</description>
   </item>
   <item>
     <title>Footagesus / WindUI</title>
@@ -91,14 +56,49 @@
     <description>WindUI is a open source UI library for Roblox Script Hubs</description>
   </item>
   <item>
-    <title>stevearc / oil.nvim</title>
-    <link>https://github.com/stevearc/oil.nvim</link>
-    <description>Neovim file explorer: edit your filesystem like a buffer</description>
+    <title>MeanderingProgrammer / render-markdown.nvim</title>
+    <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
+    <description>Improve viewing Markdown in Neovim</description>
   </item>
   <item>
-    <title>catppuccin / nvim</title>
-    <link>https://github.com/catppuccin/nvim</link>
-    <description>🍨 Soothing pastel theme for Neovim</description>
+    <title>folke / which-key.nvim</title>
+    <link>https://github.com/folke/which-key.nvim</link>
+    <description>💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.</description>
+  </item>
+  <item>
+    <title>nvim-neo-tree / neo-tree.nvim</title>
+    <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
+    <description>Neovim plugin to manage the file system and other tree like structures.</description>
+  </item>
+  <item>
+    <title>PathOfBuildingCommunity / PathOfBuilding</title>
+    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding</link>
+    <description>Offline build planner for Path of Exile.</description>
+  </item>
+  <item>
+    <title>nvim-lua / kickstart.nvim</title>
+    <link>https://github.com/nvim-lua/kickstart.nvim</link>
+    <description>A launch point for your personal nvim configuration</description>
+  </item>
+  <item>
+    <title>beyond-all-reason / Beyond-All-Reason</title>
+    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+    <description>Main game repository for Beyond All Reason.</description>
+  </item>
+  <item>
+    <title>Willbobber / FS25_SlurryPipeSystem</title>
+    <link>https://github.com/Willbobber/FS25_SlurryPipeSystem</link>
+    <description>A mod to allow the slurry pipe to attach to the tanker, nurse tank, fertiliser spreaders or any other vehicle that would be loaded or emptied via a pipe or hose.</description>
+  </item>
+  <item>
+    <title>CorsixTH / CorsixTH</title>
+    <link>https://github.com/CorsixTH/CorsixTH</link>
+    <description>Open source clone of Theme Hospital</description>
+  </item>
+  <item>
+    <title>rebelot / kanagawa.nvim</title>
+    <link>https://github.com/rebelot/kanagawa.nvim</link>
+    <description>NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</description>
   </item>
 </channel>
 </rss>

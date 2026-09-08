@@ -4,16 +4,16 @@
   <title>GitHub Zig Languages Daily Trending</title>
   <description>Daily Trending of Zig Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 07 Sep 2026 06:59:08 GMT</pubDate>
-  <item>
-    <title>ddalcu / mlx-serve</title>
-    <link>https://github.com/ddalcu/mlx-serve</link>
-    <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
-  </item>
+  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
   <item>
     <title>ghostty-org / ghostty</title>
     <link>https://github.com/ghostty-org/ghostty</link>
     <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
+  </item>
+  <item>
+    <title>ddalcu / mlx-serve</title>
+    <link>https://github.com/ddalcu/mlx-serve</link>
+    <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
   </item>
   <item>
     <title>lightpanda-io / browser</title>
@@ -51,9 +51,14 @@
     <description>Moved to Codeberg</description>
   </item>
   <item>
-    <title>simoarpe / ziggity</title>
-    <link>https://github.com/simoarpe/ziggity</link>
-    <description>⚡️ Ziggity an ultra fast, keyboard driven terminal UI for Git, written in Zig.</description>
+    <title>Loongphy / codex-auth</title>
+    <link>https://github.com/Loongphy/codex-auth</link>
+    <description>A CLI tool to switch and manage Codex accounts</description>
+  </item>
+  <item>
+    <title>PixelGuys / Cubyz</title>
+    <link>https://github.com/PixelGuys/Cubyz</link>
+    <description>Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.</description>
   </item>
   <item>
     <title>nullclaw / nullclaw</title>
@@ -66,24 +71,9 @@
     <description></description>
   </item>
   <item>
-    <title>PixelGuys / Cubyz</title>
-    <link>https://github.com/PixelGuys/Cubyz</link>
-    <description>Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.</description>
-  </item>
-  <item>
-    <title>Loongphy / codex-auth</title>
-    <link>https://github.com/Loongphy/codex-auth</link>
-    <description>A CLI tool to switch and manage Codex accounts</description>
-  </item>
-  <item>
-    <title>rockorager / libvaxis</title>
-    <link>https://github.com/rockorager/libvaxis</link>
-    <description>a modern tui library written in zig</description>
-  </item>
-  <item>
-    <title>jstrieb / github-stats</title>
-    <link>https://github.com/jstrieb/github-stats</link>
-    <description>Better GitHub statistics images for your profile, with stats from private repos too</description>
+    <title>neurosnap / zmx</title>
+    <link>https://github.com/neurosnap/zmx</link>
+    <description>Session attach/detach for the terminal</description>
   </item>
   <item>
     <title>zigtools / zls</title>
@@ -91,29 +81,29 @@
     <description>A language server for Zig supporting developers with features like autocomplete and goto definition</description>
   </item>
   <item>
+    <title>rockorager / libvaxis</title>
+    <link>https://github.com/rockorager/libvaxis</link>
+    <description>a modern tui library written in zig</description>
+  </item>
+  <item>
     <title>riverwm / river</title>
     <link>https://github.com/riverwm/river</link>
     <description>[mirror] A non-monolithic Wayland compositor</description>
   </item>
   <item>
-    <title>neurosnap / zmx</title>
-    <link>https://github.com/neurosnap/zmx</link>
-    <description>Session attach/detach for the terminal</description>
+    <title>jstrieb / github-stats</title>
+    <link>https://github.com/jstrieb/github-stats</link>
+    <description>Better GitHub statistics images for your profile, with stats from private repos too</description>
+  </item>
+  <item>
+    <title>psyclyx / fix</title>
+    <link>https://github.com/psyclyx/fix</link>
+    <description>Fast nIX language evaluator</description>
   </item>
   <item>
     <title>zml / zml</title>
     <link>https://github.com/zml/zml</link>
     <description>Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</description>
-  </item>
-  <item>
-    <title>kristoff-it / zine</title>
-    <link>https://github.com/kristoff-it/zine</link>
-    <description>Fast, Scalable, Flexible Static Site Generator (SSG)</description>
-  </item>
-  <item>
-    <title>coder / boo</title>
-    <link>https://github.com/coder/boo</link>
-    <description>A GNU screen style terminal multiplexer built on libghostty.</description>
   </item>
 </channel>
 </rss>

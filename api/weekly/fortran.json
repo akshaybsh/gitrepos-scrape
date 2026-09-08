@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 07 Sep 2026 06:56:56 GMT",
+  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -25,14 +25,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1201,
-      "forks": 496,
-      "added_stars": "4 stars this week"
+      "stars": 405,
+      "forks": 757,
+      "added_stars": "1 star this week"
     },
     {
       "title": "NGEET / fates",
@@ -51,18 +51,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 21,
-      "forks": 31,
+      "forks": 33,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 757,
-      "added_stars": "1 star this week"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -70,9 +60,19 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1696,
+      "stars": 1698,
       "forks": 395,
-      "added_stars": "14 stars this week"
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1202,
+      "forks": 496,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "MetOffice / lfric_apps",
@@ -81,7 +81,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 31,
-      "forks": 115,
+      "forks": 116,
       "added_stars": "0 stars this week"
     },
     {
@@ -95,16 +95,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "MCSclimate / MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 54,
-      "forks": 19,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "OpenFAST / openfast",
       "url": "https://github.com/OpenFAST/openfast",
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
@@ -115,14 +105,24 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 54,
+      "forks": 19,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "wrf-model / WRF",
       "url": "https://github.com/wrf-model/WRF",
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1748,
+      "stars": 1751,
       "forks": 881,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "firemodels / fds",
@@ -132,7 +132,7 @@
       "languageColor": "#4d41b1",
       "stars": 870,
       "forks": 687,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
     }
   ]
 }
