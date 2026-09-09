@@ -2,27 +2,27 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
+    {
+      "title": "cursor / plugins",
+      "url": "https://github.com/cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7170,
+      "forks": 620,
+      "added_stars": "4,574 stars this month"
+    },
     {
       "title": "THU-MAIC / OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 33254,
-      "forks": 5393,
-      "added_stars": "12,423 stars this month"
-    },
-    {
-      "title": "PrimeIntellect-ai / prime-agent",
-      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
-      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 20218,
-      "forks": 2208,
-      "added_stars": "15,094 stars this month"
+      "stars": 33867,
+      "forks": 5462,
+      "added_stars": "13,038 stars this month"
     },
     {
       "title": "apache / maka",
@@ -30,29 +30,9 @@
       "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4988,
-      "forks": 467,
-      "added_stars": "3,715 stars this month"
-    },
-    {
-      "title": "CodebuffAI / freebuff",
-      "url": "https://github.com/CodebuffAI/freebuff",
-      "description": "The free coding agent",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 11826,
-      "forks": 1270,
-      "added_stars": "3,337 stars this month"
-    },
-    {
-      "title": "titanwings / distilly",
-      "url": "https://github.com/titanwings/distilly",
-      "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 24427,
-      "forks": 2132,
-      "added_stars": "3,755 stars this month"
+      "stars": 5089,
+      "forks": 471,
+      "added_stars": "3,835 stars this month"
     },
     {
       "title": "every-app / open-seo",
@@ -60,19 +40,29 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17768,
-      "forks": 2246,
-      "added_stars": "6,965 stars this month"
+      "stars": 17987,
+      "forks": 2267,
+      "added_stars": "7,060 stars this month"
     },
     {
-      "title": "bookorbit / bookorbit",
-      "url": "https://github.com/bookorbit/bookorbit",
-      "description": "BookOrbit: Your Reading Space",
+      "title": "titanwings / distilly",
+      "url": "https://github.com/titanwings/distilly",
+      "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4093,
-      "forks": 250,
-      "added_stars": "2,090 stars this month"
+      "stars": 24453,
+      "forks": 2133,
+      "added_stars": "3,765 stars this month"
+    },
+    {
+      "title": "CodebuffAI / freebuff",
+      "url": "https://github.com/CodebuffAI/freebuff",
+      "description": "The free coding agent",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 11860,
+      "forks": 1273,
+      "added_stars": "3,292 stars this month"
     },
     {
       "title": "tashfeenahmed / freellmapi",
@@ -80,79 +70,19 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24901,
-      "forks": 3405,
-      "added_stars": "6,938 stars this month"
+      "stars": 25118,
+      "forks": 3429,
+      "added_stars": "7,120 stars this month"
     },
     {
-      "title": "pingdotgg / t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "description": "",
+      "title": "bookorbit / bookorbit",
+      "url": "https://github.com/bookorbit/bookorbit",
+      "description": "BookOrbit: Your Reading Space",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22018,
-      "forks": 5423,
-      "added_stars": "4,955 stars this month"
-    },
-    {
-      "title": "apify / apify-mcp-server",
-      "url": "https://github.com/apify/apify-mcp-server",
-      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 6310,
+      "stars": 4135,
       "forks": 253,
-      "added_stars": "3,429 stars this month"
-    },
-    {
-      "title": "can1357 / oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "description": "⌥ Coding agent with the IDE wired in",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 30065,
-      "forks": 3075,
-      "added_stars": "7,509 stars this month"
-    },
-    {
-      "title": "lightningpixel / modly",
-      "url": "https://github.com/lightningpixel/modly",
-      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7465,
-      "forks": 704,
-      "added_stars": "2,614 stars this month"
-    },
-    {
-      "title": "1weiho / open-slide",
-      "url": "https://github.com/1weiho/open-slide",
-      "description": "A slide framework built for agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7459,
-      "forks": 531,
-      "added_stars": "1,395 stars this month"
-    },
-    {
-      "title": "earendil-works / pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 102893,
-      "forks": 12844,
-      "added_stars": "17,926 stars this month"
-    },
-    {
-      "title": "solidjs / solid",
-      "url": "https://github.com/solidjs/solid",
-      "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 35990,
-      "forks": 1105,
-      "added_stars": "220 stars this month"
+      "added_stars": "2,112 stars this month"
     },
     {
       "title": "Gitlawb / openclaude",
@@ -160,39 +90,29 @@
       "description": "runs anywhere. uses anything",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 32975,
+      "stars": 33025,
       "forks": 9068,
-      "added_stars": "2,528 stars this month"
+      "added_stars": "2,609 stars this month"
     },
     {
-      "title": "elizaOS / eliza",
-      "url": "https://github.com/elizaOS/eliza",
-      "description": "Open source agentic operating system",
+      "title": "apify / apify-mcp-server",
+      "url": "https://github.com/apify/apify-mcp-server",
+      "description": "The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19292,
-      "forks": 5708,
-      "added_stars": "425 stars this month"
+      "stars": 6444,
+      "forks": 255,
+      "added_stars": "3,464 stars this month"
     },
     {
-      "title": "vercel-labs / portless",
-      "url": "https://github.com/vercel-labs/portless",
-      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "title": "lightningpixel / modly",
+      "url": "https://github.com/lightningpixel/modly",
+      "description": "Desktop app to generate 3D models from images or prompt using local AI — runs entirely on your GPU",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12288,
-      "forks": 405,
-      "added_stars": "1,975 stars this month"
-    },
-    {
-      "title": "TencentCloud / TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 26131,
-      "forks": 2444,
-      "added_stars": "8,875 stars this month"
+      "stars": 7471,
+      "forks": 704,
+      "added_stars": "2,617 stars this month"
     },
     {
       "title": "maotoumao / MusicFree",
@@ -200,9 +120,69 @@
       "description": "插件化、定制化、无广告的免费音乐播放器",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26698,
-      "forks": 1910,
-      "added_stars": "825 stars this month"
+      "stars": 26731,
+      "forks": 1918,
+      "added_stars": "854 stars this month"
+    },
+    {
+      "title": "1weiho / open-slide",
+      "url": "https://github.com/1weiho/open-slide",
+      "description": "A slide framework built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7478,
+      "forks": 533,
+      "added_stars": "1,415 stars this month"
+    },
+    {
+      "title": "can1357 / oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "description": "⌥ Coding agent with the IDE wired in",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 30256,
+      "forks": 3097,
+      "added_stars": "7,445 stars this month"
+    },
+    {
+      "title": "elizaOS / eliza",
+      "url": "https://github.com/elizaOS/eliza",
+      "description": "Open source agentic operating system",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19303,
+      "forks": 5708,
+      "added_stars": "395 stars this month"
+    },
+    {
+      "title": "pingdotgg / t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "description": "",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 22142,
+      "forks": 5476,
+      "added_stars": "4,924 stars this month"
+    },
+    {
+      "title": "vercel-labs / portless",
+      "url": "https://github.com/vercel-labs/portless",
+      "description": "Replace port numbers with stable, named local URLs. For humans and agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12364,
+      "forks": 409,
+      "added_stars": "2,019 stars this month"
+    },
+    {
+      "title": "PrimeIntellect-ai / prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 20356,
+      "forks": 2226,
+      "added_stars": "12,120 stars this month"
     }
   ]
 }

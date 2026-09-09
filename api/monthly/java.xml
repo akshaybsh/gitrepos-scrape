@@ -4,11 +4,16 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>termux / termux-app</title>
     <link>https://github.com/termux/termux-app</link>
     <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+  </item>
+  <item>
+    <title>TeamNewPipe / NewPipe</title>
+    <link>https://github.com/TeamNewPipe/NewPipe</link>
+    <description>A libre lightweight streaming front-end for Android.</description>
   </item>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
@@ -21,9 +26,9 @@
     <description>A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</description>
   </item>
   <item>
-    <title>TeamNewPipe / NewPipe</title>
-    <link>https://github.com/TeamNewPipe/NewPipe</link>
-    <description>A libre lightweight streaming front-end for Android.</description>
+    <title>checkstyle / checkstyle</title>
+    <link>https://github.com/checkstyle/checkstyle</link>
+    <description>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.</description>
   </item>
   <item>
     <title>crimera / piko</title>
@@ -31,9 +36,9 @@
     <description>morphe patches for twitter and instagram</description>
   </item>
   <item>
-    <title>checkstyle / checkstyle</title>
-    <link>https://github.com/checkstyle/checkstyle</link>
-    <description>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.</description>
+    <title>zalexdev / strykerapp</title>
+    <link>https://github.com/zalexdev/strykerapp</link>
+    <description>Magic tool for pentest from your android device!</description>
   </item>
   <item>
     <title>keycloak / keycloak</title>
@@ -41,34 +46,9 @@
     <description>Open Source Identity and Access Management For Modern Applications and Services</description>
   </item>
   <item>
-    <title>zalexdev / strykerapp</title>
-    <link>https://github.com/zalexdev/strykerapp</link>
-    <description>Magic tool for pentest from your android device!</description>
-  </item>
-  <item>
-    <title>SeleniumHQ / selenium</title>
-    <link>https://github.com/SeleniumHQ/selenium</link>
-    <description>A browser automation framework and ecosystem.</description>
-  </item>
-  <item>
-    <title>NotHarshhaa / DevOps-Projects</title>
-    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
-    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
-  </item>
-  <item>
     <title>zaproxy / zaproxy</title>
     <link>https://github.com/zaproxy/zaproxy</link>
     <description>The ZAP by Checkmarx Core project</description>
-  </item>
-  <item>
-    <title>languagetool-org / languagetool</title>
-    <link>https://github.com/languagetool-org/languagetool</link>
-    <description>Style and Grammar Checker for 25+ Languages</description>
-  </item>
-  <item>
-    <title>mateaix / mateclaw</title>
-    <link>https://github.com/mateaix/mateclaw</link>
-    <description>🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills &amp; Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.</description>
   </item>
   <item>
     <title>traccar / traccar</title>
@@ -76,19 +56,39 @@
     <description>Open source GPS tracking platform - self-hosted or managed, 200+ device protocols</description>
   </item>
   <item>
-    <title>StarRocks / starrocks</title>
-    <link>https://github.com/StarRocks/starrocks</link>
-    <description>The world&#x27;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
+    <title>NotHarshhaa / DevOps-Projects</title>
+    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
+    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
   </item>
   <item>
-    <title>cabaletta / baritone</title>
-    <link>https://github.com/cabaletta/baritone</link>
-    <description>google maps for block game</description>
+    <title>apache / dubbo</title>
+    <link>https://github.com/apache/dubbo</link>
+    <description>The java implementation of Apache Dubbo. An RPC and microservice framework.</description>
+  </item>
+  <item>
+    <title>SeleniumHQ / selenium</title>
+    <link>https://github.com/SeleniumHQ/selenium</link>
+    <description>A browser automation framework and ecosystem.</description>
+  </item>
+  <item>
+    <title>LawnchairLauncher / lawnchair</title>
+    <link>https://github.com/LawnchairLauncher/lawnchair</link>
+    <description>No clever tagline needed.</description>
+  </item>
+  <item>
+    <title>mateaix / mateclaw</title>
+    <link>https://github.com/mateaix/mateclaw</link>
+    <description>🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills &amp; Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.</description>
   </item>
   <item>
     <title>Card-Forge / forge</title>
     <link>https://github.com/Card-Forge/forge</link>
     <description>An unofficial rules engine for the world&#x27;s greatest card game.</description>
+  </item>
+  <item>
+    <title>DrKLO / Telegram</title>
+    <link>https://github.com/DrKLO/Telegram</link>
+    <description>Telegram for Android source</description>
   </item>
   <item>
     <title>termux / termux-api</title>

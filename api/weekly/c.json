@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
       "title": "facebook / zstd",
@@ -10,59 +10,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27733,
-      "forks": 2587,
-      "added_stars": "79 stars this week"
-    },
-    {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13898,
-      "forks": 2216,
-      "added_stars": "144 stars this week"
-    },
-    {
-      "title": "valkey-io / valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27144,
-      "forks": 1309,
-      "added_stars": "98 stars this week"
-    },
-    {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14517,
-      "forks": 3392,
-      "added_stars": "53 stars this week"
-    },
-    {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15898,
-      "forks": 1781,
-      "added_stars": "156 stars this week"
-    },
-    {
-      "title": "raspberrypi / linux",
-      "url": "https://github.com/raspberrypi/linux",
-      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13150,
-      "forks": 5464,
-      "added_stars": "33 stars this week"
+      "stars": 27774,
+      "forks": 2590,
+      "added_stars": "88 stars this week"
     },
     {
       "title": "curl / curl",
@@ -72,47 +22,37 @@
       "languageColor": "#555555",
       "stars": 42811,
       "forks": 7348,
-      "added_stars": "83 stars this week"
+      "added_stars": "99 stars this week"
     },
     {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
+      "title": "DaveGamble / cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34612,
-      "forks": 8088,
-      "added_stars": "66 stars this week"
+      "stars": 12982,
+      "forks": 3520,
+      "added_stars": "20 stars this week"
     },
     {
-      "title": "QwenAudio / SenseVoice",
-      "url": "https://github.com/QwenAudio/SenseVoice",
-      "description": "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.",
+      "title": "winsiderss / systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 9262,
-      "forks": 821,
-      "added_stars": "71 stars this week"
+      "stars": 15907,
+      "forks": 1777,
+      "added_stars": "165 stars this week"
     },
     {
-      "title": "lvgl / lvgl",
-      "url": "https://github.com/lvgl/lvgl",
-      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "title": "libretro / RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24635,
-      "forks": 4353,
-      "added_stars": "85 stars this week"
-    },
-    {
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 70009,
-      "forks": 4468,
-      "added_stars": "1,166 stars this week"
+      "stars": 13918,
+      "forks": 2216,
+      "added_stars": "151 stars this week"
     },
     {
       "title": "openwrt / openwrt",
@@ -120,9 +60,99 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28322,
-      "forks": 12919,
+      "stars": 28334,
+      "forks": 12921,
       "added_stars": "158 stars this week"
+    },
+    {
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 42716,
+      "forks": 3480,
+      "added_stars": "997 stars this week"
+    },
+    {
+      "title": "NebuSec / CyberMeowfia",
+      "url": "https://github.com/NebuSec/CyberMeowfia",
+      "description": "PoCs and exploits for CVEs discovered by NebuSec.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1613,
+      "forks": 412,
+      "added_stars": "130 stars this week"
+    },
+    {
+      "title": "espressif / esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18977,
+      "forks": 8473,
+      "added_stars": "61 stars this week"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16452,
+      "forks": 9929,
+      "added_stars": "79 stars this week"
+    },
+    {
+      "title": "lvgl / lvgl",
+      "url": "https://github.com/lvgl/lvgl",
+      "description": "LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24642,
+      "forks": 4354,
+      "added_stars": "89 stars this week"
+    },
+    {
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 63082,
+      "forks": 28381,
+      "added_stars": "167 stars this week"
+    },
+    {
+      "title": "nothings / stb",
+      "url": "https://github.com/nothings/stb",
+      "description": "stb single-file public domain libraries for C/C++",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34618,
+      "forks": 8088,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "raspberrypi / linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13153,
+      "forks": 5463,
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "doldecomp / melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1881,
+      "forks": 251,
+      "added_stars": "764 stars this week"
     },
     {
       "title": "sumatrapdfreader / sumatrapdf",
@@ -130,8 +160,8 @@
       "description": "SumatraPDF reader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17531,
-      "forks": 2037,
+      "stars": 17542,
+      "forks": 2036,
       "added_stars": "73 stars this week"
     },
     {
@@ -140,29 +170,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7614,
-      "forks": 1370,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 149108,
-      "forks": 13701,
-      "added_stars": "494 stars this week"
-    },
-    {
-      "title": "FreeRDP / FreeRDP",
-      "url": "https://github.com/FreeRDP/FreeRDP",
-      "description": "FreeRDP is a free remote desktop protocol library and clients",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13654,
-      "forks": 15435,
-      "added_stars": "39 stars this week"
+      "stars": 7617,
+      "forks": 1372,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "sandboxie-plus / Sandboxie",
@@ -170,59 +180,49 @@
       "description": "Sandboxie Plus & Classic",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 19376,
-      "forks": 2061,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16440,
-      "forks": 9922,
-      "added_stars": "78 stars this week"
-    },
-    {
-      "title": "NebuSec / CyberMeowfia",
-      "url": "https://github.com/NebuSec/CyberMeowfia",
-      "description": "PoCs and exploits for CVEs discovered by NebuSec.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1605,
-      "forks": 412,
-      "added_stars": "137 stars this week"
-    },
-    {
-      "title": "rexglue / rexglue-sdk",
-      "url": "https://github.com/rexglue/rexglue-sdk",
-      "description": "Xbox 360 Recompilation Runtime and Toolkit",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 857,
-      "forks": 116,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "merbanan / rtl_433",
-      "url": "https://github.com/merbanan/rtl_433",
-      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7792,
-      "forks": 1583,
+      "stars": 19378,
+      "forks": 2059,
       "added_stars": "67 stars this week"
     },
     {
-      "title": "DeusData / codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "title": "kingToolbox / WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42613,
-      "forks": 3482,
-      "added_stars": "1,142 stars this week"
+      "stars": 32199,
+      "forks": 2453,
+      "added_stars": "96 stars this week"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 149186,
+      "forks": 13710,
+      "added_stars": "520 stars this week"
+    },
+    {
+      "title": "raysan5 / raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34641,
+      "forks": 3279,
+      "added_stars": "105 stars this week"
+    },
+    {
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14520,
+      "forks": 3391,
+      "added_stars": "54 stars this week"
     }
   ]
 }

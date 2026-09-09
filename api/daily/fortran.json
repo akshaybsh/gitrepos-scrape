@@ -2,27 +2,57 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "fortran-lang / stdlib",
+      "url": "https://github.com/fortran-lang/stdlib",
+      "description": "Fortran Standard Library",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 757,
+      "stars": 1349,
+      "forks": 230,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 964,
+      "forks": 538,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1202,
+      "forks": 496,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
+      "title": "OpenRadioss / OpenRadioss",
+      "url": "https://github.com/OpenRadioss/OpenRadioss",
+      "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1698,
-      "forks": 395,
+      "stars": 869,
+      "forks": 394,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 871,
+      "forks": 687,
+      "added_stars": "1 star today"
     }
   ]
 }

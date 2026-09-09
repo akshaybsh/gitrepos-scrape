@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
     {
       "title": "wrf-model / WRF",
@@ -10,9 +10,19 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1751,
+      "stars": 1752,
       "forks": 881,
-      "added_stars": "20 stars this month"
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "Reference-LAPACK / lapack",
+      "url": "https://github.com/Reference-LAPACK/lapack",
+      "description": "LAPACK development repository",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1899,
+      "forks": 514,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "GEOS-ESM / MAPL",
@@ -23,16 +33,6 @@
       "stars": 43,
       "forks": 25,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "Reference-LAPACK / lapack",
-      "url": "https://github.com/Reference-LAPACK/lapack",
-      "description": "LAPACK development repository",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1898,
-      "forks": 514,
-      "added_stars": "17 stars this month"
     },
     {
       "title": "E3SM-Project / E3SM",
@@ -52,17 +52,7 @@
       "languageColor": "#4d41b1",
       "stars": 405,
       "forks": 757,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "MetOffice / jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 21,
-      "forks": 33,
-      "added_stars": "2 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "MetOffice / lfric_apps",
@@ -72,6 +62,26 @@
       "languageColor": "#4d41b1",
       "stars": 31,
       "forks": 116,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 22,
+      "forks": 33,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 72,
       "added_stars": "0 stars this month"
     },
     {
@@ -85,6 +95,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1202,
+      "forks": 496,
+      "added_stars": "23 stars this month"
+    },
+    {
       "title": "MCSclimate / MCT",
       "url": "https://github.com/MCSclimate/MCT",
       "description": "Model Coupling Tookit",
@@ -95,34 +115,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 72,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1202,
-      "forks": 496,
-      "added_stars": "24 stars this month"
-    },
-    {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1698,
-      "forks": 395,
-      "added_stars": "46 stars this month"
+      "stars": 1699,
+      "forks": 396,
+      "added_stars": "49 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -130,7 +130,7 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 870,
+      "stars": 871,
       "forks": 687,
       "added_stars": "10 stars this month"
     },
@@ -140,9 +140,9 @@
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 962,
+      "stars": 964,
       "forks": 538,
-      "added_stars": "18 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "grimme-lab / xtb",
@@ -152,7 +152,7 @@
       "languageColor": "#4d41b1",
       "stars": 838,
       "forks": 206,
-      "added_stars": "16 stars this month"
+      "added_stars": "15 stars this month"
     }
   ]
 }

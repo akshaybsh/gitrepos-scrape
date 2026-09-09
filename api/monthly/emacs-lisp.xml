@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>emacs-mirror / emacs</title>
     <link>https://github.com/emacs-mirror/emacs</link>
@@ -26,19 +26,9 @@
     <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
-    <title>akermu / emacs-libvterm</title>
-    <link>https://github.com/akermu/emacs-libvterm</link>
-    <description>Emacs libvterm integration</description>
-  </item>
-  <item>
     <title>emacs-lsp / lsp-mode</title>
     <link>https://github.com/emacs-lsp/lsp-mode</link>
     <description>Emacs client/library for the Language Server Protocol</description>
-  </item>
-  <item>
-    <title>dnouri / pilish</title>
-    <link>https://github.com/dnouri/pilish</link>
-    <description>The ergonomic agent harness for Emacs.</description>
   </item>
   <item>
     <title>melpa / melpa</title>
@@ -46,24 +36,9 @@
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
   <item>
-    <title>tumashu / posframe</title>
-    <link>https://github.com/tumashu/posframe</link>
-    <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
-  </item>
-  <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
-  </item>
-  <item>
-    <title>xenodium / agent-shell</title>
-    <link>https://github.com/xenodium/agent-shell</link>
-    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
-  </item>
-  <item>
-    <title>emacs-evil / evil</title>
-    <link>https://github.com/emacs-evil/evil</link>
-    <description>The extensible vi layer for Emacs.</description>
+    <title>dnouri / pilish</title>
+    <link>https://github.com/dnouri/pilish</link>
+    <description>The ergonomic agent harness for Emacs.</description>
   </item>
   <item>
     <title>mmontone / emacs-inspector</title>
@@ -71,9 +46,9 @@
     <description>Inspection tool for Emacs Lisp objects.</description>
   </item>
   <item>
-    <title>bbatsov / projectile</title>
-    <link>https://github.com/bbatsov/projectile</link>
-    <description>Project Interaction Library for Emacs</description>
+    <title>tumashu / posframe</title>
+    <link>https://github.com/tumashu/posframe</link>
+    <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
   </item>
   <item>
     <title>emacsattic / helm-swoop</title>
@@ -81,14 +56,24 @@
     <description>Efficiently hopping squeezed lines powered by Emacs helm interface</description>
   </item>
   <item>
-    <title>yoshiki / yaml-mode</title>
-    <link>https://github.com/yoshiki/yaml-mode</link>
-    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+    <title>emacs-evil / evil</title>
+    <link>https://github.com/emacs-evil/evil</link>
+    <description>The extensible vi layer for Emacs.</description>
   </item>
   <item>
-    <title>seagle0128 / doom-modeline</title>
-    <link>https://github.com/seagle0128/doom-modeline</link>
-    <description>A fancy and fast mode-line inspired by minimalism design.</description>
+    <title>bbatsov / projectile</title>
+    <link>https://github.com/bbatsov/projectile</link>
+    <description>Project Interaction Library for Emacs</description>
+  </item>
+  <item>
+    <title>xenodium / agent-shell</title>
+    <link>https://github.com/xenodium/agent-shell</link>
+    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
+  </item>
+  <item>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
     <title>doomemacs / modules</title>
@@ -96,9 +81,19 @@
     <description>Official module library for Doom Emacs</description>
   </item>
   <item>
+    <title>yoshiki / yaml-mode</title>
+    <link>https://github.com/yoshiki/yaml-mode</link>
+    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+  </item>
+  <item>
     <title>magnars / dash.el</title>
     <link>https://github.com/magnars/dash.el</link>
     <description>A modern list library for Emacs</description>
+  </item>
+  <item>
+    <title>seagle0128 / doom-modeline</title>
+    <link>https://github.com/seagle0128/doom-modeline</link>
+    <description>A fancy and fast mode-line inspired by minimalism design.</description>
   </item>
 </channel>
 </rss>

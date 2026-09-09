@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -11,18 +11,18 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 27231,
-      "forks": 12405,
-      "added_stars": "8 stars this week"
+      "forks": 12406,
+      "added_stars": "10 stars this week"
     },
     {
-      "title": "ensdomains / contracts-v2",
-      "url": "https://github.com/ensdomains/contracts-v2",
-      "description": "",
+      "title": "SunWeb3Sec / DeFiHackLabs",
+      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "description": "Reproduce DeFi hacked incidents using Foundry.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 48,
-      "forks": 48,
-      "added_stars": "1 star this week"
+      "stars": 6771,
+      "forks": 1479,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -60,19 +60,9 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 4285,
-      "forks": 706,
+      "stars": 4284,
+      "forks": 707,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho's non-custodial vault protocol",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 100,
-      "forks": 74,
-      "added_stars": "4 stars this week"
     },
     {
       "title": "Vectorized / solady",
@@ -80,8 +70,8 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3367,
-      "forks": 485,
+      "stars": 3368,
+      "forks": 486,
       "added_stars": "1 star this week"
     },
     {
@@ -90,79 +80,9 @@
       "description": "The ultimate, most advanced, security, DeFi, assembly, web3 auditor course ever created.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1956,
+      "stars": 1957,
       "forks": 452,
       "added_stars": "7 stars this week"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2526,
-      "forks": 1319,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "aave-dao / aave-v3-origin",
-      "url": "https://github.com/aave-dao/aave-v3-origin",
-      "description": "Aave V3 Protocol",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 289,
-      "forks": 227,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 904,
-      "forks": 663,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 517,
-      "forks": 58,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 944,
-      "forks": 298,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "matter-labs / era-contracts",
-      "url": "https://github.com/matter-labs/era-contracts",
-      "description": "Smart Contract Submodule For zkSync Era",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 538,
-      "forks": 422,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "kimba999 / base-bro",
-      "url": "https://github.com/kimba999/base-bro",
-      "description": "",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 20,
-      "forks": 19,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "ethereum / ERCs",
@@ -171,18 +91,18 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 753,
-      "forks": 1055,
-      "added_stars": "10 stars this week"
+      "forks": 1057,
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "Arachnid / solidity-stringutils",
-      "url": "https://github.com/Arachnid/solidity-stringutils",
-      "description": "Basic string utilities for Solidity",
+      "title": "defisaver / defisaver-v3-contracts",
+      "url": "https://github.com/defisaver/defisaver-v3-contracts",
+      "description": "All the contracts related to the Defi Saver ecosystem",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 1154,
-      "forks": 371,
-      "added_stars": "0 stars this week"
+      "stars": 379,
+      "forks": 173,
+      "added_stars": "2 stars this week"
     }
   ]
 }

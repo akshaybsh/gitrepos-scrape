@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
     {
       "title": "vxcontrol / pentagi",
@@ -10,19 +10,29 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22538,
-      "forks": 2976,
-      "added_stars": "89 stars today"
+      "stars": 22585,
+      "forks": 2983,
+      "added_stars": "64 stars today"
     },
     {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 48970,
-      "forks": 4433,
-      "added_stars": "40 stars today"
+      "stars": 180495,
+      "forks": 17777,
+      "added_stars": "98 stars today"
+    },
+    {
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8201,
+      "forks": 428,
+      "added_stars": "36 stars today"
     },
     {
       "title": "dstotijn / hetty",
@@ -30,129 +40,9 @@
       "description": "An HTTP toolkit for security research.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12400,
-      "forks": 816,
-      "added_stars": "121 stars today"
-    },
-    {
-      "title": "opencloud-eu / opencloud",
-      "url": "https://github.com/opencloud-eu/opencloud",
-      "description": "🌤️ OpenCloud is the open source platform for file management, sharing and collaboration. Simple and sovereign.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5910,
-      "forks": 240,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "entireio / cli",
-      "url": "https://github.com/entireio/cli",
-      "description": "📜 Entire CLI hooks into your Git workflow to capture AI agent sessions as you work. Sessions are indexed alongside commits, creating a searchable record of how code was written in your repo.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5077,
-      "forks": 465,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "moby / moby",
-      "url": "https://github.com/moby/moby",
-      "description": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 72090,
-      "forks": 19238,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "sysadminsmedia / homebox",
-      "url": "https://github.com/sysadminsmedia/homebox",
-      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7120,
-      "forks": 541,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32800,
-      "forks": 4934,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "MHSanaei / 3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46043,
-      "forks": 11290,
-      "added_stars": "44 stars today"
-    },
-    {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 110980,
-      "forks": 13821,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "alireza0 / s-ui",
-      "url": "https://github.com/alireza0/s-ui",
-      "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9855,
-      "forks": 1837,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 82865,
-      "forks": 2862,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "pocketbase / pocketbase",
-      "url": "https://github.com/pocketbase/pocketbase",
-      "description": "Open Source realtime backend in 1 file",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 60980,
-      "forks": 3677,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "avelino / awesome-go",
-      "url": "https://github.com/avelino/awesome-go",
-      "description": "A curated list of awesome Go frameworks, libraries and software",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 183479,
-      "forks": 13551,
-      "added_stars": "111 stars today"
-    },
-    {
-      "title": "v2fly / domain-list-community",
-      "url": "https://github.com/v2fly/domain-list-community",
-      "description": "Community managed domain list. Generate geosite.dat for V2Ray.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9457,
-      "forks": 1418,
-      "added_stars": "6 stars today"
+      "stars": 12456,
+      "forks": 818,
+      "added_stars": "101 stars today"
     },
     {
       "title": "Tencent / WeKnora",
@@ -160,19 +50,129 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 21755,
-      "forks": 3148,
-      "added_stars": "152 stars today"
+      "stars": 21890,
+      "forks": 3162,
+      "added_stars": "160 stars today"
     },
     {
-      "title": "syncthing / syncthing",
-      "url": "https://github.com/syncthing/syncthing",
-      "description": "Open Source Continuous File Synchronization",
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 88378,
-      "forks": 5456,
-      "added_stars": "32 stars today"
+      "stars": 104407,
+      "forks": 6056,
+      "added_stars": "233 stars today"
+    },
+    {
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 47658,
+      "forks": 11394,
+      "added_stars": "107 stars today"
+    },
+    {
+      "title": "stacklok / toolhive",
+      "url": "https://github.com/stacklok/toolhive",
+      "description": "ToolHive is an enterprise-grade platform for running and managing Model Context Protocol (MCP) servers.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 2146,
+      "forks": 293,
+      "added_stars": "36 stars today"
+    },
+    {
+      "title": "Gentleman-Programming / engram",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6445,
+      "forks": 672,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 40945,
+      "forks": 8524,
+      "added_stars": "157 stars today"
+    },
+    {
+      "title": "NdoleStudio / httpsms",
+      "url": "https://github.com/NdoleStudio/httpsms",
+      "description": "Send and receive SMS messages using your Android phone programmatically via a simple HTTP API",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4995,
+      "forks": 890,
+      "added_stars": "44 stars today"
+    },
+    {
+      "title": "prometheus / prometheus",
+      "url": "https://github.com/prometheus/prometheus",
+      "description": "The Prometheus monitoring system and time series database.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 66016,
+      "forks": 10817,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6371,
+      "forks": 630,
+      "added_stars": "294 stars today"
+    },
+    {
+      "title": "go-playground / validator",
+      "url": "https://github.com/go-playground/validator",
+      "description": "💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20151,
+      "forks": 1453,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Project-HAMi / HAMi",
+      "url": "https://github.com/Project-HAMi/HAMi",
+      "description": "Heterogeneous GPU Sharing on Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4550,
+      "forks": 812,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24113,
+      "forks": 7827,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "moby / buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10248,
+      "forks": 1513,
+      "added_stars": "3 stars today"
     }
   ]
 }

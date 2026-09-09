@@ -2,8 +2,18 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
+    {
+      "title": "prometheus-community / helm-charts",
+      "url": "https://github.com/prometheus-community/helm-charts",
+      "description": "Prometheus community Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 6182,
+      "forks": 5385,
+      "added_stars": "30 stars this month"
+    },
     {
       "title": "argoproj / argo-helm",
       "url": "https://github.com/argoproj/argo-helm",
@@ -15,24 +25,14 @@
       "added_stars": "29 stars this month"
     },
     {
-      "title": "prometheus-community / helm-charts",
-      "url": "https://github.com/prometheus-community/helm-charts",
-      "description": "Prometheus community Helm charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 6181,
-      "forks": 5384,
-      "added_stars": "29 stars this month"
-    },
-    {
       "title": "amzn / selling-partner-api-models",
       "url": "https://github.com/amzn/selling-partner-api-models",
       "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 907,
-      "forks": 794,
-      "added_stars": "20 stars this month"
+      "stars": 906,
+      "forks": 793,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "netbox-community / netbox-chart",
@@ -52,7 +52,7 @@
       "languageColor": "#724b3b",
       "stars": 17786,
       "forks": 5962,
-      "added_stars": "18 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "goharbor / harbor-helm",
@@ -60,7 +60,7 @@
       "description": "The helm chart to deploy Harbor",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 1517,
+      "stars": 1518,
       "forks": 863,
       "added_stars": "9 stars this month"
     },
@@ -80,9 +80,9 @@
       "description": "Temporal Helm charts",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 558,
+      "stars": 559,
       "forks": 449,
-      "added_stars": "4 stars this month"
+      "added_stars": "5 stars this month"
     }
   ]
 }

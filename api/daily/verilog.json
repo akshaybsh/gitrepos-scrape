@@ -2,8 +2,48 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
+    {
+      "title": "YosysHQ / picorv32",
+      "url": "https://github.com/YosysHQ/picorv32",
+      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 4384,
+      "forks": 999,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 3080,
+      "forks": 1005,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "analogdevicesinc / hdl",
+      "url": "https://github.com/analogdevicesinc/hdl",
+      "description": "HDL libraries and projects",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2009,
+      "forks": 1683,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 729,
+      "forks": 524,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "jotego / jtcores",
       "url": "https://github.com/jotego/jtcores",
@@ -15,44 +55,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "vortexgpgpu / vortex",
-      "url": "https://github.com/vortexgpgpu/vortex",
-      "description": "",
+      "title": "EttusResearch / uhd",
+      "url": "https://github.com/EttusResearch/uhd",
+      "description": "The USRP™ Hardware Driver Repository",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2238,
-      "forks": 543,
+      "stars": 1276,
+      "forks": 777,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "corundum / corundum",
-      "url": "https://github.com/corundum/corundum",
-      "description": "Open source FPGA-based NIC and platform for in-network compute",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 2455,
-      "forks": 553,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "YosysHQ / picorv32",
-      "url": "https://github.com/YosysHQ/picorv32",
-      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 4384,
-      "forks": 999,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "TinyTapeout / ttsky-verilog-template",
-      "url": "https://github.com/TinyTapeout/ttsky-verilog-template",
-      "description": "Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 51,
-      "forks": 483,
-      "added_stars": "0 stars today"
     }
   ]
 }

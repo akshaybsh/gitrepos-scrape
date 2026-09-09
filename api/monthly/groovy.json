@@ -2,7 +2,7 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
     {
       "title": "gradle / gradle",
@@ -10,9 +10,9 @@
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18830,
-      "forks": 5354,
-      "added_stars": "95 stars this month"
+      "stars": 18829,
+      "forks": 5342,
+      "added_stars": "94 stars this month"
     },
     {
       "title": "rundeck / rundeck",
@@ -22,7 +22,7 @@
       "languageColor": "#4298b8",
       "stars": 6289,
       "forks": 986,
-      "added_stars": "38 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "apache / grails-core",
@@ -30,9 +30,19 @@
       "description": "Grails - the Web Application Framework",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 2928,
+      "stars": 2929,
       "forks": 975,
-      "added_stars": "4 stars this month"
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "bregman-arie / devops-resources",
+      "url": "https://github.com/bregman-arie/devops-resources",
+      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 9678,
+      "forks": 2416,
+      "added_stars": "48 stars this month"
     },
     {
       "title": "nextflow-io / nextflow",
@@ -40,9 +50,9 @@
       "description": "A DSL for data-driven computational pipelines",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 3480,
-      "forks": 808,
-      "added_stars": "23 stars this month"
+      "stars": 3481,
+      "forks": 807,
+      "added_stars": "24 stars this month"
     },
     {
       "title": "gravitee-io / issues",
@@ -55,16 +65,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bregman-arie / devops-resources",
-      "url": "https://github.com/bregman-arie/devops-resources",
-      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 9678,
-      "forks": 2416,
-      "added_stars": "50 stars this month"
-    },
-    {
       "title": "ben-manes / gradle-versions-plugin",
       "url": "https://github.com/ben-manes/gradle-versions-plugin",
       "description": "Gradle plugin to discover dependency updates",
@@ -72,7 +72,7 @@
       "languageColor": "#4298b8",
       "stars": 4083,
       "forks": 204,
-      "added_stars": "13 stars this month"
+      "added_stars": "12 stars this month"
     }
   ]
 }

@@ -4,26 +4,11 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
     <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>DataDog / serverless-sample-app</title>
-    <link>https://github.com/DataDog/serverless-sample-app</link>
-    <description>Explore Datadog&#x27;s serverless observability features with this sample app.</description>
   </item>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
@@ -31,14 +16,24 @@
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+    <title>DataDog / serverless-sample-app</title>
+    <link>https://github.com/DataDog/serverless-sample-app</link>
+    <description>Explore Datadog&#x27;s serverless observability features with this sample app.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
   </item>
   <item>
     <title>semgrep / semgrep-rules</title>
     <link>https://github.com/semgrep/semgrep-rules</link>
     <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-naming</title>
@@ -56,19 +51,29 @@
     <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
   </item>
   <item>
-    <title>RaJiska / terraform-aws-fck-nat</title>
-    <link>https://github.com/RaJiska/terraform-aws-fck-nat</link>
-    <description>Terraform module for fck-nat</description>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
-    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
-    <description>Terraform Azure Verified Resource Module for Storage Account</description>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
     <title>terraform-google-modules / terraform-google-project-factory</title>
     <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
     <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+  </item>
+  <item>
+    <title>hashicorp / terraform-cidr-subnets</title>
+    <link>https://github.com/hashicorp/terraform-cidr-subnets</link>
+    <description>A Terraform module for calculating subnet IP address prefixes</description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
+    <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
 </channel>
 </rss>

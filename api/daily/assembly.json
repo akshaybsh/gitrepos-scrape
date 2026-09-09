@@ -2,37 +2,37 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
+    {
+      "title": "RibShark / OmniDrive",
+      "url": "https://github.com/RibShark/OmniDrive",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1127,
+      "forks": 60,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "BLAKE3-team / BLAKE3",
+      "url": "https://github.com/BLAKE3-team/BLAKE3",
+      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 6421,
+      "forks": 480,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "apple / swift-crypto",
       "url": "https://github.com/apple/swift-crypto",
       "description": "Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on all Swift supported platforms.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1720,
+      "stars": 1719,
       "forks": 223,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "pret / pokered",
-      "url": "https://github.com/pret/pokered",
-      "description": "Disassembly of Pokémon Red/Blue",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 4911,
-      "forks": 1300,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "cirosantilli / x86-bare-metal-examples",
-      "url": "https://github.com/cirosantilli/x86-bare-metal-examples",
-      "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 5352,
-      "forks": 430,
-      "added_stars": "1 star today"
     },
     {
       "title": "apple / swift-nio-ssl",
@@ -40,8 +40,38 @@
       "description": "TLS Support for SwiftNIO, based on BoringSSL.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 436,
-      "forks": 179,
+      "stars": 437,
+      "forks": 180,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3097,
+      "forks": 1016,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1133,
+      "forks": 224,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 486,
+      "forks": 236,
       "added_stars": "0 stars today"
     },
     {
@@ -55,6 +85,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18712,
+      "forks": 2100,
+      "added_stars": "2 stars today"
+    },
+    {
       "title": "joaorb64 / smashremix-plus-extra",
       "url": "https://github.com/joaorb64/smashremix-plus-extra",
       "description": "Modding engine for Smash Remix",
@@ -65,24 +105,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18710,
-      "forks": 2100,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "corkami / pics",
-      "url": "https://github.com/corkami/pics",
-      "description": "File formats dissections and more...",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 11482,
-      "forks": 792,
-      "added_stars": "1 star today"
+      "stars": 828,
+      "forks": 212,
+      "added_stars": "0 stars today"
     },
     {
       "title": "JSsixtyfour / smashremix",
@@ -90,29 +120,19 @@
       "description": "",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 955,
+      "stars": 956,
       "forks": 80,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "kanaka / mal",
-      "url": "https://github.com/kanaka/mal",
-      "description": "mal - Make a Lisp",
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 10728,
-      "forks": 2705,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1124,
-      "forks": 60,
-      "added_stars": "7 stars today"
+      "stars": 72308,
+      "forks": 7999,
+      "added_stars": "12 stars today"
     },
     {
       "title": "netwide-assembler / nasm",
@@ -120,9 +140,19 @@
       "description": "A cross-platform x86 assembler with an Intel-like syntax",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3314,
-      "forks": 421,
-      "added_stars": "3 stars today"
+      "stars": 3313,
+      "forks": 420,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "ROCm / rocm-libraries",
+      "url": "https://github.com/ROCm/rocm-libraries",
+      "description": "super repo for rocm libraries",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 419,
+      "forks": 397,
+      "added_stars": "0 stars today"
     },
     {
       "title": "bitdump / BLHeli",
@@ -135,53 +165,13 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "leachim6 / hello-world",
-      "url": "https://github.com/leachim6/hello-world",
-      "description": "Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!",
+      "title": "hiteshchoudhary / open-source-contribution",
+      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
+      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11950,
-      "forks": 2114,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "chrislgarry / Apollo-11",
-      "url": "https://github.com/chrislgarry/Apollo-11",
-      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 72310,
-      "forks": 7999,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "cemu-project / cemu_graphic_packs",
-      "url": "https://github.com/cemu-project/cemu_graphic_packs",
-      "description": "Community Graphic Packs for Cemu",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1473,
-      "forks": 599,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "below / HelloSilicon",
-      "url": "https://github.com/below/HelloSilicon",
-      "description": "An introduction to ARM64 assembly on Apple Silicon Macs",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 4994,
-      "forks": 329,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1130,
-      "forks": 224,
+      "stars": 540,
+      "forks": 1700,
       "added_stars": "0 stars today"
     }
   ]

@@ -2,17 +2,27 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 2816,
+      "forks": 316,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "qiantongtech / qData",
       "url": "https://github.com/qiantongtech/qData",
       "description": "qData is an open-source data governance and data development platform that integrates ETL, data development, metadata management, data quality, data assets, API services, and AI-powered data Q&A.",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 589,
-      "forks": 127,
-      "added_stars": "2 stars today"
+      "stars": 590,
+      "forks": 129,
+      "added_stars": "3 stars today"
     }
   ]
 }

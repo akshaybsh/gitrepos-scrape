@@ -2,15 +2,35 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6991,
+      "forks": 2126,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "hadley / r4ds",
+      "url": "https://github.com/hadley/r4ds",
+      "description": "R for data science: a book",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5149,
+      "forks": 4445,
+      "added_stars": "29 stars this month"
+    },
     {
       "title": "swirldev / swirl_courses",
       "url": "https://github.com/swirldev/swirl_courses",
       "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 4594,
+      "stars": 4595,
       "forks": 7194,
       "added_stars": "19 stars this month"
     },
@@ -25,23 +45,13 @@
       "added_stars": "16 stars this month"
     },
     {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5148,
-      "forks": 4446,
-      "added_stars": "29 stars this month"
-    },
-    {
       "title": "tidyverse / dplyr",
       "url": "https://github.com/tidyverse/dplyr",
       "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5066,
-      "forks": 2116,
+      "stars": 5067,
+      "forks": 2115,
       "added_stars": "14 stars this month"
     },
     {
@@ -50,19 +60,9 @@
       "description": "Simple Features for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 1444,
+      "stars": 1445,
       "forks": 303,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 6990,
-      "forks": 2126,
-      "added_stars": "20 stars this month"
     },
     {
       "title": "rstudio / shiny",
@@ -71,7 +71,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5682,
-      "forks": 1891,
+      "forks": 1890,
       "added_stars": "13 stars this month"
     },
     {
@@ -91,7 +91,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 891,
-      "forks": 143282,
+      "forks": 143281,
       "added_stars": "2 stars this month"
     },
     {
@@ -102,7 +102,7 @@
       "languageColor": "#198CE7",
       "stars": 3915,
       "forks": 1052,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
     }
   ]
 }

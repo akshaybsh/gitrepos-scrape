@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
     {
       "title": "JuliaRegistries / General",
@@ -11,18 +11,8 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 730,
-      "forks": 601,
+      "forks": 602,
       "added_stars": "5 stars this month"
-    },
-    {
-      "title": "JuliaLang / julia",
-      "url": "https://github.com/JuliaLang/julia",
-      "description": "The Julia Programming Language",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 49086,
-      "forks": 5989,
-      "added_stars": "171 stars this month"
     },
     {
       "title": "CliMA / ClimaCoupler.jl",
@@ -35,6 +25,16 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "FluxML / Flux.jl",
+      "url": "https://github.com/FluxML/Flux.jl",
+      "description": "Relax! Flux is the ML library that doesn't make you tensor",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 4743,
+      "forks": 624,
+      "added_stars": "12 stars this month"
+    },
+    {
       "title": "CliMA / Oceananigans.jl",
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
@@ -42,7 +42,17 @@
       "languageColor": "#a270ba",
       "stars": 1412,
       "forks": 293,
-      "added_stars": "18 stars this month"
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "JuliaLang / julia",
+      "url": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Programming Language",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 49083,
+      "forks": 5982,
+      "added_stars": "168 stars this month"
     },
     {
       "title": "CliMA / ClimaCore.jl",
@@ -53,16 +63,6 @@
       "stars": 117,
       "forks": 19,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "SciML / OrdinaryDiffEq.jl",
-      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
-      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 678,
-      "forks": 275,
-      "added_stars": "11 stars this month"
     },
     {
       "title": "CliMA / ClimaAtmos.jl",
@@ -81,28 +81,18 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 2806,
-      "forks": 396,
+      "forks": 397,
       "added_stars": "11 stars this month"
     },
     {
-      "title": "SciML / ModelingToolkit.jl",
-      "url": "https://github.com/SciML/ModelingToolkit.jl",
-      "description": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+      "title": "SciML / OrdinaryDiffEq.jl",
+      "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
+      "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 1665,
-      "forks": 266,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "EnzymeAD / Enzyme.jl",
-      "url": "https://github.com/EnzymeAD/Enzyme.jl",
-      "description": "Julia bindings for the Enzyme automatic differentiator",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 586,
-      "forks": 105,
-      "added_stars": "7 stars this month"
+      "stars": 678,
+      "forks": 275,
+      "added_stars": "12 stars this month"
     }
   ]
 }

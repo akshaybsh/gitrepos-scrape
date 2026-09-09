@@ -2,18 +2,8 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
-    {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1740,
-      "forks": 251,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "microsoft / vcpkg",
       "url": "https://github.com/microsoft/vcpkg",
@@ -21,8 +11,18 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": 27452,
-      "forks": 7711,
-      "added_stars": "9 stars today"
+      "forks": 7712,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 702,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Andersama / obs-asio",
@@ -33,16 +33,6 @@
       "stars": 845,
       "forks": 53,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1636,
-      "forks": 130,
-      "added_stars": "2 stars today"
     }
   ]
 }

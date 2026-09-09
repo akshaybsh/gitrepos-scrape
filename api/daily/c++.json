@@ -2,57 +2,67 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
     {
-      "title": "ClassicOldSong / Apollo",
-      "url": "https://github.com/ClassicOldSong/Apollo",
-      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10823,
-      "forks": 427,
-      "added_stars": "14 stars today"
+      "stars": 127574,
+      "forks": 22927,
+      "added_stars": "156 stars today"
     },
     {
-      "title": "imputnet / helium",
-      "url": "https://github.com/imputnet/helium",
-      "description": "Private, fast, and honest web browser",
+      "title": "MaaXYZ / MaaFramework",
+      "url": "https://github.com/MaaXYZ/MaaFramework",
+      "description": "基于图像识别的自动化黑盒测试框架 | An automation black-box testing framework based on image recognition",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20406,
-      "forks": 565,
-      "added_stars": "54 stars today"
+      "stars": 4845,
+      "forks": 553,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "mamedev / mame",
-      "url": "https://github.com/mamedev/mame",
-      "description": "MAME",
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10464,
-      "forks": 2507,
-      "added_stars": "4 stars today"
+      "stars": 49760,
+      "forks": 8931,
+      "added_stars": "49 stars today"
     },
     {
-      "title": "vcmi / vcmi",
-      "url": "https://github.com/vcmi/vcmi",
-      "description": "Open-source engine for Heroes of Might and Magic III",
+      "title": "LadybirdBrowser / ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "description": "Truly independent web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5840,
-      "forks": 679,
-      "added_stars": "3 stars today"
+      "stars": 66110,
+      "forks": 3154,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "stenzek / duckstation",
-      "url": "https://github.com/stenzek/duckstation",
-      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+      "title": "78 / xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10648,
-      "forks": 963,
-      "added_stars": "6 stars today"
+      "stars": 29752,
+      "forks": 6900,
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "memgraph / memgraph",
+      "url": "https://github.com/memgraph/memgraph",
+      "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4455,
+      "forks": 275,
+      "added_stars": "29 stars today"
     },
     {
       "title": "justcallmekoko / ESP32Marauder",
@@ -60,9 +70,9 @@
       "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12251,
-      "forks": 1457,
-      "added_stars": "16 stars today"
+      "stars": 12271,
+      "forks": 1462,
+      "added_stars": "15 stars today"
     },
     {
       "title": "NVIDIA / cutlass",
@@ -70,109 +80,69 @@
       "description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10402,
-      "forks": 2071,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "juce-framework / JUCE",
-      "url": "https://github.com/juce-framework/JUCE",
-      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8878,
-      "forks": 2173,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 40999,
-      "forks": 2095,
-      "added_stars": "44 stars today"
-    },
-    {
-      "title": "official-stockfish / Stockfish",
-      "url": "https://github.com/official-stockfish/Stockfish",
-      "description": "A free and strong UCI chess engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16528,
-      "forks": 3003,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "google / flatbuffers",
-      "url": "https://github.com/google/flatbuffers",
-      "description": "FlatBuffers: Memory Efficient Serialization Library",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 26446,
-      "forks": 3649,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "lemonade-sdk / lemonade",
-      "url": "https://github.com/lemonade-sdk/lemonade",
-      "description": "Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5658,
-      "forks": 491,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "LMMS / lmms",
-      "url": "https://github.com/LMMS/lmms",
-      "description": "Cross-platform music production software",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10344,
-      "forks": 1246,
+      "stars": 10403,
+      "forks": 2074,
       "added_stars": "7 stars today"
     },
     {
-      "title": "RPCS3 / rpcs3",
-      "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PlayStation 3 emulator and debugger",
+      "title": "vicinaehq / vicinae",
+      "url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19685,
-      "forks": 2427,
+      "stars": 9438,
+      "forks": 284,
       "added_stars": "17 stars today"
     },
     {
-      "title": "zen-browser / desktop",
-      "url": "https://github.com/zen-browser/desktop",
-      "description": "Welcome to a calmer internet",
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 44330,
-      "forks": 1739,
-      "added_stars": "31 stars today"
+      "stars": 2776,
+      "forks": 2218,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "LibreSprite / LibreSprite",
-      "url": "https://github.com/LibreSprite/LibreSprite",
-      "description": "Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite",
+      "title": "mattias800 / prosper",
+      "url": "https://github.com/mattias800/prosper",
+      "description": "A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8359,
-      "forks": 559,
-      "added_stars": "7 stars today"
+      "stars": 138,
+      "forks": 6,
+      "added_stars": "30 stars today"
     },
     {
-      "title": "doitsujin / dxvk",
-      "url": "https://github.com/doitsujin/dxvk",
-      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
+      "title": "apple / foundationdb",
+      "url": "https://github.com/apple/foundationdb",
+      "description": "FoundationDB - the open source, distributed, transactional key-value store",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18029,
-      "forks": 1231,
-      "added_stars": "14 stars today"
+      "stars": 16688,
+      "forks": 1565,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "Open-Cascade-SAS / OCCT",
+      "url": "https://github.com/Open-Cascade-SAS/OCCT",
+      "description": "Open CASCADE Technology (OCCT) is an open-source software development platform for 3D CAD, CAM, CAE.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2855,
+      "forks": 674,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "argotorg / solidity",
+      "url": "https://github.com/argotorg/solidity",
+      "description": "Solidity, the Smart Contract Programming Language",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 25729,
+      "forks": 6155,
+      "added_stars": "3 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
       "title": "swirldev / swirl_courses",
@@ -10,9 +10,9 @@
       "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 4594,
+      "stars": 4595,
       "forks": 7194,
-      "added_stars": "3 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "nflverse / nflverse-data",
@@ -30,9 +30,19 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5148,
-      "forks": 4446,
-      "added_stars": "4 stars this week"
+      "stars": 5149,
+      "forks": 4445,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 891,
+      "forks": 143281,
+      "added_stars": "1 star this week"
     },
     {
       "title": "jinworks / CellChat",
@@ -45,44 +55,14 @@
       "added_stars": "7 stars this week"
     },
     {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 6990,
-      "forks": 2126,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "tidyverse / dplyr",
       "url": "https://github.com/tidyverse/dplyr",
       "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5066,
-      "forks": 2116,
+      "stars": 5067,
+      "forks": 2115,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 891,
-      "forks": 143282,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "satijalab / seurat",
-      "url": "https://github.com/satijalab/seurat",
-      "description": "R toolkit for single cell genomics",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 2796,
-      "forks": 996,
-      "added_stars": "5 stars this week"
     }
   ]
 }

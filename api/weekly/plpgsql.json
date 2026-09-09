@@ -2,8 +2,18 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 2816,
+      "forks": 316,
+      "added_stars": "9 stars this week"
+    },
     {
       "title": "guchengwuyue / yshop-drink",
       "url": "https://github.com/guchengwuyue/yshop-drink",
@@ -11,28 +21,8 @@
       "language": "PLpgSQL",
       "languageColor": "#336790",
       "stars": 1564,
-      "forks": 394,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "DataDog / storedog",
-      "url": "https://github.com/DataDog/storedog",
-      "description": "",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 31,
-      "forks": 39,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "pgpartman / pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 2813,
-      "forks": 316,
-      "added_stars": "9 stars this week"
+      "forks": 395,
+      "added_stars": "10 stars this week"
     }
   ]
 }

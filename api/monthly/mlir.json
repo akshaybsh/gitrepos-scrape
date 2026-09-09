@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 20104,
-      "forks": 3176,
-      "added_stars": "249 stars this month"
+      "stars": 20115,
+      "forks": 3178,
+      "added_stars": "243 stars this month"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -30,9 +30,9 @@
       "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 887,
+      "stars": 888,
       "forks": 170,
-      "added_stars": "129 stars this month"
+      "added_stars": "130 stars this month"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -40,19 +40,9 @@
       "description": "OpenAI Triton backend for Intel® GPUs",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 268,
+      "stars": 269,
       "forks": 108,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "facebookexperimental / triton",
-      "url": "https://github.com/facebookexperimental/triton",
-      "description": "Github mirror of trition-lang/triton repo.",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 195,
-      "forks": 70,
-      "added_stars": "10 stars this month"
+      "added_stars": "5 stars this month"
     },
     {
       "title": "EnzymeAD / Enzyme-JAX",
@@ -65,14 +55,24 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "facebookexperimental / triton",
+      "url": "https://github.com/facebookexperimental/triton",
+      "description": "Github mirror of trition-lang/triton repo.",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 195,
+      "forks": 70,
+      "added_stars": "10 stars this month"
+    },
+    {
       "title": "tenstorrent / tt-mlir",
       "url": "https://github.com/tenstorrent/tt-mlir",
       "description": "Tenstorrent MLIR compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 304,
+      "stars": 306,
       "forks": 150,
-      "added_stars": "9 stars this month"
+      "added_stars": "11 stars this month"
     }
   ]
 }

@@ -4,16 +4,16 @@
   <title>GitHub Zig Languages Daily Trending</title>
   <description>Daily Trending of Zig Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:53:02 GMT</pubDate>
-  <item>
-    <title>ddalcu / mlx-serve</title>
-    <link>https://github.com/ddalcu/mlx-serve</link>
-    <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
-  </item>
+  <pubDate>Wed, 09 Sep 2026 07:00:51 GMT</pubDate>
   <item>
     <title>lightpanda-io / browser</title>
     <link>https://github.com/lightpanda-io/browser</link>
     <description>Lightpanda: the headless browser designed for AI and automation</description>
+  </item>
+  <item>
+    <title>ddalcu / mlx-serve</title>
+    <link>https://github.com/ddalcu/mlx-serve</link>
+    <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
   </item>
   <item>
     <title>tigerbeetle / tigerbeetle</title>
@@ -29,6 +29,11 @@
     <title>sleep3r / mtproto.zig</title>
     <link>https://github.com/sleep3r/mtproto.zig</link>
     <description>Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS</description>
+  </item>
+  <item>
+    <title>ziglang / zig</title>
+    <link>https://github.com/ziglang/zig</link>
+    <description>Moved to Codeberg</description>
   </item>
   <item>
     <title>ghostty-org / ghostty</title>
@@ -56,19 +61,19 @@
     <description>Toolkit for building native desktop apps</description>
   </item>
   <item>
-    <title>neurosnap / zmx</title>
-    <link>https://github.com/neurosnap/zmx</link>
-    <description>Session attach/detach for the terminal</description>
-  </item>
-  <item>
-    <title>ziglang / zig</title>
-    <link>https://github.com/ziglang/zig</link>
-    <description>Moved to Codeberg</description>
-  </item>
-  <item>
     <title>neurocyte / flow</title>
     <link>https://github.com/neurocyte/flow</link>
     <description>Flow Control: a programmer&#x27;s text editor</description>
+  </item>
+  <item>
+    <title>roc-lang / roc</title>
+    <link>https://github.com/roc-lang/roc</link>
+    <description>A fast, friendly, functional language.</description>
+  </item>
+  <item>
+    <title>neurosnap / zmx</title>
+    <link>https://github.com/neurosnap/zmx</link>
+    <description>Session attach/detach for the terminal</description>
   </item>
   <item>
     <title>kristoff-it / zine</title>
@@ -76,9 +81,19 @@
     <description>Fast, Scalable, Flexible Static Site Generator (SSG)</description>
   </item>
   <item>
-    <title>roc-lang / roc</title>
-    <link>https://github.com/roc-lang/roc</link>
-    <description>A fast, friendly, functional language.</description>
+    <title>nullclaw / nullclaw</title>
+    <link>https://github.com/nullclaw/nullclaw</link>
+    <description>Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig</description>
+  </item>
+  <item>
+    <title>tonybanters / oxwm</title>
+    <link>https://github.com/tonybanters/oxwm</link>
+    <description></description>
+  </item>
+  <item>
+    <title>PixelGuys / Cubyz</title>
+    <link>https://github.com/PixelGuys/Cubyz</link>
+    <description>Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.</description>
   </item>
 </channel>
 </rss>

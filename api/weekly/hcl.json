@@ -2,27 +2,17 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2091,
-      "forks": 1260,
-      "added_stars": "1 star this week"
-    },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5003,
+      "stars": 5004,
       "forks": 4409,
-      "added_stars": "5 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -31,48 +21,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1280,
-      "forks": 1286,
+      "forks": 1285,
       "added_stars": "3 stars this week"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1249,
-      "forks": 584,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault",
-      "description": "Terraform Azure Verified Resource Module for Key Vault",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 49,
-      "forks": 60,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "Azure / terraform-azurerm-naming",
-      "url": "https://github.com/Azure/terraform-azurerm-naming",
-      "description": "",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 274,
-      "forks": 146,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
-      "description": "Terraform Azure Verified Resource Module for Storage Account",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 39,
-      "forks": 80,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -82,7 +32,17 @@
       "languageColor": "#844FBA",
       "stars": 585,
       "forks": 3810,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3260,
+      "forks": 4626,
+      "added_stars": "1 star this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -95,14 +55,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-vpc",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
-      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3260,
-      "forks": 4626,
-      "added_stars": "2 stars this week"
+      "stars": 502,
+      "forks": 1279,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-project-factory",
@@ -110,28 +70,8 @@
       "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 962,
-      "forks": 591,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1278,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "hashicorp / terraform-cidr-subnets",
-      "url": "https://github.com/hashicorp/terraform-cidr-subnets",
-      "description": "A Terraform module for calculating subnet IP address prefixes",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 80,
-      "forks": 40,
+      "stars": 963,
+      "forks": 592,
       "added_stars": "0 stars this week"
     }
   ]

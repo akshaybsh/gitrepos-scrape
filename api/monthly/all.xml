@@ -4,7 +4,7 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>cathrynlavery / diagram-design</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
@@ -16,9 +16,14 @@
     <description>Beautiful, Modern &amp; Opinionated Linux</description>
   </item>
   <item>
-    <title>semantica-agi / semantica</title>
-    <link>https://github.com/semantica-agi/semantica</link>
-    <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
+    <title>cursor / plugins</title>
+    <link>https://github.com/cursor/plugins</link>
+    <description>Cursor plugin specification and official plugins</description>
+  </item>
+  <item>
+    <title>tt-a1i / archify</title>
+    <link>https://github.com/tt-a1i/archify</link>
+    <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
   </item>
   <item>
     <title>anthropics / claude-plugins-community</title>
@@ -26,9 +31,9 @@
     <description>Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.</description>
   </item>
   <item>
-    <title>tt-a1i / archify</title>
-    <link>https://github.com/tt-a1i/archify</link>
-    <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
+    <title>semantica-agi / semantica</title>
+    <link>https://github.com/semantica-agi/semantica</link>
+    <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
   </item>
   <item>
     <title>AprilNEA / OpenLogi</title>
@@ -56,11 +61,6 @@
     <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
   </item>
   <item>
-    <title>youssofal / MTPLX</title>
-    <link>https://github.com/youssofal/MTPLX</link>
-    <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
-  </item>
-  <item>
     <title>cactus-compute / needle</title>
     <link>https://github.com/cactus-compute/needle</link>
     <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
@@ -76,19 +76,9 @@
     <description>The Modular Platform (includes MAX &amp; Mojo)</description>
   </item>
   <item>
-    <title>PrimeIntellect-ai / prime-agent</title>
-    <link>https://github.com/PrimeIntellect-ai/prime-agent</link>
-    <description>A self-improving RLM agent for coding workflows and long-running autonomous tasks.</description>
-  </item>
-  <item>
-    <title>apache / maka</title>
-    <link>https://github.com/apache/maka</link>
-    <description>Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.</description>
-  </item>
-  <item>
-    <title>3b1b / manim</title>
-    <link>https://github.com/3b1b/manim</link>
-    <description>Animation engine for explanatory math videos</description>
+    <title>akitaonrails / ai-memory</title>
+    <link>https://github.com/akitaonrails/ai-memory</link>
+    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>debpalash / VoiceStudio</title>
@@ -96,9 +86,19 @@
     <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
   </item>
   <item>
+    <title>apache / maka</title>
+    <link>https://github.com/apache/maka</link>
+    <description>Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.</description>
+  </item>
+  <item>
     <title>public-apis / public-apis</title>
     <link>https://github.com/public-apis/public-apis</link>
     <description>A collective list of free APIs</description>
+  </item>
+  <item>
+    <title>3b1b / manim</title>
+    <link>https://github.com/3b1b/manim</link>
+    <description>Animation engine for explanatory math videos</description>
   </item>
   <item>
     <title>Lakr233 / vphone-cli</title>
@@ -106,14 +106,19 @@
     <description></description>
   </item>
   <item>
-    <title>vitali87 / code-graph-rag</title>
-    <link>https://github.com/vitali87/code-graph-rag</link>
-    <description>The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs</description>
-  </item>
-  <item>
     <title>megadose / holehe</title>
     <link>https://github.com/megadose/holehe</link>
     <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
+  </item>
+  <item>
+    <title>MiaAI-Lab / DeepSeek-v4-Flash-DSpark-2x-DGX-Spark</title>
+    <link>https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark</link>
+    <description>DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks</description>
+  </item>
+  <item>
+    <title>unslothai / unsloth</title>
+    <link>https://github.com/unslothai/unsloth</link>
+    <description>Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.</description>
   </item>
 </channel>
 </rss>

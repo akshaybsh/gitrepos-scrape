@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:55:22 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
   "items": [
     {
       "title": "apache / apisix",
@@ -10,9 +10,9 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 17093,
-      "forks": 2939,
-      "added_stars": "150 stars this month"
+      "stars": 17099,
+      "forks": 2940,
+      "added_stars": "153 stars this month"
     },
     {
       "title": "LazyVim / LazyVim",
@@ -20,9 +20,9 @@
       "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27417,
+      "stars": 27429,
       "forks": 1822,
-      "added_stars": "366 stars this month"
+      "added_stars": "377 stars this month"
     },
     {
       "title": "koreader / koreader",
@@ -30,9 +30,19 @@
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 29560,
-      "forks": 1901,
+      "stars": 29587,
+      "forks": 1902,
       "added_stars": "801 stars this month"
+    },
+    {
+      "title": "Kong / kong",
+      "url": "https://github.com/Kong/kong",
+      "description": "🦍 The API and AI Gateway",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 44108,
+      "forks": 5209,
+      "added_stars": "190 stars this month"
     },
     {
       "title": "iDvel / rime-ice",
@@ -40,9 +50,9 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 19231,
-      "forks": 1175,
-      "added_stars": "579 stars this month"
+      "stars": 19257,
+      "forks": 1177,
+      "added_stars": "590 stars this month"
     },
     {
       "title": "neovim / nvim-lspconfig",
@@ -50,9 +60,19 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13934,
-      "forks": 2491,
+      "stars": 13938,
+      "forks": 2493,
       "added_stars": "129 stars this month"
+    },
+    {
+      "title": "EllesmereGaming / EllesmereUI",
+      "url": "https://github.com/EllesmereGaming/EllesmereUI",
+      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 202,
+      "forks": 229,
+      "added_stars": "55 stars this month"
     },
     {
       "title": "folke / lazy.nvim",
@@ -60,9 +80,9 @@
       "description": "💤 A modern plugin manager for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 21536,
+      "stars": 21538,
       "forks": 590,
-      "added_stars": "201 stars this month"
+      "added_stars": "205 stars this month"
     },
     {
       "title": "AndyHazz / bookshelf.koplugin",
@@ -70,9 +90,9 @@
       "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 773,
-      "forks": 29,
-      "added_stars": "244 stars this month"
+      "stars": 786,
+      "forks": 30,
+      "added_stars": "253 stars this month"
     },
     {
       "title": "nvim-lua / kickstart.nvim",
@@ -80,9 +100,9 @@
       "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 31425,
-      "forks": 46618,
-      "added_stars": "281 stars this month"
+      "stars": 31430,
+      "forks": 46605,
+      "added_stars": "279 stars this month"
     },
     {
       "title": "xmake-io / xmake",
@@ -90,9 +110,9 @@
       "description": "🔥 A cross-platform build utility based on Lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 12203,
+      "stars": 12204,
       "forks": 950,
-      "added_stars": "85 stars this month"
+      "added_stars": "82 stars this month"
     },
     {
       "title": "opentibiabr / canary",
@@ -101,57 +121,7 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": 642,
-      "forks": 894,
-      "added_stars": "21 stars this month"
-    },
-    {
-      "title": "Kong / kong",
-      "url": "https://github.com/Kong/kong",
-      "description": "🦍 The API and AI Gateway",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 44098,
-      "forks": 5210,
-      "added_stars": "185 stars this month"
-    },
-    {
-      "title": "beyond-all-reason / Beyond-All-Reason",
-      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-      "description": "Main game repository for Beyond All Reason.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4200,
-      "forks": 663,
-      "added_stars": "66 stars this month"
-    },
-    {
-      "title": "stevearc / conform.nvim",
-      "url": "https://github.com/stevearc/conform.nvim",
-      "description": "Lightweight yet powerful formatter plugin for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 5332,
-      "forks": 310,
-      "added_stars": "48 stars this month"
-    },
-    {
-      "title": "EllesmereGaming / EllesmereUI",
-      "url": "https://github.com/EllesmereGaming/EllesmereUI",
-      "description": "EllesmereUI combines the most intuitive UI editor in WoW with extreme performance optimization and endless customization. Bring your UI to life like never before.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 201,
-      "forks": 227,
-      "added_stars": "55 stars this month"
-    },
-    {
-      "title": "PortsMaster / PortMaster-New",
-      "url": "https://github.com/PortsMaster/PortMaster-New",
-      "description": "New PortMaster repo",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 358,
-      "forks": 238,
+      "forks": 893,
       "added_stars": "20 stars this month"
     },
     {
@@ -160,9 +130,39 @@
       "description": "KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 443,
-      "forks": 17,
-      "added_stars": "91 stars this month"
+      "stars": 448,
+      "forks": 18,
+      "added_stars": "94 stars this month"
+    },
+    {
+      "title": "stevearc / conform.nvim",
+      "url": "https://github.com/stevearc/conform.nvim",
+      "description": "Lightweight yet powerful formatter plugin for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5335,
+      "forks": 310,
+      "added_stars": "50 stars this month"
+    },
+    {
+      "title": "PortsMaster / PortMaster-New",
+      "url": "https://github.com/PortsMaster/PortMaster-New",
+      "description": "New PortMaster repo",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 358,
+      "forks": 239,
+      "added_stars": "21 stars this month"
+    },
+    {
+      "title": "beyond-all-reason / Beyond-All-Reason",
+      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+      "description": "Main game repository for Beyond All Reason.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 4200,
+      "forks": 666,
+      "added_stars": "65 stars this month"
     },
     {
       "title": "LuaLS / lua-language-server",
@@ -172,7 +172,7 @@
       "languageColor": "#000080",
       "stars": 4365,
       "forks": 440,
-      "added_stars": "42 stars this month"
+      "added_stars": "41 stars this month"
     }
   ]
 }

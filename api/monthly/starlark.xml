@@ -4,21 +4,21 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
     <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
-    <title>bazelbuild / bazel-central-registry</title>
-    <link>https://github.com/bazelbuild/bazel-central-registry</link>
-    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
-  </item>
-  <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
     <description>Public interface definitions of Google APIs.</description>
+  </item>
+  <item>
+    <title>bazelbuild / bazel-central-registry</title>
+    <link>https://github.com/bazelbuild/bazel-central-registry</link>
+    <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
   </item>
   <item>
     <title>cel-expr / cel-spec</title>
@@ -61,14 +61,14 @@
     <description>Bazel rules for Kotlin</description>
   </item>
   <item>
-    <title>tidbyt / community</title>
-    <link>https://github.com/tidbyt/community</link>
-    <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_cc</title>
     <link>https://github.com/bazelbuild/rules_cc</link>
     <description>C++ Rules for Bazel</description>
+  </item>
+  <item>
+    <title>tidbyt / community</title>
+    <link>https://github.com/tidbyt/community</link>
+    <description>A publishing platform for apps developed by the Tidbyt community 🚀</description>
   </item>
   <item>
     <title>googleapis / api-common-protos</title>
@@ -84,6 +84,16 @@
     <title>aspect-build / rules_py</title>
     <link>https://github.com/aspect-build/rules_py</link>
     <description>More compatible Bazel rules for running Python tools and building Python projects</description>
+  </item>
+  <item>
+    <title>cgrindel / rules_swift_package_manager</title>
+    <link>https://github.com/cgrindel/rules_swift_package_manager</link>
+    <description>Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.</description>
+  </item>
+  <item>
+    <title>openconfig / gnoi</title>
+    <link>https://github.com/openconfig/gnoi</link>
+    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
 </channel>
 </rss>

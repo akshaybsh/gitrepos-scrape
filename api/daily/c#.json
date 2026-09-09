@@ -2,66 +2,156 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
+    {
+      "title": "armory3d / armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4172,
+      "forks": 495,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "doldecomp / melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1881,
+      "forks": 251,
+      "added_stars": "611 stars today"
+    },
+    {
+      "title": "Mbed-TLS / mbedtls",
+      "url": "https://github.com/Mbed-TLS/mbedtls",
+      "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6952,
+      "forks": 2966,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "maxsteeel / nomount",
+      "url": "https://github.com/maxsteeel/nomount",
+      "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 242,
+      "forks": 58,
+      "added_stars": "4 stars today"
+    },
     {
       "title": "meshcore-dev / MeshCore",
       "url": "https://github.com/meshcore-dev/MeshCore",
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3627,
-      "forks": 1305,
-      "added_stars": "11 stars today"
+      "stars": 3633,
+      "forks": 1309,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+      "title": "Sor3nt / Flipper-Zero-ESP32-Port",
+      "url": "https://github.com/Sor3nt/Flipper-Zero-ESP32-Port",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 75946,
-      "forks": 10075,
-      "added_stars": "37 stars today"
+      "stars": 444,
+      "forks": 98,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "dayanch96 / YTMusicUltimate",
+      "url": "https://github.com/dayanch96/YTMusicUltimate",
+      "description": "The best tweak for YouTube Music iOS.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63061,
-      "forks": 28377,
-      "added_stars": "30 stars today"
+      "stars": 2553,
+      "forks": 9912,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "ClusterM / wg-obfuscator",
-      "url": "https://github.com/ClusterM/wg-obfuscator",
-      "description": "WireGuard Obfuscator - simple obfuscator for WireGuard. Useful if your ISP/government blocks WireGuard traffic.",
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 976,
-      "forks": 60,
-      "added_stars": "32 stars today"
+      "stars": 5338,
+      "forks": 825,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "lcdyk0517 / arkos4clone",
-      "url": "https://github.com/lcdyk0517/arkos4clone",
-      "description": "Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.",
+      "title": "kingToolbox / WindTerm",
+      "url": "https://github.com/kingToolbox/WindTerm",
+      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 679,
-      "forks": 410,
+      "stars": 32199,
+      "forks": 2453,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "RT-Thread / rt-thread",
+      "url": "https://github.com/RT-Thread/rt-thread",
+      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12204,
+      "forks": 5453,
       "added_stars": "6 stars today"
     },
     {
-      "title": "moonlight-stream / moonlight-android",
-      "url": "https://github.com/moonlight-stream/moonlight-android",
-      "description": "GameStream client for Android",
+      "title": "tianocore / edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7077,
-      "forks": 1488,
+      "stars": 6235,
+      "forks": 3261,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 42714,
+      "forks": 3480,
+      "added_stars": "107 stars today"
+    },
+    {
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27154,
+      "forks": 2976,
+      "added_stars": "66 stars today"
+    },
+    {
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22953,
+      "forks": 1314,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "openwall / john",
+      "url": "https://github.com/openwall/john",
+      "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13611,
+      "forks": 2551,
       "added_stars": "4 stars today"
     },
     {
@@ -70,19 +160,19 @@
       "description": "Ultralightweight JSON parser in ANSI C",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12981,
-      "forks": 3519,
-      "added_stars": "3 stars today"
+      "stars": 12982,
+      "forks": 3520,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "HandBrake / HandBrake",
-      "url": "https://github.com/HandBrake/HandBrake",
-      "description": "HandBrake's development repository",
+      "title": "asterisk / asterisk",
+      "url": "https://github.com/asterisk/asterisk",
+      "description": "The official Asterisk Project repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24309,
-      "forks": 1693,
-      "added_stars": "12 stars today"
+      "stars": 3517,
+      "forks": 1305,
+      "added_stars": "3 stars today"
     },
     {
       "title": "bol-van / zapret2",
@@ -90,109 +180,9 @@
       "description": "anti-dpi software",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5411,
+      "stars": 5414,
       "forks": 236,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "86Box / 86Box",
-      "url": "https://github.com/86Box/86Box",
-      "description": "Emulator of x86-based machines.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4776,
-      "forks": 587,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "flightlessmango / MangoHud",
-      "url": "https://github.com/flightlessmango/MangoHud",
-      "description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 9010,
-      "forks": 426,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "ish-app / ish",
-      "url": "https://github.com/ish-app/ish",
-      "description": "Linux shell for iOS",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 20428,
-      "forks": 1513,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "screetsec / TheFatRat",
-      "url": "https://github.com/screetsec/TheFatRat",
-      "description": "Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then the compiled malware can be execute on windows, android, mac . The malware that created with this tool also have an ability to bypass most AV softw…",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11466,
-      "forks": 2536,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "maxsteeel / nomount",
-      "url": "https://github.com/maxsteeel/nomount",
-      "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 240,
-      "forks": 58,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "mpv-player / mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 36895,
-      "forks": 3512,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "openzfs / zfs",
-      "url": "https://github.com/openzfs/zfs",
-      "description": "OpenZFS on Linux and FreeBSD",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12450,
-      "forks": 2036,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "betaflight / betaflight",
-      "url": "https://github.com/betaflight/betaflight",
-      "description": "Open Source Flight Controller Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11512,
-      "forks": 4023,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "immortalwrt / immortalwrt",
-      "url": "https://github.com/immortalwrt/immortalwrt",
-      "description": "An opensource OpenWrt variant for mainland China users.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11565,
-      "forks": 3891,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "arendst / Tasmota",
-      "url": "https://github.com/arendst/Tasmota",
-      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 24741,
-      "forks": 5173,
-      "added_stars": "4 stars today"
+      "added_stars": "9 stars today"
     }
   ]
 }

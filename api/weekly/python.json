@@ -2,67 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
-      "title": "google-research / timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31886,
-      "forks": 3048,
-      "added_stars": "3,506 stars this week"
-    },
-    {
-      "title": "jingyaogong / minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 59654,
-      "forks": 7728,
-      "added_stars": "3,633 stars this week"
-    },
-    {
-      "title": "pollen-robotics / microduck_rl",
-      "url": "https://github.com/pollen-robotics/microduck_rl",
-      "description": "RL training environments for Microduck (mjlab)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1920,
-      "forks": 384,
-      "added_stars": "828 stars this week"
-    },
-    {
-      "title": "debpalash / VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 20882,
-      "forks": 2601,
-      "added_stars": "7,916 stars this week"
-    },
-    {
-      "title": "handsomestWei / patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "description": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 8607,
-      "forks": 903,
-      "added_stars": "2,227 stars this week"
-    },
-    {
-      "title": "zubair-trabzada / geo-seo-claude",
-      "url": "https://github.com/zubair-trabzada/geo-seo-claude",
-      "description": "GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports. If you want learn how to sell this to real businesses, check out the skool community",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10443,
-      "forks": 1582,
-      "added_stars": "428 stars this week"
+      "stars": 45584,
+      "forks": 3750,
+      "added_stars": "5,790 stars this week"
     },
     {
       "title": "Imbad0202 / academic-research-skills",
@@ -70,119 +20,59 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 46884,
-      "forks": 3667,
-      "added_stars": "2,406 stars this week"
+      "stars": 47132,
+      "forks": 3689,
+      "added_stars": "2,430 stars this week"
     },
     {
-      "title": "roboflow / rf-detr",
-      "url": "https://github.com/roboflow/rf-detr",
-      "description": "RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO, designed for fine-tuning. [ICLR 2026]",
+      "title": "NousResearch / hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9386,
-      "forks": 1186,
-      "added_stars": "235 stars this week"
+      "stars": 243568,
+      "forks": 50235,
+      "added_stars": "4,221 stars this week"
     },
     {
-      "title": "k2-fsa / OmniVoice",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "title": "openai / skills",
+      "url": "https://github.com/openai/skills",
+      "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10522,
-      "forks": 1667,
-      "added_stars": "788 stars this week"
+      "stars": 26653,
+      "forks": 1788,
+      "added_stars": "1,005 stars this week"
     },
     {
-      "title": "MakazhanAlpamys / Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "title": "google-research / timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5745,
-      "forks": 868,
-      "added_stars": "1,560 stars this week"
+      "stars": 32059,
+      "forks": 3063,
+      "added_stars": "3,365 stars this week"
     },
     {
-      "title": "K-Dense-AI / scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43690,
-      "forks": 3977,
-      "added_stars": "3,160 stars this week"
+      "stars": 21508,
+      "forks": 2660,
+      "added_stars": "7,818 stars this week"
     },
     {
-      "title": "ahujasid / blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice",
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27646,
-      "forks": 2562,
-      "added_stars": "971 stars this week"
-    },
-    {
-      "title": "abi / screenshot-to-code",
-      "url": "https://github.com/abi/screenshot-to-code",
-      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 78214,
-      "forks": 9510,
-      "added_stars": "1,542 stars this week"
-    },
-    {
-      "title": "NVIDIA / SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 16583,
-      "forks": 1413,
-      "added_stars": "1,130 stars this week"
-    },
-    {
-      "title": "3b1b / manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 93441,
-      "forks": 7675,
-      "added_stars": "1,083 stars this week"
-    },
-    {
-      "title": "p-e-w / heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 30863,
-      "forks": 3426,
-      "added_stars": "1,346 stars this week"
-    },
-    {
-      "title": "browser-use / video-use",
-      "url": "https://github.com/browser-use/video-use",
-      "description": "Edit videos with coding agents",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 24378,
-      "forks": 2964,
-      "added_stars": "2,148 stars this week"
-    },
-    {
-      "title": "dgtlmoon / changedetection.io",
-      "url": "https://github.com/dgtlmoon/changedetection.io",
-      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 33707,
-      "forks": 2016,
-      "added_stars": "276 stars this week"
+      "stars": 60079,
+      "forks": 7783,
+      "added_stars": "3,037 stars this week"
     },
     {
       "title": "sngyai / Sequoia-X",
@@ -190,9 +80,9 @@
       "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6884,
-      "forks": 1385,
-      "added_stars": "1,209 stars this week"
+      "stars": 6960,
+      "forks": 1406,
+      "added_stars": "1,093 stars this week"
     },
     {
       "title": "bikini / exploitarium",
@@ -200,9 +90,109 @@
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4971,
-      "forks": 1285,
-      "added_stars": "635 stars this week"
+      "stars": 5056,
+      "forks": 1303,
+      "added_stars": "769 stars this week"
+    },
+    {
+      "title": "The-Swarm-Corporation / AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5828,
+      "forks": 846,
+      "added_stars": "1,243 stars this week"
+    },
+    {
+      "title": "abi / screenshot-to-code",
+      "url": "https://github.com/abi/screenshot-to-code",
+      "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 78346,
+      "forks": 9525,
+      "added_stars": "1,420 stars this week"
+    },
+    {
+      "title": "ahujasid / blender-mcp",
+      "url": "https://github.com/ahujasid/blender-mcp",
+      "description": "Community plugin to control Blender 3D with any LLM of your choice",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 27823,
+      "forks": 2579,
+      "added_stars": "1,122 stars this week"
+    },
+    {
+      "title": "eriklindernoren / ML-From-Scratch",
+      "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+      "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32768,
+      "forks": 5485,
+      "added_stars": "205 stars this week"
+    },
+    {
+      "title": "k2-fsa / OmniVoice",
+      "url": "https://github.com/k2-fsa/OmniVoice",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10795,
+      "forks": 1693,
+      "added_stars": "1,041 stars this week"
+    },
+    {
+      "title": "datawhalechina / hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 77875,
+      "forks": 9683,
+      "added_stars": "1,778 stars this week"
+    },
+    {
+      "title": "p-e-w / heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 30969,
+      "forks": 3450,
+      "added_stars": "986 stars this week"
+    },
+    {
+      "title": "K-Dense-AI / scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 43951,
+      "forks": 3993,
+      "added_stars": "2,536 stars this week"
+    },
+    {
+      "title": "MakazhanAlpamys / Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5848,
+      "forks": 884,
+      "added_stars": "1,398 stars this week"
+    },
+    {
+      "title": "sgl-project / sglang",
+      "url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 35671,
+      "forks": 8682,
+      "added_stars": "2,628 stars this week"
     }
   ]
 }

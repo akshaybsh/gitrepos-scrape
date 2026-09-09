@@ -2,37 +2,17 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
-    {
-      "title": "hi-godot / godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2233,
-      "forks": 136,
-      "added_stars": "172 stars this week"
-    },
     {
       "title": "godotengine / godot-demo-projects",
       "url": "https://github.com/godotengine/godot-demo-projects",
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9489,
+      "stars": 9491,
       "forks": 2230,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "Orama-Interactive / Pixelorama",
-      "url": "https://github.com/Orama-Interactive/Pixelorama",
-      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 10260,
-      "forks": 545,
-      "added_stars": "47 stars this week"
+      "added_stars": "49 stars this week"
     },
     {
       "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
@@ -40,9 +20,29 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 3104,
-      "forks": 305,
-      "added_stars": "44 stars this week"
+      "stars": 3109,
+      "forks": 306,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "Orama-Interactive / Pixelorama",
+      "url": "https://github.com/Orama-Interactive/Pixelorama",
+      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 10267,
+      "forks": 545,
+      "added_stars": "47 stars this week"
+    },
+    {
+      "title": "hi-godot / godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2257,
+      "forks": 139,
+      "added_stars": "179 stars this week"
     },
     {
       "title": "pablogila / TileMapDual",
@@ -50,9 +50,9 @@
       "description": "An automatic, real-time dual-grid tileset system for Godot",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1215,
+      "stars": 1220,
       "forks": 57,
-      "added_stars": "24 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -60,9 +60,49 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5989,
+      "stars": 5991,
       "forks": 348,
-      "added_stars": "25 stars this week"
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "RodZill4 / material-maker",
+      "url": "https://github.com/RodZill4/material-maker",
+      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 5898,
+      "forks": 370,
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "MewPurPur / GodSVG",
+      "url": "https://github.com/MewPurPur/GodSVG",
+      "description": "A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2736,
+      "forks": 123,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "Maaack / Godot-Game-Template",
+      "url": "https://github.com/Maaack/Godot-Game-Template",
+      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1632,
+      "forks": 106,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "dee-dee-catorce / desksaw",
+      "url": "https://github.com/dee-dee-catorce/desksaw",
+      "description": "An interactable desktop pet based on the Expie from Casualties Unknown, a neat little game by Orsoniks/Moffee.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 188,
+      "forks": 24,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "gdquest-demos / godot-open-rpg",
@@ -71,18 +111,18 @@
       "language": "GDScript",
       "languageColor": "#355570",
       "stars": 2967,
-      "forks": 358,
-      "added_stars": "13 stars this week"
+      "forks": 359,
+      "added_stars": "12 stars this week"
     },
     {
-      "title": "MewPurPur / GodSVG",
-      "url": "https://github.com/MewPurPur/GodSVG",
-      "description": "A vector graphics application for structured SVG editing, available on all major desktop platforms and on web. Currently in late alpha.",
+      "title": "Techokami / SonicWorldsNext",
+      "url": "https://github.com/Techokami/SonicWorldsNext",
+      "description": "Official development repository for the successor to Sonic Worlds Delta",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2735,
-      "forks": 123,
-      "added_stars": "18 stars this week"
+      "stars": 187,
+      "forks": 48,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Open-Industry-Project / Open-Industry-Project",
@@ -90,7 +130,7 @@
       "description": "Free and Open-source warehouse/manufacturing development framework and simulator",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 811,
+      "stars": 812,
       "forks": 114,
       "added_stars": "5 stars this week"
     }

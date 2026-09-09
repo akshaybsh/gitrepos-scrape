@@ -2,17 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1238,
+      "forks": 462,
+      "added_stars": "4 stars today"
+    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9026,
-      "forks": 967,
-      "added_stars": "12 stars today"
+      "stars": 9055,
+      "forks": 968,
+      "added_stars": "23 stars today"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,9 +30,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4055,
-      "forks": 1660,
-      "added_stars": "8 stars today"
+      "stars": 4069,
+      "forks": 1665,
+      "added_stars": "13 stars today"
     },
     {
       "title": "leanprover / cslib",
@@ -30,19 +40,9 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 693,
-      "forks": 193,
+      "stars": 695,
+      "forks": 194,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "ImperialCollegeLondon / FLT",
-      "url": "https://github.com/ImperialCollegeLondon/FLT",
-      "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1019,
-      "forks": 167,
-      "added_stars": "1 star today"
     },
     {
       "title": "leanprover / comparator",
@@ -50,18 +50,18 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 190,
-      "forks": 30,
-      "added_stars": "3 stars today"
+      "stars": 192,
+      "forks": 32,
+      "added_stars": "1 star today"
     },
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "ImperialCollegeLondon / FLT",
+      "url": "https://github.com/ImperialCollegeLondon/FLT",
+      "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1233,
-      "forks": 457,
+      "stars": 1021,
+      "forks": 167,
       "added_stars": "2 stars today"
     }
   ]

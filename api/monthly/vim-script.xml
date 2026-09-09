@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
@@ -19,6 +19,11 @@
     <title>morhetz / gruvbox</title>
     <link>https://github.com/morhetz/gruvbox</link>
     <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
     <title>junegunn / vim-plug</title>
@@ -36,19 +41,9 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>voldikss / vim-floaterm</title>
-    <link>https://github.com/voldikss/vim-floaterm</link>
-    <description>💻 Terminal manager for (neo)vim</description>
-  </item>
-  <item>
     <title>dense-analysis / ale</title>
     <link>https://github.com/dense-analysis/ale</link>
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
-  </item>
-  <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
     <title>github / copilot.vim</title>
@@ -66,19 +61,14 @@
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
   </item>
   <item>
-    <title>ggml-org / llama.vim</title>
-    <link>https://github.com/ggml-org/llama.vim</link>
-    <description>Vim plugin for LLM-assisted code/text completion</description>
-  </item>
-  <item>
     <title>dracula / vim</title>
     <link>https://github.com/dracula/vim</link>
     <description>🧛🏻‍♂️ Dark theme for Vim</description>
   </item>
   <item>
-    <title>tpope / vim-unimpaired</title>
-    <link>https://github.com/tpope/vim-unimpaired</link>
-    <description>unimpaired.vim: Pairs of handy bracket mappings</description>
+    <title>vim-syntastic / syntastic</title>
+    <link>https://github.com/vim-syntastic/syntastic</link>
+    <description>Syntax checking hacks for vim</description>
   </item>
 </channel>
 </rss>

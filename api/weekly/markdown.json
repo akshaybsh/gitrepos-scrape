@@ -2,7 +2,7 @@
   "title": "GitHub Markdown Languages Daily Trending",
   "description": "Daily Trending of Markdown Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
       "title": "jaywcjlove / linux-command",
@@ -10,9 +10,9 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 36864,
-      "forks": 6599,
-      "added_stars": "154 stars this week"
+      "stars": 36875,
+      "forks": 6598,
+      "added_stars": "144 stars this week"
     },
     {
       "title": "ellisonleao / magictools",
@@ -20,39 +20,9 @@
       "description": "🎮 📝 A list of Game Development resources to make magic happen.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 17264,
+      "stars": 17268,
       "forks": 1229,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "tldr-pages / tldr",
-      "url": "https://github.com/tldr-pages/tldr",
-      "description": "Collaborative cheatsheets for console commands 📚.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 63613,
-      "forks": 5405,
-      "added_stars": "78 stars this week"
-    },
-    {
-      "title": "mdn / content",
-      "url": "https://github.com/mdn/content",
-      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 10973,
-      "forks": 23232,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "microsoft / vscode-docs",
-      "url": "https://github.com/microsoft/vscode-docs",
-      "description": "Public documentation for Visual Studio Code",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 6619,
-      "forks": 5743,
-      "added_stars": "14 stars this week"
+      "added_stars": "39 stars this week"
     },
     {
       "title": "mdn / translated-content",
@@ -60,39 +30,19 @@
       "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 2028,
-      "forks": 8303,
-      "added_stars": "5 stars this week"
+      "stars": 2029,
+      "forks": 8304,
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "OAI / OpenAPI-Specification",
-      "url": "https://github.com/OAI/OpenAPI-Specification",
-      "description": "The OpenAPI Specification Repository",
+      "title": "tldr-pages / tldr",
+      "url": "https://github.com/tldr-pages/tldr",
+      "description": "Collaborative cheatsheets for console commands 📚.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 31207,
-      "forks": 9161,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "adr / madr",
-      "url": "https://github.com/adr/madr",
-      "description": "Markdown Architectural Decision Records",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 2460,
-      "forks": 469,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "upptime / upptime",
-      "url": "https://github.com/upptime/upptime",
-      "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 17154,
-      "forks": 1039,
-      "added_stars": "7 stars this week"
+      "stars": 63638,
+      "forks": 5403,
+      "added_stars": "91 stars this week"
     },
     {
       "title": "docker / docs",
@@ -100,9 +50,49 @@
       "description": "Source repo for Docker's Documentation",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 4646,
-      "forks": 8461,
-      "added_stars": "4 stars this week"
+      "stars": 4647,
+      "forks": 8462,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "mdn / content",
+      "url": "https://github.com/mdn/content",
+      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 10975,
+      "forks": 23234,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "microsoft / vscode-docs",
+      "url": "https://github.com/microsoft/vscode-docs",
+      "description": "Public documentation for Visual Studio Code",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 6620,
+      "forks": 5743,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "upptime / upptime",
+      "url": "https://github.com/upptime/upptime",
+      "description": "⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 17153,
+      "forks": 1040,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "adr / madr",
+      "url": "https://github.com/adr/madr",
+      "description": "Markdown Architectural Decision Records",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 2465,
+      "forks": 468,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "SAP / styleguides",
@@ -110,29 +100,19 @@
       "description": "This repository provides SAP style guides for coding and coding-related topics.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 2003,
+      "stars": 2004,
       "forks": 504,
       "added_stars": "4 stars this week"
     },
     {
-      "title": "codecrafters-io / build-your-own-x",
-      "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "title": "privacyguides / privacyguides.org",
+      "url": "https://github.com/privacyguides/privacyguides.org",
+      "description": "Protect your data against global mass surveillance programs.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 545906,
-      "forks": 51389,
-      "added_stars": "1,736 stars this week"
-    },
-    {
-      "title": "adambard / learnxinyminutes-docs",
-      "url": "https://github.com/adambard/learnxinyminutes-docs",
-      "description": "Code documentation written as code! How novel and totally my idea!",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 12342,
-      "forks": 3674,
-      "added_stars": "5 stars this week"
+      "stars": 4240,
+      "forks": 293,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "Atlas-OS / docs",
@@ -141,8 +121,38 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": 150,
-      "forks": 173,
+      "forks": 174,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "swiftlang / swift-evolution",
+      "url": "https://github.com/swiftlang/swift-evolution",
+      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 15871,
+      "forks": 2475,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "DigitalPlatDev / FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "Free domain registration and practical DNS learning resources for everyone.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 198288,
+      "forks": 4309,
+      "added_stars": "1,379 stars this week"
+    },
+    {
+      "title": "codecrafters-io / build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 546105,
+      "forks": 51396,
+      "added_stars": "1,693 stars this week"
     }
   ]
 }

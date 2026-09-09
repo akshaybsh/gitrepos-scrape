@@ -4,7 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:55:22 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
   <item>
     <title>lichess-org / lila</title>
     <link>https://github.com/lichess-org/lila</link>
@@ -36,11 +36,6 @@
     <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
-    <title>scala / scala3</title>
-    <link>https://github.com/scala/scala3</link>
-    <description>The Scala 3 compiler, also known as Dotty.</description>
-  </item>
-  <item>
     <title>NVIDIA / cudf-spark</title>
     <link>https://github.com/NVIDIA/cudf-spark</link>
     <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
@@ -56,9 +51,9 @@
     <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
-    <title>softwaremill / tapir</title>
-    <link>https://github.com/softwaremill/tapir</link>
-    <description>Rapid development of self-documenting APIs</description>
+    <title>scala / scala3</title>
+    <link>https://github.com/scala/scala3</link>
+    <description>The Scala 3 compiler, also known as Dotty.</description>
   </item>
   <item>
     <title>airbnb / chronon</title>
@@ -81,6 +76,11 @@
     <description>Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala</description>
   </item>
   <item>
+    <title>apache / kyuubi</title>
+    <link>https://github.com/apache/kyuubi</link>
+    <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
+  </item>
+  <item>
     <title>gitbucket / gitbucket</title>
     <link>https://github.com/gitbucket/gitbucket</link>
     <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
@@ -101,14 +101,19 @@
     <description>The Guardian DotCom.</description>
   </item>
   <item>
-    <title>apache / kyuubi</title>
-    <link>https://github.com/apache/kyuubi</link>
-    <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
-  </item>
-  <item>
     <title>apache / datafusion-comet</title>
     <link>https://github.com/apache/datafusion-comet</link>
     <description>Apache DataFusion Comet Spark Accelerator</description>
+  </item>
+  <item>
+    <title>zio / zio</title>
+    <link>https://github.com/zio/zio</link>
+    <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+  </item>
+  <item>
+    <title>ucb-bar / chipyard</title>
+    <link>https://github.com/ucb-bar/chipyard</link>
+    <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
   </item>
   <item>
     <title>playframework / playframework</title>
@@ -116,9 +121,9 @@
     <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
   </item>
   <item>
-    <title>ucb-bar / chipyard</title>
-    <link>https://github.com/ucb-bar/chipyard</link>
-    <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
+    <title>MightyPirates / OpenComputers</title>
+    <link>https://github.com/MightyPirates/OpenComputers</link>
+    <description>Home of the OpenComputers mod for Minecraft.</description>
   </item>
   <item>
     <title>riscv-boom / riscv-boom</title>

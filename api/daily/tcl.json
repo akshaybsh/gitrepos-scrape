@@ -2,7 +2,7 @@
   "title": "GitHub Tcl Languages Daily Trending",
   "description": "Daily Trending of Tcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
     {
       "title": "macports / macports-ports",
@@ -10,8 +10,18 @@
       "description": "The MacPorts ports tree",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": 1827,
+      "stars": 1828,
       "forks": 1551,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Digilent / digilent-xdc",
+      "url": "https://github.com/Digilent/digilent-xdc",
+      "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 703,
+      "forks": 583,
       "added_stars": "0 stars today"
     }
   ]

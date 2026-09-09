@@ -2,16 +2,16 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
     {
-      "title": "cheat-engine / cheat-engine",
-      "url": "https://github.com/cheat-engine/cheat-engine",
-      "description": "Cheat Engine. A development environment focused on modding",
+      "title": "stascorp / rdpwrap",
+      "url": "https://github.com/stascorp/rdpwrap",
+      "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 19144,
-      "forks": 2774,
+      "stars": 16845,
+      "forks": 4053,
       "added_stars": "6 stars today"
     },
     {
@@ -20,18 +20,38 @@
       "description": "Goverlay is an easy graphical interface to configure linux gaming applications",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 1476,
+      "stars": 1477,
       "forks": 66,
-      "added_stars": "3 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "TES5Edit / TES5Edit",
-      "url": "https://github.com/TES5Edit/TES5Edit",
-      "description": "xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
+      "title": "Embarcadero / Dev-Cpp",
+      "url": "https://github.com/Embarcadero/Dev-Cpp",
+      "description": "A fast, portable, simple, and free C/C++ IDE",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 899,
-      "forks": 177,
+      "stars": 3001,
+      "forks": 324,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "FrankBijnen / ExifToolGui",
+      "url": "https://github.com/FrankBijnen/ExifToolGui",
+      "description": "A GUI for ExifTool",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 1003,
+      "forks": 50,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "doublecmd / doublecmd",
+      "url": "https://github.com/doublecmd/doublecmd",
+      "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 4485,
+      "forks": 348,
       "added_stars": "2 stars today"
     },
     {
@@ -42,57 +62,7 @@
       "languageColor": "#E3F171",
       "stars": 1264,
       "forks": 206,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "stascorp / rdpwrap",
-      "url": "https://github.com/stascorp/rdpwrap",
-      "description": "RDP Wrapper Library",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 16841,
-      "forks": 4053,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "FrankBijnen / ExifToolGui",
-      "url": "https://github.com/FrankBijnen/ExifToolGui",
-      "description": "A GUI for ExifTool",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 1002,
-      "forks": 51,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "peazip / PeaZip",
-      "url": "https://github.com/peazip/PeaZip",
-      "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 7827,
-      "forks": 401,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Embarcadero / Dev-Cpp",
-      "url": "https://github.com/Embarcadero/Dev-Cpp",
-      "description": "A fast, portable, simple, and free C/C++ IDE",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 3001,
-      "forks": 324,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "nofeletru / UsbAsp-flash",
-      "url": "https://github.com/nofeletru/UsbAsp-flash",
-      "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 1377,
-      "forks": 259,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "jrsoftware / issrc",
@@ -100,9 +70,19 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 5617,
-      "forks": 1092,
-      "added_stars": "2 stars today"
+      "stars": 5618,
+      "forks": 1091,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "HeidiSQL / HeidiSQL",
+      "url": "https://github.com/HeidiSQL/HeidiSQL",
+      "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 6238,
+      "forks": 585,
+      "added_stars": "4 stars today"
     }
   ]
 }

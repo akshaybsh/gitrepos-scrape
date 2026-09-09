@@ -2,8 +2,18 @@
   "title": "GitHub Cython Languages Daily Trending",
   "description": "Daily Trending of Cython Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:49:40 GMT",
+  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
   "items": [
+    {
+      "title": "MagicStack / uvloop",
+      "url": "https://github.com/MagicStack/uvloop",
+      "description": "Ultra fast asyncio event loop.",
+      "language": "Cython",
+      "languageColor": "#fedf5b",
+      "stars": 11897,
+      "forks": 613,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "TA-Lib / ta-lib-python",
       "url": "https://github.com/TA-Lib/ta-lib-python",
@@ -12,17 +22,17 @@
       "languageColor": "#fedf5b",
       "stars": 12238,
       "forks": 1999,
-      "added_stars": "3 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "MagicStack / uvloop",
-      "url": "https://github.com/MagicStack/uvloop",
-      "description": "Ultra fast asyncio event loop.",
+      "title": "cython / cython",
+      "url": "https://github.com/cython/cython",
+      "description": "The most widely used Python to C compiler",
       "language": "Cython",
       "languageColor": "#fedf5b",
-      "stars": 11896,
-      "forks": 612,
-      "added_stars": "1 star today"
+      "stars": 10846,
+      "forks": 1622,
+      "added_stars": "2 stars today"
     }
   ]
 }

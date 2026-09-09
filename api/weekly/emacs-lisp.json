@@ -2,37 +2,17 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1839,
-      "forks": 230,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22659,
-      "forks": 3151,
-      "added_stars": "27 stars this week"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2547,
-      "forks": 330,
-      "added_stars": "12 stars this week"
+      "stars": 5192,
+      "forks": 1404,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "karthink / gptel",
@@ -42,7 +22,37 @@
       "languageColor": "#c065db",
       "stars": 3519,
       "forks": 429,
-      "added_stars": "11 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22660,
+      "forks": 3150,
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1838,
+      "forks": 230,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2547,
+      "forks": 330,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -50,109 +60,9 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24561,
+      "stars": 24560,
       "forks": 4834,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5192,
-      "forks": 1404,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2967,
-      "forks": 2806,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "emacs-evil / evil",
-      "url": "https://github.com/emacs-evil/evil",
-      "description": "The extensible vi layer for Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3854,
-      "forks": 307,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "magit / transient",
-      "url": "https://github.com/magit/transient",
-      "description": "Transient commands",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 886,
-      "forks": 74,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "rainstormstudio / nerd-icons.el",
-      "url": "https://github.com/rainstormstudio/nerd-icons.el",
-      "description": "",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 328,
-      "forks": 48,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "tumashu / posframe",
-      "url": "https://github.com/tumashu/posframe",
-      "description": "Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 537,
-      "forks": 65,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "jrblevin / markdown-mode",
-      "url": "https://github.com/jrblevin/markdown-mode",
-      "description": "Emacs Markdown Mode",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1048,
-      "forks": 185,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "rejeep / f.el",
-      "url": "https://github.com/rejeep/f.el",
-      "description": "Modern API for working with files and directories in Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 709,
-      "forks": 73,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "bbatsov / projectile",
-      "url": "https://github.com/bbatsov/projectile",
-      "description": "Project Interaction Library for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 4236,
-      "forks": 589,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "emacs-lsp / lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5125,
-      "forks": 981,
-      "added_stars": "4 stars this week"
+      "added_stars": "7 stars this week"
     }
   ]
 }

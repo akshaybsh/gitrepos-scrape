@@ -4,11 +4,11 @@
   <title>GitHub Ocaml Languages Daily Trending</title>
   <description>Daily Trending of Ocaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 08 Sep 2026 06:49:40 GMT</pubDate>
+  <pubDate>Wed, 09 Sep 2026 06:58:31 GMT</pubDate>
   <item>
-    <title>semgrep / semgrep</title>
-    <link>https://github.com/semgrep/semgrep</link>
-    <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
+    <title>opengrep / opengrep</title>
+    <link>https://github.com/opengrep/opengrep</link>
+    <description>🔎 Static code analysis engine to find security issues in code.</description>
   </item>
   <item>
     <title>rocq-prover / rocq</title>
@@ -16,9 +16,14 @@
     <description>The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</description>
   </item>
   <item>
-    <title>oxcaml / oxcaml</title>
-    <link>https://github.com/oxcaml/oxcaml</link>
-    <description>OCaml - Oxidized!</description>
+    <title>semgrep / semgrep</title>
+    <link>https://github.com/semgrep/semgrep</link>
+    <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
+  </item>
+  <item>
+    <title>ocaml / ocaml</title>
+    <link>https://github.com/ocaml/ocaml</link>
+    <description>The core OCaml system: compilers, runtime system, base libraries</description>
   </item>
   <item>
     <title>facebook / infer</title>
@@ -26,19 +31,14 @@
     <description>A static analyzer for Java, C, C++, and Objective-C</description>
   </item>
   <item>
-    <title>janestreet / magic-trace</title>
-    <link>https://github.com/janestreet/magic-trace</link>
-    <description>magic-trace collects and displays high-resolution traces of what a process is doing</description>
+    <title>oxcaml / oxcaml</title>
+    <link>https://github.com/oxcaml/oxcaml</link>
+    <description>OCaml - Oxidized!</description>
   </item>
   <item>
-    <title>AeneasVerif / aeneas</title>
-    <link>https://github.com/AeneasVerif/aeneas</link>
-    <description>A verification toolchain for Rust programs</description>
-  </item>
-  <item>
-    <title>ocaml / ocaml</title>
-    <link>https://github.com/ocaml/ocaml</link>
-    <description>The core OCaml system: compilers, runtime system, base libraries</description>
+    <title>bcpierce00 / unison</title>
+    <link>https://github.com/bcpierce00/unison</link>
+    <description>Unison file synchronizer</description>
   </item>
 </channel>
 </rss>

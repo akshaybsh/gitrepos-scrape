@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
       "title": "brendangregg / FlameGraph",
@@ -10,9 +10,9 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19737,
-      "forks": 2111,
-      "added_stars": "24 stars this week"
+      "stars": 19738,
+      "forks": 2112,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "exiftool / exiftool",
@@ -20,9 +20,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5014,
+      "stars": 5018,
       "forks": 482,
-      "added_stars": "17 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
       "title": "Perl / perl5",
@@ -35,26 +35,6 @@
       "added_stars": "5 stars this week"
     },
     {
-      "title": "glpi-project / glpi-agent",
-      "url": "https://github.com/glpi-project/glpi-agent",
-      "description": "GLPI Agent",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 485,
-      "forks": 120,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "so-fancy / diff-so-fancy",
-      "url": "https://github.com/so-fancy/diff-so-fancy",
-      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 18090,
-      "forks": 348,
-      "added_stars": "7 stars this week"
-    },
-    {
       "title": "znuny / Znuny",
       "url": "https://github.com/znuny/Znuny",
       "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
@@ -65,12 +45,32 @@
       "added_stars": "2 stars this week"
     },
     {
+      "title": "so-fancy / diff-so-fancy",
+      "url": "https://github.com/so-fancy/diff-so-fancy",
+      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 18087,
+      "forks": 346,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "glpi-project / glpi-agent",
+      "url": "https://github.com/glpi-project/glpi-agent",
+      "description": "GLPI Agent",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 486,
+      "forks": 120,
+      "added_stars": "4 stars this week"
+    },
+    {
       "title": "oetiker / SmokePing",
       "url": "https://github.com/oetiker/SmokePing",
       "description": "The Active Monitoring System",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1962,
+      "stars": 1963,
       "forks": 216,
       "added_stars": "5 stars this week"
     },
@@ -80,9 +80,9 @@
       "description": "FusionInventory Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 268,
+      "stars": 269,
       "forks": 124,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "AlDanial / cloc",
@@ -90,29 +90,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23508,
+      "stars": 23510,
       "forks": 1125,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "Zimbra / zm-build",
-      "url": "https://github.com/Zimbra/zm-build",
-      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 245,
-      "forks": 106,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "acl-org / ACLPUB",
-      "url": "https://github.com/acl-org/ACLPUB",
-      "description": "The official tool for creating proceedings for conferences of the Association for Computational Linguistics (ACL).",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 252,
-      "forks": 306,
-      "added_stars": "0 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
       "title": "holzschu / a-shell",
@@ -120,29 +100,9 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3903,
+      "stars": 3905,
       "forks": 211,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1517,
-      "forks": 1217,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3410,
-      "forks": 379,
-      "added_stars": "9 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "szTheory / exifcleaner",
@@ -150,19 +110,19 @@
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2672,
+      "stars": 2674,
       "forks": 168,
-      "added_stars": "16 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "Difegue / LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3102,
-      "forks": 226,
-      "added_stars": "10 stars this week"
+      "stars": 3412,
+      "forks": 379,
+      "added_stars": "8 stars this week"
     }
   ]
 }

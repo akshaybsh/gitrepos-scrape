@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
     {
       "title": "ntdevlabs / tiny11builder",
@@ -10,29 +10,9 @@
       "description": "Scripts to build a trimmed-down Windows 11 image.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 19545,
+      "stars": 19550,
       "forks": 1502,
-      "added_stars": "73 stars this week"
-    },
-    {
-      "title": "ChrisTitusTech / winutil",
-      "url": "https://github.com/ChrisTitusTech/winutil",
-      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 62185,
-      "forks": 3640,
-      "added_stars": "554 stars this week"
-    },
-    {
-      "title": "microsoft / WindowsDeveloperConfig",
-      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
-      "description": "Automate the setup and configuration of your Windows development environment.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2080,
-      "forks": 160,
-      "added_stars": "127 stars this week"
+      "added_stars": "79 stars this week"
     },
     {
       "title": "mandiant / flare-vm",
@@ -40,9 +20,9 @@
       "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 9002,
-      "forks": 1108,
-      "added_stars": "26 stars this week"
+      "stars": 9011,
+      "forks": 1110,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "actions / runner-images",
@@ -50,9 +30,19 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13116,
-      "forks": 3837,
-      "added_stars": "37 stars this week"
+      "stars": 13121,
+      "forks": 3838,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "ChrisTitusTech / winutil",
+      "url": "https://github.com/ChrisTitusTech/winutil",
+      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 62252,
+      "forks": 3647,
+      "added_stars": "567 stars this week"
     },
     {
       "title": "Orange-Cyberdefense / GOAD",
@@ -60,59 +50,9 @@
       "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 8294,
-      "forks": 1134,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 11214,
-      "forks": 9085,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "cmderdev / cmder",
-      "url": "https://github.com/cmderdev/cmder",
-      "description": "Lovely console emulator package for Windows",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 27000,
-      "forks": 2073,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "ScoopInstaller / Extras",
-      "url": "https://github.com/ScoopInstaller/Extras",
-      "description": "📦 The Extras bucket for Scoop.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2151,
-      "forks": 1780,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "Raphire / Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 56829,
-      "forks": 2428,
-      "added_stars": "329 stars this week"
-    },
-    {
-      "title": "samratashok / nishang",
-      "url": "https://github.com/samratashok/nishang",
-      "description": "Nishang - Offensive PowerShell for red team, penetration testing and offensive security.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 10086,
-      "forks": 2543,
-      "added_stars": "14 stars this week"
+      "stars": 8296,
+      "forks": 1135,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "hak5 / usbrubberducky-payloads",
@@ -120,9 +60,49 @@
       "description": "The Official USB Rubber Ducky Payload Repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 5989,
+      "stars": 5992,
       "forks": 1677,
       "added_stars": "23 stars this week"
+    },
+    {
+      "title": "cmderdev / cmder",
+      "url": "https://github.com/cmderdev/cmder",
+      "description": "Lovely console emulator package for Windows",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 27002,
+      "forks": 2072,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "0Chencc / clawgod",
+      "url": "https://github.com/0Chencc/clawgod",
+      "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1995,
+      "forks": 326,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "microsoft / WindowsDeveloperConfig",
+      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
+      "description": "Automate the setup and configuration of your Windows development environment.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2096,
+      "forks": 160,
+      "added_stars": "146 stars this week"
+    },
+    {
+      "title": "microsoft / sql-server-samples",
+      "url": "https://github.com/microsoft/sql-server-samples",
+      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 11216,
+      "forks": 9086,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "zoicware / RemoveWindowsAI",
@@ -130,39 +110,19 @@
       "description": "Force Remove Copilot, Recall and More in Windows 11",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 12997,
+      "stars": 12999,
       "forks": 458,
-      "added_stars": "58 stars this week"
+      "added_stars": "54 stars this week"
     },
     {
-      "title": "leapbtw / uxplay-windows",
-      "url": "https://github.com/leapbtw/uxplay-windows",
-      "description": "FREE AirPlay to Windows PC",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 683,
-      "forks": 198,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "ScoopInstaller / Scoop",
-      "url": "https://github.com/ScoopInstaller/Scoop",
-      "description": "A command-line installer for Windows.",
+      "title": "dartraiden / NVIDIA-patcher",
+      "url": "https://github.com/dartraiden/NVIDIA-patcher",
+      "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-090 / P104-100 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, L40 ES, and RTX 5080M ES N22W-ES-A1.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 24642,
-      "forks": 1536,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "microsoft / work-iq",
-      "url": "https://github.com/microsoft/work-iq",
-      "description": "MCP Server and CLI for accessing Work IQ",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 993,
-      "forks": 124,
-      "added_stars": "14 stars this week"
+      "stars": 1584,
+      "forks": 131,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "Sycnex / Windows10Debloater",
@@ -172,17 +132,47 @@
       "languageColor": "#012456",
       "stars": 18832,
       "forks": 2060,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
-      "title": "0Chencc / clawgod",
-      "url": "https://github.com/0Chencc/clawgod",
-      "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
+      "title": "github / copilot-plugins",
+      "url": "https://github.com/github/copilot-plugins",
+      "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 1991,
-      "forks": 325,
-      "added_stars": "37 stars this week"
+      "stars": 354,
+      "forks": 118,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "ScoopInstaller / Extras",
+      "url": "https://github.com/ScoopInstaller/Extras",
+      "description": "📦 The Extras bucket for Scoop.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2151,
+      "forks": 1779,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "ScoopInstaller / Scoop",
+      "url": "https://github.com/ScoopInstaller/Scoop",
+      "description": "A command-line installer for Windows.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 24644,
+      "forks": 1535,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "Raphire / Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 56889,
+      "forks": 2433,
+      "added_stars": "330 stars this week"
     },
     {
       "title": "Romanitho / Winget-AutoUpdate",
@@ -191,8 +181,8 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": 1992,
-      "forks": 193,
-      "added_stars": "7 stars this week"
+      "forks": 192,
+      "added_stars": "6 stars this week"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 08 Sep 2026 06:53:02 GMT",
+  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
   "items": [
+    {
+      "title": "ilyamiro / serpantinum",
+      "url": "https://github.com/ilyamiro/serpantinum",
+      "description": "A shell for wayland compositors",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 6700,
+      "forks": 273,
+      "added_stars": "207 stars this week"
+    },
     {
       "title": "AvengeMedia / DankMaterialShell",
       "url": "https://github.com/AvengeMedia/DankMaterialShell",
       "description": "Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 7983,
+      "stars": 8005,
       "forks": 503,
-      "added_stars": "160 stars this week"
+      "added_stars": "170 stars this week"
     },
     {
       "title": "caelestia-dots / shell",
@@ -20,39 +30,9 @@
       "description": "A fluid, morphing shell for your Linux desktop",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 12125,
+      "stars": 12157,
       "forks": 884,
-      "added_stars": "276 stars this week"
-    },
-    {
-      "title": "ilyamiro / serpantinum",
-      "url": "https://github.com/ilyamiro/serpantinum",
-      "description": "A shell for wayland compositors",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 6681,
-      "forks": 272,
-      "added_stars": "213 stars this week"
-    },
-    {
-      "title": "end-4 / dots-hyprland",
-      "url": "https://github.com/end-4/dots-hyprland",
-      "description": "Usability-first dotfiles",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 16021,
-      "forks": 1344,
-      "added_stars": "117 stars this week"
-    },
-    {
-      "title": "ladybug-me / caelestia-dots-kde",
-      "url": "https://github.com/ladybug-me/caelestia-dots-kde",
-      "description": "caelestia-dots ported to KDE plasma 6",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 611,
-      "forks": 29,
-      "added_stars": "51 stars this week"
+      "added_stars": "283 stars this week"
     },
     {
       "title": "snowarch / iNiR",
@@ -60,9 +40,19 @@
       "description": "A Niri shell illogical-impulse based - with some modifications..",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 1590,
-      "forks": 90,
-      "added_stars": "52 stars this week"
+      "stars": 1593,
+      "forks": 89,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "end-4 / dots-hyprland",
+      "url": "https://github.com/end-4/dots-hyprland",
+      "description": "Usability-first dotfiles",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 16030,
+      "forks": 1345,
+      "added_stars": "113 stars this week"
     },
     {
       "title": "Darkkal44 / qylock",
@@ -70,9 +60,19 @@
       "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2686,
-      "forks": 108,
-      "added_stars": "64 stars this week"
+      "stars": 2690,
+      "forks": 109,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "ladybug-me / caelestia-dots-kde",
+      "url": "https://github.com/ladybug-me/caelestia-dots-kde",
+      "description": "caelestia-dots ported to KDE plasma 6",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 619,
+      "forks": 30,
+      "added_stars": "53 stars this week"
     },
     {
       "title": "pctrade / end4-pC",
@@ -80,9 +80,9 @@
       "description": "Custom end4",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 2830,
-      "forks": 156,
-      "added_stars": "301 stars this week"
+      "stars": 2848,
+      "forks": 157,
+      "added_stars": "260 stars this week"
     },
     {
       "title": "mylinuxforwork / dotfiles",
@@ -90,9 +90,9 @@
       "description": "The ML4W OS - Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland. Ready to install for Arch Linux, Fedora and openSuse.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 5013,
+      "stars": 5014,
       "forks": 376,
-      "added_stars": "31 stars this week"
+      "added_stars": "29 stars this week"
     },
     {
       "title": "victronenergy / gui-v2",
@@ -120,9 +120,19 @@
       "description": "A good looking terminal emulator which mimics the old cathode display...",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 25985,
+      "stars": 25987,
       "forks": 1006,
-      "added_stars": "23 stars this week"
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "luisbocanegra / plasma-panel-colorizer",
+      "url": "https://github.com/luisbocanegra/plasma-panel-colorizer",
+      "description": "Latte-Dock and WM status bar customization for the KDE Plasma panels",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 1190,
+      "forks": 30,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "luisbocanegra / plasma-smart-video-wallpaper-reborn",
@@ -130,19 +140,9 @@
       "description": "Plasma 6 wallpaper plugin to play videos on your Desktop/Lock Screen.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 589,
+      "stars": 590,
       "forks": 36,
       "added_stars": "6 stars this week"
-    },
-    {
-      "title": "Keyitdev / sddm-astronaut-theme",
-      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
-      "description": "Series of modern looking themes for SDDM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 3246,
-      "forks": 205,
-      "added_stars": "16 stars this week"
     }
   ]
 }
