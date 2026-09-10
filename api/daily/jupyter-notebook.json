@@ -2,67 +2,57 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
-    {
-      "title": "Lordog / dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 52688,
-      "forks": 6302,
-      "added_stars": "176 stars today"
-    },
-    {
-      "title": "jackfrued / Python-100-Days",
-      "url": "https://github.com/jackfrued/Python-100-Days",
-      "description": "Python - 100天从新手到大师",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 186177,
-      "forks": 55741,
-      "added_stars": "67 stars today"
-    },
-    {
-      "title": "patchy631 / ai-engineering-hub",
-      "url": "https://github.com/patchy631/ai-engineering-hub",
-      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 37448,
-      "forks": 6177,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "facebookresearch / segment-anything",
-      "url": "https://github.com/facebookresearch/segment-anything",
-      "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 54833,
-      "forks": 6366,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "pathwaycom / llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
-      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 58949,
-      "forks": 1488,
-      "added_stars": "13 stars today"
-    },
     {
       "title": "OpenBMB / MiniCPM",
       "url": "https://github.com/OpenBMB/MiniCPM",
       "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 10654,
-      "forks": 719,
-      "added_stars": "278 stars today"
+      "stars": 10732,
+      "forks": 726,
+      "added_stars": "106 stars today"
+    },
+    {
+      "title": "Pierian-Data / Complete-Python-3-Bootcamp",
+      "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+      "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 29761,
+      "forks": 87225,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "FareedKhan-dev / all-agentic-architectures",
+      "url": "https://github.com/FareedKhan-dev/all-agentic-architectures",
+      "description": "35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 4467,
+      "forks": 762,
+      "added_stars": "70 stars today"
+    },
+    {
+      "title": "langchain-ai / agents-from-scratch",
+      "url": "https://github.com/langchain-ai/agents-from-scratch",
+      "description": "Build an email assistant with human-in-the-loop and memory",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2209,
+      "forks": 435,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Liquid4All / cookbook",
+      "url": "https://github.com/Liquid4All/cookbook",
+      "description": "Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2465,
+      "forks": 387,
+      "added_stars": "2 stars today"
     },
     {
       "title": "anthropics / claude-cookbooks",
@@ -70,19 +60,19 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 52572,
-      "forks": 6298,
-      "added_stars": "56 stars today"
+      "stars": 52594,
+      "forks": 6302,
+      "added_stars": "35 stars today"
     },
     {
-      "title": "microsoft / generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "description": "21 Lessons, Get Started Building with Generative AI",
+      "title": "roboflow / notebooks",
+      "url": "https://github.com/roboflow/notebooks",
+      "description": "A collection of tutorials on state-of-the-art computer vision models and techniques. Explore everything from foundational architectures like ResNet to cutting-edge models like RF-DETR, YOLO11, SAM 3, and Qwen3-VL.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 119432,
-      "forks": 62884,
-      "added_stars": "60 stars today"
+      "stars": 9652,
+      "forks": 1492,
+      "added_stars": "2 stars today"
     },
     {
       "title": "ed-donner / llm_engineering",
@@ -90,79 +80,9 @@
       "description": "Repo to accompany my mastering LLM engineering course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 7329,
-      "forks": 7143,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "openai / openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "description": "Examples and guides for using the OpenAI API",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 75859,
-      "forks": 12832,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "CompVis / stable-diffusion",
-      "url": "https://github.com/CompVis/stable-diffusion",
-      "description": "A latent text-to-image diffusion model",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 73404,
-      "forks": 10577,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6131,
-      "forks": 5280,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "ageron / handson-ml3",
-      "url": "https://github.com/ageron/handson-ml3",
-      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 14097,
-      "forks": 5295,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "microsoft / AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "description": "12 Weeks, 24 Lessons, AI for All!",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 68289,
-      "forks": 13170,
-      "added_stars": "55 stars today"
-    },
-    {
-      "title": "microsoft / ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 90281,
-      "forks": 22218,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "datawhalechina / happy-llm",
-      "url": "https://github.com/datawhalechina/happy-llm",
-      "description": "📚 从零开始构建大模型",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 33617,
-      "forks": 3191,
-      "added_stars": "27 stars today"
+      "stars": 7339,
+      "forks": 7153,
+      "added_stars": "9 stars today"
     },
     {
       "title": "hugo2046 / QuantsPlaybook",
@@ -170,29 +90,109 @@
       "description": "量化研究-券商金工研报复现",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 6005,
-      "forks": 1414,
-      "added_stars": "27 stars today"
+      "stars": 6031,
+      "forks": 1419,
+      "added_stars": "29 stars today"
     },
     {
-      "title": "Infrasys-AI / AIInfra",
-      "url": "https://github.com/Infrasys-AI/AIInfra",
-      "description": "AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。",
+      "title": "ed-donner / agents",
+      "url": "https://github.com/ed-donner/agents",
+      "description": "Repo for the Complete Agentic AI Engineering Course",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 8146,
-      "forks": 1046,
-      "added_stars": "10 stars today"
+      "stars": 6139,
+      "forks": 5291,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "Lifelong-Robot-Learning / LIBERO",
-      "url": "https://github.com/Lifelong-Robot-Learning/LIBERO",
-      "description": "Benchmarking Knowledge Transfer in Lifelong Robot Learning",
+      "title": "openai / openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 2288,
-      "forks": 478,
-      "added_stars": "3 stars today"
+      "stars": 75879,
+      "forks": 12838,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "AI4Finance-Foundation / FinRL",
+      "url": "https://github.com/AI4Finance-Foundation/FinRL",
+      "description": "FinRL®: Financial Reinforcement Learning. 🔥",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 16253,
+      "forks": 3492,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "patchy631 / ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 37461,
+      "forks": 6181,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "mrdbourke / zero-to-mastery-ml",
+      "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+      "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 6980,
+      "forks": 4214,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "esokolov / ml-course-hse",
+      "url": "https://github.com/esokolov/ml-course-hse",
+      "description": "Машинное обучение на ФКН ВШЭ",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 3890,
+      "forks": 1249,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "github / codespaces-jupyter",
+      "url": "https://github.com/github/codespaces-jupyter",
+      "description": "Explore machine learning and data science with Codespaces",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 891,
+      "forks": 1705,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "facebookresearch / dinov2",
+      "url": "https://github.com/facebookresearch/dinov2",
+      "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 13317,
+      "forks": 1264,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "wesm / pydata-book",
+      "url": "https://github.com/wesm/pydata-book",
+      "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 24901,
+      "forks": 15688,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "fastai / fastbook",
+      "url": "https://github.com/fastai/fastbook",
+      "description": "The fastai book, published as Jupyter Notebooks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 25278,
+      "forks": 9475,
+      "added_stars": "6 stars today"
     }
   ]
 }

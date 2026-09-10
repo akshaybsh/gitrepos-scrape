@@ -2,47 +2,37 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
+    {
+      "title": "Anuken / Mindustry",
+      "url": "https://github.com/Anuken/Mindustry",
+      "description": "The automation tower defense RTS",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 28940,
+      "forks": 3762,
+      "added_stars": "46 stars today"
+    },
     {
       "title": "apache / fineract",
       "url": "https://github.com/apache/fineract",
       "description": "Apache Fineract",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2467,
-      "forks": 2738,
-      "added_stars": "29 stars today"
+      "stars": 2468,
+      "forks": 2747,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "648540858 / wvp-GB28181-pro",
-      "url": "https://github.com/648540858/wvp-GB28181-pro",
-      "description": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
+      "title": "kestra-io / kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7306,
-      "forks": 2085,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "agentscope-ai / agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "description": "Build distributed, production-grade, long-running agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5510,
-      "forks": 1322,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "iflytek / astron-agent",
-      "url": "https://github.com/iflytek/astron-agent",
-      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 8955,
-      "forks": 873,
-      "added_stars": "13 stars today"
+      "stars": 28067,
+      "forks": 2976,
+      "added_stars": "37 stars today"
     },
     {
       "title": "Stirling-Tools / Stirling-PDF",
@@ -50,159 +40,149 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 91575,
-      "forks": 8303,
-      "added_stars": "84 stars today"
+      "stars": 91633,
+      "forks": 8305,
+      "added_stars": "91 stars today"
     },
     {
-      "title": "Suwayomi / Suwayomi-Server",
-      "url": "https://github.com/Suwayomi/Suwayomi-Server",
-      "description": "A rewrite of Tachiyomi for the Desktop",
+      "title": "ashishps1 / awesome-system-design-resources",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7582,
-      "forks": 441,
-      "added_stars": "10 stars today"
+      "stars": 41289,
+      "forks": 8712,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "alibaba / spring-ai-alibaba",
-      "url": "https://github.com/alibaba/spring-ai-alibaba",
-      "description": "Agentic AI Framework for Java Developers",
+      "title": "adityatandon15 / Low-Level-Design-Course",
+      "url": "https://github.com/adityatandon15/Low-Level-Design-Course",
+      "description": "All Code of LLD Playlist",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 10821,
-      "forks": 2400,
+      "stars": 1254,
+      "forks": 860,
       "added_stars": "9 stars today"
     },
     {
-      "title": "alibaba / DataX",
-      "url": "https://github.com/alibaba/DataX",
-      "description": "DataX是阿里云DataWorks数据集成的开源版本。",
+      "title": "fish2018 / webhtv",
+      "url": "https://github.com/fish2018/webhtv",
+      "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 17346,
-      "forks": 5655,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "termux / termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 60544,
-      "forks": 7486,
-      "added_stars": "59 stars today"
-    },
-    {
-      "title": "AutoMQ / automq",
-      "url": "https://github.com/AutoMQ/automq",
-      "description": "Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 10672,
-      "forks": 769,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "trinodb / trino",
-      "url": "https://github.com/trinodb/trino",
-      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13212,
-      "forks": 3772,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "runelite / runelite",
-      "url": "https://github.com/runelite/runelite",
-      "description": "Open source Old School RuneScape client",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5454,
-      "forks": 5816,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "mateaix / mateclaw",
-      "url": "https://github.com/mateaix/mateclaw",
-      "description": "🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills & Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1095,
-      "forks": 329,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "zhukunpenglinyutong / jetbrains-cc-gui",
-      "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-      "description": "Jetbrains Claude Code and Codex GUI Plugin",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 6007,
-      "forks": 652,
-      "added_stars": "67 stars today"
-    },
-    {
-      "title": "iterate-ch / cyberduck",
-      "url": "https://github.com/iterate-ch/cyberduck",
-      "description": "Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 4761,
-      "forks": 367,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "iluwatar / java-design-patterns",
-      "url": "https://github.com/iluwatar/java-design-patterns",
-      "description": "Design patterns implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 94670,
-      "forks": 27381,
+      "stars": 1384,
+      "forks": 409,
       "added_stars": "7 stars today"
     },
     {
-      "title": "spring-projects / spring-security",
-      "url": "https://github.com/spring-projects/spring-security",
-      "description": "Spring Security",
+      "title": "LawnchairLauncher / lawnchair",
+      "url": "https://github.com/LawnchairLauncher/lawnchair",
+      "description": "No clever tagline needed.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9626,
-      "forks": 6334,
-      "added_stars": "0 stars today"
+      "stars": 13485,
+      "forks": 1667,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "quarkusio / quarkus",
-      "url": "https://github.com/quarkusio/quarkus",
-      "description": "Quarkus: Supersonic Subatomic Java.",
+      "title": "alibaba / arthas",
+      "url": "https://github.com/alibaba/arthas",
+      "description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 15876,
-      "forks": 3290,
-      "added_stars": "2 stars today"
+      "stars": 37527,
+      "forks": 7646,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "woheller69 / FreeDroidWarn",
-      "url": "https://github.com/woheller69/FreeDroidWarn",
-      "description": "",
+      "title": "langchain4j / langchain4j",
+      "url": "https://github.com/langchain4j/langchain4j",
+      "description": "LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 3371,
-      "forks": 125,
+      "stars": 13059,
+      "forks": 2536,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "StarRocks / starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 12090,
+      "forks": 2583,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "iflytek / astron-agent",
+      "url": "https://github.com/iflytek/astron-agent",
+      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 8973,
+      "forks": 874,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "NationalSecurityAgency / ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 74719,
+      "forks": 8144,
+      "added_stars": "61 stars today"
+    },
+    {
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 36695,
+      "forks": 8913,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "ashishps1 / awesome-low-level-design",
+      "url": "https://github.com/ashishps1/awesome-low-level-design",
+      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 26697,
+      "forks": 6477,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "apache / fesod",
+      "url": "https://github.com/apache/fesod",
+      "description": "Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 6203,
+      "forks": 531,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "TheAlgorithms / Java",
+      "url": "https://github.com/TheAlgorithms/Java",
+      "description": "All Algorithms implemented in Java",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 66236,
+      "forks": 21260,
       "added_stars": "8 stars today"
     },
     {
-      "title": "shmykelsa / AAAD",
-      "url": "https://github.com/shmykelsa/AAAD",
-      "description": "The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.",
+      "title": "tencentmusic / supersonic",
+      "url": "https://github.com/tencentmusic/supersonic",
+      "description": "SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2948,
-      "forks": 320,
-      "added_stars": "2 stars today"
+      "stars": 5073,
+      "forks": 1013,
+      "added_stars": "4 stars today"
     }
   ]
 }

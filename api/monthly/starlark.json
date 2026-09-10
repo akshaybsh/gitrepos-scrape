@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
     {
       "title": "GoogleContainerTools / distroless",
@@ -10,9 +10,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23061,
+      "stars": 23065,
       "forks": 1436,
-      "added_stars": "165 stars this month"
+      "added_stars": "168 stars this month"
     },
     {
       "title": "googleapis / googleapis",
@@ -20,9 +20,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8738,
-      "forks": 2630,
-      "added_stars": "73 stars this month"
+      "stars": 8739,
+      "forks": 2631,
+      "added_stars": "72 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -30,9 +30,9 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 385,
-      "forks": 882,
-      "added_stars": "9 stars this month"
+      "stars": 386,
+      "forks": 885,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -40,9 +40,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3965,
+      "stars": 3967,
       "forks": 304,
-      "added_stars": "36 stars this month"
+      "added_stars": "39 stars this month"
     },
     {
       "title": "bazelbuild / rules_pkg",
@@ -61,8 +61,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 688,
-      "forks": 718,
-      "added_stars": "5 stars this month"
+      "forks": 719,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "aspect-build / rules_js",
@@ -95,16 +95,6 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 593,
-      "forks": 335,
-      "added_stars": "5 stars this month"
-    },
-    {
       "title": "bazel-contrib / rules_kotlin",
       "url": "https://github.com/bazel-contrib/rules_kotlin",
       "description": "Bazel rules for Kotlin",
@@ -113,6 +103,16 @@
       "stars": 366,
       "forks": 260,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 593,
+      "forks": 335,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -155,16 +155,6 @@
       "added_stars": "10 stars this month"
     },
     {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 144,
-      "forks": 97,
-      "added_stars": "1 star this month"
-    },
-    {
       "title": "cgrindel / rules_swift_package_manager",
       "url": "https://github.com/cgrindel/rules_swift_package_manager",
       "description": "Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.",
@@ -175,14 +165,14 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "title": "aspect-build / rules_py",
+      "url": "https://github.com/aspect-build/rules_py",
+      "description": "More compatible Bazel rules for running Python tools and building Python projects",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 195,
-      "forks": 90,
-      "added_stars": "3 stars this month"
+      "stars": 144,
+      "forks": 97,
+      "added_stars": "1 star this month"
     }
   ]
 }

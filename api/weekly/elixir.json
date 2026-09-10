@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
     {
       "title": "plausible / analytics",
@@ -10,19 +10,9 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28980,
-      "forks": 1851,
-      "added_stars": "150 stars this week"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9067,
-      "forks": 454,
-      "added_stars": "9 stars this week"
+      "stars": 28999,
+      "forks": 1856,
+      "added_stars": "157 stars this week"
     },
     {
       "title": "blockscout / blockscout",
@@ -30,19 +20,9 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4672,
-      "forks": 3163,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 26631,
-      "forks": 3675,
-      "added_stars": "16 stars this week"
+      "stars": 4674,
+      "forks": 3166,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "openai / symphony",
@@ -50,9 +30,29 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27113,
-      "forks": 2782,
-      "added_stars": "128 stars this week"
+      "stars": 27124,
+      "forks": 2787,
+      "added_stars": "129 stars this week"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9084,
+      "forks": 456,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26630,
+      "forks": 3667,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -60,19 +60,29 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23147,
+      "stars": 23149,
       "forks": 3110,
       "added_stars": "16 stars this week"
     },
     {
-      "title": "PSPDFKit-labs / bypass",
-      "url": "https://github.com/PSPDFKit-labs/bypass",
-      "description": "Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return prebaked responses to client requests.",
+      "title": "anoma / anoma",
+      "url": "https://github.com/anoma/anoma",
+      "description": "Reference implementation of Anoma",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1001,
-      "forks": 117,
-      "added_stars": "1 star this week"
+      "stars": 33619,
+      "forks": 4112,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7631,
+      "forks": 462,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -80,19 +90,39 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8971,
+      "stars": 8973,
       "forks": 1003,
       "added_stars": "33 stars this week"
     },
     {
-      "title": "elixir-nx / scholar",
-      "url": "https://github.com/elixir-nx/scholar",
-      "description": "Traditional machine learning on top of Nx",
+      "title": "algora-io / algora",
+      "url": "https://github.com/algora-io/algora",
+      "description": "Hire the top 1% OSS engineers",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 497,
-      "forks": 53,
-      "added_stars": "0 stars this week"
+      "stars": 1495,
+      "forks": 151,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "agentjido / term_ui",
+      "url": "https://github.com/agentjido/term_ui",
+      "description": "A framework for writing terminal user interfaces in Elixir",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 204,
+      "forks": 16,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "phoenixframework / phoenix_live_view",
+      "url": "https://github.com/phoenixframework/phoenix_live_view",
+      "description": "Rich, real-time user experiences with server-rendered HTML",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 6826,
+      "forks": 1052,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -105,34 +135,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 7630,
-      "forks": 462,
-      "added_stars": "4 stars this week"
-    },
-    {
       "title": "elixir-lsp / elixir-ls",
       "url": "https://github.com/elixir-lsp/elixir-ls",
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 1775,
-      "forks": 226,
+      "forks": 227,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "algora-io / algora",
-      "url": "https://github.com/algora-io/algora",
-      "description": "Hire the top 1% OSS engineers",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1493,
-      "forks": 151,
-      "added_stars": "9 stars this week"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -140,19 +150,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5300,
-      "forks": 165,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "phoenixframework / phoenix_live_view",
-      "url": "https://github.com/phoenixframework/phoenix_live_view",
-      "description": "Rich, real-time user experiences with server-rendered HTML",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 6826,
-      "forks": 1052,
-      "added_stars": "2 stars this week"
+      "stars": 5301,
+      "forks": 166,
+      "added_stars": "10 stars this week"
     }
   ]
 }

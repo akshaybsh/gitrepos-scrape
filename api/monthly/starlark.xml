@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
   <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
@@ -51,14 +51,14 @@
     <description>LLVM toolchain for bazel</description>
   </item>
   <item>
-    <title>bazelbuild / rules_apple</title>
-    <link>https://github.com/bazelbuild/rules_apple</link>
-    <description>Bazel rules to build apps for Apple platforms.</description>
-  </item>
-  <item>
     <title>bazel-contrib / rules_kotlin</title>
     <link>https://github.com/bazel-contrib/rules_kotlin</link>
     <description>Bazel rules for Kotlin</description>
+  </item>
+  <item>
+    <title>bazelbuild / rules_apple</title>
+    <link>https://github.com/bazelbuild/rules_apple</link>
+    <description>Bazel rules to build apps for Apple platforms.</description>
   </item>
   <item>
     <title>bazelbuild / rules_cc</title>
@@ -81,19 +81,14 @@
     <description>Rust rules for Bazel</description>
   </item>
   <item>
-    <title>aspect-build / rules_py</title>
-    <link>https://github.com/aspect-build/rules_py</link>
-    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
-  </item>
-  <item>
     <title>cgrindel / rules_swift_package_manager</title>
     <link>https://github.com/cgrindel/rules_swift_package_manager</link>
     <description>Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.</description>
   </item>
   <item>
-    <title>openconfig / gnoi</title>
-    <link>https://github.com/openconfig/gnoi</link>
-    <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
+    <title>aspect-build / rules_py</title>
+    <link>https://github.com/aspect-build/rules_py</link>
+    <description>More compatible Bazel rules for running Python tools and building Python projects</description>
   </item>
 </channel>
 </rss>

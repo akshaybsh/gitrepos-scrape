@@ -2,8 +2,18 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
+    {
+      "title": "microsoft-foundry / foundry-samples",
+      "url": "https://github.com/microsoft-foundry/foundry-samples",
+      "description": "Embedded samples in Azure AI Foundry docs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 440,
+      "forks": 484,
+      "added_stars": "21 stars this month"
+    },
     {
       "title": "Azure / azure-quickstart-templates",
       "url": "https://github.com/Azure/azure-quickstart-templates",
@@ -12,17 +22,7 @@
       "languageColor": "#519aba",
       "stars": 14874,
       "forks": 16199,
-      "added_stars": "36 stars this month"
-    },
-    {
-      "title": "microsoft-foundry / foundry-samples",
-      "url": "https://github.com/microsoft-foundry/foundry-samples",
-      "description": "Embedded samples in Azure AI Foundry docs",
-      "language": "Bicep",
-      "languageColor": "#519aba",
-      "stars": 439,
-      "forks": 484,
-      "added_stars": "22 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "Azure / bicep",
@@ -31,8 +31,8 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 3640,
-      "forks": 828,
-      "added_stars": "19 stars this month"
+      "forks": 829,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "Azure / bicep-registry-modules",
@@ -41,7 +41,7 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 736,
-      "forks": 563,
+      "forks": 564,
       "added_stars": "2 stars this month"
     },
     {
@@ -53,6 +53,16 @@
       "stars": 445,
       "forks": 54,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "Azure-Samples / get-started-with-ai-agents",
+      "url": "https://github.com/Azure-Samples/get-started-with-ai-agents",
+      "description": "Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 364,
+      "forks": 727,
+      "added_stars": "6 stars this month"
     }
   ]
 }

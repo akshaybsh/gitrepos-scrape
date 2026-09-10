@@ -4,26 +4,21 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 06:58:31 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:56:05 GMT</pubDate>
+  <item>
+    <title>Anuken / Mindustry</title>
+    <link>https://github.com/Anuken/Mindustry</link>
+    <description>The automation tower defense RTS</description>
+  </item>
   <item>
     <title>apache / fineract</title>
     <link>https://github.com/apache/fineract</link>
     <description>Apache Fineract</description>
   </item>
   <item>
-    <title>648540858 / wvp-GB28181-pro</title>
-    <link>https://github.com/648540858/wvp-GB28181-pro</link>
-    <description>基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。</description>
-  </item>
-  <item>
-    <title>agentscope-ai / agentscope-java</title>
-    <link>https://github.com/agentscope-ai/agentscope-java</link>
-    <description>Build distributed, production-grade, long-running agents.</description>
-  </item>
-  <item>
-    <title>iflytek / astron-agent</title>
-    <link>https://github.com/iflytek/astron-agent</link>
-    <description>Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.</description>
+    <title>kestra-io / kestra</title>
+    <link>https://github.com/kestra-io/kestra</link>
+    <description>Event Driven Orchestration &amp; Scheduling Platform for Mission Critical Applications</description>
   </item>
   <item>
     <title>Stirling-Tools / Stirling-PDF</title>
@@ -31,79 +26,74 @@
     <description>#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere</description>
   </item>
   <item>
-    <title>Suwayomi / Suwayomi-Server</title>
-    <link>https://github.com/Suwayomi/Suwayomi-Server</link>
-    <description>A rewrite of Tachiyomi for the Desktop</description>
+    <title>ashishps1 / awesome-system-design-resources</title>
+    <link>https://github.com/ashishps1/awesome-system-design-resources</link>
+    <description>Learn System Design concepts and prepare for interviews using free resources.</description>
   </item>
   <item>
-    <title>alibaba / spring-ai-alibaba</title>
-    <link>https://github.com/alibaba/spring-ai-alibaba</link>
-    <description>Agentic AI Framework for Java Developers</description>
+    <title>adityatandon15 / Low-Level-Design-Course</title>
+    <link>https://github.com/adityatandon15/Low-Level-Design-Course</link>
+    <description>All Code of LLD Playlist</description>
   </item>
   <item>
-    <title>alibaba / DataX</title>
-    <link>https://github.com/alibaba/DataX</link>
-    <description>DataX是阿里云DataWorks数据集成的开源版本。</description>
+    <title>fish2018 / webhtv</title>
+    <link>https://github.com/fish2018/webhtv</link>
+    <description>WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。</description>
   </item>
   <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+    <title>LawnchairLauncher / lawnchair</title>
+    <link>https://github.com/LawnchairLauncher/lawnchair</link>
+    <description>No clever tagline needed.</description>
   </item>
   <item>
-    <title>AutoMQ / automq</title>
-    <link>https://github.com/AutoMQ/automq</link>
-    <description>Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.</description>
+    <title>alibaba / arthas</title>
+    <link>https://github.com/alibaba/arthas</link>
+    <description>Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas</description>
   </item>
   <item>
-    <title>trinodb / trino</title>
-    <link>https://github.com/trinodb/trino</link>
-    <description>Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)</description>
+    <title>langchain4j / langchain4j</title>
+    <link>https://github.com/langchain4j/langchain4j</link>
+    <description>LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.</description>
   </item>
   <item>
-    <title>runelite / runelite</title>
-    <link>https://github.com/runelite/runelite</link>
-    <description>Open source Old School RuneScape client</description>
+    <title>StarRocks / starrocks</title>
+    <link>https://github.com/StarRocks/starrocks</link>
+    <description>The world&#x27;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
   </item>
   <item>
-    <title>mateaix / mateclaw</title>
-    <link>https://github.com/mateaix/mateclaw</link>
-    <description>🤖 MateClaw — Your second brain with Multi-Agent Orchestration, MCP Protocol, Skills &amp; Memory, Dream, and Multi-Channel Support. Built on Spring AI Alibaba.</description>
+    <title>iflytek / astron-agent</title>
+    <link>https://github.com/iflytek/astron-agent</link>
+    <description>Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.</description>
   </item>
   <item>
-    <title>zhukunpenglinyutong / jetbrains-cc-gui</title>
-    <link>https://github.com/zhukunpenglinyutong/jetbrains-cc-gui</link>
-    <description>Jetbrains Claude Code and Codex GUI Plugin</description>
+    <title>NationalSecurityAgency / ghidra</title>
+    <link>https://github.com/NationalSecurityAgency/ghidra</link>
+    <description>Ghidra is a software reverse engineering (SRE) framework</description>
   </item>
   <item>
-    <title>iterate-ch / cyberduck</title>
-    <link>https://github.com/iterate-ch/cyberduck</link>
-    <description>Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure &amp; OneDrive and OpenStack Swift file transfer client for Mac and Windows.</description>
+    <title>keycloak / keycloak</title>
+    <link>https://github.com/keycloak/keycloak</link>
+    <description>Open Source Identity and Access Management For Modern Applications and Services</description>
   </item>
   <item>
-    <title>iluwatar / java-design-patterns</title>
-    <link>https://github.com/iluwatar/java-design-patterns</link>
-    <description>Design patterns implemented in Java</description>
+    <title>ashishps1 / awesome-low-level-design</title>
+    <link>https://github.com/ashishps1/awesome-low-level-design</link>
+    <description>Learn Low Level Design (LLD) and prepare for interviews using free resources.</description>
   </item>
   <item>
-    <title>spring-projects / spring-security</title>
-    <link>https://github.com/spring-projects/spring-security</link>
-    <description>Spring Security</description>
+    <title>apache / fesod</title>
+    <link>https://github.com/apache/fesod</link>
+    <description>Fast. Easy. Done. Processing spreadsheets without worrying about large files causing OOM.</description>
   </item>
   <item>
-    <title>quarkusio / quarkus</title>
-    <link>https://github.com/quarkusio/quarkus</link>
-    <description>Quarkus: Supersonic Subatomic Java.</description>
+    <title>TheAlgorithms / Java</title>
+    <link>https://github.com/TheAlgorithms/Java</link>
+    <description>All Algorithms implemented in Java</description>
   </item>
   <item>
-    <title>woheller69 / FreeDroidWarn</title>
-    <link>https://github.com/woheller69/FreeDroidWarn</link>
-    <description></description>
-  </item>
-  <item>
-    <title>shmykelsa / AAAD</title>
-    <link>https://github.com/shmykelsa/AAAD</link>
-    <description>The original application for downloading and installing apps made specifically for Android Auto outside of Google Play Store. Active since 2021.</description>
+    <title>tencentmusic / supersonic</title>
+    <link>https://github.com/tencentmusic/supersonic</link>
+    <description>SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.</description>
   </item>
 </channel>
 </rss>

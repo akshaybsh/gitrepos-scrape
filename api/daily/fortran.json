@@ -2,47 +2,27 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
-    {
-      "title": "fortran-lang / stdlib",
-      "url": "https://github.com/fortran-lang/stdlib",
-      "description": "Fortran Standard Library",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1349,
-      "forks": 230,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 964,
-      "forks": 538,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1202,
-      "forks": 496,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "OpenRadioss / OpenRadioss",
       "url": "https://github.com/OpenRadioss/OpenRadioss",
       "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 869,
-      "forks": 394,
+      "stars": 872,
+      "forks": 395,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1700,
+      "forks": 396,
+      "added_stars": "1 star today"
     },
     {
       "title": "firemodels / fds",
@@ -52,7 +32,67 @@
       "languageColor": "#4d41b1",
       "stars": 871,
       "forks": 687,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 966,
+      "forks": 538,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 440,
+      "forks": 481,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1752,
+      "forks": 881,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 22,
+      "forks": 34,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1203,
+      "forks": 496,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 73,
+      "added_stars": "0 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
     {
       "title": "emacs-mirror / emacs",
@@ -11,18 +11,8 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 5192,
-      "forks": 1404,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3519,
-      "forks": 429,
-      "added_stars": "8 stars this week"
+      "forks": 1402,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "doomemacs / core",
@@ -30,9 +20,19 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22660,
+      "stars": 22666,
       "forks": 3150,
-      "added_stars": "27 stars this week"
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3521,
+      "forks": 430,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "xenodium / agent-shell",
@@ -40,19 +40,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1838,
+      "stars": 1843,
       "forks": 230,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2547,
-      "forks": 330,
-      "added_stars": "10 stars this week"
+      "added_stars": "24 stars this week"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -60,9 +50,9 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24560,
+      "stars": 24562,
       "forks": 4834,
-      "added_stars": "7 stars this week"
+      "added_stars": "9 stars this week"
     }
   ]
 }

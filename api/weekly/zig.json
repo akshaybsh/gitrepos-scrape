@@ -2,7 +2,7 @@
   "title": "GitHub Zig Languages Daily Trending",
   "description": "Daily Trending of Zig Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
     {
       "title": "lightpanda-io / browser",
@@ -10,29 +10,9 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 35177,
-      "forks": 1663,
-      "added_stars": "821 stars this week"
-    },
-    {
-      "title": "ddalcu / mlx-serve",
-      "url": "https://github.com/ddalcu/mlx-serve",
-      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1185,
-      "forks": 106,
-      "added_stars": "125 stars this week"
-    },
-    {
-      "title": "tigerbeetle / tigerbeetle",
-      "url": "https://github.com/tigerbeetle/tigerbeetle",
-      "description": "The financial transactions database designed for mission critical safety and performance.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 16977,
-      "forks": 896,
-      "added_stars": "39 stars this week"
+      "stars": 35241,
+      "forks": 1668,
+      "added_stars": "868 stars this week"
     },
     {
       "title": "Loongphy / codex-auth",
@@ -40,9 +20,19 @@
       "description": "A CLI tool to switch and manage Codex accounts",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2634,
-      "forks": 152,
-      "added_stars": "60 stars this week"
+      "stars": 2645,
+      "forks": 155,
+      "added_stars": "65 stars this week"
+    },
+    {
+      "title": "tigerbeetle / tigerbeetle",
+      "url": "https://github.com/tigerbeetle/tigerbeetle",
+      "description": "The financial transactions database designed for mission critical safety and performance.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 16988,
+      "forks": 897,
+      "added_stars": "43 stars this week"
     },
     {
       "title": "sleep3r / mtproto.zig",
@@ -50,9 +40,9 @@
       "description": "Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 1719,
-      "forks": 89,
-      "added_stars": "183 stars this week"
+      "stars": 1738,
+      "forks": 92,
+      "added_stars": "163 stars this week"
     },
     {
       "title": "ziglang / zig",
@@ -60,49 +50,9 @@
       "description": "Moved to Codeberg",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 43315,
-      "forks": 3218,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "ghostty-org / ghostty",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 60863,
-      "forks": 3405,
-      "added_stars": "317 stars this week"
-    },
-    {
-      "title": "rockorager / libvaxis",
-      "url": "https://github.com/rockorager/libvaxis",
-      "description": "a modern tui library written in zig",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1992,
-      "forks": 156,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "zigtools / zls",
-      "url": "https://github.com/zigtools/zls",
-      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 5116,
-      "forks": 446,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "Seafoam-Labs / Shelly-ALPM",
-      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
-      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1108,
-      "forks": 90,
-      "added_stars": "29 stars this week"
+      "stars": 43308,
+      "forks": 3208,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "vercel-labs / native",
@@ -110,19 +60,39 @@
       "description": "Toolkit for building native desktop apps",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 7638,
+      "stars": 7648,
       "forks": 313,
-      "added_stars": "30 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
-      "title": "neurocyte / flow",
-      "url": "https://github.com/neurocyte/flow",
-      "description": "Flow Control: a programmer's text editor",
+      "title": "nullclaw / nullclaw",
+      "url": "https://github.com/nullclaw/nullclaw",
+      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2213,
-      "forks": 115,
-      "added_stars": "14 stars this week"
+      "stars": 8079,
+      "forks": 943,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "ddalcu / mlx-serve",
+      "url": "https://github.com/ddalcu/mlx-serve",
+      "description": "Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1212,
+      "forks": 110,
+      "added_stars": "126 stars this week"
+    },
+    {
+      "title": "Seafoam-Labs / Shelly-ALPM",
+      "url": "https://github.com/Seafoam-Labs/Shelly-ALPM",
+      "description": "Pacman alternative for ArchLinux, designed with you in mind.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 1109,
+      "forks": 91,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "roc-lang / roc",
@@ -132,7 +102,37 @@
       "languageColor": "#ec915c",
       "stars": 6040,
       "forks": 416,
-      "added_stars": "15 stars this week"
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "ghostty-org / ghostty",
+      "url": "https://github.com/ghostty-org/ghostty",
+      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 60908,
+      "forks": 3414,
+      "added_stars": "320 stars this week"
+    },
+    {
+      "title": "zigtools / zls",
+      "url": "https://github.com/zigtools/zls",
+      "description": "A language server for Zig supporting developers with features like autocomplete and goto definition",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 5119,
+      "forks": 446,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "neurocyte / flow",
+      "url": "https://github.com/neurocyte/flow",
+      "description": "Flow Control: a programmer's text editor",
+      "language": "Zig",
+      "languageColor": "#ec915c",
+      "stars": 2215,
+      "forks": 115,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "neurosnap / zmx",
@@ -140,29 +140,9 @@
       "description": "Session attach/detach for the terminal",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 2123,
-      "forks": 150,
+      "stars": 2126,
+      "forks": 149,
       "added_stars": "22 stars this week"
-    },
-    {
-      "title": "kristoff-it / zine",
-      "url": "https://github.com/kristoff-it/zine",
-      "description": "Fast, Scalable, Flexible Static Site Generator (SSG)",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 1565,
-      "forks": 102,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "nullclaw / nullclaw",
-      "url": "https://github.com/nullclaw/nullclaw",
-      "description": "Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 8075,
-      "forks": 943,
-      "added_stars": "24 stars this week"
     },
     {
       "title": "tonybanters / oxwm",
@@ -170,19 +150,9 @@
       "description": "",
       "language": "Zig",
       "languageColor": "#ec915c",
-      "stars": 944,
+      "stars": 946,
       "forks": 69,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "PixelGuys / Cubyz",
-      "url": "https://github.com/PixelGuys/Cubyz",
-      "description": "Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.",
-      "language": "Zig",
-      "languageColor": "#ec915c",
-      "stars": 3651,
-      "forks": 237,
-      "added_stars": "10 stars this week"
+      "added_stars": "16 stars this week"
     }
   ]
 }

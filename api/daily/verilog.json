@@ -2,27 +2,17 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
-    {
-      "title": "YosysHQ / picorv32",
-      "url": "https://github.com/YosysHQ/picorv32",
-      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 4384,
-      "forks": 999,
-      "added_stars": "1 star today"
-    },
     {
       "title": "The-OpenROAD-Project / OpenROAD",
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 3080,
-      "forks": 1005,
-      "added_stars": "2 stars today"
+      "stars": 3085,
+      "forks": 1006,
+      "added_stars": "6 stars today"
     },
     {
       "title": "analogdevicesinc / hdl",
@@ -31,27 +21,7 @@
       "language": "Verilog",
       "languageColor": "#b2b7f8",
       "stars": 2009,
-      "forks": 1683,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 729,
-      "forks": 524,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jotego / jtcores",
-      "url": "https://github.com/jotego/jtcores",
-      "description": "FPGA cores compatible with multiple arcade game machines and KiCAD schematics of arcade games. Working on MiSTer FPGA/Analogue Pocket",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 327,
-      "forks": 66,
+      "forks": 1684,
       "added_stars": "0 stars today"
     },
     {
@@ -62,7 +32,27 @@
       "languageColor": "#b2b7f8",
       "stars": 1276,
       "forks": 777,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
+      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 732,
+      "forks": 524,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "YosysHQ / picorv32",
+      "url": "https://github.com/YosysHQ/picorv32",
+      "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 4384,
+      "forks": 1001,
+      "added_stars": "0 stars today"
     }
   ]
 }

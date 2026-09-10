@@ -4,36 +4,16 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 06:58:31 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:56:05 GMT</pubDate>
   <item>
     <title>neovim / nvim-lspconfig</title>
     <link>https://github.com/neovim/nvim-lspconfig</link>
     <description>Quickstart configs for Nvim LSP</description>
   </item>
   <item>
-    <title>iDvel / rime-ice</title>
-    <link>https://github.com/iDvel/rime-ice</link>
-    <description>Rime 配置：雾凇拼音 | 长期维护的简体词库</description>
-  </item>
-  <item>
-    <title>PathOfBuildingCommunity / PathOfBuilding-PoE2</title>
-    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2</link>
-    <description></description>
-  </item>
-  <item>
-    <title>catppuccin / nvim</title>
-    <link>https://github.com/catppuccin/nvim</link>
-    <description>🍨 Soothing pastel theme for Neovim</description>
-  </item>
-  <item>
-    <title>AndyHazz / bookshelf.koplugin</title>
-    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
-  </item>
-  <item>
-    <title>mfussenegger / nvim-dap</title>
-    <link>https://github.com/mfussenegger/nvim-dap</link>
-    <description>Debug Adapter Protocol client implementation for Neovim</description>
+    <title>Kong / kong</title>
+    <link>https://github.com/Kong/kong</link>
+    <description>🦍 The API and AI Gateway</description>
   </item>
   <item>
     <title>olimorris / codecompanion.nvim</title>
@@ -41,29 +21,14 @@
     <description>✨ AI Coding, Vim Style</description>
   </item>
   <item>
-    <title>opentibiabr / canary</title>
-    <link>https://github.com/opentibiabr/canary</link>
-    <description>Canary Server 15.25 for OpenTibia community.</description>
-  </item>
-  <item>
-    <title>folke / snacks.nvim</title>
-    <link>https://github.com/folke/snacks.nvim</link>
-    <description>🍿 A collection of QoL plugins for Neovim</description>
-  </item>
-  <item>
-    <title>LazyVim / LazyVim</title>
-    <link>https://github.com/LazyVim/LazyVim</link>
-    <description>Neovim config for the lazy</description>
-  </item>
-  <item>
-    <title>mason-org / mason.nvim</title>
-    <link>https://github.com/mason-org/mason.nvim</link>
-    <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
-  </item>
-  <item>
     <title>nvim-neo-tree / neo-tree.nvim</title>
     <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
     <description>Neovim plugin to manage the file system and other tree like structures.</description>
+  </item>
+  <item>
+    <title>saghen / blink.cmp</title>
+    <link>https://github.com/saghen/blink.cmp</link>
+    <description>Performant, batteries-included completion plugin for Neovim</description>
   </item>
   <item>
     <title>nvim-telescope / telescope.nvim</title>
@@ -71,14 +36,39 @@
     <description>Find, Filter, Preview, Pick. All lua, all the time.</description>
   </item>
   <item>
-    <title>IntQuant / noita_entangled_worlds</title>
-    <link>https://github.com/IntQuant/noita_entangled_worlds</link>
-    <description>True coop multiplayer mod for Noita.</description>
+    <title>sindrets / diffview.nvim</title>
+    <link>https://github.com/sindrets/diffview.nvim</link>
+    <description>Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</description>
   </item>
   <item>
-    <title>AndyHazz / bookends.koplugin</title>
-    <link>https://github.com/AndyHazz/bookends.koplugin</link>
-    <description>KOReader plugin for configurable text overlays — tokens, icons, per-line styling, presets</description>
+    <title>rittermod / FS25_RealisticLivestockRM</title>
+    <link>https://github.com/rittermod/FS25_RealisticLivestockRM</link>
+    <description>FS25_RealisticLivestock - Ritter version</description>
+  </item>
+  <item>
+    <title>rafamadriz / friendly-snippets</title>
+    <link>https://github.com/rafamadriz/friendly-snippets</link>
+    <description>Set of preconfigured snippets for different languages.</description>
+  </item>
+  <item>
+    <title>LazyVim / LazyVim</title>
+    <link>https://github.com/LazyVim/LazyVim</link>
+    <description>Neovim config for the lazy</description>
+  </item>
+  <item>
+    <title>ntop / ntopng</title>
+    <link>https://github.com/ntop/ntopng</link>
+    <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
+  </item>
+  <item>
+    <title>beyond-all-reason / Beyond-All-Reason</title>
+    <link>https://github.com/beyond-all-reason/Beyond-All-Reason</link>
+    <description>Main game repository for Beyond All Reason.</description>
+  </item>
+  <item>
+    <title>koreader / koreader</title>
+    <link>https://github.com/koreader/koreader</link>
+    <description>An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</description>
   </item>
   <item>
     <title>forest0xia / dota2bot-OpenHyperAI</title>
@@ -86,14 +76,24 @@
     <description>A beta Dota2 Bot Script aims to provide better bot game experience</description>
   </item>
   <item>
-    <title>nvim-lualine / lualine.nvim</title>
-    <link>https://github.com/nvim-lualine/lualine.nvim</link>
-    <description>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</description>
+    <title>AndyHazz / bookshelf.koplugin</title>
+    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
+    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
   </item>
   <item>
-    <title>apache / apisix</title>
-    <link>https://github.com/apache/apisix</link>
-    <description>The Cloud-Native API Gateway and AI Gateway</description>
+    <title>folke / snacks.nvim</title>
+    <link>https://github.com/folke/snacks.nvim</link>
+    <description>🍿 A collection of QoL plugins for Neovim</description>
+  </item>
+  <item>
+    <title>coder / claudecode.nvim</title>
+    <link>https://github.com/coder/claudecode.nvim</link>
+    <description>🧩 Claude Code Neovim IDE Extension</description>
+  </item>
+  <item>
+    <title>PortsMaster / PortMaster-New</title>
+    <link>https://github.com/PortsMaster/PortMaster-New</link>
+    <description>New PortMaster repo</description>
   </item>
 </channel>
 </rss>

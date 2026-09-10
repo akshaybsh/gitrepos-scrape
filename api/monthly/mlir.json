@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 20115,
-      "forks": 3178,
-      "added_stars": "243 stars this month"
+      "stars": 20121,
+      "forks": 3177,
+      "added_stars": "244 stars this month"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -20,19 +20,9 @@
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 159,
-      "forks": 208,
-      "added_stars": "29 stars this month"
-    },
-    {
-      "title": "google / heir",
-      "url": "https://github.com/google/heir",
-      "description": "A compiler for homomorphic encryption",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 888,
-      "forks": 170,
-      "added_stars": "130 stars this month"
+      "stars": 160,
+      "forks": 211,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -45,13 +35,23 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "google / heir",
+      "url": "https://github.com/google/heir",
+      "description": "A compiler for homomorphic encryption",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 890,
+      "forks": 170,
+      "added_stars": "131 stars this month"
+    },
+    {
       "title": "EnzymeAD / Enzyme-JAX",
       "url": "https://github.com/EnzymeAD/Enzyme-JAX",
       "description": "Custom Bindings for Enzyme Automatic Differentiation Tool and Interfacing with JAX.",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 131,
-      "forks": 49,
+      "forks": 50,
       "added_stars": "5 stars this month"
     },
     {
@@ -61,7 +61,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 195,
-      "forks": 70,
+      "forks": 71,
       "added_stars": "10 stars this month"
     },
     {
@@ -72,7 +72,7 @@
       "languageColor": "#5EC8DB",
       "stars": 306,
       "forks": 150,
-      "added_stars": "11 stars this month"
+      "added_stars": "10 stars this month"
     }
   ]
 }

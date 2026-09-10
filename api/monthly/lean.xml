@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
   <item>
     <title>leanprover-community / mathlib4</title>
     <link>https://github.com/leanprover-community/mathlib4</link>
@@ -31,24 +31,24 @@
     <description>Tool to analyse the import structure of lean projects.</description>
   </item>
   <item>
-    <title>leanprover-community / plausible</title>
-    <link>https://github.com/leanprover-community/plausible</link>
-    <description></description>
-  </item>
-  <item>
     <title>leanprover-community / LeanSearchClient</title>
     <link>https://github.com/leanprover-community/LeanSearchClient</link>
     <description>Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)</description>
   </item>
   <item>
-    <title>leanprover / lean4-cli</title>
-    <link>https://github.com/leanprover/lean4-cli</link>
-    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
+    <title>leanprover-community / plausible</title>
+    <link>https://github.com/leanprover-community/plausible</link>
+    <description></description>
   </item>
   <item>
     <title>leanprover-community / quote4</title>
     <link>https://github.com/leanprover-community/quote4</link>
     <description>Intuitive, type-safe expression quotations for Lean 4.</description>
+  </item>
+  <item>
+    <title>leanprover / lean4-cli</title>
+    <link>https://github.com/leanprover/lean4-cli</link>
+    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
     <title>leanprover-community / ProofWidgets4</title>
@@ -66,24 +66,9 @@
     <description>A project to digitalise results from physics into Lean.</description>
   </item>
   <item>
-    <title>Verified-zkEVM / evm-asm</title>
-    <link>https://github.com/Verified-zkEVM/evm-asm</link>
-    <description></description>
-  </item>
-  <item>
     <title>leanprover-community / batteries</title>
     <link>https://github.com/leanprover-community/batteries</link>
     <description>The &quot;batteries included&quot; extended library for the Lean programming language and theorem prover</description>
-  </item>
-  <item>
-    <title>cedar-policy / cedar-spec</title>
-    <link>https://github.com/cedar-policy/cedar-spec</link>
-    <description>Definitional implementation of Cedar language and utilities for DRT</description>
-  </item>
-  <item>
-    <title>digama0 / lean4lean</title>
-    <link>https://github.com/digama0/lean4lean</link>
-    <description>Lean 4 kernel / &#x27;external checker&#x27; written in Lean 4</description>
   </item>
 </channel>
 </rss>

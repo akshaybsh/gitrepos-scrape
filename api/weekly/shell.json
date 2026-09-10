@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
     {
       "title": "mattpocock / skills",
@@ -10,9 +10,9 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 257205,
-      "forks": 21668,
-      "added_stars": "13,419 stars this week"
+      "stars": 258111,
+      "forks": 21740,
+      "added_stars": "13,143 stars this week"
     },
     {
       "title": "nvm-sh / nvm",
@@ -20,9 +20,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 95046,
-      "forks": 10441,
-      "added_stars": "257 stars this week"
+      "stars": 95054,
+      "forks": 10440,
+      "added_stars": "274 stars this week"
     },
     {
       "title": "bin456789 / reinstall",
@@ -30,19 +30,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13218,
+      "stars": 13230,
       "forks": 2127,
-      "added_stars": "304 stars this week"
-    },
-    {
-      "title": "pyenv / pyenv",
-      "url": "https://github.com/pyenv/pyenv",
-      "description": "Simple Python version management",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 45088,
-      "forks": 3273,
-      "added_stars": "37 stars this week"
+      "added_stars": "305 stars this week"
     },
     {
       "title": "omacom / omarchy",
@@ -50,49 +40,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 39515,
-      "forks": 4288,
-      "added_stars": "2,710 stars this week"
-    },
-    {
-      "title": "zsh-users / zsh-autosuggestions",
-      "url": "https://github.com/zsh-users/zsh-autosuggestions",
-      "description": "Fish-like autosuggestions for zsh",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 36049,
-      "forks": 1940,
-      "added_stars": "33 stars this week"
-    },
-    {
-      "title": "romkatv / powerlevel10k",
-      "url": "https://github.com/romkatv/powerlevel10k",
-      "description": "A Zsh theme",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 55063,
-      "forks": 2442,
-      "added_stars": "67 stars this week"
-    },
-    {
-      "title": "RROrg / rr",
-      "url": "https://github.com/RROrg/rr",
-      "description": "Redpill Recovery (arpl-i18n)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 8595,
-      "forks": 1371,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53205,
-      "forks": 4755,
-      "added_stars": "103 stars this week"
+      "stars": 39841,
+      "forks": 4348,
+      "added_stars": "2,544 stars this week"
     },
     {
       "title": "VoltAgent / awesome-claude-code-subagents",
@@ -100,9 +50,69 @@
       "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 24954,
-      "forks": 2887,
-      "added_stars": "180 stars this week"
+      "stars": 24973,
+      "forks": 2889,
+      "added_stars": "173 stars this week"
+    },
+    {
+      "title": "pyenv / pyenv",
+      "url": "https://github.com/pyenv/pyenv",
+      "description": "Simple Python version management",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 45091,
+      "forks": 3274,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "kunchenguid / firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5381,
+      "forks": 1676,
+      "added_stars": "685 stars this week"
+    },
+    {
+      "title": "RROrg / rr",
+      "url": "https://github.com/RROrg/rr",
+      "description": "Redpill Recovery (arpl-i18n)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 8596,
+      "forks": 1372,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 284194,
+      "forks": 25423,
+      "added_stars": "3,474 stars this week"
+    },
+    {
+      "title": "ohmyzsh / ohmyzsh",
+      "url": "https://github.com/ohmyzsh/ohmyzsh",
+      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 189645,
+      "forks": 26575,
+      "added_stars": "210 stars this week"
+    },
+    {
+      "title": "longhorn / longhorn",
+      "url": "https://github.com/longhorn/longhorn",
+      "description": "Cloud-Native distributed storage built on and for Kubernetes",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 7967,
+      "forks": 738,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "hq450 / fancyss",
@@ -115,44 +125,14 @@
       "added_stars": "26 stars this week"
     },
     {
-      "title": "ophub / amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "title": "assafdori / bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9764,
-      "forks": 3132,
-      "added_stars": "53 stars this week"
-    },
-    {
-      "title": "ohmyzsh / ohmyzsh",
-      "url": "https://github.com/ohmyzsh/ohmyzsh",
-      "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 189641,
-      "forks": 26583,
-      "added_stars": "203 stars this week"
-    },
-    {
-      "title": "winapps-org / winapps",
-      "url": "https://github.com/winapps-org/winapps",
-      "description": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 15917,
-      "forks": 504,
-      "added_stars": "52 stars this week"
-    },
-    {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 33170,
-      "forks": 1859,
-      "added_stars": "114 stars this week"
+      "stars": 2246,
+      "forks": 530,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "microsoft / azure-skills",
@@ -160,29 +140,9 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1463,
-      "forks": 244,
+      "stars": 1467,
+      "forks": 245,
       "added_stars": "26 stars this week"
-    },
-    {
-      "title": "kodekloudhub / certified-kubernetes-administrator-course",
-      "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
-      "description": "Certified Kubernetes Administrator - CKA Course",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 10814,
-      "forks": 9624,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "233boy / v2ray",
-      "url": "https://github.com/233boy/v2ray",
-      "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29581,
-      "forks": 16608,
-      "added_stars": "40 stars this week"
     },
     {
       "title": "pystardust / ani-cli",
@@ -190,19 +150,19 @@
       "description": "A cli tool to browse and play anime",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13748,
-      "forks": 877,
-      "added_stars": "70 stars this week"
+      "stars": 13750,
+      "forks": 876,
+      "added_stars": "63 stars this week"
     },
     {
-      "title": "youngyangyang04 / leetcode-master",
-      "url": "https://github.com/youngyangyang04/leetcode-master",
-      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
+      "title": "ophub / amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 62412,
-      "forks": 12302,
-      "added_stars": "87 stars this week"
+      "stars": 9768,
+      "forks": 3134,
+      "added_stars": "53 stars this week"
     }
   ]
 }

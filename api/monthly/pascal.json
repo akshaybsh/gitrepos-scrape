@@ -2,27 +2,17 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
-    {
-      "title": "cheat-engine / cheat-engine",
-      "url": "https://github.com/cheat-engine/cheat-engine",
-      "description": "Cheat Engine. A development environment focused on modding",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 19152,
-      "forks": 2775,
-      "added_stars": "279 stars this month"
-    },
     {
       "title": "stascorp / rdpwrap",
       "url": "https://github.com/stascorp/rdpwrap",
       "description": "RDP Wrapper Library",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 16845,
-      "forks": 4053,
-      "added_stars": "91 stars this month"
+      "stars": 16847,
+      "forks": 4052,
+      "added_stars": "92 stars this month"
     },
     {
       "title": "doublecmd / doublecmd",
@@ -32,7 +22,17 @@
       "languageColor": "#E3F171",
       "stars": 4485,
       "forks": 348,
-      "added_stars": "116 stars this month"
+      "added_stars": "115 stars this month"
+    },
+    {
+      "title": "cheat-engine / cheat-engine",
+      "url": "https://github.com/cheat-engine/cheat-engine",
+      "description": "Cheat Engine. A development environment focused on modding",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 19158,
+      "forks": 2775,
+      "added_stars": "279 stars this month"
     },
     {
       "title": "Embarcadero / Dev-Cpp",
@@ -40,7 +40,7 @@
       "description": "A fast, portable, simple, and free C/C++ IDE",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 3001,
+      "stars": 3002,
       "forks": 324,
       "added_stars": "28 stars this month"
     },
@@ -50,9 +50,9 @@
       "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 5618,
+      "stars": 5619,
       "forks": 1091,
-      "added_stars": "77 stars this month"
+      "added_stars": "76 stars this month"
     },
     {
       "title": "benjamimgois / goverlay",
@@ -62,7 +62,27 @@
       "languageColor": "#E3F171",
       "stars": 1477,
       "forks": 66,
-      "added_stars": "63 stars this month"
+      "added_stars": "61 stars this month"
+    },
+    {
+      "title": "TES5Edit / TES5Edit",
+      "url": "https://github.com/TES5Edit/TES5Edit",
+      "description": "xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 900,
+      "forks": 178,
+      "added_stars": "11 stars this month"
+    },
+    {
+      "title": "FrankBijnen / ExifToolGui",
+      "url": "https://github.com/FrankBijnen/ExifToolGui",
+      "description": "A GUI for ExifTool",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 1004,
+      "forks": 50,
+      "added_stars": "36 stars this month"
     },
     {
       "title": "UltraStar-Deluxe / USDX",
@@ -75,44 +95,14 @@
       "added_stars": "27 stars this month"
     },
     {
-      "title": "TES5Edit / TES5Edit",
-      "url": "https://github.com/TES5Edit/TES5Edit",
-      "description": "xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 899,
-      "forks": 178,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "FrankBijnen / ExifToolGui",
-      "url": "https://github.com/FrankBijnen/ExifToolGui",
-      "description": "A GUI for ExifTool",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 1003,
-      "forks": 50,
-      "added_stars": "35 stars this month"
-    },
-    {
       "title": "peazip / PeaZip",
       "url": "https://github.com/peazip/PeaZip",
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 7824,
+      "stars": 7827,
       "forks": 399,
       "added_stars": "124 stars this month"
-    },
-    {
-      "title": "nofeletru / UsbAsp-flash",
-      "url": "https://github.com/nofeletru/UsbAsp-flash",
-      "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 1377,
-      "forks": 258,
-      "added_stars": "28 stars this month"
     },
     {
       "title": "HeidiSQL / HeidiSQL",
@@ -120,9 +110,19 @@
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 6238,
-      "forks": 585,
-      "added_stars": "48 stars this month"
+      "stars": 6239,
+      "forks": 586,
+      "added_stars": "47 stars this month"
+    },
+    {
+      "title": "nofeletru / UsbAsp-flash",
+      "url": "https://github.com/nofeletru/UsbAsp-flash",
+      "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 1378,
+      "forks": 258,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "Runixe786 / MD3-Windows",
@@ -130,19 +130,9 @@
       "description": "Material you widgets for your windows desktop, adaptable with wallpaper colors with both light & dark modes",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 2330,
+      "stars": 2331,
       "forks": 84,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "nodemcu / nodemcu-flasher",
-      "url": "https://github.com/nodemcu/nodemcu-flasher",
-      "description": "A firmware Flash tool for nodemcu",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 2216,
-      "forks": 815,
-      "added_stars": "6 stars this month"
+      "added_stars": "21 stars this month"
     },
     {
       "title": "lmbelo / pyscripter",
@@ -152,17 +142,17 @@
       "languageColor": "#E3F171",
       "stars": 1251,
       "forks": 330,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
-      "title": "keymanapp / keyman",
-      "url": "https://github.com/keymanapp/keyman",
-      "description": "Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web",
+      "title": "nodemcu / nodemcu-flasher",
+      "url": "https://github.com/nodemcu/nodemcu-flasher",
+      "description": "A firmware Flash tool for nodemcu",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 534,
-      "forks": 142,
-      "added_stars": "7 stars this month"
+      "stars": 2217,
+      "forks": 815,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "transmission-remote-gui / transgui",
@@ -172,7 +162,17 @@
       "languageColor": "#E3F171",
       "stars": 3463,
       "forks": 314,
-      "added_stars": "17 stars this month"
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "keymanapp / keyman",
+      "url": "https://github.com/keymanapp/keyman",
+      "description": "Keyman cross platform input methods system running on Android, iOS, Linux, macOS, Windows and mobile and desktop web",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 534,
+      "forks": 143,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "coffeenmusic / altium-mcp",
@@ -180,9 +180,19 @@
       "description": "Altium Model Context Protocol server and Altium API script",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 154,
+      "stars": 155,
       "forks": 45,
-      "added_stars": "25 stars this month"
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "pleumann / pasta80",
+      "url": "https://github.com/pleumann/pasta80",
+      "description": "Turbo Pascal 3.0-compatible compiler that generates machine code for classic and modern Z80 machines (currently CP/M, the Sinclair ZX Spectrum 48K/128K/Next, and the Agon Light/Console8).",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 195,
+      "forks": 10,
+      "added_stars": "7 stars this month"
     }
   ]
 }

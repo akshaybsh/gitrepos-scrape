@@ -2,37 +2,37 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
+    {
+      "title": "Dadoum / Sideloader",
+      "url": "https://github.com/Dadoum/Sideloader",
+      "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 1008,
+      "forks": 157,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "dlang / dmd",
+      "url": "https://github.com/dlang/dmd",
+      "description": "dmd D Programming Language compiler",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 3307,
+      "forks": 719,
+      "added_stars": "1 star today"
+    },
     {
       "title": "abraunegg / onedrive",
       "url": "https://github.com/abraunegg/onedrive",
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 12787,
+      "stars": 12793,
       "forks": 910,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "Dadoum / anisette-v3-server",
-      "url": "https://github.com/Dadoum/anisette-v3-server",
-      "description": "sidestore's anisette-v3 compatible server",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": 562,
-      "forks": 2421,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Dadoum / Provision",
-      "url": "https://github.com/Dadoum/Provision",
-      "description": "Set of tools interracting with Apple servers. Don't hesitate to leave a star if you appreciate it.",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": 671,
-      "forks": 2926,
-      "added_stars": "0 stars today"
+      "added_stars": "8 stars today"
     }
   ]
 }

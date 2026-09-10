@@ -2,27 +2,27 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
-    {
-      "title": "goldbergyoni / nodebestpractices",
-      "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (July 2026)",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 105610,
-      "forks": 10723,
-      "added_stars": "243 stars this month"
-    },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 22755,
-      "forks": 1155,
-      "added_stars": "592 stars this month"
+      "stars": 22763,
+      "forks": 1157,
+      "added_stars": "597 stars this month"
+    },
+    {
+      "title": "goldbergyoni / nodebestpractices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "description": "✅ The Node.js best practices list (July 2026)",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 105606,
+      "forks": 10722,
+      "added_stars": "235 stars this month"
     },
     {
       "title": "Gar-b-age / CookLikeHOC",
@@ -30,9 +30,19 @@
       "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 24610,
-      "forks": 2396,
-      "added_stars": "892 stars this month"
+      "stars": 24609,
+      "forks": 2395,
+      "added_stars": "891 stars this month"
+    },
+    {
+      "title": "laradock / laradock",
+      "url": "https://github.com/laradock/laradock",
+      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12673,
+      "forks": 4347,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -41,18 +51,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 12050,
-      "forks": 3711,
-      "added_stars": "116 stars this month"
-    },
-    {
-      "title": "laradock / laradock",
-      "url": "https://github.com/laradock/laradock",
-      "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 12674,
-      "forks": 4347,
-      "added_stars": "21 stars this month"
+      "forks": 3713,
+      "added_stars": "112 stars this month"
     },
     {
       "title": "oxsecurity / megalinter",
@@ -60,9 +60,9 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2580,
+      "stars": 2582,
       "forks": 310,
-      "added_stars": "30 stars this month"
+      "added_stars": "32 stars this month"
     },
     {
       "title": "microsoft / vscode-remote-release",
@@ -70,9 +70,9 @@
       "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4171,
+      "stars": 4172,
       "forks": 468,
-      "added_stars": "38 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "nordquant / dbt-student-repo",
@@ -81,7 +81,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 23,
-      "forks": 3242,
+      "forks": 3260,
       "added_stars": "2 stars this month"
     },
     {
@@ -91,28 +91,18 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 501,
-      "forks": 637,
+      "forks": 636,
       "added_stars": "0 stars this month"
     },
     {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21223,
-      "forks": 4806,
-      "added_stars": "143 stars this month"
-    },
-    {
-      "title": "Dark-Xploit / CypherX",
-      "url": "https://github.com/Dark-Xploit/CypherX",
-      "description": "𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2928,
-      "forks": 7761,
-      "added_stars": "46 stars this month"
+      "stars": 82,
+      "forks": 661,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "dotnet / dotnet-docker",
@@ -125,14 +115,14 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 660,
-      "added_stars": "0 stars this month"
+      "stars": 21229,
+      "forks": 4805,
+      "added_stars": "146 stars this month"
     },
     {
       "title": "solana-foundation / solana-verifiable-build",
@@ -145,14 +135,34 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "aws-amplify / amplify-hosting",
-      "url": "https://github.com/aws-amplify/amplify-hosting",
-      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
+      "title": "piyushsachdeva / CKA-2024",
+      "url": "https://github.com/piyushsachdeva/CKA-2024",
+      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 480,
-      "forks": 123,
-      "added_stars": "0 stars this month"
+      "stars": 1167,
+      "forks": 1970,
+      "added_stars": "28 stars this month"
+    },
+    {
+      "title": "k8s-operatorhub / community-operators",
+      "url": "https://github.com/k8s-operatorhub/community-operators",
+      "description": "The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 272,
+      "forks": 768,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "xhyphertech / Pretty-md",
+      "url": "https://github.com/xhyphertech/Pretty-md",
+      "description": "𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 266,
+      "forks": 935,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "docker-library / python",
@@ -162,27 +172,27 @@
       "languageColor": "#384d54",
       "stars": 2774,
       "forks": 1108,
-      "added_stars": "8 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
-      "title": "piyushsachdeva / CKA-2024",
-      "url": "https://github.com/piyushsachdeva/CKA-2024",
-      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
+      "title": "render-examples / mysql",
+      "url": "https://github.com/render-examples/mysql",
+      "description": "MySQL 8.0 and 5.7 on Render",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 1167,
-      "forks": 1967,
-      "added_stars": "29 stars this month"
+      "stars": 46,
+      "forks": 1147,
+      "added_stars": "2 stars this month"
     },
     {
-      "title": "corretto / corretto-docker",
-      "url": "https://github.com/corretto/corretto-docker",
-      "description": "Dockerfiles for Amazon Corretto Official images.",
+      "title": "Dark-Xploit / CypherX",
+      "url": "https://github.com/Dark-Xploit/CypherX",
+      "description": "𝙏𝙃𝙀 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇 𝘾𝙔𝙋𝙃𝙀𝙍 𝙓 𝙍𝙀𝙋𝙊𝙎𝙄𝙏𝙊𝙍𝙔.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 198,
-      "forks": 68,
-      "added_stars": "0 stars this month"
+      "stars": 2929,
+      "forks": 7766,
+      "added_stars": "46 stars this month"
     }
   ]
 }

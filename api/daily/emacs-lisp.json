@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
     {
       "title": "xenodium / agent-shell",
@@ -10,9 +10,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1838,
+      "stars": 1843,
       "forks": 230,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "karthink / gptel",
@@ -20,9 +20,9 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3519,
-      "forks": 429,
-      "added_stars": "0 stars today"
+      "stars": 3521,
+      "forks": 430,
+      "added_stars": "2 stars today"
     },
     {
       "title": "melpa / melpa",
@@ -31,7 +31,17 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2967,
-      "forks": 2807,
+      "forks": 2808,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2548,
+      "forks": 330,
       "added_stars": "1 star today"
     },
     {
@@ -41,18 +51,8 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 5192,
-      "forks": 1404,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22660,
-      "forks": 3150,
-      "added_stars": "2 stars today"
+      "forks": 1402,
+      "added_stars": "0 stars today"
     }
   ]
 }

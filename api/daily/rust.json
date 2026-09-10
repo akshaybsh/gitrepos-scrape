@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -10,69 +10,79 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1250,
-      "forks": 137,
-      "added_stars": "55 stars today"
+      "stars": 1380,
+      "forks": 144,
+      "added_stars": "102 stars today"
     },
     {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "title": "google / magika",
+      "url": "https://github.com/google/magika",
+      "description": "Fast and accurate AI powered file content types detection",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 122646,
-      "forks": 18845,
-      "added_stars": "319 stars today"
-    },
-    {
-      "title": "mixelpixx / Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 562,
-      "forks": 83,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "huggingface / funes",
-      "url": "https://github.com/huggingface/funes",
-      "description": "Durable, searchable memory of your past agent sessions.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 333,
-      "forks": 24,
-      "added_stars": "67 stars today"
-    },
-    {
-      "title": "nautechsystems / nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 28680,
-      "forks": 3745,
+      "stars": 18528,
+      "forks": 1162,
       "added_stars": "62 stars today"
     },
     {
-      "title": "Pumpkin-MC / Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "title": "yyjeqhc / webcodex",
+      "url": "https://github.com/yyjeqhc/webcodex",
+      "description": "Give cloud AI agents a real development environment on your own machines.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11166,
-      "forks": 793,
-      "added_stars": "23 stars today"
+      "stars": 610,
+      "forks": 73,
+      "added_stars": "129 stars today"
     },
     {
-      "title": "vllm-project / agentic-api",
-      "url": "https://github.com/vllm-project/agentic-api",
-      "description": "Stateful API logic for agentic applications using vLLM",
+      "title": "leookun / cursor-byok",
+      "url": "https://github.com/leookun/cursor-byok",
+      "description": "cursor-byok is a local implementation of Cursor's backend",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 239,
-      "forks": 62,
-      "added_stars": "19 stars today"
+      "stars": 2858,
+      "forks": 445,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15232,
+      "forks": 619,
+      "added_stars": "149 stars today"
+    },
+    {
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 79739,
+      "forks": 5045,
+      "added_stars": "192 stars today"
+    },
+    {
+      "title": "waditu / czsc",
+      "url": "https://github.com/waditu/czsc",
+      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6084,
+      "forks": 1720,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "feigeCode / navop",
+      "url": "https://github.com/feigeCode/navop",
+      "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1247,
+      "forks": 137,
+      "added_stars": "57 stars today"
     },
     {
       "title": "ruvnet / RuView",
@@ -80,29 +90,109 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 92852,
-      "forks": 12321,
-      "added_stars": "109 stars today"
+      "stars": 92942,
+      "forks": 12329,
+      "added_stars": "99 stars today"
     },
     {
-      "title": "rust-lang / rustlings",
-      "url": "https://github.com/rust-lang/rustlings",
-      "description": "🦀 Small exercises to get you used to reading and writing Rust code!",
+      "title": "dmtrKovalenko / fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 64110,
-      "forks": 11258,
-      "added_stars": "29 stars today"
+      "stars": 10661,
+      "forks": 443,
+      "added_stars": "97 stars today"
     },
     {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "title": "jlcodes99 / cockpit-tools",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31879,
-      "forks": 1428,
-      "added_stars": "36 stars today"
+      "stars": 17407,
+      "forks": 1539,
+      "added_stars": "76 stars today"
+    },
+    {
+      "title": "farion1231 / cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 132040,
+      "forks": 9087,
+      "added_stars": "241 stars today"
+    },
+    {
+      "title": "mixelpixx / Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 598,
+      "forks": 84,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18763,
+      "forks": 1819,
+      "added_stars": "304 stars today"
+    },
+    {
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 42323,
+      "forks": 2827,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "polarsquad / krops",
+      "url": "https://github.com/polarsquad/krops",
+      "description": "Kubernetes-Native Resource Operations",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 141,
+      "forks": 14,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "memvid / memvid",
+      "url": "https://github.com/memvid/memvid",
+      "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 16534,
+      "forks": 1421,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "huggingface / funes",
+      "url": "https://github.com/huggingface/funes",
+      "description": "Durable, searchable memory of your past agent sessions.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 351,
+      "forks": 26,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "visioncortex / vtracer",
+      "url": "https://github.com/visioncortex/vtracer",
+      "description": "Raster to Vector Graphics Converter",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6956,
+      "forks": 477,
+      "added_stars": "18 stars today"
     },
     {
       "title": "ajeetdsouza / zoxide",
@@ -110,49 +200,19 @@
       "description": "A smarter cd command. Supports all major shells.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 39291,
-      "forks": 894,
-      "added_stars": "59 stars today"
+      "stars": 39337,
+      "forks": 895,
+      "added_stars": "57 stars today"
     },
     {
-      "title": "lencx / ChatGPT",
-      "url": "https://github.com/lencx/ChatGPT",
-      "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+      "title": "akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 54497,
-      "forks": 6141,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "lostb1t / remux",
-      "url": "https://github.com/lostb1t/remux",
-      "description": "self-hosted media server with a Jellyfin-compatible API",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 481,
-      "forks": 54,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "quickwit-oss / quickwit",
-      "url": "https://github.com/quickwit-oss/quickwit",
-      "description": "Cloud-native OSS search engine for observability",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 11594,
-      "forks": 592,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "microsoft / mxc",
-      "url": "https://github.com/microsoft/mxc",
-      "description": "Policy-driven, layered isolation and containment",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1309,
-      "forks": 73,
-      "added_stars": "5 stars today"
+      "stars": 6349,
+      "forks": 439,
+      "added_stars": "97 stars today"
     }
   ]
 }

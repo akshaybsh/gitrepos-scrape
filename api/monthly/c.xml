@@ -4,11 +4,16 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
   <item>
     <title>libretro / RetroArch</title>
     <link>https://github.com/libretro/RetroArch</link>
     <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+  </item>
+  <item>
+    <title>mpv-player / mpv</title>
+    <link>https://github.com/mpv-player/mpv</link>
+    <description>🎥 Command line media player</description>
   </item>
   <item>
     <title>obsproject / obs-studio</title>
@@ -21,9 +26,9 @@
     <description>Nmap - the Network Mapper. Github mirror of official SVN repository.</description>
   </item>
   <item>
-    <title>mpv-player / mpv</title>
-    <link>https://github.com/mpv-player/mpv</link>
-    <description>🎥 Command line media player</description>
+    <title>curl / curl</title>
+    <link>https://github.com/curl/curl</link>
+    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
     <title>zephyrproject-rtos / zephyr</title>
@@ -36,21 +41,6 @@
     <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
   </item>
   <item>
-    <title>opa334 / Dopamine</title>
-    <link>https://github.com/opa334/Dopamine</link>
-    <description>Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)</description>
-  </item>
-  <item>
-    <title>curl / curl</title>
-    <link>https://github.com/curl/curl</link>
-    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
-  </item>
-  <item>
-    <title>nicbarker / clay</title>
-    <link>https://github.com/nicbarker/clay</link>
-    <description>High performance UI layout library in C.</description>
-  </item>
-  <item>
     <title>sumatrapdfreader / sumatrapdf</title>
     <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
     <description>SumatraPDF reader</description>
@@ -61,14 +51,19 @@
     <description>🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.</description>
   </item>
   <item>
-    <title>brunodev85 / winlator</title>
-    <link>https://github.com/brunodev85/winlator</link>
-    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
+    <title>nicbarker / clay</title>
+    <link>https://github.com/nicbarker/clay</link>
+    <description>High performance UI layout library in C.</description>
   </item>
   <item>
     <title>reactos / reactos</title>
     <link>https://github.com/reactos/reactos</link>
     <description>A free Windows-compatible Operating System</description>
+  </item>
+  <item>
+    <title>brunodev85 / winlator</title>
+    <link>https://github.com/brunodev85/winlator</link>
+    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
   </item>
   <item>
     <title>openzfs / zfs</title>
@@ -81,9 +76,9 @@
     <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
   </item>
   <item>
-    <title>OpenVPN / openvpn</title>
-    <link>https://github.com/OpenVPN/openvpn</link>
-    <description>OpenVPN is an open source VPN daemon</description>
+    <title>UberGuidoZ / Flipper</title>
+    <link>https://github.com/UberGuidoZ/Flipper</link>
+    <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
   </item>
   <item>
     <title>aircrack-ng / aircrack-ng</title>
@@ -91,19 +86,19 @@
     <description>WiFi security auditing tools suite</description>
   </item>
   <item>
-    <title>UberGuidoZ / Flipper</title>
-    <link>https://github.com/UberGuidoZ/Flipper</link>
-    <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
-  </item>
-  <item>
     <title>git / git</title>
     <link>https://github.com/git/git</link>
     <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
   </item>
   <item>
-    <title>termux / termux-x11</title>
-    <link>https://github.com/termux/termux-x11</link>
-    <description>Termux X-server add-on.</description>
+    <title>henrypp / memreduct</title>
+    <link>https://github.com/henrypp/memreduct</link>
+    <description>Lightweight real-time memory management application to monitor and clean system memory on your computer.</description>
+  </item>
+  <item>
+    <title>hashcat / hashcat</title>
+    <link>https://github.com/hashcat/hashcat</link>
+    <description>World&#x27;s fastest and most advanced password recovery utility</description>
   </item>
   <item>
     <title>openwrt / openwrt</title>
@@ -116,14 +111,9 @@
     <description>General purpose TLS and crypto library</description>
   </item>
   <item>
-    <title>NVIDIA / open-gpu-kernel-modules</title>
-    <link>https://github.com/NVIDIA/open-gpu-kernel-modules</link>
-    <description>NVIDIA Linux open GPU kernel module source</description>
-  </item>
-  <item>
-    <title>hashcat / hashcat</title>
-    <link>https://github.com/hashcat/hashcat</link>
-    <description>World&#x27;s fastest and most advanced password recovery utility</description>
+    <title>termux / termux-x11</title>
+    <link>https://github.com/termux/termux-x11</link>
+    <description>Termux X-server add-on.</description>
   </item>
 </channel>
 </rss>

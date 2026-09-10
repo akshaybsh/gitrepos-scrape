@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
     {
       "title": "erlang / otp",
@@ -10,9 +10,19 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12336,
-      "forks": 3274,
-      "added_stars": "8 stars this week"
+      "stars": 12329,
+      "forks": 3271,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "emqx / emqx",
+      "url": "https://github.com/emqx/emqx",
+      "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 16704,
+      "forks": 2548,
+      "added_stars": "20 stars this week"
     }
   ]
 }

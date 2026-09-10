@@ -4,16 +4,11 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:00:51 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:58:23 GMT</pubDate>
   <item>
     <title>fmtlib / fmt</title>
     <link>https://github.com/fmtlib/fmt</link>
     <description>A modern formatting library</description>
-  </item>
-  <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
   </item>
   <item>
     <title>audacity / audacity</title>
@@ -21,14 +16,19 @@
     <description>Audio Editor</description>
   </item>
   <item>
+    <title>prusa3d / PrusaSlicer</title>
+    <link>https://github.com/prusa3d/PrusaSlicer</link>
+    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
+  </item>
+  <item>
     <title>optiscaler / OptiScaler</title>
     <link>https://github.com/optiscaler/OptiScaler</link>
     <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
-    <title>rui314 / mold</title>
-    <link>https://github.com/rui314/mold</link>
-    <description>mold: A Modern Linker 🦠</description>
+    <title>alibaba / zvec</title>
+    <link>https://github.com/alibaba/zvec</link>
+    <description>A lightweight, lightning-fast, in-process vector database</description>
   </item>
   <item>
     <title>facebook / rocksdb</title>
@@ -41,24 +41,9 @@
     <description>Abseil Common Libraries (C++)</description>
   </item>
   <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
-  </item>
-  <item>
-    <title>project-chip / connectedhomeip</title>
-    <link>https://github.com/project-chip/connectedhomeip</link>
-    <description>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</description>
-  </item>
-  <item>
-    <title>zhongyang219 / TrafficMonitor</title>
-    <link>https://github.com/zhongyang219/TrafficMonitor</link>
-    <description>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</description>
-  </item>
-  <item>
-    <title>OrcaSlicer / OrcaSlicer</title>
-    <link>https://github.com/OrcaSlicer/OrcaSlicer</link>
-    <description>G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</description>
+    <title>noctalia-dev / noctalia</title>
+    <link>https://github.com/noctalia-dev/noctalia</link>
+    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
   </item>
   <item>
     <title>mongodb / mongo</title>
@@ -66,19 +51,14 @@
     <description>The MongoDB Database</description>
   </item>
   <item>
+    <title>praydog / REFramework</title>
+    <link>https://github.com/praydog/REFramework</link>
+    <description>Mod loader, scripting platform, and VR support for all RE Engine games</description>
+  </item>
+  <item>
     <title>deskflow / deskflow</title>
     <link>https://github.com/deskflow/deskflow</link>
     <description>Share a single keyboard and mouse between multiple computers.</description>
-  </item>
-  <item>
-    <title>imputnet / helium</title>
-    <link>https://github.com/imputnet/helium</link>
-    <description>Private, fast, and honest web browser</description>
-  </item>
-  <item>
-    <title>MaaAssistantArknights / MaaAssistantArknights</title>
-    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
-    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
     <title>FreeCAD / FreeCAD</title>
@@ -86,19 +66,34 @@
     <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
   </item>
   <item>
-    <title>dragonflydb / dragonfly</title>
-    <link>https://github.com/dragonflydb/dragonfly</link>
-    <description>A modern replacement for Redis and Memcached</description>
-  </item>
-  <item>
     <title>google-deepmind / mujoco</title>
     <link>https://github.com/google-deepmind/mujoco</link>
     <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
   </item>
   <item>
-    <title>official-stockfish / Stockfish</title>
-    <link>https://github.com/official-stockfish/Stockfish</link>
-    <description>A free and strong UCI chess engine</description>
+    <title>imputnet / helium</title>
+    <link>https://github.com/imputnet/helium</link>
+    <description>Private, fast, and honest web browser</description>
+  </item>
+  <item>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+  </item>
+  <item>
+    <title>MaaAssistantArknights / MaaAssistantArknights</title>
+    <link>https://github.com/MaaAssistantArknights/MaaAssistantArknights</link>
+    <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
+  </item>
+  <item>
+    <title>LizardByte / Sunshine</title>
+    <link>https://github.com/LizardByte/Sunshine</link>
+    <description>Self-hosted game stream host for Moonlight.</description>
+  </item>
+  <item>
+    <title>zhongyang219 / TrafficMonitor</title>
+    <link>https://github.com/zhongyang219/TrafficMonitor</link>
+    <description>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</description>
   </item>
 </channel>
 </rss>

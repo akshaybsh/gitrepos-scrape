@@ -4,21 +4,16 @@
   <title>GitHub Solidity Languages Daily Trending</title>
   <description>Daily Trending of Solidity Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
-  <item>
-    <title>SunWeb3Sec / DeFiHackLabs</title>
-    <link>https://github.com/SunWeb3Sec/DeFiHackLabs</link>
-    <description>Reproduce DeFi hacked incidents using Foundry.</description>
-  </item>
+  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
   <item>
     <title>OpenZeppelin / openzeppelin-contracts</title>
     <link>https://github.com/OpenZeppelin/openzeppelin-contracts</link>
     <description>OpenZeppelin Contracts is a library for secure smart contract development.</description>
   </item>
   <item>
-    <title>aave / aave-v4</title>
-    <link>https://github.com/aave/aave-v4</link>
-    <description>Aave V4</description>
+    <title>Uniswap / v4-core</title>
+    <link>https://github.com/Uniswap/v4-core</link>
+    <description>🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</description>
   </item>
   <item>
     <title>1inch / swap-vm</title>
@@ -34,11 +29,6 @@
     <title>across-protocol / contracts</title>
     <link>https://github.com/across-protocol/contracts</link>
     <description>Smart contracts for Across protocol</description>
-  </item>
-  <item>
-    <title>Uniswap / v4-core</title>
-    <link>https://github.com/Uniswap/v4-core</link>
-    <description>🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4</description>
   </item>
   <item>
     <title>ethereum / ERCs</title>
@@ -61,24 +51,9 @@
     <description>🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4</description>
   </item>
   <item>
-    <title>Uniswap / UniswapX</title>
-    <link>https://github.com/Uniswap/UniswapX</link>
-    <description>🦄 Gasless ERC20 swap settlement protocol 🦄</description>
-  </item>
-  <item>
     <title>morpho-org / vault-v2</title>
     <link>https://github.com/morpho-org/vault-v2</link>
     <description>Morpho&#x27;s non-custodial vault protocol</description>
-  </item>
-  <item>
-    <title>0xProject / 0x-settler</title>
-    <link>https://github.com/0xProject/0x-settler</link>
-    <description>0x settlement contracts using Permit2</description>
-  </item>
-  <item>
-    <title>transmissions11 / solmate</title>
-    <link>https://github.com/transmissions11/solmate</link>
-    <description>Modern, opinionated, and gas optimized building blocks for smart contract development.</description>
   </item>
   <item>
     <title>GNSPS / solidity-bytes-utils</title>
@@ -86,9 +61,9 @@
     <description>Utility Solidity library composed of basic operations for tightly packed bytes arrays</description>
   </item>
   <item>
-    <title>celo-org / celo-monorepo</title>
-    <link>https://github.com/celo-org/celo-monorepo</link>
-    <description>Official repository for core projects comprising the Celo platform</description>
+    <title>transmissions11 / solmate</title>
+    <link>https://github.com/transmissions11/solmate</link>
+    <description>Modern, opinionated, and gas optimized building blocks for smart contract development.</description>
   </item>
   <item>
     <title>dapphub / ds-test</title>
@@ -96,14 +71,39 @@
     <description>Assertions, equality checks and other test helpers</description>
   </item>
   <item>
+    <title>Uniswap / UniswapX</title>
+    <link>https://github.com/Uniswap/UniswapX</link>
+    <description>🦄 Gasless ERC20 swap settlement protocol 🦄</description>
+  </item>
+  <item>
+    <title>0xProject / 0x-settler</title>
+    <link>https://github.com/0xProject/0x-settler</link>
+    <description>0x settlement contracts using Permit2</description>
+  </item>
+  <item>
+    <title>celo-org / celo-monorepo</title>
+    <link>https://github.com/celo-org/celo-monorepo</link>
+    <description>Official repository for core projects comprising the Celo platform</description>
+  </item>
+  <item>
     <title>Arachnid / solidity-stringutils</title>
     <link>https://github.com/Arachnid/solidity-stringutils</link>
     <description>Basic string utilities for Solidity</description>
   </item>
   <item>
-    <title>AmazingAng / WTF-Solidity</title>
-    <link>https://github.com/AmazingAng/WTF-Solidity</link>
-    <description>WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</description>
+    <title>dmfxyz / murky</title>
+    <link>https://github.com/dmfxyz/murky</link>
+    <description>Merkle Proof Generator and Validator in Solidity</description>
+  </item>
+  <item>
+    <title>tempoxyz / tempo-std</title>
+    <link>https://github.com/tempoxyz/tempo-std</link>
+    <description>A collection of helpful contracts and libraries for use with Tempo for Foundry</description>
+  </item>
+  <item>
+    <title>euler-xyz / euler-vault-kit</title>
+    <link>https://github.com/euler-xyz/euler-vault-kit</link>
+    <description>Build lending vaults which connect through Ethereum Vault Connector</description>
   </item>
 </channel>
 </rss>

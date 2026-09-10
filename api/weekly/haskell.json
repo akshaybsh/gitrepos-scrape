@@ -2,27 +2,37 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19408,
-      "forks": 1351,
-      "added_stars": "62 stars this week"
-    },
     {
       "title": "jgm / pandoc",
       "url": "https://github.com/jgm/pandoc",
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46197,
-      "forks": 3963,
-      "added_stars": "118 stars this week"
+      "stars": 46212,
+      "forks": 3964,
+      "added_stars": "115 stars this week"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19412,
+      "forks": 1345,
+      "added_stars": "61 stars this week"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12396,
+      "forks": 501,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "koalaman / shellcheck",
@@ -30,9 +40,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40010,
-      "forks": 1944,
-      "added_stars": "45 stars this week"
+      "stars": 40015,
+      "forks": 1945,
+      "added_stars": "42 stars this week"
     },
     {
       "title": "plaintextaccounting / hledger",
@@ -42,7 +52,7 @@
       "languageColor": "#5e5086",
       "stars": 4701,
       "forks": 413,
-      "added_stars": "18 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
       "title": "mtolly / onyx",
@@ -55,44 +65,34 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "haskell-servant / servant",
-      "url": "https://github.com/haskell-servant/servant",
-      "description": "Servant is a Haskell DSL for describing, serving, querying, mocking, documenting web applications and more!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1966,
-      "forks": 426,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12392,
-      "forks": 501,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1739,
-      "forks": 71,
-      "added_stars": "39 stars this week"
-    },
-    {
       "title": "elm / compiler",
       "url": "https://github.com/elm/compiler",
       "description": "Compiler for Elm, a functional language for reliable webapps.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 7900,
+      "stars": 7901,
       "forks": 691,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27652,
+      "forks": 1226,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "purescript / purescript",
+      "url": "https://github.com/purescript/purescript",
+      "description": "A strongly-typed language that compiles to JavaScript",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 8909,
+      "forks": 575,
+      "added_stars": "7 stars this week"
     }
   ]
 }

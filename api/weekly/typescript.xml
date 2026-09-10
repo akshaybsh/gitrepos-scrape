@@ -4,11 +4,16 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:00:51 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:58:23 GMT</pubDate>
   <item>
     <title>ChromeDevTools / chrome-devtools-mcp</title>
     <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
     <description>Chrome DevTools for coding agents</description>
+  </item>
+  <item>
+    <title>heygen-com / hyperframes</title>
+    <link>https://github.com/heygen-com/hyperframes</link>
+    <description>Write HTML. Render video. Built for agents.</description>
   </item>
   <item>
     <title>mksglu / context-mode</title>
@@ -16,9 +21,9 @@
     <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
   </item>
   <item>
-    <title>heygen-com / hyperframes</title>
-    <link>https://github.com/heygen-com/hyperframes</link>
-    <description>Write HTML. Render video. Built for agents.</description>
+    <title>THU-MAIC / OpenMAIC</title>
+    <link>https://github.com/THU-MAIC/OpenMAIC</link>
+    <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
   </item>
   <item>
     <title>every-app / open-seo</title>
@@ -31,19 +36,19 @@
     <description>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
   </item>
   <item>
-    <title>Effect-TS / effect</title>
-    <link>https://github.com/Effect-TS/effect</link>
-    <description>Build production-ready applications in TypeScript</description>
+    <title>anomalyco / opencode</title>
+    <link>https://github.com/anomalyco/opencode</link>
+    <description>The open source coding agent.</description>
+  </item>
+  <item>
+    <title>awslabs / aidlc-workflows</title>
+    <link>https://github.com/awslabs/aidlc-workflows</link>
+    <description>AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents</description>
   </item>
   <item>
     <title>magnitudedev / magnitude</title>
     <link>https://github.com/magnitudedev/magnitude</link>
-    <description>Open source inference server for Apple silicon. Profiles your Mac, recommends the best models for it, then downloads, tunes, and runs them. Plugs into Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.</description>
-  </item>
-  <item>
-    <title>Gitlawb / openclaude</title>
-    <link>https://github.com/Gitlawb/openclaude</link>
-    <description>runs anywhere. uses anything</description>
+    <description>Open source inference server for the hardware you already have. It profiles your machine, recommends the right models for it, then downloads, tunes, and runs them. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.</description>
   </item>
   <item>
     <title>humanlayer / skills</title>
@@ -51,29 +56,29 @@
     <description></description>
   </item>
   <item>
+    <title>MoonTechLab / LunaTV</title>
+    <link>https://github.com/MoonTechLab/LunaTV</link>
+    <description>本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源</description>
+  </item>
+  <item>
+    <title>Gitlawb / openclaude</title>
+    <link>https://github.com/Gitlawb/openclaude</link>
+    <description>runs anywhere. uses anything</description>
+  </item>
+  <item>
     <title>BraveOPotato / FckSignups</title>
     <link>https://github.com/BraveOPotato/FckSignups</link>
     <description>A list of tools that are open-source, in-browser, and require no-signups!</description>
   </item>
   <item>
-    <title>mlc-ai / web-llm</title>
-    <link>https://github.com/mlc-ai/web-llm</link>
-    <description>High-performance In-browser LLM Inference Engine</description>
-  </item>
-  <item>
-    <title>linshenkx / prompt-optimizer</title>
-    <link>https://github.com/linshenkx/prompt-optimizer</link>
-    <description>An AI prompt optimizer for writing better prompts and getting better AI results.</description>
-  </item>
-  <item>
-    <title>THU-MAIC / OpenMAIC</title>
-    <link>https://github.com/THU-MAIC/OpenMAIC</link>
-    <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
+    <title>AdventDevInc / kudu</title>
+    <link>https://github.com/AdventDevInc/kudu</link>
+    <description>Free Windows, Mac and Linux cleaner, scanner, and more.</description>
   </item>
   <item>
     <title>pascalorg / editor</title>
     <link>https://github.com/pascalorg/editor</link>
-    <description>Create and share 3D architectural projects.</description>
+    <description>Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.</description>
   </item>
   <item>
     <title>aipoch / open-science</title>
@@ -81,24 +86,14 @@
     <description>AIPOCH Open-Science is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.</description>
   </item>
   <item>
-    <title>anomalyco / opencode</title>
-    <link>https://github.com/anomalyco/opencode</link>
-    <description>The open source coding agent.</description>
+    <title>linshenkx / prompt-optimizer</title>
+    <link>https://github.com/linshenkx/prompt-optimizer</link>
+    <description>An AI prompt optimizer for writing better prompts and getting better AI results.</description>
   </item>
   <item>
-    <title>vercel-labs / portless</title>
-    <link>https://github.com/vercel-labs/portless</link>
-    <description>Replace port numbers with stable, named local URLs. For humans and agents.</description>
-  </item>
-  <item>
-    <title>pmndrs / react-three-fiber</title>
-    <link>https://github.com/pmndrs/react-three-fiber</link>
-    <description>🇨🇭 A React renderer for Three.js</description>
-  </item>
-  <item>
-    <title>awslabs / aidlc-workflows</title>
-    <link>https://github.com/awslabs/aidlc-workflows</link>
-    <description>AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents</description>
+    <title>OpenHands / OpenHands</title>
+    <link>https://github.com/OpenHands/OpenHands</link>
+    <description>🙌 OpenHands: AI-Driven Development</description>
   </item>
 </channel>
 </rss>

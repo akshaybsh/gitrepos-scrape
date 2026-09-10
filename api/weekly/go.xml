@@ -4,31 +4,11 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:00:51 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:58:23 GMT</pubDate>
   <item>
     <title>Tencent / WeKnora</title>
     <link>https://github.com/Tencent/WeKnora</link>
     <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-  </item>
-  <item>
-    <title>majd / ipatool</title>
-    <link>https://github.com/majd/ipatool</link>
-    <description>Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.</description>
-  </item>
-  <item>
-    <title>NdoleStudio / httpsms</title>
-    <link>https://github.com/NdoleStudio/httpsms</link>
-    <description>Send and receive SMS messages using your Android phone programmatically via a simple HTTP API</description>
-  </item>
-  <item>
-    <title>danielmiessler / Fabric</title>
-    <link>https://github.com/danielmiessler/Fabric</link>
-    <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
-  </item>
-  <item>
-    <title>QuantumNous / new-api</title>
-    <link>https://github.com/QuantumNous/new-api</link>
-    <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
   </item>
   <item>
     <title>ollama / ollama</title>
@@ -41,39 +21,39 @@
     <description>🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman</description>
   </item>
   <item>
-    <title>smallstep / certificates</title>
-    <link>https://github.com/smallstep/certificates</link>
-    <description>🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</description>
-  </item>
-  <item>
-    <title>projectdiscovery / katana</title>
-    <link>https://github.com/projectdiscovery/katana</link>
-    <description>A next-generation crawling and spidering framework.</description>
-  </item>
-  <item>
-    <title>Gentleman-Programming / engram</title>
-    <link>https://github.com/Gentleman-Programming/engram</link>
-    <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
-  </item>
-  <item>
-    <title>grpc-ecosystem / grpc-gateway</title>
-    <link>https://github.com/grpc-ecosystem/grpc-gateway</link>
-    <description>gRPC to JSON proxy generator following the gRPC HTTP spec</description>
-  </item>
-  <item>
-    <title>tailscale / tailscale</title>
-    <link>https://github.com/tailscale/tailscale</link>
-    <description>The easiest, most secure way to use WireGuard and 2FA.</description>
-  </item>
-  <item>
-    <title>tailscale / tailcat</title>
-    <link>https://github.com/tailscale/tailcat</link>
-    <description>like netcat, but over Tailscale&#x27;s data plane, without Tailscale&#x27;s control plane</description>
-  </item>
-  <item>
     <title>vllm-project / semantic-router</title>
     <link>https://github.com/vllm-project/semantic-router</link>
     <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
+  </item>
+  <item>
+    <title>QuantumNous / new-api</title>
+    <link>https://github.com/QuantumNous/new-api</link>
+    <description>A unified AI model hub for aggregation &amp; distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.</description>
+  </item>
+  <item>
+    <title>rorkai / App-Store-Connect-CLI</title>
+    <link>https://github.com/rorkai/App-Store-Connect-CLI</link>
+    <description>Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more</description>
+  </item>
+  <item>
+    <title>Gentleman-Programming / gentle-ai</title>
+    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+    <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+  </item>
+  <item>
+    <title>maximhq / bifrost</title>
+    <link>https://github.com/maximhq/bifrost</link>
+    <description>Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.</description>
+  </item>
+  <item>
+    <title>cilium / cilium</title>
+    <link>https://github.com/cilium/cilium</link>
+    <description>eBPF-based Networking, Security, and Observability</description>
+  </item>
+  <item>
+    <title>amir20 / dozzle</title>
+    <link>https://github.com/amir20/dozzle</link>
+    <description>Realtime log viewer for containers. Supports Docker, Swarm and K8s.</description>
   </item>
   <item>
     <title>mudler / LocalAI</title>
@@ -81,19 +61,9 @@
     <description>LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.</description>
   </item>
   <item>
-    <title>Billionmail / BillionMail</title>
-    <link>https://github.com/Billionmail/BillionMail</link>
-    <description>BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr</description>
-  </item>
-  <item>
     <title>netbirdio / netbird</title>
     <link>https://github.com/netbirdio/netbird</link>
     <description>Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</description>
-  </item>
-  <item>
-    <title>kubernetes / minikube</title>
-    <link>https://github.com/kubernetes/minikube</link>
-    <description>Run Kubernetes locally</description>
   </item>
   <item>
     <title>slackhq / nebula</title>
@@ -101,9 +71,34 @@
     <description>A scalable overlay networking tool with a focus on performance, simplicity and security</description>
   </item>
   <item>
-    <title>seaweedfs / seaweedfs</title>
-    <link>https://github.com/seaweedfs/seaweedfs</link>
-    <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+    <title>XTLS / Xray-core</title>
+    <link>https://github.com/XTLS/Xray-core</link>
+    <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+  </item>
+  <item>
+    <title>gtsteffaniak / filebrowser</title>
+    <link>https://github.com/gtsteffaniak/filebrowser</link>
+    <description>📂 Web File Browser</description>
+  </item>
+  <item>
+    <title>MHSanaei / 3x-ui</title>
+    <link>https://github.com/MHSanaei/3x-ui</link>
+    <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
+  </item>
+  <item>
+    <title>henrygd / beszel</title>
+    <link>https://github.com/henrygd/beszel</link>
+    <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+  </item>
+  <item>
+    <title>vxcontrol / pentagi</title>
+    <link>https://github.com/vxcontrol/pentagi</link>
+    <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+  </item>
+  <item>
+    <title>majd / ipatool</title>
+    <link>https://github.com/majd/ipatool</link>
+    <description>Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.</description>
   </item>
 </channel>
 </rss>

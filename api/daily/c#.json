@@ -2,27 +2,117 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
-    {
-      "title": "armory3d / armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4172,
-      "forks": 495,
-      "added_stars": "55 stars today"
-    },
     {
       "title": "doldecomp / melee",
       "url": "https://github.com/doldecomp/melee",
       "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1881,
-      "forks": 251,
-      "added_stars": "611 stars today"
+      "stars": 2033,
+      "forks": 274,
+      "added_stars": "301 stars today"
+    },
+    {
+      "title": "armory3d / armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4223,
+      "forks": 507,
+      "added_stars": "73 stars today"
+    },
+    {
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27811,
+      "forks": 2594,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 846,
+      "forks": 234,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "mackron / miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7244,
+      "forks": 600,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "timescale / timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 23500,
+      "forks": 1147,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5351,
+      "forks": 823,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "microsoft / PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 138526,
+      "forks": 8549,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "php / php-src",
+      "url": "https://github.com/php/php-src",
+      "description": "The PHP Interpreter",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 40365,
+      "forks": 8143,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 63097,
+      "forks": 28380,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "xiph / rnnoise",
+      "url": "https://github.com/xiph/rnnoise",
+      "description": "Recurrent neural network for audio noise reduction",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5831,
+      "forks": 1072,
+      "added_stars": "3 stars today"
     },
     {
       "title": "Mbed-TLS / mbedtls",
@@ -30,38 +120,58 @@
       "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6952,
-      "forks": 2966,
-      "added_stars": "6 stars today"
+      "stars": 6953,
+      "forks": 2967,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "maxsteeel / nomount",
-      "url": "https://github.com/maxsteeel/nomount",
-      "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 242,
-      "forks": 58,
-      "added_stars": "4 stars today"
+      "stars": 27265,
+      "forks": 2993,
+      "added_stars": "157 stars today"
     },
     {
-      "title": "meshcore-dev / MeshCore",
-      "url": "https://github.com/meshcore-dev/MeshCore",
-      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3633,
-      "forks": 1309,
-      "added_stars": "9 stars today"
+      "stars": 70315,
+      "forks": 4494,
+      "added_stars": "167 stars today"
     },
     {
-      "title": "Sor3nt / Flipper-Zero-ESP32-Port",
-      "url": "https://github.com/Sor3nt/Flipper-Zero-ESP32-Port",
+      "title": "fluent / fluent-bit",
+      "url": "https://github.com/fluent/fluent-bit",
+      "description": "Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8087,
+      "forks": 1993,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "iczelia / bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "description": "A better and stronger spiritual successor to BZip2.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1501,
+      "forks": 63,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "HarbourMasters / Ghostship",
+      "url": "https://github.com/HarbourMasters/Ghostship",
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 444,
-      "forks": 98,
+      "stars": 719,
+      "forks": 50,
       "added_stars": "5 stars today"
     },
     {
@@ -71,118 +181,8 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 2553,
-      "forks": 9912,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "HarbourMasters / Shipwright",
-      "url": "https://github.com/HarbourMasters/Shipwright",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5338,
-      "forks": 825,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "kingToolbox / WindTerm",
-      "url": "https://github.com/kingToolbox/WindTerm",
-      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 32199,
-      "forks": 2453,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "RT-Thread / rt-thread",
-      "url": "https://github.com/RT-Thread/rt-thread",
-      "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12204,
-      "forks": 5453,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "tianocore / edk2",
-      "url": "https://github.com/tianocore/edk2",
-      "description": "EDK II",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6235,
-      "forks": 3261,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "DeusData / codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 42714,
-      "forks": 3480,
-      "added_stars": "107 stars today"
-    },
-    {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27154,
-      "forks": 2976,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "pgvector / pgvector",
-      "url": "https://github.com/pgvector/pgvector",
-      "description": "Open-source vector similarity search for Postgres",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22953,
-      "forks": 1314,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "openwall / john",
-      "url": "https://github.com/openwall/john",
-      "description": "John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13611,
-      "forks": 2551,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "DaveGamble / cJSON",
-      "url": "https://github.com/DaveGamble/cJSON",
-      "description": "Ultralightweight JSON parser in ANSI C",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12982,
-      "forks": 3520,
+      "forks": 9922,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "asterisk / asterisk",
-      "url": "https://github.com/asterisk/asterisk",
-      "description": "The official Asterisk Project repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 3517,
-      "forks": 1305,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "bol-van / zapret2",
-      "url": "https://github.com/bol-van/zapret2",
-      "description": "anti-dpi software",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5414,
-      "forks": 236,
-      "added_stars": "9 stars today"
     }
   ]
 }

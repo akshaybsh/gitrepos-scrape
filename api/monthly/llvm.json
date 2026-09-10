@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,9 +10,9 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 40351,
-      "forks": 18595,
-      "added_stars": "793 stars this month"
+      "stars": 40392,
+      "forks": 18602,
+      "added_stars": "813 stars this month"
     },
     {
       "title": "intel / llvm",
@@ -22,7 +22,7 @@
       "languageColor": "#185619",
       "stars": 1521,
       "forks": 853,
-      "added_stars": "17 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "arm / arm-toolchain",
@@ -30,19 +30,9 @@
       "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 246,
+      "stars": 247,
       "forks": 53,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "KhronosGroup / SPIRV-LLVM-Translator",
-      "url": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator",
-      "description": "A tool and a library for bi-directional translation between SPIR-V and LLVM IR",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 623,
-      "forks": 276,
-      "added_stars": "2 stars this month"
+      "added_stars": "12 stars this month"
     }
   ]
 }

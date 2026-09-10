@@ -2,17 +2,37 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13638,
+      "forks": 1683,
+      "added_stars": "28 stars this week"
+    },
     {
       "title": "stashapp / CommunityScrapers",
       "url": "https://github.com/stashapp/CommunityScrapers",
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 833,
+      "stars": 835,
       "forks": 522,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "web-platform-dx / web-features",
+      "url": "https://github.com/web-platform-dx/web-features",
+      "description": "Exploring how to present Web platform features adoptability",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 924,
+      "forks": 323,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "KSP-CKAN / NetKAN",
@@ -21,28 +41,8 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 89,
-      "forks": 411,
+      "forks": 412,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13634,
-      "forks": 1682,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "web-platform-dx / web-features",
-      "url": "https://github.com/web-platform-dx/web-features",
-      "description": "Exploring how to present Web platform features adoptability",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 923,
-      "forks": 322,
-      "added_stars": "6 stars this week"
     }
   ]
 }

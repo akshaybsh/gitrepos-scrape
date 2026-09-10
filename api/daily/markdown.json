@@ -2,56 +2,76 @@
   "title": "GitHub Markdown Languages Daily Trending",
   "description": "Daily Trending of Markdown Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
-    {
-      "title": "mdn / content",
-      "url": "https://github.com/mdn/content",
-      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 10975,
-      "forks": 23234,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "codecrafters-io / build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 546105,
-      "forks": 51396,
-      "added_stars": "237 stars today"
+      "stars": 546287,
+      "forks": 51406,
+      "added_stars": "212 stars today"
     },
     {
-      "title": "MicrosoftDocs / azure-docs",
-      "url": "https://github.com/MicrosoftDocs/azure-docs",
-      "description": "Open source documentation of Microsoft Azure",
+      "title": "OAI / OpenAPI-Specification",
+      "url": "https://github.com/OAI/OpenAPI-Specification",
+      "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 10970,
-      "forks": 21768,
-      "added_stars": "1 star today"
+      "stars": 31212,
+      "forks": 9158,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "docker / docs",
-      "url": "https://github.com/docker/docs",
-      "description": "Source repo for Docker's Documentation",
+      "title": "adr / madr",
+      "url": "https://github.com/adr/madr",
+      "description": "Markdown Architectural Decision Records",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 4647,
-      "forks": 8462,
-      "added_stars": "0 stars today"
+      "stars": 2467,
+      "forks": 468,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "mdn / translated-content",
-      "url": "https://github.com/mdn/translated-content",
-      "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
+      "title": "rust-lang / rfcs",
+      "url": "https://github.com/rust-lang/rfcs",
+      "description": "RFCs for changes to Rust",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 2029,
-      "forks": 8304,
+      "stars": 6592,
+      "forks": 1701,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "DigitalPlatDev / FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "description": "Free domain registration and practical DNS learning resources for everyone.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 198451,
+      "forks": 4320,
+      "added_stars": "188 stars today"
+    },
+    {
+      "title": "tldr-pages / tldr",
+      "url": "https://github.com/tldr-pages/tldr",
+      "description": "Collaborative cheatsheets for console commands 📚.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 63645,
+      "forks": 5401,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "swiftlang / swift-evolution",
+      "url": "https://github.com/swiftlang/swift-evolution",
+      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 15868,
+      "forks": 2475,
       "added_stars": "0 stars today"
     },
     {
@@ -60,69 +80,9 @@
       "description": "This repository provides SAP style guides for coding and coding-related topics.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 2004,
+      "stars": 2005,
       "forks": 504,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "OAI / OpenAPI-Specification",
-      "url": "https://github.com/OAI/OpenAPI-Specification",
-      "description": "The OpenAPI Specification Repository",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 31211,
-      "forks": 9157,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "swiftlang / swift-evolution",
-      "url": "https://github.com/swiftlang/swift-evolution",
-      "description": "This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 15871,
-      "forks": 2475,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "tldr-pages / tldr",
-      "url": "https://github.com/tldr-pages/tldr",
-      "description": "Collaborative cheatsheets for console commands 📚.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 63638,
-      "forks": 5403,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "DigitalPlatDev / FreeDomain",
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "description": "Free domain registration and practical DNS learning resources for everyone.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 198288,
-      "forks": 4309,
-      "added_stars": "235 stars today"
-    },
-    {
-      "title": "project-trans / RLE-wiki",
-      "url": "https://github.com/project-trans/RLE-wiki",
-      "description": "RLE.wiki is a free, open, and continuously updated transgender real-life-experience site.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 259,
-      "forks": 268,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "adr / madr",
-      "url": "https://github.com/adr/madr",
-      "description": "Markdown Architectural Decision Records",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 2465,
-      "forks": 468,
-      "added_stars": "8 stars today"
     },
     {
       "title": "adambard / learnxinyminutes-docs",
@@ -135,6 +95,26 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "docker / docs",
+      "url": "https://github.com/docker/docs",
+      "description": "Source repo for Docker's Documentation",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 4647,
+      "forks": 8464,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "privacyguides / privacyguides.org",
+      "url": "https://github.com/privacyguides/privacyguides.org",
+      "description": "Protect your data against global mass surveillance programs.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 4241,
+      "forks": 292,
+      "added_stars": "2 stars today"
+    },
+    {
       "title": "drknzz / GitHub-Achievements",
       "url": "https://github.com/drknzz/GitHub-Achievements",
       "description": "🔥 A Complete List of GitHub Profile Badges and Achievements 🔥",
@@ -142,7 +122,77 @@
       "languageColor": "#083fa1",
       "stars": 3094,
       "forks": 311,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MicrosoftDocs / azure-docs",
+      "url": "https://github.com/MicrosoftDocs/azure-docs",
+      "description": "Open source documentation of Microsoft Azure",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 10970,
+      "forks": 21766,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ellisonleao / magictools",
+      "url": "https://github.com/ellisonleao/magictools",
+      "description": "🎮 📝 A list of Game Development resources to make magic happen.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 17271,
+      "forks": 1229,
       "added_stars": "4 stars today"
+    },
+    {
+      "title": "Atlas-OS / docs",
+      "url": "https://github.com/Atlas-OS/docs",
+      "description": "Atlas documentation hosted on Cloudflare Pages using MkDocs",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 150,
+      "forks": 174,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Kotlin / KEEP",
+      "url": "https://github.com/Kotlin/KEEP",
+      "description": "Kotlin Evolution and Enhancement Process",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 3764,
+      "forks": 384,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "missing-semester-cn / missing-semester-cn.github.io",
+      "url": "https://github.com/missing-semester-cn/missing-semester-cn.github.io",
+      "description": "the CS missing semester Chinese version",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 7394,
+      "forks": 1198,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "jaywcjlove / linux-command",
+      "url": "https://github.com/jaywcjlove/linux-command",
+      "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 36882,
+      "forks": 6597,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "Evavic44 / portfolio-ideas",
+      "url": "https://github.com/Evavic44/portfolio-ideas",
+      "description": "A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 6320,
+      "forks": 955,
+      "added_stars": "1 star today"
     }
   ]
 }

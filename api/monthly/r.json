@@ -2,8 +2,18 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
+    {
+      "title": "nflverse / nflverse-data",
+      "url": "https://github.com/nflverse/nflverse-data",
+      "description": "Automated nflverse data repository",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 388,
+      "forks": 43,
+      "added_stars": "14 stars this month"
+    },
     {
       "title": "tidyverse / ggplot2",
       "url": "https://github.com/tidyverse/ggplot2",
@@ -11,7 +21,17 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 6991,
-      "forks": 2126,
+      "forks": 2124,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4596,
+      "forks": 7194,
       "added_stars": "19 stars this month"
     },
     {
@@ -21,18 +41,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5149,
-      "forks": 4445,
+      "forks": 4444,
       "added_stars": "29 stars this month"
-    },
-    {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4595,
-      "forks": 7194,
-      "added_stars": "19 stars this month"
     },
     {
       "title": "satijalab / seurat",
@@ -40,9 +50,9 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2796,
+      "stars": 2798,
       "forks": 996,
-      "added_stars": "16 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "tidyverse / dplyr",
@@ -51,7 +61,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5067,
-      "forks": 2115,
+      "forks": 2114,
       "added_stars": "14 stars this month"
     },
     {
@@ -62,7 +72,7 @@
       "languageColor": "#198CE7",
       "stars": 1445,
       "forks": 303,
-      "added_stars": "3 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "rstudio / shiny",
@@ -71,8 +81,18 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 5682,
-      "forks": 1890,
-      "added_stars": "13 stars this month"
+      "forks": 1889,
+      "added_stars": "12 stars this month"
+    },
+    {
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 891,
+      "forks": 143282,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "jinworks / CellChat",
@@ -82,17 +102,17 @@
       "languageColor": "#198CE7",
       "stars": 666,
       "forks": 112,
-      "added_stars": "22 stars this month"
+      "added_stars": "21 stars this month"
     },
     {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "title": "posit-dev / skills",
+      "url": "https://github.com/posit-dev/skills",
+      "description": "A collection of Claude Skills from Posit",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 891,
-      "forks": 143281,
-      "added_stars": "2 stars this month"
+      "stars": 494,
+      "forks": 48,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
@@ -100,9 +120,9 @@
       "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 3915,
+      "stars": 3916,
       "forks": 1052,
-      "added_stars": "11 stars this month"
+      "added_stars": "12 stars this month"
     }
   ]
 }

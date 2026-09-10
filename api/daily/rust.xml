@@ -4,41 +4,46 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 06:58:31 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 06:56:05 GMT</pubDate>
   <item>
     <title>HakanSeven12 / OpenCADStudio</title>
     <link>https://github.com/HakanSeven12/OpenCADStudio</link>
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
+    <title>google / magika</title>
+    <link>https://github.com/google/magika</link>
+    <description>Fast and accurate AI powered file content types detection</description>
   </item>
   <item>
-    <title>mixelpixx / Konnect</title>
-    <link>https://github.com/mixelpixx/Konnect</link>
-    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+    <title>yyjeqhc / webcodex</title>
+    <link>https://github.com/yyjeqhc/webcodex</link>
+    <description>Give cloud AI agents a real development environment on your own machines.</description>
   </item>
   <item>
-    <title>huggingface / funes</title>
-    <link>https://github.com/huggingface/funes</link>
-    <description>Durable, searchable memory of your past agent sessions.</description>
+    <title>leookun / cursor-byok</title>
+    <link>https://github.com/leookun/cursor-byok</link>
+    <description>cursor-byok is a local implementation of Cursor&#x27;s backend</description>
   </item>
   <item>
-    <title>nautechsystems / nautilus_trader</title>
-    <link>https://github.com/nautechsystems/nautilus_trader</link>
-    <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
+    <title>Automattic / harper</title>
+    <link>https://github.com/Automattic/harper</link>
+    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
   </item>
   <item>
-    <title>Pumpkin-MC / Pumpkin</title>
-    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-    <description>Empowering everyone to host fast and efficient Minecraft servers.</description>
+    <title>rtk-ai / rtk</title>
+    <link>https://github.com/rtk-ai/rtk</link>
+    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
   </item>
   <item>
-    <title>vllm-project / agentic-api</title>
-    <link>https://github.com/vllm-project/agentic-api</link>
-    <description>Stateful API logic for agentic applications using vLLM</description>
+    <title>waditu / czsc</title>
+    <link>https://github.com/waditu/czsc</link>
+    <description>缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易</description>
+  </item>
+  <item>
+    <title>feigeCode / navop</title>
+    <link>https://github.com/feigeCode/navop</link>
+    <description>A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.</description>
   </item>
   <item>
     <title>ruvnet / RuView</title>
@@ -46,14 +51,54 @@
     <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
   </item>
   <item>
-    <title>rust-lang / rustlings</title>
-    <link>https://github.com/rust-lang/rustlings</link>
-    <description>🦀 Small exercises to get you used to reading and writing Rust code!</description>
+    <title>dmtrKovalenko / fff</title>
+    <link>https://github.com/dmtrKovalenko/fff</link>
+    <description>The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS</description>
   </item>
   <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+    <title>jlcodes99 / cockpit-tools</title>
+    <link>https://github.com/jlcodes99/cockpit-tools</link>
+    <description>🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta</description>
+  </item>
+  <item>
+    <title>farion1231 / cc-switch</title>
+    <link>https://github.com/farion1231/cc-switch</link>
+    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
+  </item>
+  <item>
+    <title>mixelpixx / Konnect</title>
+    <link>https://github.com/mixelpixx/Konnect</link>
+    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+  </item>
+  <item>
+    <title>t8y2 / dbx</title>
+    <link>https://github.com/t8y2/dbx</link>
+    <description>20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
+  </item>
+  <item>
+    <title>vercel-labs / agent-browser</title>
+    <link>https://github.com/vercel-labs/agent-browser</link>
+    <description>Browser automation CLI for AI agents</description>
+  </item>
+  <item>
+    <title>polarsquad / krops</title>
+    <link>https://github.com/polarsquad/krops</link>
+    <description>Kubernetes-Native Resource Operations</description>
+  </item>
+  <item>
+    <title>memvid / memvid</title>
+    <link>https://github.com/memvid/memvid</link>
+    <description>Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.</description>
+  </item>
+  <item>
+    <title>huggingface / funes</title>
+    <link>https://github.com/huggingface/funes</link>
+    <description>Durable, searchable memory of your past agent sessions.</description>
+  </item>
+  <item>
+    <title>visioncortex / vtracer</title>
+    <link>https://github.com/visioncortex/vtracer</link>
+    <description>Raster to Vector Graphics Converter</description>
   </item>
   <item>
     <title>ajeetdsouza / zoxide</title>
@@ -61,24 +106,9 @@
     <description>A smarter cd command. Supports all major shells.</description>
   </item>
   <item>
-    <title>lencx / ChatGPT</title>
-    <link>https://github.com/lencx/ChatGPT</link>
-    <description>❄️ ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  </item>
-  <item>
-    <title>lostb1t / remux</title>
-    <link>https://github.com/lostb1t/remux</link>
-    <description>self-hosted media server with a Jellyfin-compatible API</description>
-  </item>
-  <item>
-    <title>quickwit-oss / quickwit</title>
-    <link>https://github.com/quickwit-oss/quickwit</link>
-    <description>Cloud-native OSS search engine for observability</description>
-  </item>
-  <item>
-    <title>microsoft / mxc</title>
-    <link>https://github.com/microsoft/mxc</link>
-    <description>Policy-driven, layered isolation and containment</description>
+    <title>akitaonrails / ai-memory</title>
+    <link>https://github.com/akitaonrails/ai-memory</link>
+    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
 </channel>
 </rss>

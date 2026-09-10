@@ -2,27 +2,17 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:00:51 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
   "items": [
     {
-      "title": "penpot / penpot",
-      "url": "https://github.com/penpot/penpot",
-      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "title": "metabase / metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 59777,
-      "forks": 4077,
-      "added_stars": "319 stars this week"
-    },
-    {
-      "title": "logseq / logseq",
-      "url": "https://github.com/logseq/logseq",
-      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 44835,
-      "forks": 2802,
-      "added_stars": "129 stars this week"
+      "stars": 49172,
+      "forks": 6805,
+      "added_stars": "118 stars this week"
     },
     {
       "title": "tonsky / FiraCode",
@@ -30,19 +20,39 @@
       "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 81992,
+      "stars": 81997,
       "forks": 3188,
-      "added_stars": "40 stars this week"
+      "added_stars": "38 stars this week"
     },
     {
-      "title": "metabase / metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+      "title": "penpot / penpot",
+      "url": "https://github.com/penpot/penpot",
+      "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 49145,
-      "forks": 6801,
-      "added_stars": "117 stars this week"
+      "stars": 59817,
+      "forks": 4085,
+      "added_stars": "309 stars this week"
+    },
+    {
+      "title": "logseq / logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 44853,
+      "forks": 2803,
+      "added_stars": "130 stars this week"
+    },
+    {
+      "title": "clojure / clojurescript",
+      "url": "https://github.com/clojure/clojurescript",
+      "description": "Clojure to JS compiler",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 9391,
+      "forks": 783,
+      "added_stars": "2 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
     {
       "title": "openai / symphony",
@@ -10,9 +10,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27113,
-      "forks": 2782,
-      "added_stars": "689 stars this month"
+      "stars": 27124,
+      "forks": 2787,
+      "added_stars": "696 stars this month"
     },
     {
       "title": "firezone / firezone",
@@ -20,39 +20,9 @@
       "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9067,
-      "forks": 454,
-      "added_stars": "66 stars this month"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4672,
-      "forks": 3163,
-      "added_stars": "58 stars this month"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 28980,
-      "forks": 1851,
-      "added_stars": "583 stars this month"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8971,
-      "forks": 1003,
-      "added_stars": "166 stars this month"
+      "stars": 9084,
+      "forks": 456,
+      "added_stars": "95 stars this month"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -60,9 +30,39 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23147,
+      "stars": 23149,
       "forks": 3110,
-      "added_stars": "61 stars this month"
+      "added_stars": "60 stars this month"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8973,
+      "forks": 1003,
+      "added_stars": "164 stars this month"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4674,
+      "forks": 3166,
+      "added_stars": "55 stars this month"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 28999,
+      "forks": 1856,
+      "added_stars": "594 stars this month"
     },
     {
       "title": "elixir-lang / elixir",
@@ -70,9 +70,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26631,
-      "forks": 3675,
-      "added_stars": "81 stars this month"
+      "stars": 26630,
+      "forks": 3667,
+      "added_stars": "80 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -80,9 +80,9 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7630,
+      "stars": 7631,
       "forks": 462,
-      "added_stars": "20 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "mtrudel / bandit",
@@ -90,7 +90,7 @@
       "description": "Bandit is a pure Elixir HTTP server for Plug & WebSock applications",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1921,
+      "stars": 1922,
       "forks": 118,
       "added_stars": "21 stars this month"
     },
@@ -110,9 +110,9 @@
       "description": "A declarative, extensible framework for building Elixir applications.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2484,
+      "stars": 2486,
       "forks": 422,
-      "added_stars": "17 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -131,18 +131,8 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 2051,
-      "forks": 110,
+      "forks": 111,
       "added_stars": "20 stars this month"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5300,
-      "forks": 165,
-      "added_stars": "93 stars this month"
     },
     {
       "title": "livebook-dev / livebook",
@@ -155,6 +145,56 @@
       "added_stars": "30 stars this month"
     },
     {
+      "title": "nerves-hub / nerves_hub_web",
+      "url": "https://github.com/nerves-hub/nerves_hub_web",
+      "description": "Manage your Nerves device fleet, including firmware updates, health reports, and interactive device consoles.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 270,
+      "forks": 99,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5301,
+      "forks": 166,
+      "added_stars": "90 stars this month"
+    },
+    {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 196,
+      "forks": 18,
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "elixir-ecto / ecto",
+      "url": "https://github.com/elixir-ecto/ecto",
+      "description": "A toolkit for data mapping and language integrated query.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 6495,
+      "forks": 1482,
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "phenixdigital / phoenix_storybook",
+      "url": "https://github.com/phenixdigital/phoenix_storybook",
+      "description": "A pluggable storybook for your Phoenix components.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 869,
+      "forks": 97,
+      "added_stars": "5 stars this month"
+    },
+    {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
       "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
       "description": "OpenTelemetry instrumentation for Erlang & Elixir",
@@ -163,16 +203,6 @@
       "stars": 219,
       "forks": 168,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "elixir-ecto / ecto",
-      "url": "https://github.com/elixir-ecto/ecto",
-      "description": "A toolkit for data mapping and language integrated query.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 6494,
-      "forks": 1482,
-      "added_stars": "15 stars this month"
     }
   ]
 }

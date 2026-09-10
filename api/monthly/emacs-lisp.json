@@ -2,8 +2,18 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22666,
+      "forks": 3150,
+      "added_stars": "125 stars this month"
+    },
     {
       "title": "emacs-mirror / emacs",
       "url": "https://github.com/emacs-mirror/emacs",
@@ -11,7 +21,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 5192,
-      "forks": 1404,
+      "forks": 1402,
       "added_stars": "61 stars this month"
     },
     {
@@ -20,29 +30,9 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3519,
-      "forks": 429,
+      "stars": 3521,
+      "forks": 430,
       "added_stars": "55 stars this month"
-    },
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22659,
-      "forks": 3150,
-      "added_stars": "123 stars this month"
-    },
-    {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 24560,
-      "forks": 4834,
-      "added_stars": "25 stars this month"
     },
     {
       "title": "emacs-lsp / lsp-mode",
@@ -52,7 +42,17 @@
       "languageColor": "#c065db",
       "stars": 5124,
       "forks": 981,
-      "added_stars": "24 stars this month"
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "syl20bnr / spacemacs",
+      "url": "https://github.com/syl20bnr/spacemacs",
+      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 24562,
+      "forks": 4834,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "melpa / melpa",
@@ -61,18 +61,8 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2967,
-      "forks": 2807,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "dnouri / pilish",
-      "url": "https://github.com/dnouri/pilish",
-      "description": "The ergonomic agent harness for Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 276,
-      "forks": 37,
-      "added_stars": "26 stars this month"
+      "forks": 2808,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "mmontone / emacs-inspector",
@@ -83,16 +73,6 @@
       "stars": 121,
       "forks": 11,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "tumashu / posframe",
-      "url": "https://github.com/tumashu/posframe",
-      "description": "Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 537,
-      "forks": 65,
-      "added_stars": "3 stars this month"
     },
     {
       "title": "emacsattic / helm-swoop",
@@ -110,9 +90,9 @@
       "description": "The extensible vi layer for Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3855,
+      "stars": 3857,
       "forks": 307,
-      "added_stars": "24 stars this month"
+      "added_stars": "26 stars this month"
     },
     {
       "title": "bbatsov / projectile",
@@ -125,14 +105,14 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "title": "tumashu / posframe",
+      "url": "https://github.com/tumashu/posframe",
+      "description": "Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1838,
-      "forks": 230,
-      "added_stars": "138 stars this month"
+      "stars": 537,
+      "forks": 65,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "magit / magit",
@@ -145,14 +125,24 @@
       "added_stars": "35 stars this month"
     },
     {
-      "title": "doomemacs / modules",
-      "url": "https://github.com/doomemacs/modules",
-      "description": "Official module library for Doom Emacs",
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 60,
+      "stars": 1843,
+      "forks": 230,
+      "added_stars": "137 stars this month"
+    },
+    {
+      "title": "dnouri / pilish",
+      "url": "https://github.com/dnouri/pilish",
+      "description": "The ergonomic agent harness for Emacs.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 279,
       "forks": 37,
-      "added_stars": "9 stars this month"
+      "added_stars": "28 stars this month"
     },
     {
       "title": "yoshiki / yaml-mode",
@@ -160,7 +150,7 @@
       "description": "The emacs major mode for editing files in the YAML data serialization format.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 522,
+      "stars": 521,
       "forks": 132,
       "added_stars": "3 stars this month"
     },
@@ -173,6 +163,16 @@
       "stars": 1745,
       "forks": 138,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "doomemacs / modules",
+      "url": "https://github.com/doomemacs/modules",
+      "description": "Official module library for Doom Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 60,
+      "forks": 37,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "seagle0128 / doom-modeline",

@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 07:02:13 GMT</pubDate>
+  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
@@ -26,19 +26,9 @@
     <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
   </item>
   <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
-  </item>
-  <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>Azure / terraform-azurerm-naming</title>
-    <link>https://github.com/Azure/terraform-azurerm-naming</link>
-    <description></description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
@@ -46,14 +36,14 @@
     <description>Terraform Azure Verified Resource Module for Key Vault</description>
   </item>
   <item>
-    <title>hashicorp / agent-skills</title>
-    <link>https://github.com/hashicorp/agent-skills</link>
-    <description>A collection of Agent skills and Claude Code plugins for HashiCorp products.</description>
+    <title>Azure / terraform-azurerm-naming</title>
+    <link>https://github.com/Azure/terraform-azurerm-naming</link>
+    <description></description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+    <title>hashicorp / terraform-cidr-subnets</title>
+    <link>https://github.com/hashicorp/terraform-cidr-subnets</link>
+    <description>A Terraform module for calculating subnet IP address prefixes</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
@@ -66,14 +56,9 @@
     <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
   </item>
   <item>
-    <title>hashicorp / terraform-cidr-subnets</title>
-    <link>https://github.com/hashicorp/terraform-cidr-subnets</link>
-    <description>A Terraform module for calculating subnet IP address prefixes</description>
-  </item>
-  <item>
-    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
-    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
-    <description>Terraform Azure Verified Resource Module for Storage Account</description>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
   </item>
 </channel>
 </rss>

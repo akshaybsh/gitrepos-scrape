@@ -2,17 +2,17 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 06:58:31 GMT",
+  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
   "items": [
     {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28980,
-      "forks": 1851,
-      "added_stars": "26 stars today"
+      "stars": 23149,
+      "forks": 3110,
+      "added_stars": "3 stars today"
     },
     {
       "title": "openai / symphony",
@@ -20,19 +20,29 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27113,
-      "forks": 2782,
-      "added_stars": "22 stars today"
+      "stars": 27124,
+      "forks": 2787,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "GenericJam / mob",
-      "url": "https://github.com/GenericJam/mob",
-      "description": "",
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 243,
-      "forks": 24,
-      "added_stars": "7 stars today"
+      "stars": 28999,
+      "forks": 1856,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9084,
+      "forks": 456,
+      "added_stars": "30 stars today"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -40,19 +50,29 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8971,
+      "stars": 8973,
       "forks": 1003,
-      "added_stars": "8 stars today"
+      "added_stars": "3 stars today"
     },
     {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4672,
-      "forks": 3163,
-      "added_stars": "2 stars today"
+      "stars": 26630,
+      "forks": 3667,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 196,
+      "forks": 18,
+      "added_stars": "3 stars today"
     },
     {
       "title": "livebook-dev / livebook",
@@ -65,24 +85,14 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "h4cc / awesome-elixir",
-      "url": "https://github.com/h4cc/awesome-elixir",
-      "description": "A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:",
+      "title": "algora-io / algora",
+      "url": "https://github.com/algora-io/algora",
+      "description": "Hire the top 1% OSS engineers",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 13166,
-      "forks": 1189,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9067,
-      "forks": 454,
-      "added_stars": "1 star today"
+      "stars": 1495,
+      "forks": 151,
+      "added_stars": "0 stars today"
     },
     {
       "title": "supabase / realtime",
@@ -90,19 +100,59 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7630,
+      "stars": 7631,
       "forks": 462,
       "added_stars": "0 stars today"
     },
     {
-      "title": "icoretech / codex-pooler",
-      "url": "https://github.com/icoretech/codex-pooler",
-      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "title": "open-telemetry / opentelemetry-erlang-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
+      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 192,
-      "forks": 18,
-      "added_stars": "6 stars today"
+      "stars": 219,
+      "forks": 168,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "GenericJam / mob",
+      "url": "https://github.com/GenericJam/mob",
+      "description": "",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 246,
+      "forks": 24,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "anoma / anoma",
+      "url": "https://github.com/anoma/anoma",
+      "description": "Reference implementation of Anoma",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 33619,
+      "forks": 4112,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5301,
+      "forks": 166,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4674,
+      "forks": 3166,
+      "added_stars": "2 stars today"
     }
   ]
 }

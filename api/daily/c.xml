@@ -4,41 +4,36 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 09 Sep 2026 06:58:31 GMT</pubDate>
-  <item>
-    <title>armory3d / armorpaint</title>
-    <link>https://github.com/armory3d/armorpaint</link>
-    <description>Graphics Creation Tools</description>
-  </item>
+  <pubDate>Thu, 10 Sep 2026 06:56:05 GMT</pubDate>
   <item>
     <title>doldecomp / melee</title>
     <link>https://github.com/doldecomp/melee</link>
     <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
   </item>
   <item>
-    <title>Mbed-TLS / mbedtls</title>
-    <link>https://github.com/Mbed-TLS/mbedtls</link>
-    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
+    <title>armory3d / armorpaint</title>
+    <link>https://github.com/armory3d/armorpaint</link>
+    <description>Graphics Creation Tools</description>
   </item>
   <item>
-    <title>maxsteeel / nomount</title>
-    <link>https://github.com/maxsteeel/nomount</link>
-    <description>NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.</description>
+    <title>facebook / zstd</title>
+    <link>https://github.com/facebook/zstd</link>
+    <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
   <item>
-    <title>meshcore-dev / MeshCore</title>
-    <link>https://github.com/meshcore-dev/MeshCore</link>
-    <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
+    <title>tr4m0ryp / tr4mpass</title>
+    <link>https://github.com/tr4m0ryp/tr4mpass</link>
+    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
   </item>
   <item>
-    <title>Sor3nt / Flipper-Zero-ESP32-Port</title>
-    <link>https://github.com/Sor3nt/Flipper-Zero-ESP32-Port</link>
-    <description></description>
+    <title>mackron / miniaudio</title>
+    <link>https://github.com/mackron/miniaudio</link>
+    <description>Audio playback and capture library written in C, in a single source file.</description>
   </item>
   <item>
-    <title>dayanch96 / YTMusicUltimate</title>
-    <link>https://github.com/dayanch96/YTMusicUltimate</link>
-    <description>The best tweak for YouTube Music iOS.</description>
+    <title>timescale / timescaledb</title>
+    <link>https://github.com/timescale/timescaledb</link>
+    <description>A time-series database for high-performance real-time analytics packaged as a Postgres extension</description>
   </item>
   <item>
     <title>HarbourMasters / Shipwright</title>
@@ -46,24 +41,29 @@
     <description></description>
   </item>
   <item>
-    <title>kingToolbox / WindTerm</title>
-    <link>https://github.com/kingToolbox/WindTerm</link>
-    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
+    <title>microsoft / PowerToys</title>
+    <link>https://github.com/microsoft/PowerToys</link>
+    <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
   </item>
   <item>
-    <title>RT-Thread / rt-thread</title>
-    <link>https://github.com/RT-Thread/rt-thread</link>
-    <description>RT-Thread is an open source IoT Real-Time Operating System (RTOS). https://rt-thread.github.io/rt-thread/</description>
+    <title>php / php-src</title>
+    <link>https://github.com/php/php-src</link>
+    <description>The PHP Interpreter</description>
   </item>
   <item>
-    <title>tianocore / edk2</title>
-    <link>https://github.com/tianocore/edk2</link>
-    <description>EDK II</description>
+    <title>git / git</title>
+    <link>https://github.com/git/git</link>
+    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
   </item>
   <item>
-    <title>DeusData / codebase-memory-mcp</title>
-    <link>https://github.com/DeusData/codebase-memory-mcp</link>
-    <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
+    <title>xiph / rnnoise</title>
+    <link>https://github.com/xiph/rnnoise</link>
+    <description>Recurrent neural network for audio noise reduction</description>
+  </item>
+  <item>
+    <title>Mbed-TLS / mbedtls</title>
+    <link>https://github.com/Mbed-TLS/mbedtls</link>
+    <description>An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</description>
   </item>
   <item>
     <title>JustVugg / colibri</title>
@@ -71,29 +71,29 @@
     <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
   </item>
   <item>
-    <title>pgvector / pgvector</title>
-    <link>https://github.com/pgvector/pgvector</link>
-    <description>Open-source vector similarity search for Postgres</description>
+    <title>colbymchenry / codegraph</title>
+    <link>https://github.com/colbymchenry/codegraph</link>
+    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
   </item>
   <item>
-    <title>openwall / john</title>
-    <link>https://github.com/openwall/john</link>
-    <description>John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs</description>
+    <title>fluent / fluent-bit</title>
+    <link>https://github.com/fluent/fluent-bit</link>
+    <description>Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</description>
   </item>
   <item>
-    <title>DaveGamble / cJSON</title>
-    <link>https://github.com/DaveGamble/cJSON</link>
-    <description>Ultralightweight JSON parser in ANSI C</description>
+    <title>iczelia / bzip3</title>
+    <link>https://github.com/iczelia/bzip3</link>
+    <description>A better and stronger spiritual successor to BZip2.</description>
   </item>
   <item>
-    <title>asterisk / asterisk</title>
-    <link>https://github.com/asterisk/asterisk</link>
-    <description>The official Asterisk Project repository.</description>
+    <title>HarbourMasters / Ghostship</title>
+    <link>https://github.com/HarbourMasters/Ghostship</link>
+    <description></description>
   </item>
   <item>
-    <title>bol-van / zapret2</title>
-    <link>https://github.com/bol-van/zapret2</link>
-    <description>anti-dpi software</description>
+    <title>dayanch96 / YTMusicUltimate</title>
+    <link>https://github.com/dayanch96/YTMusicUltimate</link>
+    <description>The best tweak for YouTube Music iOS.</description>
   </item>
 </channel>
 </rss>

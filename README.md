@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3432-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3433-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-09-09
-_Top 3 per language · [view full day →](./2026/2026-09-09.md)_
+## 🔥 Today's Trending — 2026-09-10
+_Top 3 per language · [view full day →](./2026/2026-09-10.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
 | [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) | 🐍 | A skill to stop your coding agent from burying the answer. ADHD-friendly output. |
-| [openai/skills](https://github.com/openai/skills) | 🐍 | Skills Catalog for Codex |
-| [microsoft/markitdown](https://github.com/microsoft/markitdown) | 🐍 | Python tool for converting files and office documents to Markdown. |
+| [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad) | 🐍 | A library of agent skills for CAD, CAE and CAM |
+| [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) | 🐍 | TradingAgents: Multi-Agents LLM Financial Trading Framework |
 | [HakanSeven12/OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) | 🦀 | A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering |
-| [openai/codex](https://github.com/openai/codex) | 🦀 | Lightweight coding agent that runs in your terminal |
-| [mixelpixx/Konnect](https://github.com/mixelpixx/Konnect) | 🦀 | AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing |
+| [google/magika](https://github.com/google/magika) | 🦀 | Fast and accurate AI powered file content types detection |
+| [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) | 🦀 | Give cloud AI agents a real development environment on your own machines. |
+| [openai/plugins](https://github.com/openai/plugins) | ⚡ | OpenAI Plugins |
+| [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) | ⚡ | Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。 |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) | ⚡ | Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. |
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | ⚡ | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
-| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🐹 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
-| [ollama/ollama](https://github.com/ollama/ollama) | 🐹 | Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser) | 🐹 | 📂 Web File Browser |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
-| [Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll) | 🍎 | Dynamic Island for macOS |
-| [altstoreio/AltStore](https://github.com/altstoreio/AltStore) | 🍎 | AltStore is an alternative app store for non-jailbroken iOS devices. |
-| [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) | 🔷 | Write HTML. Render video. Built for agents. |
-| [MoonTechLab/LunaTV](https://github.com/MoonTechLab/LunaTV) | 🔷 | 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 |
-| [mksglu/context-mode](https://github.com/mksglu/context-mode) | 🔷 | Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. |
+| [superplanehq/superplane](https://github.com/superplanehq/superplane) | 🐹 | Open source factory for one-shot engineering |
+| [XTLS/Xray-core](https://github.com/XTLS/Xray-core) | 🐹 | Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses. |
+| [authelia/authelia](https://github.com/authelia/authelia) | 🐹 | The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready. |
+| [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) | 🍎 | Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp |
+| [steipete/CodexBar](https://github.com/steipete/CodexBar) | 🍎 | Show usage stats for OpenAI Codex and Claude Code, without having to login. |
+| [iFurySt/open-codex-computer-use](https://github.com/iFurySt/open-codex-computer-use) | 🍎 | 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use |
+| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔷 | Make Every Team AI Native |
+| [pascalorg/editor](https://github.com/pascalorg/editor) | 🔷 | Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents. |
+| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔷 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-09-09.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-09-10](./2026/2026-09-10.md) | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) | [plugins](https://github.com/openai/plugins) | [superplane](https://github.com/superplanehq/superplane) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [teamai-cli](https://github.com/Tencent/teamai-cli) |
 | [2026-09-09](./2026/2026-09-09.md) | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) | [ECC](https://github.com/affaan-m/ECC) | [pentagi](https://github.com/vxcontrol/pentagi) | [awesome-mac](https://github.com/jaywcjlove/awesome-mac) | [hyperframes](https://github.com/heygen-com/hyperframes) |
 | [2026-09-08](./2026/2026-09-08.md) | [markitdown](https://github.com/microsoft/markitdown) | [jcode](https://github.com/1jehuang/jcode) | [camofox-browser](https://github.com/jo-inc/camofox-browser) | [pentagi](https://github.com/vxcontrol/pentagi) | [PureMac](https://github.com/momenbasel/PureMac) | [hyperframes](https://github.com/heygen-com/hyperframes) |
 | [2026-09-07](./2026/2026-09-07.md) | [hermes-agent](https://github.com/NousResearch/hermes-agent) | [cockpit-tools](https://github.com/jlcodes99/cockpit-tools) | [ECC](https://github.com/affaan-m/ECC) | [ollama](https://github.com/ollama/ollama) | [vphone-cli](https://github.com/Lakr233/vphone-cli) | [opencode](https://github.com/anomalyco/opencode) |
 | [2026-09-06](./2026/2026-09-06.md) | [hermes-agent](https://github.com/NousResearch/hermes-agent) | [OpenLogi](https://github.com/AprilNEA/OpenLogi) | [ECC](https://github.com/affaan-m/ECC) | [github-mcp-server](https://github.com/github/github-mcp-server) | [osaurus](https://github.com/osaurus-ai/osaurus) | [opencode](https://github.com/anomalyco/opencode) |
 | [2026-09-05](./2026/2026-09-05.md) | [skills](https://github.com/anthropics/skills) | [gpui-kit](https://github.com/longbridge/gpui-kit) | [ponytail](https://github.com/DietrichGebert/ponytail) | [caveman](https://github.com/JuliusBrussee/caveman) | [Whisky](https://github.com/frankea/Whisky) | [magnitude](https://github.com/magnitudedev/magnitude) |
 | [2026-09-04](./2026/2026-09-04.md) | [hermes-agent](https://github.com/NousResearch/hermes-agent) | [Cap](https://github.com/CapSoftware/Cap) | [ponytail](https://github.com/DietrichGebert/ponytail) | [caveman](https://github.com/JuliusBrussee/caveman) | [cmux](https://github.com/manaflow-ai/cmux) | [magnitude](https://github.com/magnitudedev/magnitude) |
-| [2026-09-03](./2026/2026-09-03.md) | [timesfm](https://github.com/google-research/timesfm) | [atlas](https://github.com/pacifio/atlas) | [ponytail](https://github.com/DietrichGebert/ponytail) | [caveman](https://github.com/JuliusBrussee/caveman) | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -52,7 +52,7 @@ _Most days on trending, all time_
 
 | Repository | Days on Trending |
 |---|---|
-| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2247 |
+| [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2248 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2014 |
 | [vapor/vapor](https://github.com/vapor/vapor) | 1731 |
 | [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1499 |
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [OpenDCAI/GameFactory-3A](https://github.com/OpenDCAI/GameFactory-3A) | 🐍 | 2026-09-10 | A comprehensive open-source 3A game-generation skill and asset framework. |
+| [anbeime/skill](https://github.com/anbeime/skill) | 🐍 | 2026-09-10 | 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains. |
+| [yyjeqhc/webcodex](https://github.com/yyjeqhc/webcodex) | 🦀 | 2026-09-10 | Give cloud AI agents a real development environment on your own machines. |
+| [feigeCode/navop](https://github.com/feigeCode/navop) | 🦀 | 2026-09-10 | A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI. |
+| [polarsquad/krops](https://github.com/polarsquad/krops) | 🦀 | 2026-09-10 | Kubernetes-Native Resource Operations |
+| [Shpigford/chops](https://github.com/Shpigford/chops) | 🍎 | 2026-09-10 | Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. |
+| [vastsa/PI-Desktop](https://github.com/vastsa/PI-Desktop) | 🔷 | 2026-09-10 | Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins |
+| [solidjs/solid](https://github.com/solidjs/solid) | 🔷 | 2026-09-10 | A declarative, efficient, and flexible JavaScript library for building user interfaces. |
+| [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) | 🔷 | 2026-09-10 | Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era. |
 | [neka-nat/freecad-mcp](https://github.com/neka-nat/freecad-mcp) | 🐍 | 2026-09-09 | FreeCAD MCP(Model Context Protocol) server |
-| [lostb1t/remux](https://github.com/lostb1t/remux) | 🦀 | 2026-09-09 | self-hosted media server with a Jellyfin-compatible API |
-| [NdoleStudio/httpsms](https://github.com/NdoleStudio/httpsms) | 🐹 | 2026-09-09 | Send and receive SMS messages using your Android phone programmatically via a simple HTTP API |
-| [uzairansaruzi/hermex](https://github.com/uzairansaruzi/hermex) | 🍎 | 2026-09-09 | Native iPhone app for your Hermes agent |
-| [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) | 🔷 | 2026-09-09 | Open-source SEO, GEO, and marketing skills for AI agents. |
-| [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) | 🔷 | 2026-09-09 | 插件化、定制化、无广告的免费音乐播放器 |
-| [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli) | 🔷 | 2026-09-09 | Make Every Team AI Native |
-| [advaitpaliwal/feynman](https://github.com/advaitpaliwal/feynman) | 🔷 | 2026-09-09 | The open source AI research agent. |
-| [remorses/gpuix](https://github.com/remorses/gpuix) | 🦀 | 2026-09-08 | Node.js & React bindings for Zed’s GPUI. Build memory efficient native apps with React and no Electron |
-| [huggingface/funes](https://github.com/huggingface/funes) | 🦀 | 2026-09-08 | Durable, searchable memory of your past agent sessions. |
 
 ---
 

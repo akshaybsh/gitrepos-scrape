@@ -2,17 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 09 Sep 2026 07:02:13 GMT",
+  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
   "items": [
+    {
+      "title": "rorkai / App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7162,
+      "forks": 594,
+      "added_stars": "1,514 stars this month"
+    },
     {
       "title": "majd / ipatool",
       "url": "https://github.com/majd/ipatool",
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11025,
-      "forks": 920,
-      "added_stars": "1,252 stars this month"
+      "stars": 11035,
+      "forks": 921,
+      "added_stars": "1,265 stars this month"
     },
     {
       "title": "glanceapp / glance",
@@ -20,9 +30,9 @@
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36951,
-      "forks": 1450,
-      "added_stars": "832 stars this month"
+      "stars": 36966,
+      "forks": 1451,
+      "added_stars": "797 stars this month"
     },
     {
       "title": "gitleaks / gitleaks",
@@ -30,9 +40,9 @@
       "description": "Find secrets with Gitleaks 🔑",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29175,
+      "stars": 29198,
       "forks": 2229,
-      "added_stars": "678 stars this month"
+      "added_stars": "675 stars this month"
     },
     {
       "title": "henrygd / beszel",
@@ -40,59 +50,9 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25222,
-      "forks": 1002,
-      "added_stars": "1,162 stars this month"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1806,
-      "forks": 307,
-      "added_stars": "672 stars this month"
-    },
-    {
-      "title": "google / osv-scanner",
-      "url": "https://github.com/google/osv-scanner",
-      "description": "Vulnerability scanner written in Go which uses the data provided by https://osv.dev",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 10998,
-      "forks": 789,
-      "added_stars": "229 stars this month"
-    },
-    {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 75584,
-      "forks": 4945,
-      "added_stars": "955 stars this month"
-    },
-    {
-      "title": "authelia / authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28840,
-      "forks": 1476,
-      "added_stars": "348 stars this month"
-    },
-    {
-      "title": "nektos / act",
-      "url": "https://github.com/nektos/act",
-      "description": "Run your GitHub Actions locally 🚀",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 71853,
-      "forks": 2021,
-      "added_stars": "504 stars this month"
+      "stars": 25254,
+      "forks": 1006,
+      "added_stars": "1,171 stars this month"
     },
     {
       "title": "gtsteffaniak / filebrowser",
@@ -100,49 +60,29 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8201,
-      "forks": 428,
-      "added_stars": "513 stars this month"
+      "stars": 8227,
+      "forks": 430,
+      "added_stars": "536 stars this month"
     },
     {
-      "title": "github / github-mcp-server",
-      "url": "https://github.com/github/github-mcp-server",
-      "description": "GitHub's official MCP Server",
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32815,
-      "forks": 4938,
-      "added_stars": "845 stars this month"
+      "stars": 28874,
+      "forks": 1481,
+      "added_stars": "365 stars this month"
     },
     {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3653,
-      "forks": 173,
-      "added_stars": "1,825 stars this month"
-    },
-    {
-      "title": "CarterPerez-dev / Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6807,
-      "forks": 1008,
-      "added_stars": "1,913 stars this month"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 180495,
-      "forks": 17777,
-      "added_stars": "3,013 stars this month"
+      "stars": 1813,
+      "forks": 308,
+      "added_stars": "640 stars this month"
     },
     {
       "title": "1Panel-dev / 1Panel",
@@ -150,29 +90,59 @@
       "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36850,
-      "forks": 3341,
-      "added_stars": "465 stars this month"
+      "stars": 36862,
+      "forks": 3342,
+      "added_stars": "467 stars this month"
     },
     {
-      "title": "infiniflow / ragflow",
-      "url": "https://github.com/infiniflow/ragflow",
-      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "title": "asciimoo / hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 90344,
-      "forks": 10662,
-      "added_stars": "3,472 stars this month"
+      "stars": 3663,
+      "forks": 176,
+      "added_stars": "1,830 stars this month"
     },
     {
-      "title": "cli / cli",
-      "url": "https://github.com/cli/cli",
-      "description": "GitHub’s official command line tool",
+      "title": "CarterPerez-dev / Cybersecurity-Projects",
+      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
+      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 46210,
-      "forks": 8994,
-      "added_stars": "605 stars this month"
+      "stars": 6830,
+      "forks": 1007,
+      "added_stars": "1,903 stars this month"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 180547,
+      "forks": 17782,
+      "added_stars": "3,005 stars this month"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 75600,
+      "forks": 4948,
+      "added_stars": "957 stars this month"
+    },
+    {
+      "title": "nektos / act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 71869,
+      "forks": 2022,
+      "added_stars": "510 stars this month"
     },
     {
       "title": "go-task / task",
@@ -180,19 +150,9 @@
       "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16112,
-      "forks": 904,
-      "added_stars": "193 stars this month"
-    },
-    {
-      "title": "traefik / traefik",
-      "url": "https://github.com/traefik/traefik",
-      "description": "The Cloud Native Application Proxy",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 64790,
-      "forks": 6192,
-      "added_stars": "571 stars this month"
+      "stars": 16119,
+      "forks": 906,
+      "added_stars": "195 stars this month"
     },
     {
       "title": "go-vikunja / vikunja",
@@ -200,9 +160,39 @@
       "description": "The task manager you actually own.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5330,
-      "forks": 677,
-      "added_stars": "340 stars this month"
+      "stars": 5341,
+      "forks": 676,
+      "added_stars": "343 stars this month"
+    },
+    {
+      "title": "putyy / res-downloader",
+      "url": "https://github.com/putyy/res-downloader",
+      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 19786,
+      "forks": 2442,
+      "added_stars": "780 stars this month"
+    },
+    {
+      "title": "github / github-mcp-server",
+      "url": "https://github.com/github/github-mcp-server",
+      "description": "GitHub's official MCP Server",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32841,
+      "forks": 4939,
+      "added_stars": "824 stars this month"
+    },
+    {
+      "title": "cli / cli",
+      "url": "https://github.com/cli/cli",
+      "description": "GitHub’s official command line tool",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 46215,
+      "forks": 8997,
+      "added_stars": "600 stars this month"
     },
     {
       "title": "Wei-Shaw / sub2api",
@@ -210,9 +200,29 @@
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 40946,
-      "forks": 8524,
-      "added_stars": "4,832 stars this month"
+      "stars": 41068,
+      "forks": 8547,
+      "added_stars": "4,892 stars this month"
+    },
+    {
+      "title": "infiniflow / ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 90418,
+      "forks": 10677,
+      "added_stars": "3,530 stars this month"
+    },
+    {
+      "title": "higress-group / higress",
+      "url": "https://github.com/higress-group/higress",
+      "description": "🤖 AI Gateway | AI Native API Gateway",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9341,
+      "forks": 1289,
+      "added_stars": "303 stars this month"
     }
   ]
 }
