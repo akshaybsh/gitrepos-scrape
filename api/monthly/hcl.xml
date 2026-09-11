@@ -4,21 +4,21 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
     <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
   </item>
   <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
-  </item>
-  <item>
     <title>DataDog / serverless-sample-app</title>
     <link>https://github.com/DataDog/serverless-sample-app</link>
     <description>Explore Datadog&#x27;s serverless observability features with this sample app.</description>
+  </item>
+  <item>
+    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
+    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
+    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-eks</title>
@@ -41,9 +41,9 @@
     <description></description>
   </item>
   <item>
-    <title>hashicorp / terraform-cidr-subnets</title>
-    <link>https://github.com/hashicorp/terraform-cidr-subnets</link>
-    <description>A Terraform module for calculating subnet IP address prefixes</description>
+    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
+    <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
@@ -51,14 +51,24 @@
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-project-factory</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-  </item>
-  <item>
     <title>semgrep / semgrep-rules</title>
     <link>https://github.com/semgrep/semgrep-rules</link>
     <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-avm-res-containerregistry-registry</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-containerregistry-registry</link>
+    <description>Terraform Azure Verified Resource Module for Azure Container Registry (ACR)</description>
+  </item>
+  <item>
+    <title>ministryofjustice / modernisation-platform-environments</title>
+    <link>https://github.com/ministryofjustice/modernisation-platform-environments</link>
+    <description>Modernisation platform environments • This repository is defined and managed in Terraform</description>
+  </item>
+  <item>
+    <title>RaJiska / terraform-aws-fck-nat</title>
+    <link>https://github.com/RaJiska/terraform-aws-fck-nat</link>
+    <description>Terraform module for fck-nat</description>
   </item>
 </channel>
 </rss>

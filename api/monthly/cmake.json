@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27451,
-      "forks": 7713,
-      "added_stars": "143 stars this month"
+      "stars": 27458,
+      "forks": 7714,
+      "added_stars": "146 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -22,7 +22,7 @@
       "languageColor": "#DA3434",
       "stars": 1743,
       "forks": 253,
-      "added_stars": "65 stars this month"
+      "added_stars": "57 stars this month"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
@@ -42,7 +42,7 @@
       "languageColor": "#DA3434",
       "stars": 4726,
       "forks": 313,
-      "added_stars": "17 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "steinbergmedia / vst3sdk",
@@ -52,7 +52,7 @@
       "languageColor": "#DA3434",
       "stars": 2352,
       "forks": 227,
-      "added_stars": "39 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "arsenm / sanitizers-cmake",
@@ -75,6 +75,16 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1492,
+      "forks": 150,
+      "added_stars": "17 stars this month"
+    },
+    {
       "title": "TheLartians / PackageProject.cmake",
       "url": "https://github.com/TheLartians/PackageProject.cmake",
       "description": "🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.",
@@ -83,16 +93,6 @@
       "stars": 137,
       "forks": 18,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "corrosion-rs / corrosion",
-      "url": "https://github.com/corrosion-rs/corrosion",
-      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1491,
-      "forks": 150,
-      "added_stars": "17 stars this month"
     },
     {
       "title": "Andersama / obs-asio",
@@ -125,13 +125,13 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "ament / ament_cmake",
-      "url": "https://github.com/ament/ament_cmake",
-      "description": "Supporting CMake packages for working with ament",
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 125,
-      "forks": 147,
+      "stars": 78,
+      "forks": 58,
       "added_stars": "0 stars this month"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project / OpenROAD",
@@ -10,9 +10,9 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 3085,
-      "forks": 1006,
-      "added_stars": "137 stars this month"
+      "stars": 3090,
+      "forks": 1007,
+      "added_stars": "138 stars this month"
     },
     {
       "title": "YosysHQ / picorv32",
@@ -20,9 +20,9 @@
       "description": "PicoRV32 - A Size-Optimized RISC-V CPU",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 4384,
+      "stars": 4383,
       "forks": 1001,
-      "added_stars": "84 stars this month"
+      "added_stars": "76 stars this month"
     },
     {
       "title": "EttusResearch / uhd",
@@ -30,7 +30,7 @@
       "description": "The USRP™ Hardware Driver Repository",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 1276,
+      "stars": 1277,
       "forks": 777,
       "added_stars": "18 stars this month"
     },
@@ -40,9 +40,9 @@
       "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 732,
+      "stars": 733,
       "forks": 524,
-      "added_stars": "30 stars this month"
+      "added_stars": "31 stars this month"
     },
     {
       "title": "analogdevicesinc / hdl",
@@ -50,9 +50,19 @@
       "description": "HDL libraries and projects",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2009,
+      "stars": 2011,
       "forks": 1684,
-      "added_stars": "16 stars this month"
+      "added_stars": "17 stars this month"
+    },
+    {
+      "title": "vortexgpgpu / vortex",
+      "url": "https://github.com/vortexgpgpu/vortex",
+      "description": "",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 2242,
+      "forks": 544,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "TinyTapeout / ttsky-verilog-template",
@@ -65,14 +75,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "vortexgpgpu / vortex",
-      "url": "https://github.com/vortexgpgpu/vortex",
-      "description": "",
+      "title": "The-OpenROAD-Project / OpenSTA",
+      "url": "https://github.com/The-OpenROAD-Project/OpenSTA",
+      "description": "OpenSTA engine",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2240,
-      "forks": 543,
-      "added_stars": "48 stars this month"
+      "stars": 617,
+      "forks": 270,
+      "added_stars": "19 stars this month"
     }
   ]
 }

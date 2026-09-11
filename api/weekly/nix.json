@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
     {
       "title": "nix-community / home-manager",
@@ -10,9 +10,9 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10336,
-      "forks": 2473,
-      "added_stars": "29 stars this week"
+      "stars": 10338,
+      "forks": 2474,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -20,9 +20,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26073,
-      "forks": 20037,
-      "added_stars": "78 stars this week"
+      "stars": 26086,
+      "forks": 20045,
+      "added_stars": "89 stars this week"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -30,19 +30,9 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3295,
-      "forks": 969,
+      "stars": 3296,
+      "forks": 971,
       "added_stars": "6 stars this week"
-    },
-    {
-      "title": "numtide / llm-agents.nix",
-      "url": "https://github.com/numtide/llm-agents.nix",
-      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 1919,
-      "forks": 239,
-      "added_stars": "46 stars this week"
     },
     {
       "title": "nix-community / NixOS-WSL",
@@ -50,19 +40,19 @@
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3087,
+      "stars": 3089,
       "forks": 164,
-      "added_stars": "13 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
-      "title": "nix-community / disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "title": "numtide / llm-agents.nix",
+      "url": "https://github.com/numtide/llm-agents.nix",
+      "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3310,
-      "forks": 328,
-      "added_stars": "13 stars this week"
+      "stars": 1924,
+      "forks": 240,
+      "added_stars": "45 stars this week"
     }
   ]
 }

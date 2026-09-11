@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "aquaproj / aqua-registry",
@@ -11,8 +11,18 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 378,
-      "forks": 412,
+      "forks": 411,
       "added_stars": "16 stars this month"
+    },
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13646,
+      "forks": 1684,
+      "added_stars": "130 stars this month"
     },
     {
       "title": "web-platform-dx / web-features",
@@ -20,9 +30,9 @@
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 924,
-      "forks": 323,
-      "added_stars": "34 stars this month"
+      "stars": 925,
+      "forks": 322,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "stashapp / CommunityScrapers",
@@ -30,9 +40,9 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 835,
+      "stars": 837,
       "forks": 522,
-      "added_stars": "11 stars this month"
+      "added_stars": "14 stars this month"
     },
     {
       "title": "tyriis / home-ops",
@@ -42,6 +52,16 @@
       "languageColor": "#cb171e",
       "stars": 81,
       "forks": 4,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "KSP-CKAN / NetKAN",
+      "url": "https://github.com/KSP-CKAN/NetKAN",
+      "description": "Metadata files used by the NetKAN/CKAN indexer for KSP",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 89,
+      "forks": 411,
       "added_stars": "0 stars this month"
     },
     {
@@ -55,14 +75,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "title": "szinn / k8s-homelab",
+      "url": "https://github.com/szinn/k8s-homelab",
+      "description": "My home operations repository using k8s/gitops",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 13638,
-      "forks": 1683,
-      "added_stars": "123 stars this month"
+      "stars": 312,
+      "forks": 11,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "onedr0p / home-ops",
@@ -70,19 +90,19 @@
       "description": "Wife approved HomeOps driven by Kubernetes and GitOps using Flux",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 2874,
+      "stars": 2875,
       "forks": 219,
-      "added_stars": "24 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
-      "title": "KSP-CKAN / NetKAN",
-      "url": "https://github.com/KSP-CKAN/NetKAN",
-      "description": "Metadata files used by the NetKAN/CKAN indexer for KSP",
+      "title": "Mafyuh / iac",
+      "url": "https://github.com/Mafyuh/iac",
+      "description": "GitOps-driven Infrastructure as Code for my homelab",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 89,
-      "forks": 412,
-      "added_stars": "0 stars this month"
+      "stars": 955,
+      "forks": 63,
+      "added_stars": "151 stars this month"
     },
     {
       "title": "usnistgov / macos_security",
@@ -90,9 +110,9 @@
       "description": "macOS Security Compliance Project",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 2461,
+      "stars": 2463,
       "forks": 301,
-      "added_stars": "27 stars this month"
+      "added_stars": "26 stars this month"
     }
   ]
 }

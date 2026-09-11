@@ -4,31 +4,16 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 06:58:23 GMT</pubDate>
-  <item>
-    <title>doldecomp / melee</title>
-    <link>https://github.com/doldecomp/melee</link>
-    <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
-  </item>
+  <pubDate>Fri, 11 Sep 2026 06:56:41 GMT</pubDate>
   <item>
     <title>facebook / zstd</title>
     <link>https://github.com/facebook/zstd</link>
     <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
   <item>
-    <title>NebuSec / CyberMeowfia</title>
-    <link>https://github.com/NebuSec/CyberMeowfia</link>
-    <description>PoCs and exploits for CVEs discovered by NebuSec.</description>
-  </item>
-  <item>
-    <title>curl / curl</title>
-    <link>https://github.com/curl/curl</link>
-    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
-  </item>
-  <item>
-    <title>libretro / RetroArch</title>
-    <link>https://github.com/libretro/RetroArch</link>
-    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+    <title>doldecomp / melee</title>
+    <link>https://github.com/doldecomp/melee</link>
+    <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
   </item>
   <item>
     <title>winsiderss / systeminformer</title>
@@ -36,54 +21,24 @@
     <description>A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars &amp; Solutions, Inc. @ https://windows-internals.com</description>
   </item>
   <item>
-    <title>openwrt / openwrt</title>
-    <link>https://github.com/openwrt/openwrt</link>
-    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
-  </item>
-  <item>
-    <title>Genymobile / scrcpy</title>
-    <link>https://github.com/Genymobile/scrcpy</link>
-    <description>Display and control your Android device</description>
-  </item>
-  <item>
-    <title>git / git</title>
-    <link>https://github.com/git/git</link>
-    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
-  </item>
-  <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-  </item>
-  <item>
-    <title>raspberrypi / linux</title>
-    <link>https://github.com/raspberrypi/linux</link>
-    <description>Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/</description>
-  </item>
-  <item>
-    <title>pret / pokeemerald</title>
-    <link>https://github.com/pret/pokeemerald</link>
-    <description>Decompilation of Pokémon Emerald</description>
-  </item>
-  <item>
-    <title>armory3d / armorpaint</title>
-    <link>https://github.com/armory3d/armorpaint</link>
-    <description>Graphics Creation Tools</description>
-  </item>
-  <item>
-    <title>obsproject / obs-studio</title>
-    <link>https://github.com/obsproject/obs-studio</link>
-    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  </item>
-  <item>
-    <title>lvgl / lvgl</title>
-    <link>https://github.com/lvgl/lvgl</link>
-    <description>LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.</description>
-  </item>
-  <item>
     <title>DaveGamble / cJSON</title>
     <link>https://github.com/DaveGamble/cJSON</link>
     <description>Ultralightweight JSON parser in ANSI C</description>
+  </item>
+  <item>
+    <title>NebuSec / CyberMeowfia</title>
+    <link>https://github.com/NebuSec/CyberMeowfia</link>
+    <description>PoCs and exploits for CVEs discovered by NebuSec.</description>
+  </item>
+  <item>
+    <title>libretro / RetroArch</title>
+    <link>https://github.com/libretro/RetroArch</link>
+    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
+  </item>
+  <item>
+    <title>curl / curl</title>
+    <link>https://github.com/curl/curl</link>
+    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
     <title>maharmstone / btrfs</title>
@@ -91,9 +46,49 @@
     <description>WinBtrfs - an open-source btrfs driver for Windows</description>
   </item>
   <item>
+    <title>zephyrproject-rtos / zephyr</title>
+    <link>https://github.com/zephyrproject-rtos/zephyr</link>
+    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
+  </item>
+  <item>
+    <title>obsproject / obs-studio</title>
+    <link>https://github.com/obsproject/obs-studio</link>
+    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+  </item>
+  <item>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
+  </item>
+  <item>
+    <title>armory3d / armorpaint</title>
+    <link>https://github.com/armory3d/armorpaint</link>
+    <description>Graphics Creation Tools</description>
+  </item>
+  <item>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
+  </item>
+  <item>
+    <title>coredevices / PebbleOS</title>
+    <link>https://github.com/coredevices/PebbleOS</link>
+    <description></description>
+  </item>
+  <item>
     <title>ffmpegwasm / ffmpeg.wasm</title>
     <link>https://github.com/ffmpegwasm/ffmpeg.wasm</link>
     <description>FFmpeg for browser, powered by WebAssembly</description>
+  </item>
+  <item>
+    <title>git / git</title>
+    <link>https://github.com/git/git</link>
+    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
+  </item>
+  <item>
+    <title>microsoft / PowerToys</title>
+    <link>https://github.com/microsoft/PowerToys</link>
+    <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
   </item>
   <item>
     <title>OpenVPN / openvpn</title>
@@ -101,9 +96,14 @@
     <description>OpenVPN is an open source VPN daemon</description>
   </item>
   <item>
-    <title>ventoy / Ventoy</title>
-    <link>https://github.com/ventoy/Ventoy</link>
-    <description>A new bootable USB solution.</description>
+    <title>QwenAudio / SenseVoice</title>
+    <link>https://github.com/QwenAudio/SenseVoice</link>
+    <description>Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.</description>
+  </item>
+  <item>
+    <title>rexglue / rexglue-sdk</title>
+    <link>https://github.com/rexglue/rexglue-sdk</link>
+    <description>Xbox 360 Recompilation Runtime and Toolkit</description>
   </item>
 </channel>
 </rss>

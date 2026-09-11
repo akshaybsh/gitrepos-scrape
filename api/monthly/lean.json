@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "leanprover-community / mathlib4",
@@ -10,8 +10,8 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4082,
-      "forks": 1671,
+      "stars": 4096,
+      "forks": 1675,
       "added_stars": "292 stars this month"
     },
     {
@@ -20,9 +20,19 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9084,
-      "forks": 970,
-      "added_stars": "371 stars this month"
+      "stars": 9110,
+      "forks": 974,
+      "added_stars": "387 stars this month"
+    },
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1257,
+      "forks": 473,
+      "added_stars": "91 stars this month"
     },
     {
       "title": "leanprover / cslib",
@@ -31,18 +41,18 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 696,
-      "forks": 194,
-      "added_stars": "53 stars this month"
+      "forks": 197,
+      "added_stars": "54 stars this month"
     },
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "LionSR / TNLean",
+      "url": "https://github.com/LionSR/TNLean",
+      "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1246,
-      "forks": 469,
-      "added_stars": "81 stars this month"
+      "stars": 35,
+      "forks": 3,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "leanprover-community / import-graph",
@@ -53,6 +63,26 @@
       "stars": 26,
       "forks": 16,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 731,
+      "forks": 185,
+      "added_stars": "53 stars this month"
+    },
+    {
+      "title": "leanprover-community / quote4",
+      "url": "https://github.com/leanprover-community/quote4",
+      "description": "Intuitive, type-safe expression quotations for Lean 4.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 111,
+      "forks": 27,
+      "added_stars": "1 star this month"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
@@ -73,16 +103,6 @@
       "stars": 114,
       "forks": 30,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "leanprover-community / quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 111,
-      "forks": 27,
-      "added_stars": "1 star this month"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -115,16 +135,6 @@
       "added_stars": "10 stars this month"
     },
     {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 729,
-      "forks": 181,
-      "added_stars": "53 stars this month"
-    },
-    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -133,6 +143,16 @@
       "stars": 418,
       "forks": 162,
       "added_stars": "6 stars this month"
+    },
+    {
+      "title": "digama0 / lean4lean",
+      "url": "https://github.com/digama0/lean4lean",
+      "description": "Lean 4 kernel / 'external checker' written in Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 244,
+      "forks": 36,
+      "added_stars": "22 stars this month"
     }
   ]
 }

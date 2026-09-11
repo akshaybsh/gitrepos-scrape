@@ -4,11 +4,11 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
   <item>
-    <title>doomemacs / core</title>
-    <link>https://github.com/doomemacs/core</link>
-    <description>An Emacs framework for the stubborn martian hacker</description>
+    <title>syl20bnr / spacemacs</title>
+    <link>https://github.com/syl20bnr/spacemacs</link>
+    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
     <title>emacs-mirror / emacs</title>
@@ -21,14 +21,14 @@
     <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
+    <title>doomemacs / core</title>
+    <link>https://github.com/doomemacs/core</link>
+    <description>An Emacs framework for the stubborn martian hacker</description>
+  </item>
+  <item>
     <title>emacs-lsp / lsp-mode</title>
     <link>https://github.com/emacs-lsp/lsp-mode</link>
     <description>Emacs client/library for the Language Server Protocol</description>
-  </item>
-  <item>
-    <title>syl20bnr / spacemacs</title>
-    <link>https://github.com/syl20bnr/spacemacs</link>
-    <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
     <title>melpa / melpa</title>
@@ -41,29 +41,14 @@
     <description>Inspection tool for Emacs Lisp objects.</description>
   </item>
   <item>
-    <title>emacsattic / helm-swoop</title>
-    <link>https://github.com/emacsattic/helm-swoop</link>
-    <description>Efficiently hopping squeezed lines powered by Emacs helm interface</description>
-  </item>
-  <item>
     <title>emacs-evil / evil</title>
     <link>https://github.com/emacs-evil/evil</link>
     <description>The extensible vi layer for Emacs.</description>
   </item>
   <item>
-    <title>bbatsov / projectile</title>
-    <link>https://github.com/bbatsov/projectile</link>
-    <description>Project Interaction Library for Emacs</description>
-  </item>
-  <item>
-    <title>tumashu / posframe</title>
-    <link>https://github.com/tumashu/posframe</link>
-    <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
-  </item>
-  <item>
-    <title>magit / magit</title>
-    <link>https://github.com/magit/magit</link>
-    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
+    <title>emacsattic / helm-swoop</title>
+    <link>https://github.com/emacsattic/helm-swoop</link>
+    <description>Efficiently hopping squeezed lines powered by Emacs helm interface</description>
   </item>
   <item>
     <title>xenodium / agent-shell</title>
@@ -71,19 +56,24 @@
     <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
+    <title>tumashu / posframe</title>
+    <link>https://github.com/tumashu/posframe</link>
+    <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
+  </item>
+  <item>
     <title>dnouri / pilish</title>
     <link>https://github.com/dnouri/pilish</link>
     <description>The ergonomic agent harness for Emacs.</description>
   </item>
   <item>
-    <title>yoshiki / yaml-mode</title>
-    <link>https://github.com/yoshiki/yaml-mode</link>
-    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
+    <title>magit / magit</title>
+    <link>https://github.com/magit/magit</link>
+    <description>It&#x27;s Magit! A Git Porcelain inside Emacs.</description>
   </item>
   <item>
-    <title>magnars / dash.el</title>
-    <link>https://github.com/magnars/dash.el</link>
-    <description>A modern list library for Emacs</description>
+    <title>bbatsov / projectile</title>
+    <link>https://github.com/bbatsov/projectile</link>
+    <description>Project Interaction Library for Emacs</description>
   </item>
   <item>
     <title>doomemacs / modules</title>
@@ -91,9 +81,19 @@
     <description>Official module library for Doom Emacs</description>
   </item>
   <item>
-    <title>seagle0128 / doom-modeline</title>
-    <link>https://github.com/seagle0128/doom-modeline</link>
-    <description>A fancy and fast mode-line inspired by minimalism design.</description>
+    <title>magnars / dash.el</title>
+    <link>https://github.com/magnars/dash.el</link>
+    <description>A modern list library for Emacs</description>
+  </item>
+  <item>
+    <title>doomemacs / themes</title>
+    <link>https://github.com/doomemacs/themes</link>
+    <description>A megapack of themes for GNU Emacs.</description>
+  </item>
+  <item>
+    <title>yoshiki / yaml-mode</title>
+    <link>https://github.com/yoshiki/yaml-mode</link>
+    <description>The emacs major mode for editing files in the YAML data serialization format.</description>
   </item>
 </channel>
 </rss>

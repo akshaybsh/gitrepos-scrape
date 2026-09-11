@@ -4,7 +4,12 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
+  <item>
+    <title>dragonflydb / dragonfly</title>
+    <link>https://github.com/dragonflydb/dragonfly</link>
+    <description>A modern replacement for Redis and Memcached</description>
+  </item>
   <item>
     <title>google / googletest</title>
     <link>https://github.com/google/googletest</link>
@@ -14,11 +19,6 @@
     <title>microsoft / microsoft-ui-xaml</title>
     <link>https://github.com/microsoft/microsoft-ui-xaml</link>
     <description>WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</description>
-  </item>
-  <item>
-    <title>dragonflydb / dragonfly</title>
-    <link>https://github.com/dragonflydb/dragonfly</link>
-    <description>A modern replacement for Redis and Memcached</description>
   </item>
   <item>
     <title>prusa3d / PrusaSlicer</title>
@@ -41,9 +41,14 @@
     <description>An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.</description>
   </item>
   <item>
-    <title>LizardByte / Sunshine</title>
-    <link>https://github.com/LizardByte/Sunshine</link>
-    <description>Self-hosted game stream host for Moonlight.</description>
+    <title>openvinotoolkit / openvino</title>
+    <link>https://github.com/openvinotoolkit/openvino</link>
+    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
+  </item>
+  <item>
+    <title>fmtlib / fmt</title>
+    <link>https://github.com/fmtlib/fmt</link>
+    <description>A modern formatting library</description>
   </item>
   <item>
     <title>moonlight-stream / moonlight-qt</title>
@@ -51,29 +56,14 @@
     <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
   </item>
   <item>
-    <title>mod-playerbots / mod-playerbots</title>
-    <link>https://github.com/mod-playerbots/mod-playerbots</link>
-    <description>AzerothCore Playerbots Module</description>
-  </item>
-  <item>
-    <title>openvinotoolkit / openvino</title>
-    <link>https://github.com/openvinotoolkit/openvino</link>
-    <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
-  </item>
-  <item>
-    <title>ggml-org / llama.cpp</title>
-    <link>https://github.com/ggml-org/llama.cpp</link>
-    <description>LLM inference in C/C++</description>
-  </item>
-  <item>
     <title>noctalia-dev / noctalia</title>
     <link>https://github.com/noctalia-dev/noctalia</link>
     <description>A sleek, customizable desktop shell crafted for Wayland.</description>
   </item>
   <item>
-    <title>ml-explore / mlx</title>
-    <link>https://github.com/ml-explore/mlx</link>
-    <description>MLX: An array framework for Apple silicon</description>
+    <title>mod-playerbots / mod-playerbots</title>
+    <link>https://github.com/mod-playerbots/mod-playerbots</link>
+    <description>AzerothCore Playerbots Module</description>
   </item>
   <item>
     <title>dmlc / xgboost</title>
@@ -81,29 +71,24 @@
     <description>Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</description>
   </item>
   <item>
+    <title>LizardByte / Sunshine</title>
+    <link>https://github.com/LizardByte/Sunshine</link>
+    <description>Self-hosted game stream host for Moonlight.</description>
+  </item>
+  <item>
+    <title>ggml-org / llama.cpp</title>
+    <link>https://github.com/ggml-org/llama.cpp</link>
+    <description>LLM inference in C/C++</description>
+  </item>
+  <item>
     <title>telegramdesktop / tdesktop</title>
     <link>https://github.com/telegramdesktop/tdesktop</link>
     <description>Telegram Desktop messaging app</description>
   </item>
   <item>
-    <title>keepassxreboot / keepassxc</title>
-    <link>https://github.com/keepassxreboot/keepassxc</link>
-    <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
-  </item>
-  <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
-  </item>
-  <item>
-    <title>duckdb / duckdb</title>
-    <link>https://github.com/duckdb/duckdb</link>
-    <description>DuckDB is an analytical in-process SQL database management system</description>
-  </item>
-  <item>
-    <title>electron / electron</title>
-    <link>https://github.com/electron/electron</link>
-    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
+    <title>qgis / QGIS</title>
+    <link>https://github.com/qgis/QGIS</link>
+    <description>QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)</description>
   </item>
   <item>
     <title>MaaAssistantArknights / MaaAssistantArknights</title>
@@ -111,9 +96,29 @@
     <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
+    <title>keepassxreboot / keepassxc</title>
+    <link>https://github.com/keepassxreboot/keepassxc</link>
+    <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
+  </item>
+  <item>
+    <title>duckdb / duckdb</title>
+    <link>https://github.com/duckdb/duckdb</link>
+    <description>DuckDB is an analytical in-process SQL database management system</description>
+  </item>
+  <item>
     <title>RPCS3 / rpcs3</title>
     <link>https://github.com/RPCS3/rpcs3</link>
     <description>PlayStation 3 emulator and debugger</description>
+  </item>
+  <item>
+    <title>ml-explore / mlx</title>
+    <link>https://github.com/ml-explore/mlx</link>
+    <description>MLX: An array framework for Apple silicon</description>
+  </item>
+  <item>
+    <title>electron / electron</title>
+    <link>https://github.com/electron/electron</link>
+    <description>Build cross-platform desktop apps with JavaScript, HTML, and CSS</description>
   </item>
 </channel>
 </rss>

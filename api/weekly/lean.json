@@ -2,27 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4082,
-      "forks": 1671,
-      "added_stars": "94 stars this week"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9084,
-      "forks": 970,
-      "added_stars": "122 stars this week"
+      "stars": 9110,
+      "forks": 974,
+      "added_stars": "145 stars this week"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 4096,
+      "forks": 1675,
+      "added_stars": "105 stars this week"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -30,9 +30,9 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1246,
-      "forks": 469,
-      "added_stars": "25 stars this week"
+      "stars": 1257,
+      "forks": 473,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "leanprover / cslib",
@@ -41,8 +41,28 @@
       "language": "Lean",
       "languageColor": "#ccc",
       "stars": 696,
-      "forks": 194,
-      "added_stars": "13 stars this week"
+      "forks": 197,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "leanprover-community / batteries",
+      "url": "https://github.com/leanprover-community/batteries",
+      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 418,
+      "forks": 162,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 731,
+      "forks": 185,
+      "added_stars": "15 stars this week"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
     {
       "title": "AssemblyScript / assemblyscript",
@@ -10,9 +10,19 @@
       "description": "A TypeScript-like language for WebAssembly.",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 18010,
+      "stars": 18013,
       "forks": 692,
-      "added_stars": "13 stars this week"
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "WebAssembly / binaryen",
+      "url": "https://github.com/WebAssembly/binaryen",
+      "description": "Optimizer and compiler/toolchain library for WebAssembly",
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 8622,
+      "forks": 883,
+      "added_stars": "4 stars this week"
     }
   ]
 }

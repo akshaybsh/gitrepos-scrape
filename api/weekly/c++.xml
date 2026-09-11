@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 06:58:23 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 06:56:41 GMT</pubDate>
   <item>
     <title>fmtlib / fmt</title>
     <link>https://github.com/fmtlib/fmt</link>
@@ -14,16 +14,6 @@
     <title>audacity / audacity</title>
     <link>https://github.com/audacity/audacity</link>
     <description>Audio Editor</description>
-  </item>
-  <item>
-    <title>prusa3d / PrusaSlicer</title>
-    <link>https://github.com/prusa3d/PrusaSlicer</link>
-    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
-  </item>
-  <item>
-    <title>optiscaler / OptiScaler</title>
-    <link>https://github.com/optiscaler/OptiScaler</link>
-    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
     <title>alibaba / zvec</title>
@@ -36,39 +26,19 @@
     <description>A library that provides an embeddable, persistent key-value store for fast storage.</description>
   </item>
   <item>
-    <title>abseil / abseil-cpp</title>
-    <link>https://github.com/abseil/abseil-cpp</link>
-    <description>Abseil Common Libraries (C++)</description>
+    <title>dragonflydb / dragonfly</title>
+    <link>https://github.com/dragonflydb/dragonfly</link>
+    <description>A modern replacement for Redis and Memcached</description>
   </item>
   <item>
-    <title>noctalia-dev / noctalia</title>
-    <link>https://github.com/noctalia-dev/noctalia</link>
-    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
+    <title>prusa3d / PrusaSlicer</title>
+    <link>https://github.com/prusa3d/PrusaSlicer</link>
+    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
   </item>
   <item>
-    <title>mongodb / mongo</title>
-    <link>https://github.com/mongodb/mongo</link>
-    <description>The MongoDB Database</description>
-  </item>
-  <item>
-    <title>praydog / REFramework</title>
-    <link>https://github.com/praydog/REFramework</link>
-    <description>Mod loader, scripting platform, and VR support for all RE Engine games</description>
-  </item>
-  <item>
-    <title>deskflow / deskflow</title>
-    <link>https://github.com/deskflow/deskflow</link>
-    <description>Share a single keyboard and mouse between multiple computers.</description>
-  </item>
-  <item>
-    <title>FreeCAD / FreeCAD</title>
-    <link>https://github.com/FreeCAD/FreeCAD</link>
-    <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
-  </item>
-  <item>
-    <title>google-deepmind / mujoco</title>
-    <link>https://github.com/google-deepmind/mujoco</link>
-    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
     <title>imputnet / helium</title>
@@ -76,9 +46,24 @@
     <description>Private, fast, and honest web browser</description>
   </item>
   <item>
-    <title>protocolbuffers / protobuf</title>
-    <link>https://github.com/protocolbuffers/protobuf</link>
-    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+    <title>noctalia-dev / noctalia</title>
+    <link>https://github.com/noctalia-dev/noctalia</link>
+    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
+  </item>
+  <item>
+    <title>FreeCAD / FreeCAD</title>
+    <link>https://github.com/FreeCAD/FreeCAD</link>
+    <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
+  </item>
+  <item>
+    <title>tenstorrent / tt-metal</title>
+    <link>https://github.com/tenstorrent/tt-metal</link>
+    <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
+  </item>
+  <item>
+    <title>abseil / abseil-cpp</title>
+    <link>https://github.com/abseil/abseil-cpp</link>
+    <description>Abseil Common Libraries (C++)</description>
   </item>
   <item>
     <title>MaaAssistantArknights / MaaAssistantArknights</title>
@@ -86,14 +71,24 @@
     <description>《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.</description>
   </item>
   <item>
-    <title>LizardByte / Sunshine</title>
-    <link>https://github.com/LizardByte/Sunshine</link>
-    <description>Self-hosted game stream host for Moonlight.</description>
+    <title>deskflow / deskflow</title>
+    <link>https://github.com/deskflow/deskflow</link>
+    <description>Share a single keyboard and mouse between multiple computers.</description>
   </item>
   <item>
-    <title>zhongyang219 / TrafficMonitor</title>
-    <link>https://github.com/zhongyang219/TrafficMonitor</link>
-    <description>这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</description>
+    <title>stenzek / duckstation</title>
+    <link>https://github.com/stenzek/duckstation</link>
+    <description>Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64</description>
+  </item>
+  <item>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+  </item>
+  <item>
+    <title>mongodb / mongo</title>
+    <link>https://github.com/mongodb/mongo</link>
+    <description>The MongoDB Database</description>
   </item>
 </channel>
 </rss>

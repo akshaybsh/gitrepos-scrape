@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
   <item>
     <title>AprilNEA / OpenLogi</title>
     <link>https://github.com/AprilNEA/OpenLogi</link>
@@ -26,19 +26,14 @@
     <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
   </item>
   <item>
-    <title>zenbu-labs / terminal-browser</title>
-    <link>https://github.com/zenbu-labs/terminal-browser</link>
-    <description>A browser inside your terminal</description>
-  </item>
-  <item>
     <title>longbridge / gpui-kit</title>
     <link>https://github.com/longbridge/gpui-kit</link>
     <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
   </item>
   <item>
-    <title>superradcompany / microsandbox</title>
-    <link>https://github.com/superradcompany/microsandbox</link>
-    <description>🧱 Easy fast local-first microVM runtime and library</description>
+    <title>zenbu-labs / terminal-browser</title>
+    <link>https://github.com/zenbu-labs/terminal-browser</link>
+    <description>A browser inside your terminal</description>
   </item>
   <item>
     <title>rustdesk / rustdesk</title>
@@ -46,9 +41,19 @@
     <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
+    <title>superradcompany / microsandbox</title>
+    <link>https://github.com/superradcompany/microsandbox</link>
+    <description>🧱 Easy fast local-first microVM runtime and library</description>
+  </item>
+  <item>
     <title>openai / codex</title>
     <link>https://github.com/openai/codex</link>
     <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>firecracker-microvm / firecracker</title>
+    <link>https://github.com/firecracker-microvm/firecracker</link>
+    <description>Secure and fast microVMs for serverless computing.</description>
   </item>
   <item>
     <title>nautechsystems / nautilus_trader</title>
@@ -61,14 +66,9 @@
     <description>Fast, disk space efficient package manager</description>
   </item>
   <item>
-    <title>xingkongliang / skills-manager</title>
-    <link>https://github.com/xingkongliang/skills-manager</link>
-    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
-  </item>
-  <item>
-    <title>cachix / devenv</title>
-    <link>https://github.com/cachix/devenv</link>
-    <description>Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</description>
+    <title>ajeetdsouza / zoxide</title>
+    <link>https://github.com/ajeetdsouza/zoxide</link>
+    <description>A smarter cd command. Supports all major shells.</description>
   </item>
   <item>
     <title>pola-rs / polars</title>
@@ -76,29 +76,19 @@
     <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
   </item>
   <item>
-    <title>dandavison / delta</title>
-    <link>https://github.com/dandavison/delta</link>
-    <description>A syntax-highlighting pager for git, diff, grep, rg --json, and blame output</description>
-  </item>
-  <item>
-    <title>ajeetdsouza / zoxide</title>
-    <link>https://github.com/ajeetdsouza/zoxide</link>
-    <description>A smarter cd command. Supports all major shells.</description>
-  </item>
-  <item>
-    <title>macro-inc / macro</title>
-    <link>https://github.com/macro-inc/macro</link>
-    <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
-  </item>
-  <item>
-    <title>jdx / mise</title>
-    <link>https://github.com/jdx/mise</link>
-    <description>dev tools, env vars, task runner</description>
+    <title>gleam-lang / gleam</title>
+    <link>https://github.com/gleam-lang/gleam</link>
+    <description>⭐️ A friendly language for building type-safe, scalable systems!</description>
   </item>
   <item>
     <title>sinelaw / fresh</title>
     <link>https://github.com/sinelaw/fresh</link>
     <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
+  </item>
+  <item>
+    <title>xingkongliang / skills-manager</title>
+    <link>https://github.com/xingkongliang/skills-manager</link>
+    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
   </item>
   <item>
     <title>tinyhumansai / openhuman</title>
@@ -109,6 +99,21 @@
     <title>koharu-rs / koharu</title>
     <link>https://github.com/koharu-rs/koharu</link>
     <description>AI-powered manga translator, written in Rust.</description>
+  </item>
+  <item>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+  </item>
+  <item>
+    <title>macro-inc / macro</title>
+    <link>https://github.com/macro-inc/macro</link>
+    <description>Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.</description>
+  </item>
+  <item>
+    <title>jdx / mise</title>
+    <link>https://github.com/jdx/mise</link>
+    <description>dev tools, env vars, task runner</description>
   </item>
 </channel>
 </rss>

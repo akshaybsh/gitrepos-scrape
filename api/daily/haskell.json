@@ -2,17 +2,17 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
   "items": [
     {
-      "title": "jgm / pandoc",
-      "url": "https://github.com/jgm/pandoc",
-      "description": "Universal markup converter",
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46212,
-      "forks": 3964,
-      "added_stars": "14 stars today"
+      "stars": 12398,
+      "forks": 502,
+      "added_stars": "3 stars today"
     },
     {
       "title": "PostgREST / postgrest",
@@ -20,29 +20,39 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27652,
+      "stars": 27654,
       "forks": 1226,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12396,
-      "forks": 501,
       "added_stars": "4 stars today"
     },
     {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "nammayatri / nammayatri",
+      "url": "https://github.com/nammayatri/nammayatri",
+      "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19412,
-      "forks": 1345,
-      "added_stars": "9 stars today"
+      "stars": 2564,
+      "forks": 399,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 46232,
+      "forks": 3968,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40022,
+      "forks": 1945,
+      "added_stars": "7 stars today"
     },
     {
       "title": "IntersectMBO / cardano-node",
@@ -52,37 +62,27 @@
       "languageColor": "#5e5086",
       "stars": 3179,
       "forks": 752,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40015,
-      "forks": 1945,
-      "added_stars": "6 stars today"
+      "stars": 19417,
+      "forks": 1346,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1745,
-      "forks": 71,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "nammayatri / nammayatri",
-      "url": "https://github.com/nammayatri/nammayatri",
-      "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2563,
-      "forks": 399,
-      "added_stars": "6 stars today"
+      "stars": 1746,
+      "forks": 748,
+      "added_stars": "0 stars today"
     }
   ]
 }

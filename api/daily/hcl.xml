@@ -4,56 +4,16 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 06:56:05 GMT</pubDate>
-  <item>
-    <title>LinkedInLearning / learning-terraform-3087701</title>
-    <link>https://github.com/LinkedInLearning/learning-terraform-3087701</link>
-    <description>This repo is for the Linkedin Learning course: Learning Terraform</description>
-  </item>
+  <pubDate>Fri, 11 Sep 2026 06:55:27 GMT</pubDate>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-    <description>Configures opinionated GKE clusters</description>
-  </item>
-  <item>
-    <title>okd-project / okd</title>
-    <link>https://github.com/okd-project/okd</link>
-    <description>The self-managing, auto-upgrading, Kubernetes distribution for everyone</description>
-  </item>
-  <item>
-    <title>kubernetes / k8s.io</title>
-    <link>https://github.com/kubernetes/k8s.io</link>
-    <description>Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites</description>
-  </item>
-  <item>
-    <title>ministryofjustice / cloud-platform-environments</title>
-    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
-    <description>Environment configuration for the Cloud Platform</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-ecs-container-definition</title>
-    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-yaml-config</title>
-    <link>https://github.com/cloudposse/terraform-yaml-config</link>
-    <description>Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-lambda</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
-    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-s3-log-storage</title>
-    <link>https://github.com/cloudposse/terraform-aws-s3-log-storage</link>
-    <description>This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</description>
+    <title>iam-veeramalla / ultimate-devops-project-aws</title>
+    <link>https://github.com/iam-veeramalla/ultimate-devops-project-aws</link>
+    <description>End to End DevOps project</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
@@ -61,9 +21,44 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>sidpalas / devops-directive-terraform-course</title>
-    <link>https://github.com/sidpalas/devops-directive-terraform-course</link>
-    <description>Companion repo for complete Terraform course</description>
+    <title>okd-project / okd</title>
+    <link>https://github.com/okd-project/okd</link>
+    <description>The self-managing, auto-upgrading, Kubernetes distribution for everyone</description>
+  </item>
+  <item>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+  </item>
+  <item>
+    <title>chef / bento</title>
+    <link>https://github.com/chef/bento</link>
+    <description>Packer templates for building minimal Vagrant baseboxes for multiple platforms</description>
+  </item>
+  <item>
+    <title>ministryofjustice / cloud-platform-environments</title>
+    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
+    <description>Environment configuration for the Cloud Platform</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>techiescamp / devops-projects</title>
+    <link>https://github.com/techiescamp/devops-projects</link>
+    <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-pubsub</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-pubsub</link>
+    <description>Creates Pub/Sub topic and subscriptions associated with the topic</description>
   </item>
 </channel>
 </rss>

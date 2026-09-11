@@ -4,16 +4,16 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 07:00:43 GMT</pubDate>
-  <item>
-    <title>cathrynlavery / diagram-design</title>
-    <link>https://github.com/cathrynlavery/diagram-design</link>
-    <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
-  </item>
+  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
   <item>
     <title>omacom / omarchy</title>
     <link>https://github.com/omacom/omarchy</link>
     <description>Beautiful, Modern &amp; Opinionated Linux</description>
+  </item>
+  <item>
+    <title>cathrynlavery / diagram-design</title>
+    <link>https://github.com/cathrynlavery/diagram-design</link>
+    <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
   </item>
   <item>
     <title>cursor / plugins</title>
@@ -41,11 +41,6 @@
     <description>Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</description>
   </item>
   <item>
-    <title>semantica-agi / semantica</title>
-    <link>https://github.com/semantica-agi/semantica</link>
-    <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
-  </item>
-  <item>
     <title>xai-org / x-algorithm</title>
     <link>https://github.com/xai-org/x-algorithm</link>
     <description>Algorithm powering the For You feed on X</description>
@@ -56,9 +51,24 @@
     <description>Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。</description>
   </item>
   <item>
+    <title>NVIDIA-NeMo / Switchyard</title>
+    <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
+    <description>Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.</description>
+  </item>
+  <item>
+    <title>semantica-agi / semantica</title>
+    <link>https://github.com/semantica-agi/semantica</link>
+    <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
+  </item>
+  <item>
     <title>THU-MAIC / OpenMAIC</title>
     <link>https://github.com/THU-MAIC/OpenMAIC</link>
     <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
+  </item>
+  <item>
+    <title>youssofal / MTPLX</title>
+    <link>https://github.com/youssofal/MTPLX</link>
+    <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
   </item>
   <item>
     <title>vorssaint / vorssaint-utils</title>
@@ -71,11 +81,6 @@
     <description>The Modular Platform (includes MAX &amp; Mojo)</description>
   </item>
   <item>
-    <title>cactus-compute / needle</title>
-    <link>https://github.com/cactus-compute/needle</link>
-    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
-  </item>
-  <item>
     <title>debpalash / VoiceStudio</title>
     <link>https://github.com/debpalash/VoiceStudio</link>
     <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
@@ -84,16 +89,6 @@
     <title>akitaonrails / ai-memory</title>
     <link>https://github.com/akitaonrails/ai-memory</link>
     <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
-  </item>
-  <item>
-    <title>marin-community / marin</title>
-    <link>https://github.com/marin-community/marin</link>
-    <description>Open-source framework for the research and development of foundation models.</description>
-  </item>
-  <item>
-    <title>apache / maka</title>
-    <link>https://github.com/apache/maka</link>
-    <description>Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.</description>
   </item>
   <item>
     <title>Lakr233 / vphone-cli</title>
@@ -106,19 +101,29 @@
     <description>A collective list of free APIs</description>
   </item>
   <item>
-    <title>megadose / holehe</title>
-    <link>https://github.com/megadose/holehe</link>
-    <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
+    <title>cactus-compute / needle</title>
+    <link>https://github.com/cactus-compute/needle</link>
+    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
   </item>
   <item>
-    <title>3b1b / manim</title>
-    <link>https://github.com/3b1b/manim</link>
-    <description>Animation engine for explanatory math videos</description>
+    <title>apache / maka</title>
+    <link>https://github.com/apache/maka</link>
+    <description>Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.</description>
   </item>
   <item>
-    <title>titanwings / distilly</title>
-    <link>https://github.com/titanwings/distilly</link>
-    <description>Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.</description>
+    <title>AlexsJones / llmfit</title>
+    <link>https://github.com/AlexsJones/llmfit</link>
+    <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
+  </item>
+  <item>
+    <title>ayghri / i-have-adhd</title>
+    <link>https://github.com/ayghri/i-have-adhd</link>
+    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
+  </item>
+  <item>
+    <title>harry0703 / MoneyPrinterTurbo</title>
+    <link>https://github.com/harry0703/MoneyPrinterTurbo</link>
+    <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
   </item>
 </channel>
 </rss>

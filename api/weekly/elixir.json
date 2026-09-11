@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
     {
       "title": "plausible / analytics",
@@ -10,9 +10,19 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 28999,
-      "forks": 1856,
-      "added_stars": "157 stars this week"
+      "stars": 29018,
+      "forks": 1860,
+      "added_stars": "163 stars this week"
+    },
+    {
+      "title": "firezone / firezone",
+      "url": "https://github.com/firezone/firezone",
+      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9085,
+      "forks": 456,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "blockscout / blockscout",
@@ -20,8 +30,8 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4674,
-      "forks": 3166,
+      "stars": 4677,
+      "forks": 3168,
       "added_stars": "12 stars this week"
     },
     {
@@ -30,19 +40,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27124,
-      "forks": 2787,
-      "added_stars": "129 stars this week"
-    },
-    {
-      "title": "firezone / firezone",
-      "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9084,
-      "forks": 456,
-      "added_stars": "38 stars this week"
+      "stars": 27144,
+      "forks": 2792,
+      "added_stars": "124 stars this week"
     },
     {
       "title": "elixir-lang / elixir",
@@ -50,9 +50,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26630,
+      "stars": 26629,
       "forks": 3667,
-      "added_stars": "14 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -60,9 +60,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23149,
-      "forks": 3110,
-      "added_stars": "16 stars this week"
+      "stars": 23151,
+      "forks": 3111,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "anoma / anoma",
@@ -70,7 +70,7 @@
       "description": "Reference implementation of Anoma",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 33619,
+      "stars": 33618,
       "forks": 4112,
       "added_stars": "5 stars this week"
     },
@@ -90,19 +90,9 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8973,
-      "forks": 1003,
+      "stars": 8977,
+      "forks": 1002,
       "added_stars": "33 stars this week"
-    },
-    {
-      "title": "algora-io / algora",
-      "url": "https://github.com/algora-io/algora",
-      "description": "Hire the top 1% OSS engineers",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1495,
-      "forks": 151,
-      "added_stars": "8 stars this week"
     },
     {
       "title": "agentjido / term_ui",
@@ -122,7 +112,7 @@
       "languageColor": "#6e4a7e",
       "stars": 6826,
       "forks": 1052,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -140,9 +130,9 @@
       "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1775,
+      "stars": 1776,
       "forks": 227,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -150,9 +140,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5301,
+      "stars": 5304,
       "forks": 166,
-      "added_stars": "10 stars this week"
+      "added_stars": "11 stars this week"
     }
   ]
 }

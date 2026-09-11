@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3916,
+      "stars": 3940,
       "forks": 261,
-      "added_stars": "960 stars this month"
+      "added_stars": "975 stars this month"
     },
     {
       "title": "w3c / csswg-drafts",
@@ -20,9 +20,19 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4876,
-      "forks": 814,
-      "added_stars": "19 stars this month"
+      "stars": 4877,
+      "forks": 815,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "w3c / resource-timing",
+      "url": "https://github.com/w3c/resource-timing",
+      "description": "Resource Timing",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 135,
+      "forks": 40,
+      "added_stars": "1 star this month"
     },
     {
       "title": "w3c / webappsec-permissions-policy",
@@ -33,6 +43,16 @@
       "stars": 430,
       "forks": 181,
       "added_stars": "2 stars this month"
+    },
+    {
+      "title": "w3c / webauthn",
+      "url": "https://github.com/w3c/webauthn",
+      "description": "Web Authentication: An API for accessing Public Key Credentials",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 1456,
+      "forks": 304,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "WebAudio / web-audio-api",

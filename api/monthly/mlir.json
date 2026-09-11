@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,9 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 20121,
-      "forks": 3177,
-      "added_stars": "244 stars this month"
+      "stars": 20126,
+      "forks": 3182,
+      "added_stars": "241 stars this month"
     },
     {
       "title": "triton-lang / triton-ascend",
@@ -21,18 +21,8 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 160,
-      "forks": 211,
-      "added_stars": "25 stars this month"
-    },
-    {
-      "title": "intel / intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 269,
-      "forks": 108,
-      "added_stars": "5 stars this month"
+      "forks": 217,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "google / heir",
@@ -40,9 +30,19 @@
       "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 890,
+      "stars": 893,
       "forks": 170,
-      "added_stars": "131 stars this month"
+      "added_stars": "132 stars this month"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 270,
+      "forks": 108,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "EnzymeAD / Enzyme-JAX",
@@ -71,7 +71,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 306,
-      "forks": 150,
+      "forks": 151,
       "added_stars": "10 stars this month"
     }
   ]

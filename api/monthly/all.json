@@ -2,27 +2,27 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
-    {
-      "title": "cathrynlavery / diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 36954,
-      "forks": 2345,
-      "added_stars": "32,587 stars this month"
-    },
     {
       "title": "omacom / omarchy",
       "url": "https://github.com/omacom/omarchy",
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 39841,
-      "forks": 4348,
-      "added_stars": "15,578 stars this month"
+      "stars": 40127,
+      "forks": 4404,
+      "added_stars": "15,894 stars this month"
+    },
+    {
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 38043,
+      "forks": 2408,
+      "added_stars": "33,361 stars this month"
     },
     {
       "title": "cursor / plugins",
@@ -30,9 +30,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7291,
-      "forks": 636,
-      "added_stars": "4,683 stars this month"
+      "stars": 7408,
+      "forks": 647,
+      "added_stars": "4,798 stars this month"
     },
     {
       "title": "tt-a1i / archify",
@@ -40,9 +40,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 56453,
-      "forks": 3682,
-      "added_stars": "45,313 stars this month"
+      "stars": 57762,
+      "forks": 3775,
+      "added_stars": "46,339 stars this month"
     },
     {
       "title": "anthropics / claude-plugins-community",
@@ -50,9 +50,9 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3709,
-      "forks": 281,
-      "added_stars": "3,395 stars this month"
+      "stars": 3762,
+      "forks": 283,
+      "added_stars": "3,460 stars this month"
     },
     {
       "title": "AprilNEA / OpenLogi",
@@ -60,9 +60,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 20394,
-      "forks": 634,
-      "added_stars": "12,082 stars this month"
+      "stars": 20582,
+      "forks": 649,
+      "added_stars": "12,225 stars this month"
     },
     {
       "title": "volcengine / OpenViking",
@@ -70,19 +70,9 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 36370,
-      "forks": 2780,
-      "added_stars": "8,284 stars this month"
-    },
-    {
-      "title": "semantica-agi / semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12552,
-      "forks": 1404,
-      "added_stars": "9,711 stars this month"
+      "stars": 36582,
+      "forks": 2800,
+      "added_stars": "8,469 stars this month"
     },
     {
       "title": "xai-org / x-algorithm",
@@ -90,9 +80,9 @@
       "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 33028,
-      "forks": 5377,
-      "added_stars": "6,170 stars this month"
+      "stars": 33088,
+      "forks": 5384,
+      "added_stars": "6,248 stars this month"
     },
     {
       "title": "freestylefly / awesome-gpt-image-2",
@@ -100,9 +90,29 @@
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 30357,
-      "forks": 2936,
-      "added_stars": "20,295 stars this month"
+      "stars": 31086,
+      "forks": 3010,
+      "added_stars": "21,157 stars this month"
+    },
+    {
+      "title": "NVIDIA-NeMo / Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2844,
+      "forks": 257,
+      "added_stars": "2,628 stars this month"
+    },
+    {
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 12634,
+      "forks": 1414,
+      "added_stars": "8,849 stars this month"
     },
     {
       "title": "THU-MAIC / OpenMAIC",
@@ -110,9 +120,19 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 34711,
-      "forks": 5569,
-      "added_stars": "13,766 stars this month"
+      "stars": 35566,
+      "forks": 5659,
+      "added_stars": "14,604 stars this month"
+    },
+    {
+      "title": "youssofal / MTPLX",
+      "url": "https://github.com/youssofal/MTPLX",
+      "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2225,
+      "forks": 164,
+      "added_stars": "1,060 stars this month"
     },
     {
       "title": "vorssaint / vorssaint-utils",
@@ -120,9 +140,9 @@
       "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 17890,
-      "forks": 630,
-      "added_stars": "12,822 stars this month"
+      "stars": 18155,
+      "forks": 644,
+      "added_stars": "13,129 stars this month"
     },
     {
       "title": "modular / modular",
@@ -130,19 +150,9 @@
       "description": "The Modular Platform (includes MAX & Mojo)",
       "language": "Mojo",
       "languageColor": "#ff4c1f",
-      "stars": 29659,
-      "forks": 3164,
-      "added_stars": "3,054 stars this month"
-    },
-    {
-      "title": "cactus-compute / needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 10716,
-      "forks": 682,
-      "added_stars": "7,313 stars this month"
+      "stars": 29677,
+      "forks": 3166,
+      "added_stars": "3,080 stars this month"
     },
     {
       "title": "debpalash / VoiceStudio",
@@ -150,9 +160,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 21974,
-      "forks": 2705,
-      "added_stars": "12,027 stars this month"
+      "stars": 22351,
+      "forks": 2751,
+      "added_stars": "12,418 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -160,29 +170,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6349,
-      "forks": 439,
-      "added_stars": "4,804 stars this month"
-    },
-    {
-      "title": "marin-community / marin",
-      "url": "https://github.com/marin-community/marin",
-      "description": "Open-source framework for the research and development of foundation models.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3581,
-      "forks": 288,
-      "added_stars": "2,360 stars this month"
-    },
-    {
-      "title": "apache / maka",
-      "url": "https://github.com/apache/maka",
-      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5158,
-      "forks": 478,
-      "added_stars": "3,880 stars this month"
+      "stars": 6494,
+      "forks": 446,
+      "added_stars": "5,026 stars this month"
     },
     {
       "title": "Lakr233 / vphone-cli",
@@ -190,9 +180,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11424,
-      "forks": 1447,
-      "added_stars": "3,794 stars this month"
+      "stars": 11517,
+      "forks": 1464,
+      "added_stars": "3,892 stars this month"
     },
     {
       "title": "public-apis / public-apis",
@@ -200,39 +190,59 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 478266,
-      "forks": 52785,
-      "added_stars": "23,852 stars this month"
+      "stars": 478742,
+      "forks": 52839,
+      "added_stars": "24,223 stars this month"
     },
     {
-      "title": "megadose / holehe",
-      "url": "https://github.com/megadose/holehe",
-      "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14850,
-      "forks": 1884,
-      "added_stars": "2,905 stars this month"
+      "stars": 10786,
+      "forks": 689,
+      "added_stars": "7,395 stars this month"
     },
     {
-      "title": "3b1b / manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 93669,
-      "forks": 7689,
-      "added_stars": "4,372 stars this month"
-    },
-    {
-      "title": "titanwings / distilly",
-      "url": "https://github.com/titanwings/distilly",
-      "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
+      "title": "apache / maka",
+      "url": "https://github.com/apache/maka",
+      "description": "Apache Maka (Incubating) is a high-performance agent workspace that keeps a complete record of everything it did.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 24562,
-      "forks": 2136,
-      "added_stars": "3,805 stars this month"
+      "stars": 5212,
+      "forks": 485,
+      "added_stars": "3,941 stars this month"
+    },
+    {
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 35876,
+      "forks": 2271,
+      "added_stars": "4,375 stars this month"
+    },
+    {
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 39153,
+      "forks": 2241,
+      "added_stars": "18,245 stars this month"
+    },
+    {
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 122333,
+      "forks": 18892,
+      "added_stars": "20,448 stars this month"
     }
   ]
 }

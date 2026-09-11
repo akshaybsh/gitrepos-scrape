@@ -2,27 +2,27 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
   "items": [
     {
-      "title": "OpenRadioss / OpenRadioss",
-      "url": "https://github.com/OpenRadioss/OpenRadioss",
-      "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 872,
-      "forks": 395,
+      "stars": 440,
+      "forks": 481,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1700,
-      "forks": 396,
-      "added_stars": "1 star today"
+      "stars": 966,
+      "forks": 538,
+      "added_stars": "0 stars today"
     },
     {
       "title": "firemodels / fds",
@@ -35,24 +35,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 966,
-      "forks": 538,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 440,
-      "forks": 481,
-      "added_stars": "0 stars today"
+      "stars": 1205,
+      "forks": 496,
+      "added_stars": "2 stars today"
     },
     {
       "title": "wrf-model / WRF",
@@ -62,6 +52,16 @@
       "languageColor": "#4d41b1",
       "stars": 1752,
       "forks": 881,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 405,
+      "forks": 759,
       "added_stars": "0 stars today"
     },
     {
@@ -75,16 +75,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1203,
-      "forks": 496,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "MetOffice / lfric_core",
       "url": "https://github.com/MetOffice/lfric_core",
       "description": "LFRic Infrastructure",
@@ -93,6 +83,16 @@
       "stars": 26,
       "forks": 73,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "OpenRadioss / OpenRadioss",
+      "url": "https://github.com/OpenRadioss/OpenRadioss",
+      "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 874,
+      "forks": 393,
+      "added_stars": "4 stars today"
     }
   ]
 }

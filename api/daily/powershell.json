@@ -2,47 +2,17 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
   "items": [
     {
-      "title": "mandiant / flare-vm",
-      "url": "https://github.com/mandiant/flare-vm",
-      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+      "title": "Raphire / Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 9015,
-      "forks": 1111,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 11215,
-      "forks": 9087,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Orange-Cyberdefense / GOAD",
-      "url": "https://github.com/Orange-Cyberdefense/GOAD",
-      "description": "game of active directory",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 8302,
-      "forks": 1135,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "dartraiden / NVIDIA-patcher",
-      "url": "https://github.com/dartraiden/NVIDIA-patcher",
-      "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-090 / P104-100 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, L40 ES, and RTX 5080M ES N22W-ES-A1.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1585,
-      "forks": 131,
-      "added_stars": "2 stars today"
+      "stars": 56980,
+      "forks": 2436,
+      "added_stars": "49 stars today"
     },
     {
       "title": "yegors / deGDID",
@@ -50,29 +20,9 @@
       "description": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 909,
+      "stars": 914,
       "forks": 46,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "0Chencc / clawgod",
-      "url": "https://github.com/0Chencc/clawgod",
-      "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1998,
-      "forks": 326,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Raphire / Win11Debloat",
-      "url": "https://github.com/Raphire/Win11Debloat",
-      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 56939,
-      "forks": 2434,
-      "added_stars": "60 stars today"
+      "added_stars": "5 stars today"
     },
     {
       "title": "actions / runner-images",
@@ -80,19 +30,9 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13125,
-      "forks": 3840,
+      "stars": 13130,
+      "forks": 3838,
       "added_stars": "5 stars today"
-    },
-    {
-      "title": "ChrisTitusTech / winutil",
-      "url": "https://github.com/ChrisTitusTech/winutil",
-      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 62327,
-      "forks": 3648,
-      "added_stars": "88 stars today"
     },
     {
       "title": "github / copilot-plugins",
@@ -100,39 +40,59 @@
       "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 357,
-      "forks": 121,
+      "stars": 358,
+      "forks": 123,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ChrisTitusTech / winutil",
+      "url": "https://github.com/ChrisTitusTech/winutil",
+      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 62392,
+      "forks": 3652,
+      "added_stars": "73 stars today"
+    },
+    {
+      "title": "zoicware / RemoveWindowsAI",
+      "url": "https://github.com/zoicware/RemoveWindowsAI",
+      "description": "Force Remove Copilot, Recall and More in Windows 11",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 13015,
+      "forks": 459,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "psmux / psmux",
+      "url": "https://github.com/psmux/psmux",
+      "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 3460,
+      "forks": 210,
       "added_stars": "3 stars today"
     },
     {
-      "title": "microsoft / fabric-toolbox",
-      "url": "https://github.com/microsoft/fabric-toolbox",
-      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
+      "title": "microsoft / finops-toolkit",
+      "url": "https://github.com/microsoft/finops-toolkit",
+      "description": "Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 896,
-      "forks": 379,
+      "stars": 601,
+      "forks": 246,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ScoopInstaller / Scoop",
-      "url": "https://github.com/ScoopInstaller/Scoop",
-      "description": "A command-line installer for Windows.",
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 24645,
-      "forks": 1535,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "microsoft / WindowsDeveloperConfig",
-      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
-      "description": "Automate the setup and configuration of your Windows development environment.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2114,
-      "forks": 161,
-      "added_stars": "19 stars today"
+      "stars": 35523,
+      "forks": 4877,
+      "added_stars": "176 stars today"
     },
     {
       "title": "dotnet / core",
@@ -140,18 +100,28 @@
       "description": ".NET news, announcements, release notes, and more!",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 22035,
-      "forks": 4935,
-      "added_stars": "2 stars today"
+      "stars": 22032,
+      "forks": 4936,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "microsoft / AI-in-One-Dashboard",
-      "url": "https://github.com/microsoft/AI-in-One-Dashboard",
-      "description": "AI-in-One Dashboard Power BI template for comprehensive AI usage analytics",
+      "title": "microsoft / fabric-toolbox",
+      "url": "https://github.com/microsoft/fabric-toolbox",
+      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 79,
-      "forks": 19,
+      "stars": 897,
+      "forks": 381,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "microsoft / AL",
+      "url": "https://github.com/microsoft/AL",
+      "description": "Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 882,
+      "forks": 285,
       "added_stars": "0 stars today"
     },
     {
@@ -160,19 +130,39 @@
       "description": "Community-driven baseline to accelerate Intune adoption and learning.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 1465,
+      "stars": 1466,
       "forks": 274,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
-      "title": "cisagov / ScubaGear",
-      "url": "https://github.com/cisagov/ScubaGear",
-      "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
+      "title": "Orange-Cyberdefense / GOAD",
+      "url": "https://github.com/Orange-Cyberdefense/GOAD",
+      "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 2658,
-      "forks": 378,
-      "added_stars": "1 star today"
+      "stars": 8309,
+      "forks": 1135,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "microsoft / work-iq",
+      "url": "https://github.com/microsoft/work-iq",
+      "description": "MCP Server and CLI for accessing Work IQ",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 998,
+      "forks": 126,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "microsoft / WindowsDeveloperConfig",
+      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
+      "description": "Automate the setup and configuration of your Windows development environment.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2125,
+      "forks": 161,
+      "added_stars": "11 stars today"
     }
   ]
 }

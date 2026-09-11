@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
     {
       "title": "fmtlib / fmt",
@@ -10,9 +10,9 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25708,
-      "forks": 3056,
-      "added_stars": "1,847 stars this week"
+      "stars": 25727,
+      "forks": 3060,
+      "added_stars": "920 stars this week"
     },
     {
       "title": "audacity / audacity",
@@ -20,29 +20,9 @@
       "description": "Audio Editor",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18381,
-      "forks": 2659,
-      "added_stars": "704 stars this week"
-    },
-    {
-      "title": "prusa3d / PrusaSlicer",
-      "url": "https://github.com/prusa3d/PrusaSlicer",
-      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9319,
-      "forks": 2343,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10562,
-      "forks": 461,
-      "added_stars": "355 stars this week"
+      "stars": 18392,
+      "forks": 2660,
+      "added_stars": "524 stars this week"
     },
     {
       "title": "alibaba / zvec",
@@ -50,9 +30,9 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15871,
-      "forks": 993,
-      "added_stars": "272 stars this week"
+      "stars": 15888,
+      "forks": 995,
+      "added_stars": "192 stars this week"
     },
     {
       "title": "facebook / rocksdb",
@@ -60,79 +40,39 @@
       "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32076,
-      "forks": 6927,
-      "added_stars": "45 stars this week"
+      "stars": 32079,
+      "forks": 6928,
+      "added_stars": "41 stars this week"
     },
     {
-      "title": "abseil / abseil-cpp",
-      "url": "https://github.com/abseil/abseil-cpp",
-      "description": "Abseil Common Libraries (C++)",
+      "title": "dragonflydb / dragonfly",
+      "url": "https://github.com/dragonflydb/dragonfly",
+      "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18132,
-      "forks": 3194,
-      "added_stars": "16 stars this week"
+      "stars": 31481,
+      "forks": 1258,
+      "added_stars": "184 stars this week"
     },
     {
-      "title": "noctalia-dev / noctalia",
-      "url": "https://github.com/noctalia-dev/noctalia",
-      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "title": "prusa3d / PrusaSlicer",
+      "url": "https://github.com/prusa3d/PrusaSlicer",
+      "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10427,
-      "forks": 789,
-      "added_stars": "307 stars this week"
+      "stars": 9324,
+      "forks": 2346,
+      "added_stars": "33 stars this week"
     },
     {
-      "title": "mongodb / mongo",
-      "url": "https://github.com/mongodb/mongo",
-      "description": "The MongoDB Database",
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28544,
-      "forks": 5803,
-      "added_stars": "28 stars this week"
-    },
-    {
-      "title": "praydog / REFramework",
-      "url": "https://github.com/praydog/REFramework",
-      "description": "Mod loader, scripting platform, and VR support for all RE Engine games",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5439,
-      "forks": 619,
-      "added_stars": "64 stars this week"
-    },
-    {
-      "title": "deskflow / deskflow",
-      "url": "https://github.com/deskflow/deskflow",
-      "description": "Share a single keyboard and mouse between multiple computers.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 28718,
-      "forks": 4855,
-      "added_stars": "201 stars this week"
-    },
-    {
-      "title": "FreeCAD / FreeCAD",
-      "url": "https://github.com/FreeCAD/FreeCAD",
-      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 33399,
-      "forks": 6013,
-      "added_stars": "197 stars this week"
-    },
-    {
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15030,
-      "forks": 1726,
-      "added_stars": "145 stars this week"
+      "stars": 10629,
+      "forks": 463,
+      "added_stars": "354 stars this week"
     },
     {
       "title": "imputnet / helium",
@@ -140,19 +80,49 @@
       "description": "Private, fast, and honest web browser",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 20500,
-      "forks": 565,
-      "added_stars": "423 stars this week"
+      "stars": 20545,
+      "forks": 567,
+      "added_stars": "435 stars this week"
     },
     {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
+      "title": "noctalia-dev / noctalia",
+      "url": "https://github.com/noctalia-dev/noctalia",
+      "description": "A sleek, customizable desktop shell crafted for Wayland.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 72013,
-      "forks": 16277,
-      "added_stars": "131 stars this week"
+      "stars": 10478,
+      "forks": 791,
+      "added_stars": "319 stars this week"
+    },
+    {
+      "title": "FreeCAD / FreeCAD",
+      "url": "https://github.com/FreeCAD/FreeCAD",
+      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 33422,
+      "forks": 6019,
+      "added_stars": "194 stars this week"
+    },
+    {
+      "title": "tenstorrent / tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1664,
+      "forks": 657,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "abseil / abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18131,
+      "forks": 3196,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "MaaAssistantArknights / MaaAssistantArknights",
@@ -160,29 +130,49 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23177,
-      "forks": 2830,
-      "added_stars": "227 stars this week"
+      "stars": 23196,
+      "forks": 2832,
+      "added_stars": "214 stars this week"
     },
     {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
+      "title": "deskflow / deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41059,
-      "forks": 2099,
-      "added_stars": "290 stars this week"
+      "stars": 28748,
+      "forks": 4860,
+      "added_stars": "202 stars this week"
     },
     {
-      "title": "zhongyang219 / TrafficMonitor",
-      "url": "https://github.com/zhongyang219/TrafficMonitor",
-      "description": "这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。",
+      "title": "stenzek / duckstation",
+      "url": "https://github.com/stenzek/duckstation",
+      "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 46114,
-      "forks": 3790,
-      "added_stars": "135 stars this week"
+      "stars": 10664,
+      "forks": 964,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 72025,
+      "forks": 16280,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "mongodb / mongo",
+      "url": "https://github.com/mongodb/mongo",
+      "description": "The MongoDB Database",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28550,
+      "forks": 5804,
+      "added_stars": "29 stars this week"
     }
   ]
 }

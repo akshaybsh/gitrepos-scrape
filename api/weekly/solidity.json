@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27234,
-      "forks": 12404,
-      "added_stars": "12 stars this week"
+      "stars": 27237,
+      "forks": 12402,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -21,8 +21,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 1055,
-      "forks": 521,
-      "added_stars": "1 star this week"
+      "forks": 520,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -30,9 +30,9 @@
       "description": "ERC4626 Property Tests",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 223,
+      "stars": 224,
       "forks": 44,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "dapphub / ds-test",
@@ -41,28 +41,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 239,
-      "forks": 75,
+      "forks": 76,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4284,
-      "forks": 707,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 3369,
-      "forks": 487,
-      "added_stars": "3 stars this week"
     },
     {
       "title": "ethereum / ERCs",
@@ -71,8 +51,28 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 754,
-      "forks": 1057,
-      "added_stars": "7 stars this week"
+      "forks": 1056,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 4285,
+      "forks": 707,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 3370,
+      "forks": 486,
+      "added_stars": "5 stars this week"
     }
   ]
 }

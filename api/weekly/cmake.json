@@ -2,8 +2,18 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
+    {
+      "title": "microsoft / vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27458,
+      "forks": 7714,
+      "added_stars": "32 stars this week"
+    },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
       "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
@@ -11,28 +21,8 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": 1743,
-      "forks": 252,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "microsoft / vcpkg",
-      "url": "https://github.com/microsoft/vcpkg",
-      "description": "C++ Library Manager for Windows, Linux, and MacOS",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 27451,
-      "forks": 7713,
-      "added_stars": "31 stars this week"
-    },
-    {
-      "title": "Andersama / obs-asio",
-      "url": "https://github.com/Andersama/obs-asio",
-      "description": "ASIO plugin for OBS-Studio",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 845,
-      "forks": 53,
-      "added_stars": "5 stars this week"
+      "forks": 253,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "KiCad / kicad-footprints",
@@ -43,6 +33,16 @@
       "stars": 688,
       "forks": 702,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "Andersama / obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 845,
+      "forks": 53,
+      "added_stars": "3 stars this week"
     }
   ]
 }

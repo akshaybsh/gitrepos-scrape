@@ -2,17 +2,37 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
   "items": [
+    {
+      "title": "satijalab / seurat",
+      "url": "https://github.com/satijalab/seurat",
+      "description": "R toolkit for single cell genomics",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 2798,
+      "forks": 996,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4597,
+      "forks": 7195,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "nflverse / nflverse-data",
       "url": "https://github.com/nflverse/nflverse-data",
       "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 388,
+      "stars": 390,
       "forks": 43,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "jinworks / CellChat",
@@ -25,46 +45,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 3916,
-      "forks": 1052,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4596,
-      "forks": 7194,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5682,
-      "forks": 1889,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 891,
-      "forks": 143282,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "tidyverse / dplyr",
       "url": "https://github.com/tidyverse/dplyr",
       "description": "dplyr: A grammar of data manipulation",
@@ -72,36 +52,36 @@
       "languageColor": "#198CE7",
       "stars": 5067,
       "forks": 2114,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "satijalab / seurat",
-      "url": "https://github.com/satijalab/seurat",
-      "description": "R toolkit for single cell genomics",
+      "title": "ipea / geocodebr",
+      "url": "https://github.com/ipea/geocodebr",
+      "description": "Geolocalização de Endereços Brasileiros (Geocoding Brazilian Addresses)",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2798,
-      "forks": 996,
-      "added_stars": "1 star today"
+      "stars": 112,
+      "forks": 14,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
+      "title": "Rdatatable / data.table",
+      "url": "https://github.com/Rdatatable/data.table",
+      "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6991,
-      "forks": 2124,
-      "added_stars": "1 star today"
+      "stars": 3916,
+      "forks": 1052,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "hadley / r4ds",
-      "url": "https://github.com/hadley/r4ds",
-      "description": "R for data science: a book",
+      "title": "PecanProject / pecan",
+      "url": "https://github.com/PecanProject/pecan",
+      "description": "The Predictive Ecosystem Analyzer (PEcAn) is an integrated ecological bioinformatics toolbox.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5149,
-      "forks": 4444,
+      "stars": 244,
+      "forks": 320,
       "added_stars": "0 stars today"
     }
   ]

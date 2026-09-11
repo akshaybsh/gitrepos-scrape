@@ -2,17 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
+    {
+      "title": "dragonflydb / dragonfly",
+      "url": "https://github.com/dragonflydb/dragonfly",
+      "description": "A modern replacement for Redis and Memcached",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 31481,
+      "forks": 1258,
+      "added_stars": "545 stars this month"
+    },
     {
       "title": "google / googletest",
       "url": "https://github.com/google/googletest",
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39509,
+      "stars": 39512,
       "forks": 10891,
-      "added_stars": "666 stars this month"
+      "added_stars": "663 stars this month"
     },
     {
       "title": "microsoft / microsoft-ui-xaml",
@@ -20,19 +30,9 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8382,
-      "forks": 937,
-      "added_stars": "549 stars this month"
-    },
-    {
-      "title": "dragonflydb / dragonfly",
-      "url": "https://github.com/dragonflydb/dragonfly",
-      "description": "A modern replacement for Redis and Memcached",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31471,
-      "forks": 1258,
-      "added_stars": "530 stars this month"
+      "stars": 8392,
+      "forks": 939,
+      "added_stars": "550 stars this month"
     },
     {
       "title": "prusa3d / PrusaSlicer",
@@ -40,9 +40,9 @@
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9319,
-      "forks": 2343,
-      "added_stars": "117 stars this month"
+      "stars": 9324,
+      "forks": 2346,
+      "added_stars": "115 stars this month"
     },
     {
       "title": "audacity / audacity",
@@ -50,9 +50,9 @@
       "description": "Audio Editor",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 18381,
-      "forks": 2659,
-      "added_stars": "890 stars this month"
+      "stars": 18392,
+      "forks": 2660,
+      "added_stars": "900 stars this month"
     },
     {
       "title": "microsoft / onnxruntime",
@@ -60,9 +60,9 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 21806,
-      "forks": 4213,
-      "added_stars": "515 stars this month"
+      "stars": 21821,
+      "forks": 4217,
+      "added_stars": "514 stars this month"
     },
     {
       "title": "x64dbg / x64dbg",
@@ -70,39 +70,9 @@
       "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 49468,
+      "stars": 49478,
       "forks": 2838,
-      "added_stars": "410 stars this month"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41059,
-      "forks": 2099,
-      "added_stars": "1,150 stars this month"
-    },
-    {
-      "title": "moonlight-stream / moonlight-qt",
-      "url": "https://github.com/moonlight-stream/moonlight-qt",
-      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18586,
-      "forks": 1299,
-      "added_stars": "412 stars this month"
-    },
-    {
-      "title": "mod-playerbots / mod-playerbots",
-      "url": "https://github.com/mod-playerbots/mod-playerbots",
-      "description": "AzerothCore Playerbots Module",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1076,
-      "forks": 610,
-      "added_stars": "148 stars this month"
+      "added_stars": "417 stars this month"
     },
     {
       "title": "openvinotoolkit / openvino",
@@ -110,19 +80,29 @@
       "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10823,
-      "forks": 3373,
-      "added_stars": "211 stars this month"
+      "stars": 10831,
+      "forks": 3375,
+      "added_stars": "210 stars this month"
     },
     {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
+      "title": "fmtlib / fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 127687,
-      "forks": 22966,
-      "added_stars": "4,942 stars this month"
+      "stars": 25727,
+      "forks": 3060,
+      "added_stars": "2,049 stars this month"
+    },
+    {
+      "title": "moonlight-stream / moonlight-qt",
+      "url": "https://github.com/moonlight-stream/moonlight-qt",
+      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18595,
+      "forks": 1303,
+      "added_stars": "405 stars this month"
     },
     {
       "title": "noctalia-dev / noctalia",
@@ -130,19 +110,19 @@
       "description": "A sleek, customizable desktop shell crafted for Wayland.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10427,
-      "forks": 789,
-      "added_stars": "1,102 stars this month"
+      "stars": 10478,
+      "forks": 791,
+      "added_stars": "1,112 stars this month"
     },
     {
-      "title": "ml-explore / mlx",
-      "url": "https://github.com/ml-explore/mlx",
-      "description": "MLX: An array framework for Apple silicon",
+      "title": "mod-playerbots / mod-playerbots",
+      "url": "https://github.com/mod-playerbots/mod-playerbots",
+      "description": "AzerothCore Playerbots Module",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28371,
-      "forks": 2239,
-      "added_stars": "524 stars this month"
+      "stars": 1079,
+      "forks": 615,
+      "added_stars": "149 stars this month"
     },
     {
       "title": "dmlc / xgboost",
@@ -150,9 +130,29 @@
       "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28748,
-      "forks": 8893,
+      "stars": 28752,
+      "forks": 8896,
       "added_stars": "130 stars this month"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41084,
+      "forks": 2102,
+      "added_stars": "1,138 stars this month"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 127796,
+      "forks": 23009,
+      "added_stars": "4,938 stars this month"
     },
     {
       "title": "telegramdesktop / tdesktop",
@@ -160,49 +160,19 @@
       "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32883,
-      "forks": 7188,
-      "added_stars": "382 stars this month"
+      "stars": 32889,
+      "forks": 7199,
+      "added_stars": "386 stars this month"
     },
     {
-      "title": "keepassxreboot / keepassxc",
-      "url": "https://github.com/keepassxreboot/keepassxc",
-      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+      "title": "qgis / QGIS",
+      "url": "https://github.com/qgis/QGIS",
+      "description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28748,
-      "forks": 1907,
-      "added_stars": "485 stars this month"
-    },
-    {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 72013,
-      "forks": 16277,
-      "added_stars": "377 stars this month"
-    },
-    {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41116,
-      "forks": 3743,
-      "added_stars": "1,060 stars this month"
-    },
-    {
-      "title": "electron / electron",
-      "url": "https://github.com/electron/electron",
-      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 122967,
-      "forks": 17474,
-      "added_stars": "850 stars this month"
+      "stars": 14361,
+      "forks": 3516,
+      "added_stars": "178 stars this month"
     },
     {
       "title": "MaaAssistantArknights / MaaAssistantArknights",
@@ -210,9 +180,29 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 23177,
-      "forks": 2830,
-      "added_stars": "830 stars this month"
+      "stars": 23196,
+      "forks": 2832,
+      "added_stars": "809 stars this month"
+    },
+    {
+      "title": "keepassxreboot / keepassxc",
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28762,
+      "forks": 1908,
+      "added_stars": "487 stars this month"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41141,
+      "forks": 3747,
+      "added_stars": "1,060 stars this month"
     },
     {
       "title": "RPCS3 / rpcs3",
@@ -220,9 +210,29 @@
       "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19707,
-      "forks": 2427,
-      "added_stars": "333 stars this month"
+      "stars": 19718,
+      "forks": 2428,
+      "added_stars": "329 stars this month"
+    },
+    {
+      "title": "ml-explore / mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28381,
+      "forks": 2242,
+      "added_stars": "526 stars this month"
+    },
+    {
+      "title": "electron / electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 122987,
+      "forks": 17484,
+      "added_stars": "862 stars this month"
     }
   ]
 }

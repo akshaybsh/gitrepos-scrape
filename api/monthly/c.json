@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
     {
       "title": "libretro / RetroArch",
@@ -10,9 +10,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13930,
-      "forks": 2218,
-      "added_stars": "467 stars this month"
+      "stars": 13939,
+      "forks": 2220,
+      "added_stars": "473 stars this month"
     },
     {
       "title": "mpv-player / mpv",
@@ -20,19 +20,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 36925,
-      "forks": 3516,
-      "added_stars": "519 stars this month"
-    },
-    {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 76018,
-      "forks": 10099,
-      "added_stars": "1,361 stars this month"
+      "stars": 36940,
+      "forks": 3514,
+      "added_stars": "521 stars this month"
     },
     {
       "title": "nmap / nmap",
@@ -40,19 +30,19 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13553,
-      "forks": 2901,
-      "added_stars": "248 stars this month"
+      "stars": 13556,
+      "forks": 2902,
+      "added_stars": "243 stars this month"
     },
     {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42824,
-      "forks": 7348,
-      "added_stars": "330 stars this month"
+      "stars": 76047,
+      "forks": 10113,
+      "added_stars": "1,355 stars this month"
     },
     {
       "title": "zephyrproject-rtos / zephyr",
@@ -60,19 +50,19 @@
       "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16466,
-      "forks": 9939,
-      "added_stars": "336 stars this month"
+      "stars": 16481,
+      "forks": 9947,
+      "added_stars": "338 stars this month"
     },
     {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 846,
-      "forks": 234,
-      "added_stars": "321 stars this month"
+      "stars": 42828,
+      "forks": 7349,
+      "added_stars": "335 stars this month"
     },
     {
       "title": "sumatrapdfreader / sumatrapdf",
@@ -80,9 +70,19 @@
       "description": "SumatraPDF reader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17553,
+      "stars": 17554,
       "forks": 2037,
-      "added_stars": "295 stars this month"
+      "added_stars": "291 stars this month"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 856,
+      "forks": 235,
+      "added_stars": "322 stars this month"
     },
     {
       "title": "duixcom / Duix-Avatar",
@@ -90,29 +90,19 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15079,
-      "forks": 2549,
-      "added_stars": "710 stars this month"
+      "stars": 15092,
+      "forks": 2553,
+      "added_stars": "714 stars this month"
     },
     {
-      "title": "nicbarker / clay",
-      "url": "https://github.com/nicbarker/clay",
-      "description": "High performance UI layout library in C.",
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18105,
-      "forks": 717,
-      "added_stars": "351 stars this month"
-    },
-    {
-      "title": "reactos / reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 18064,
-      "forks": 2210,
-      "added_stars": "188 stars this month"
+      "stars": 63101,
+      "forks": 28380,
+      "added_stars": "738 stars this month"
     },
     {
       "title": "brunodev85 / winlator",
@@ -120,9 +110,19 @@
       "description": "Android application for running Windows applications with Wine and Box86/Box64",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 18959,
-      "forks": 1726,
-      "added_stars": "483 stars this month"
+      "stars": 18973,
+      "forks": 1728,
+      "added_stars": "474 stars this month"
+    },
+    {
+      "title": "reactos / reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18065,
+      "forks": 2213,
+      "added_stars": "190 stars this month"
     },
     {
       "title": "openzfs / zfs",
@@ -130,9 +130,9 @@
       "description": "OpenZFS on Linux and FreeBSD",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12452,
+      "stars": 12451,
       "forks": 2038,
-      "added_stars": "93 stars this month"
+      "added_stars": "91 stars this month"
     },
     {
       "title": "meshcore-dev / MeshCore",
@@ -140,9 +140,29 @@
       "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3636,
-      "forks": 1315,
+      "stars": 3642,
+      "forks": 1314,
       "added_stars": "237 stars this month"
+    },
+    {
+      "title": "nicbarker / clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18107,
+      "forks": 718,
+      "added_stars": "346 stars this month"
+    },
+    {
+      "title": "hashcat / hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 26746,
+      "forks": 3552,
+      "added_stars": "280 stars this month"
     },
     {
       "title": "UberGuidoZ / Flipper",
@@ -150,7 +170,7 @@
       "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17497,
+      "stars": 17504,
       "forks": 3912,
       "added_stars": "169 stars this month"
     },
@@ -162,37 +182,17 @@
       "languageColor": "#555555",
       "stars": 7621,
       "forks": 1374,
-      "added_stars": "169 stars this month"
+      "added_stars": "164 stars this month"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "rexglue / rexglue-sdk",
+      "url": "https://github.com/rexglue/rexglue-sdk",
+      "description": "Xbox 360 Recompilation Runtime and Toolkit",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63097,
-      "forks": 28380,
-      "added_stars": "748 stars this month"
-    },
-    {
-      "title": "henrypp / memreduct",
-      "url": "https://github.com/henrypp/memreduct",
-      "description": "Lightweight real-time memory management application to monitor and clean system memory on your computer.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10448,
-      "forks": 603,
-      "added_stars": "377 stars this month"
-    },
-    {
-      "title": "hashcat / hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 26740,
-      "forks": 3553,
-      "added_stars": "281 stars this month"
+      "stars": 868,
+      "forks": 115,
+      "added_stars": "104 stars this month"
     },
     {
       "title": "openwrt / openwrt",
@@ -200,9 +200,19 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28344,
-      "forks": 12928,
-      "added_stars": "482 stars this month"
+      "stars": 28358,
+      "forks": 12932,
+      "added_stars": "474 stars this month"
+    },
+    {
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14533,
+      "forks": 3394,
+      "added_stars": "188 stars this month"
     },
     {
       "title": "openssl / openssl",
@@ -210,9 +220,9 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30767,
+      "stars": 30771,
       "forks": 11453,
-      "added_stars": "224 stars this month"
+      "added_stars": "225 stars this month"
     },
     {
       "title": "termux / termux-x11",
@@ -220,9 +230,9 @@
       "description": "Termux X-server add-on.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4736,
-      "forks": 680,
-      "added_stars": "224 stars this month"
+      "stars": 4742,
+      "forks": 692,
+      "added_stars": "219 stars this month"
     }
   ]
 }

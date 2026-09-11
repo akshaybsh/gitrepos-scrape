@@ -4,16 +4,16 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 06:58:23 GMT</pubDate>
-  <item>
-    <title>apache / datafusion-comet</title>
-    <link>https://github.com/apache/datafusion-comet</link>
-    <description>Apache DataFusion Comet Spark Accelerator</description>
-  </item>
+  <pubDate>Fri, 11 Sep 2026 06:56:41 GMT</pubDate>
   <item>
     <title>OpenXiangShan / XiangShan</title>
     <link>https://github.com/OpenXiangShan/XiangShan</link>
     <description>Open-source high-performance RISC-V processor</description>
+  </item>
+  <item>
+    <title>apache / datafusion-comet</title>
+    <link>https://github.com/apache/datafusion-comet</link>
+    <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
     <title>joernio / joern</title>
@@ -26,9 +26,19 @@
     <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
   </item>
   <item>
+    <title>apache / predictionio</title>
+    <link>https://github.com/apache/predictionio</link>
+    <description>PredictionIO, a machine learning server for developers and ML engineers.</description>
+  </item>
+  <item>
     <title>ucb-bar / chipyard</title>
     <link>https://github.com/ucb-bar/chipyard</link>
     <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
+  </item>
+  <item>
+    <title>twitter / finagle</title>
+    <link>https://github.com/twitter/finagle</link>
+    <description>A fault tolerant, protocol-agnostic RPC system</description>
   </item>
   <item>
     <title>yahoo / CMAK</title>
@@ -46,6 +56,16 @@
     <description>Home of the OpenComputers mod for Minecraft.</description>
   </item>
   <item>
+    <title>delta-io / delta</title>
+    <link>https://github.com/delta-io/delta</link>
+    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
+  </item>
+  <item>
+    <title>scala / scala3</title>
+    <link>https://github.com/scala/scala3</link>
+    <description>The Scala 3 compiler, also known as Dotty.</description>
+  </item>
+  <item>
     <title>scala / scala</title>
     <link>https://github.com/scala/scala</link>
     <description>Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</description>
@@ -56,24 +76,19 @@
     <description>The Guardian DotCom.</description>
   </item>
   <item>
-    <title>delta-io / delta</title>
-    <link>https://github.com/delta-io/delta</link>
-    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
-  </item>
-  <item>
-    <title>twitter / finagle</title>
-    <link>https://github.com/twitter/finagle</link>
-    <description>A fault tolerant, protocol-agnostic RPC system</description>
-  </item>
-  <item>
-    <title>scala / scala3</title>
-    <link>https://github.com/scala/scala3</link>
-    <description>The Scala 3 compiler, also known as Dotty.</description>
+    <title>apache / gluten</title>
+    <link>https://github.com/apache/gluten</link>
+    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
   </item>
   <item>
     <title>zio / zio</title>
     <link>https://github.com/zio/zio</link>
     <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
+  </item>
+  <item>
+    <title>gatling / gatling</title>
+    <link>https://github.com/gatling/gatling</link>
+    <description>Modern Load Testing as Code</description>
   </item>
   <item>
     <title>twitter / the-algorithm</title>
@@ -84,11 +99,6 @@
     <title>apache / kyuubi</title>
     <link>https://github.com/apache/kyuubi</link>
     <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
-  </item>
-  <item>
-    <title>gatling / gatling</title>
-    <link>https://github.com/gatling/gatling</link>
-    <description>Modern Load Testing as Code</description>
   </item>
 </channel>
 </rss>

@@ -2,27 +2,27 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
-    {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 133815,
-      "forks": 7157,
-      "added_stars": "12,431 stars this week"
-    },
     {
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 255376,
-      "forks": 38241,
-      "added_stars": "9,146 stars this week"
+      "stars": 256049,
+      "forks": 38322,
+      "added_stars": "9,257 stars this week"
+    },
+    {
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 135085,
+      "forks": 7245,
+      "added_stars": "11,638 stars this week"
     },
     {
       "title": "tt-a1i / archify",
@@ -30,19 +30,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 56450,
-      "forks": 3682,
-      "added_stars": "12,541 stars this week"
-    },
-    {
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 49313,
-      "forks": 7525,
-      "added_stars": "2,638 stars this week"
+      "stars": 57760,
+      "forks": 3775,
+      "added_stars": "11,958 stars this week"
     },
     {
       "title": "openai / plugins",
@@ -50,9 +40,19 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6292,
-      "forks": 833,
-      "added_stars": "753 stars this week"
+      "stars": 6401,
+      "forks": 843,
+      "added_stars": "1,018 stars this week"
+    },
+    {
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 49497,
+      "forks": 7535,
+      "added_stars": "2,711 stars this week"
     },
     {
       "title": "bilawalsidhu / gods-eye-view",
@@ -60,9 +60,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 21647,
-      "forks": 4621,
-      "added_stars": "5,199 stars this week"
+      "stars": 25114,
+      "forks": 5171,
+      "added_stars": "6,051 stars this week"
     },
     {
       "title": "Stremio / stremio-web",
@@ -70,19 +70,9 @@
       "description": "Stremio - Freedom to Stream",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 13710,
-      "forks": 1552,
-      "added_stars": "768 stars this week"
-    },
-    {
-      "title": "jo-inc / camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 10860,
-      "forks": 1070,
-      "added_stars": "1,816 stars this week"
+      "stars": 13721,
+      "forks": 1555,
+      "added_stars": "770 stars this week"
     },
     {
       "title": "OpenWhispr / openwhispr",
@@ -90,9 +80,19 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 7950,
-      "forks": 975,
-      "added_stars": "1,881 stars this week"
+      "stars": 8022,
+      "forks": 986,
+      "added_stars": "1,607 stars this week"
+    },
+    {
+      "title": "jo-inc / camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 10913,
+      "forks": 1079,
+      "added_stars": "1,850 stars this week"
     },
     {
       "title": "WorldFlowAI / everything-claude-code",
@@ -100,29 +100,9 @@
       "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2741,
-      "forks": 414,
-      "added_stars": "756 stars this week"
-    },
-    {
-      "title": "FB208 / OpenBidKit_Yibiao",
-      "url": "https://github.com/FB208/OpenBidKit_Yibiao",
-      "description": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 2881,
-      "forks": 742,
-      "added_stars": "265 stars this week"
-    },
-    {
-      "title": "facebook / stylex",
-      "url": "https://github.com/facebook/stylex",
-      "description": "StyleX is the styling system for ambitious user interfaces.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 10251,
-      "forks": 479,
-      "added_stars": "189 stars this week"
+      "stars": 2789,
+      "forks": 429,
+      "added_stars": "773 stars this week"
     },
     {
       "title": "decolua / 9router",
@@ -130,29 +110,19 @@
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 28234,
-      "forks": 5110,
-      "added_stars": "1,272 stars this week"
+      "stars": 28371,
+      "forks": 5137,
+      "added_stars": "1,336 stars this week"
     },
     {
-      "title": "Anil-matcha / Open-Generative-AI",
-      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
-      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "title": "FB208 / OpenBidKit_Yibiao",
+      "url": "https://github.com/FB208/OpenBidKit_Yibiao",
+      "description": "开箱即用的AI标书编写工具，标书AI生成工具，投标工具箱、知识库、标书查重、废标项检查，完全开源免费，欢迎使用",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 28219,
-      "forks": 5006,
-      "added_stars": "631 stars this week"
-    },
-    {
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 64595,
-      "forks": 10582,
-      "added_stars": "583 stars this week"
+      "stars": 2894,
+      "forks": 747,
+      "added_stars": "268 stars this week"
     },
     {
       "title": "is-a-dev / register",
@@ -160,19 +130,39 @@
       "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11239,
-      "forks": 29099,
-      "added_stars": "100 stars this week"
+      "stars": 11242,
+      "forks": 29192,
+      "added_stars": "107 stars this week"
     },
     {
-      "title": "conorbronsdon / avoid-ai-writing",
-      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
-      "description": "Skill that audits and rewrites content to remove AI writing patterns. Use it with your favorite agents including Claude Code, OpenClaw, Codex, and Hermes.",
+      "title": "facebook / stylex",
+      "url": "https://github.com/facebook/stylex",
+      "description": "StyleX is the styling system for ambitious user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4268,
-      "forks": 359,
-      "added_stars": "282 stars this week"
+      "stars": 10271,
+      "forks": 480,
+      "added_stars": "170 stars this week"
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 64759,
+      "forks": 10629,
+      "added_stars": "585 stars this week"
+    },
+    {
+      "title": "Anil-matcha / Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 28277,
+      "forks": 5022,
+      "added_stars": "608 stars this week"
     },
     {
       "title": "react / react",
@@ -180,9 +170,19 @@
       "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 249643,
-      "forks": 51322,
-      "added_stars": "1,116 stars this week"
+      "stars": 250033,
+      "forks": 51326,
+      "added_stars": "745 stars this week"
+    },
+    {
+      "title": "koodo-reader / koodo-reader",
+      "url": "https://github.com/koodo-reader/koodo-reader",
+      "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 28151,
+      "forks": 2104,
+      "added_stars": "102 stars this week"
     }
   ]
 }

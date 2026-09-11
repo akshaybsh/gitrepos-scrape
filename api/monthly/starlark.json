@@ -2,27 +2,27 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 07:00:43 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
   "items": [
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23065,
-      "forks": 1436,
-      "added_stars": "168 stars this month"
-    },
     {
       "title": "googleapis / googleapis",
       "url": "https://github.com/googleapis/googleapis",
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8739,
+      "stars": 8740,
       "forks": 2631,
-      "added_stars": "72 stars this month"
+      "added_stars": "70 stars this month"
+    },
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23066,
+      "forks": 1435,
+      "added_stars": "165 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -31,8 +31,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 386,
-      "forks": 885,
-      "added_stars": "10 stars this month"
+      "forks": 886,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -40,7 +40,7 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3967,
+      "stars": 3970,
       "forks": 304,
       "added_stars": "39 stars this month"
     },
@@ -53,16 +53,6 @@
       "stars": 253,
       "forks": 221,
       "added_stars": "2 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 688,
-      "forks": 719,
-      "added_stars": "6 stars this month"
     },
     {
       "title": "aspect-build / rules_js",
@@ -105,6 +95,26 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 688,
+      "forks": 720,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_cc",
+      "url": "https://github.com/bazelbuild/rules_cc",
+      "description": "C++ Rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 247,
+      "forks": 194,
+      "added_stars": "3 stars this month"
+    },
+    {
       "title": "bazelbuild / rules_apple",
       "url": "https://github.com/bazelbuild/rules_apple",
       "description": "Bazel rules to build apps for Apple platforms.",
@@ -115,24 +125,24 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 247,
-      "forks": 196,
-      "added_stars": "3 stars this month"
-    },
-    {
       "title": "tidbyt / community",
       "url": "https://github.com/tidbyt/community",
       "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 425,
-      "forks": 815,
+      "forks": 816,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_rust",
+      "url": "https://github.com/bazelbuild/rules_rust",
+      "description": "Rust rules for Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 841,
+      "forks": 651,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -145,16 +155,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "bazelbuild / rules_rust",
-      "url": "https://github.com/bazelbuild/rules_rust",
-      "description": "Rust rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 840,
-      "forks": 651,
-      "added_stars": "10 stars this month"
-    },
-    {
       "title": "cgrindel / rules_swift_package_manager",
       "url": "https://github.com/cgrindel/rules_swift_package_manager",
       "description": "Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.",
@@ -163,16 +163,6 @@
       "stars": 109,
       "forks": 57,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "aspect-build / rules_py",
-      "url": "https://github.com/aspect-build/rules_py",
-      "description": "More compatible Bazel rules for running Python tools and building Python projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 144,
-      "forks": 97,
-      "added_stars": "1 star this month"
     }
   ]
 }

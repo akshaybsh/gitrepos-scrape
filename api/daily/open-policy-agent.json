@@ -2,18 +2,8 @@
   "title": "GitHub Open-policy-agent Languages Daily Trending",
   "description": "Daily Trending of Open-policy-agent Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:56:05 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
   "items": [
-    {
-      "title": "Azure / azure-policy",
-      "url": "https://github.com/Azure/azure-policy",
-      "description": "Repository for Azure Resource Policy built-in definitions and samples",
-      "language": "Open Policy Agent",
-      "languageColor": "#7d9199",
-      "stars": 1697,
-      "forks": 1158,
-      "added_stars": "1 star today"
-    },
     {
       "title": "harness-community / harnesscd-example-apps",
       "url": "https://github.com/harness-community/harnesscd-example-apps",
@@ -30,9 +20,19 @@
       "description": "Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx.",
       "language": "Open Policy Agent",
       "languageColor": "#7d9199",
-      "stars": 2700,
+      "stars": 2699,
       "forks": 381,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "Azure / azure-policy",
+      "url": "https://github.com/Azure/azure-policy",
+      "description": "Repository for Azure Resource Policy built-in definitions and samples",
+      "language": "Open Policy Agent",
+      "languageColor": "#7d9199",
+      "stars": 1697,
+      "forks": 1158,
+      "added_stars": "0 stars today"
     }
   ]
 }

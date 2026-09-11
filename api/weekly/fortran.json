@@ -2,18 +2,8 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 10 Sep 2026 06:58:23 GMT",
+  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
   "items": [
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 758,
-      "added_stars": "1 star this week"
-    },
     {
       "title": "OpenFAST / openfast",
       "url": "https://github.com/OpenFAST/openfast",
@@ -25,14 +15,34 @@
       "added_stars": "6 stars this week"
     },
     {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 440,
+      "forks": 481,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 405,
+      "forks": 759,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "cp2k / cp2k",
       "url": "https://github.com/cp2k/cp2k",
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1203,
+      "stars": 1205,
       "forks": 496,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "wrf-model / WRF",
@@ -45,22 +55,12 @@
       "added_stars": "5 stars this week"
     },
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 440,
-      "forks": 481,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1700,
+      "stars": 1701,
       "forks": 396,
       "added_stars": "12 stars this week"
     },
@@ -72,7 +72,17 @@
       "languageColor": "#4d41b1",
       "stars": 871,
       "forks": 687,
-      "added_stars": "6 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 22,
+      "forks": 34,
+      "added_stars": "1 star this week"
     }
   ]
 }

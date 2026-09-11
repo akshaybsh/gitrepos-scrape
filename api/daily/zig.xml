@@ -4,11 +4,11 @@
   <title>GitHub Zig Languages Daily Trending</title>
   <description>Daily Trending of Zig Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 10 Sep 2026 06:56:05 GMT</pubDate>
+  <pubDate>Fri, 11 Sep 2026 06:55:27 GMT</pubDate>
   <item>
-    <title>lightpanda-io / browser</title>
-    <link>https://github.com/lightpanda-io/browser</link>
-    <description>Lightpanda: the headless browser designed for AI and automation</description>
+    <title>ddalcu / mlx-serve</title>
+    <link>https://github.com/ddalcu/mlx-serve</link>
+    <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
   </item>
   <item>
     <title>Loongphy / codex-auth</title>
@@ -21,39 +21,9 @@
     <description>👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
   </item>
   <item>
-    <title>nullclaw / nullclaw</title>
-    <link>https://github.com/nullclaw/nullclaw</link>
-    <description>Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig</description>
-  </item>
-  <item>
-    <title>patrickgwsmith / qip</title>
-    <link>https://github.com/patrickgwsmith/qip</link>
-    <description>Quickly render anything, everywhere</description>
-  </item>
-  <item>
     <title>sleep3r / mtproto.zig</title>
     <link>https://github.com/sleep3r/mtproto.zig</link>
     <description>Keep the people you love connected — a tiny self-hosted Telegram proxy that hides in plain HTTPS</description>
-  </item>
-  <item>
-    <title>Seafoam-Labs / Shelly-ALPM</title>
-    <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
-    <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
-  </item>
-  <item>
-    <title>roc-lang / roc</title>
-    <link>https://github.com/roc-lang/roc</link>
-    <description>A fast, friendly, functional language.</description>
-  </item>
-  <item>
-    <title>neurosnap / zmx</title>
-    <link>https://github.com/neurosnap/zmx</link>
-    <description>Session attach/detach for the terminal</description>
-  </item>
-  <item>
-    <title>ddalcu / mlx-serve</title>
-    <link>https://github.com/ddalcu/mlx-serve</link>
-    <description>Native LLM inference server for Apple Silicon. OpenAI + Anthropic API compatible. No Python. Includes MLX Core macOS app with chat, agent mode, and tool calling.</description>
   </item>
   <item>
     <title>tigerbeetle / tigerbeetle</title>
@@ -61,9 +31,9 @@
     <description>The financial transactions database designed for mission critical safety and performance.</description>
   </item>
   <item>
-    <title>ziglang / zig</title>
-    <link>https://github.com/ziglang/zig</link>
-    <description>Moved to Codeberg</description>
+    <title>patrickgwsmith / qip</title>
+    <link>https://github.com/patrickgwsmith/qip</link>
+    <description>Quickly render anything, everywhere</description>
   </item>
   <item>
     <title>jstrieb / github-stats</title>
@@ -71,14 +41,54 @@
     <description>Better GitHub statistics images for your profile, with stats from private repos too</description>
   </item>
   <item>
-    <title>meszmate / zigzag</title>
-    <link>https://github.com/meszmate/zigzag</link>
-    <description>A Terminal UI framework for Zig</description>
+    <title>ziglang / zig</title>
+    <link>https://github.com/ziglang/zig</link>
+    <description>Moved to Codeberg</description>
+  </item>
+  <item>
+    <title>roc-lang / roc</title>
+    <link>https://github.com/roc-lang/roc</link>
+    <description>A fast, friendly, functional language.</description>
+  </item>
+  <item>
+    <title>Seafoam-Labs / Shelly-ALPM</title>
+    <link>https://github.com/Seafoam-Labs/Shelly-ALPM</link>
+    <description>Pacman alternative for ArchLinux, designed with you in mind.</description>
   </item>
   <item>
     <title>neurocyte / flow</title>
     <link>https://github.com/neurocyte/flow</link>
     <description>Flow Control: a programmer&#x27;s text editor</description>
+  </item>
+  <item>
+    <title>ZigEmbeddedGroup / microzig</title>
+    <link>https://github.com/ZigEmbeddedGroup/microzig</link>
+    <description>MicroZig is a toolbox for building embedded applications in Zig.</description>
+  </item>
+  <item>
+    <title>lightpanda-io / browser</title>
+    <link>https://github.com/lightpanda-io/browser</link>
+    <description>Lightpanda: the headless browser designed for AI and automation</description>
+  </item>
+  <item>
+    <title>justrach / codegraff</title>
+    <link>https://github.com/justrach/codegraff</link>
+    <description>graff — a fast agentic coding harness in Zig: multi-provider, MCP, workflows, DGM evolution loop, TS/Python SDKs</description>
+  </item>
+  <item>
+    <title>zigtools / zls</title>
+    <link>https://github.com/zigtools/zls</link>
+    <description>A language server for Zig supporting developers with features like autocomplete and goto definition</description>
+  </item>
+  <item>
+    <title>tonybanters / oxwm</title>
+    <link>https://github.com/tonybanters/oxwm</link>
+    <description></description>
+  </item>
+  <item>
+    <title>neurosnap / zmx</title>
+    <link>https://github.com/neurosnap/zmx</link>
+    <description>Session attach/detach for the terminal</description>
   </item>
 </channel>
 </rss>
