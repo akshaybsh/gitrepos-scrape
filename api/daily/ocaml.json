@@ -2,18 +2,8 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
-    {
-      "title": "semgrep / semgrep",
-      "url": "https://github.com/semgrep/semgrep",
-      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16586,
-      "forks": 1050,
-      "added_stars": "13 stars today"
-    },
     {
       "title": "rocq-prover / rocq",
       "url": "https://github.com/rocq-prover/rocq",
@@ -21,17 +11,7 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 5571,
-      "forks": 762,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "oxcaml / oxcaml",
-      "url": "https://github.com/oxcaml/oxcaml",
-      "description": "OCaml - Oxidized!",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 876,
-      "forks": 179,
+      "forks": 763,
       "added_stars": "0 stars today"
     },
     {
@@ -41,8 +21,18 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 3061,
-      "forks": 259,
+      "forks": 260,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 6553,
+      "forks": 1406,
+      "added_stars": "2 stars today"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -50,9 +40,39 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 959,
+      "stars": 960,
       "forks": 106,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 877,
+      "forks": 179,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "xapi-project / xen-api",
+      "url": "https://github.com/xapi-project/xen-api",
+      "description": "The Xapi Project's XenAPI Server",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 366,
+      "forks": 304,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "semgrep / ocaml-tree-sitter-core",
+      "url": "https://github.com/semgrep/ocaml-tree-sitter-core",
+      "description": "OCaml code generator and runtime library for handling typed tree-sitter CSTs",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 60,
+      "forks": 11,
+      "added_stars": "0 stars today"
     },
     {
       "title": "MinaProtocol / mina",
@@ -63,16 +83,6 @@
       "stars": 2119,
       "forks": 584,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "ocaml / ocaml",
-      "url": "https://github.com/ocaml/ocaml",
-      "description": "The core OCaml system: compilers, runtime system, base libraries",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 6552,
-      "forks": 1405,
-      "added_stars": "1 star today"
     }
   ]
 }

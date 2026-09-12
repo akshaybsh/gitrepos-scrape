@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
       "title": "xenodium / agent-shell",
@@ -10,19 +10,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1846,
-      "forks": 230,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3524,
-      "forks": 430,
-      "added_stars": "3 stars today"
+      "stars": 1849,
+      "forks": 232,
+      "added_stars": "2 stars today"
     },
     {
       "title": "doomemacs / core",
@@ -30,19 +20,29 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22672,
-      "forks": 3149,
-      "added_stars": "9 stars today"
+      "stars": 22674,
+      "forks": 3147,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2967,
-      "forks": 2808,
+      "stars": 5192,
+      "forks": 1402,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 936,
+      "forks": 62,
+      "added_stars": "2 stars today"
     }
   ]
 }

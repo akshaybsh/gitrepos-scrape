@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
   "items": [
     {
       "title": "plausible / analytics",
@@ -10,14 +10,14 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 29018,
+      "stars": 29036,
       "forks": 1860,
-      "added_stars": "163 stars this week"
+      "added_stars": "168 stars this week"
     },
     {
       "title": "firezone / firezone",
       "url": "https://github.com/firezone/firezone",
-      "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+      "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 9085,
@@ -25,54 +25,24 @@
       "added_stars": "39 stars this week"
     },
     {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4677,
-      "forks": 3168,
-      "added_stars": "12 stars this week"
-    },
-    {
       "title": "openai / symphony",
       "url": "https://github.com/openai/symphony",
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27144,
-      "forks": 2792,
-      "added_stars": "124 stars this week"
+      "stars": 27155,
+      "forks": 2798,
+      "added_stars": "130 stars this week"
     },
     {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26629,
-      "forks": 3667,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 23151,
-      "forks": 3111,
+      "stars": 4681,
+      "forks": 3170,
       "added_stars": "14 stars this week"
-    },
-    {
-      "title": "anoma / anoma",
-      "url": "https://github.com/anoma/anoma",
-      "description": "Reference implementation of Anoma",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 33618,
-      "forks": 4112,
-      "added_stars": "5 stars this week"
     },
     {
       "title": "supabase / realtime",
@@ -82,7 +52,27 @@
       "languageColor": "#6e4a7e",
       "stars": 7631,
       "forks": 462,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "anoma / anoma",
+      "url": "https://github.com/anoma/anoma",
+      "description": "Reference implementation of Anoma",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 33616,
+      "forks": 4112,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23154,
+      "forks": 3110,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -90,29 +80,9 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8977,
-      "forks": 1002,
-      "added_stars": "33 stars this week"
-    },
-    {
-      "title": "agentjido / term_ui",
-      "url": "https://github.com/agentjido/term_ui",
-      "description": "A framework for writing terminal user interfaces in Elixir",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 204,
-      "forks": 16,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "phoenixframework / phoenix_live_view",
-      "url": "https://github.com/phoenixframework/phoenix_live_view",
-      "description": "Rich, real-time user experiences with server-rendered HTML",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 6826,
-      "forks": 1052,
-      "added_stars": "1 star this week"
+      "stars": 8979,
+      "forks": 1003,
+      "added_stars": "37 stars this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -125,14 +95,34 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "elixir-lsp / elixir-ls",
-      "url": "https://github.com/elixir-lsp/elixir-ls",
-      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1776,
-      "forks": 227,
-      "added_stars": "3 stars this week"
+      "stars": 26632,
+      "forks": 3668,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "phoenixframework / phoenix_live_view",
+      "url": "https://github.com/phoenixframework/phoenix_live_view",
+      "description": "Rich, real-time user experiences with server-rendered HTML",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 6826,
+      "forks": 1053,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "agentjido / term_ui",
+      "url": "https://github.com/agentjido/term_ui",
+      "description": "A framework for writing terminal user interfaces in Elixir",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 204,
+      "forks": 16,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -140,9 +130,29 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5304,
+      "stars": 5307,
       "forks": 166,
-      "added_stars": "11 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "elixir-lsp / elixir-ls",
+      "url": "https://github.com/elixir-lsp/elixir-ls",
+      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1775,
+      "forks": 227,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "algora-io / algora",
+      "url": "https://github.com/algora-io/algora",
+      "description": "Hire the top 1% OSS engineers",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1497,
+      "forks": 151,
+      "added_stars": "12 stars this week"
     }
   ]
 }

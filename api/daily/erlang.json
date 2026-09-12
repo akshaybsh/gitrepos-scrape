@@ -2,7 +2,7 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
       "title": "emqx / emqx",
@@ -12,7 +12,37 @@
       "languageColor": "#B83998",
       "stars": 16705,
       "forks": 2549,
-      "added_stars": "5 stars today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "eproxus / meck",
+      "url": "https://github.com/eproxus/meck",
+      "description": "A mocking library for Erlang",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 839,
+      "forks": 230,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "erlang / otp",
+      "url": "https://github.com/erlang/otp",
+      "description": "Erlang/OTP",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 12330,
+      "forks": 3271,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ninenines / cowboy",
+      "url": "https://github.com/ninenines/cowboy",
+      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 7525,
+      "forks": 1171,
+      "added_stars": "0 stars today"
     }
   ]
 }

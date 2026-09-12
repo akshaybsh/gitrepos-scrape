@@ -2,7 +2,7 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
       "title": "armory3d / armorpaint",
@@ -10,9 +10,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4519,
-      "forks": 522,
-      "added_stars": "72 stars today"
+      "stars": 4781,
+      "forks": 537,
+      "added_stars": "350 stars today"
     },
     {
       "title": "JustVugg / colibri",
@@ -20,59 +20,19 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27576,
-      "forks": 3016,
-      "added_stars": "98 stars today"
+      "stars": 27803,
+      "forks": 3039,
+      "added_stars": "351 stars today"
     },
     {
-      "title": "doldecomp / melee",
-      "url": "https://github.com/doldecomp/melee",
-      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "title": "tianocore / edk2",
+      "url": "https://github.com/tianocore/edk2",
+      "description": "EDK II",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2108,
-      "forks": 289,
-      "added_stars": "121 stars today"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27828,
-      "forks": 2594,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "voidtools / voidImageViewer",
-      "url": "https://github.com/voidtools/voidImageViewer",
-      "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2359,
-      "forks": 149,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "NVIDIA-RTX / Streamline",
-      "url": "https://github.com/NVIDIA-RTX/Streamline",
-      "description": "Streamline Integration Framework",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1145,
-      "forks": 155,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16481,
-      "forks": 9947,
-      "added_stars": "14 stars today"
+      "stars": 6242,
+      "forks": 3269,
+      "added_stars": "3 stars today"
     },
     {
       "title": "willfaust / Madeira",
@@ -80,39 +40,9 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 167,
-      "forks": 44,
-      "added_stars": "41 stars today"
-    },
-    {
-      "title": "FreeRDP / FreeRDP",
-      "url": "https://github.com/FreeRDP/FreeRDP",
-      "description": "FreeRDP is a free remote desktop protocol library and clients",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13672,
-      "forks": 15442,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "colbymchenry / codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 70445,
-      "forks": 4506,
-      "added_stars": "153 stars today"
-    },
-    {
-      "title": "tmux / tmux",
-      "url": "https://github.com/tmux/tmux",
-      "description": "tmux source code",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 49176,
-      "forks": 2883,
-      "added_stars": "23 stars today"
+      "stars": 251,
+      "forks": 56,
+      "added_stars": "93 stars today"
     },
     {
       "title": "timescale / timescaledb",
@@ -120,9 +50,49 @@
       "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 23509,
-      "forks": 1148,
-      "added_stars": "14 stars today"
+      "stars": 23515,
+      "forks": 1149,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "srwi / EverythingToolbar",
+      "url": "https://github.com/srwi/EverythingToolbar",
+      "description": "Everything integration for the Windows taskbar.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14732,
+      "forks": 559,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "yugabyte / yugabyte-db",
+      "url": "https://github.com/yugabyte/yugabyte-db",
+      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10530,
+      "forks": 1313,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "libsdl-org / SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16557,
+      "forks": 2971,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28366,
+      "forks": 12935,
+      "added_stars": "11 stars today"
     },
     {
       "title": "dorianborian / sesame-robot",
@@ -130,59 +100,59 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4366,
-      "forks": 587,
-      "added_stars": "19 stars today"
+      "stars": 4382,
+      "forks": 593,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "HarbourMasters / Shipwright",
-      "url": "https://github.com/HarbourMasters/Shipwright",
-      "description": "",
+      "title": "jqlang / jq",
+      "url": "https://github.com/jqlang/jq",
+      "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5364,
-      "forks": 823,
-      "added_stars": "9 stars today"
+      "stars": 35588,
+      "forks": 1843,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "mpv-player / mpv",
-      "url": "https://github.com/mpv-player/mpv",
-      "description": "🎥 Command line media player",
+      "title": "reactos / reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 36940,
-      "forks": 3514,
-      "added_stars": "18 stars today"
+      "stars": 18077,
+      "forks": 2214,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "vedderb / bldc",
-      "url": "https://github.com/vedderb/bldc",
-      "description": "The VESC motor control firmware",
+      "title": "espressif / esp-drone",
+      "url": "https://github.com/espressif/esp-drone",
+      "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3433,
-      "forks": 1941,
-      "added_stars": "3 stars today"
+      "stars": 2170,
+      "forks": 505,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "karpathy / llama2.c",
-      "url": "https://github.com/karpathy/llama2.c",
-      "description": "Inference Llama 2 in one file of pure C",
+      "title": "CTCaer / hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 20071,
-      "forks": 2627,
-      "added_stars": "2 stars today"
+      "stars": 8675,
+      "forks": 679,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "radareorg / radare2",
-      "url": "https://github.com/radareorg/radare2",
-      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "title": "littlefs-project / littlefs",
+      "url": "https://github.com/littlefs-project/littlefs",
+      "description": "A little fail-safe filesystem designed for microcontrollers",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24778,
-      "forks": 3316,
-      "added_stars": "9 stars today"
+      "stars": 6934,
+      "forks": 1022,
+      "added_stars": "1 star today"
     },
     {
       "title": "valinet / ExplorerPatcher",
@@ -190,19 +160,9 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 33844,
-      "forks": 1369,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "signalwire / freeswitch",
-      "url": "https://github.com/signalwire/freeswitch",
-      "description": "FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5140,
-      "forks": 1847,
-      "added_stars": "2 stars today"
+      "stars": 33859,
+      "forks": 1372,
+      "added_stars": "16 stars today"
     }
   ]
 }

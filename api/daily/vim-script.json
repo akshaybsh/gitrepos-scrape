@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -11,8 +11,18 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 40888,
-      "forks": 6135,
-      "added_stars": "7 stars today"
+      "forks": 6136,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 102282,
+      "forks": 7107,
+      "added_stars": "31 stars today"
     },
     {
       "title": "github / copilot.vim",
@@ -21,38 +31,18 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 11686,
-      "forks": 810,
+      "forks": 809,
       "added_stars": "1 star today"
     },
     {
-      "title": "dense-analysis / ale",
-      "url": "https://github.com/dense-analysis/ale",
-      "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14016,
-      "forks": 1484,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 102258,
-      "forks": 7105,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "vim-airline / vim-airline",
-      "url": "https://github.com/vim-airline/vim-airline",
-      "description": "lean & mean status/tabline for vim that's light as air",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 17965,
-      "forks": 1101,
-      "added_stars": "0 stars today"
+      "stars": 15739,
+      "forks": 1124,
+      "added_stars": "2 stars today"
     }
   ]
 }

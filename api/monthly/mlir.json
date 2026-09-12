@@ -2,27 +2,27 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
-    {
-      "title": "triton-lang / triton",
-      "url": "https://github.com/triton-lang/triton",
-      "description": "Development repository for the Triton language and compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 20126,
-      "forks": 3182,
-      "added_stars": "241 stars this month"
-    },
     {
       "title": "triton-lang / triton-ascend",
       "url": "https://github.com/triton-lang/triton-ascend",
       "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 160,
+      "stars": 161,
       "forks": 217,
       "added_stars": "26 stars this month"
+    },
+    {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 20135,
+      "forks": 3189,
+      "added_stars": "247 stars this month"
     },
     {
       "title": "google / heir",
@@ -30,9 +30,9 @@
       "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 893,
-      "forks": 170,
-      "added_stars": "132 stars this month"
+      "stars": 896,
+      "forks": 171,
+      "added_stars": "135 stars this month"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -51,7 +51,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 131,
-      "forks": 50,
+      "forks": 51,
       "added_stars": "5 stars this month"
     },
     {
@@ -62,7 +62,7 @@
       "languageColor": "#5EC8DB",
       "stars": 195,
       "forks": 71,
-      "added_stars": "10 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "tenstorrent / tt-mlir",

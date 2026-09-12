@@ -2,18 +2,8 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
-    {
-      "title": "pgpartman / pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 2819,
-      "forks": 316,
-      "added_stars": "29 stars this month"
-    },
     {
       "title": "guchengwuyue / yshop-drink",
       "url": "https://github.com/guchengwuyue/yshop-drink",
@@ -22,17 +12,17 @@
       "languageColor": "#336790",
       "stars": 1571,
       "forks": 397,
-      "added_stars": "61 stars this month"
+      "added_stars": "59 stars this month"
     },
     {
-      "title": "openmaptiles / openmaptiles",
-      "url": "https://github.com/openmaptiles/openmaptiles",
-      "description": "OpenMapTiles Vector Tile Schema Implementation",
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 3156,
-      "forks": 675,
-      "added_stars": "24 stars this month"
+      "stars": 2821,
+      "forks": 316,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "DataDog / storedog",
@@ -45,24 +35,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "NikolayS / PgQue",
-      "url": "https://github.com/NikolayS/PgQue",
-      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
+      "title": "openmaptiles / openmaptiles",
+      "url": "https://github.com/openmaptiles/openmaptiles",
+      "description": "OpenMapTiles Vector Tile Schema Implementation",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1823,
-      "forks": 41,
-      "added_stars": "45 stars this month"
-    },
-    {
-      "title": "TryGhost / node-sqlite3",
-      "url": "https://github.com/TryGhost/node-sqlite3",
-      "description": "SQLite3 bindings for Node.js",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 6416,
-      "forks": 850,
-      "added_stars": "1 star this month"
+      "stars": 3158,
+      "forks": 675,
+      "added_stars": "26 stars this month"
     }
   ]
 }

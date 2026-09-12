@@ -2,67 +2,17 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
-      "title": "vorssaint / vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
+      "title": "abue-ammar / tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 18154,
-      "forks": 644,
-      "added_stars": "347 stars today"
-    },
-    {
-      "title": "Shpigford / chops",
-      "url": "https://github.com/Shpigford/chops",
-      "description": "Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1879,
-      "forks": 121,
-      "added_stars": "60 stars today"
-    },
-    {
-      "title": "chattymin / PokeTokenBar",
-      "url": "https://github.com/chattymin/PokeTokenBar",
-      "description": "Use your tokens to raise, evolve, and collect Pokémon! 🥚",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 415,
-      "forks": 107,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "manaflow-ai / cmux",
-      "url": "https://github.com/manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 26994,
-      "forks": 2341,
-      "added_stars": "49 stars today"
-    },
-    {
-      "title": "apple / container",
-      "url": "https://github.com/apple/container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 49848,
-      "forks": 1779,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "nikitabobko / AeroSpace",
-      "url": "https://github.com/nikitabobko/AeroSpace",
-      "description": "AeroSpace is an i3-like tiling window manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 22990,
-      "forks": 675,
-      "added_stars": "22 stars today"
+      "stars": 2893,
+      "forks": 167,
+      "added_stars": "175 stars today"
     },
     {
       "title": "iFurySt / open-codex-computer-use",
@@ -70,59 +20,69 @@
       "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2009,
-      "forks": 180,
-      "added_stars": "21 stars today"
+      "stars": 2026,
+      "forks": 181,
+      "added_stars": "26 stars today"
     },
     {
-      "title": "PlayCover / PlayCover",
-      "url": "https://github.com/PlayCover/PlayCover",
-      "description": "Community fork of PlayCover",
+      "title": "apple / containerization",
+      "url": "https://github.com/apple/containerization",
+      "description": "Containerization is a Swift package for running Linux containers on macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11720,
-      "forks": 981,
+      "stars": 8926,
+      "forks": 359,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "zachlatta / freeflow",
+      "url": "https://github.com/zachlatta/freeflow",
+      "description": "Free & fast alternative to Wispr Flow",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2664,
+      "forks": 268,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "swiftlang / swift",
+      "url": "https://github.com/swiftlang/swift",
+      "description": "The Swift Programming Language",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 70340,
+      "forks": 10820,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "xtool-org / xtool",
+      "url": "https://github.com/xtool-org/xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5444,
+      "forks": 151,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "chattymin / PokeTokenBar",
+      "url": "https://github.com/chattymin/PokeTokenBar",
+      "description": "Use your tokens to raise, evolve, and collect Pokémon! 🥚",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 417,
+      "forks": 111,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "FrizzleM / SideInstaller",
+      "url": "https://github.com/FrizzleM/SideInstaller",
+      "description": "An an app that installs Sidestore on iOS 27, fully on-device",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 656,
+      "forks": 56,
       "added_stars": "8 stars today"
-    },
-    {
-      "title": "AppHouseKitchen / AlDente-Battery_Care_and_Monitoring",
-      "url": "https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring",
-      "description": "Menubar Tool to set Charge Limits and Prolong Battery Lifespan",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 9172,
-      "forks": 333,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "hamed-elfayome / Claude-Usage-Tracker",
-      "url": "https://github.com/hamed-elfayome/Claude-Usage-Tracker",
-      "description": "Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 3467,
-      "forks": 185,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "tranvuongquocdat / SideScreen",
-      "url": "https://github.com/tranvuongquocdat/SideScreen",
-      "description": "",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 991,
-      "forks": 129,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "robinebers / openusage",
-      "url": "https://github.com/robinebers/openusage",
-      "description": "Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 4106,
-      "forks": 430,
-      "added_stars": "19 stars today"
     },
     {
       "title": "tuist / tuist",
@@ -132,6 +92,16 @@
       "languageColor": "#F05138",
       "stars": 5799,
       "forks": 777,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "github / CopilotForXcode",
+      "url": "https://github.com/github/CopilotForXcode",
+      "description": "AI coding assistant for Xcode",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 6291,
+      "forks": 2016,
       "added_stars": "1 star today"
     },
     {
@@ -140,39 +110,59 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. Windows pre-build available! A local Wispr Flow alternative. DM us on X exclusive model access! 😉 - https://x.com/fluidvoiceapp",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11423,
-      "forks": 814,
-      "added_stars": "46 stars today"
+      "stars": 11456,
+      "forks": 820,
+      "added_stars": "43 stars today"
     },
     {
-      "title": "swiftlang / swift-package-manager",
-      "url": "https://github.com/swiftlang/swift-package-manager",
-      "description": "The Package Manager for the Swift Programming Language",
+      "title": "FluidInference / FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 10216,
-      "forks": 1523,
+      "stars": 2758,
+      "forks": 411,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "LiveContainer / LiveContainer",
+      "url": "https://github.com/LiveContainer/LiveContainer",
+      "description": "Run iOS apps without actually installing them!",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 12073,
+      "forks": 991,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "Alamofire / Alamofire",
+      "url": "https://github.com/Alamofire/Alamofire",
+      "description": "Elegant HTTP Networking in Swift",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 42422,
+      "forks": 7658,
       "added_stars": "1 star today"
     },
     {
-      "title": "BarutSRB / OmniWM",
-      "url": "https://github.com/BarutSRB/OmniWM",
-      "description": "Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.",
+      "title": "tddworks / ClaudeBar",
+      "url": "https://github.com/tddworks/ClaudeBar",
+      "description": "A macOS menu bar application that monitors AI coding assistant usage quotas. Keep track of your Claude, Codex, Antigravity ,and Gemini usage at a glance.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2838,
-      "forks": 118,
-      "added_stars": "15 stars today"
+      "stars": 1480,
+      "forks": 139,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "sozercan / kaset",
-      "url": "https://github.com/sozercan/kaset",
-      "description": "📼 The missing YouTube and YouTube Music macOS app",
+      "title": "pointfreeco / swift-composable-architecture",
+      "url": "https://github.com/pointfreeco/swift-composable-architecture",
+      "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2243,
-      "forks": 153,
-      "added_stars": "10 stars today"
+      "stars": 14904,
+      "forks": 1677,
+      "added_stars": "7 stars today"
     }
   ]
 }

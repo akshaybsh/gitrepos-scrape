@@ -4,26 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:56:41 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
   <item>
     <title>rtk-ai / rtk</title>
     <link>https://github.com/rtk-ai/rtk</link>
     <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
-  </item>
-  <item>
-    <title>longbridge / gpui-kit</title>
-    <link>https://github.com/longbridge/gpui-kit</link>
-    <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
-  </item>
-  <item>
-    <title>eythaann / Seelen-UI</title>
-    <link>https://github.com/eythaann/Seelen-UI</link>
-    <description>The Fully Customizable Desktop Environment for Windows 10/11.</description>
-  </item>
-  <item>
-    <title>clash-verge-rev / clash-verge-rev</title>
-    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
-    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
   </item>
   <item>
     <title>HakanSeven12 / OpenCADStudio</title>
@@ -31,9 +16,14 @@
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>mixelpixx / Konnect</title>
-    <link>https://github.com/mixelpixx/Konnect</link>
-    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+    <title>eythaann / Seelen-UI</title>
+    <link>https://github.com/eythaann/Seelen-UI</link>
+    <description>The Fully Customizable Desktop Environment for Windows 10/11.</description>
+  </item>
+  <item>
+    <title>longbridge / gpui-kit</title>
+    <link>https://github.com/longbridge/gpui-kit</link>
+    <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
   </item>
   <item>
     <title>jlcodes99 / cockpit-tools</title>
@@ -41,44 +31,14 @@
     <description>🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta</description>
   </item>
   <item>
-    <title>CapSoftware / Cap</title>
-    <link>https://github.com/CapSoftware/Cap</link>
-    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+    <title>mixelpixx / Konnect</title>
+    <link>https://github.com/mixelpixx/Konnect</link>
+    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
   </item>
   <item>
-    <title>tonhowtf / omniget</title>
-    <link>https://github.com/tonhowtf/omniget</link>
-    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
-  </item>
-  <item>
-    <title>visioncortex / vtracer</title>
-    <link>https://github.com/visioncortex/vtracer</link>
-    <description>Raster to Vector Graphics Converter</description>
-  </item>
-  <item>
-    <title>lbjlaq / Antigravity-Manager</title>
-    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
-    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
-  </item>
-  <item>
-    <title>Automattic / harper</title>
-    <link>https://github.com/Automattic/harper</link>
-    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-  </item>
-  <item>
-    <title>jj-vcs / jj</title>
-    <link>https://github.com/jj-vcs/jj</link>
-    <description>A Git-compatible VCS that is both simple and powerful</description>
-  </item>
-  <item>
-    <title>astral-sh / ruff</title>
-    <link>https://github.com/astral-sh/ruff</link>
-    <description>An extremely fast Python linter and code formatter, written in Rust.</description>
-  </item>
-  <item>
-    <title>apache / iggy</title>
-    <link>https://github.com/apache/iggy</link>
-    <description>Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed</description>
+    <title>AlexsJones / llmfit</title>
+    <link>https://github.com/AlexsJones/llmfit</link>
+    <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
   </item>
   <item>
     <title>lencx / ChatGPT</title>
@@ -86,9 +46,64 @@
     <description>❄️ ChatGPT Desktop Application (Mac, Windows and Linux)</description>
   </item>
   <item>
+    <title>confeden / Antigravity</title>
+    <link>https://github.com/confeden/Antigravity</link>
+    <description>Antigravity в России без VPN и смены региона аккаунта Google</description>
+  </item>
+  <item>
     <title>ajeetdsouza / zoxide</title>
     <link>https://github.com/ajeetdsouza/zoxide</link>
     <description>A smarter cd command. Supports all major shells.</description>
+  </item>
+  <item>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
+  </item>
+  <item>
+    <title>Automattic / harper</title>
+    <link>https://github.com/Automattic/harper</link>
+    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+  </item>
+  <item>
+    <title>lbjlaq / Antigravity-Manager</title>
+    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
+    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
+  </item>
+  <item>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+  </item>
+  <item>
+    <title>ccxt / ccxt</title>
+    <link>https://github.com/ccxt/ccxt</link>
+    <description>A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust</description>
+  </item>
+  <item>
+    <title>cachix / devenv</title>
+    <link>https://github.com/cachix/devenv</link>
+    <description>Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</description>
+  </item>
+  <item>
+    <title>googleworkspace / cli</title>
+    <link>https://github.com/googleworkspace/cli</link>
+    <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
+  </item>
+  <item>
+    <title>Pumpkin-MC / Pumpkin</title>
+    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+    <description>Empowering everyone to host fast and efficient Minecraft servers</description>
+  </item>
+  <item>
+    <title>huanfeng / WindInput</title>
+    <link>https://github.com/huanfeng/WindInput</link>
+    <description>清风输入法 | 轻量、快速、可定制的开源中文输入法，专为五笔和码表输入方案设计（Windows / macOS）</description>
+  </item>
+  <item>
+    <title>visioncortex / vtracer</title>
+    <link>https://github.com/visioncortex/vtracer</link>
+    <description>Raster to Vector Graphics Converter</description>
   </item>
 </channel>
 </rss>

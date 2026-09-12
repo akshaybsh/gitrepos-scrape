@@ -4,7 +4,7 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
   <item>
     <title>anthropics / claude-plugins-community</title>
     <link>https://github.com/anthropics/claude-plugins-community</link>
@@ -16,24 +16,24 @@
     <description>Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.</description>
   </item>
   <item>
-    <title>NVIDIA-NeMo / Switchyard</title>
-    <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
-    <description>Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.</description>
-  </item>
-  <item>
     <title>semantica-agi / semantica</title>
     <link>https://github.com/semantica-agi/semantica</link>
     <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
   </item>
   <item>
-    <title>youssofal / MTPLX</title>
-    <link>https://github.com/youssofal/MTPLX</link>
-    <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
-  </item>
-  <item>
     <title>debpalash / VoiceStudio</title>
     <link>https://github.com/debpalash/VoiceStudio</link>
     <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
+  </item>
+  <item>
+    <title>NVIDIA-NeMo / Switchyard</title>
+    <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
+    <description>Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.</description>
+  </item>
+  <item>
+    <title>ayghri / i-have-adhd</title>
+    <link>https://github.com/ayghri/i-have-adhd</link>
+    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
   </item>
   <item>
     <title>public-apis / public-apis</title>
@@ -46,9 +46,9 @@
     <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
   </item>
   <item>
-    <title>ayghri / i-have-adhd</title>
-    <link>https://github.com/ayghri/i-have-adhd</link>
-    <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
+    <title>p-e-w / heretic</title>
+    <link>https://github.com/p-e-w/heretic</link>
+    <description>Fully automatic censorship removal for language models</description>
   </item>
   <item>
     <title>harry0703 / MoneyPrinterTurbo</title>
@@ -56,9 +56,9 @@
     <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
   </item>
   <item>
-    <title>p-e-w / heretic</title>
-    <link>https://github.com/p-e-w/heretic</link>
-    <description>Fully automatic censorship removal for language models</description>
+    <title>google-research / timesfm</title>
+    <link>https://github.com/google-research/timesfm</link>
+    <description>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.</description>
   </item>
   <item>
     <title>jundot / omlx</title>
@@ -71,26 +71,6 @@
     <description>Animation engine for explanatory math videos</description>
   </item>
   <item>
-    <title>unslothai / unsloth</title>
-    <link>https://github.com/unslothai/unsloth</link>
-    <description>Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.</description>
-  </item>
-  <item>
-    <title>megadose / holehe</title>
-    <link>https://github.com/megadose/holehe</link>
-    <description>holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</description>
-  </item>
-  <item>
-    <title>blader / humanizer</title>
-    <link>https://github.com/blader/humanizer</link>
-    <description>Agent skill that removes signs of AI-generated writing from text</description>
-  </item>
-  <item>
-    <title>google-research / timesfm</title>
-    <link>https://github.com/google-research/timesfm</link>
-    <description>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.</description>
-  </item>
-  <item>
     <title>K-Dense-AI / scientific-agent-skills</title>
     <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
     <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
@@ -101,9 +81,14 @@
     <description>A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.</description>
   </item>
   <item>
-    <title>MiaAI-Lab / DeepSeek-v4-Flash-DSpark-2x-DGX-Spark</title>
-    <link>https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-DSpark-2x-DGX-Spark</link>
-    <description>DeepSeek-v4-Flash 0731 recipe for 2x DGX Sparks</description>
+    <title>jingyaogong / minimind</title>
+    <link>https://github.com/jingyaogong/minimind</link>
+    <description>🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
+  </item>
+  <item>
+    <title>unslothai / unsloth</title>
+    <link>https://github.com/unslothai/unsloth</link>
+    <description>Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.</description>
   </item>
   <item>
     <title>abi / screenshot-to-code</title>
@@ -111,19 +96,19 @@
     <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
   </item>
   <item>
-    <title>jingyaogong / minimind</title>
-    <link>https://github.com/jingyaogong/minimind</link>
-    <description>🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
+    <title>blader / humanizer</title>
+    <link>https://github.com/blader/humanizer</link>
+    <description>Agent skill that removes signs of AI-generated writing from text</description>
+  </item>
+  <item>
+    <title>sngyai / Sequoia-X</title>
+    <link>https://github.com/sngyai/Sequoia-X</link>
+    <description>A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书</description>
   </item>
   <item>
     <title>whiteguo233 / OpenBiliClaw</title>
     <link>https://github.com/whiteguo233/OpenBiliClaw</link>
     <description>本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）</description>
-  </item>
-  <item>
-    <title>radixark / miles</title>
-    <link>https://github.com/radixark/miles</link>
-    <description>Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.</description>
   </item>
 </channel>
 </rss>

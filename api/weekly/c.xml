@@ -4,7 +4,7 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:56:41 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
   <item>
     <title>facebook / zstd</title>
     <link>https://github.com/facebook/zstd</link>
@@ -14,6 +14,11 @@
     <title>doldecomp / melee</title>
     <link>https://github.com/doldecomp/melee</link>
     <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
+  </item>
+  <item>
+    <title>NebuSec / CyberMeowfia</title>
+    <link>https://github.com/NebuSec/CyberMeowfia</link>
+    <description>PoCs and exploits for CVEs discovered by NebuSec.</description>
   </item>
   <item>
     <title>winsiderss / systeminformer</title>
@@ -26,9 +31,9 @@
     <description>Ultralightweight JSON parser in ANSI C</description>
   </item>
   <item>
-    <title>NebuSec / CyberMeowfia</title>
-    <link>https://github.com/NebuSec/CyberMeowfia</link>
-    <description>PoCs and exploits for CVEs discovered by NebuSec.</description>
+    <title>curl / curl</title>
+    <link>https://github.com/curl/curl</link>
+    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
     <title>libretro / RetroArch</title>
@@ -36,14 +41,9 @@
     <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
   </item>
   <item>
-    <title>curl / curl</title>
-    <link>https://github.com/curl/curl</link>
-    <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
-  </item>
-  <item>
-    <title>maharmstone / btrfs</title>
-    <link>https://github.com/maharmstone/btrfs</link>
-    <description>WinBtrfs - an open-source btrfs driver for Windows</description>
+    <title>obsproject / obs-studio</title>
+    <link>https://github.com/obsproject/obs-studio</link>
+    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
   </item>
   <item>
     <title>zephyrproject-rtos / zephyr</title>
@@ -51,14 +51,14 @@
     <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
   </item>
   <item>
-    <title>obsproject / obs-studio</title>
-    <link>https://github.com/obsproject/obs-studio</link>
-    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
-    <title>Genymobile / scrcpy</title>
-    <link>https://github.com/Genymobile/scrcpy</link>
-    <description>Display and control your Android device</description>
+    <title>radareorg / radare2</title>
+    <link>https://github.com/radareorg/radare2</link>
+    <description>UNIX-like reverse engineering framework and command-line toolset</description>
   </item>
   <item>
     <title>armory3d / armorpaint</title>
@@ -66,19 +66,9 @@
     <description>Graphics Creation Tools</description>
   </item>
   <item>
-    <title>openwrt / openwrt</title>
-    <link>https://github.com/openwrt/openwrt</link>
-    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
-  </item>
-  <item>
     <title>coredevices / PebbleOS</title>
     <link>https://github.com/coredevices/PebbleOS</link>
     <description></description>
-  </item>
-  <item>
-    <title>ffmpegwasm / ffmpeg.wasm</title>
-    <link>https://github.com/ffmpegwasm/ffmpeg.wasm</link>
-    <description>FFmpeg for browser, powered by WebAssembly</description>
   </item>
   <item>
     <title>git / git</title>
@@ -86,24 +76,34 @@
     <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
   </item>
   <item>
+    <title>ffmpegwasm / ffmpeg.wasm</title>
+    <link>https://github.com/ffmpegwasm/ffmpeg.wasm</link>
+    <description>FFmpeg for browser, powered by WebAssembly</description>
+  </item>
+  <item>
+    <title>maharmstone / btrfs</title>
+    <link>https://github.com/maharmstone/btrfs</link>
+    <description>WinBtrfs - an open-source btrfs driver for Windows</description>
+  </item>
+  <item>
+    <title>meshcore-dev / MeshCore</title>
+    <link>https://github.com/meshcore-dev/MeshCore</link>
+    <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
+  </item>
+  <item>
+    <title>tr4m0ryp / tr4mpass</title>
+    <link>https://github.com/tr4m0ryp/tr4mpass</link>
+    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
+  </item>
+  <item>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
+  </item>
+  <item>
     <title>microsoft / PowerToys</title>
     <link>https://github.com/microsoft/PowerToys</link>
     <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
-  </item>
-  <item>
-    <title>OpenVPN / openvpn</title>
-    <link>https://github.com/OpenVPN/openvpn</link>
-    <description>OpenVPN is an open source VPN daemon</description>
-  </item>
-  <item>
-    <title>QwenAudio / SenseVoice</title>
-    <link>https://github.com/QwenAudio/SenseVoice</link>
-    <description>Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.</description>
-  </item>
-  <item>
-    <title>rexglue / rexglue-sdk</title>
-    <link>https://github.com/rexglue/rexglue-sdk</link>
-    <description>Xbox 360 Recompilation Runtime and Toolkit</description>
   </item>
 </channel>
 </rss>

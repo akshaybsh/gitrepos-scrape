@@ -4,11 +4,16 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:55:27 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:47:23 GMT</pubDate>
   <item>
-    <title>justcallmekoko / ESP32Marauder</title>
-    <link>https://github.com/justcallmekoko/ESP32Marauder</link>
-    <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+    <title>0xShug0 / audio.cpp</title>
+    <link>https://github.com/0xShug0/audio.cpp</link>
+    <description>An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.</description>
+  </item>
+  <item>
+    <title>Atmosphere-NX / Atmosphere</title>
+    <link>https://github.com/Atmosphere-NX/Atmosphere</link>
+    <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
   </item>
   <item>
     <title>memgraph / memgraph</title>
@@ -16,74 +21,84 @@
     <description>High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.</description>
   </item>
   <item>
-    <title>duckdb / duckdb</title>
-    <link>https://github.com/duckdb/duckdb</link>
-    <description>DuckDB is an analytical in-process SQL database management system</description>
+    <title>ai-dynamo / nixl</title>
+    <link>https://github.com/ai-dynamo/nixl</link>
+    <description>NVIDIA Inference Xfer Library (NIXL)</description>
   </item>
   <item>
-    <title>leejet / stable-diffusion.cpp</title>
-    <link>https://github.com/leejet/stable-diffusion.cpp</link>
-    <description>Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++</description>
+    <title>hyperfield / ai-file-sorter</title>
+    <link>https://github.com/hyperfield/ai-file-sorter</link>
+    <description>Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.</description>
   </item>
   <item>
-    <title>Vita3K / Vita3K</title>
-    <link>https://github.com/Vita3K/Vita3K</link>
-    <description>Experimental PlayStation Vita emulator</description>
+    <title>ArduPilot / ardupilot</title>
+    <link>https://github.com/ArduPilot/ardupilot</link>
+    <description>ArduPlane, ArduCopter, ArduRover, ArduSub source</description>
   </item>
   <item>
-    <title>ggml-org / llama.cpp</title>
-    <link>https://github.com/ggml-org/llama.cpp</link>
-    <description>LLM inference in C/C++</description>
+    <title>SatDump / SatDump</title>
+    <link>https://github.com/SatDump/SatDump</link>
+    <description>A generic satellite data processing software.</description>
   </item>
   <item>
-    <title>PaddlePaddle / Paddle</title>
-    <link>https://github.com/PaddlePaddle/Paddle</link>
-    <description>PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&amp;机器学习高性能单机、分布式训练和跨平台部署）</description>
+    <title>lkimuk / ReArk</title>
+    <link>https://github.com/lkimuk/ReArk</link>
+    <description>An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).</description>
   </item>
   <item>
-    <title>opencv / opencv</title>
-    <link>https://github.com/opencv/opencv</link>
-    <description>Open Source Computer Vision Library</description>
+    <title>ClickHouse / ClickHouse</title>
+    <link>https://github.com/ClickHouse/ClickHouse</link>
+    <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
   <item>
-    <title>NVIDIA / nccl</title>
-    <link>https://github.com/NVIDIA/nccl</link>
-    <description>Optimized primitives for collective multi-GPU communication</description>
+    <title>vllm-project / vllm-ascend</title>
+    <link>https://github.com/vllm-project/vllm-ascend</link>
+    <description>Community maintained hardware plugin for vLLM on Ascend</description>
   </item>
   <item>
-    <title>wolfpld / tracy</title>
-    <link>https://github.com/wolfpld/tracy</link>
-    <description>Frame profiler</description>
+    <title>iamaisim / ProjectAirSim</title>
+    <link>https://github.com/iamaisim/ProjectAirSim</link>
+    <description>Project AirSim is Microsoft&#x27;s evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments</description>
   </item>
   <item>
-    <title>google-ai-edge / LiteRT-LM</title>
-    <link>https://github.com/google-ai-edge/LiteRT-LM</link>
-    <description>LiteRT-LM is Google&#x27;s production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.</description>
+    <title>catchorg / Catch2</title>
+    <link>https://github.com/catchorg/Catch2</link>
+    <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
   </item>
   <item>
-    <title>ocornut / imgui</title>
-    <link>https://github.com/ocornut/imgui</link>
-    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
+    <title>tensorflow / tensorflow</title>
+    <link>https://github.com/tensorflow/tensorflow</link>
+    <description>An Open Source Machine Learning Framework for Everyone</description>
   </item>
   <item>
-    <title>google-ai-edge / mediapipe</title>
-    <link>https://github.com/google-ai-edge/mediapipe</link>
-    <description>Cross-platform, customizable ML solutions for live and streaming media.</description>
+    <title>Tencent / ncnn</title>
+    <link>https://github.com/Tencent/ncnn</link>
+    <description>ncnn is a high-performance neural network inference framework optimized for the mobile platform</description>
   </item>
   <item>
-    <title>tesseract-ocr / tesseract</title>
-    <link>https://github.com/tesseract-ocr/tesseract</link>
-    <description>Tesseract Open Source OCR Engine (main repository)</description>
+    <title>geo-tp / ESP32-Bit-Pirate</title>
+    <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
+    <description>A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</description>
   </item>
   <item>
-    <title>kvcache-ai / Mooncake</title>
-    <link>https://github.com/kvcache-ai/Mooncake</link>
-    <description>Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.</description>
+    <title>microsoft / WSL</title>
+    <link>https://github.com/microsoft/WSL</link>
+    <description>Windows Subsystem for Linux</description>
   </item>
   <item>
-    <title>ossrs / srs</title>
-    <link>https://github.com/ossrs/srs</link>
-    <description>SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Opus, and G.711.</description>
+    <title>argotorg / solidity</title>
+    <link>https://github.com/argotorg/solidity</link>
+    <description>Solidity, the Smart Contract Programming Language</description>
+  </item>
+  <item>
+    <title>MariaDB / server</title>
+    <link>https://github.com/MariaDB/server</link>
+    <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
+  </item>
+  <item>
+    <title>assimp / assimp</title>
+    <link>https://github.com/assimp/assimp</link>
+    <description>The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.</description>
   </item>
 </channel>
 </rss>

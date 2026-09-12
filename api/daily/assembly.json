@@ -2,107 +2,27 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
-    {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3926,
-      "forks": 131,
-      "added_stars": "22 stars today"
-    },
     {
       "title": "ROCm / rocm-libraries",
       "url": "https://github.com/ROCm/rocm-libraries",
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 422,
-      "forks": 397,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "kanaka / mal",
-      "url": "https://github.com/kanaka/mal",
-      "description": "mal - Make a Lisp",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 10728,
-      "forks": 2705,
+      "stars": 424,
+      "forks": 398,
       "added_stars": "1 star today"
     },
     {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18714,
-      "forks": 2101,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "openhwgroup / cva6",
-      "url": "https://github.com/openhwgroup/cva6",
-      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3105,
-      "forks": 1019,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1132,
-      "forks": 60,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "BLAKE3-team / BLAKE3",
-      "url": "https://github.com/BLAKE3-team/BLAKE3",
-      "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 6424,
-      "forks": 480,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "cemu-project / cemu_graphic_packs",
-      "url": "https://github.com/cemu-project/cemu_graphic_packs",
-      "description": "Community Graphic Packs for Cemu",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1473,
-      "forks": 599,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "pret / pokered",
-      "url": "https://github.com/pret/pokered",
-      "description": "Disassembly of Pokémon Red/Blue",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 4912,
-      "forks": 1300,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "espressif / esp-dl",
-      "url": "https://github.com/espressif/esp-dl",
-      "description": "Espressif deep-learning library for AIoT applications",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1137,
-      "forks": 225,
-      "added_stars": "2 stars today"
+      "stars": 3931,
+      "forks": 131,
+      "added_stars": "6 stars today"
     },
     {
       "title": "riscv / riscv-arch-test",
@@ -111,8 +31,48 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 786,
-      "forks": 361,
+      "forks": 362,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "pret / pokeheartgold",
+      "url": "https://github.com/pret/pokeheartgold",
+      "description": "Decompilation of Pokemon HeartGold/SoulSilver",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 589,
+      "forks": 201,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "z88dk / z88dk",
+      "url": "https://github.com/z88dk/z88dk",
+      "description": "The development kit for over a hundred z80 family machines - c compiler, assembler, linker, libraries.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1135,
+      "forks": 206,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kanaka / mal",
+      "url": "https://github.com/kanaka/mal",
+      "description": "mal - Make a Lisp",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 10727,
+      "forks": 2705,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "openhwgroup / cva6",
+      "url": "https://github.com/openhwgroup/cva6",
+      "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3106,
+      "forks": 1019,
+      "added_stars": "2 stars today"
     },
     {
       "title": "pret / pokecrystal",
@@ -120,9 +80,9 @@
       "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2498,
+      "stars": 2499,
       "forks": 978,
-      "added_stars": "1 star today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "aws / aws-lc",
@@ -135,13 +95,73 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "apache / arrow-go",
-      "url": "https://github.com/apache/arrow-go",
-      "description": "Official Go implementation of Apache Arrow",
+      "title": "chrislgarry / Apollo-11",
+      "url": "https://github.com/chrislgarry/Apollo-11",
+      "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 402,
-      "forks": 144,
+      "stars": 72329,
+      "forks": 7999,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 487,
+      "forks": 237,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1138,
+      "forks": 224,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18719,
+      "forks": 2101,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "boostorg / context",
+      "url": "https://github.com/boostorg/context",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 368,
+      "forks": 186,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "riscv-software-src / riscv-tests",
+      "url": "https://github.com/riscv-software-src/riscv-tests",
+      "description": "",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1241,
+      "forks": 564,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "hiteshchoudhary / open-source-contribution",
+      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
+      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 540,
+      "forks": 1704,
       "added_stars": "0 stars today"
     },
     {
@@ -152,26 +172,6 @@
       "languageColor": "#6E4C13",
       "stars": 2230,
       "forks": 1151,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hiteshchoudhary / open-source-contribution",
-      "url": "https://github.com/hiteshchoudhary/open-source-contribution",
-      "description": "A repo to contribute in open source via README only. A dream repo for open source beginner",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 540,
-      "forks": 1703,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cRz-Shadows / Pokemon_Yellow_Legacy",
-      "url": "https://github.com/cRz-Shadows/Pokemon_Yellow_Legacy",
-      "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 298,
-      "forks": 60,
       "added_stars": "0 stars today"
     }
   ]

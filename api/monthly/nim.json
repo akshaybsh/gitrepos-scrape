@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
     {
       "title": "zedeus / nitter",
@@ -10,9 +10,9 @@
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 14451,
-      "forks": 1325,
-      "added_stars": "1,076 stars this month"
+      "stars": 14457,
+      "forks": 1326,
+      "added_stars": "1,080 stars this month"
     },
     {
       "title": "nim-lang / Nim",
@@ -21,8 +21,8 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": 18230,
-      "forks": 1550,
-      "added_stars": "90 stars this month"
+      "forks": 1551,
+      "added_stars": "87 stars this month"
     },
     {
       "title": "logos-messaging / logos-delivery",
@@ -31,18 +31,8 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": 248,
-      "forks": 87,
+      "forks": 88,
       "added_stars": "0 stars this month"
-    },
-    {
-      "title": "vacp2p / nim-libp2p",
-      "url": "https://github.com/vacp2p/nim-libp2p",
-      "description": "libp2p implementation in Nim",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 322,
-      "forks": 76,
-      "added_stars": "5 stars this month"
     },
     {
       "title": "status-im / nimbus-eth2",
@@ -53,6 +43,26 @@
       "stars": 662,
       "forks": 335,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "vacp2p / nim-libp2p",
+      "url": "https://github.com/vacp2p/nim-libp2p",
+      "description": "libp2p implementation in Nim",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 322,
+      "forks": 76,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "status-im / nimbus-eth1",
+      "url": "https://github.com/status-im/nimbus-eth1",
+      "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 629,
+      "forks": 163,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "nim-lang / packages",
@@ -72,7 +82,7 @@
       "languageColor": "#ffc200",
       "stars": 412,
       "forks": 63,
-      "added_stars": "2 stars this month"
+      "added_stars": "1 star this month"
     }
   ]
 }

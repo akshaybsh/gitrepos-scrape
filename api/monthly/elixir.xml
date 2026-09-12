@@ -4,31 +4,11 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
   <item>
     <title>openai / symphony</title>
     <link>https://github.com/openai/symphony</link>
     <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
-  </item>
-  <item>
-    <title>firezone / firezone</title>
-    <link>https://github.com/firezone/firezone</link>
-    <description>Enterprise-ready zero-trust access platform built on WireGuard®.</description>
-  </item>
-  <item>
-    <title>teslamate-org / teslamate</title>
-    <link>https://github.com/teslamate-org/teslamate</link>
-    <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
-  </item>
-  <item>
-    <title>blockscout / blockscout</title>
-    <link>https://github.com/blockscout/blockscout</link>
-    <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
-  </item>
-  <item>
-    <title>plausible / analytics</title>
-    <link>https://github.com/plausible/analytics</link>
-    <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
   </item>
   <item>
     <title>phoenixframework / phoenix</title>
@@ -36,9 +16,24 @@
     <description>Peace of mind from prototype to production</description>
   </item>
   <item>
-    <title>elixir-lang / elixir</title>
-    <link>https://github.com/elixir-lang/elixir</link>
-    <description>Simple from zero to scale</description>
+    <title>plausible / analytics</title>
+    <link>https://github.com/plausible/analytics</link>
+    <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
+  </item>
+  <item>
+    <title>blockscout / blockscout</title>
+    <link>https://github.com/blockscout/blockscout</link>
+    <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
+  </item>
+  <item>
+    <title>firezone / firezone</title>
+    <link>https://github.com/firezone/firezone</link>
+    <description>Blazing-fast remote access</description>
+  </item>
+  <item>
+    <title>teslamate-org / teslamate</title>
+    <link>https://github.com/teslamate-org/teslamate</link>
+    <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
   </item>
   <item>
     <title>supabase / realtime</title>
@@ -46,9 +41,9 @@
     <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
   </item>
   <item>
-    <title>mtrudel / bandit</title>
-    <link>https://github.com/mtrudel/bandit</link>
-    <description>Bandit is a pure Elixir HTTP server for Plug &amp; WebSock applications</description>
+    <title>elixir-lang / elixir</title>
+    <link>https://github.com/elixir-lang/elixir</link>
+    <description>Simple from zero to scale</description>
   </item>
   <item>
     <title>Logflare / logflare</title>
@@ -81,11 +76,6 @@
     <description>Your next YouTube media manager</description>
   </item>
   <item>
-    <title>agentjido / req_llm</title>
-    <link>https://github.com/agentjido/req_llm</link>
-    <description>Composable Elixir library for LLM interactions built on Req and Finch</description>
-  </item>
-  <item>
     <title>icoretech / codex-pooler</title>
     <link>https://github.com/icoretech/codex-pooler</link>
     <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
@@ -96,9 +86,14 @@
     <description>A toolkit for data mapping and language integrated query.</description>
   </item>
   <item>
-    <title>elixir-waffle / waffle</title>
-    <link>https://github.com/elixir-waffle/waffle</link>
-    <description>Flexible file upload and attachment library for Elixir</description>
+    <title>phenixdigital / phoenix_storybook</title>
+    <link>https://github.com/phenixdigital/phoenix_storybook</link>
+    <description>A pluggable storybook for your Phoenix components.</description>
+  </item>
+  <item>
+    <title>nerves-hub / nerves_hub_web</title>
+    <link>https://github.com/nerves-hub/nerves_hub_web</link>
+    <description>Manage your Nerves device fleet, including firmware updates, health reports, and interactive device consoles.</description>
   </item>
 </channel>
 </rss>

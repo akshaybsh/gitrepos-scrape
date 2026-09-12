@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46232,
-      "forks": 3968,
-      "added_stars": "122 stars this week"
+      "stars": 46245,
+      "forks": 3970,
+      "added_stars": "123 stars this week"
     },
     {
       "title": "simplex-chat / simplex-chat",
@@ -20,9 +20,9 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19417,
-      "forks": 1346,
-      "added_stars": "65 stars this week"
+      "stars": 19419,
+      "forks": 1348,
+      "added_stars": "57 stars this week"
     },
     {
       "title": "hadolint / hadolint",
@@ -30,9 +30,19 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12398,
+      "stars": 12399,
       "forks": 502,
-      "added_stars": "17 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40030,
+      "forks": 1946,
+      "added_stars": "51 stars this week"
     },
     {
       "title": "mtolly / onyx",
@@ -50,29 +60,9 @@
       "description": "Compiler for Elm, a functional language for reliable webapps.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 7901,
+      "stars": 7900,
       "forks": 691,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 40022,
-      "forks": 1945,
-      "added_stars": "49 stars this week"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27654,
-      "forks": 1226,
-      "added_stars": "24 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "purescript / purescript",
@@ -82,7 +72,17 @@
       "languageColor": "#5e5086",
       "stars": 8909,
       "forks": 575,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27658,
+      "forks": 1226,
+      "added_stars": "26 stars this week"
     }
   ]
 }

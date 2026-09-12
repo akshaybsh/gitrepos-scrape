@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3940,
-      "forks": 261,
-      "added_stars": "975 stars this month"
+      "stars": 3957,
+      "forks": 263,
+      "added_stars": "988 stars this month"
     },
     {
       "title": "w3c / csswg-drafts",
@@ -20,9 +20,19 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4877,
+      "stars": 4878,
       "forks": 815,
-      "added_stars": "16 stars this month"
+      "added_stars": "18 stars this month"
+    },
+    {
+      "title": "w3c / webappsec-permissions-policy",
+      "url": "https://github.com/w3c/webappsec-permissions-policy",
+      "description": "A mechanism to selectively enable and disable browser features and APIs",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 430,
+      "forks": 182,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "w3c / resource-timing",
@@ -33,16 +43,6 @@
       "stars": 135,
       "forks": 40,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "w3c / webappsec-permissions-policy",
-      "url": "https://github.com/w3c/webappsec-permissions-policy",
-      "description": "A mechanism to selectively enable and disable browser features and APIs",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 430,
-      "forks": 181,
-      "added_stars": "2 stars this month"
     },
     {
       "title": "w3c / webauthn",
@@ -92,7 +92,7 @@
       "languageColor": "#5562ac",
       "stars": 400,
       "forks": 169,
-      "added_stars": "2 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "w3c / webextensions",
@@ -100,9 +100,9 @@
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 709,
+      "stars": 710,
       "forks": 94,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     }
   ]
 }

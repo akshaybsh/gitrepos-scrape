@@ -2,27 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4096,
-      "forks": 1675,
-      "added_stars": "292 stars this month"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9110,
-      "forks": 974,
-      "added_stars": "387 stars this month"
+      "stars": 9135,
+      "forks": 976,
+      "added_stars": "394 stars this month"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 4107,
+      "forks": 1677,
+      "added_stars": "291 stars this month"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -30,9 +30,9 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1257,
-      "forks": 473,
-      "added_stars": "91 stars this month"
+      "stars": 1258,
+      "forks": 475,
+      "added_stars": "88 stars this month"
     },
     {
       "title": "leanprover / cslib",
@@ -40,9 +40,9 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 696,
+      "stars": 698,
       "forks": 197,
-      "added_stars": "54 stars this month"
+      "added_stars": "53 stars this month"
     },
     {
       "title": "LionSR / TNLean",
@@ -52,7 +52,17 @@
       "languageColor": "#ccc",
       "stars": 35,
       "forks": 3,
-      "added_stars": "4 stars this month"
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 736,
+      "forks": 185,
+      "added_stars": "57 stars this month"
     },
     {
       "title": "leanprover-community / import-graph",
@@ -65,16 +75,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 731,
-      "forks": 185,
-      "added_stars": "53 stars this month"
-    },
-    {
       "title": "leanprover-community / quote4",
       "url": "https://github.com/leanprover-community/quote4",
       "description": "Intuitive, type-safe expression quotations for Lean 4.",
@@ -83,6 +83,16 @@
       "stars": 111,
       "forks": 27,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "leanprover-community / plausible",
+      "url": "https://github.com/leanprover-community/plausible",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 114,
+      "forks": 30,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
@@ -95,14 +105,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
-      "description": "",
+      "title": "leanprover-community / aesop",
+      "url": "https://github.com/leanprover-community/aesop",
+      "description": "White-box automation for Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 114,
-      "forks": 30,
-      "added_stars": "3 stars this month"
+      "stars": 404,
+      "forks": 61,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -125,16 +135,6 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "leanprover-community / aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 403,
-      "forks": 61,
-      "added_stars": "10 stars this month"
-    },
-    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -150,9 +150,19 @@
       "description": "Lean 4 kernel / 'external checker' written in Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 244,
+      "stars": 245,
       "forks": 36,
-      "added_stars": "22 stars this month"
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "leanprover / verso",
+      "url": "https://github.com/leanprover/verso",
+      "description": "Lean documentation authoring tool",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 381,
+      "forks": 123,
+      "added_stars": "9 stars this month"
     }
   ]
 }

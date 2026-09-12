@@ -2,117 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
-    {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 35874,
-      "forks": 2271,
-      "added_stars": "258 stars today"
-    },
-    {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 19028,
-      "forks": 1843,
-      "added_stars": "232 stars today"
-    },
     {
       "title": "alphaXiv / OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Run parallel research agents with any model",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1003,
-      "forks": 77,
-      "added_stars": "210 stars today"
-    },
-    {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 15265,
-      "forks": 622,
-      "added_stars": "62 stars today"
-    },
-    {
-      "title": "akitaonrails / ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6494,
-      "forks": 446,
-      "added_stars": "231 stars today"
-    },
-    {
-      "title": "feigeCode / navop",
-      "url": "https://github.com/feigeCode/navop",
-      "description": "A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1301,
-      "forks": 140,
-      "added_stars": "38 stars today"
-    },
-    {
-      "title": "dmtrKovalenko / fff",
-      "url": "https://github.com/dmtrKovalenko/fff",
-      "description": "The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C, Python, Bun and NodeJS",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 10689,
-      "forks": 444,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 123191,
-      "forks": 18966,
-      "added_stars": "299 stars today"
-    },
-    {
-      "title": "waditu / czsc",
-      "url": "https://github.com/waditu/czsc",
-      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6091,
-      "forks": 1721,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "base / base",
-      "url": "https://github.com/base/base",
-      "description": "All components used to run Base",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 883,
-      "forks": 600,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "akitaonrails / ai-usagebar",
-      "url": "https://github.com/akitaonrails/ai-usagebar",
-      "description": "Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 469,
-      "forks": 93,
-      "added_stars": "41 stars today"
+      "stars": 1425,
+      "forks": 98,
+      "added_stars": "120 stars today"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -120,29 +20,79 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1524,
-      "forks": 153,
-      "added_stars": "158 stars today"
+      "stars": 1587,
+      "forks": 161,
+      "added_stars": "102 stars today"
     },
     {
-      "title": "ast-grep / ast-grep",
-      "url": "https://github.com/ast-grep/ast-grep",
-      "description": "⚡A CLI tool for code structural search, lint and rewriting. Written in Rust",
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15848,
-      "forks": 445,
-      "added_stars": "16 stars today"
+      "stars": 19200,
+      "forks": 1859,
+      "added_stars": "259 stars today"
     },
     {
-      "title": "persiyanov / herdr-reviewr",
-      "url": "https://github.com/persiyanov/herdr-reviewr",
-      "description": "A code review + file viewer sidebar for herdr. Comment on a diff and send back to agent. Inspect diffs, files, and a PR state.",
+      "title": "googleworkspace / cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 668,
-      "forks": 69,
-      "added_stars": "21 stars today"
+      "stars": 30950,
+      "forks": 1828,
+      "added_stars": "66 stars today"
+    },
+    {
+      "title": "clockworklabs / SpacetimeDB",
+      "url": "https://github.com/clockworklabs/SpacetimeDB",
+      "description": "Development at the speed of light",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25156,
+      "forks": 1064,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36124,
+      "forks": 2283,
+      "added_stars": "449 stars today"
+    },
+    {
+      "title": "RyanCodrai / turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 16947,
+      "forks": 1454,
+      "added_stars": "91 stars today"
+    },
+    {
+      "title": "NVlabs / cuda-oxide",
+      "url": "https://github.com/NVlabs/cuda-oxide",
+      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3280,
+      "forks": 262,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "ai-dynamo / dynamo",
+      "url": "https://github.com/ai-dynamo/dynamo",
+      "description": "A Datacenter Scale Distributed Inference Serving Framework",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8040,
+      "forks": 1578,
+      "added_stars": "10 stars today"
     },
     {
       "title": "farion1231 / cc-switch",
@@ -150,9 +100,99 @@
       "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 132255,
-      "forks": 9115,
-      "added_stars": "234 stars today"
+      "stars": 132418,
+      "forks": 9132,
+      "added_stars": "210 stars today"
+    },
+    {
+      "title": "akitaonrails / ai-usagebar",
+      "url": "https://github.com/akitaonrails/ai-usagebar",
+      "description": "Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 475,
+      "forks": 97,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "Mesh-LLM / mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3387,
+      "forks": 409,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 123222,
+      "forks": 18982,
+      "added_stars": "108 stars today"
+    },
+    {
+      "title": "windmill-labs / windmill",
+      "url": "https://github.com/windmill-labs/windmill",
+      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17896,
+      "forks": 1095,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "FalkorDB / FalkorDB",
+      "url": "https://github.com/FalkorDB/FalkorDB",
+      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6049,
+      "forks": 461,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "superradcompany / microsandbox",
+      "url": "https://github.com/superradcompany/microsandbox",
+      "description": "🧱 Easy fast local-first microVM runtime and library",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8207,
+      "forks": 433,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "coulsontl / ai-toolbox",
+      "url": "https://github.com/coulsontl/ai-toolbox",
+      "description": "Personal AI Toolbox",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1529,
+      "forks": 101,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 6991,
+      "forks": 248,
+      "added_stars": "44 stars today"
+    },
+    {
+      "title": "git-ai-project / git-ai",
+      "url": "https://github.com/git-ai-project/git-ai",
+      "description": "A Git extension for tracking the AI-generated code in your repos",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2598,
+      "forks": 287,
+      "added_stars": "6 stars today"
     }
   ]
 }

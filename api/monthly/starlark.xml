@@ -4,16 +4,11 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
     <description>Public interface definitions of Google APIs.</description>
-  </item>
-  <item>
-    <title>GoogleContainerTools / distroless</title>
-    <link>https://github.com/GoogleContainerTools/distroless</link>
-    <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
     <title>bazelbuild / bazel-central-registry</title>
@@ -24,6 +19,11 @@
     <title>cel-expr / cel-spec</title>
     <link>https://github.com/cel-expr/cel-spec</link>
     <description>Common Expression Language -- specification and binary representation</description>
+  </item>
+  <item>
+    <title>GoogleContainerTools / distroless</title>
+    <link>https://github.com/GoogleContainerTools/distroless</link>
+    <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
     <title>bazelbuild / rules_pkg</title>
@@ -39,16 +39,6 @@
     <title>bazel-contrib / rules_distroless</title>
     <link>https://github.com/bazel-contrib/rules_distroless</link>
     <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
-  </item>
-  <item>
-    <title>bazel-contrib / toolchains_llvm</title>
-    <link>https://github.com/bazel-contrib/toolchains_llvm</link>
-    <description>LLVM toolchain for bazel</description>
-  </item>
-  <item>
-    <title>bazel-contrib / rules_kotlin</title>
-    <link>https://github.com/bazel-contrib/rules_kotlin</link>
-    <description>Bazel rules for Kotlin</description>
   </item>
   <item>
     <title>bazel-contrib / rules_python</title>
@@ -76,14 +66,14 @@
     <description>Rust rules for Bazel</description>
   </item>
   <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
-  </item>
-  <item>
     <title>cgrindel / rules_swift_package_manager</title>
     <link>https://github.com/cgrindel/rules_swift_package_manager</link>
     <description>Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.</description>
+  </item>
+  <item>
+    <title>googleapis / api-common-protos</title>
+    <link>https://github.com/googleapis/api-common-protos</link>
+    <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
 </channel>
 </rss>

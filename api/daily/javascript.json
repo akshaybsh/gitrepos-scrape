@@ -2,7 +2,7 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
       "title": "bilawalsidhu / gods-eye-view",
@@ -10,9 +10,9 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 25109,
-      "forks": 5170,
-      "added_stars": "1,762 stars today"
+      "stars": 27531,
+      "forks": 5625,
+      "added_stars": "3,680 stars today"
     },
     {
       "title": "freestylefly / awesome-gpt-image-2",
@@ -20,9 +20,29 @@
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31083,
-      "forks": 3010,
-      "added_stars": "962 stars today"
+      "stars": 31387,
+      "forks": 3038,
+      "added_stars": "585 stars today"
+    },
+    {
+      "title": "asgeirtj / system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 64931,
+      "forks": 10673,
+      "added_stars": "216 stars today"
+    },
+    {
+      "title": "github / awesome-copilot",
+      "url": "https://github.com/github/awesome-copilot",
+      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 38916,
+      "forks": 4932,
+      "added_stars": "47 stars today"
     },
     {
       "title": "openai / plugins",
@@ -30,109 +50,79 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6401,
-      "forks": 843,
-      "added_stars": "245 stars today"
+      "stars": 6474,
+      "forks": 853,
+      "added_stars": "73 stars today"
     },
     {
-      "title": "viarotel-org / escrcpy",
-      "url": "https://github.com/viarotel-org/escrcpy",
-      "description": "📱 Display and control your Android device graphically with scrcpy.",
+      "title": "0xranx / OpenContext",
+      "url": "https://github.com/0xranx/OpenContext",
+      "description": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 11649,
-      "forks": 809,
-      "added_stars": "28 stars today"
+      "stars": 1103,
+      "forks": 70,
+      "added_stars": "111 stars today"
     },
     {
-      "title": "Anil-matcha / awesome-generative-ai-apps",
-      "url": "https://github.com/Anil-matcha/awesome-generative-ai-apps",
-      "description": "50+ open-source generative AI apps you can clone, deploy, and monetize — image generators, video tools, virtual try-ons, AI SaaS templates, and platform integrations. One-click Vercel deploy on every template.",
+      "title": "pdone / lx-music-source",
+      "url": "https://github.com/pdone/lx-music-source",
+      "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3203,
-      "forks": 460,
-      "added_stars": "13 stars today"
+      "stars": 8682,
+      "forks": 726,
+      "added_stars": "31 stars today"
     },
     {
-      "title": "sgoudelis / ground-station",
-      "url": "https://github.com/sgoudelis/ground-station",
-      "description": "Browser-based ground station suite for satellite tracking, SDR reception, hardware control, and telemetry decoding",
+      "title": "react / react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4773,
-      "forks": 833,
+      "stars": 250049,
+      "forks": 51330,
+      "added_stars": "404 stars today"
+    },
+    {
+      "title": "Javis603 / token-monitor",
+      "url": "https://github.com/Javis603/token-monitor",
+      "description": "Local-first desktop widget for tracking token usage, costs, and limits across 35+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 2096,
+      "forks": 200,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "atlassian / atlassian-mcp-server",
+      "url": "https://github.com/atlassian/atlassian-mcp-server",
+      "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 1033,
+      "forks": 128,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "h5bp / html5-boilerplate",
+      "url": "https://github.com/h5bp/html5-boilerplate",
+      "description": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 57620,
+      "forks": 12260,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "Asabeneh / 30-Days-Of-JavaScript",
+      "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+      "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 46794,
+      "forks": 10459,
       "added_stars": "10 stars today"
-    },
-    {
-      "title": "qeeqbox / social-analyzer",
-      "url": "https://github.com/qeeqbox/social-analyzer",
-      "description": "API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \\ websites",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 24003,
-      "forks": 2313,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "Eigenwise / eigenwise-toolshed",
-      "url": "https://github.com/Eigenwise/eigenwise-toolshed",
-      "description": "Six Claude Code plugins for the work that keeps coming back: repo maps, conditional rules, ticketed parallel work, extra subscription models, local usage metrics, and guided setup.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 129,
-      "forks": 17,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "decolua / 9router",
-      "url": "https://github.com/decolua/9router",
-      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 28371,
-      "forks": 5137,
-      "added_stars": "168 stars today"
-    },
-    {
-      "title": "citrolabs / ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 15673,
-      "forks": 819,
-      "added_stars": "144 stars today"
-    },
-    {
-      "title": "jo-inc / camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 10913,
-      "forks": 1079,
-      "added_stars": "68 stars today"
-    },
-    {
-      "title": "Anarios / return-youtube-dislike",
-      "url": "https://github.com/Anarios/return-youtube-dislike",
-      "description": "Chrome extension to return youtube dislikes",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 13769,
-      "forks": 632,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "sudheerj / reactjs-interview-questions",
-      "url": "https://github.com/sudheerj/reactjs-interview-questions",
-      "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 44803,
-      "forks": 10385,
-      "added_stars": "8 stars today"
     }
   ]
 }

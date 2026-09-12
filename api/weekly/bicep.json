@@ -2,7 +2,7 @@
   "title": "GitHub Bicep Languages Daily Trending",
   "description": "Daily Trending of Bicep Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
   "items": [
     {
       "title": "Azure / azure-quickstart-templates",
@@ -10,7 +10,7 @@
       "description": "Azure Quickstart Templates",
       "language": "Bicep",
       "languageColor": "#519aba",
-      "stars": 14874,
+      "stars": 14875,
       "forks": 16199,
       "added_stars": "5 stars this week"
     },
@@ -21,8 +21,8 @@
       "language": "Bicep",
       "languageColor": "#519aba",
       "stars": 441,
-      "forks": 484,
-      "added_stars": "5 stars this week"
+      "forks": 485,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "Azure / bicep-registry-modules",
@@ -43,6 +43,26 @@
       "stars": 445,
       "forks": 54,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "Azure-Samples / get-started-with-ai-chat",
+      "url": "https://github.com/Azure-Samples/get-started-with-ai-chat",
+      "description": "Basic sample for deploying chat web apps with Azure AI Foundry and SDKs",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 281,
+      "forks": 401,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Azure / bicep",
+      "url": "https://github.com/Azure/bicep",
+      "description": "Bicep is a declarative language for describing and deploying Azure resources",
+      "language": "Bicep",
+      "languageColor": "#519aba",
+      "stars": 3640,
+      "forks": 830,
+      "added_stars": "4 stars this week"
     }
   ]
 }

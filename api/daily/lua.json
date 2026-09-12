@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
       "title": "Kong / kong",
@@ -10,9 +10,19 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 44123,
+      "stars": 44125,
       "forks": 5210,
-      "added_stars": "9 stars today"
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "nvim-lua / kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "description": "A launch point for your personal nvim configuration",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 31443,
+      "forks": 46586,
+      "added_stars": "7 stars today"
     },
     {
       "title": "apache / apisix",
@@ -20,69 +30,49 @@
       "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 17109,
-      "forks": 2943,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6849,
-      "forks": 452,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "iDvel / rime-ice",
-      "url": "https://github.com/iDvel/rime-ice",
-      "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 19283,
-      "forks": 1178,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "koreader / koreader",
-      "url": "https://github.com/koreader/koreader",
-      "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 29635,
-      "forks": 1900,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "coder / claudecode.nvim",
-      "url": "https://github.com/coder/claudecode.nvim",
-      "description": "🧩 Claude Code Neovim IDE Extension",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3056,
-      "forks": 216,
+      "stars": 17111,
+      "forks": 2942,
       "added_stars": "3 stars today"
     },
     {
-      "title": "nickjvandyke / opencode.nvim",
-      "url": "https://github.com/nickjvandyke/opencode.nvim",
-      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
+      "title": "PathOfBuildingCommunity / PathOfBuilding-PoE2",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3819,
-      "forks": 156,
-      "added_stars": "1 star today"
+      "stars": 1879,
+      "forks": 448,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
+      "title": "lewis6991 / gitsigns.nvim",
+      "url": "https://github.com/lewis6991/gitsigns.nvim",
+      "description": "Git integration for buffers",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27442,
-      "forks": 1821,
-      "added_stars": "11 stars today"
+      "stars": 7092,
+      "forks": 295,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "bol-van / zapret-win-bundle",
+      "url": "https://github.com/bol-van/zapret-win-bundle",
+      "description": "zapret and blockcheck binary bundle for windows",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1847,
+      "forks": 262,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "xhcherry / GTA5-Stand-LuaAIO",
+      "url": "https://github.com/xhcherry/GTA5-Stand-LuaAIO",
+      "description": "GTA5 Mod Stand Lua All in One:快捷任务、crash、模组(人物|车辆|地图|模型)、娱乐等多种拓展功能玩法的lua脚本",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 746,
+      "forks": 376,
+      "added_stars": "0 stars today"
     },
     {
       "title": "rafamadriz / friendly-snippets",
@@ -90,19 +80,19 @@
       "description": "Set of preconfigured snippets for different languages.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 2778,
-      "forks": 571,
-      "added_stars": "1 star today"
+      "stars": 2777,
+      "forks": 570,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "Footagesus / WindUI",
-      "url": "https://github.com/Footagesus/WindUI",
-      "description": "WindUI is a open source UI library for Roblox Script Hubs",
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 350,
-      "forks": 332,
-      "added_stars": "1 star today"
+      "stars": 27448,
+      "forks": 1822,
+      "added_stars": "8 stars today"
     },
     {
       "title": "forest0xia / dota2bot-OpenHyperAI",
@@ -110,19 +100,19 @@
       "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 289,
-      "forks": 67,
+      "stars": 290,
+      "forks": 68,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tarantool / tarantool",
-      "url": "https://github.com/tarantool/tarantool",
-      "description": "Get your data in RAM. Get compute close to data. Enjoy the performance.",
+      "title": "overextended / ox_inventory",
+      "url": "https://github.com/overextended/ox_inventory",
+      "description": "Slot-based inventory with metadata.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 3666,
-      "forks": 418,
-      "added_stars": "0 stars today"
+      "stars": 566,
+      "forks": 1074,
+      "added_stars": "1 star today"
     },
     {
       "title": "FrSkyRC / ETHOS-Feedback-Community",
@@ -135,44 +125,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "nvim-neo-tree / neo-tree.nvim",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-      "description": "Neovim plugin to manage the file system and other tree like structures.",
+      "title": "amzxyz / rime-wanxiang",
+      "url": "https://github.com/amzxyz/rime-wanxiang",
+      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5587,
-      "forks": 303,
-      "added_stars": "1 star today"
+      "stars": 4563,
+      "forks": 173,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "sindrets / diffview.nvim",
-      "url": "https://github.com/sindrets/diffview.nvim",
-      "description": "Single tabpage interface for easily cycling through diffs for all modified files for any git rev.",
+      "title": "id577 / FS25_AdvancedDamageSystem",
+      "url": "https://github.com/id577/FS25_AdvancedDamageSystem",
+      "description": "Advanced Damage System mod for Farming Simulator 25",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5811,
-      "forks": 217,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "nvim-telescope / telescope.nvim",
-      "url": "https://github.com/nvim-telescope/telescope.nvim",
-      "description": "Find, Filter, Preview, Pick. All lua, all the time.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 19778,
-      "forks": 967,
+      "stars": 268,
+      "forks": 17,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "LandSandBoat / server",
-      "url": "https://github.com/LandSandBoat/server",
-      "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 504,
-      "forks": 908,
-      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,8 +2,38 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
+    {
+      "title": "doomemacs / core",
+      "url": "https://github.com/doomemacs/core",
+      "description": "An Emacs framework for the stubborn martian hacker",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 22674,
+      "forks": 3147,
+      "added_stars": "127 stars this month"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5192,
+      "forks": 1402,
+      "added_stars": "57 stars this month"
+    },
+    {
+      "title": "karthink / gptel",
+      "url": "https://github.com/karthink/gptel",
+      "description": "A simple, extensible LLM client for Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 3524,
+      "forks": 431,
+      "added_stars": "55 stars this month"
+    },
     {
       "title": "syl20bnr / spacemacs",
       "url": "https://github.com/syl20bnr/spacemacs",
@@ -15,54 +45,14 @@
       "added_stars": "28 stars this month"
     },
     {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5191,
-      "forks": 1402,
-      "added_stars": "59 stars this month"
-    },
-    {
-      "title": "karthink / gptel",
-      "url": "https://github.com/karthink/gptel",
-      "description": "A simple, extensible LLM client for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 3524,
-      "forks": 430,
-      "added_stars": "55 stars this month"
-    },
-    {
-      "title": "doomemacs / core",
-      "url": "https://github.com/doomemacs/core",
-      "description": "An Emacs framework for the stubborn martian hacker",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 22672,
-      "forks": 3149,
-      "added_stars": "129 stars this month"
-    },
-    {
       "title": "emacs-lsp / lsp-mode",
       "url": "https://github.com/emacs-lsp/lsp-mode",
       "description": "Emacs client/library for the Language Server Protocol",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 5125,
-      "forks": 981,
+      "forks": 980,
       "added_stars": "24 stars this month"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2967,
-      "forks": 2808,
-      "added_stars": "7 stars this month"
     },
     {
       "title": "mmontone / emacs-inspector",
@@ -72,6 +62,36 @@
       "languageColor": "#c065db",
       "stars": 121,
       "forks": 11,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1849,
+      "forks": 232,
+      "added_stars": "134 stars this month"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2967,
+      "forks": 2810,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "emacsattic / helm-swoop",
+      "url": "https://github.com/emacsattic/helm-swoop",
+      "description": "Efficiently hopping squeezed lines powered by Emacs helm interface",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 699,
+      "forks": 56,
       "added_stars": "0 stars this month"
     },
     {
@@ -85,24 +105,14 @@
       "added_stars": "26 stars this month"
     },
     {
-      "title": "emacsattic / helm-swoop",
-      "url": "https://github.com/emacsattic/helm-swoop",
-      "description": "Efficiently hopping squeezed lines powered by Emacs helm interface",
+      "title": "magit / magit",
+      "url": "https://github.com/magit/magit",
+      "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 699,
-      "forks": 56,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1846,
-      "forks": 230,
-      "added_stars": "140 stars this month"
+      "stars": 7222,
+      "forks": 882,
+      "added_stars": "33 stars this month"
     },
     {
       "title": "tumashu / posframe",
@@ -120,29 +130,9 @@
       "description": "The ergonomic agent harness for Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 281,
+      "stars": 285,
       "forks": 37,
       "added_stars": "30 stars this month"
-    },
-    {
-      "title": "magit / magit",
-      "url": "https://github.com/magit/magit",
-      "description": "It's Magit! A Git Porcelain inside Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 7220,
-      "forks": 882,
-      "added_stars": "34 stars this month"
-    },
-    {
-      "title": "bbatsov / projectile",
-      "url": "https://github.com/bbatsov/projectile",
-      "description": "Project Interaction Library for Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 4235,
-      "forks": 589,
-      "added_stars": "9 stars this month"
     },
     {
       "title": "doomemacs / modules",
@@ -155,14 +145,14 @@
       "added_stars": "9 stars this month"
     },
     {
-      "title": "magnars / dash.el",
-      "url": "https://github.com/magnars/dash.el",
-      "description": "A modern list library for Emacs",
+      "title": "bbatsov / projectile",
+      "url": "https://github.com/bbatsov/projectile",
+      "description": "Project Interaction Library for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1745,
-      "forks": 138,
-      "added_stars": "0 stars this month"
+      "stars": 4235,
+      "forks": 588,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "doomemacs / themes",
@@ -170,19 +160,9 @@
       "description": "A megapack of themes for GNU Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2418,
-      "forks": 427,
+      "stars": 2419,
+      "forks": 428,
       "added_stars": "13 stars this month"
-    },
-    {
-      "title": "yoshiki / yaml-mode",
-      "url": "https://github.com/yoshiki/yaml-mode",
-      "description": "The emacs major mode for editing files in the YAML data serialization format.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 521,
-      "forks": 132,
-      "added_stars": "3 stars this month"
     }
   ]
 }

@@ -2,68 +2,8 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
-    {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 440,
-      "forks": 481,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "OpenFAST / openfast",
-      "url": "https://github.com/OpenFAST/openfast",
-      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 966,
-      "forks": 538,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 871,
-      "forks": 687,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1205,
-      "forks": 496,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1752,
-      "forks": 881,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 759,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "MetOffice / jules",
       "url": "https://github.com/MetOffice/jules",
@@ -85,6 +25,86 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 405,
+      "forks": 759,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 440,
+      "forks": 481,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "MetOffice / lfric_apps",
+      "url": "https://github.com/MetOffice/lfric_apps",
+      "description": "LFRic Applications",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 31,
+      "forks": 116,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1205,
+      "forks": 497,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 873,
+      "forks": 688,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1702,
+      "forks": 396,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 966,
+      "forks": 538,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1753,
+      "forks": 882,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "OpenRadioss / OpenRadioss",
       "url": "https://github.com/OpenRadioss/OpenRadioss",
       "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
@@ -92,7 +112,7 @@
       "languageColor": "#4d41b1",
       "stars": 874,
       "forks": 393,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

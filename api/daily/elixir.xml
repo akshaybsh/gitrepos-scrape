@@ -4,11 +4,21 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:55:27 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:47:23 GMT</pubDate>
   <item>
     <title>openai / symphony</title>
     <link>https://github.com/openai/symphony</link>
     <description>Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.</description>
+  </item>
+  <item>
+    <title>ash-project / ash</title>
+    <link>https://github.com/ash-project/ash</link>
+    <description>A declarative, extensible framework for building Elixir applications.</description>
+  </item>
+  <item>
+    <title>phoenixframework / phoenix</title>
+    <link>https://github.com/phoenixframework/phoenix</link>
+    <description>Peace of mind from prototype to production</description>
   </item>
   <item>
     <title>plausible / analytics</title>
@@ -16,19 +26,19 @@
     <description>Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.</description>
   </item>
   <item>
-    <title>teslamate-org / teslamate</title>
-    <link>https://github.com/teslamate-org/teslamate</link>
-    <description>A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</description>
+    <title>Spectral-Finance / lux</title>
+    <link>https://github.com/Spectral-Finance/lux</link>
+    <description>Lux is an open-source framework for building multi-agent, swarmed intelligence built by Spectral Labs. With Beams, Prisms, Lenses, and Signals, it orchestrates AI-driven workflows to create truly autonomous organizations.</description>
   </item>
   <item>
-    <title>firezone / firezone</title>
-    <link>https://github.com/firezone/firezone</link>
-    <description>Enterprise-ready zero-trust access platform built on WireGuard®.</description>
+    <title>wintermeyer / vutuv</title>
+    <link>https://github.com/wintermeyer/vutuv</link>
+    <description>vutuv is a social network. Think of it as a fast, secure and less annoying open-source alternative for LinkedIn, Facebook and X.</description>
   </item>
   <item>
-    <title>supabase / realtime</title>
-    <link>https://github.com/supabase/realtime</link>
-    <description>Broadcast, Presence, and Postgres Changes via WebSockets</description>
+    <title>icoretech / codex-pooler</title>
+    <link>https://github.com/icoretech/codex-pooler</link>
+    <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
   </item>
   <item>
     <title>blockscout / blockscout</title>
@@ -36,9 +46,14 @@
     <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
   </item>
   <item>
-    <title>kieraneglin / pinchflat</title>
-    <link>https://github.com/kieraneglin/pinchflat</link>
-    <description>Your next YouTube media manager</description>
+    <title>firezone / firezone</title>
+    <link>https://github.com/firezone/firezone</link>
+    <description>Blazing-fast remote access</description>
+  </item>
+  <item>
+    <title>open-telemetry / opentelemetry-erlang-contrib</title>
+    <link>https://github.com/open-telemetry/opentelemetry-erlang-contrib</link>
+    <description>OpenTelemetry instrumentation for Erlang &amp; Elixir</description>
   </item>
 </channel>
 </rss>

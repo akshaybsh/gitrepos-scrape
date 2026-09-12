@@ -2,217 +2,17 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:55:27 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
   "items": [
     {
-      "title": "Stirling-Tools / Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "title": "yuliskov / SmartTube",
+      "url": "https://github.com/yuliskov/SmartTube",
+      "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 91730,
-      "forks": 8320,
-      "added_stars": "72 stars today"
-    },
-    {
-      "title": "agentscope-ai / agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "description": "Build distributed, production-grade, long-running agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5557,
-      "forks": 1336,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "adityatandon15 / Low-Level-Design-Course",
-      "url": "https://github.com/adityatandon15/Low-Level-Design-Course",
-      "description": "All Code of LLD Playlist",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1257,
-      "forks": 863,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "ashishps1 / awesome-low-level-design",
-      "url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26723,
-      "forks": 6478,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "apache / seatunnel",
-      "url": "https://github.com/apache/seatunnel",
-      "description": "SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9638,
-      "forks": 2401,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "xuxueli / xxl-job",
-      "url": "https://github.com/xuxueli/xxl-job",
-      "description": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 30543,
-      "forks": 11482,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "apache / flink",
-      "url": "https://github.com/apache/flink",
-      "description": "Apache Flink",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26331,
-      "forks": 14029,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "jeecgboot / JeecgBoot",
-      "url": "https://github.com/jeecgboot/JeecgBoot",
-      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 47734,
-      "forks": 16181,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "trinodb / trino",
-      "url": "https://github.com/trinodb/trino",
-      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13221,
-      "forks": 3774,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "zhukunpenglinyutong / jetbrains-cc-gui",
-      "url": "https://github.com/zhukunpenglinyutong/jetbrains-cc-gui",
-      "description": "Jetbrains Claude Code and Codex GUI Plugin",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 6100,
-      "forks": 654,
-      "added_stars": "38 stars today"
-    },
-    {
-      "title": "648540858 / wvp-GB28181-pro",
-      "url": "https://github.com/648540858/wvp-GB28181-pro",
-      "description": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 7311,
-      "forks": 2089,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "apache / iceberg",
-      "url": "https://github.com/apache/iceberg",
-      "description": "Apache Iceberg",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9221,
-      "forks": 3521,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "itwanger / toBeBetterJavaer",
-      "url": "https://github.com/itwanger/toBeBetterJavaer",
-      "description": "一份通俗易懂、风趣幽默的Java学习指南，内容涵盖Java基础、Java并发编程、Java虚拟机、Java企业级开发、Java面试等核心知识点。学Java，就认准二哥的Java进阶之路😄",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 17609,
-      "forks": 2488,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "kestra-io / kestra",
-      "url": "https://github.com/kestra-io/kestra",
-      "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28079,
-      "forks": 2986,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "ashishps1 / awesome-system-design-resources",
-      "url": "https://github.com/ashishps1/awesome-system-design-resources",
-      "description": "Learn System Design concepts and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 41329,
-      "forks": 8720,
-      "added_stars": "38 stars today"
-    },
-    {
-      "title": "Anuken / Mindustry",
-      "url": "https://github.com/Anuken/Mindustry",
-      "description": "The automation tower defense RTS",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28949,
-      "forks": 3761,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "woheller69 / FreeDroidWarn",
-      "url": "https://github.com/woheller69/FreeDroidWarn",
-      "description": "",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3383,
-      "forks": 126,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "OtterMind / Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "description": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 28108,
-      "forks": 3031,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "opendataloader-project / opendataloader-pdf",
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 29079,
-      "forks": 2775,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "apple / pkl",
-      "url": "https://github.com/apple/pkl",
-      "description": "A configuration as code language with rich validation and tooling.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 11516,
-      "forks": 402,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "DrKLO / Telegram",
-      "url": "https://github.com/DrKLO/Telegram",
-      "description": "Telegram for Android source",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 29845,
-      "forks": 10045,
-      "added_stars": "9 stars today"
+      "stars": 33051,
+      "forks": 2007,
+      "added_stars": "247 stars today"
     },
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -220,9 +20,179 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 74792,
-      "forks": 8157,
-      "added_stars": "88 stars today"
+      "stars": 74852,
+      "forks": 8162,
+      "added_stars": "66 stars today"
+    },
+    {
+      "title": "apache / flink",
+      "url": "https://github.com/apache/flink",
+      "description": "Apache Flink",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 26333,
+      "forks": 14027,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "AndreyPavlenko / Fermata",
+      "url": "https://github.com/AndreyPavlenko/Fermata",
+      "description": "",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1317,
+      "forks": 190,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 36731,
+      "forks": 8924,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "ashishps1 / awesome-system-design-resources",
+      "url": "https://github.com/ashishps1/awesome-system-design-resources",
+      "description": "Learn System Design concepts and prepare for interviews using free resources.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 41352,
+      "forks": 8723,
+      "added_stars": "40 stars today"
+    },
+    {
+      "title": "kestra-io / kestra",
+      "url": "https://github.com/kestra-io/kestra",
+      "description": "Event Driven Orchestration & Scheduling Platform for Mission Critical Applications",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 28096,
+      "forks": 2987,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "agentscope-ai / agentscope-java",
+      "url": "https://github.com/agentscope-ai/agentscope-java",
+      "description": "Build distributed, production-grade, long-running agents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5574,
+      "forks": 1345,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "iflytek / astron-agent",
+      "url": "https://github.com/iflytek/astron-agent",
+      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 8992,
+      "forks": 877,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "microg / GmsCore",
+      "url": "https://github.com/microg/GmsCore",
+      "description": "Free implementation of Play Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 14548,
+      "forks": 3156,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "github / copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 10471,
+      "forks": 1448,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "spring-projects / spring-security",
+      "url": "https://github.com/spring-projects/spring-security",
+      "description": "Spring Security",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9626,
+      "forks": 6338,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "AntennaPod / AntennaPod",
+      "url": "https://github.com/AntennaPod/AntennaPod",
+      "description": "A podcast manager for Android",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 8146,
+      "forks": 1778,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "StarRocks / starrocks",
+      "url": "https://github.com/StarRocks/starrocks",
+      "description": "The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 12100,
+      "forks": 2587,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "dbeaver / dbeaver",
+      "url": "https://github.com/dbeaver/dbeaver",
+      "description": "Free universal database tool and SQL client",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51735,
+      "forks": 4375,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "apache / doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15890,
+      "forks": 3936,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "AndroidIDEOfficial / AndroidIDE",
+      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3100,
+      "forks": 631,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "bazelbuild / bazel",
+      "url": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25837,
+      "forks": 4601,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "ArcadeData / arcadedb",
+      "url": "https://github.com/ArcadeData/arcadedb",
+      "description": "ArcadeDB Multi-Model Database, one DBMS that supports SQL, Cypher, Gremlin, HTTP/JSON, MongoDB and Redis. ArcadeDB is a conceptual fork of OrientDB, the first Multi-Model DBMS. ArcadeDB supports Vector Embeddings.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1150,
+      "forks": 139,
+      "added_stars": "6 stars today"
     }
   ]
 }

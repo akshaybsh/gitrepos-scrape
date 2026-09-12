@@ -2,7 +2,7 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
   "items": [
     {
       "title": "Lordog / dive-into-llms",
@@ -10,9 +10,9 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 53080,
-      "forks": 6355,
-      "added_stars": "1,464 stars this week"
+      "stars": 53200,
+      "forks": 6374,
+      "added_stars": "1,433 stars this week"
     },
     {
       "title": "jackfrued / Python-100-Days",
@@ -20,9 +20,9 @@
       "description": "Python - 100天从新手到大师",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 186266,
-      "forks": 55746,
-      "added_stars": "428 stars this week"
+      "stars": 186333,
+      "forks": 55751,
+      "added_stars": "440 stars this week"
     },
     {
       "title": "patchy631 / ai-engineering-hub",
@@ -30,9 +30,9 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 37474,
-      "forks": 6184,
-      "added_stars": "180 stars this week"
+      "stars": 37491,
+      "forks": 6185,
+      "added_stars": "176 stars this week"
     },
     {
       "title": "facebookresearch / segment-anything",
@@ -40,19 +40,9 @@
       "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 54842,
-      "forks": 6368,
-      "added_stars": "64 stars this week"
-    },
-    {
-      "title": "OpenBMB / MiniCPM",
-      "url": "https://github.com/OpenBMB/MiniCPM",
-      "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 10834,
-      "forks": 735,
-      "added_stars": "510 stars this week"
+      "stars": 54848,
+      "forks": 6370,
+      "added_stars": "71 stars this week"
     },
     {
       "title": "GokuMohandas / Made-With-ML",
@@ -60,19 +50,9 @@
       "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 49435,
-      "forks": 7763,
+      "stars": 49459,
+      "forks": 7766,
       "added_stars": "117 stars this week"
-    },
-    {
-      "title": "greyhatguy007 / Machine-Learning-Specialization-Coursera",
-      "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
-      "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 7904,
-      "forks": 3740,
-      "added_stars": "37 stars this week"
     },
     {
       "title": "CompVis / stable-diffusion",
@@ -80,9 +60,9 @@
       "description": "A latent text-to-image diffusion model",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 73411,
-      "forks": 10577,
-      "added_stars": "61 stars this week"
+      "stars": 73415,
+      "forks": 10578,
+      "added_stars": "67 stars this week"
     },
     {
       "title": "rlabbe / Kalman-and-Bayesian-Filters-in-Python",
@@ -90,9 +70,29 @@
       "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 19310,
-      "forks": 4520,
-      "added_stars": "67 stars this week"
+      "stars": 19320,
+      "forks": 4526,
+      "added_stars": "79 stars this week"
+    },
+    {
+      "title": "OpenBMB / MiniCPM",
+      "url": "https://github.com/OpenBMB/MiniCPM",
+      "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 10869,
+      "forks": 737,
+      "added_stars": "558 stars this week"
+    },
+    {
+      "title": "microsoft / ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 90394,
+      "forks": 22267,
+      "added_stars": "287 stars this week"
     },
     {
       "title": "FareedKhan-dev / all-agentic-architectures",
@@ -100,9 +100,39 @@
       "description": "35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 4479,
-      "forks": 762,
-      "added_stars": "203 stars this week"
+      "stars": 4486,
+      "forks": 763,
+      "added_stars": "208 stars this week"
+    },
+    {
+      "title": "openai / openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 75929,
+      "forks": 12852,
+      "added_stars": "200 stars this week"
+    },
+    {
+      "title": "karpathy / nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 24348,
+      "forks": 3566,
+      "added_stars": "105 stars this week"
+    },
+    {
+      "title": "pathwaycom / llm-app",
+      "url": "https://github.com/pathwaycom/llm-app",
+      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 58939,
+      "forks": 1492,
+      "added_stars": "80 stars this week"
     },
     {
       "title": "GoogleCloudPlatform / python-docs-samples",
@@ -111,68 +141,8 @@
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
       "stars": 8131,
-      "forks": 6739,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "pathwaycom / llm-app",
-      "url": "https://github.com/pathwaycom/llm-app",
-      "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 58938,
-      "forks": 1490,
-      "added_stars": "72 stars this week"
-    },
-    {
-      "title": "DataTalksClub / llm-zoomcamp",
-      "url": "https://github.com/DataTalksClub/llm-zoomcamp",
-      "description": "LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 7257,
-      "forks": 1342,
-      "added_stars": "70 stars this week"
-    },
-    {
-      "title": "openai / openai-cookbook",
-      "url": "https://github.com/openai/openai-cookbook",
-      "description": "Examples and guides for using the OpenAI API",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 75907,
-      "forks": 12845,
-      "added_stars": "194 stars this week"
-    },
-    {
-      "title": "microsoft / ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 90348,
-      "forks": 22255,
-      "added_stars": "273 stars this week"
-    },
-    {
-      "title": "karpathy / nn-zero-to-hero",
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 24338,
-      "forks": 3565,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "ed-donner / llm_engineering",
-      "url": "https://github.com/ed-donner/llm_engineering",
-      "description": "Repo to accompany my mastering LLM engineering course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 7348,
-      "forks": 7161,
-      "added_stars": "66 stars this week"
+      "forks": 6737,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "langchain-ai / rag-from-scratch",
@@ -180,9 +150,39 @@
       "description": "",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 9294,
+      "stars": 9300,
       "forks": 2197,
-      "added_stars": "52 stars this week"
+      "added_stars": "53 stars this week"
+    },
+    {
+      "title": "jakevdp / PythonDataScienceHandbook",
+      "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+      "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 49847,
+      "forks": 19111,
+      "added_stars": "68 stars this week"
+    },
+    {
+      "title": "greyhatguy007 / Machine-Learning-Specialization-Coursera",
+      "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+      "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 7902,
+      "forks": 3741,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "facebookresearch / sam2",
+      "url": "https://github.com/facebookresearch/sam2",
+      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 19850,
+      "forks": 2544,
+      "added_stars": "46 stars this week"
     },
     {
       "title": "openai / CLIP",
@@ -190,29 +190,9 @@
       "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 34285,
+      "stars": 34286,
       "forks": 4048,
-      "added_stars": "42 stars this week"
-    },
-    {
-      "title": "anthropics / prompt-eng-interactive-tutorial",
-      "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
-      "description": "Anthropic's Interactive Prompt Engineering Tutorial",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 38124,
-      "forks": 4222,
-      "added_stars": "109 stars this week"
-    },
-    {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6146,
-      "forks": 5298,
-      "added_stars": "58 stars this week"
+      "added_stars": "41 stars this week"
     }
   ]
 }

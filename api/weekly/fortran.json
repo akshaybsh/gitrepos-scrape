@@ -2,8 +2,18 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
   "items": [
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 405,
+      "forks": 759,
+      "added_stars": "1 star this week"
+    },
     {
       "title": "OpenFAST / openfast",
       "url": "https://github.com/OpenFAST/openfast",
@@ -12,7 +22,17 @@
       "languageColor": "#4d41b1",
       "stars": 966,
       "forks": 538,
-      "added_stars": "6 stars this week"
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1753,
+      "forks": 882,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "E3SM-Project / E3SM",
@@ -25,34 +45,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 759,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "cp2k / cp2k",
       "url": "https://github.com/cp2k/cp2k",
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 1205,
-      "forks": 496,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1752,
-      "forks": 881,
-      "added_stars": "5 stars this week"
+      "forks": 497,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -60,9 +60,9 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1701,
+      "stars": 1702,
       "forks": 396,
-      "added_stars": "12 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
       "title": "firemodels / fds",
@@ -70,9 +70,9 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 871,
-      "forks": 687,
-      "added_stars": "4 stars this week"
+      "stars": 873,
+      "forks": 688,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "MetOffice / jules",

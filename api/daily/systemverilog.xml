@@ -4,12 +4,7 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:55:27 GMT</pubDate>
-  <item>
-    <title>openhwgroup / cvw</title>
-    <link>https://github.com/openhwgroup/cvw</link>
-    <description>CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</description>
-  </item>
+  <pubDate>Sat, 12 Sep 2026 06:47:23 GMT</pubDate>
   <item>
     <title>lowRISC / opentitan</title>
     <link>https://github.com/lowRISC/opentitan</link>
@@ -21,9 +16,19 @@
     <description>Verilator open-source SystemVerilog simulator and lint system</description>
   </item>
   <item>
+    <title>pulp-platform / axi</title>
+    <link>https://github.com/pulp-platform/axi</link>
+    <description>AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</description>
+  </item>
+  <item>
     <title>lowRISC / ibex</title>
     <link>https://github.com/lowRISC/ibex</link>
     <description>Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)</description>
+  </item>
+  <item>
+    <title>openhwgroup / cvw</title>
+    <link>https://github.com/openhwgroup/cvw</link>
+    <description>CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</description>
   </item>
 </channel>
 </rss>

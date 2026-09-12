@@ -4,16 +4,16 @@
   <title>GitHub Daily Trending</title>
   <description>Daily Trending of All Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:56:41 GMT</pubDate>
-  <item>
-    <title>affaan-m / ECC</title>
-    <link>https://github.com/affaan-m/ECC</link>
-    <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
-  </item>
+  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
   <item>
     <title>ayghri / i-have-adhd</title>
     <link>https://github.com/ayghri/i-have-adhd</link>
     <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
+  </item>
+  <item>
+    <title>affaan-m / ECC</title>
+    <link>https://github.com/affaan-m/ECC</link>
+    <description>The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.</description>
   </item>
   <item>
     <title>DietrichGebert / ponytail</title>
@@ -21,19 +21,9 @@
     <description>Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.</description>
   </item>
   <item>
-    <title>tt-a1i / archify</title>
-    <link>https://github.com/tt-a1i/archify</link>
-    <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
-  </item>
-  <item>
-    <title>fmtlib / fmt</title>
-    <link>https://github.com/fmtlib/fmt</link>
-    <description>A modern formatting library</description>
-  </item>
-  <item>
-    <title>mattpocock / skills</title>
-    <link>https://github.com/mattpocock/skills</link>
-    <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+    <title>humanlayer / skills</title>
+    <link>https://github.com/humanlayer/skills</link>
+    <description></description>
   </item>
   <item>
     <title>openai / plugins</title>
@@ -41,14 +31,24 @@
     <description>OpenAI Plugins</description>
   </item>
   <item>
-    <title>blader / humanizer</title>
-    <link>https://github.com/blader/humanizer</link>
-    <description>Agent skill that removes signs of AI-generated writing from text</description>
+    <title>tt-a1i / archify</title>
+    <link>https://github.com/tt-a1i/archify</link>
+    <description>Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.</description>
   </item>
   <item>
     <title>mksglu / context-mode</title>
     <link>https://github.com/mksglu/context-mode</link>
     <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
+  </item>
+  <item>
+    <title>mattpocock / skills</title>
+    <link>https://github.com/mattpocock/skills</link>
+    <description>Skills for Real Engineers. Straight from my .agents directory.</description>
+  </item>
+  <item>
+    <title>blader / humanizer</title>
+    <link>https://github.com/blader/humanizer</link>
+    <description>Agent skill that removes signs of AI-generated writing from text</description>
   </item>
   <item>
     <title>openai / skills</title>
@@ -61,44 +61,14 @@
     <description>Write HTML. Render video. Built for agents.</description>
   </item>
   <item>
-    <title>ChromeDevTools / chrome-devtools-mcp</title>
-    <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
-    <description>Chrome DevTools for coding agents</description>
-  </item>
-  <item>
-    <title>NousResearch / hermes-agent</title>
-    <link>https://github.com/NousResearch/hermes-agent</link>
-    <description>The agent that grows with you</description>
-  </item>
-  <item>
-    <title>coreyhaines31 / marketingskills</title>
-    <link>https://github.com/coreyhaines31/marketingskills</link>
-    <description>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</description>
-  </item>
-  <item>
     <title>cathrynlavery / diagram-design</title>
     <link>https://github.com/cathrynlavery/diagram-design</link>
     <description>38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.</description>
   </item>
   <item>
-    <title>microsoft / markitdown</title>
-    <link>https://github.com/microsoft/markitdown</link>
-    <description>Python tool for converting files and office documents to Markdown.</description>
-  </item>
-  <item>
-    <title>ruvnet / ruflo</title>
-    <link>https://github.com/ruvnet/ruflo</link>
-    <description>🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
-  </item>
-  <item>
-    <title>THU-MAIC / OpenMAIC</title>
-    <link>https://github.com/THU-MAIC/OpenMAIC</link>
-    <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
-  </item>
-  <item>
-    <title>anthropics / skills</title>
-    <link>https://github.com/anthropics/skills</link>
-    <description>Public repository for Agent Skills</description>
+    <title>fmtlib / fmt</title>
+    <link>https://github.com/fmtlib/fmt</link>
+    <description>A modern formatting library</description>
   </item>
   <item>
     <title>bilawalsidhu / gods-eye-view</title>
@@ -106,14 +76,49 @@
     <description>A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.</description>
   </item>
   <item>
+    <title>coreyhaines31 / marketingskills</title>
+    <link>https://github.com/coreyhaines31/marketingskills</link>
+    <description>Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.</description>
+  </item>
+  <item>
+    <title>ChromeDevTools / chrome-devtools-mcp</title>
+    <link>https://github.com/ChromeDevTools/chrome-devtools-mcp</link>
+    <description>Chrome DevTools for coding agents</description>
+  </item>
+  <item>
+    <title>microsoft / markitdown</title>
+    <link>https://github.com/microsoft/markitdown</link>
+    <description>Python tool for converting files and office documents to Markdown.</description>
+  </item>
+  <item>
+    <title>NousResearch / hermes-agent</title>
+    <link>https://github.com/NousResearch/hermes-agent</link>
+    <description>The agent that grows with you</description>
+  </item>
+  <item>
+    <title>ruvnet / ruflo</title>
+    <link>https://github.com/ruvnet/ruflo</link>
+    <description>🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated</description>
+  </item>
+  <item>
+    <title>THU-MAIC / OpenMAIC</title>
+    <link>https://github.com/THU-MAIC/OpenMAIC</link>
+    <description>Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click</description>
+  </item>
+  <item>
+    <title>Tencent / WeKnora</title>
+    <link>https://github.com/Tencent/WeKnora</link>
+    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
+  </item>
+  <item>
+    <title>jakubkrehel / skills</title>
+    <link>https://github.com/jakubkrehel/skills</link>
+    <description>A collection of agent skills that help you build a great interface.</description>
+  </item>
+  <item>
     <title>every-app / open-seo</title>
     <link>https://github.com/every-app/open-seo</link>
     <description>Open source alternative to Semrush and Ahrefs</description>
-  </item>
-  <item>
-    <title>anomalyco / opencode</title>
-    <link>https://github.com/anomalyco/opencode</link>
-    <description>The open source coding agent.</description>
   </item>
 </channel>
 </rss>

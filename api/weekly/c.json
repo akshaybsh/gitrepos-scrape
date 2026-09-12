@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:56:41 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
   "items": [
     {
       "title": "facebook / zstd",
@@ -10,9 +10,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27828,
-      "forks": 2594,
-      "added_stars": "136 stars this week"
+      "stars": 27836,
+      "forks": 2597,
+      "added_stars": "142 stars this week"
     },
     {
       "title": "doldecomp / melee",
@@ -20,29 +20,9 @@
       "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2108,
-      "forks": 289,
-      "added_stars": "1,040 stars this week"
-    },
-    {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15938,
-      "forks": 1779,
-      "added_stars": "162 stars this week"
-    },
-    {
-      "title": "DaveGamble / cJSON",
-      "url": "https://github.com/DaveGamble/cJSON",
-      "description": "Ultralightweight JSON parser in ANSI C",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12987,
-      "forks": 3520,
-      "added_stars": "17 stars this week"
+      "stars": 2144,
+      "forks": 297,
+      "added_stars": "1,102 stars this week"
     },
     {
       "title": "NebuSec / CyberMeowfia",
@@ -50,19 +30,29 @@
       "description": "PoCs and exploits for CVEs discovered by NebuSec.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1629,
+      "stars": 1631,
       "forks": 414,
-      "added_stars": "123 stars this week"
+      "added_stars": "119 stars this week"
     },
     {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "title": "winsiderss / systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13939,
-      "forks": 2220,
-      "added_stars": "139 stars this week"
+      "stars": 15956,
+      "forks": 1782,
+      "added_stars": "167 stars this week"
+    },
+    {
+      "title": "DaveGamble / cJSON",
+      "url": "https://github.com/DaveGamble/cJSON",
+      "description": "Ultralightweight JSON parser in ANSI C",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12990,
+      "forks": 3520,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "curl / curl",
@@ -70,29 +60,19 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42828,
-      "forks": 7349,
-      "added_stars": "106 stars this week"
+      "stars": 42834,
+      "forks": 7351,
+      "added_stars": "105 stars this week"
     },
     {
-      "title": "maharmstone / btrfs",
-      "url": "https://github.com/maharmstone/btrfs",
-      "description": "WinBtrfs - an open-source btrfs driver for Windows",
+      "title": "libretro / RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7755,
-      "forks": 310,
-      "added_stars": "54 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16481,
-      "forks": 9947,
-      "added_stars": "86 stars this week"
+      "stars": 13951,
+      "forks": 2221,
+      "added_stars": "133 stars this week"
     },
     {
       "title": "obsproject / obs-studio",
@@ -100,29 +80,19 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 76047,
-      "forks": 10113,
-      "added_stars": "292 stars this week"
+      "stars": 76081,
+      "forks": 10127,
+      "added_stars": "280 stars this week"
     },
     {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 149354,
-      "forks": 13730,
-      "added_stars": "559 stars this week"
-    },
-    {
-      "title": "armory3d / armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4519,
-      "forks": 522,
-      "added_stars": "257 stars this week"
+      "stars": 16490,
+      "forks": 9957,
+      "added_stars": "92 stars this week"
     },
     {
       "title": "openwrt / openwrt",
@@ -130,9 +100,29 @@
       "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28358,
-      "forks": 12932,
-      "added_stars": "117 stars this week"
+      "stars": 28366,
+      "forks": 12935,
+      "added_stars": "100 stars this week"
+    },
+    {
+      "title": "radareorg / radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24778,
+      "forks": 3315,
+      "added_stars": "55 stars this week"
+    },
+    {
+      "title": "armory3d / armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4781,
+      "forks": 537,
+      "added_stars": "614 stars this week"
     },
     {
       "title": "coredevices / PebbleOS",
@@ -140,19 +130,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1411,
-      "forks": 283,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "ffmpegwasm / ffmpeg.wasm",
-      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
-      "description": "FFmpeg for browser, powered by WebAssembly",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17800,
-      "forks": 1109,
-      "added_stars": "26 stars this week"
+      "stars": 1412,
+      "forks": 284,
+      "added_stars": "36 stars this week"
     },
     {
       "title": "git / git",
@@ -160,9 +140,59 @@
       "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63101,
-      "forks": 28380,
-      "added_stars": "159 stars this week"
+      "stars": 63112,
+      "forks": 28393,
+      "added_stars": "150 stars this week"
+    },
+    {
+      "title": "ffmpegwasm / ffmpeg.wasm",
+      "url": "https://github.com/ffmpegwasm/ffmpeg.wasm",
+      "description": "FFmpeg for browser, powered by WebAssembly",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17801,
+      "forks": 1109,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "maharmstone / btrfs",
+      "url": "https://github.com/maharmstone/btrfs",
+      "description": "WinBtrfs - an open-source btrfs driver for Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7762,
+      "forks": 310,
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "meshcore-dev / MeshCore",
+      "url": "https://github.com/meshcore-dev/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3645,
+      "forks": 1315,
+      "added_stars": "54 stars this week"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 874,
+      "forks": 237,
+      "added_stars": "63 stars this week"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 149432,
+      "forks": 13737,
+      "added_stars": "568 stars this week"
     },
     {
       "title": "microsoft / PowerToys",
@@ -170,39 +200,9 @@
       "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 138552,
-      "forks": 8549,
-      "added_stars": "281 stars this week"
-    },
-    {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14533,
-      "forks": 3394,
-      "added_stars": "49 stars this week"
-    },
-    {
-      "title": "QwenAudio / SenseVoice",
-      "url": "https://github.com/QwenAudio/SenseVoice",
-      "description": "Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 9291,
-      "forks": 823,
-      "added_stars": "72 stars this week"
-    },
-    {
-      "title": "rexglue / rexglue-sdk",
-      "url": "https://github.com/rexglue/rexglue-sdk",
-      "description": "Xbox 360 Recompilation Runtime and Toolkit",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 868,
-      "forks": 115,
-      "added_stars": "30 stars this week"
+      "stars": 138569,
+      "forks": 8556,
+      "added_stars": "270 stars this week"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub C# Languages Daily Trending</title>
   <description>Daily Trending of C# Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
   <item>
     <title>armory3d / armorpaint</title>
     <link>https://github.com/armory3d/armorpaint</link>
@@ -16,29 +16,9 @@
     <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
   </item>
   <item>
-    <title>doldecomp / melee</title>
-    <link>https://github.com/doldecomp/melee</link>
-    <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
-  </item>
-  <item>
-    <title>facebook / zstd</title>
-    <link>https://github.com/facebook/zstd</link>
-    <description>Zstandard - Fast real-time compression algorithm</description>
-  </item>
-  <item>
-    <title>voidtools / voidImageViewer</title>
-    <link>https://github.com/voidtools/voidImageViewer</link>
-    <description>Lightweight image viewer for Windows with animated GIF/WEBP support</description>
-  </item>
-  <item>
-    <title>NVIDIA-RTX / Streamline</title>
-    <link>https://github.com/NVIDIA-RTX/Streamline</link>
-    <description>Streamline Integration Framework</description>
-  </item>
-  <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
+    <title>tianocore / edk2</title>
+    <link>https://github.com/tianocore/edk2</link>
+    <description>EDK II</description>
   </item>
   <item>
     <title>willfaust / Madeira</title>
@@ -46,24 +26,29 @@
     <description>Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</description>
   </item>
   <item>
-    <title>FreeRDP / FreeRDP</title>
-    <link>https://github.com/FreeRDP/FreeRDP</link>
-    <description>FreeRDP is a free remote desktop protocol library and clients</description>
-  </item>
-  <item>
-    <title>colbymchenry / codegraph</title>
-    <link>https://github.com/colbymchenry/codegraph</link>
-    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
-  </item>
-  <item>
-    <title>tmux / tmux</title>
-    <link>https://github.com/tmux/tmux</link>
-    <description>tmux source code</description>
-  </item>
-  <item>
     <title>timescale / timescaledb</title>
     <link>https://github.com/timescale/timescaledb</link>
     <description>A time-series database for high-performance real-time analytics packaged as a Postgres extension</description>
+  </item>
+  <item>
+    <title>srwi / EverythingToolbar</title>
+    <link>https://github.com/srwi/EverythingToolbar</link>
+    <description>Everything integration for the Windows taskbar.</description>
+  </item>
+  <item>
+    <title>yugabyte / yugabyte-db</title>
+    <link>https://github.com/yugabyte/yugabyte-db</link>
+    <description>YugabyteDB - the cloud native distributed SQL database for mission-critical applications.</description>
+  </item>
+  <item>
+    <title>libsdl-org / SDL</title>
+    <link>https://github.com/libsdl-org/SDL</link>
+    <description>Simple DirectMedia Layer</description>
+  </item>
+  <item>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
     <title>dorianborian / sesame-robot</title>
@@ -71,39 +56,34 @@
     <description>An open and affordable mini quadruped robot based on ESP32.</description>
   </item>
   <item>
-    <title>HarbourMasters / Shipwright</title>
-    <link>https://github.com/HarbourMasters/Shipwright</link>
-    <description></description>
+    <title>jqlang / jq</title>
+    <link>https://github.com/jqlang/jq</link>
+    <description>Command-line JSON processor</description>
   </item>
   <item>
-    <title>mpv-player / mpv</title>
-    <link>https://github.com/mpv-player/mpv</link>
-    <description>🎥 Command line media player</description>
+    <title>reactos / reactos</title>
+    <link>https://github.com/reactos/reactos</link>
+    <description>A free Windows-compatible Operating System</description>
   </item>
   <item>
-    <title>vedderb / bldc</title>
-    <link>https://github.com/vedderb/bldc</link>
-    <description>The VESC motor control firmware</description>
+    <title>espressif / esp-drone</title>
+    <link>https://github.com/espressif/esp-drone</link>
+    <description>Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.</description>
   </item>
   <item>
-    <title>karpathy / llama2.c</title>
-    <link>https://github.com/karpathy/llama2.c</link>
-    <description>Inference Llama 2 in one file of pure C</description>
+    <title>CTCaer / hekate</title>
+    <link>https://github.com/CTCaer/hekate</link>
+    <description>hekate - A GUI based Nintendo Switch Bootloader</description>
   </item>
   <item>
-    <title>radareorg / radare2</title>
-    <link>https://github.com/radareorg/radare2</link>
-    <description>UNIX-like reverse engineering framework and command-line toolset</description>
+    <title>littlefs-project / littlefs</title>
+    <link>https://github.com/littlefs-project/littlefs</link>
+    <description>A little fail-safe filesystem designed for microcontrollers</description>
   </item>
   <item>
     <title>valinet / ExplorerPatcher</title>
     <link>https://github.com/valinet/ExplorerPatcher</link>
     <description>This project aims to enhance the working environment on Windows</description>
-  </item>
-  <item>
-    <title>signalwire / freeswitch</title>
-    <link>https://github.com/signalwire/freeswitch</link>
-    <description>FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.</description>
   </item>
 </channel>
 </rss>

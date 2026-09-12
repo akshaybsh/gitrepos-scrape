@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
     {
       "title": "JuliaRegistries / General",
@@ -11,8 +11,8 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 731,
-      "forks": 603,
-      "added_stars": "5 stars this month"
+      "forks": 604,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "CliMA / ClimaCoupler.jl",
@@ -45,16 +45,6 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "JuliaLang / julia",
-      "url": "https://github.com/JuliaLang/julia",
-      "description": "The Julia Programming Language",
-      "language": "Julia",
-      "languageColor": "#a270ba",
-      "stars": 49088,
-      "forks": 5973,
-      "added_stars": "172 stars this month"
-    },
-    {
       "title": "CliMA / ClimaCore.jl",
       "url": "https://github.com/CliMA/ClimaCore.jl",
       "description": "GPU-capable dynamical core for the CliMA Earth System Model: spectral-element and finite-difference discretization tools",
@@ -65,14 +55,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "EnzymeAD / Enzyme.jl",
-      "url": "https://github.com/EnzymeAD/Enzyme.jl",
-      "description": "Julia bindings for the Enzyme automatic differentiator",
+      "title": "JuliaLang / julia",
+      "url": "https://github.com/JuliaLang/julia",
+      "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 586,
-      "forks": 106,
-      "added_stars": "7 stars this month"
+      "stars": 49093,
+      "forks": 5973,
+      "added_stars": "173 stars this month"
     },
     {
       "title": "MakieOrg / Makie.jl",
@@ -85,14 +75,54 @@
       "added_stars": "11 stars this month"
     },
     {
+      "title": "EnzymeAD / Enzyme.jl",
+      "url": "https://github.com/EnzymeAD/Enzyme.jl",
+      "description": "Julia bindings for the Enzyme automatic differentiator",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 586,
+      "forks": 107,
+      "added_stars": "7 stars this month"
+    },
+    {
       "title": "SciML / OrdinaryDiffEq.jl",
       "url": "https://github.com/SciML/OrdinaryDiffEq.jl",
       "description": "High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 678,
+      "stars": 683,
       "forks": 274,
+      "added_stars": "15 stars this month"
+    },
+    {
+      "title": "SciML / ModelingToolkit.jl",
+      "url": "https://github.com/SciML/ModelingToolkit.jl",
+      "description": "An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1664,
+      "forks": 268,
       "added_stars": "12 stars this month"
+    },
+    {
+      "title": "trixi-framework / Trixi.jl",
+      "url": "https://github.com/trixi-framework/Trixi.jl",
+      "description": "Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 730,
+      "forks": 166,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "jump-dev / MathOptInterface.jl",
+      "url": "https://github.com/jump-dev/MathOptInterface.jl",
+      "description": "A data structure for mathematical optimization problems",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 504,
+      "forks": 101,
+      "added_stars": "2 stars this month"
     }
   ]
 }

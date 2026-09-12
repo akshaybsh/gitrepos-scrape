@@ -4,11 +4,11 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 11 Sep 2026 06:58:56 GMT</pubDate>
+  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
   <item>
-    <title>deepseek-ai / DeepGEMM</title>
-    <link>https://github.com/deepseek-ai/DeepGEMM</link>
-    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
+    <title>flashinfer-ai / flashinfer</title>
+    <link>https://github.com/flashinfer-ai/flashinfer</link>
+    <description>FlashInfer: Kernel Library for LLM Serving</description>
   </item>
   <item>
     <title>deepseek-ai / DeepEP</title>
@@ -16,9 +16,9 @@
     <description>DeepEP: an efficient expert-parallel communication library</description>
   </item>
   <item>
-    <title>flashinfer-ai / flashinfer</title>
-    <link>https://github.com/flashinfer-ai/flashinfer</link>
-    <description>FlashInfer: Kernel Library for LLM Serving</description>
+    <title>deepseek-ai / DeepGEMM</title>
+    <link>https://github.com/deepseek-ai/DeepGEMM</link>
+    <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
   </item>
   <item>
     <title>thu-ml / SageAttention</title>
@@ -46,11 +46,6 @@
     <description>GPU accelerated decision optimization</description>
   </item>
   <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
-  </item>
-  <item>
     <title>NVlabs / instant-ngp</title>
     <link>https://github.com/NVlabs/instant-ngp</link>
     <description>Instant neural graphics primitives: lightning fast NeRF and more</description>
@@ -59,6 +54,11 @@
     <title>HazyResearch / ThunderKittens</title>
     <link>https://github.com/HazyResearch/ThunderKittens</link>
     <description>Tile primitives for speedy kernels</description>
+  </item>
+  <item>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
     <title>NVIDIA / cuCollections</title>
@@ -76,14 +76,14 @@
     <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
-    <title>rapidsai / cugraph</title>
-    <link>https://github.com/rapidsai/cugraph</link>
-    <description>cuGraph - RAPIDS Graph Analytics Library</description>
-  </item>
-  <item>
     <title>NVIDIA / cudf-spark-jni</title>
     <link>https://github.com/NVIDIA/cudf-spark-jni</link>
     <description>NVIDIA cuDF plugin JNI For Apache Spark</description>
+  </item>
+  <item>
+    <title>rapidsai / cugraph</title>
+    <link>https://github.com/rapidsai/cugraph</link>
+    <description>cuGraph - RAPIDS Graph Analytics Library</description>
   </item>
 </channel>
 </rss>

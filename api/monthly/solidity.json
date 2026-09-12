@@ -2,18 +2,8 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 11 Sep 2026 06:58:56 GMT",
+  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
   "items": [
-    {
-      "title": "OpenZeppelin / openzeppelin-contracts",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 27237,
-      "forks": 12402,
-      "added_stars": "70 stars this month"
-    },
     {
       "title": "Uniswap / v4-core",
       "url": "https://github.com/Uniswap/v4-core",
@@ -35,6 +25,16 @@
       "added_stars": "10 stars this month"
     },
     {
+      "title": "OpenZeppelin / openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 27240,
+      "forks": 12398,
+      "added_stars": "70 stars this month"
+    },
+    {
       "title": "across-protocol / contracts",
       "url": "https://github.com/across-protocol/contracts",
       "description": "Smart contracts for Across protocol",
@@ -42,146 +42,6 @@
       "languageColor": "#AA6746",
       "stars": 152,
       "forks": 94,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 754,
-      "forks": 1056,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 904,
-      "forks": 663,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "a16z / erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 224,
-      "forks": 44,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "GNSPS / solidity-bytes-utils",
-      "url": "https://github.com/GNSPS/solidity-bytes-utils",
-      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 562,
-      "forks": 113,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "foundry-rs / forge-std",
-      "url": "https://github.com/foundry-rs/forge-std",
-      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1055,
-      "forks": 520,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "0xProject / 0x-settler",
-      "url": "https://github.com/0xProject/0x-settler",
-      "description": "0x settlement contracts using Permit2",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 113,
-      "forks": 73,
-      "added_stars": "8 stars this month"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4285,
-      "forks": 707,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "dapphub / ds-test",
-      "url": "https://github.com/dapphub/ds-test",
-      "description": "Assertions, equality checks and other test helpers",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 239,
-      "forks": 76,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "Uniswap / UniswapX",
-      "url": "https://github.com/Uniswap/UniswapX",
-      "description": "🦄 Gasless ERC20 swap settlement protocol 🦄",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 466,
-      "forks": 135,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho's non-custodial vault protocol",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 101,
-      "forks": 75,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 205,
-      "forks": 126,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "celo-org / celo-monorepo",
-      "url": "https://github.com/celo-org/celo-monorepo",
-      "description": "Official repository for core projects comprising the Celo platform",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 805,
-      "forks": 479,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "Uniswap / permit2",
-      "url": "https://github.com/Uniswap/permit2",
-      "description": "🔑🔑🔑 next generation token approvals mechanism",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 944,
-      "forks": 299,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "Arachnid / solidity-stringutils",
-      "url": "https://github.com/Arachnid/solidity-stringutils",
-      "description": "Basic string utilities for Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 1154,
-      "forks": 371,
       "added_stars": "1 star this month"
     }
   ]
