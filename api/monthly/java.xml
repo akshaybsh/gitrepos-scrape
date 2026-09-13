@@ -4,16 +4,11 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
-  </item>
-  <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
     <title>crimera / piko</title>
@@ -21,14 +16,14 @@
     <description>morphe patches for twitter and instagram</description>
   </item>
   <item>
-    <title>languagetool-org / languagetool</title>
-    <link>https://github.com/languagetool-org/languagetool</link>
-    <description>Style and Grammar Checker for 25+ Languages</description>
-  </item>
-  <item>
     <title>karma9874 / AndroRAT</title>
     <link>https://github.com/karma9874/AndroRAT</link>
     <description>A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</description>
+  </item>
+  <item>
+    <title>languagetool-org / languagetool</title>
+    <link>https://github.com/languagetool-org/languagetool</link>
+    <description>Style and Grammar Checker for 25+ Languages</description>
   </item>
   <item>
     <title>TeamNewPipe / NewPipe</title>
@@ -39,6 +34,11 @@
     <title>checkstyle / checkstyle</title>
     <link>https://github.com/checkstyle/checkstyle</link>
     <description>Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.</description>
+  </item>
+  <item>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
     <title>traccar / traccar</title>
@@ -56,11 +56,6 @@
     <description>Open Source Identity and Access Management For Modern Applications and Services</description>
   </item>
   <item>
-    <title>microg / GmsCore</title>
-    <link>https://github.com/microg/GmsCore</link>
-    <description>Free implementation of Play Services</description>
-  </item>
-  <item>
     <title>JabRef / jabref</title>
     <link>https://github.com/JabRef/jabref</link>
     <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
@@ -71,19 +66,9 @@
     <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
   </item>
   <item>
-    <title>zaproxy / zaproxy</title>
-    <link>https://github.com/zaproxy/zaproxy</link>
-    <description>The ZAP by Checkmarx Core project</description>
-  </item>
-  <item>
-    <title>DrKLO / Telegram</title>
-    <link>https://github.com/DrKLO/Telegram</link>
-    <description>Telegram for Android source</description>
-  </item>
-  <item>
-    <title>bazelbuild / bazel</title>
-    <link>https://github.com/bazelbuild/bazel</link>
-    <description>a fast, scalable, multi-language and extensible build system</description>
+    <title>ZCShou / GoGoGo</title>
+    <link>https://github.com/ZCShou/GoGoGo</link>
+    <description>一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆</description>
   </item>
   <item>
     <title>WuKongOpenSource / Wukong-AICRM</title>
@@ -91,9 +76,29 @@
     <description>开源 AI CRM，Salesforce 开源替代 + ChatGPT 式 AI 助手：客户管理、知识库查询、任务执行，全程对话完成。Open-source AI CRM and Salesforce alternative powered by conversational AI.</description>
   </item>
   <item>
+    <title>spring-projects / spring-security</title>
+    <link>https://github.com/spring-projects/spring-security</link>
+    <description>Spring Security</description>
+  </item>
+  <item>
+    <title>bazelbuild / bazel</title>
+    <link>https://github.com/bazelbuild/bazel</link>
+    <description>a fast, scalable, multi-language and extensible build system</description>
+  </item>
+  <item>
+    <title>DrKLO / Telegram</title>
+    <link>https://github.com/DrKLO/Telegram</link>
+    <description>Telegram for Android source</description>
+  </item>
+  <item>
     <title>apache / dubbo</title>
     <link>https://github.com/apache/dubbo</link>
     <description>The java implementation of Apache Dubbo. An RPC and microservice framework.</description>
+  </item>
+  <item>
+    <title>emanuele-f / PCAPdroid</title>
+    <link>https://github.com/emanuele-f/PCAPdroid</link>
+    <description>No-root network monitor, firewall and PCAP dumper for Android</description>
   </item>
   <item>
     <title>xuxueli / xxl-job</title>
@@ -101,14 +106,9 @@
     <description>A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）</description>
   </item>
   <item>
-    <title>zalexdev / strykerapp</title>
-    <link>https://github.com/zalexdev/strykerapp</link>
-    <description>Magic tool for pentest from your android device!</description>
-  </item>
-  <item>
-    <title>StarRocks / starrocks</title>
-    <link>https://github.com/StarRocks/starrocks</link>
-    <description>The world&#x27;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</description>
+    <title>termux / termux-api</title>
+    <link>https://github.com/termux/termux-api</link>
+    <description>Termux add-on app which exposes device functionality as API to command line programs.</description>
   </item>
   <item>
     <title>booklore-app / booklore</title>
@@ -116,9 +116,9 @@
     <description>BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.</description>
   </item>
   <item>
-    <title>termux / termux-api</title>
-    <link>https://github.com/termux/termux-api</link>
-    <description>Termux add-on app which exposes device functionality as API to command line programs.</description>
+    <title>zalexdev / strykerapp</title>
+    <link>https://github.com/zalexdev/strykerapp</link>
+    <description>Magic tool for pentest from your android device!</description>
   </item>
 </channel>
 </rss>

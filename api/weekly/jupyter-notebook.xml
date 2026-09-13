@@ -4,7 +4,7 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
   <item>
     <title>Lordog / dive-into-llms</title>
     <link>https://github.com/Lordog/dive-into-llms</link>
@@ -16,9 +16,24 @@
     <description>Python - 100天从新手到大师</description>
   </item>
   <item>
+    <title>rlabbe / Kalman-and-Bayesian-Filters-in-Python</title>
+    <link>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</link>
+    <description>Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</description>
+  </item>
+  <item>
+    <title>pathwaycom / llm-app</title>
+    <link>https://github.com/pathwaycom/llm-app</link>
+    <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
+  </item>
+  <item>
     <title>patchy631 / ai-engineering-hub</title>
     <link>https://github.com/patchy631/ai-engineering-hub</link>
     <description>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</description>
+  </item>
+  <item>
+    <title>CompVis / stable-diffusion</title>
+    <link>https://github.com/CompVis/stable-diffusion</link>
+    <description>A latent text-to-image diffusion model</description>
   </item>
   <item>
     <title>facebookresearch / segment-anything</title>
@@ -31,16 +46,6 @@
     <description>Learn how to develop, deploy and iterate on production-grade ML applications.</description>
   </item>
   <item>
-    <title>CompVis / stable-diffusion</title>
-    <link>https://github.com/CompVis/stable-diffusion</link>
-    <description>A latent text-to-image diffusion model</description>
-  </item>
-  <item>
-    <title>rlabbe / Kalman-and-Bayesian-Filters-in-Python</title>
-    <link>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</link>
-    <description>Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</description>
-  </item>
-  <item>
     <title>OpenBMB / MiniCPM</title>
     <link>https://github.com/OpenBMB/MiniCPM</link>
     <description>MiniCPM5: SOTA on-device LLMs, small yet powerful.</description>
@@ -51,9 +56,9 @@
     <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
   </item>
   <item>
-    <title>FareedKhan-dev / all-agentic-architectures</title>
-    <link>https://github.com/FareedKhan-dev/all-agentic-architectures</link>
-    <description>35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.</description>
+    <title>hugo2046 / QuantsPlaybook</title>
+    <link>https://github.com/hugo2046/QuantsPlaybook</link>
+    <description>量化研究-券商金工研报复现</description>
   </item>
   <item>
     <title>openai / openai-cookbook</title>
@@ -61,19 +66,14 @@
     <description>Examples and guides for using the OpenAI API</description>
   </item>
   <item>
-    <title>karpathy / nn-zero-to-hero</title>
-    <link>https://github.com/karpathy/nn-zero-to-hero</link>
-    <description>Neural Networks: Zero to Hero</description>
+    <title>FareedKhan-dev / all-agentic-architectures</title>
+    <link>https://github.com/FareedKhan-dev/all-agentic-architectures</link>
+    <description>35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.</description>
   </item>
   <item>
-    <title>pathwaycom / llm-app</title>
-    <link>https://github.com/pathwaycom/llm-app</link>
-    <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / python-docs-samples</title>
-    <link>https://github.com/GoogleCloudPlatform/python-docs-samples</link>
-    <description>Code samples used on cloud.google.com</description>
+    <title>facebookresearch / sam2</title>
+    <link>https://github.com/facebookresearch/sam2</link>
+    <description>The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
   </item>
   <item>
     <title>langchain-ai / rag-from-scratch</title>
@@ -81,9 +81,9 @@
     <description></description>
   </item>
   <item>
-    <title>jakevdp / PythonDataScienceHandbook</title>
-    <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
-    <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
+    <title>GoogleCloudPlatform / python-docs-samples</title>
+    <link>https://github.com/GoogleCloudPlatform/python-docs-samples</link>
+    <description>Code samples used on cloud.google.com</description>
   </item>
   <item>
     <title>greyhatguy007 / Machine-Learning-Specialization-Coursera</title>
@@ -91,9 +91,9 @@
     <description>Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</description>
   </item>
   <item>
-    <title>facebookresearch / sam2</title>
-    <link>https://github.com/facebookresearch/sam2</link>
-    <description>The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
+    <title>jakevdp / PythonDataScienceHandbook</title>
+    <link>https://github.com/jakevdp/PythonDataScienceHandbook</link>
+    <description>Python Data Science Handbook: full text in Jupyter Notebooks</description>
   </item>
   <item>
     <title>openai / CLIP</title>

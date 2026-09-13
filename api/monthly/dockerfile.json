@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -10,9 +10,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105610,
-      "forks": 10723,
-      "added_stars": "237 stars this month"
+      "stars": 105613,
+      "forks": 10724,
+      "added_stars": "230 stars this month"
     },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
@@ -20,9 +20,9 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 22782,
-      "forks": 1156,
-      "added_stars": "598 stars this month"
+      "stars": 22790,
+      "forks": 1154,
+      "added_stars": "592 stars this month"
     },
     {
       "title": "Gar-b-age / CookLikeHOC",
@@ -30,9 +30,9 @@
       "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 24617,
-      "forks": 2395,
-      "added_stars": "888 stars this month"
+      "stars": 24615,
+      "forks": 2396,
+      "added_stars": "886 stars this month"
     },
     {
       "title": "laradock / laradock",
@@ -42,7 +42,7 @@
       "languageColor": "#384d54",
       "stars": 12673,
       "forks": 4345,
-      "added_stars": "24 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -50,9 +50,9 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12057,
+      "stars": 12058,
       "forks": 3714,
-      "added_stars": "113 stars this month"
+      "added_stars": "111 stars this month"
     },
     {
       "title": "microsoft / vscode-remote-release",
@@ -71,7 +71,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 23,
-      "forks": 3280,
+      "forks": 3284,
       "added_stars": "2 stars this month"
     },
     {
@@ -80,9 +80,19 @@
       "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 502,
-      "forks": 636,
-      "added_stars": "1 star this month"
+      "stars": 503,
+      "forks": 635,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4874,
+      "forks": 1975,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "redhat-openshift-ecosystem / certified-operators",
@@ -95,24 +105,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "jaywcjlove / reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 15249,
-      "forks": 2225,
-      "added_stars": "92 stars this month"
-    },
-    {
       "title": "vulhub / vulhub",
       "url": "https://github.com/vulhub/vulhub",
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21233,
-      "forks": 4806,
-      "added_stars": "140 stars this month"
+      "stars": 21235,
+      "forks": 4805,
+      "added_stars": "141 stars this month"
+    },
+    {
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2585,
+      "forks": 310,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "docker-library / python",
@@ -122,47 +132,7 @@
       "languageColor": "#384d54",
       "stars": 2776,
       "forks": 1108,
-      "added_stars": "8 stars this month"
-    },
-    {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2584,
-      "forks": 310,
-      "added_stars": "31 stars this month"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4874,
-      "forks": 1975,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "aws-amplify / amplify-hosting",
-      "url": "https://github.com/aws-amplify/amplify-hosting",
-      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 480,
-      "forks": 123,
-      "added_stars": "0 stars this month"
-    },
-    {
-      "title": "xhyphertech / Pretty-md",
-      "url": "https://github.com/xhyphertech/Pretty-md",
-      "description": "𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 267,
-      "forks": 935,
-      "added_stars": "6 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "piyushsachdeva / CKA-2024",
@@ -171,8 +141,18 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 1168,
-      "forks": 1970,
+      "forks": 1971,
       "added_stars": "28 stars this month"
+    },
+    {
+      "title": "nodejs / docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 8590,
+      "forks": 1982,
+      "added_stars": "19 stars this month"
     }
   ]
 }

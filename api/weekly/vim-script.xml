@@ -4,21 +4,11 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
-  </item>
-  <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
-  </item>
-  <item>
-    <title>dense-analysis / ale</title>
-    <link>https://github.com/dense-analysis/ale</link>
-    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
     <title>github / copilot.vim</title>
@@ -26,9 +16,9 @@
     <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
+    <title>dense-analysis / ale</title>
+    <link>https://github.com/dense-analysis/ale</link>
+    <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
     <title>yangyangwithgnu / use_vim_as_ide</title>
@@ -36,9 +26,9 @@
     <description>use vim as IDE</description>
   </item>
   <item>
-    <title>amix / vimrc</title>
-    <link>https://github.com/amix/vimrc</link>
-    <description>The ultimate Vim configuration (vimrc)</description>
+    <title>VundleVim / Vundle.vim</title>
+    <link>https://github.com/VundleVim/Vundle.vim</link>
+    <description>Vundle, the plug-in manager for Vim</description>
   </item>
   <item>
     <title>vim / vim</title>
@@ -46,14 +36,9 @@
     <description>The official Vim repository</description>
   </item>
   <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
-  </item>
-  <item>
-    <title>preservim / nerdtree</title>
-    <link>https://github.com/preservim/nerdtree</link>
-    <description>A tree explorer plugin for vim.</description>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
     <title>vim-airline / vim-airline</title>
@@ -61,9 +46,29 @@
     <description>lean &amp; mean status/tabline for vim that&#x27;s light as air</description>
   </item>
   <item>
+    <title>amix / vimrc</title>
+    <link>https://github.com/amix/vimrc</link>
+    <description>The ultimate Vim configuration (vimrc)</description>
+  </item>
+  <item>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
     <title>sainnhe / everforest</title>
     <link>https://github.com/sainnhe/everforest</link>
     <description>🌲 Comfortable &amp; Pleasant Color Scheme for Vim</description>
+  </item>
+  <item>
+    <title>preservim / nerdtree</title>
+    <link>https://github.com/preservim/nerdtree</link>
+    <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
     <title>derekhe / msfs2020-map-enhancement</title>
@@ -74,6 +79,11 @@
     <title>fatih / vim-go</title>
     <link>https://github.com/fatih/vim-go</link>
     <description>Go development plugin for Vim</description>
+  </item>
+  <item>
+    <title>vimwiki / vimwiki</title>
+    <link>https://github.com/vimwiki/vimwiki</link>
+    <description>Personal Wiki for Vim</description>
   </item>
   <item>
     <title>mhinz / vim-galore</title>
@@ -89,11 +99,6 @@
     <title>altercation / solarized</title>
     <link>https://github.com/altercation/solarized</link>
     <description>precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes</description>
-  </item>
-  <item>
-    <title>vimwiki / vimwiki</title>
-    <link>https://github.com/vimwiki/vimwiki</link>
-    <description>Personal Wiki for Vim</description>
   </item>
   <item>
     <title>kristijanhusak / vim-dadbod-ui</title>

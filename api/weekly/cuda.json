@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -10,19 +10,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7817,
-      "forks": 1250,
-      "added_stars": "40 stars this week"
-    },
-    {
-      "title": "flashinfer-ai / flashinfer",
-      "url": "https://github.com/flashinfer-ai/flashinfer",
-      "description": "FlashInfer: Kernel Library for LLM Serving",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 6380,
-      "forks": 1426,
-      "added_stars": "45 stars this week"
+      "stars": 7821,
+      "forks": 1252,
+      "added_stars": "42 stars this week"
     },
     {
       "title": "karpathy / llm.c",
@@ -30,9 +20,29 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30979,
+      "stars": 30987,
       "forks": 3762,
-      "added_stars": "57 stars this week"
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "flashinfer-ai / flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 6388,
+      "forks": 1436,
+      "added_stars": "49 stars this week"
+    },
+    {
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 10136,
+      "forks": 1434,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -40,9 +50,29 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1653,
+      "stars": 1655,
       "forks": 405,
-      "added_stars": "6 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2490,
+      "forks": 250,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "BBuf / how-to-optim-algorithm-in-cuda",
+      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
+      "description": "how to optimize some algorithm in cuda.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3261,
+      "forks": 290,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -55,34 +85,14 @@
       "added_stars": "8 stars this week"
     },
     {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2490,
-      "forks": 249,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3261,
-      "forks": 290,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10131,
-      "forks": 1434,
-      "added_stars": "34 stars this week"
+      "stars": 1038,
+      "forks": 227,
+      "added_stars": "6 stars this week"
     }
   ]
 }

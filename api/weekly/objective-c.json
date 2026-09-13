@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "Mininglamp-OSS / octo-ios",
@@ -20,8 +20,8 @@
       "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 18042,
-      "forks": 1486,
+      "stars": 18045,
+      "forks": 1490,
       "added_stars": "36 stars this week"
     },
     {
@@ -30,9 +30,9 @@
       "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 9700,
-      "forks": 1135,
-      "added_stars": "66 stars this week"
+      "stars": 9703,
+      "forks": 1137,
+      "added_stars": "54 stars this week"
     },
     {
       "title": "objective-see / LuLu",
@@ -40,39 +40,19 @@
       "description": "LuLu is the free open-source macOS firewall",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 13165,
+      "stars": 13170,
       "forks": 599,
-      "added_stars": "38 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "noah-nuebling / mac-mouse-fix",
-      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
-      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "title": "geode-sdk / ios-launcher",
+      "url": "https://github.com/geode-sdk/ios-launcher",
+      "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10828,
-      "forks": 409,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "SDWebImage / SDWebImage",
-      "url": "https://github.com/SDWebImage/SDWebImage",
-      "description": "Asynchronous image downloader with cache support as a UIImageView category",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 25628,
-      "forks": 5956,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "darlinghq / darling",
-      "url": "https://github.com/darlinghq/darling",
-      "description": "Darwin/macOS emulation layer for Linux",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 13345,
-      "forks": 527,
-      "added_stars": "40 stars this week"
+      "stars": 719,
+      "forks": 261,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "realm / realm-swift",
@@ -82,17 +62,27 @@
       "languageColor": "#438eff",
       "stars": 16610,
       "forks": 2238,
-      "added_stars": "6 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "geode-sdk / ios-launcher",
-      "url": "https://github.com/geode-sdk/ios-launcher",
-      "description": "Manages installing and launching Geometry Dash for iOS",
+      "title": "SDWebImage / SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 718,
-      "forks": 261,
-      "added_stars": "12 stars this week"
+      "stars": 25629,
+      "forks": 5956,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "syncthing / syncthing-macos",
+      "url": "https://github.com/syncthing/syncthing-macos",
+      "description": "Official frugal and native macOS Syncthing application bundle",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3924,
+      "forks": 202,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "facebookincubator / SocketRocket",
@@ -105,24 +95,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "AFNetworking / AFNetworking",
-      "url": "https://github.com/AFNetworking/AFNetworking",
-      "description": "A delightful networking framework for iOS, macOS, watchOS, and tvOS.",
+      "title": "noah-nuebling / mac-mouse-fix",
+      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
+      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 33380,
-      "forks": 10605,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "syncthing / syncthing-macos",
-      "url": "https://github.com/syncthing/syncthing-macos",
-      "description": "Official frugal and native macOS Syncthing application bundle",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3925,
-      "forks": 202,
-      "added_stars": "18 stars this week"
+      "stars": 10836,
+      "forks": 410,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "google / GoogleUtilities",
@@ -195,6 +175,16 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "SDWebImage / SDWebImageWebPCoder",
+      "url": "https://github.com/SDWebImage/SDWebImageWebPCoder",
+      "description": "A WebP coder plugin for SDWebImage, use libwebp",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 277,
+      "forks": 100,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "adjust / ios_sdk",
       "url": "https://github.com/adjust/ios_sdk",
       "description": "This is the iOS SDK of",
@@ -205,13 +195,33 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "SDWebImage / SDWebImageWebPCoder",
-      "url": "https://github.com/SDWebImage/SDWebImageWebPCoder",
-      "description": "A WebP coder plugin for SDWebImage, use libwebp",
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 277,
-      "forks": 100,
+      "stars": 22151,
+      "forks": 1664,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "kstenerud / KSCrash",
+      "url": "https://github.com/kstenerud/KSCrash",
+      "description": "The Ultimate iOS Crash Reporter",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 4492,
+      "forks": 741,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "SDWebImage / SDWebImageSVGCoder",
+      "url": "https://github.com/SDWebImage/SDWebImageSVGCoder",
+      "description": "A SVG coder plugin for SDWebImage, using Apple's built-in framework",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 136,
+      "forks": 43,
       "added_stars": "1 star this week"
     },
     {
@@ -223,6 +233,16 @@
       "stars": 4949,
       "forks": 1021,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "git-up / GitUp",
+      "url": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 12119,
+      "forks": 1494,
+      "added_stars": "4 stars this week"
     }
   ]
 }

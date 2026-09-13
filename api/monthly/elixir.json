@@ -2,57 +2,27 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
-    {
-      "title": "openai / symphony",
-      "url": "https://github.com/openai/symphony",
-      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 27155,
-      "forks": 2798,
-      "added_stars": "695 stars this month"
-    },
-    {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 23154,
-      "forks": 3110,
-      "added_stars": "63 stars this month"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29036,
-      "forks": 1860,
-      "added_stars": "604 stars this month"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4681,
-      "forks": 3170,
-      "added_stars": "61 stars this month"
-    },
     {
       "title": "firezone / firezone",
       "url": "https://github.com/firezone/firezone",
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9085,
+      "stars": 9088,
       "forks": 456,
-      "added_stars": "88 stars this month"
+      "added_stars": "83 stars this month"
+    },
+    {
+      "title": "openai / symphony",
+      "url": "https://github.com/openai/symphony",
+      "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 27171,
+      "forks": 2801,
+      "added_stars": "688 stars this month"
     },
     {
       "title": "teslamate-org / teslamate",
@@ -61,8 +31,38 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 8979,
-      "forks": 1003,
-      "added_stars": "165 stars this month"
+      "forks": 1004,
+      "added_stars": "160 stars this month"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 29049,
+      "forks": 1862,
+      "added_stars": "610 stars this month"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4682,
+      "forks": 3171,
+      "added_stars": "61 stars this month"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23156,
+      "forks": 3109,
+      "added_stars": "67 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -80,9 +80,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26632,
-      "forks": 3668,
-      "added_stars": "82 stars this month"
+      "stars": 26631,
+      "forks": 3669,
+      "added_stars": "76 stars this month"
     },
     {
       "title": "Logflare / logflare",
@@ -102,7 +102,7 @@
       "languageColor": "#6e4a7e",
       "stars": 2486,
       "forks": 422,
-      "added_stars": "17 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -112,7 +112,7 @@
       "languageColor": "#6e4a7e",
       "stars": 6826,
       "forks": 1053,
-      "added_stars": "17 stars this month"
+      "added_stars": "14 stars this month"
     },
     {
       "title": "expert-lsp / expert",
@@ -120,19 +120,9 @@
       "description": "Official Elixir Language Server Protocol implementation",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2054,
+      "stars": 2055,
       "forks": 111,
-      "added_stars": "21 stars this month"
-    },
-    {
-      "title": "livebook-dev / livebook",
-      "url": "https://github.com/livebook-dev/livebook",
-      "description": "Automate code & data workflows with interactive Elixir notebooks",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5863,
-      "forks": 513,
-      "added_stars": "30 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -140,9 +130,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5307,
+      "stars": 5309,
       "forks": 166,
-      "added_stars": "88 stars this month"
+      "added_stars": "90 stars this month"
     },
     {
       "title": "icoretech / codex-pooler",
@@ -150,9 +140,19 @@
       "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 203,
+      "stars": 207,
       "forks": 20,
-      "added_stars": "62 stars this month"
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "livebook-dev / livebook",
+      "url": "https://github.com/livebook-dev/livebook",
+      "description": "Automate code & data workflows with interactive Elixir notebooks",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5864,
+      "forks": 513,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "elixir-ecto / ecto",
@@ -160,29 +160,9 @@
       "description": "A toolkit for data mapping and language integrated query.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6495,
+      "stars": 6496,
       "forks": 1484,
       "added_stars": "14 stars this month"
-    },
-    {
-      "title": "phenixdigital / phoenix_storybook",
-      "url": "https://github.com/phenixdigital/phoenix_storybook",
-      "description": "A pluggable storybook for your Phoenix components.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 869,
-      "forks": 98,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "nerves-hub / nerves_hub_web",
-      "url": "https://github.com/nerves-hub/nerves_hub_web",
-      "description": "Manage your Nerves device fleet, including firmware updates, health reports, and interactive device consoles.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 270,
-      "forks": 99,
-      "added_stars": "2 stars this month"
     }
   ]
 }

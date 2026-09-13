@@ -2,7 +2,7 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
       "title": "armory3d / armorpaint",
@@ -10,29 +10,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4781,
-      "forks": 537,
-      "added_stars": "350 stars today"
-    },
-    {
-      "title": "JustVugg / colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27803,
-      "forks": 3039,
-      "added_stars": "351 stars today"
-    },
-    {
-      "title": "tianocore / edk2",
-      "url": "https://github.com/tianocore/edk2",
-      "description": "EDK II",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6242,
-      "forks": 3269,
-      "added_stars": "3 stars today"
+      "stars": 4952,
+      "forks": 550,
+      "added_stars": "237 stars today"
     },
     {
       "title": "willfaust / Madeira",
@@ -40,59 +20,29 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 251,
-      "forks": 56,
-      "added_stars": "93 stars today"
+      "stars": 281,
+      "forks": 67,
+      "added_stars": "52 stars today"
     },
     {
-      "title": "timescale / timescaledb",
-      "url": "https://github.com/timescale/timescaledb",
-      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 23515,
-      "forks": 1149,
-      "added_stars": "10 stars today"
+      "stars": 28734,
+      "forks": 3155,
+      "added_stars": "652 stars today"
     },
     {
-      "title": "srwi / EverythingToolbar",
-      "url": "https://github.com/srwi/EverythingToolbar",
-      "description": "Everything integration for the Windows taskbar.",
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14732,
-      "forks": 559,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "yugabyte / yugabyte-db",
-      "url": "https://github.com/yugabyte/yugabyte-db",
-      "description": "YugabyteDB - the cloud native distributed SQL database for mission-critical applications.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10530,
-      "forks": 1313,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "libsdl-org / SDL",
-      "url": "https://github.com/libsdl-org/SDL",
-      "description": "Simple DirectMedia Layer",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16557,
-      "forks": 2971,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28366,
-      "forks": 12935,
-      "added_stars": "11 stars today"
+      "stars": 22315,
+      "forks": 2104,
+      "added_stars": "43 stars today"
     },
     {
       "title": "dorianborian / sesame-robot",
@@ -100,39 +50,19 @@
       "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4382,
-      "forks": 593,
-      "added_stars": "20 stars today"
+      "stars": 4394,
+      "forks": 595,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "jqlang / jq",
-      "url": "https://github.com/jqlang/jq",
-      "description": "Command-line JSON processor",
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 35588,
-      "forks": 1843,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "reactos / reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 18077,
-      "forks": 2214,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "espressif / esp-drone",
-      "url": "https://github.com/espressif/esp-drone",
-      "description": "Mini Drone/Quadcopter Firmware for ESP32 and ESP32-S Series SoCs.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2170,
-      "forks": 505,
-      "added_stars": "7 stars today"
+      "stars": 16497,
+      "forks": 9962,
+      "added_stars": "8 stars today"
     },
     {
       "title": "CTCaer / hekate",
@@ -140,19 +70,49 @@
       "description": "hekate - A GUI based Nintendo Switch Bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8675,
-      "forks": 679,
-      "added_stars": "6 stars today"
+      "stars": 8679,
+      "forks": 680,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "littlefs-project / littlefs",
-      "url": "https://github.com/littlefs-project/littlefs",
-      "description": "A little fail-safe filesystem designed for microcontrollers",
+      "title": "raysan5 / raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6934,
-      "forks": 1022,
-      "added_stars": "1 star today"
+      "stars": 34689,
+      "forks": 3283,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "espressif / esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19004,
+      "forks": 8479,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "brunodev85 / winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19000,
+      "forks": 1734,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "bol-van / zapret2",
+      "url": "https://github.com/bol-van/zapret2",
+      "description": "anti-dpi software",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5438,
+      "forks": 238,
+      "added_stars": "9 stars today"
     },
     {
       "title": "valinet / ExplorerPatcher",
@@ -160,9 +120,59 @@
       "description": "This project aims to enhance the working environment on Windows",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 33859,
-      "forks": 1372,
-      "added_stars": "16 stars today"
+      "stars": 33863,
+      "forks": 1373,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "nmap / nmap",
+      "url": "https://github.com/nmap/nmap",
+      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 13574,
+      "forks": 2904,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "FoggyBytes / StreamLight",
+      "url": "https://github.com/FoggyBytes/StreamLight",
+      "description": "Moonlight fork, a complete new UI experience with a lot of new features and a deeper host integration.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 98,
+      "forks": 3,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "sabrogden / Ditto",
+      "url": "https://github.com/sabrogden/Ditto",
+      "description": "Ditto is an extension to the Windows Clipboard. You copy something to the Clipboard and Ditto takes what you copied and stores it in a database to retrieve at a later time.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7131,
+      "forks": 447,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "FRRouting / frr",
+      "url": "https://github.com/FRRouting/frr",
+      "description": "The FRRouting Protocol Suite",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4287,
+      "forks": 1611,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "systemd / systemd",
+      "url": "https://github.com/systemd/systemd",
+      "description": "The systemd System and Service Manager",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16686,
+      "forks": 4679,
+      "added_stars": "6 stars today"
     }
   ]
 }

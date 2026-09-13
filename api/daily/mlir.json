@@ -2,25 +2,15 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
-    {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 161,
-      "forks": 217,
-      "added_stars": "1 star today"
-    },
     {
       "title": "triton-lang / triton",
       "url": "https://github.com/triton-lang/triton",
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 20135,
+      "stars": 20145,
       "forks": 3189,
       "added_stars": "9 stars today"
     },
@@ -32,6 +22,26 @@
       "languageColor": "#5EC8DB",
       "stars": 270,
       "forks": 108,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 163,
+      "forks": 217,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "facebookexperimental / triton",
+      "url": "https://github.com/facebookexperimental/triton",
+      "description": "Github mirror of trition-lang/triton repo.",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 195,
+      "forks": 71,
       "added_stars": "0 stars today"
     }
   ]

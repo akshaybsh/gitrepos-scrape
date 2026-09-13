@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,29 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27240,
+      "stars": 27241,
       "forks": 12398,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "dapphub / ds-test",
-      "url": "https://github.com/dapphub/ds-test",
-      "description": "Assertions, equality checks and other test helpers",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 239,
-      "forks": 76,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "a16z / erc4626-tests",
-      "url": "https://github.com/a16z/erc4626-tests",
-      "description": "ERC4626 Property Tests",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 224,
-      "forks": 44,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -45,63 +25,23 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2529,
-      "forks": 1323,
+      "stars": 223,
+      "forks": 44,
       "added_stars": "0 stars today"
     },
     {
-      "title": "Vectorized / solady",
-      "url": "https://github.com/Vectorized/solady",
-      "description": "Optimized Solidity snippets.",
+      "title": "dapphub / ds-test",
+      "url": "https://github.com/dapphub/ds-test",
+      "description": "Assertions, equality checks and other test helpers",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3370,
-      "forks": 487,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dmfxyz / murky",
-      "url": "https://github.com/dmfxyz/murky",
-      "description": "Merkle Proof Generator and Validator in Solidity",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 516,
-      "forks": 58,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "base / contracts",
-      "url": "https://github.com/base/contracts",
-      "description": "",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 325,
-      "forks": 245,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "transmissions11 / solmate",
-      "url": "https://github.com/transmissions11/solmate",
-      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 4285,
-      "forks": 707,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "matter-labs / era-contracts",
-      "url": "https://github.com/matter-labs/era-contracts",
-      "description": "Smart Contract Submodule For zkSync Era",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 538,
-      "forks": 424,
+      "stars": 239,
+      "forks": 76,
       "added_stars": "0 stars today"
     },
     {
@@ -115,24 +55,54 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "OffchainLabs / nitro-contracts",
-      "url": "https://github.com/OffchainLabs/nitro-contracts",
-      "description": "The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup",
+      "title": "Vectorized / solady",
+      "url": "https://github.com/Vectorized/solady",
+      "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 151,
-      "forks": 159,
+      "stars": 3371,
+      "forks": 488,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho's non-custodial vault protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 101,
+      "forks": 75,
       "added_stars": "0 stars today"
     },
     {
-      "title": "base / nitro-validator",
-      "url": "https://github.com/base/nitro-validator",
-      "description": "AWS Nitro enclave attestation verifier in Solidity, used by:",
+      "title": "ProjectOpenSea / seaport",
+      "url": "https://github.com/ProjectOpenSea/seaport",
+      "description": "Seaport is a marketplace protocol for safely and efficiently buying and selling NFTs.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 48,
-      "forks": 42,
+      "stars": 2257,
+      "forks": 657,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 4286,
+      "forks": 706,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "Uniswap / permit2",
+      "url": "https://github.com/Uniswap/permit2",
+      "description": "🔑🔑🔑 next generation token approvals mechanism",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 944,
+      "forks": 299,
+      "added_stars": "0 stars today"
     }
   ]
 }

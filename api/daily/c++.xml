@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:47:23 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:04:39 GMT</pubDate>
   <item>
     <title>0xShug0 / audio.cpp</title>
     <link>https://github.com/0xShug0/audio.cpp</link>
@@ -16,69 +16,19 @@
     <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
   </item>
   <item>
-    <title>memgraph / memgraph</title>
-    <link>https://github.com/memgraph/memgraph</link>
-    <description>High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.</description>
+    <title>ggml-org / llama.cpp</title>
+    <link>https://github.com/ggml-org/llama.cpp</link>
+    <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>ai-dynamo / nixl</title>
-    <link>https://github.com/ai-dynamo/nixl</link>
-    <description>NVIDIA Inference Xfer Library (NIXL)</description>
+    <title>azahar-emu / azahar</title>
+    <link>https://github.com/azahar-emu/azahar</link>
+    <description>An open-source 3DS emulator project based on Citra.</description>
   </item>
   <item>
-    <title>hyperfield / ai-file-sorter</title>
-    <link>https://github.com/hyperfield/ai-file-sorter</link>
-    <description>Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.</description>
-  </item>
-  <item>
-    <title>ArduPilot / ardupilot</title>
-    <link>https://github.com/ArduPilot/ardupilot</link>
-    <description>ArduPlane, ArduCopter, ArduRover, ArduSub source</description>
-  </item>
-  <item>
-    <title>SatDump / SatDump</title>
-    <link>https://github.com/SatDump/SatDump</link>
-    <description>A generic satellite data processing software.</description>
-  </item>
-  <item>
-    <title>lkimuk / ReArk</title>
-    <link>https://github.com/lkimuk/ReArk</link>
-    <description>An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).</description>
-  </item>
-  <item>
-    <title>ClickHouse / ClickHouse</title>
-    <link>https://github.com/ClickHouse/ClickHouse</link>
-    <description>ClickHouse® is a real-time analytics database management system</description>
-  </item>
-  <item>
-    <title>vllm-project / vllm-ascend</title>
-    <link>https://github.com/vllm-project/vllm-ascend</link>
-    <description>Community maintained hardware plugin for vLLM on Ascend</description>
-  </item>
-  <item>
-    <title>iamaisim / ProjectAirSim</title>
-    <link>https://github.com/iamaisim/ProjectAirSim</link>
-    <description>Project AirSim is Microsoft&#x27;s evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments</description>
-  </item>
-  <item>
-    <title>catchorg / Catch2</title>
-    <link>https://github.com/catchorg/Catch2</link>
-    <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
-  </item>
-  <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
-  </item>
-  <item>
-    <title>Tencent / ncnn</title>
-    <link>https://github.com/Tencent/ncnn</link>
-    <description>ncnn is a high-performance neural network inference framework optimized for the mobile platform</description>
-  </item>
-  <item>
-    <title>geo-tp / ESP32-Bit-Pirate</title>
-    <link>https://github.com/geo-tp/ESP32-Bit-Pirate</link>
-    <description>A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol</description>
+    <title>google / googletest</title>
+    <link>https://github.com/google/googletest</link>
+    <description>GoogleTest - Google Testing and Mocking Framework</description>
   </item>
   <item>
     <title>microsoft / WSL</title>
@@ -86,19 +36,79 @@
     <description>Windows Subsystem for Linux</description>
   </item>
   <item>
-    <title>argotorg / solidity</title>
-    <link>https://github.com/argotorg/solidity</link>
-    <description>Solidity, the Smart Contract Programming Language</description>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>MariaDB / server</title>
-    <link>https://github.com/MariaDB/server</link>
-    <description>MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.</description>
+    <title>bitcoin / bitcoin</title>
+    <link>https://github.com/bitcoin/bitcoin</link>
+    <description>Bitcoin Core integration/staging tree</description>
   </item>
   <item>
-    <title>assimp / assimp</title>
-    <link>https://github.com/assimp/assimp</link>
-    <description>The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.</description>
+    <title>rui314 / mold</title>
+    <link>https://github.com/rui314/mold</link>
+    <description>mold: A Modern Linker 🦠</description>
+  </item>
+  <item>
+    <title>duckdb / duckdb</title>
+    <link>https://github.com/duckdb/duckdb</link>
+    <description>DuckDB is an analytical in-process SQL database management system</description>
+  </item>
+  <item>
+    <title>mavlink / qgroundcontrol</title>
+    <link>https://github.com/mavlink/qgroundcontrol</link>
+    <description>Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)</description>
+  </item>
+  <item>
+    <title>78 / xiaozhi-esp32</title>
+    <link>https://github.com/78/xiaozhi-esp32</link>
+    <description>An MCP-based chatbot | 一个基于MCP的聊天机器人</description>
+  </item>
+  <item>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
+  </item>
+  <item>
+    <title>vllm-project / vllm-ascend</title>
+    <link>https://github.com/vllm-project/vllm-ascend</link>
+    <description>Community maintained hardware plugin for vLLM on Ascend</description>
+  </item>
+  <item>
+    <title>wazuh / wazuh</title>
+    <link>https://github.com/wazuh/wazuh</link>
+    <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
+  </item>
+  <item>
+    <title>grpc / grpc</title>
+    <link>https://github.com/grpc/grpc</link>
+    <description>C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</description>
+  </item>
+  <item>
+    <title>dsp56300 / gearmulator</title>
+    <link>https://github.com/dsp56300/gearmulator</link>
+    <description>Low Level Emulation of classic VA synths &amp; effects of the late 90s/2000s by emulating the used ICs</description>
+  </item>
+  <item>
+    <title>lkimuk / ReArk</title>
+    <link>https://github.com/lkimuk/ReArk</link>
+    <description>An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).</description>
+  </item>
+  <item>
+    <title>YosysHQ / yosys</title>
+    <link>https://github.com/YosysHQ/yosys</link>
+    <description>Yosys Open SYnthesis Suite</description>
+  </item>
+  <item>
+    <title>scylladb / scylladb</title>
+    <link>https://github.com/scylladb/scylladb</link>
+    <description>NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB</description>
+  </item>
+  <item>
+    <title>opentoonz / opentoonz</title>
+    <link>https://github.com/opentoonz/opentoonz</link>
+    <description>OpenToonz - An open-source full-featured 2D animation creation software</description>
   </item>
 </channel>
 </rss>

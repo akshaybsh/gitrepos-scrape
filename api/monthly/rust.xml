@@ -4,21 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
   <item>
     <title>AprilNEA / OpenLogi</title>
     <link>https://github.com/AprilNEA/OpenLogi</link>
     <description>⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.</description>
-  </item>
-  <item>
-    <title>xai-org / x-algorithm</title>
-    <link>https://github.com/xai-org/x-algorithm</link>
-    <description>Algorithm powering the For You feed on X</description>
-  </item>
-  <item>
-    <title>akitaonrails / ai-memory</title>
-    <link>https://github.com/akitaonrails/ai-memory</link>
-    <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
   </item>
   <item>
     <title>AlexsJones / llmfit</title>
@@ -29,6 +19,11 @@
     <title>longbridge / gpui-kit</title>
     <link>https://github.com/longbridge/gpui-kit</link>
     <description>Rust GUI components for building fantastic cross-platform desktop application by using GPUI.</description>
+  </item>
+  <item>
+    <title>xai-org / x-algorithm</title>
+    <link>https://github.com/xai-org/x-algorithm</link>
+    <description>Algorithm powering the For You feed on X</description>
   </item>
   <item>
     <title>zenbu-labs / terminal-browser</title>
@@ -51,11 +46,6 @@
     <description>A smarter cd command. Supports all major shells.</description>
   </item>
   <item>
-    <title>firecracker-microvm / firecracker</title>
-    <link>https://github.com/firecracker-microvm/firecracker</link>
-    <description>Secure and fast microVMs for serverless computing.</description>
-  </item>
-  <item>
     <title>pnpm / pnpm</title>
     <link>https://github.com/pnpm/pnpm</link>
     <description>Fast, disk space efficient package manager</description>
@@ -66,24 +56,9 @@
     <description>⭐️ A friendly language for building type-safe, scalable systems!</description>
   </item>
   <item>
-    <title>CapSoftware / Cap</title>
-    <link>https://github.com/CapSoftware/Cap</link>
-    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
-  </item>
-  <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-  </item>
-  <item>
     <title>sinelaw / fresh</title>
     <link>https://github.com/sinelaw/fresh</link>
     <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
-  </item>
-  <item>
-    <title>koharu-rs / koharu</title>
-    <link>https://github.com/koharu-rs/koharu</link>
-    <description>AI-powered manga translator, written in Rust.</description>
   </item>
   <item>
     <title>xingkongliang / skills-manager</title>
@@ -91,19 +66,19 @@
     <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
   </item>
   <item>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+  </item>
+  <item>
     <title>tinyhumansai / openhuman</title>
     <link>https://github.com/tinyhumansai/openhuman</link>
     <description>OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows</description>
   </item>
   <item>
-    <title>superradcompany / microsandbox</title>
-    <link>https://github.com/superradcompany/microsandbox</link>
-    <description>🧱 Easy fast local-first microVM runtime and library</description>
-  </item>
-  <item>
-    <title>ai-dynamo / dynamo</title>
-    <link>https://github.com/ai-dynamo/dynamo</link>
-    <description>A Datacenter Scale Distributed Inference Serving Framework</description>
+    <title>koharu-rs / koharu</title>
+    <link>https://github.com/koharu-rs/koharu</link>
+    <description>AI-powered manga translator, written in Rust.</description>
   </item>
   <item>
     <title>GraphiteEditor / Graphite</title>
@@ -111,9 +86,24 @@
     <description>Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine</description>
   </item>
   <item>
-    <title>jdx / mise</title>
-    <link>https://github.com/jdx/mise</link>
-    <description>dev tools, env vars, task runner</description>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+  </item>
+  <item>
+    <title>RyanCodrai / turbovec</title>
+    <link>https://github.com/RyanCodrai/turbovec</link>
+    <description>A vector index built on TurboQuant, written in Rust with Python bindings</description>
+  </item>
+  <item>
+    <title>pola-rs / polars</title>
+    <link>https://github.com/pola-rs/polars</link>
+    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
+  </item>
+  <item>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
 </channel>
 </rss>

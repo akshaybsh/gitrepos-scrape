@@ -4,7 +4,7 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
@@ -26,24 +26,24 @@
     <description>MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.</description>
   </item>
   <item>
-    <title>steinbergmedia / vst3sdk</title>
-    <link>https://github.com/steinbergmedia/vst3sdk</link>
-    <description>VST 3 Plug-In SDK</description>
-  </item>
-  <item>
     <title>KiCad / kicad-footprints</title>
     <link>https://github.com/KiCad/kicad-footprints</link>
     <description>Official KiCad Footprint Libraries for Kicad version 5</description>
   </item>
   <item>
-    <title>arsenm / sanitizers-cmake</title>
-    <link>https://github.com/arsenm/sanitizers-cmake</link>
-    <description>CMake modules to help use sanitizers</description>
+    <title>steinbergmedia / vst3sdk</title>
+    <link>https://github.com/steinbergmedia/vst3sdk</link>
+    <description>VST 3 Plug-In SDK</description>
   </item>
   <item>
     <title>corrosion-rs / corrosion</title>
     <link>https://github.com/corrosion-rs/corrosion</link>
     <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
+  </item>
+  <item>
+    <title>arsenm / sanitizers-cmake</title>
+    <link>https://github.com/arsenm/sanitizers-cmake</link>
+    <description>CMake modules to help use sanitizers</description>
   </item>
   <item>
     <title>TheLartians / PackageProject.cmake</title>
@@ -56,9 +56,9 @@
     <description>ASIO plugin for OBS-Studio</description>
   </item>
   <item>
-    <title>vector-of-bool / cmrc</title>
-    <link>https://github.com/vector-of-bool/cmrc</link>
-    <description>A Resource Compiler in a Single CMake Script</description>
+    <title>ecmwf / ecbuild</title>
+    <link>https://github.com/ecmwf/ecbuild</link>
+    <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
   </item>
   <item>
     <title>KiCad / kicad-symbols</title>
@@ -69,6 +69,11 @@
     <title>ament / ament_cmake</title>
     <link>https://github.com/ament/ament_cmake</link>
     <description>Supporting CMake packages for working with ament</description>
+  </item>
+  <item>
+    <title>vector-of-bool / cmrc</title>
+    <link>https://github.com/vector-of-bool/cmrc</link>
+    <description>A Resource Compiler in a Single CMake Script</description>
   </item>
 </channel>
 </rss>

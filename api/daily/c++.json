@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
       "title": "0xShug0 / audio.cpp",
@@ -10,9 +10,9 @@
       "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2604,
-      "forks": 298,
-      "added_stars": "89 stars today"
+      "stars": 2645,
+      "forks": 302,
+      "added_stars": "63 stars today"
     },
     {
       "title": "Atmosphere-NX / Atmosphere",
@@ -20,139 +20,39 @@
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19551,
+      "stars": 19571,
       "forks": 1466,
-      "added_stars": "13 stars today"
+      "added_stars": "23 stars today"
     },
     {
-      "title": "memgraph / memgraph",
-      "url": "https://github.com/memgraph/memgraph",
-      "description": "High-performance open-source in-memory graph database for GraphRAG, AI memory, agentic AI, and real-time graph analytics. Cypher-compatible, built in C++.",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 4550,
-      "forks": 282,
-      "added_stars": "22 stars today"
+      "stars": 128040,
+      "forks": 23110,
+      "added_stars": "131 stars today"
     },
     {
-      "title": "ai-dynamo / nixl",
-      "url": "https://github.com/ai-dynamo/nixl",
-      "description": "NVIDIA Inference Xfer Library (NIXL)",
+      "title": "azahar-emu / azahar",
+      "url": "https://github.com/azahar-emu/azahar",
+      "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1249,
-      "forks": 440,
-      "added_stars": "3 stars today"
+      "stars": 8105,
+      "forks": 665,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "hyperfield / ai-file-sorter",
-      "url": "https://github.com/hyperfield/ai-file-sorter",
-      "description": "Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.",
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1717,
-      "forks": 177,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "ArduPilot / ardupilot",
-      "url": "https://github.com/ArduPilot/ardupilot",
-      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15848,
-      "forks": 21374,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "SatDump / SatDump",
-      "url": "https://github.com/SatDump/SatDump",
-      "description": "A generic satellite data processing software.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2188,
-      "forks": 283,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "lkimuk / ReArk",
-      "url": "https://github.com/lkimuk/ReArk",
-      "description": "An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 289,
-      "forks": 51,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 49840,
-      "forks": 8950,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "vllm-project / vllm-ascend",
-      "url": "https://github.com/vllm-project/vllm-ascend",
-      "description": "Community maintained hardware plugin for vLLM on Ascend",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2803,
-      "forks": 2237,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "iamaisim / ProjectAirSim",
-      "url": "https://github.com/iamaisim/ProjectAirSim",
-      "description": "Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 849,
-      "forks": 157,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "catchorg / Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21469,
-      "forks": 3499,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 199720,
-      "forks": 76304,
-      "added_stars": "391 stars today"
-    },
-    {
-      "title": "Tencent / ncnn",
-      "url": "https://github.com/Tencent/ncnn",
-      "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 23804,
-      "forks": 4500,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "geo-tp / ESP32-Bit-Pirate",
-      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
-      "description": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5786,
-      "forks": 476,
-      "added_stars": "15 stars today"
+      "stars": 39516,
+      "forks": 10894,
+      "added_stars": "6 stars today"
     },
     {
       "title": "microsoft / WSL",
@@ -160,39 +60,159 @@
       "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33677,
-      "forks": 1820,
-      "added_stars": "12 stars today"
+      "stars": 33680,
+      "forks": 1822,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "argotorg / solidity",
-      "url": "https://github.com/argotorg/solidity",
-      "description": "Solidity, the Smart Contract Programming Language",
+      "title": "godotengine / godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25736,
-      "forks": 6155,
+      "stars": 117041,
+      "forks": 26701,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "bitcoin / bitcoin",
+      "url": "https://github.com/bitcoin/bitcoin",
+      "description": "Bitcoin Core integration/staging tree",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 90164,
+      "forks": 39382,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "rui314 / mold",
+      "url": "https://github.com/rui314/mold",
+      "description": "mold: A Modern Linker 🦠",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16994,
+      "forks": 554,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41190,
+      "forks": 3761,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "mavlink / qgroundcontrol",
+      "url": "https://github.com/mavlink/qgroundcontrol",
+      "description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4924,
+      "forks": 5045,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "78 / xiaozhi-esp32",
+      "url": "https://github.com/78/xiaozhi-esp32",
+      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29862,
+      "forks": 6931,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10749,
+      "forks": 473,
+      "added_stars": "60 stars today"
+    },
+    {
+      "title": "vllm-project / vllm-ascend",
+      "url": "https://github.com/vllm-project/vllm-ascend",
+      "description": "Community maintained hardware plugin for vLLM on Ascend",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2809,
+      "forks": 2237,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "wazuh / wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 16852,
+      "forks": 2476,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "grpc / grpc",
+      "url": "https://github.com/grpc/grpc",
+      "description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 45306,
+      "forks": 11363,
       "added_stars": "4 stars today"
     },
     {
-      "title": "MariaDB / server",
-      "url": "https://github.com/MariaDB/server",
-      "description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.",
+      "title": "dsp56300 / gearmulator",
+      "url": "https://github.com/dsp56300/gearmulator",
+      "description": "Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8207,
-      "forks": 2096,
-      "added_stars": "6 stars today"
+      "stars": 1306,
+      "forks": 118,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "assimp / assimp",
-      "url": "https://github.com/assimp/assimp",
-      "description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.",
+      "title": "lkimuk / ReArk",
+      "url": "https://github.com/lkimuk/ReArk",
+      "description": "An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 13197,
-      "forks": 3234,
-      "added_stars": "6 stars today"
+      "stars": 321,
+      "forks": 53,
+      "added_stars": "40 stars today"
+    },
+    {
+      "title": "YosysHQ / yosys",
+      "url": "https://github.com/YosysHQ/yosys",
+      "description": "Yosys Open SYnthesis Suite",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4749,
+      "forks": 1159,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "scylladb / scylladb",
+      "url": "https://github.com/scylladb/scylladb",
+      "description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15750,
+      "forks": 1515,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "opentoonz / opentoonz",
+      "url": "https://github.com/opentoonz/opentoonz",
+      "description": "OpenToonz - An open-source full-featured 2D animation creation software",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 7715,
+      "forks": 875,
+      "added_stars": "10 stars today"
     }
   ]
 }

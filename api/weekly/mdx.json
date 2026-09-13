@@ -2,27 +2,27 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
+    {
+      "title": "enactic / openarm",
+      "url": "https://github.com/enactic/openarm",
+      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 3021,
+      "forks": 345,
+      "added_stars": "83 stars this week"
+    },
     {
       "title": "twbs / bootstrap",
       "url": "https://github.com/twbs/bootstrap",
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174765,
+      "stars": 174775,
       "forks": 78603,
-      "added_stars": "105 stars this week"
-    },
-    {
-      "title": "cloudflare / cloudflare-docs",
-      "url": "https://github.com/cloudflare/cloudflare-docs",
-      "description": "Cloudflare’s documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 5213,
-      "forks": 16680,
-      "added_stars": "33 stars this week"
+      "added_stars": "102 stars this week"
     },
     {
       "title": "FailproofAI / failproofai",
@@ -30,9 +30,19 @@
       "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. 40 built-in policies, a local dashboard, no account required with a generous free cloud plan",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2865,
-      "forks": 457,
-      "added_stars": "912 stars this week"
+      "stars": 3027,
+      "forks": 463,
+      "added_stars": "893 stars this week"
+    },
+    {
+      "title": "cloudflare / cloudflare-docs",
+      "url": "https://github.com/cloudflare/cloudflare-docs",
+      "description": "Cloudflare’s documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5216,
+      "forks": 16690,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "adongwanai / AgentGuide",
@@ -40,19 +50,9 @@
       "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 9480,
-      "forks": 921,
-      "added_stars": "294 stars this week"
-    },
-    {
-      "title": "buchidonggua / dg-ai-notes",
-      "url": "https://github.com/buchidonggua/dg-ai-notes",
-      "description": "",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2756,
-      "forks": 226,
-      "added_stars": "159 stars this week"
+      "stars": 9507,
+      "forks": 923,
+      "added_stars": "307 stars this week"
     },
     {
       "title": "dair-ai / Prompt-Engineering-Guide",
@@ -60,19 +60,9 @@
       "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 78220,
-      "forks": 8591,
-      "added_stars": "227 stars this week"
-    },
-    {
-      "title": "solana-foundation / solana-com",
-      "url": "https://github.com/solana-foundation/solana-com",
-      "description": "The solana.com website.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 504,
-      "forks": 407,
-      "added_stars": "4 stars this week"
+      "stars": 78258,
+      "forks": 8595,
+      "added_stars": "243 stars this week"
     },
     {
       "title": "huggingface / course",
@@ -80,19 +70,9 @@
       "description": "The Hugging Face course on Transformers",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 4210,
-      "forks": 1420,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "enactic / openarm",
-      "url": "https://github.com/enactic/openarm",
-      "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2978,
-      "forks": 339,
-      "added_stars": "41 stars this week"
+      "stars": 4212,
+      "forks": 1421,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "hashicorp / web-unified-docs",
@@ -100,19 +80,9 @@
       "description": "Hashicorp Unified Docs",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 84,
+      "stars": 85,
       "forks": 274,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "modelcontextprotocol / ext-skills",
-      "url": "https://github.com/modelcontextprotocol/ext-skills",
-      "description": "Experimental exploration of skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 217,
-      "forks": 33,
-      "added_stars": "6 stars this week"
     },
     {
       "title": "expressjs / expressjs.com",
@@ -120,19 +90,19 @@
       "description": "The Express.js Website",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 5366,
-      "forks": 2266,
-      "added_stars": "2 stars this week"
+      "stars": 5365,
+      "forks": 2268,
+      "added_stars": "1 star this week"
     },
     {
-      "title": "react-native-elements / react-native-elements",
-      "url": "https://github.com/react-native-elements/react-native-elements",
-      "description": "Cross-Platform React Native UI Toolkit",
+      "title": "stellar / stellar-docs",
+      "url": "https://github.com/stellar/stellar-docs",
+      "description": "Documentation for Stellar",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 25861,
-      "forks": 4673,
-      "added_stars": "5 stars this week"
+      "stars": 137,
+      "forks": 312,
+      "added_stars": "1 star this week"
     },
     {
       "title": "newrelic / docs-website",
@@ -151,28 +121,28 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 459,
-      "forks": 2387,
+      "forks": 2390,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "react / react-native-website",
+      "url": "https://github.com/react/react-native-website",
+      "description": "The React Native website and docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 2159,
+      "forks": 6314,
       "added_stars": "2 stars this week"
     },
     {
-      "title": "stellar / stellar-docs",
-      "url": "https://github.com/stellar/stellar-docs",
-      "description": "Documentation for Stellar",
+      "title": "buchidonggua / dg-ai-notes",
+      "url": "https://github.com/buchidonggua/dg-ai-notes",
+      "description": "",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 137,
-      "forks": 312,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "LibreChat-AI / librechat.ai",
-      "url": "https://github.com/LibreChat-AI/librechat.ai",
-      "description": "Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 643,
-      "forks": 456,
-      "added_stars": "4 stars this week"
+      "stars": 2777,
+      "forks": 227,
+      "added_stars": "163 stars this week"
     },
     {
       "title": "Comfy-Org / docs",
@@ -185,34 +155,24 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "all-contributors / allcontributors.org",
-      "url": "https://github.com/all-contributors/allcontributors.org",
-      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
+      "title": "jellyfin / jellyfin.org",
+      "url": "https://github.com/jellyfin/jellyfin.org",
+      "description": "Jellyfin Project website, blog, and user documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 8100,
-      "forks": 1727,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "discord / discord-api-docs",
-      "url": "https://github.com/discord/discord-api-docs",
-      "description": "Official Discord Developer Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 6485,
-      "forks": 1382,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "react / react-native-website",
-      "url": "https://github.com/react/react-native-website",
-      "description": "The React Native website and docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2158,
-      "forks": 6311,
+      "stars": 162,
+      "forks": 707,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "LibreChat-AI / librechat.ai",
+      "url": "https://github.com/LibreChat-AI/librechat.ai",
+      "description": "Official documentation, blog, and changelog for LibreChat. Built with Next.js and Fumadocs. Live at librechat.ai",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 644,
+      "forks": 456,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "wasp-lang / open-saas",
@@ -220,19 +180,49 @@
       "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 15791,
-      "forks": 1895,
-      "added_stars": "62 stars this week"
+      "stars": 15809,
+      "forks": 1894,
+      "added_stars": "75 stars this week"
     },
     {
-      "title": "meshtastic / meshtastic",
-      "url": "https://github.com/meshtastic/meshtastic",
-      "description": "Meshtastic project website and documentation",
+      "title": "modelcontextprotocol / ext-skills",
+      "url": "https://github.com/modelcontextprotocol/ext-skills",
+      "description": "Experimental exploration of skills discovery and distribution through MCP primitives. Maintained by the Skills Over MCP Working Group.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2163,
-      "forks": 1045,
-      "added_stars": "10 stars this week"
+      "stars": 218,
+      "forks": 33,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "all-contributors / allcontributors.org",
+      "url": "https://github.com/all-contributors/allcontributors.org",
+      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 8101,
+      "forks": 1728,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "react-native-elements / react-native-elements",
+      "url": "https://github.com/react-native-elements/react-native-elements",
+      "description": "Cross-Platform React Native UI Toolkit",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 25862,
+      "forks": 4673,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "solana-foundation / solana-com",
+      "url": "https://github.com/solana-foundation/solana-com",
+      "description": "The solana.com website.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 505,
+      "forks": 407,
+      "added_stars": "5 stars this week"
     }
   ]
 }

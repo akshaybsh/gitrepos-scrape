@@ -2,27 +2,27 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 5027,
-      "forks": 483,
-      "added_stars": "92 stars this month"
-    },
     {
       "title": "szTheory / exifcleaner",
       "url": "https://github.com/szTheory/exifcleaner",
       "description": "Cross-platform desktop GUI app to clean image metadata",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2676,
+      "stars": 2679,
       "forks": 168,
-      "added_stars": "99 stars this month"
+      "added_stars": "102 stars this month"
+    },
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 5030,
+      "forks": 484,
+      "added_stars": "90 stars this month"
     },
     {
       "title": "znuny / Znuny",
@@ -42,17 +42,7 @@
       "languageColor": "#0298c3",
       "stars": 488,
       "forks": 120,
-      "added_stars": "18 stars this month"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19742,
-      "forks": 2112,
-      "added_stars": "100 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -65,24 +55,24 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19744,
+      "forks": 2112,
+      "added_stars": "101 stars this month"
+    },
+    {
       "title": "holzschu / a-shell",
       "url": "https://github.com/holzschu/a-shell",
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3912,
+      "stars": 3916,
       "forks": 212,
-      "added_stars": "57 stars this month"
-    },
-    {
-      "title": "inverse-inc / packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1689,
-      "forks": 327,
-      "added_stars": "26 stars this month"
+      "added_stars": "58 stars this month"
     },
     {
       "title": "OpenKore / openkore",
@@ -95,6 +85,26 @@
       "added_stars": "18 stars this month"
     },
     {
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1689,
+      "forks": 327,
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23521,
+      "forks": 1123,
+      "added_stars": "124 stars this month"
+    },
+    {
       "title": "Zimbra / zm-build",
       "url": "https://github.com/Zimbra/zm-build",
       "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
@@ -105,16 +115,6 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 23520,
-      "forks": 1123,
-      "added_stars": "126 stars this month"
-    },
-    {
       "title": "centreon / centreon-plugins",
       "url": "https://github.com/centreon/centreon-plugins",
       "description": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
@@ -122,7 +122,7 @@
       "languageColor": "#0298c3",
       "stars": 335,
       "forks": 306,
-      "added_stars": "2 stars this month"
+      "added_stars": "1 star this month"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -150,9 +150,9 @@
       "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3102,
+      "stars": 3104,
       "forks": 224,
-      "added_stars": "39 stars this month"
+      "added_stars": "38 stars this month"
     },
     {
       "title": "docker-library / repo-info",
@@ -172,7 +172,7 @@
       "languageColor": "#0298c3",
       "stars": 3542,
       "forks": 400,
-      "added_stars": "35 stars this month"
+      "added_stars": "36 stars this month"
     },
     {
       "title": "os-autoinst / os-autoinst-distri-opensuse",
@@ -183,6 +183,16 @@
       "stars": 91,
       "forks": 304,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "yaml / yaml-test-suite",
+      "url": "https://github.com/yaml/yaml-test-suite",
+      "description": "Comprehensive, language independent Test Suite for YAML",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 269,
+      "forks": 98,
+      "added_stars": "11 stars this month"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
+    {
+      "title": "kem-a / AppManager",
+      "url": "https://github.com/kem-a/AppManager",
+      "description": "MacOS style AppImage installer and management application",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1445,
+      "forks": 34,
+      "added_stars": "23 stars this week"
+    },
     {
       "title": "alainm23 / planify",
       "url": "https://github.com/alainm23/planify",
       "description": "Task manager with Todoist, Nextcloud & CalDAV support designed for GNOME",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 5677,
+      "stars": 5678,
       "forks": 335,
-      "added_stars": "26 stars this week"
+      "added_stars": "30 stars this week"
     },
     {
       "title": "linuxmint / timeshift",
@@ -20,8 +30,8 @@
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 4275,
-      "forks": 153,
+      "stars": 4276,
+      "forks": 154,
       "added_stars": "11 stars this week"
     },
     {
@@ -31,8 +41,8 @@
       "language": "Vala",
       "languageColor": "#a56de2",
       "stars": 2834,
-      "forks": 209,
-      "added_stars": "6 stars this week"
+      "forks": 210,
+      "added_stars": "5 stars this week"
     }
   ]
 }

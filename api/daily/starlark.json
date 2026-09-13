@@ -2,36 +2,16 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
-      "title": "googleapis / googleapis",
-      "url": "https://github.com/googleapis/googleapis",
-      "description": "Public interface definitions of Google APIs.",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8743,
-      "forks": 2631,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 593,
-      "forks": 335,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazel-contrib / rules_perl",
-      "url": "https://github.com/bazel-contrib/rules_perl",
-      "description": "Perl rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 31,
-      "forks": 49,
+      "stars": 386,
+      "forks": 888,
       "added_stars": "0 stars today"
     },
     {
@@ -55,13 +35,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
+      "title": "bazel-contrib / rules_perl",
+      "url": "https://github.com/bazel-contrib/rules_perl",
+      "description": "Perl rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 195,
-      "forks": 90,
+      "stars": 31,
+      "forks": 49,
       "added_stars": "0 stars today"
     },
     {
@@ -72,37 +52,37 @@
       "languageColor": "#76d275",
       "stars": 402,
       "forks": 88,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23067,
-      "forks": 1434,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 294,
-      "forks": 115,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 426,
-      "forks": 816,
-      "added_stars": "1 star today"
+      "stars": 195,
+      "forks": 90,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3971,
+      "forks": 304,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "googleapis / googleapis",
+      "url": "https://github.com/googleapis/googleapis",
+      "description": "Public interface definitions of Google APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 8746,
+      "forks": 2630,
+      "added_stars": "4 stars today"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -115,43 +95,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 271,
-      "forks": 85,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "googleapis / api-common-protos",
-      "url": "https://github.com/googleapis/api-common-protos",
-      "description": "A standard library for use in specifying protocol buffer APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 265,
-      "forks": 59,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3971,
-      "forks": 304,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "tronbyt / apps",
-      "url": "https://github.com/tronbyt/apps",
-      "description": "Hard Fork of Tidbyt Community Repo",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 58,
-      "forks": 136,
+      "stars": 294,
+      "forks": 115,
       "added_stars": "0 stars today"
     }
   ]

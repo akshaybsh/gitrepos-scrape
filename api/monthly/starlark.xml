@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
@@ -16,19 +16,14 @@
     <description>The central registry of Bazel modules for the Bzlmod external dependency system.</description>
   </item>
   <item>
-    <title>cel-expr / cel-spec</title>
-    <link>https://github.com/cel-expr/cel-spec</link>
-    <description>Common Expression Language -- specification and binary representation</description>
-  </item>
-  <item>
     <title>GoogleContainerTools / distroless</title>
     <link>https://github.com/GoogleContainerTools/distroless</link>
     <description>🥑 Language focused docker images, minus the operating system.</description>
   </item>
   <item>
-    <title>bazelbuild / rules_pkg</title>
-    <link>https://github.com/bazelbuild/rules_pkg</link>
-    <description>Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)</description>
+    <title>cel-expr / cel-spec</title>
+    <link>https://github.com/cel-expr/cel-spec</link>
+    <description>Common Expression Language -- specification and binary representation</description>
   </item>
   <item>
     <title>aspect-build / rules_js</title>
@@ -41,14 +36,14 @@
     <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_cc</title>
     <link>https://github.com/bazelbuild/rules_cc</link>
     <description>C++ Rules for Bazel</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
   </item>
   <item>
     <title>bazelbuild / rules_apple</title>
@@ -69,11 +64,6 @@
     <title>cgrindel / rules_swift_package_manager</title>
     <link>https://github.com/cgrindel/rules_swift_package_manager</link>
     <description>Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.</description>
-  </item>
-  <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
 </channel>
 </rss>

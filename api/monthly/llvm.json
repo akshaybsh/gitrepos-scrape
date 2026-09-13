@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,9 +10,29 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 40424,
-      "forks": 18628,
-      "added_stars": "811 stars this month"
+      "stars": 40440,
+      "forks": 18638,
+      "added_stars": "809 stars this month"
+    },
+    {
+      "title": "arm / arm-toolchain",
+      "url": "https://github.com/arm/arm-toolchain",
+      "description": "A project dedicated to building LLVM toolchain for Arm and AArch64 embedded targets and AArch64 native Linux development.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 248,
+      "forks": 53,
+      "added_stars": "12 stars this month"
+    },
+    {
+      "title": "EnzymeAD / Enzyme",
+      "url": "https://github.com/EnzymeAD/Enzyme",
+      "description": "High-performance automatic differentiation of LLVM and MLIR.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 1693,
+      "forks": 188,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "intel / llvm",
@@ -20,9 +40,9 @@
       "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 1521,
+      "stars": 1522,
       "forks": 853,
-      "added_stars": "14 stars this month"
+      "added_stars": "15 stars this month"
     }
   ]
 }

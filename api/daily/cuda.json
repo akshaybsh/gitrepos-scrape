@@ -2,37 +2,27 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7817,
-      "forks": 1250,
-      "added_stars": "7 stars today"
-    },
     {
       "title": "flashinfer-ai / flashinfer",
       "url": "https://github.com/flashinfer-ai/flashinfer",
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6380,
-      "forks": 1426,
-      "added_stars": "8 stars today"
+      "stars": 6388,
+      "forks": 1436,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30979,
-      "forks": 3762,
-      "added_stars": "13 stars today"
+      "stars": 7821,
+      "forks": 1252,
+      "added_stars": "5 stars today"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -40,29 +30,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10131,
+      "stars": 10136,
       "forks": 1434,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "CAPS-UMU / FIDESlib",
-      "url": "https://github.com/CAPS-UMU/FIDESlib",
-      "description": "A server-side CKKS GPU library fully interoperable with OpenFHE.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 113,
-      "forks": 30,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1653,
-      "forks": 405,
-      "added_stars": "3 stars today"
+      "added_stars": "6 stars today"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -72,7 +42,27 @@
       "languageColor": "#3A4E3A",
       "stars": 1038,
       "forks": 227,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30987,
+      "forks": 3762,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "thu-ml / SageAttention",
+      "url": "https://github.com/thu-ml/SageAttention",
+      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 3724,
+      "forks": 506,
+      "added_stars": "1 star today"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -82,37 +72,17 @@
       "languageColor": "#3A4E3A",
       "stars": 849,
       "forks": 232,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "thu-ml / SageAttention",
-      "url": "https://github.com/thu-ml/SageAttention",
-      "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3723,
-      "forks": 506,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "BBuf / how-to-optim-algorithm-in-cuda",
-      "url": "https://github.com/BBuf/how-to-optim-algorithm-in-cuda",
-      "description": "how to optimize some algorithm in cuda.",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 3261,
-      "forks": 290,
+      "stars": 1655,
+      "forks": 405,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "MooreThreads / LiteGS",
-      "url": "https://github.com/MooreThreads/LiteGS",
-      "description": "A refactored codebase for Gaussian Splatting. Training 3DGS in 50 seconds!",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 408,
-      "forks": 37,
-      "added_stars": "1 star today"
     }
   ]
 }

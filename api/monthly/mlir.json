@@ -2,37 +2,27 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
-    {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 161,
-      "forks": 217,
-      "added_stars": "26 stars this month"
-    },
     {
       "title": "triton-lang / triton",
       "url": "https://github.com/triton-lang/triton",
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 20135,
+      "stars": 20145,
       "forks": 3189,
-      "added_stars": "247 stars this month"
+      "added_stars": "245 stars this month"
     },
     {
-      "title": "google / heir",
-      "url": "https://github.com/google/heir",
-      "description": "A compiler for homomorphic encryption",
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 896,
-      "forks": 171,
-      "added_stars": "135 stars this month"
+      "stars": 163,
+      "forks": 217,
+      "added_stars": "26 stars this month"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -45,14 +35,14 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "EnzymeAD / Enzyme-JAX",
-      "url": "https://github.com/EnzymeAD/Enzyme-JAX",
-      "description": "Custom Bindings for Enzyme Automatic Differentiation Tool and Interfacing with JAX.",
+      "title": "google / heir",
+      "url": "https://github.com/google/heir",
+      "description": "A compiler for homomorphic encryption",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 131,
-      "forks": 51,
-      "added_stars": "5 stars this month"
+      "stars": 896,
+      "forks": 171,
+      "added_stars": "136 stars this month"
     },
     {
       "title": "facebookexperimental / triton",
@@ -62,7 +52,7 @@
       "languageColor": "#5EC8DB",
       "stars": 195,
       "forks": 71,
-      "added_stars": "9 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "tenstorrent / tt-mlir",
@@ -71,7 +61,7 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 306,
-      "forks": 151,
+      "forks": 150,
       "added_stars": "10 stars this month"
     }
   ]

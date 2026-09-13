@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "hi-godot / godot-ai",
@@ -10,19 +10,9 @@
       "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2348,
+      "stars": 2379,
       "forks": 142,
-      "added_stars": "214 stars this week"
-    },
-    {
-      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
-      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
-      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 3132,
-      "forks": 306,
-      "added_stars": "58 stars this week"
+      "added_stars": "221 stars this week"
     },
     {
       "title": "Orama-Interactive / Pixelorama",
@@ -30,8 +20,18 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 10290,
-      "forks": 546,
+      "stars": 10298,
+      "forks": 548,
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 3136,
+      "forks": 306,
       "added_stars": "49 stars this week"
     },
     {
@@ -40,9 +40,9 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9510,
-      "forks": 2229,
-      "added_stars": "46 stars this week"
+      "stars": 9515,
+      "forks": 2230,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "RodZill4 / material-maker",
@@ -50,19 +50,39 @@
       "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5910,
-      "forks": 372,
-      "added_stars": "35 stars this week"
+      "stars": 5914,
+      "forks": 373,
+      "added_stars": "33 stars this week"
     },
     {
-      "title": "dee-dee-catorce / desksaw",
-      "url": "https://github.com/dee-dee-catorce/desksaw",
-      "description": "An interactable desktop pet based on the Expie from Casualties Unknown, a neat little game by Orsoniks/Moffee.",
+      "title": "Maran23 / script-ide",
+      "url": "https://github.com/Maran23/script-ide",
+      "description": "Transforms the Script UI into an IDE like UI. Multiline Tabs, Splitting, Outline with unique icons that shows all members of the script. Quick search and function override functionality.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 192,
-      "forks": 24,
-      "added_stars": "8 stars this week"
+      "stars": 1045,
+      "forks": 41,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "dialogic-godot / dialogic",
+      "url": "https://github.com/dialogic-godot/dialogic",
+      "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 5997,
+      "forks": 349,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "Maaack / Godot-Game-Template",
+      "url": "https://github.com/Maaack/Godot-Game-Template",
+      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1644,
+      "forks": 106,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "Techokami / SonicWorldsNext",
@@ -70,9 +90,19 @@
       "description": "Official development repository for the successor to Sonic Worlds Delta",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 188,
-      "forks": 48,
-      "added_stars": "1 star this week"
+      "stars": 189,
+      "forks": 47,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "cherriesandmochi / gdmaim",
+      "url": "https://github.com/cherriesandmochi/gdmaim",
+      "description": "GDMaim is a GDScript obfuscation plugin for the Godot Engine.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 1259,
+      "forks": 73,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "gdquest-demos / godot-open-rpg",
@@ -82,17 +112,7 @@
       "languageColor": "#355570",
       "stars": 2974,
       "forks": 359,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "dialogic-godot / dialogic",
-      "url": "https://github.com/dialogic-godot/dialogic",
-      "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 5994,
-      "forks": 349,
-      "added_stars": "15 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "pablogila / TileMapDual",
@@ -100,29 +120,9 @@
       "description": "An automatic, real-time dual-grid tileset system for Godot",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1228,
+      "stars": 1234,
       "forks": 58,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "Maaack / Godot-Game-Template",
-      "url": "https://github.com/Maaack/Godot-Game-Template",
-      "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1642,
-      "forks": 106,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "cherriesandmochi / gdmaim",
-      "url": "https://github.com/cherriesandmochi/gdmaim",
-      "description": "GDMaim is a GDScript obfuscation plugin for the Godot Engine.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1258,
-      "forks": 73,
-      "added_stars": "20 stars this week"
+      "added_stars": "22 stars this week"
     },
     {
       "title": "MewPurPur / GodSVG",
@@ -132,7 +132,17 @@
       "languageColor": "#355570",
       "stars": 2741,
       "forks": 124,
-      "added_stars": "18 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "bitbrain / beehave",
+      "url": "https://github.com/bitbrain/beehave",
+      "description": "🐝 behavior tree AI for Godot Engine",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 3269,
+      "forks": 170,
+      "added_stars": "11 stars this week"
     }
   ]
 }

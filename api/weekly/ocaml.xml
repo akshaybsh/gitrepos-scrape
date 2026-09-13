@@ -4,16 +4,11 @@
   <title>GitHub Ocaml Languages Daily Trending</title>
   <description>Daily Trending of Ocaml Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
   <item>
     <title>opengrep / opengrep</title>
     <link>https://github.com/opengrep/opengrep</link>
     <description>🔎 Static code analysis engine to find security issues in code.</description>
-  </item>
-  <item>
-    <title>MinaProtocol / mina</title>
-    <link>https://github.com/MinaProtocol/mina</link>
-    <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
   </item>
   <item>
     <title>rocq-prover / rocq</title>
@@ -21,9 +16,14 @@
     <description>The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</description>
   </item>
   <item>
-    <title>facebook / infer</title>
-    <link>https://github.com/facebook/infer</link>
-    <description>A static analyzer for Java, C, C++, and Objective-C</description>
+    <title>MinaProtocol / mina</title>
+    <link>https://github.com/MinaProtocol/mina</link>
+    <description>Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</description>
+  </item>
+  <item>
+    <title>oxcaml / oxcaml</title>
+    <link>https://github.com/oxcaml/oxcaml</link>
+    <description>OCaml - Oxidized!</description>
   </item>
   <item>
     <title>AeneasVerif / aeneas</title>
@@ -34,6 +34,11 @@
     <title>ocaml / ocaml</title>
     <link>https://github.com/ocaml/ocaml</link>
     <description>The core OCaml system: compilers, runtime system, base libraries</description>
+  </item>
+  <item>
+    <title>facebook / infer</title>
+    <link>https://github.com/facebook/infer</link>
+    <description>A static analyzer for Java, C, C++, and Objective-C</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
       "title": "flashinfer-ai / flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6380,
-      "forks": 1426,
-      "added_stars": "248 stars this month"
+      "stars": 6388,
+      "forks": 1436,
+      "added_stars": "250 stars this month"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -20,19 +20,9 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10132,
+      "stars": 10136,
       "forks": 1434,
-      "added_stars": "177 stars this month"
-    },
-    {
-      "title": "deepseek-ai / DeepGEMM",
-      "url": "https://github.com/deepseek-ai/DeepGEMM",
-      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 7817,
-      "forks": 1250,
-      "added_stars": "183 stars this month"
+      "added_stars": "181 stars this month"
     },
     {
       "title": "thu-ml / SageAttention",
@@ -40,9 +30,39 @@
       "description": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3723,
+      "stars": 3724,
       "forks": 506,
-      "added_stars": "110 stars this month"
+      "added_stars": "107 stars this month"
+    },
+    {
+      "title": "deepseek-ai / DeepGEMM",
+      "url": "https://github.com/deepseek-ai/DeepGEMM",
+      "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 7821,
+      "forks": 1252,
+      "added_stars": "181 stars this month"
+    },
+    {
+      "title": "NVIDIA / cuopt",
+      "url": "https://github.com/NVIDIA/cuopt",
+      "description": "GPU accelerated decision optimization",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1038,
+      "forks": 227,
+      "added_stars": "36 stars this month"
+    },
+    {
+      "title": "karpathy / llm.c",
+      "url": "https://github.com/karpathy/llm.c",
+      "description": "LLM training in simple, raw C/CUDA",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 30987,
+      "forks": 3762,
+      "added_stars": "234 stars this month"
     },
     {
       "title": "NVIDIA / cuvs",
@@ -55,16 +75,6 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "karpathy / llm.c",
-      "url": "https://github.com/karpathy/llm.c",
-      "description": "LLM training in simple, raw C/CUDA",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 30979,
-      "forks": 3762,
-      "added_stars": "231 stars this month"
-    },
-    {
       "title": "NVIDIA / raft",
       "url": "https://github.com/NVIDIA/raft",
       "description": "RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.",
@@ -73,16 +83,6 @@
       "stars": 1040,
       "forks": 249,
       "added_stars": "5 stars this month"
-    },
-    {
-      "title": "NVIDIA / cuopt",
-      "url": "https://github.com/NVIDIA/cuopt",
-      "description": "GPU accelerated decision optimization",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 1038,
-      "forks": 227,
-      "added_stars": "36 stars this month"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -102,7 +102,7 @@
       "languageColor": "#3A4E3A",
       "stars": 3675,
       "forks": 320,
-      "added_stars": "59 stars this month"
+      "added_stars": "53 stars this month"
     },
     {
       "title": "mirage-project / mirage",
@@ -111,8 +111,8 @@
       "language": "Cuda",
       "languageColor": "#3A4E3A",
       "stars": 2490,
-      "forks": 249,
-      "added_stars": "75 stars this month"
+      "forks": 250,
+      "added_stars": "74 stars this month"
     },
     {
       "title": "NVIDIA / cuCollections",
@@ -120,9 +120,9 @@
       "description": "",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 663,
-      "forks": 118,
-      "added_stars": "4 stars this month"
+      "stars": 664,
+      "forks": 119,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -130,9 +130,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1653,
+      "stars": 1655,
       "forks": 405,
-      "added_stars": "35 stars this month"
+      "added_stars": "36 stars this month"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
@@ -142,7 +142,17 @@
       "languageColor": "#3A4E3A",
       "stars": 3261,
       "forks": 290,
-      "added_stars": "70 stars this month"
+      "added_stars": "68 stars this month"
+    },
+    {
+      "title": "rapidsai / cugraph",
+      "url": "https://github.com/rapidsai/cugraph",
+      "description": "cuGraph - RAPIDS Graph Analytics Library",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2233,
+      "forks": 365,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "NVIDIA / cudf-spark-jni",
@@ -153,16 +163,6 @@
       "stars": 66,
       "forks": 93,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "rapidsai / cugraph",
-      "url": "https://github.com/rapidsai/cugraph",
-      "description": "cuGraph - RAPIDS Graph Analytics Library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2233,
-      "forks": 365,
-      "added_stars": "16 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "Tencent / WeKnora",
@@ -10,9 +10,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22449,
-      "forks": 3225,
-      "added_stars": "964 stars this week"
+      "stars": 22724,
+      "forks": 3257,
+      "added_stars": "1,168 stars this week"
     },
     {
       "title": "ollama / ollama",
@@ -20,39 +20,9 @@
       "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 180711,
-      "forks": 17820,
-      "added_stars": "668 stars this week"
-    },
-    {
-      "title": "QuantumNous / new-api",
-      "url": "https://github.com/QuantumNous/new-api",
-      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 47946,
-      "forks": 11464,
-      "added_stars": "663 stars this week"
-    },
-    {
-      "title": "Gentleman-Programming / gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6677,
-      "forks": 739,
-      "added_stars": "441 stars this week"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8261,
-      "forks": 435,
-      "added_stars": "250 stars this week"
+      "stars": 180770,
+      "forks": 17836,
+      "added_stars": "651 stars this week"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -60,9 +30,9 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23024,
-      "forks": 3033,
-      "added_stars": "698 stars this week"
+      "stars": 23576,
+      "forks": 3073,
+      "added_stars": "922 stars this week"
     },
     {
       "title": "maximhq / bifrost",
@@ -70,29 +40,39 @@
       "description": "Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7990,
-      "forks": 1197,
-      "added_stars": "185 stars this week"
+      "stars": 8005,
+      "forks": 1201,
+      "added_stars": "193 stars this week"
     },
     {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5744,
-      "forks": 936,
-      "added_stars": "181 stars this week"
+      "stars": 8268,
+      "forks": 436,
+      "added_stars": "255 stars this week"
     },
     {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29138,
-      "forks": 1672,
-      "added_stars": "245 stars this week"
+      "stars": 47982,
+      "forks": 11483,
+      "added_stars": "654 stars this week"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6710,
+      "forks": 742,
+      "added_stars": "439 stars this week"
     },
     {
       "title": "projectdiscovery / katana",
@@ -100,19 +80,29 @@
       "description": "A next-generation crawling and spidering framework.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 17473,
-      "forks": 1176,
-      "added_stars": "83 stars this week"
+      "stars": 17488,
+      "forks": 1178,
+      "added_stars": "90 stars this week"
     },
     {
-      "title": "rclone / rclone",
-      "url": "https://github.com/rclone/rclone",
-      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 59721,
-      "forks": 5383,
-      "added_stars": "180 stars this week"
+      "stars": 24149,
+      "forks": 7840,
+      "added_stars": "73 stars this week"
+    },
+    {
+      "title": "amir20 / dozzle",
+      "url": "https://github.com/amir20/dozzle",
+      "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14360,
+      "forks": 614,
+      "added_stars": "92 stars this week"
     },
     {
       "title": "XTLS / Xray-core",
@@ -120,19 +110,9 @@
       "description": "Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 41543,
-      "forks": 5874,
-      "added_stars": "156 stars this week"
-    },
-    {
-      "title": "mudler / LocalAI",
-      "url": "https://github.com/mudler/LocalAI",
-      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 49061,
-      "forks": 4440,
-      "added_stars": "223 stars this week"
+      "stars": 41554,
+      "forks": 5875,
+      "added_stars": "160 stars this week"
     },
     {
       "title": "Gentleman-Programming / engram",
@@ -140,29 +120,69 @@
       "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6539,
-      "forks": 681,
+      "stars": 6563,
+      "forks": 680,
       "added_stars": "215 stars this week"
     },
     {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "title": "vllm-project / semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 105097,
-      "forks": 6086,
-      "added_stars": "1,646 stars this week"
+      "stars": 5764,
+      "forks": 937,
+      "added_stars": "170 stars this week"
     },
     {
-      "title": "googleapis / google-api-go-client",
-      "url": "https://github.com/googleapis/google-api-go-client",
-      "description": "Auto-generated Google APIs for Go.",
+      "title": "rclone / rclone",
+      "url": "https://github.com/rclone/rclone",
+      "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4474,
-      "forks": 1450,
-      "added_stars": "6 stars this week"
+      "stars": 59743,
+      "forks": 5387,
+      "added_stars": "184 stars this week"
+    },
+    {
+      "title": "grpc / grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23059,
+      "forks": 4761,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "DataDog / datadog-agent",
+      "url": "https://github.com/DataDog/datadog-agent",
+      "description": "Main repository for Datadog Agent",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3725,
+      "forks": 1485,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34608,
+      "forks": 2997,
+      "added_stars": "136 stars this week"
+    },
+    {
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28941,
+      "forks": 1480,
+      "added_stars": "142 stars this week"
     }
   ]
 }

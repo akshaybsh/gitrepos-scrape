@@ -2,37 +2,57 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
-    {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 42415,
-      "forks": 2404,
-      "added_stars": "3,463 stars today"
-    },
     {
       "title": "jihe520 / MathModelAgent",
       "url": "https://github.com/jihe520/MathModelAgent",
       "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4933,
-      "forks": 394,
-      "added_stars": "129 stars today"
+      "stars": 5200,
+      "forks": 404,
+      "added_stars": "262 stars today"
     },
     {
-      "title": "jordan-gibbs / hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2782,
-      "forks": 269,
-      "added_stars": "153 stars today"
+      "stars": 137743,
+      "forks": 20242,
+      "added_stars": "230 stars today"
+    },
+    {
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3737,
+      "forks": 564,
+      "added_stars": "113 stars today"
+    },
+    {
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7422,
+      "forks": 837,
+      "added_stars": "210 stars today"
+    },
+    {
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 43638,
+      "forks": 2490,
+      "added_stars": "2,584 stars today"
     },
     {
       "title": "github / spec-kit",
@@ -40,19 +60,29 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 135854,
-      "forks": 12206,
-      "added_stars": "1,015 stars today"
+      "stars": 136108,
+      "forks": 12232,
+      "added_stars": "375 stars today"
     },
     {
-      "title": "k2-fsa / OmniVoice",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "title": "virgiliojr94 / book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12474,
-      "forks": 1913,
-      "added_stars": "572 stars today"
+      "stars": 30328,
+      "forks": 3144,
+      "added_stars": "288 stars today"
+    },
+    {
+      "title": "petergyang / no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8796,
+      "forks": 651,
+      "added_stars": "178 stars today"
     },
     {
       "title": "D4Vinci / Scrapling",
@@ -60,99 +90,49 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 80355,
-      "forks": 8116,
-      "added_stars": "338 stars today"
+      "stars": 80588,
+      "forks": 8136,
+      "added_stars": "226 stars today"
     },
     {
-      "title": "bojieli / ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "title": "k2-fsa / OmniVoice",
+      "url": "https://github.com/k2-fsa/OmniVoice",
+      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 45956,
-      "forks": 5141,
-      "added_stars": "301 stars today"
+      "stars": 12961,
+      "forks": 1968,
+      "added_stars": "534 stars today"
     },
     {
-      "title": "SimplifyJobs / Summer2027-Internships",
-      "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
-      "description": "Summer 2027 software engineering, data science, AI, quant, product management, and hardware internship postings. Updated daily by Simplify and Pitt CSC.",
+      "title": "google-gemini / gemini-skills",
+      "url": "https://github.com/google-gemini/gemini-skills",
+      "description": "Skills for the Gemini API, SDK and model/agent interactions",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 47353,
-      "forks": 3246,
-      "added_stars": "49 stars today"
+      "stars": 4105,
+      "forks": 428,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
+      "title": "jordan-gibbs / hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 54299,
-      "forks": 9470,
-      "added_stars": "175 stars today"
+      "stars": 3096,
+      "forks": 294,
+      "added_stars": "642 stars today"
     },
     {
-      "title": "bobeff / open-source-games",
-      "url": "https://github.com/bobeff/open-source-games",
-      "description": "A list of open source games.",
+      "title": "jundot / omlx",
+      "url": "https://github.com/jundot/omlx",
+      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 13896,
-      "forks": 1120,
-      "added_stars": "123 stars today"
-    },
-    {
-      "title": "datahub-project / datahub",
-      "url": "https://github.com/datahub-project/datahub",
-      "description": "The Context Platform for your Data and AI Stack",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 12694,
-      "forks": 3691,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "volcengine / OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 36749,
-      "forks": 2813,
-      "added_stars": "200 stars today"
-    },
-    {
-      "title": "Asabeneh / 30-Days-Of-Python",
-      "url": "https://github.com/Asabeneh/30-Days-Of-Python",
-      "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 73542,
-      "forks": 13441,
-      "added_stars": "124 stars today"
-    },
-    {
-      "title": "NVIDIA / garak",
-      "url": "https://github.com/NVIDIA/garak",
-      "description": "the LLM vulnerability scanner",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9208,
-      "forks": 1271,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "donnemartin / system-design-primer",
-      "url": "https://github.com/donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 369491,
-      "forks": 58376,
-      "added_stars": "268 stars today"
+      "stars": 21670,
+      "forks": 1871,
+      "added_stars": "25 stars today"
     }
   ]
 }

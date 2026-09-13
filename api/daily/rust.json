@@ -2,157 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
-      "title": "alphaXiv / OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Run parallel research agents with any model",
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1425,
-      "forks": 98,
-      "added_stars": "120 stars today"
+      "stars": 7335,
+      "forks": 258,
+      "added_stars": "54 stars today"
     },
     {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1587,
-      "forks": 161,
-      "added_stars": "102 stars today"
-    },
-    {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 19200,
-      "forks": 1859,
-      "added_stars": "259 stars today"
-    },
-    {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 30950,
-      "forks": 1828,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "clockworklabs / SpacetimeDB",
-      "url": "https://github.com/clockworklabs/SpacetimeDB",
-      "description": "Development at the speed of light",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 25156,
-      "forks": 1064,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36124,
-      "forks": 2283,
-      "added_stars": "449 stars today"
-    },
-    {
-      "title": "RyanCodrai / turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 16947,
-      "forks": 1454,
-      "added_stars": "91 stars today"
-    },
-    {
-      "title": "NVlabs / cuda-oxide",
-      "url": "https://github.com/NVlabs/cuda-oxide",
-      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3280,
-      "forks": 262,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8040,
-      "forks": 1578,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "farion1231 / cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 132418,
-      "forks": 9132,
-      "added_stars": "210 stars today"
-    },
-    {
-      "title": "akitaonrails / ai-usagebar",
-      "url": "https://github.com/akitaonrails/ai-usagebar",
-      "description": "Rust-based waybar widget to monitor status of Claude, GPT, GLM, OpenRouter plans/credits - inspired by claudebar/codexbar",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 475,
-      "forks": 97,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "Mesh-LLM / mesh-llm",
-      "url": "https://github.com/Mesh-LLM/mesh-llm",
-      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3387,
-      "forks": 409,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 123222,
-      "forks": 18982,
-      "added_stars": "108 stars today"
-    },
-    {
-      "title": "windmill-labs / windmill",
-      "url": "https://github.com/windmill-labs/windmill",
-      "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17896,
-      "forks": 1095,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "FalkorDB / FalkorDB",
-      "url": "https://github.com/FalkorDB/FalkorDB",
-      "description": "A super fast Graph Database uses GraphBLAS under the hood for its sparse adjacency matrix graph representation. Our goal is to provide the best Knowledge Graph for LLM (GraphRAG).",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6049,
-      "forks": 461,
-      "added_stars": "31 stars today"
+      "stars": 11025,
+      "forks": 978,
+      "added_stars": "839 stars today"
     },
     {
       "title": "superradcompany / microsandbox",
@@ -160,38 +30,158 @@
       "description": "🧱 Easy fast local-first microVM runtime and library",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8207,
-      "forks": 433,
-      "added_stars": "27 stars today"
+      "stars": 8240,
+      "forks": 434,
+      "added_stars": "38 stars today"
     },
     {
-      "title": "coulsontl / ai-toolbox",
-      "url": "https://github.com/coulsontl/ai-toolbox",
-      "description": "Personal AI Toolbox",
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1529,
-      "forks": 101,
+      "stars": 1743,
+      "forks": 167,
+      "added_stars": "99 stars today"
+    },
+    {
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Run parallel research agents with any model",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1710,
+      "forks": 126,
+      "added_stars": "452 stars today"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2524,
+      "forks": 318,
+      "added_stars": "87 stars today"
+    },
+    {
+      "title": "RyanCodrai / turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 17020,
+      "forks": 1457,
+      "added_stars": "84 stars today"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 19276,
+      "forks": 1871,
+      "added_stars": "118 stars today"
+    },
+    {
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36322,
+      "forks": 2297,
+      "added_stars": "172 stars today"
+    },
+    {
+      "title": "teamclouday / AndroidMic",
+      "url": "https://github.com/teamclouday/AndroidMic",
+      "description": "Use your Android phone as a microphone for your PC",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1639,
+      "forks": 106,
+      "added_stars": "47 stars today"
+    },
+    {
+      "title": "DioxusLabs / dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39072,
+      "forks": 1884,
       "added_stars": "33 stars today"
     },
     {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6991,
-      "forks": 248,
-      "added_stars": "44 stars today"
+      "stars": 39723,
+      "forks": 3918,
+      "added_stars": "45 stars today"
     },
     {
-      "title": "git-ai-project / git-ai",
-      "url": "https://github.com/git-ai-project/git-ai",
-      "description": "A Git extension for tracking the AI-generated code in your repos",
+      "title": "facebook / pyrefly",
+      "url": "https://github.com/facebook/pyrefly",
+      "description": "A fast type checker and language server for Python",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2598,
-      "forks": 287,
+      "stars": 6960,
+      "forks": 514,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "NVlabs / cuda-oxide",
+      "url": "https://github.com/NVlabs/cuda-oxide",
+      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3303,
+      "forks": 262,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "reacherhq / check-if-email-exists",
+      "url": "https://github.com/reacherhq/check-if-email-exists",
+      "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9752,
+      "forks": 706,
+      "added_stars": "98 stars today"
+    },
+    {
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32029,
+      "forks": 1439,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "googleworkspace / cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30966,
+      "forks": 1829,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "bytecodealliance / wasmtime",
+      "url": "https://github.com/bytecodealliance/wasmtime",
+      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18628,
+      "forks": 1826,
       "added_stars": "6 stars today"
     }
   ]

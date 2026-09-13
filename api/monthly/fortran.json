@@ -2,17 +2,27 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 759,
-      "added_stars": "3 stars this month"
+      "stars": 22,
+      "forks": 34,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1754,
+      "forks": 882,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "E3SM-Project / E3SM",
@@ -25,6 +35,16 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 405,
+      "forks": 760,
+      "added_stars": "2 stars this month"
+    },
+    {
       "title": "Reference-LAPACK / lapack",
       "url": "https://github.com/Reference-LAPACK/lapack",
       "description": "LAPACK development repository",
@@ -35,16 +55,6 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1753,
-      "forks": 882,
-      "added_stars": "20 stars this month"
-    },
-    {
       "title": "GEOS-ESM / MAPL",
       "url": "https://github.com/GEOS-ESM/MAPL",
       "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
@@ -53,16 +63,6 @@
       "stars": 44,
       "forks": 25,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "MetOffice / jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 22,
-      "forks": 34,
-      "added_stars": "2 stars this month"
     },
     {
       "title": "MetOffice / lfric_apps",
@@ -82,7 +82,7 @@
       "languageColor": "#4d41b1",
       "stars": 1205,
       "forks": 497,
-      "added_stars": "25 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -110,9 +110,9 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1702,
+      "stars": 1703,
       "forks": 396,
-      "added_stars": "44 stars this month"
+      "added_stars": "42 stars this month"
     },
     {
       "title": "MCSclimate / MCT",
@@ -130,9 +130,9 @@
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 966,
-      "forks": 538,
-      "added_stars": "18 stars this month"
+      "stars": 967,
+      "forks": 539,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -145,6 +145,16 @@
       "added_stars": "11 stars this month"
     },
     {
+      "title": "ecmwf-ifs / ectrans",
+      "url": "https://github.com/ecmwf-ifs/ectrans",
+      "description": "Efficient and scalable spectral transforms",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 63,
+      "added_stars": "0 stars this month"
+    },
+    {
       "title": "grimme-lab / xtb",
       "url": "https://github.com/grimme-lab/xtb",
       "description": "Semiempirical Extended Tight-Binding Program Package",
@@ -152,7 +162,7 @@
       "languageColor": "#4d41b1",
       "stars": 839,
       "forks": 206,
-      "added_stars": "14 stars this month"
+      "added_stars": "13 stars this month"
     }
   ]
 }

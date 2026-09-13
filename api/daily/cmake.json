@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,8 +10,8 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27459,
-      "forks": 7715,
+      "stars": 27460,
+      "forks": 7718,
       "added_stars": "3 stars today"
     },
     {
@@ -25,14 +25,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "boostorg / cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 120,
-      "forks": 37,
-      "added_stars": "0 stars today"
+      "stars": 1746,
+      "forks": 254,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1643,
+      "forks": 131,
+      "added_stars": "2 stars today"
     }
   ]
 }

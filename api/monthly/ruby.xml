@@ -4,16 +4,11 @@
   <title>GitHub Ruby Languages Daily Trending</title>
   <description>Daily Trending of Ruby Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
   <item>
     <title>huginn / huginn</title>
     <link>https://github.com/huginn/huginn</link>
     <description>Create agents that monitor and act on your behalf. Your agents are standing by!</description>
-  </item>
-  <item>
-    <title>freeCodeCamp / devdocs</title>
-    <link>https://github.com/freeCodeCamp/devdocs</link>
-    <description>API Documentation Browser</description>
   </item>
   <item>
     <title>we-promise / sure</title>
@@ -21,9 +16,9 @@
     <description>The personal finance app for everyone (by everyone)</description>
   </item>
   <item>
-    <title>Homebrew / brew</title>
-    <link>https://github.com/Homebrew/brew</link>
-    <description>🍺 The Package Manager for Everywhere</description>
+    <title>freeCodeCamp / devdocs</title>
+    <link>https://github.com/freeCodeCamp/devdocs</link>
+    <description>API Documentation Browser</description>
   </item>
   <item>
     <title>opf / openproject</title>
@@ -36,6 +31,11 @@
     <description>Language Savant. If your repository&#x27;s language is being reported incorrectly, send us a pull request!</description>
   </item>
   <item>
+    <title>Homebrew / homebrew-core</title>
+    <link>https://github.com/Homebrew/homebrew-core</link>
+    <description>🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere</description>
+  </item>
+  <item>
     <title>discourse / discourse</title>
     <link>https://github.com/discourse/discourse</link>
     <description>A platform for community discussion. Free, open, simple.</description>
@@ -46,34 +46,14 @@
     <description>Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.</description>
   </item>
   <item>
-    <title>jekyll / jekyll</title>
-    <link>https://github.com/jekyll/jekyll</link>
-    <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
-  </item>
-  <item>
-    <title>Homebrew / homebrew-core</title>
-    <link>https://github.com/Homebrew/homebrew-core</link>
-    <description>🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere</description>
-  </item>
-  <item>
     <title>basecamp / fizzy</title>
     <link>https://github.com/basecamp/fizzy</link>
     <description>Kanban as it should be. Not as it has been.</description>
   </item>
   <item>
-    <title>rubocop / rubocop</title>
-    <link>https://github.com/rubocop/rubocop</link>
-    <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
-  </item>
-  <item>
-    <title>dependabot / dependabot-core</title>
-    <link>https://github.com/dependabot/dependabot-core</link>
-    <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
-  </item>
-  <item>
-    <title>mastodon / mastodon</title>
-    <link>https://github.com/mastodon/mastodon</link>
-    <description>Your self-hosted, globally interconnected microblogging community</description>
+    <title>jekyll / jekyll</title>
+    <link>https://github.com/jekyll/jekyll</link>
+    <description>🌐 Jekyll is a blog-aware static site generator in Ruby</description>
   </item>
   <item>
     <title>rapid7 / metasploit-framework</title>
@@ -81,14 +61,19 @@
     <description>Metasploit Framework</description>
   </item>
   <item>
-    <title>fastlane / fastlane</title>
-    <link>https://github.com/fastlane/fastlane</link>
-    <description>🚀 The easiest way to automate building and releasing your iOS and Android apps</description>
+    <title>rubocop / rubocop</title>
+    <link>https://github.com/rubocop/rubocop</link>
+    <description>A Ruby static code analyzer and formatter, based on the community Ruby style guide.</description>
   </item>
   <item>
-    <title>zammad / zammad</title>
-    <link>https://github.com/zammad/zammad</link>
-    <description>Zammad is a web based open source helpdesk/customer support system.</description>
+    <title>mastodon / mastodon</title>
+    <link>https://github.com/mastodon/mastodon</link>
+    <description>Your self-hosted, globally interconnected microblogging community</description>
+  </item>
+  <item>
+    <title>dependabot / dependabot-core</title>
+    <link>https://github.com/dependabot/dependabot-core</link>
+    <description>🤖 Dependabot&#x27;s core logic for creating update PRs.</description>
   </item>
   <item>
     <title>github / explore</title>
@@ -96,9 +81,14 @@
     <description>Community-curated topic and collection pages on GitHub</description>
   </item>
   <item>
-    <title>antiwork / gumroad</title>
-    <link>https://github.com/antiwork/gumroad</link>
-    <description>See what sticks</description>
+    <title>zammad / zammad</title>
+    <link>https://github.com/zammad/zammad</link>
+    <description>Zammad is a web based open source helpdesk/customer support system.</description>
+  </item>
+  <item>
+    <title>Freika / dawarich</title>
+    <link>https://github.com/Freika/dawarich</link>
+    <description>Your favorite self-hostable alternative to Google Timeline (Google Location History)</description>
   </item>
   <item>
     <title>postalserver / postal</title>
@@ -111,6 +101,11 @@
     <description>A curated list of engineering blogs</description>
   </item>
   <item>
+    <title>antiwork / gumroad</title>
+    <link>https://github.com/antiwork/gumroad</link>
+    <description>See what sticks</description>
+  </item>
+  <item>
     <title>crmne / ruby_llm</title>
     <link>https://github.com/crmne/ruby_llm</link>
     <description>One delightful Ruby framework for every major AI provider. Build AI agents, chatbots, RAG apps, and multimodal workflows in beautiful, expressive code.</description>
@@ -121,9 +116,9 @@
     <description>Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.</description>
   </item>
   <item>
-    <title>Freika / dawarich</title>
-    <link>https://github.com/Freika/dawarich</link>
-    <description>Your favorite self-hostable alternative to Google Timeline (Google Location History)</description>
+    <title>basecamp / once-campfire</title>
+    <link>https://github.com/basecamp/once-campfire</link>
+    <description>Super simple group chat, without a subscription</description>
   </item>
 </channel>
 </rss>

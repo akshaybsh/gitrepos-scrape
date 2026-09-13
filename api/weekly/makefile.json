@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "ROCKNIX / distribution",
@@ -10,19 +10,19 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1544,
-      "forks": 349,
-      "added_stars": "14 stars this week"
+      "stars": 1549,
+      "forks": 351,
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "freebsd / freebsd-ports",
-      "url": "https://github.com/freebsd/freebsd-ports",
-      "description": "FreeBSD ports tree (read-only mirror)",
+      "title": "openwrt / packages",
+      "url": "https://github.com/openwrt/packages",
+      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1203,
-      "forks": 873,
-      "added_stars": "4 stars this week"
+      "stars": 4608,
+      "forks": 3966,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "uber-go / guide",
@@ -30,9 +30,9 @@
       "description": "The Uber Go Style Guide.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 17702,
-      "forks": 1814,
-      "added_stars": "20 stars this week"
+      "stars": 17701,
+      "forks": 1815,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "foostan / crkbd",
@@ -40,9 +40,19 @@
       "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7645,
+      "stars": 7647,
       "forks": 1098,
-      "added_stars": "9 stars this week"
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3161,
+      "forks": 140,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
@@ -55,24 +65,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "PartialVolume / shredos.x86_64",
-      "url": "https://github.com/PartialVolume/shredos.x86_64",
-      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "title": "freebsd / freebsd-ports",
+      "url": "https://github.com/freebsd/freebsd-ports",
+      "description": "FreeBSD ports tree (read-only mirror)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 3160,
-      "forks": 140,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "openwrt / packages",
-      "url": "https://github.com/openwrt/packages",
-      "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4606,
-      "forks": 3965,
-      "added_stars": "11 stars this week"
+      "stars": 1203,
+      "forks": 873,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "golang-standards / project-layout",
@@ -80,19 +80,9 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56564,
-      "forks": 5424,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "adriannovegil / awesome-observability",
-      "url": "https://github.com/adriannovegil/awesome-observability",
-      "description": "Awesome observability page",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 672,
-      "forks": 174,
-      "added_stars": "6 stars this week"
+      "stars": 56571,
+      "forks": 5425,
+      "added_stars": "43 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-proto-go",
@@ -105,34 +95,54 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4316,
+      "forks": 123,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "liberationfonts / liberation-fonts",
+      "url": "https://github.com/liberationfonts/liberation-fonts",
+      "description": "The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 571,
+      "forks": 30,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "deepseek-ai / DeepSeek-LLM",
+      "url": "https://github.com/deepseek-ai/DeepSeek-LLM",
+      "description": "DeepSeek LLM: Let there be answers",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7249,
+      "forks": 1283,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "mozilla / addons",
+      "url": "https://github.com/mozilla/addons",
+      "description": "☂ Umbrella repository for Mozilla Addons ✨",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 133,
+      "forks": 52,
+      "added_stars": "0 stars this week"
+    },
+    {
       "title": "jobbole / awesome-python-cn",
       "url": "https://github.com/jobbole/awesome-python-cn",
       "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 30602,
+      "stars": 30603,
       "forks": 7918,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "WerWolv / Tesla-Menu",
-      "url": "https://github.com/WerWolv/Tesla-Menu",
-      "description": "The Nintendo Switch overlay menu",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1130,
-      "forks": 51,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "mindsdb / mindshub",
-      "url": "https://github.com/mindsdb/mindshub",
-      "description": "The unified workspace where open-source models get things done for you.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 39726,
-      "forks": 6242,
-      "added_stars": "34 stars this week"
+      "added_stars": "24 stars this week"
     },
     {
       "title": "itchio / itch.io",
@@ -143,16 +153,6 @@
       "stars": 282,
       "forks": 41,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "LibreELEC / LibreELEC.tv",
-      "url": "https://github.com/LibreELEC/LibreELEC.tv",
-      "description": "Just enough OS for KODI",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2813,
-      "forks": 1202,
-      "added_stars": "5 stars this week"
     }
   ]
 }

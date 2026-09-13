@@ -2,27 +2,37 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
-    {
-      "title": "zedeus / nitter",
-      "url": "https://github.com/zedeus/nitter",
-      "description": "Alternative Twitter front-end",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 14457,
-      "forks": 1326,
-      "added_stars": "367 stars this week"
-    },
     {
       "title": "nim-lang / Nim",
       "url": "https://github.com/nim-lang/Nim",
       "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 18230,
-      "forks": 1551,
-      "added_stars": "20 stars this week"
+      "stars": 18231,
+      "forks": 1553,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "zedeus / nitter",
+      "url": "https://github.com/zedeus/nitter",
+      "description": "Alternative Twitter front-end",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 14460,
+      "forks": 1330,
+      "added_stars": "373 stars this week"
+    },
+    {
+      "title": "status-im / nimbus-eth1",
+      "url": "https://github.com/status-im/nimbus-eth1",
+      "description": "Nimbus: an Ethereum Execution Client for Resource-Restricted Devices",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 629,
+      "forks": 163,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "nim-lang / packages",
@@ -31,7 +41,7 @@
       "language": "Nim",
       "languageColor": "#ffc200",
       "stars": 500,
-      "forks": 790,
+      "forks": 791,
       "added_stars": "1 star this week"
     }
   ]

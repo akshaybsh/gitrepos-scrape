@@ -2,17 +2,67 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
+    {
+      "title": "jaywcjlove / reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 15255,
+      "forks": 2226,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2585,
+      "forks": 310,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4874,
+      "forks": 1975,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "goldbergyoni / nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105610,
-      "forks": 10723,
-      "added_stars": "2 stars today"
+      "stars": 105613,
+      "forks": 10724,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "corretto / corretto-docker",
+      "url": "https://github.com/corretto/corretto-docker",
+      "description": "Dockerfiles for Amazon Corretto Official images.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 198,
+      "forks": 68,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "microsoft / vscode-remote-release",
+      "url": "https://github.com/microsoft/vscode-remote-release",
+      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4172,
+      "forks": 469,
+      "added_stars": "0 stars today"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -20,18 +70,8 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12057,
+      "stars": 12058,
       "forks": 3714,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 284,
-      "forks": 2093,
       "added_stars": "0 stars today"
     },
     {
@@ -45,54 +85,14 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
+      "title": "linuxserver / docker-unifi-network-application",
+      "url": "https://github.com/linuxserver/docker-unifi-network-application",
+      "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4874,
-      "forks": 1975,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jaywcjlove / reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 15249,
-      "forks": 2225,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "microsoft / vscode-remote-release",
-      "url": "https://github.com/microsoft/vscode-remote-release",
-      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4172,
-      "forks": 469,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2584,
-      "forks": 310,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "compose-spec / compose-spec",
-      "url": "https://github.com/compose-spec/compose-spec",
-      "description": "The Compose specification",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2727,
-      "forks": 786,
-      "added_stars": "1 star today"
+      "stars": 1172,
+      "forks": 98,
+      "added_stars": "3 stars today"
     },
     {
       "title": "Gar-b-age / CookLikeHOC",
@@ -100,29 +100,9 @@
       "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 24617,
-      "forks": 2395,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "aws-amplify / amplify-hosting",
-      "url": "https://github.com/aws-amplify/amplify-hosting",
-      "description": "AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 480,
-      "forks": 123,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "redhat-openshift-ecosystem / community-operators-prod",
-      "url": "https://github.com/redhat-openshift-ecosystem/community-operators-prod",
-      "description": "community-operators metadata backing OpenShift OperatorHub",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 140,
-      "forks": 658,
-      "added_stars": "0 stars today"
+      "stars": 24615,
+      "forks": 2396,
+      "added_stars": "4 stars today"
     }
   ]
 }

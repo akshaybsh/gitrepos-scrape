@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "znuny / Znuny",
@@ -15,14 +15,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "Perl / perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2323,
-      "forks": 641,
-      "added_stars": "2 stars this week"
+      "stars": 5030,
+      "forks": 484,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -32,17 +32,7 @@
       "languageColor": "#0298c3",
       "stars": 488,
       "forks": 120,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 5027,
-      "forks": 483,
-      "added_stars": "23 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -60,9 +50,9 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3912,
+      "stars": 3916,
       "forks": 212,
-      "added_stars": "14 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
       "title": "brendangregg / FlameGraph",
@@ -70,9 +60,9 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19742,
+      "stars": 19744,
       "forks": 2112,
-      "added_stars": "14 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
       "title": "AlDanial / cloc",
@@ -80,9 +70,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23520,
+      "stars": 23521,
       "forks": 1123,
-      "added_stars": "24 stars this week"
+      "added_stars": "26 stars this week"
     },
     {
       "title": "ddclient / ddclient",
@@ -92,27 +82,7 @@
       "languageColor": "#0298c3",
       "stars": 3542,
       "forks": 400,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "major / MySQLTuner-perl",
-      "url": "https://github.com/major/MySQLTuner-perl",
-      "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 9479,
-      "forks": 1288,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "so-fancy / diff-so-fancy",
-      "url": "https://github.com/so-fancy/diff-so-fancy",
-      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 18087,
-      "forks": 347,
-      "added_stars": "2 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -125,14 +95,24 @@
       "added_stars": "5 stars this week"
     },
     {
-      "title": "szTheory / exifcleaner",
-      "url": "https://github.com/szTheory/exifcleaner",
-      "description": "Cross-platform desktop GUI app to clean image metadata",
+      "title": "major / MySQLTuner-perl",
+      "url": "https://github.com/major/MySQLTuner-perl",
+      "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2676,
-      "forks": 168,
-      "added_stars": "13 stars this week"
+      "stars": 9479,
+      "forks": 1288,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "so-fancy / diff-so-fancy",
+      "url": "https://github.com/so-fancy/diff-so-fancy",
+      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 18088,
+      "forks": 347,
+      "added_stars": "3 stars this week"
     }
   ]
 }

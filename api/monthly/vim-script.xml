@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:52:07 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
@@ -21,6 +21,11 @@
     <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
     <title>github / copilot.vim</title>
     <link>https://github.com/github/copilot.vim</link>
     <description>Neovim plugin for GitHub Copilot</description>
@@ -31,19 +36,19 @@
     <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
-  </item>
-  <item>
-    <title>tpope / vim-eunuch</title>
-    <link>https://github.com/tpope/vim-eunuch</link>
-    <description>eunuch.vim: Helpers for UNIX</description>
+    <title>preservim / nerdtree</title>
+    <link>https://github.com/preservim/nerdtree</link>
+    <description>A tree explorer plugin for vim.</description>
   </item>
   <item>
     <title>dense-analysis / ale</title>
     <link>https://github.com/dense-analysis/ale</link>
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
+  </item>
+  <item>
+    <title>tpope / vim-eunuch</title>
+    <link>https://github.com/tpope/vim-eunuch</link>
+    <description>eunuch.vim: Helpers for UNIX</description>
   </item>
   <item>
     <title>tpope / vim-fugitive</title>

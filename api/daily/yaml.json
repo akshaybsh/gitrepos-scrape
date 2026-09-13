@@ -2,28 +2,8 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
-    {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13649,
-      "forks": 1684,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "usnistgov / macos_security",
-      "url": "https://github.com/usnistgov/macos_security",
-      "description": "macOS Security Compliance Project",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 2465,
-      "forks": 301,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "web-platform-dx / web-features",
       "url": "https://github.com/web-platform-dx/web-features",
@@ -31,8 +11,38 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 928,
-      "forks": 324,
-      "added_stars": "3 stars today"
+      "forks": 325,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "usnistgov / macos_security",
+      "url": "https://github.com/usnistgov/macos_security",
+      "description": "macOS Security Compliance Project",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 2466,
+      "forks": 301,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "sublime-security / sublime-rules",
+      "url": "https://github.com/sublime-security/sublime-rules",
+      "description": "Sublime rules for email attack detection, prevention, and threat hunting.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 373,
+      "forks": 99,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tyriis / home-ops",
+      "url": "https://github.com/tyriis/home-ops",
+      "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 81,
+      "forks": 4,
+      "added_stars": "0 stars today"
     },
     {
       "title": "aquaproj / aqua-registry",
@@ -40,18 +50,18 @@
       "description": "aqua's Standard Registry",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 378,
-      "forks": 412,
-      "added_stars": "0 stars today"
+      "stars": 379,
+      "forks": 414,
+      "added_stars": "1 star today"
     },
     {
-      "title": "joryirving / home-ops",
-      "url": "https://github.com/joryirving/home-ops",
-      "description": "Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.",
+      "title": "KSP-CKAN / NetKAN",
+      "url": "https://github.com/KSP-CKAN/NetKAN",
+      "description": "Metadata files used by the NetKAN/CKAN indexer for KSP",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 223,
-      "forks": 11,
+      "stars": 89,
+      "forks": 412,
       "added_stars": "0 stars today"
     }
   ]

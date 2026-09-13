@@ -4,7 +4,7 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 12 Sep 2026 06:49:39 GMT</pubDate>
+  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
   <item>
     <title>facebook / zstd</title>
     <link>https://github.com/facebook/zstd</link>
@@ -14,6 +14,21 @@
     <title>doldecomp / melee</title>
     <link>https://github.com/doldecomp/melee</link>
     <description>A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.</description>
+  </item>
+  <item>
+    <title>armory3d / armorpaint</title>
+    <link>https://github.com/armory3d/armorpaint</link>
+    <description>Graphics Creation Tools</description>
+  </item>
+  <item>
+    <title>DaveGamble / cJSON</title>
+    <link>https://github.com/DaveGamble/cJSON</link>
+    <description>Ultralightweight JSON parser in ANSI C</description>
+  </item>
+  <item>
+    <title>git / git</title>
+    <link>https://github.com/git/git</link>
+    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
   </item>
   <item>
     <title>NebuSec / CyberMeowfia</title>
@@ -26,9 +41,9 @@
     <description>A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars &amp; Solutions, Inc. @ https://windows-internals.com</description>
   </item>
   <item>
-    <title>DaveGamble / cJSON</title>
-    <link>https://github.com/DaveGamble/cJSON</link>
-    <description>Ultralightweight JSON parser in ANSI C</description>
+    <title>libretro / RetroArch</title>
+    <link>https://github.com/libretro/RetroArch</link>
+    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
   </item>
   <item>
     <title>curl / curl</title>
@@ -36,14 +51,9 @@
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>libretro / RetroArch</title>
-    <link>https://github.com/libretro/RetroArch</link>
-    <description>Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.</description>
-  </item>
-  <item>
-    <title>obsproject / obs-studio</title>
-    <link>https://github.com/obsproject/obs-studio</link>
-    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
   </item>
   <item>
     <title>zephyrproject-rtos / zephyr</title>
@@ -51,19 +61,29 @@
     <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
   </item>
   <item>
-    <title>openwrt / openwrt</title>
-    <link>https://github.com/openwrt/openwrt</link>
-    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
+    <title>obsproject / obs-studio</title>
+    <link>https://github.com/obsproject/obs-studio</link>
+    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
   </item>
   <item>
-    <title>radareorg / radare2</title>
-    <link>https://github.com/radareorg/radare2</link>
-    <description>UNIX-like reverse engineering framework and command-line toolset</description>
+    <title>ValdikSS / GoodbyeDPI</title>
+    <link>https://github.com/ValdikSS/GoodbyeDPI</link>
+    <description>GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)</description>
   </item>
   <item>
-    <title>armory3d / armorpaint</title>
-    <link>https://github.com/armory3d/armorpaint</link>
-    <description>Graphics Creation Tools</description>
+    <title>timescale / timescaledb</title>
+    <link>https://github.com/timescale/timescaledb</link>
+    <description>A time-series database for high-performance real-time analytics packaged as a Postgres extension</description>
+  </item>
+  <item>
+    <title>raysan5 / raylib</title>
+    <link>https://github.com/raysan5/raylib</link>
+    <description>A simple and easy-to-use library to enjoy videogames programming</description>
+  </item>
+  <item>
+    <title>mackron / miniaudio</title>
+    <link>https://github.com/mackron/miniaudio</link>
+    <description>Audio playback and capture library written in C, in a single source file.</description>
   </item>
   <item>
     <title>coredevices / PebbleOS</title>
@@ -71,39 +91,9 @@
     <description></description>
   </item>
   <item>
-    <title>git / git</title>
-    <link>https://github.com/git/git</link>
-    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
-  </item>
-  <item>
-    <title>ffmpegwasm / ffmpeg.wasm</title>
-    <link>https://github.com/ffmpegwasm/ffmpeg.wasm</link>
-    <description>FFmpeg for browser, powered by WebAssembly</description>
-  </item>
-  <item>
-    <title>maharmstone / btrfs</title>
-    <link>https://github.com/maharmstone/btrfs</link>
-    <description>WinBtrfs - an open-source btrfs driver for Windows</description>
-  </item>
-  <item>
-    <title>meshcore-dev / MeshCore</title>
-    <link>https://github.com/meshcore-dev/MeshCore</link>
-    <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
-  </item>
-  <item>
-    <title>tr4m0ryp / tr4mpass</title>
-    <link>https://github.com/tr4m0ryp/tr4mpass</link>
-    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
-  </item>
-  <item>
-    <title>Genymobile / scrcpy</title>
-    <link>https://github.com/Genymobile/scrcpy</link>
-    <description>Display and control your Android device</description>
-  </item>
-  <item>
-    <title>microsoft / PowerToys</title>
-    <link>https://github.com/microsoft/PowerToys</link>
-    <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
+    <title>FreeRDP / FreeRDP</title>
+    <link>https://github.com/FreeRDP/FreeRDP</link>
+    <description>FreeRDP is a free remote desktop protocol library and clients</description>
   </item>
 </channel>
 </rss>

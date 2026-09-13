@@ -2,37 +2,17 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
-    {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1258,
-      "forks": 475,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9135,
-      "forks": 976,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 736,
-      "forks": 185,
-      "added_stars": "5 stars today"
+      "stars": 9152,
+      "forks": 978,
+      "added_stars": "18 stars today"
     },
     {
       "title": "sunblaze-ucb / vero",
@@ -40,48 +20,8 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 91,
+      "stars": 90,
       "forks": 14,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "teorth / analysis",
-      "url": "https://github.com/teorth/analysis",
-      "description": "A Lean companion to Analysis I",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1900,
-      "forks": 264,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover / comparator",
-      "url": "https://github.com/leanprover/comparator",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 197,
-      "forks": 36,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 698,
-      "forks": 197,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover-community / iris-lean",
-      "url": "https://github.com/leanprover-community/iris-lean",
-      "description": "Lean 4 port of Iris, a higher-order concurrent separation logic framework",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 217,
-      "forks": 63,
       "added_stars": "0 stars today"
     },
     {
@@ -90,19 +30,49 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4107,
-      "forks": 1677,
-      "added_stars": "16 stars today"
+      "stars": 4113,
+      "forks": 1680,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "leanprover-community / batteries",
-      "url": "https://github.com/leanprover-community/batteries",
-      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 418,
-      "forks": 162,
-      "added_stars": "0 stars today"
+      "stars": 739,
+      "forks": 185,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 699,
+      "forks": 197,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1263,
+      "forks": 477,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "leanprover / comparator",
+      "url": "https://github.com/leanprover/comparator",
+      "description": "",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 198,
+      "forks": 36,
+      "added_stars": "1 star today"
     }
   ]
 }

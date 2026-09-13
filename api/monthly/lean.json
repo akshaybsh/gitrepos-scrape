@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
       "title": "leanprover / lean4",
@@ -10,9 +10,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9135,
-      "forks": 976,
-      "added_stars": "394 stars this month"
+      "stars": 9152,
+      "forks": 978,
+      "added_stars": "400 stars this month"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,9 +20,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4107,
-      "forks": 1677,
-      "added_stars": "291 stars this month"
+      "stars": 4113,
+      "forks": 1680,
+      "added_stars": "284 stars this month"
     },
     {
       "title": "google-deepmind / formal-conjectures",
@@ -30,8 +30,8 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1258,
-      "forks": 475,
+      "stars": 1263,
+      "forks": 477,
       "added_stars": "88 stars this month"
     },
     {
@@ -40,9 +40,9 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 698,
+      "stars": 699,
       "forks": 197,
-      "added_stars": "53 stars this month"
+      "added_stars": "54 stars this month"
     },
     {
       "title": "LionSR / TNLean",
@@ -50,7 +50,7 @@
       "description": "Tensor-network theory, formalized in Lean 4: the fundamental theorem of matrix product states, canonical forms, parent Hamiltonians, matrix-product density operators, and projected entangled pair states, building on the QICLean quantum-information library",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 35,
+      "stars": 36,
       "forks": 3,
       "added_stars": "5 stars this month"
     },
@@ -60,9 +60,9 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 736,
+      "stars": 739,
       "forks": 185,
-      "added_stars": "57 stars this month"
+      "added_stars": "58 stars this month"
     },
     {
       "title": "leanprover-community / import-graph",
@@ -110,9 +110,19 @@
       "description": "White-box automation for Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 404,
+      "stars": 403,
       "forks": 61,
-      "added_stars": "11 stars this month"
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 226,
+      "forks": 49,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "leanprover / lean4-cli",
@@ -125,16 +135,6 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 224,
-      "forks": 49,
-      "added_stars": "4 stars this month"
-    },
-    {
       "title": "leanprover-community / batteries",
       "url": "https://github.com/leanprover-community/batteries",
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
@@ -142,27 +142,7 @@
       "languageColor": "#ccc",
       "stars": 418,
       "forks": 162,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "digama0 / lean4lean",
-      "url": "https://github.com/digama0/lean4lean",
-      "description": "Lean 4 kernel / 'external checker' written in Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 245,
-      "forks": 36,
-      "added_stars": "23 stars this month"
-    },
-    {
-      "title": "leanprover / verso",
-      "url": "https://github.com/leanprover/verso",
-      "description": "Lean documentation authoring tool",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 381,
-      "forks": 123,
-      "added_stars": "9 stars this month"
+      "added_stars": "5 stars this month"
     }
   ]
 }

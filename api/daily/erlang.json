@@ -2,8 +2,18 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6951,
+      "forks": 1077,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "emqx / emqx",
       "url": "https://github.com/emqx/emqx",
@@ -11,7 +21,27 @@
       "language": "Erlang",
       "languageColor": "#B83998",
       "stars": 16705,
-      "forks": 2549,
+      "forks": 2550,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "processone / ejabberd",
+      "url": "https://github.com/processone/ejabberd",
+      "description": "Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6723,
+      "forks": 1552,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "blt / port_compiler",
+      "url": "https://github.com/blt/port_compiler",
+      "description": "A rebar3 port compiler",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 69,
+      "forks": 40,
       "added_stars": "0 stars today"
     },
     {
@@ -30,18 +60,8 @@
       "description": "Erlang/OTP",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 12330,
+      "stars": 12329,
       "forks": 3271,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ninenines / cowboy",
-      "url": "https://github.com/ninenines/cowboy",
-      "description": "Small, fast, modern HTTP server for Erlang/OTP.",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 7525,
-      "forks": 1171,
       "added_stars": "0 stars today"
     }
   ]

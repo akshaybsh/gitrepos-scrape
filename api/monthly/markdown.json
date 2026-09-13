@@ -2,17 +2,17 @@
   "title": "GitHub Markdown Languages Daily Trending",
   "description": "Daily Trending of Markdown Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
       "title": "jakubkrehel / skills",
       "url": "https://github.com/jakubkrehel/skills",
-      "description": "A collection of agent skills that help you build a great interface.",
+      "description": "A collection of agent skills that help you build great interfaces.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 6340,
-      "forks": 223,
-      "added_stars": "2,786 stars this month"
+      "stars": 6424,
+      "forks": 232,
+      "added_stars": "2,776 stars this month"
     },
     {
       "title": "microsoft / vscode-docs",
@@ -20,19 +20,9 @@
       "description": "Public documentation for Visual Studio Code",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 6624,
+      "stars": 6625,
       "forks": 5747,
-      "added_stars": "54 stars this month"
-    },
-    {
-      "title": "mdn / content",
-      "url": "https://github.com/mdn/content",
-      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 10979,
-      "forks": 23240,
-      "added_stars": "72 stars this month"
+      "added_stars": "52 stars this month"
     },
     {
       "title": "OAI / OpenAPI-Specification",
@@ -40,19 +30,19 @@
       "description": "The OpenAPI Specification Repository",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 31212,
-      "forks": 9156,
-      "added_stars": "104 stars this month"
+      "stars": 31213,
+      "forks": 9155,
+      "added_stars": "100 stars this month"
     },
     {
-      "title": "MicrosoftDocs / azure-docs",
-      "url": "https://github.com/MicrosoftDocs/azure-docs",
-      "description": "Open source documentation of Microsoft Azure",
+      "title": "mdn / content",
+      "url": "https://github.com/mdn/content",
+      "description": "The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 10970,
-      "forks": 21768,
-      "added_stars": "30 stars this month"
+      "stars": 10981,
+      "forks": 23241,
+      "added_stars": "72 stars this month"
     },
     {
       "title": "DigitalPlatDev / FreeDomain",
@@ -60,9 +50,19 @@
       "description": "Free domain registration and practical DNS learning resources for everyone.",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 198864,
-      "forks": 4343,
-      "added_stars": "7,678 stars this month"
+      "stars": 199057,
+      "forks": 4349,
+      "added_stars": "7,611 stars this month"
+    },
+    {
+      "title": "MicrosoftDocs / azure-docs",
+      "url": "https://github.com/MicrosoftDocs/azure-docs",
+      "description": "Open source documentation of Microsoft Azure",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 10971,
+      "forks": 21768,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "jaywcjlove / linux-command",
@@ -70,69 +70,9 @@
       "description": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
       "language": "Markdown",
       "languageColor": "#083fa1",
-      "stars": 36893,
-      "forks": 6597,
-      "added_stars": "392 stars this month"
-    },
-    {
-      "title": "tldr-pages / tldr",
-      "url": "https://github.com/tldr-pages/tldr",
-      "description": "Collaborative cheatsheets for console commands 📚.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 63683,
-      "forks": 5402,
-      "added_stars": "376 stars this month"
-    },
-    {
-      "title": "docker / docs",
-      "url": "https://github.com/docker/docs",
-      "description": "Source repo for Docker's Documentation",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 4651,
-      "forks": 8469,
-      "added_stars": "24 stars this month"
-    },
-    {
-      "title": "rust-lang / rfcs",
-      "url": "https://github.com/rust-lang/rfcs",
-      "description": "RFCs for changes to Rust",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 6594,
-      "forks": 1702,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "ellisonleao / magictools",
-      "url": "https://github.com/ellisonleao/magictools",
-      "description": "🎮 📝 A list of Game Development resources to make magic happen.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 17286,
-      "forks": 1229,
-      "added_stars": "200 stars this month"
-    },
-    {
-      "title": "mdn / translated-content",
-      "url": "https://github.com/mdn/translated-content",
-      "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 2030,
-      "forks": 8305,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "adr / madr",
-      "url": "https://github.com/adr/madr",
-      "description": "Markdown Architectural Decision Records",
-      "language": "Markdown",
-      "languageColor": "#083fa1",
-      "stars": 2477,
-      "forks": 468,
-      "added_stars": "89 stars this month"
+      "stars": 36894,
+      "forks": 6598,
+      "added_stars": "387 stars this month"
     },
     {
       "title": "swiftlang / swift-evolution",
@@ -141,8 +81,68 @@
       "language": "Markdown",
       "languageColor": "#083fa1",
       "stars": 15870,
-      "forks": 2475,
+      "forks": 2474,
+      "added_stars": "25 stars this month"
+    },
+    {
+      "title": "tldr-pages / tldr",
+      "url": "https://github.com/tldr-pages/tldr",
+      "description": "Collaborative cheatsheets for console commands 📚.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 63690,
+      "forks": 5405,
+      "added_stars": "376 stars this month"
+    },
+    {
+      "title": "docker / docs",
+      "url": "https://github.com/docker/docs",
+      "description": "Source repo for Docker's Documentation",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 4652,
+      "forks": 8470,
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "rust-lang / rfcs",
+      "url": "https://github.com/rust-lang/rfcs",
+      "description": "RFCs for changes to Rust",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 6594,
+      "forks": 1701,
       "added_stars": "26 stars this month"
+    },
+    {
+      "title": "ellisonleao / magictools",
+      "url": "https://github.com/ellisonleao/magictools",
+      "description": "🎮 📝 A list of Game Development resources to make magic happen.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 17293,
+      "forks": 1234,
+      "added_stars": "200 stars this month"
+    },
+    {
+      "title": "adr / madr",
+      "url": "https://github.com/adr/madr",
+      "description": "Markdown Architectural Decision Records",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 2481,
+      "forks": 468,
+      "added_stars": "91 stars this month"
+    },
+    {
+      "title": "mdn / translated-content",
+      "url": "https://github.com/mdn/translated-content",
+      "description": "7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.",
+      "language": "Markdown",
+      "languageColor": "#083fa1",
+      "stars": 2030,
+      "forks": 8307,
+      "added_stars": "15 stars this month"
     }
   ]
 }

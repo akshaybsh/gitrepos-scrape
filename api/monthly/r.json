@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:52:07 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
   "items": [
     {
       "title": "nflverse / nflverse-data",
@@ -12,7 +12,7 @@
       "languageColor": "#198CE7",
       "stars": 391,
       "forks": 44,
-      "added_stars": "15 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -20,19 +20,19 @@
       "description": "🎓 A collection of interactive courses for the swirl R package.",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 4598,
-      "forks": 7195,
-      "added_stars": "21 stars this month"
+      "stars": 4599,
+      "forks": 7194,
+      "added_stars": "20 stars this month"
     },
     {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 6993,
-      "forks": 2124,
-      "added_stars": "21 stars this month"
+      "stars": 891,
+      "forks": 143320,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "satijalab / seurat",
@@ -45,34 +45,24 @@
       "added_stars": "18 stars this month"
     },
     {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6993,
+      "forks": 2124,
+      "added_stars": "20 stars this month"
+    },
+    {
       "title": "hadley / r4ds",
       "url": "https://github.com/hadley/r4ds",
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5152,
-      "forks": 4444,
+      "stars": 5153,
+      "forks": 4443,
       "added_stars": "29 stars this month"
-    },
-    {
-      "title": "r-spatial / sf",
-      "url": "https://github.com/r-spatial/sf",
-      "description": "Simple Features for R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1445,
-      "forks": 303,
-      "added_stars": "3 stars this month"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 891,
-      "forks": 143305,
-      "added_stars": "2 stars this month"
     },
     {
       "title": "tidyverse / dplyr",
@@ -83,6 +73,16 @@
       "stars": 5067,
       "forks": 2114,
       "added_stars": "13 stars this month"
+    },
+    {
+      "title": "r-spatial / sf",
+      "url": "https://github.com/r-spatial/sf",
+      "description": "Simple Features for R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 1445,
+      "forks": 303,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "rstudio / shiny",
@@ -100,19 +100,9 @@
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 667,
+      "stars": 669,
       "forks": 112,
-      "added_stars": "20 stars this month"
-    },
-    {
-      "title": "posit-dev / skills",
-      "url": "https://github.com/posit-dev/skills",
-      "description": "A collection of Claude Skills from Posit",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 498,
-      "forks": 48,
-      "added_stars": "32 stars this month"
+      "added_stars": "21 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
@@ -122,7 +112,7 @@
       "languageColor": "#198CE7",
       "stars": 3918,
       "forks": 1052,
-      "added_stars": "12 stars this month"
+      "added_stars": "13 stars this month"
     }
   ]
 }

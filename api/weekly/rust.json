@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:49:39 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
   "items": [
     {
       "title": "rtk-ai / rtk",
@@ -10,9 +10,19 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 80027,
-      "forks": 5068,
-      "added_stars": "1,535 stars this week"
+      "stars": 80118,
+      "forks": 5074,
+      "added_stars": "1,470 stars this week"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7335,
+      "forks": 258,
+      "added_stars": "257 stars this week"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -20,89 +30,9 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1587,
-      "forks": 161,
-      "added_stars": "492 stars this week"
-    },
-    {
-      "title": "eythaann / Seelen-UI",
-      "url": "https://github.com/eythaann/Seelen-UI",
-      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17787,
-      "forks": 596,
-      "added_stars": "120 stars this week"
-    },
-    {
-      "title": "longbridge / gpui-kit",
-      "url": "https://github.com/longbridge/gpui-kit",
-      "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 14300,
-      "forks": 873,
-      "added_stars": "345 stars this week"
-    },
-    {
-      "title": "jlcodes99 / cockpit-tools",
-      "url": "https://github.com/jlcodes99/cockpit-tools",
-      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17516,
-      "forks": 1555,
-      "added_stars": "493 stars this week"
-    },
-    {
-      "title": "mixelpixx / Konnect",
-      "url": "https://github.com/mixelpixx/Konnect",
-      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 627,
-      "forks": 85,
-      "added_stars": "231 stars this week"
-    },
-    {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36125,
-      "forks": 2283,
-      "added_stars": "1,191 stars this week"
-    },
-    {
-      "title": "lencx / ChatGPT",
-      "url": "https://github.com/lencx/ChatGPT",
-      "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 54513,
-      "forks": 6141,
-      "added_stars": "66 stars this week"
-    },
-    {
-      "title": "confeden / Antigravity",
-      "url": "https://github.com/confeden/Antigravity",
-      "description": "Antigravity в России без VPN и смены региона аккаунта Google",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 508,
-      "forks": 33,
-      "added_stars": "64 stars this week"
-    },
-    {
-      "title": "ajeetdsouza / zoxide",
-      "url": "https://github.com/ajeetdsouza/zoxide",
-      "description": "A smarter cd command. Supports all major shells.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39413,
-      "forks": 898,
-      "added_stars": "250 stars this week"
+      "stars": 1743,
+      "forks": 167,
+      "added_stars": "588 stars this week"
     },
     {
       "title": "tonhowtf / omniget",
@@ -110,69 +40,69 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10401,
-      "forks": 901,
-      "added_stars": "459 stars this week"
+      "stars": 11026,
+      "forks": 978,
+      "added_stars": "1,272 stars this week"
     },
     {
-      "title": "Automattic / harper",
-      "url": "https://github.com/Automattic/harper",
-      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "title": "AlexsJones / llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15291,
-      "forks": 625,
-      "added_stars": "338 stars this week"
+      "stars": 36322,
+      "forks": 2297,
+      "added_stars": "1,320 stars this week"
     },
     {
-      "title": "lbjlaq / Antigravity-Manager",
-      "url": "https://github.com/lbjlaq/Antigravity-Manager",
-      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "title": "clash-verge-rev / clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31244,
-      "forks": 3357,
-      "added_stars": "277 stars this week"
+      "stars": 144110,
+      "forks": 10374,
+      "added_stars": "1,698 stars this week"
     },
     {
-      "title": "CapSoftware / Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "title": "mixelpixx / Konnect",
+      "url": "https://github.com/mixelpixx/Konnect",
+      "description": "AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 22126,
-      "forks": 1900,
-      "added_stars": "448 stars this week"
+      "stars": 639,
+      "forks": 85,
+      "added_stars": "216 stars this week"
     },
     {
-      "title": "ccxt / ccxt",
-      "url": "https://github.com/ccxt/ccxt",
-      "description": "A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust",
+      "title": "jlcodes99 / cockpit-tools",
+      "url": "https://github.com/jlcodes99/cockpit-tools",
+      "description": "🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 43960,
-      "forks": 8834,
-      "added_stars": "104 stars this week"
+      "stars": 17555,
+      "forks": 1557,
+      "added_stars": "479 stars this week"
     },
     {
-      "title": "cachix / devenv",
-      "url": "https://github.com/cachix/devenv",
-      "description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
+      "title": "eythaann / Seelen-UI",
+      "url": "https://github.com/eythaann/Seelen-UI",
+      "description": "The Fully Customizable Desktop Environment for Windows 10/11.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7637,
-      "forks": 564,
-      "added_stars": "151 stars this week"
+      "stars": 17794,
+      "forks": 597,
+      "added_stars": "105 stars this week"
     },
     {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "title": "lencx / ChatGPT",
+      "url": "https://github.com/lencx/ChatGPT",
+      "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30950,
-      "forks": 1828,
-      "added_stars": "214 stars this week"
+      "stars": 54518,
+      "forks": 6142,
+      "added_stars": "71 stars this week"
     },
     {
       "title": "Pumpkin-MC / Pumpkin",
@@ -180,19 +110,39 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11205,
-      "forks": 798,
-      "added_stars": "147 stars this week"
+      "stars": 11219,
+      "forks": 800,
+      "added_stars": "140 stars this week"
     },
     {
-      "title": "huanfeng / WindInput",
-      "url": "https://github.com/huanfeng/WindInput",
-      "description": "清风输入法 | 轻量、快速、可定制的开源中文输入法，专为五笔和码表输入方案设计（Windows / macOS）",
+      "title": "Automattic / harper",
+      "url": "https://github.com/Automattic/harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 706,
-      "forks": 40,
-      "added_stars": "124 stars this week"
+      "stars": 15320,
+      "forks": 626,
+      "added_stars": "343 stars this week"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 19276,
+      "forks": 1871,
+      "added_stars": "1,203 stars this week"
+    },
+    {
+      "title": "lbjlaq / Antigravity-Manager",
+      "url": "https://github.com/lbjlaq/Antigravity-Manager",
+      "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31277,
+      "forks": 3360,
+      "added_stars": "273 stars this week"
     },
     {
       "title": "visioncortex / vtracer",
@@ -200,9 +150,49 @@
       "description": "Raster to Vector Graphics Converter",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6986,
+      "stars": 6998,
       "forks": 481,
-      "added_stars": "148 stars this week"
+      "added_stars": "137 stars this week"
+    },
+    {
+      "title": "googleworkspace / cli",
+      "url": "https://github.com/googleworkspace/cli",
+      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30966,
+      "forks": 1829,
+      "added_stars": "219 stars this week"
+    },
+    {
+      "title": "cachix / devenv",
+      "url": "https://github.com/cachix/devenv",
+      "description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7639,
+      "forks": 565,
+      "added_stars": "149 stars this week"
+    },
+    {
+      "title": "CapSoftware / Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22168,
+      "forks": 1900,
+      "added_stars": "434 stars this week"
+    },
+    {
+      "title": "farion1231 / cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 132573,
+      "forks": 9141,
+      "added_stars": "1,457 stars this week"
     }
   ]
 }

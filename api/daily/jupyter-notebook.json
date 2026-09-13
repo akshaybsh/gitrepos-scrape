@@ -2,37 +2,17 @@
   "title": "GitHub Jupyter-notebook Languages Daily Trending",
   "description": "Daily Trending of Jupyter-notebook Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 12 Sep 2026 06:47:23 GMT",
+  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
   "items": [
     {
-      "title": "microsoft / ai-agents-for-beginners",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners",
-      "description": "18 Lessons to Get Started Building AI Agents",
+      "title": "microsoft / mcp-for-beginners",
+      "url": "https://github.com/microsoft/mcp-for-beginners",
+      "description": "This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 74493,
-      "forks": 24573,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "lyogavin / airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "description": "AirLLM 70B inference with single 4GB GPU",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 34175,
-      "forks": 3591,
-      "added_stars": "83 stars today"
-    },
-    {
-      "title": "OpenBMB / MiniCPM",
-      "url": "https://github.com/OpenBMB/MiniCPM",
-      "description": "MiniCPM5: SOTA on-device LLMs, small yet powerful.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 10869,
-      "forks": 737,
-      "added_stars": "50 stars today"
+      "stars": 17202,
+      "forks": 5598,
+      "added_stars": "3 stars today"
     },
     {
       "title": "rlabbe / Kalman-and-Bayesian-Filters-in-Python",
@@ -40,49 +20,39 @@
       "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 19320,
-      "forks": 4526,
-      "added_stars": "14 stars today"
+      "stars": 19327,
+      "forks": 4527,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "microsoft / ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "title": "microsoft / generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "description": "21 Lessons, Get Started Building with Generative AI",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 90394,
-      "forks": 22267,
-      "added_stars": "49 stars today"
+      "stars": 119625,
+      "forks": 63001,
+      "added_stars": "47 stars today"
     },
     {
-      "title": "hugo2046 / QuantsPlaybook",
-      "url": "https://github.com/hugo2046/QuantsPlaybook",
-      "description": "量化研究-券商金工研报复现",
+      "title": "lyogavin / airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "description": "AirLLM 70B inference with single 4GB GPU",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 6079,
-      "forks": 1428,
-      "added_stars": "20 stars today"
+      "stars": 34225,
+      "forks": 3597,
+      "added_stars": "52 stars today"
     },
     {
-      "title": "epfml / ML_course",
-      "url": "https://github.com/epfml/ML_course",
-      "description": "EPFL Machine Learning Course, Fall 2026",
+      "title": "openai / openai-cookbook",
+      "url": "https://github.com/openai/openai-cookbook",
+      "description": "Examples and guides for using the OpenAI API",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 2060,
-      "forks": 1026,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "NVIDIA-NeMo / Nemotron",
-      "url": "https://github.com/NVIDIA-NeMo/Nemotron",
-      "description": "Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 2052,
-      "forks": 417,
-      "added_stars": "5 stars today"
+      "stars": 75948,
+      "forks": 12860,
+      "added_stars": "30 stars today"
     },
     {
       "title": "mrdbourke / zero-to-mastery-ml",
@@ -90,29 +60,9 @@
       "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 6998,
-      "forks": 4217,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "GokuMohandas / Made-With-ML",
-      "url": "https://github.com/GokuMohandas/Made-With-ML",
-      "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 49459,
-      "forks": 7766,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "ed-donner / agents",
-      "url": "https://github.com/ed-donner/agents",
-      "description": "Repo for the Complete Agentic AI Engineering Course",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 6153,
-      "forks": 5304,
-      "added_stars": "5 stars today"
+      "stars": 7011,
+      "forks": 4218,
+      "added_stars": "12 stars today"
     },
     {
       "title": "Lifelong-Robot-Learning / LIBERO",
@@ -120,59 +70,49 @@
       "description": "Benchmarking Knowledge Transfer in Lifelong Robot Learning",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 2306,
-      "forks": 485,
-      "added_stars": "8 stars today"
+      "stars": 2308,
+      "forks": 486,
+      "added_stars": "1 star today"
     },
     {
-      "title": "neo4j-labs / llm-graph-builder",
-      "url": "https://github.com/neo4j-labs/llm-graph-builder",
-      "description": "Neo4j graph construction from unstructured data using LLMs",
+      "title": "ageron / handson-ml3",
+      "url": "https://github.com/ageron/handson-ml3",
+      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 5246,
-      "forks": 879,
+      "stars": 14120,
+      "forks": 5303,
       "added_stars": "6 stars today"
     },
     {
-      "title": "karpathy / micrograd",
-      "url": "https://github.com/karpathy/micrograd",
-      "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+      "title": "hugo2046 / QuantsPlaybook",
+      "url": "https://github.com/hugo2046/QuantsPlaybook",
+      "description": "量化研究-券商金工研报复现",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 17481,
-      "forks": 2790,
-      "added_stars": "14 stars today"
+      "stars": 6094,
+      "forks": 1428,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "mml-book / mml-book.github.io",
-      "url": "https://github.com/mml-book/mml-book.github.io",
-      "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+      "title": "ageron / handson-mlp",
+      "url": "https://github.com/ageron/handson-mlp",
+      "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 15988,
-      "forks": 2864,
+      "stars": 1975,
+      "forks": 625,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Pierian-Data / Complete-Python-3-Bootcamp",
+      "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+      "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 29768,
+      "forks": 87217,
       "added_stars": "4 stars today"
-    },
-    {
-      "title": "facebookresearch / sam2",
-      "url": "https://github.com/facebookresearch/sam2",
-      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 19850,
-      "forks": 2544,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "Azure-Samples / AI-Gateway",
-      "url": "https://github.com/Azure-Samples/AI-Gateway",
-      "description": "Labs to explore AI Models, MCP servers, and Agents with the AI Gateway powered by Azure API Management and Microsoft Foundry 🚀",
-      "language": "Jupyter Notebook",
-      "languageColor": "#DA5B0B",
-      "stars": 985,
-      "forks": 511,
-      "added_stars": "0 stars today"
     },
     {
       "title": "NVIDIA / dgx-spark-playbooks",
@@ -180,19 +120,99 @@
       "description": "Collection of step-by-step playbooks for setting up AI/ML workloads on NVIDIA DGX Spark devices with Blackwell architecture.",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 1350,
-      "forks": 295,
+      "stars": 1354,
+      "forks": 296,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "dscripka / openWakeWord",
+      "url": "https://github.com/dscripka/openWakeWord",
+      "description": "An open-source audio wake word (or phrase) detection framework with a focus on performance and simplicity.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2764,
+      "forks": 341,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "udlbook / udlbook",
+      "url": "https://github.com/udlbook/udlbook",
+      "description": "Understanding Deep Learning - Simon J.D. Prince",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 9880,
+      "forks": 2315,
       "added_stars": "7 stars today"
     },
     {
-      "title": "datawhalechina / llm-algo-leetcode",
-      "url": "https://github.com/datawhalechina/llm-algo-leetcode",
-      "description": "LLM algorithm practice lab with theory, solutions, and test cases.《大模型算法与系统教程》面向大模型入门到进阶的算法实战教程，覆盖原理讲解、答案解析、测试用例与 CUDA/Triton 实战。",
+      "title": "GoogleCloudPlatform / generative-ai",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+      "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
       "language": "Jupyter Notebook",
       "languageColor": "#DA5B0B",
-      "stars": 566,
-      "forks": 95,
-      "added_stars": "6 stars today"
+      "stars": 17691,
+      "forks": 4448,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "facebookresearch / sam2",
+      "url": "https://github.com/facebookresearch/sam2",
+      "description": "The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 19854,
+      "forks": 2546,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "langchain-ai / langchain-academy",
+      "url": "https://github.com/langchain-ai/langchain-academy",
+      "description": "",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 2878,
+      "forks": 1859,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "GokuMohandas / Made-With-ML",
+      "url": "https://github.com/GokuMohandas/Made-With-ML",
+      "description": "Learn how to develop, deploy and iterate on production-grade ML applications.",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 49467,
+      "forks": 7770,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "kubernetes / community",
+      "url": "https://github.com/kubernetes/community",
+      "description": "Kubernetes Community Documentation",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 13003,
+      "forks": 5386,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "microsoft / ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 90415,
+      "forks": 22283,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "microsoft / AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "description": "12 Weeks, 24 Lessons, AI for All!",
+      "language": "Jupyter Notebook",
+      "languageColor": "#DA5B0B",
+      "stars": 68440,
+      "forks": 13211,
+      "added_stars": "37 stars today"
     }
   ]
 }
