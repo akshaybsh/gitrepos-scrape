@@ -2,7 +2,7 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "facebook / rocksdb",
@@ -10,19 +10,9 @@
       "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32091,
+      "stars": 32096,
       "forks": 6926,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 49864,
-      "forks": 8954,
-      "added_stars": "212 stars this week"
+      "added_stars": "39 stars this week"
     },
     {
       "title": "aseprite / aseprite",
@@ -30,49 +20,9 @@
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39402,
-      "forks": 8962,
-      "added_stars": "187 stars this week"
-    },
-    {
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15091,
-      "forks": 1744,
-      "added_stars": "145 stars this week"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41141,
-      "forks": 2109,
-      "added_stars": "278 stars this week"
-    },
-    {
-      "title": "imputnet / helium",
-      "url": "https://github.com/imputnet/helium",
-      "description": "Private, fast, and honest web browser",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 20599,
-      "forks": 567,
-      "added_stars": "342 stars this week"
-    },
-    {
-      "title": "mltframework / shotcut",
-      "url": "https://github.com/mltframework/shotcut",
-      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15183,
-      "forks": 1500,
-      "added_stars": "88 stars this week"
+      "stars": 39420,
+      "forks": 8977,
+      "added_stars": "165 stars this week"
     },
     {
       "title": "godotengine / godot",
@@ -80,39 +30,49 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 117041,
-      "forks": 26701,
-      "added_stars": "429 stars this week"
+      "stars": 117078,
+      "forks": 26714,
+      "added_stars": "407 stars this week"
     },
     {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "title": "google-deepmind / mujoco",
+      "url": "https://github.com/google-deepmind/mujoco",
+      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10749,
-      "forks": 473,
-      "added_stars": "374 stars this week"
+      "stars": 15119,
+      "forks": 1750,
+      "added_stars": "163 stars this week"
     },
     {
-      "title": "noctalia-dev / noctalia",
-      "url": "https://github.com/noctalia-dev/noctalia",
-      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10542,
-      "forks": 795,
-      "added_stars": "297 stars this week"
+      "stars": 41177,
+      "forks": 2114,
+      "added_stars": "261 stars this week"
     },
     {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
+      "title": "jomjol / AI-on-the-edge-device",
+      "url": "https://github.com/jomjol/AI-on-the-edge-device",
+      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 199740,
-      "forks": 76313,
-      "added_stars": "1,001 stars this week"
+      "stars": 8744,
+      "forks": 909,
+      "added_stars": "64 stars this week"
+    },
+    {
+      "title": "ClickHouse / ClickHouse",
+      "url": "https://github.com/ClickHouse/ClickHouse",
+      "description": "ClickHouse® is a real-time analytics database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 49880,
+      "forks": 8956,
+      "added_stars": "220 stars this week"
     },
     {
       "title": "mamedev / mame",
@@ -120,9 +80,19 @@
       "description": "MAME",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10470,
-      "forks": 2522,
-      "added_stars": "24 stars this week"
+      "stars": 10480,
+      "forks": 2523,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10947,
+      "forks": 478,
+      "added_stars": "465 stars this week"
     },
     {
       "title": "justcallmekoko / ESP32Marauder",
@@ -130,69 +100,9 @@
       "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12331,
-      "forks": 1473,
-      "added_stars": "107 stars this week"
-    },
-    {
-      "title": "ClassicOldSong / Apollo",
-      "url": "https://github.com/ClassicOldSong/Apollo",
-      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10922,
-      "forks": 432,
-      "added_stars": "140 stars this week"
-    },
-    {
-      "title": "deskflow / deskflow",
-      "url": "https://github.com/deskflow/deskflow",
-      "description": "Share a single keyboard and mouse between multiple computers.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 28788,
-      "forks": 4863,
-      "added_stars": "187 stars this week"
-    },
-    {
-      "title": "FreeCAD / FreeCAD",
-      "url": "https://github.com/FreeCAD/FreeCAD",
-      "description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 33468,
-      "forks": 6022,
-      "added_stars": "176 stars this week"
-    },
-    {
-      "title": "tenstorrent / tt-metal",
-      "url": "https://github.com/tenstorrent/tt-metal",
-      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1669,
-      "forks": 674,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 42150,
-      "forks": 3898,
-      "added_stars": "198 stars this week"
-    },
-    {
-      "title": "mongodb / mongo",
-      "url": "https://github.com/mongodb/mongo",
-      "description": "The MongoDB Database",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 28554,
-      "forks": 5806,
-      "added_stars": "29 stars this week"
+      "stars": 12344,
+      "forks": 1478,
+      "added_stars": "114 stars this week"
     },
     {
       "title": "apache / arrow",
@@ -200,9 +110,99 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17102,
+      "stars": 17105,
       "forks": 4297,
-      "added_stars": "16 stars this week"
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "azahar-emu / azahar",
+      "url": "https://github.com/azahar-emu/azahar",
+      "description": "An open-source 3DS emulator project based on Citra.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8119,
+      "forks": 669,
+      "added_stars": "71 stars this week"
+    },
+    {
+      "title": "noctalia-dev / noctalia",
+      "url": "https://github.com/noctalia-dev/noctalia",
+      "description": "A sleek, customizable desktop shell crafted for Wayland.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10565,
+      "forks": 795,
+      "added_stars": "281 stars this week"
+    },
+    {
+      "title": "ClassicOldSong / Apollo",
+      "url": "https://github.com/ClassicOldSong/Apollo",
+      "description": "Sunshine fork - The easiest way to stream with the native resolution of your client device",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10943,
+      "forks": 435,
+      "added_stars": "145 stars this week"
+    },
+    {
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19751,
+      "forks": 2438,
+      "added_stars": "102 stars this week"
+    },
+    {
+      "title": "juce-framework / JUCE",
+      "url": "https://github.com/juce-framework/JUCE",
+      "description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8894,
+      "forks": 2180,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "imputnet / helium",
+      "url": "https://github.com/imputnet/helium",
+      "description": "Private, fast, and honest web browser",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 20636,
+      "forks": 570,
+      "added_stars": "308 stars this week"
+    },
+    {
+      "title": "abseil / abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "description": "Abseil Common Libraries (C++)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18136,
+      "forks": 3194,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "doitsujin / dxvk",
+      "url": "https://github.com/doitsujin/dxvk",
+      "description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18071,
+      "forks": 1234,
+      "added_stars": "64 stars this week"
+    },
+    {
+      "title": "deskflow / deskflow",
+      "url": "https://github.com/deskflow/deskflow",
+      "description": "Share a single keyboard and mouse between multiple computers.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 28816,
+      "forks": 4864,
+      "added_stars": "203 stars this week"
     }
   ]
 }

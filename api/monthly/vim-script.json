@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -10,9 +10,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40890,
+      "stars": 40888,
       "forks": 6137,
-      "added_stars": "232 stars this month"
+      "added_stars": "229 stars this month"
     },
     {
       "title": "neovim / neovim",
@@ -20,9 +20,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102292,
-      "forks": 7106,
-      "added_stars": "856 stars this month"
+      "stars": 102318,
+      "forks": 7107,
+      "added_stars": "862 stars this month"
     },
     {
       "title": "morhetz / gruvbox",
@@ -30,9 +30,19 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15740,
+      "stars": 15742,
       "forks": 1124,
-      "added_stars": "82 stars this month"
+      "added_stars": "84 stars this month"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21784,
+      "forks": 1078,
+      "added_stars": "52 stars this month"
     },
     {
       "title": "junegunn / vim-plug",
@@ -40,19 +50,9 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35768,
+      "stars": 35770,
       "forks": 1932,
-      "added_stars": "70 stars this month"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11686,
-      "forks": 810,
-      "added_stars": "37 stars this month"
+      "added_stars": "72 stars this month"
     },
     {
       "title": "derekhe / msfs2020-map-enhancement",
@@ -70,9 +70,19 @@
       "description": "A tree explorer plugin for vim.",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 20091,
+      "stars": 20093,
       "forks": 1437,
-      "added_stars": "20 stars this month"
+      "added_stars": "21 stars this month"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11685,
+      "forks": 811,
+      "added_stars": "36 stars this month"
     },
     {
       "title": "dense-analysis / ale",
@@ -81,7 +91,7 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 14014,
-      "forks": 1485,
+      "forks": 1484,
       "added_stars": "12 stars this month"
     },
     {
@@ -95,24 +105,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21782,
-      "forks": 1078,
-      "added_stars": "52 stars this month"
-    },
-    {
       "title": "sainnhe / everforest",
       "url": "https://github.com/sainnhe/everforest",
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4214,
+      "stars": 4215,
       "forks": 144,
-      "added_stars": "58 stars this month"
+      "added_stars": "57 stars this month"
     },
     {
       "title": "vim-syntastic / syntastic",
@@ -120,9 +120,9 @@
       "description": "Syntax checking hacks for vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11212,
+      "stars": 11213,
       "forks": 1120,
-      "added_stars": "2 stars this month"
+      "added_stars": "3 stars this month"
     }
   ]
 }

@@ -2,27 +2,17 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
-    {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 260669,
-      "forks": 21985,
-      "added_stars": "8,960 stars this week"
-    },
     {
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 285892,
-      "forks": 25579,
-      "added_stars": "3,938 stars this week"
+      "stars": 286356,
+      "forks": 25617,
+      "added_stars": "4,068 stars this week"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -30,19 +20,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5604,
-      "forks": 1757,
-      "added_stars": "763 stars this week"
-    },
-    {
-      "title": "nvm-sh / nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 95076,
-      "forks": 10444,
-      "added_stars": "226 stars this week"
+      "stars": 5814,
+      "forks": 1800,
+      "added_stars": "778 stars this week"
     },
     {
       "title": "bin456789 / reinstall",
@@ -50,9 +30,9 @@
       "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13259,
-      "forks": 2129,
-      "added_stars": "274 stars this week"
+      "stars": 13262,
+      "forks": 2132,
+      "added_stars": "205 stars this week"
     },
     {
       "title": "assafdori / bypass-mdm",
@@ -60,9 +40,29 @@
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2306,
-      "forks": 537,
-      "added_stars": "90 stars this week"
+      "stars": 2320,
+      "forks": 538,
+      "added_stars": "100 stars this week"
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 261540,
+      "forks": 22065,
+      "added_stars": "7,031 stars this week"
+    },
+    {
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 95078,
+      "forks": 10442,
+      "added_stars": "104 stars this week"
     },
     {
       "title": "github / copilot-cli",
@@ -70,19 +70,19 @@
       "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11167,
+      "stars": 11170,
       "forks": 1926,
-      "added_stars": "43 stars this week"
+      "added_stars": "42 stars this week"
     },
     {
-      "title": "acmesh-official / acme.sh",
-      "url": "https://github.com/acmesh-official/acme.sh",
-      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+      "title": "233boy / v2ray",
+      "url": "https://github.com/233boy/v2ray",
+      "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47629,
-      "forks": 5671,
-      "added_stars": "56 stars this week"
+      "stars": 29608,
+      "forks": 16605,
+      "added_stars": "49 stars this week"
     },
     {
       "title": "VoltAgent / awesome-claude-code-subagents",
@@ -90,9 +90,9 @@
       "description": "A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 25035,
-      "forks": 2894,
-      "added_stars": "170 stars this week"
+      "stars": 25054,
+      "forks": 2901,
+      "added_stars": "164 stars this week"
     },
     {
       "title": "ohmyzsh / ohmyzsh",
@@ -100,9 +100,39 @@
       "description": "🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 189703,
-      "forks": 26572,
-      "added_stars": "201 stars this week"
+      "stars": 189708,
+      "forks": 26571,
+      "added_stars": "187 stars this week"
+    },
+    {
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2401,
+      "forks": 104,
+      "added_stars": "108 stars this week"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29578,
+      "forks": 2880,
+      "added_stars": "81 stars this week"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9273,
+      "forks": 295,
+      "added_stars": "111 stars this week"
     },
     {
       "title": "pyenv / pyenv",
@@ -112,67 +142,27 @@
       "languageColor": "#89e051",
       "stars": 45099,
       "forks": 3274,
-      "added_stars": "33 stars this week"
+      "added_stars": "31 stars this week"
     },
     {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "title": "acmesh-official / acme.sh",
+      "url": "https://github.com/acmesh-official/acme.sh",
+      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29563,
-      "forks": 2878,
-      "added_stars": "78 stars this week"
+      "stars": 47637,
+      "forks": 5670,
+      "added_stars": "55 stars this week"
     },
     {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "title": "longhorn / longhorn",
+      "url": "https://github.com/longhorn/longhorn",
+      "description": "Cloud-Native distributed storage built on and for Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9248,
-      "forks": 295,
-      "added_stars": "99 stars this week"
-    },
-    {
-      "title": "conda-forge / miniforge",
-      "url": "https://github.com/conda-forge/miniforge",
-      "description": "A conda-forge distribution.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 10181,
-      "forks": 530,
-      "added_stars": "33 stars this week"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53251,
-      "forks": 4786,
-      "added_stars": "109 stars this week"
-    },
-    {
-      "title": "pi-hole / pi-hole",
-      "url": "https://github.com/pi-hole/pi-hole",
-      "description": "A black hole for Internet advertisements",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 60875,
-      "forks": 3314,
-      "added_stars": "126 stars this week"
-    },
-    {
-      "title": "pystardust / ani-cli",
-      "url": "https://github.com/pystardust/ani-cli",
-      "description": "A cli tool to browse and play anime",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 13772,
-      "forks": 876,
-      "added_stars": "63 stars this week"
+      "stars": 7974,
+      "forks": 737,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "microsoft / azure-skills",
@@ -180,9 +170,29 @@
       "description": "Official agent plugin providing skills and MCP server configurations for Azure scenarios.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1477,
+      "stars": 1479,
       "forks": 245,
-      "added_stars": "27 stars this week"
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "RROrg / rr",
+      "url": "https://github.com/RROrg/rr",
+      "description": "Redpill Recovery (arpl-i18n)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 8604,
+      "forks": 1370,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "omacom / omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 40924,
+      "forks": 4591,
+      "added_stars": "2,346 stars this week"
     }
   ]
 }

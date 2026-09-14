@@ -2,17 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
     {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7335,
-      "forks": 258,
-      "added_stars": "54 stars today"
+      "stars": 2263,
+      "forks": 151,
+      "added_stars": "289 stars today"
     },
     {
       "title": "tonhowtf / omniget",
@@ -20,49 +20,19 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11025,
-      "forks": 978,
-      "added_stars": "839 stars today"
+      "stars": 12022,
+      "forks": 1042,
+      "added_stars": "507 stars today"
     },
     {
-      "title": "superradcompany / microsandbox",
-      "url": "https://github.com/superradcompany/microsandbox",
-      "description": "🧱 Easy fast local-first microVM runtime and library",
+      "title": "Stremio / stremio-core",
+      "url": "https://github.com/Stremio/stremio-core",
+      "description": "⚛️ The Stremio Core: types, addon system, UI models, core logic",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8240,
-      "forks": 434,
-      "added_stars": "38 stars today"
-    },
-    {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1743,
-      "forks": 167,
-      "added_stars": "99 stars today"
-    },
-    {
-      "title": "alphaXiv / OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Run parallel research agents with any model",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1710,
-      "forks": 126,
-      "added_stars": "452 stars today"
-    },
-    {
-      "title": "raine / workmux",
-      "url": "https://github.com/raine/workmux",
-      "description": "git worktrees + tmux windows for zero-friction parallel dev",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2524,
-      "forks": 318,
-      "added_stars": "87 stars today"
+      "stars": 2395,
+      "forks": 248,
+      "added_stars": "12 stars today"
     },
     {
       "title": "RyanCodrai / turbovec",
@@ -70,79 +40,39 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17020,
-      "forks": 1457,
-      "added_stars": "84 stars today"
+      "stars": 17113,
+      "forks": 1468,
+      "added_stars": "82 stars today"
     },
     {
-      "title": "t8y2 / dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "description": "20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。",
+      "title": "git-ai-project / git-ai",
+      "url": "https://github.com/git-ai-project/git-ai",
+      "description": "A Git extension for tracking the AI-generated code in your repos",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 19276,
-      "forks": 1871,
-      "added_stars": "118 stars today"
+      "stars": 2700,
+      "forks": 291,
+      "added_stars": "44 stars today"
     },
     {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36322,
-      "forks": 2297,
-      "added_stars": "172 stars today"
+      "stars": 7568,
+      "forks": 271,
+      "added_stars": "366 stars today"
     },
     {
-      "title": "teamclouday / AndroidMic",
-      "url": "https://github.com/teamclouday/AndroidMic",
-      "description": "Use your Android phone as a microphone for your PC",
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1639,
-      "forks": 106,
-      "added_stars": "47 stars today"
-    },
-    {
-      "title": "DioxusLabs / dioxus",
-      "url": "https://github.com/DioxusLabs/dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39072,
-      "forks": 1884,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39723,
-      "forks": 3918,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "facebook / pyrefly",
-      "url": "https://github.com/facebook/pyrefly",
-      "description": "A fast type checker and language server for Python",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6960,
-      "forks": 514,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "NVlabs / cuda-oxide",
-      "url": "https://github.com/NVlabs/cuda-oxide",
-      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3303,
-      "forks": 262,
-      "added_stars": "31 stars today"
+      "stars": 2568,
+      "forks": 319,
+      "added_stars": "39 stars today"
     },
     {
       "title": "reacherhq / check-if-email-exists",
@@ -150,39 +80,109 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9752,
-      "forks": 706,
-      "added_stars": "98 stars today"
+      "stars": 9816,
+      "forks": 708,
+      "added_stars": "102 stars today"
     },
     {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
+      "title": "martin-olivier / airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32029,
-      "forks": 1439,
-      "added_stars": "30 stars today"
+      "stars": 3451,
+      "forks": 561,
+      "added_stars": "275 stars today"
     },
     {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 30966,
-      "forks": 1829,
-      "added_stars": "23 stars today"
+      "stars": 39768,
+      "forks": 3922,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "bytecodealliance / wasmtime",
-      "url": "https://github.com/bytecodealliance/wasmtime",
-      "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+      "title": "waditu / czsc",
+      "url": "https://github.com/waditu/czsc",
+      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18628,
-      "forks": 1826,
-      "added_stars": "6 stars today"
+      "stars": 6199,
+      "forks": 1738,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "gfx-rs / wgpu",
+      "url": "https://github.com/gfx-rs/wgpu",
+      "description": "A cross-platform, safe, pure-Rust graphics API.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18025,
+      "forks": 1446,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 1849,
+      "forks": 179,
+      "added_stars": "128 stars today"
+    },
+    {
+      "title": "rust-lang / rust-analyzer",
+      "url": "https://github.com/rust-lang/rust-analyzer",
+      "description": "A Rust compiler front-end for IDEs",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 16849,
+      "forks": 2220,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "DioxusLabs / dioxus",
+      "url": "https://github.com/DioxusLabs/dioxus",
+      "description": "Fullstack app framework for web, desktop, and mobile.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39119,
+      "forks": 1885,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "zeroclaw-labs / zeroclaw",
+      "url": "https://github.com/zeroclaw-labs/zeroclaw",
+      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32801,
+      "forks": 4941,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "ratatui / ratatui",
+      "url": "https://github.com/ratatui/ratatui",
+      "description": "A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22586,
+      "forks": 780,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31528,
+      "forks": 2868,
+      "added_stars": "53 stars today"
     }
   ]
 }

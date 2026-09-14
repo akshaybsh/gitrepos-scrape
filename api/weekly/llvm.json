@@ -2,7 +2,7 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "llvm / llvm-project",
@@ -10,9 +10,19 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 40440,
-      "forks": 18638,
-      "added_stars": "330 stars this week"
+      "stars": 40458,
+      "forks": 18650,
+      "added_stars": "263 stars this week"
+    },
+    {
+      "title": "intel / llvm",
+      "url": "https://github.com/intel/llvm",
+      "description": "Intel staging area for llvm.org contribution. Home for Intel LLVM-based projects.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 1522,
+      "forks": 853,
+      "added_stars": "1 star this week"
     }
   ]
 }

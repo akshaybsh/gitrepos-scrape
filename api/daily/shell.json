@@ -2,27 +2,37 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33224,
+      "forks": 1864,
+      "added_stars": "15 stars today"
+    },
     {
       "title": "obra / superpowers",
       "url": "https://github.com/obra/superpowers",
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 285892,
-      "forks": 25579,
-      "added_stars": "492 stars today"
+      "stars": 286356,
+      "forks": 25617,
+      "added_stars": "432 stars today"
     },
     {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9248,
-      "forks": 295,
-      "added_stars": "11 stars today"
+      "stars": 16957,
+      "forks": 4385,
+      "added_stars": "5 stars today"
     },
     {
       "title": "assafdori / bypass-mdm",
@@ -30,109 +40,89 @@
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2306,
-      "forks": 537,
-      "added_stars": "17 stars today"
+      "stars": 2320,
+      "forks": 538,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
+      "title": "sabamdarif / termux-desktop",
+      "url": "https://github.com/sabamdarif/termux-desktop",
+      "description": "Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7799,
-      "forks": 883,
-      "added_stars": "9 stars today"
+      "stars": 2253,
+      "forks": 956,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "openshift / release",
-      "url": "https://github.com/openshift/release",
-      "description": "Release tooling for OpenShift",
+      "title": "RROrg / rr",
+      "url": "https://github.com/RROrg/rr",
+      "description": "Redpill Recovery (arpl-i18n)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 329,
-      "forks": 2367,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11167,
-      "forks": 1926,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "community-valheim-tools / valheim-server-docker",
-      "url": "https://github.com/community-valheim-tools/valheim-server-docker",
-      "description": "Valheim dedicated gameserver with automatic update, World backup, BepInEx and ValheimPlus mod support",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2299,
-      "forks": 325,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Sergeydigl3 / zapret-discord-youtube-linux",
-      "url": "https://github.com/Sergeydigl3/zapret-discord-youtube-linux",
-      "description": "Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 1996,
-      "forks": 82,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "six2dez / reconftw",
-      "url": "https://github.com/six2dez/reconftw",
-      "description": "reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 8107,
-      "forks": 1230,
+      "stars": 8604,
+      "forks": 1370,
       "added_stars": "7 stars today"
     },
     {
-      "title": "expo / skills",
-      "url": "https://github.com/expo/skills",
-      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "title": "techjarves / Hermes-USB-Portable",
+      "url": "https://github.com/techjarves/Hermes-USB-Portable",
+      "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2521,
-      "forks": 143,
-      "added_stars": "2 stars today"
+      "stars": 518,
+      "forks": 187,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "bioconda / bioconda-recipes",
-      "url": "https://github.com/bioconda/bioconda-recipes",
-      "description": "Conda recipes for the bioconda channel.",
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1869,
-      "forks": 4096,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "themactep / thingino-firmware",
-      "url": "https://github.com/themactep/thingino-firmware",
-      "description": "Open-source firmware for Ingenic SoC IP cameras",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2132,
-      "forks": 306,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "Donchitos / Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 25018,
-      "forks": 3574,
+      "stars": 53261,
+      "forks": 4789,
       "added_stars": "18 stars today"
+    },
+    {
+      "title": "pi-hole / docker-pi-hole",
+      "url": "https://github.com/pi-hole/docker-pi-hole",
+      "description": "The official Pi-hole Docker image from pi-hole.net",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 11559,
+      "forks": 1248,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "FiorenMas / Revanced-And-Revanced-Extended-Non-Root",
+      "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
+      "description": "Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2697,
+      "forks": 212,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "MichaIng / DietPi",
+      "url": "https://github.com/MichaIng/DietPi",
+      "description": "Lightweight justice for your single-board computer!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6262,
+      "forks": 566,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "itzg / docker-minecraft-server",
+      "url": "https://github.com/itzg/docker-minecraft-server",
+      "description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 14298,
+      "forks": 1914,
+      "added_stars": "6 stars today"
     }
   ]
 }

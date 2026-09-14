@@ -4,7 +4,7 @@
   <title>GitHub Verilog Languages Daily Trending</title>
   <description>Daily Trending of Verilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 07:30:46 GMT</pubDate>
   <item>
     <title>The-OpenROAD-Project / OpenROAD</title>
     <link>https://github.com/The-OpenROAD-Project/OpenROAD</link>
@@ -29,6 +29,11 @@
     <title>jotego / jtcores</title>
     <link>https://github.com/jotego/jtcores</link>
     <description>FPGA cores compatible with multiple arcade game machines and KiCAD schematics of arcade games. Working on MiSTer FPGA/Analogue Pocket</description>
+  </item>
+  <item>
+    <title>OpenPOWERFoundation / a2o</title>
+    <link>https://github.com/OpenPOWERFoundation/a2o</link>
+    <description>The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.</description>
   </item>
   <item>
     <title>vortexgpgpu / vortex</title>

@@ -2,37 +2,27 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
-    {
-      "title": "mindsdb / mindshub",
-      "url": "https://github.com/mindsdb/mindshub",
-      "description": "The unified workspace where open-source models get things done for you.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 39732,
-      "forks": 6243,
-      "added_stars": "231 stars this month"
-    },
     {
       "title": "openwrt / packages",
       "url": "https://github.com/openwrt/packages",
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4608,
-      "forks": 3966,
+      "stars": 4607,
+      "forks": 3969,
       "added_stars": "33 stars this month"
     },
     {
-      "title": "ROCKNIX / distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
+      "title": "mindsdb / mindshub",
+      "url": "https://github.com/mindsdb/mindshub",
+      "description": "The unified workspace where open-source models get things done for you.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1549,
-      "forks": 351,
-      "added_stars": "72 stars this month"
+      "stars": 39730,
+      "forks": 6241,
+      "added_stars": "213 stars this month"
     },
     {
       "title": "golang-standards / project-layout",
@@ -40,9 +30,19 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56571,
+      "stars": 56573,
       "forks": 5425,
-      "added_stars": "191 stars this month"
+      "added_stars": "185 stars this month"
+    },
+    {
+      "title": "ROCKNIX / distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1551,
+      "forks": 351,
+      "added_stars": "71 stars this month"
     },
     {
       "title": "foostan / crkbd",
@@ -50,19 +50,9 @@
       "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7647,
-      "forks": 1098,
-      "added_stars": "60 stars this month"
-    },
-    {
-      "title": "dbt-labs / dbt-utils",
-      "url": "https://github.com/dbt-labs/dbt-utils",
-      "description": "Utility functions for dbt projects.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1800,
-      "forks": 632,
-      "added_stars": "12 stars this month"
+      "stars": 7646,
+      "forks": 1099,
+      "added_stars": "55 stars this month"
     },
     {
       "title": "cncf / people",
@@ -75,6 +65,26 @@
       "added_stars": "3 stars this month"
     },
     {
+      "title": "uber-go / guide",
+      "url": "https://github.com/uber-go/guide",
+      "description": "The Uber Go Style Guide.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 17702,
+      "forks": 1815,
+      "added_stars": "74 stars this month"
+    },
+    {
+      "title": "dbt-labs / dbt-utils",
+      "url": "https://github.com/dbt-labs/dbt-utils",
+      "description": "Utility functions for dbt projects.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1800,
+      "forks": 632,
+      "added_stars": "12 stars this month"
+    },
+    {
       "title": "geneontology / go-ontology",
       "url": "https://github.com/geneontology/go-ontology",
       "description": "Source ontology files for the Gene Ontology",
@@ -83,16 +93,6 @@
       "stars": 254,
       "forks": 47,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "InteractiveAdvertisingBureau / openrtb2.x",
-      "url": "https://github.com/InteractiveAdvertisingBureau/openrtb2.x",
-      "description": "OpenRTB 2.x specification, from 2.6 onward",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 168,
-      "forks": 77,
-      "added_stars": "8 stars this month"
     },
     {
       "title": "PartialVolume / shredos.x86_64",
@@ -105,34 +105,24 @@
       "added_stars": "48 stars this month"
     },
     {
+      "title": "InteractiveAdvertisingBureau / openrtb2.x",
+      "url": "https://github.com/InteractiveAdvertisingBureau/openrtb2.x",
+      "description": "OpenRTB 2.x specification, from 2.6 onward",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 168,
+      "forks": 77,
+      "added_stars": "8 stars this month"
+    },
+    {
       "title": "awesome-selfhosted / awesome-selfhosted-data",
       "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
       "description": "machine-readable data for https://awesome-selfhosted.net",
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 1137,
-      "forks": 1356,
-      "added_stars": "46 stars this month"
-    },
-    {
-      "title": "motioneye-project / motioneyeos",
-      "url": "https://github.com/motioneye-project/motioneyeos",
-      "description": "A Video Surveillance OS For Single-board Computers",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 8214,
-      "forks": 913,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "SiftScience / sift-ios",
-      "url": "https://github.com/SiftScience/sift-ios",
-      "description": "Sift iOS SDK",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 23,
-      "forks": 28,
-      "added_stars": "0 stars this month"
+      "forks": 1360,
+      "added_stars": "45 stars this month"
     },
     {
       "title": "mozilla / addons",
@@ -145,14 +135,34 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "motioneye-project / motioneyeos",
+      "url": "https://github.com/motioneye-project/motioneyeos",
+      "description": "A Video Surveillance OS For Single-board Computers",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 8215,
+      "forks": 913,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "SiftScience / sift-ios",
+      "url": "https://github.com/SiftScience/sift-ios",
+      "description": "Sift iOS SDK",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 23,
+      "forks": 28,
+      "added_stars": "0 stars this month"
+    },
+    {
       "title": "adriannovegil / awesome-observability",
       "url": "https://github.com/adriannovegil/awesome-observability",
       "description": "Awesome observability page",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 672,
+      "stars": 673,
       "forks": 174,
-      "added_stars": "19 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
       "title": "HaveAGitGat / Tdarr",
@@ -162,7 +172,17 @@
       "languageColor": "#427819",
       "stars": 4316,
       "forks": 123,
-      "added_stars": "57 stars this month"
+      "added_stars": "58 stars this month"
+    },
+    {
+      "title": "itchio / itch.io",
+      "url": "https://github.com/itchio/itch.io",
+      "description": "🐛 Public itch.io issues tracker and documentation - use support instead for private information!",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 282,
+      "forks": 40,
+      "added_stars": "1 star this month"
     },
     {
       "title": "WerWolv / Tesla-Menu",
@@ -173,26 +193,6 @@
       "stars": 1130,
       "forks": 51,
       "added_stars": "8 stars this month"
-    },
-    {
-      "title": "itchio / itch.io",
-      "url": "https://github.com/itchio/itch.io",
-      "description": "🐛 Public itch.io issues tracker and documentation - use support instead for private information!",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 282,
-      "forks": 41,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "Ysurac / openmptcprouter",
-      "url": "https://github.com/Ysurac/openmptcprouter",
-      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2493,
-      "forks": 354,
-      "added_stars": "43 stars this month"
     }
   ]
 }

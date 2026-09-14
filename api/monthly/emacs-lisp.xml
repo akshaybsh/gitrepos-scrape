@@ -4,7 +4,7 @@
   <title>GitHub Emacs-lisp Languages Daily Trending</title>
   <description>Daily Trending of Emacs-lisp Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 07:34:06 GMT</pubDate>
   <item>
     <title>doomemacs / core</title>
     <link>https://github.com/doomemacs/core</link>
@@ -16,24 +16,14 @@
     <description>Mirror of GNU Emacs</description>
   </item>
   <item>
-    <title>karthink / gptel</title>
-    <link>https://github.com/karthink/gptel</link>
-    <description>A simple, extensible LLM client for Emacs</description>
-  </item>
-  <item>
     <title>syl20bnr / spacemacs</title>
     <link>https://github.com/syl20bnr/spacemacs</link>
     <description>A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it&#x27;s Emacs *and* Vim!</description>
   </item>
   <item>
-    <title>xenodium / agent-shell</title>
-    <link>https://github.com/xenodium/agent-shell</link>
-    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
-  </item>
-  <item>
-    <title>mmontone / emacs-inspector</title>
-    <link>https://github.com/mmontone/emacs-inspector</link>
-    <description>Inspection tool for Emacs Lisp objects.</description>
+    <title>karthink / gptel</title>
+    <link>https://github.com/karthink/gptel</link>
+    <description>A simple, extensible LLM client for Emacs</description>
   </item>
   <item>
     <title>melpa / melpa</title>
@@ -41,19 +31,29 @@
     <description>Recipes and build machinery for the biggest Emacs package repo</description>
   </item>
   <item>
+    <title>mmontone / emacs-inspector</title>
+    <link>https://github.com/mmontone/emacs-inspector</link>
+    <description>Inspection tool for Emacs Lisp objects.</description>
+  </item>
+  <item>
     <title>emacs-lsp / lsp-mode</title>
     <link>https://github.com/emacs-lsp/lsp-mode</link>
     <description>Emacs client/library for the Language Server Protocol</description>
   </item>
   <item>
-    <title>emacsattic / helm-swoop</title>
-    <link>https://github.com/emacsattic/helm-swoop</link>
-    <description>Efficiently hopping squeezed lines powered by Emacs helm interface</description>
+    <title>xenodium / agent-shell</title>
+    <link>https://github.com/xenodium/agent-shell</link>
+    <description>A native Emacs buffer to interact with LLM agents powered by ACP</description>
   </item>
   <item>
     <title>emacs-evil / evil</title>
     <link>https://github.com/emacs-evil/evil</link>
     <description>The extensible vi layer for Emacs.</description>
+  </item>
+  <item>
+    <title>doomemacs / modules</title>
+    <link>https://github.com/doomemacs/modules</link>
+    <description>Official module library for Doom Emacs</description>
   </item>
   <item>
     <title>magit / magit</title>
@@ -66,19 +66,14 @@
     <description>Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</description>
   </item>
   <item>
-    <title>doomemacs / modules</title>
-    <link>https://github.com/doomemacs/modules</link>
-    <description>Official module library for Doom Emacs</description>
-  </item>
-  <item>
-    <title>doomemacs / themes</title>
-    <link>https://github.com/doomemacs/themes</link>
-    <description>A megapack of themes for GNU Emacs.</description>
-  </item>
-  <item>
     <title>bbatsov / projectile</title>
     <link>https://github.com/bbatsov/projectile</link>
     <description>Project Interaction Library for Emacs</description>
+  </item>
+  <item>
+    <title>google-coral / coralnpu</title>
+    <link>https://github.com/google-coral/coralnpu</link>
+    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
   </item>
   <item>
     <title>dnouri / pilish</title>
@@ -86,9 +81,9 @@
     <description>The ergonomic agent harness for Emacs.</description>
   </item>
   <item>
-    <title>google-coral / coralnpu</title>
-    <link>https://github.com/google-coral/coralnpu</link>
-    <description>A machine learning accelerator core designed for energy-efficient AI at the edge.</description>
+    <title>qjcg / awesome-typst</title>
+    <link>https://github.com/qjcg/awesome-typst</link>
+    <description>Awesome Typst Links</description>
   </item>
 </channel>
 </rss>

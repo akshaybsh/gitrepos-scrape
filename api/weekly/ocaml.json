@@ -2,17 +2,17 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
-      "title": "opengrep / opengrep",
-      "url": "https://github.com/opengrep/opengrep",
-      "description": "🔎 Static code analysis engine to find security issues in code.",
+      "title": "ocaml / ocaml",
+      "url": "https://github.com/ocaml/ocaml",
+      "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3065,
-      "forks": 261,
-      "added_stars": "20 stars this week"
+      "stars": 6558,
+      "forks": 1406,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "rocq-prover / rocq",
@@ -20,19 +20,9 @@
       "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5573,
+      "stars": 5574,
       "forks": 763,
       "added_stars": "9 stars this week"
-    },
-    {
-      "title": "MinaProtocol / mina",
-      "url": "https://github.com/MinaProtocol/mina",
-      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 2119,
-      "forks": 584,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "oxcaml / oxcaml",
@@ -52,17 +42,37 @@
       "languageColor": "#ef7a08",
       "stars": 960,
       "forks": 106,
-      "added_stars": "15 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
-      "title": "ocaml / ocaml",
-      "url": "https://github.com/ocaml/ocaml",
-      "description": "The core OCaml system: compilers, runtime system, base libraries",
+      "title": "MinaProtocol / mina",
+      "url": "https://github.com/MinaProtocol/mina",
+      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6554,
-      "forks": 1406,
-      "added_stars": "9 stars this week"
+      "stars": 2119,
+      "forks": 584,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "opengrep / opengrep",
+      "url": "https://github.com/opengrep/opengrep",
+      "description": "🔎 Static code analysis engine to find security issues in code.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 3069,
+      "forks": 262,
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "ocaml / opam",
+      "url": "https://github.com/ocaml/opam",
+      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 1379,
+      "forks": 410,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "facebook / infer",
@@ -70,9 +80,9 @@
       "description": "A static analyzer for Java, C, C++, and Objective-C",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 15706,
+      "stars": 15705,
       "forks": 2101,
-      "added_stars": "11 stars this week"
+      "added_stars": "9 stars this week"
     }
   ]
 }

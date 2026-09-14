@@ -2,17 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
+    {
+      "title": "rorkai / App-Store-Connect-CLI",
+      "url": "https://github.com/rorkai/App-Store-Connect-CLI",
+      "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7237,
+      "forks": 608,
+      "added_stars": "1,436 stars this month"
+    },
     {
       "title": "majd / ipatool",
       "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11098,
-      "forks": 931,
-      "added_stars": "1,298 stars this month"
+      "stars": 11150,
+      "forks": 934,
+      "added_stars": "1,306 stars this month"
     },
     {
       "title": "glanceapp / glance",
@@ -20,9 +30,9 @@
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37011,
-      "forks": 1451,
-      "added_stars": "757 stars this month"
+      "stars": 37028,
+      "forks": 1454,
+      "added_stars": "759 stars this month"
     },
     {
       "title": "authelia / authelia",
@@ -30,19 +40,9 @@
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28941,
-      "forks": 1480,
-      "added_stars": "431 stars this month"
-    },
-    {
-      "title": "gtsteffaniak / filebrowser",
-      "url": "https://github.com/gtsteffaniak/filebrowser",
-      "description": "📂 Web File Browser",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8268,
-      "forks": 436,
-      "added_stars": "549 stars this month"
+      "stars": 28954,
+      "forks": 1481,
+      "added_stars": "444 stars this month"
     },
     {
       "title": "henrygd / beszel",
@@ -50,9 +50,19 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25339,
-      "forks": 1012,
-      "added_stars": "1,182 stars this month"
+      "stars": 25363,
+      "forks": 1016,
+      "added_stars": "1,187 stars this month"
+    },
+    {
+      "title": "gtsteffaniak / filebrowser",
+      "url": "https://github.com/gtsteffaniak/filebrowser",
+      "description": "📂 Web File Browser",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8277,
+      "forks": 436,
+      "added_stars": "549 stars this month"
     },
     {
       "title": "theagentrouter / agent-router",
@@ -60,29 +70,9 @@
       "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2053,
+      "stars": 2061,
       "forks": 373,
-      "added_stars": "140 stars this month"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1843,
-      "forks": 316,
-      "added_stars": "640 stars this month"
-    },
-    {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3736,
-      "forks": 179,
-      "added_stars": "1,881 stars this month"
+      "added_stars": "139 stars this month"
     },
     {
       "title": "go-task / task",
@@ -90,29 +80,29 @@
       "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16133,
-      "forks": 906,
-      "added_stars": "197 stars this month"
+      "stars": 16139,
+      "forks": 907,
+      "added_stars": "200 stars this month"
     },
     {
-      "title": "siderolabs / talos",
-      "url": "https://github.com/siderolabs/talos",
-      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11150,
-      "forks": 891,
-      "added_stars": "242 stars this month"
+      "stars": 1856,
+      "forks": 317,
+      "added_stars": "642 stars this month"
     },
     {
-      "title": "ongridio / ongrid",
-      "url": "https://github.com/ongridio/ongrid",
-      "description": "An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk.",
+      "title": "asciimoo / hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1033,
-      "forks": 220,
-      "added_stars": "399 stars this month"
+      "stars": 3748,
+      "forks": 179,
+      "added_stars": "1,881 stars this month"
     },
     {
       "title": "go-vikunja / vikunja",
@@ -120,9 +110,19 @@
       "description": "The task manager you actually own.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5374,
-      "forks": 683,
-      "added_stars": "352 stars this month"
+      "stars": 5387,
+      "forks": 685,
+      "added_stars": "353 stars this month"
+    },
+    {
+      "title": "siderolabs / talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11153,
+      "forks": 892,
+      "added_stars": "243 stars this month"
     },
     {
       "title": "1Panel-dev / 1Panel",
@@ -130,39 +130,9 @@
       "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36887,
-      "forks": 3345,
-      "added_stars": "467 stars this month"
-    },
-    {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29282,
-      "forks": 2231,
-      "added_stars": "664 stars this month"
-    },
-    {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 41353,
-      "forks": 8631,
-      "added_stars": "4,809 stars this month"
-    },
-    {
-      "title": "kopia / kopia",
-      "url": "https://github.com/kopia/kopia",
-      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14096,
-      "forks": 727,
-      "added_stars": "262 stars this month"
+      "stars": 36889,
+      "forks": 3346,
+      "added_stars": "453 stars this month"
     },
     {
       "title": "Tencent / WeKnora",
@@ -170,19 +140,49 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22724,
-      "forks": 3257,
-      "added_stars": "2,910 stars this month"
+      "stars": 23001,
+      "forks": 3278,
+      "added_stars": "3,077 stars this month"
     },
     {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "title": "kopia / kopia",
+      "url": "https://github.com/kopia/kopia",
+      "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 180770,
-      "forks": 17836,
-      "added_stars": "2,998 stars this month"
+      "stars": 14101,
+      "forks": 727,
+      "added_stars": "266 stars this month"
+    },
+    {
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29292,
+      "forks": 2231,
+      "added_stars": "644 stars this month"
+    },
+    {
+      "title": "Wei-Shaw / sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 41445,
+      "forks": 8650,
+      "added_stars": "4,730 stars this month"
+    },
+    {
+      "title": "github / gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5134,
+      "forks": 540,
+      "added_stars": "243 stars this month"
     },
     {
       "title": "weave-os / router",
@@ -190,29 +190,39 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4302,
-      "forks": 117,
-      "added_stars": "3,370 stars this month"
+      "stars": 4322,
+      "forks": 116,
+      "added_stars": "3,392 stars this month"
     },
     {
-      "title": "putyy / res-downloader",
-      "url": "https://github.com/putyy/res-downloader",
-      "description": "视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!",
+      "title": "vllm-project / semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 19829,
-      "forks": 2451,
-      "added_stars": "779 stars this month"
+      "stars": 5789,
+      "forks": 937,
+      "added_stars": "637 stars this month"
     },
     {
-      "title": "slackhq / nebula",
-      "url": "https://github.com/slackhq/nebula",
-      "description": "A scalable overlay networking tool with a focus on performance, simplicity and security",
+      "title": "restic / restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 18336,
-      "forks": 1183,
-      "added_stars": "760 stars this month"
+      "stars": 36040,
+      "forks": 1873,
+      "added_stars": "589 stars this month"
+    },
+    {
+      "title": "anchore / syft",
+      "url": "https://github.com/anchore/syft",
+      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9557,
+      "forks": 954,
+      "added_stars": "176 stars this month"
     }
   ]
 }

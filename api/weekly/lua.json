@@ -2,17 +2,17 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
+      "title": "olimorris / codecompanion.nvim",
+      "url": "https://github.com/olimorris/codecompanion.nvim",
+      "description": "✨ AI Coding, Vim Style",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27456,
-      "forks": 1824,
-      "added_stars": "77 stars this week"
+      "stars": 6856,
+      "forks": 454,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "PathOfBuildingCommunity / PathOfBuilding-PoE2",
@@ -20,9 +20,9 @@
       "description": "",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 1880,
+      "stars": 1881,
       "forks": 448,
-      "added_stars": "13 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "iDvel / rime-ice",
@@ -30,9 +30,9 @@
       "description": "Rime 配置：雾凇拼音 | 长期维护的简体词库",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 19319,
-      "forks": 1181,
-      "added_stars": "128 stars this week"
+      "stars": 19328,
+      "forks": 1182,
+      "added_stars": "123 stars this week"
     },
     {
       "title": "neovim / nvim-lspconfig",
@@ -40,39 +40,19 @@
       "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 13947,
-      "forks": 2490,
-      "added_stars": "31 stars this week"
+      "stars": 13948,
+      "forks": 2492,
+      "added_stars": "30 stars this week"
     },
     {
-      "title": "olimorris / codecompanion.nvim",
-      "url": "https://github.com/olimorris/codecompanion.nvim",
-      "description": "✨ AI Coding, Vim Style",
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 6855,
-      "forks": 453,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "folke / snacks.nvim",
-      "url": "https://github.com/folke/snacks.nvim",
-      "description": "🍿 A collection of QoL plugins for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 8080,
-      "forks": 498,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "amzxyz / rime-wanxiang",
-      "url": "https://github.com/amzxyz/rime-wanxiang",
-      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4567,
-      "forks": 173,
-      "added_stars": "56 stars this week"
+      "stars": 27465,
+      "forks": 1822,
+      "added_stars": "74 stars this week"
     },
     {
       "title": "nvim-mini / mini.nvim",
@@ -80,9 +60,19 @@
       "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 9516,
+      "stars": 9518,
       "forks": 310,
-      "added_stars": "25 stars this week"
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "nvim-neo-tree / neo-tree.nvim",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+      "description": "Neovim plugin to manage the file system and other tree like structures.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5595,
+      "forks": 305,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "folke / lazy.nvim",
@@ -90,9 +80,9 @@
       "description": "💤 A modern plugin manager for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 21547,
+      "stars": 21550,
       "forks": 590,
-      "added_stars": "35 stars this week"
+      "added_stars": "33 stars this week"
     },
     {
       "title": "nvim-telescope / telescope.nvim",
@@ -100,7 +90,7 @@
       "description": "Find, Filter, Preview, Pick. All lua, all the time.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 19782,
+      "stars": 19785,
       "forks": 966,
       "added_stars": "20 stars this week"
     },
@@ -110,59 +100,9 @@
       "description": "Performant, batteries-included completion plugin for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 6575,
+      "stars": 6574,
       "forks": 361,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "beyond-all-reason / Beyond-All-Reason",
-      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-      "description": "Main game repository for Beyond All Reason.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4203,
-      "forks": 668,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "xmake-io / xmake",
-      "url": "https://github.com/xmake-io/xmake",
-      "description": "🔥 A cross-platform build utility based on Lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 12217,
-      "forks": 948,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "lewis6991 / gitsigns.nvim",
-      "url": "https://github.com/lewis6991/gitsigns.nvim",
-      "description": "Git integration for buffers",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 7092,
-      "forks": 295,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "Kong / kong",
-      "url": "https://github.com/Kong/kong",
-      "description": "🦍 The API and AI Gateway",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 44125,
-      "forks": 5210,
-      "added_stars": "43 stars this week"
-    },
-    {
-      "title": "opentibiabr / canary",
-      "url": "https://github.com/opentibiabr/canary",
-      "description": "Canary Server 15.25 for OpenTibia community.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 644,
-      "forks": 894,
-      "added_stars": "4 stars this week"
+      "added_stars": "22 stars this week"
     },
     {
       "title": "mason-org / mason.nvim",
@@ -170,29 +110,39 @@
       "description": "Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 10477,
+      "stars": 10480,
       "forks": 338,
       "added_stars": "15 stars this week"
     },
     {
-      "title": "nvim-tree / nvim-tree.lua",
-      "url": "https://github.com/nvim-tree/nvim-tree.lua",
-      "description": "A file explorer tree for neovim written in lua",
+      "title": "folke / snacks.nvim",
+      "url": "https://github.com/folke/snacks.nvim",
+      "description": "🍿 A collection of QoL plugins for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8644,
-      "forks": 638,
-      "added_stars": "12 stars this week"
+      "stars": 8080,
+      "forks": 499,
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "nvim-lua / kickstart.nvim",
-      "url": "https://github.com/nvim-lua/kickstart.nvim",
-      "description": "A launch point for your personal nvim configuration",
+      "title": "beyond-all-reason / Beyond-All-Reason",
+      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
+      "description": "Main game repository for Beyond All Reason.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 31449,
-      "forks": 46585,
-      "added_stars": "59 stars this week"
+      "stars": 4205,
+      "forks": 669,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "Kong / kong",
+      "url": "https://github.com/Kong/kong",
+      "description": "🦍 The API and AI Gateway",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 44133,
+      "forks": 5210,
+      "added_stars": "44 stars this week"
     },
     {
       "title": "lukas-reineke / indent-blankline.nvim",
@@ -200,29 +150,49 @@
       "description": "Indent guides for Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4993,
+      "stars": 4995,
       "forks": 122,
-      "added_stars": "2 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "nvim-neo-tree / neo-tree.nvim",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-      "description": "Neovim plugin to manage the file system and other tree like structures.",
+      "title": "lewis6991 / gitsigns.nvim",
+      "url": "https://github.com/lewis6991/gitsigns.nvim",
+      "description": "Git integration for buffers",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5591,
-      "forks": 305,
+      "stars": 7094,
+      "forks": 295,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "rebelot / kanagawa.nvim",
+      "url": "https://github.com/rebelot/kanagawa.nvim",
+      "description": "NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 6388,
+      "forks": 236,
       "added_stars": "19 stars this week"
     },
     {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
+      "title": "Footagesus / WindUI",
+      "url": "https://github.com/Footagesus/WindUI",
+      "description": "WindUI is a open source UI library for Roblox Script Hubs",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 528,
-      "forks": 511,
-      "added_stars": "4 stars this week"
+      "stars": 355,
+      "forks": 337,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "rittermod / FS25_RealisticLivestockRM",
+      "url": "https://github.com/rittermod/FS25_RealisticLivestockRM",
+      "description": "FS25_RealisticLivestock - Ritter version",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 172,
+      "forks": 16,
+      "added_stars": "3 stars this week"
     }
   ]
 }

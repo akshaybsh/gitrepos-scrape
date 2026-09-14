@@ -2,7 +2,7 @@
   "title": "GitHub Nim Languages Daily Trending",
   "description": "Daily Trending of Nim Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
     {
       "title": "nim-lang / Nim",
@@ -15,14 +15,24 @@
       "added_stars": "2 stars today"
     },
     {
+      "title": "nim-lang / packages",
+      "url": "https://github.com/nim-lang/packages",
+      "description": "List of packages for Nimble",
+      "language": "Nim",
+      "languageColor": "#ffc200",
+      "stars": 500,
+      "forks": 791,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "zedeus / nitter",
       "url": "https://github.com/zedeus/nitter",
       "description": "Alternative Twitter front-end",
       "language": "Nim",
       "languageColor": "#ffc200",
-      "stars": 14460,
-      "forks": 1330,
-      "added_stars": "8 stars today"
+      "stars": 14466,
+      "forks": 1332,
+      "added_stars": "5 stars today"
     },
     {
       "title": "logos-messaging / logos-delivery",
@@ -32,26 +42,6 @@
       "languageColor": "#ffc200",
       "stars": 248,
       "forks": 88,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "vacp2p / nim-libp2p",
-      "url": "https://github.com/vacp2p/nim-libp2p",
-      "description": "libp2p implementation in Nim",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 322,
-      "forks": 76,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "status-im / nimbus-eth2",
-      "url": "https://github.com/status-im/nimbus-eth2",
-      "description": "Nim implementation of the Ethereum Beacon Chain",
-      "language": "Nim",
-      "languageColor": "#ffc200",
-      "stars": 662,
-      "forks": 335,
       "added_stars": "0 stars today"
     }
   ]

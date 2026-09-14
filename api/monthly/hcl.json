@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "techiescamp / devops-projects",
@@ -10,9 +10,9 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2316,
-      "forks": 1557,
-      "added_stars": "98 stars this month"
+      "stars": 2315,
+      "forks": 1558,
+      "added_stars": "97 stars this month"
     },
     {
       "title": "DataDog / serverless-sample-app",
@@ -31,28 +31,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3126,
-      "forks": 746,
+      "forks": 745,
       "added_stars": "31 stars this month"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1251,
-      "forks": 588,
-      "added_stars": "26 stars this month"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2097,
-      "forks": 1261,
-      "added_stars": "18 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
@@ -65,6 +45,16 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2097,
+      "forks": 1262,
+      "added_stars": "16 stars this month"
+    },
+    {
       "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
       "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
       "description": "Terraform Azure Verified Resource Module for Storage Account",
@@ -75,6 +65,26 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1251,
+      "forks": 587,
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "moabukar / tech-vault",
+      "url": "https://github.com/moabukar/tech-vault",
+      "description": "A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/)",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3571,
+      "forks": 779,
+      "added_stars": "121 stars this month"
+    },
+    {
       "title": "Azure / terraform-azurerm-naming",
       "url": "https://github.com/Azure/terraform-azurerm-naming",
       "description": "",
@@ -83,6 +93,16 @@
       "stars": 274,
       "forks": 146,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "ministryofjustice / modernisation-platform-environments",
+      "url": "https://github.com/ministryofjustice/modernisation-platform-environments",
+      "description": "Modernisation platform environments • This repository is defined and managed in Terraform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 48,
+      "forks": 24,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -100,19 +120,9 @@
       "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2125,
+      "stars": 2126,
       "forks": 323,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "ministryofjustice / modernisation-platform-environments",
-      "url": "https://github.com/ministryofjustice/modernisation-platform-environments",
-      "description": "Modernisation platform environments • This repository is defined and managed in Terraform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 48,
-      "forks": 24,
-      "added_stars": "0 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "RaJiska / terraform-aws-fck-nat",

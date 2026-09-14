@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "numtide / llm-agents.nix",
@@ -10,9 +10,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1936,
-      "forks": 241,
-      "added_stars": "209 stars this month"
+      "stars": 1941,
+      "forks": 243,
+      "added_stars": "200 stars this month"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -20,9 +20,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26108,
-      "forks": 20070,
-      "added_stars": "392 stars this month"
+      "stars": 26121,
+      "forks": 20076,
+      "added_stars": "389 stars this month"
     },
     {
       "title": "nix-community / home-manager",
@@ -30,9 +30,19 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10342,
-      "forks": 2475,
-      "added_stars": "147 stars this month"
+      "stars": 10346,
+      "forks": 2477,
+      "added_stars": "146 stars this month"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5923,
+      "forks": 659,
+      "added_stars": "118 stars this month"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -42,7 +52,17 @@
       "languageColor": "#7e7eff",
       "stars": 3298,
       "forks": 972,
-      "added_stars": "44 stars this month"
+      "added_stars": "43 stars this month"
+    },
+    {
+      "title": "nix-community / stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2404,
+      "forks": 359,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "supabase / postgres",
@@ -50,19 +70,9 @@
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1785,
+      "stars": 1786,
       "forks": 266,
       "added_stars": "16 stars this month"
-    },
-    {
-      "title": "nix-darwin / nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 5917,
-      "forks": 658,
-      "added_stars": "119 stars this month"
     },
     {
       "title": "microvm-nix / microvm.nix",
@@ -70,8 +80,8 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2923,
-      "forks": 229,
+      "stars": 2925,
+      "forks": 230,
       "added_stars": "78 stars this month"
     },
     {
@@ -80,19 +90,9 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3316,
-      "forks": 328,
+      "stars": 3320,
+      "forks": 329,
       "added_stars": "74 stars this month"
-    },
-    {
-      "title": "Mic92 / sops-nix",
-      "url": "https://github.com/Mic92/sops-nix",
-      "description": "Atomic secret provisioning for NixOS based on sops",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3159,
-      "forks": 233,
-      "added_stars": "67 stars this month"
     },
     {
       "title": "nix-community / nixvim",
@@ -101,28 +101,18 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": 2946,
-      "forks": 402,
-      "added_stars": "46 stars this month"
+      "forks": 403,
+      "added_stars": "43 stars this month"
     },
     {
-      "title": "cloud-gouv / securix",
-      "url": "https://github.com/cloud-gouv/securix",
-      "description": "SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.",
+      "title": "Mic92 / sops-nix",
+      "url": "https://github.com/Mic92/sops-nix",
+      "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1039,
-      "forks": 50,
-      "added_stars": "24 stars this month"
-    },
-    {
-      "title": "nix-community / stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2400,
-      "forks": 359,
-      "added_stars": "45 stars this month"
+      "stars": 3161,
+      "forks": 233,
+      "added_stars": "61 stars this month"
     },
     {
       "title": "chaotic-cx / nyx",
@@ -130,9 +120,9 @@
       "description": "Nix flake for \"too much bleeding-edge\" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 763,
+      "stars": 764,
       "forks": 79,
-      "added_stars": "24 stars this month"
+      "added_stars": "23 stars this month"
     },
     {
       "title": "nix-community / NixOS-WSL",
@@ -142,7 +132,7 @@
       "languageColor": "#7e7eff",
       "stars": 3089,
       "forks": 164,
-      "added_stars": "50 stars this month"
+      "added_stars": "48 stars this month"
     }
   ]
 }

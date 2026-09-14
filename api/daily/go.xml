@@ -4,56 +4,11 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:04:39 GMT</pubDate>
-  <item>
-    <title>p1neappleXpress / OpenFlux</title>
-    <link>https://github.com/p1neappleXpress/OpenFlux</link>
-    <description>Network stack research tool. TCP tunnel with pluggable transports.</description>
-  </item>
+  <pubDate>Mon, 14 Sep 2026 07:28:26 GMT</pubDate>
   <item>
     <title>vxcontrol / pentagi</title>
     <link>https://github.com/vxcontrol/pentagi</link>
     <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
-  </item>
-  <item>
-    <title>trufflesecurity / trufflehog</title>
-    <link>https://github.com/trufflesecurity/trufflehog</link>
-    <description>Find, verify, and analyze leaked credentials</description>
-  </item>
-  <item>
-    <title>TencentCloud / CubeSandbox</title>
-    <link>https://github.com/TencentCloud/CubeSandbox</link>
-    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
-  </item>
-  <item>
-    <title>dagucloud / dagu</title>
-    <link>https://github.com/dagucloud/dagu</link>
-    <description>Self-hostable workflow orchestrator for teams whose main work isn&#x27;t orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.</description>
-  </item>
-  <item>
-    <title>najmuzzaman-mohammad / gawkbot</title>
-    <link>https://github.com/najmuzzaman-mohammad/gawkbot</link>
-    <description>open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.</description>
-  </item>
-  <item>
-    <title>MHSanaei / 3x-ui</title>
-    <link>https://github.com/MHSanaei/3x-ui</link>
-    <description>Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)</description>
-  </item>
-  <item>
-    <title>kserve / kserve</title>
-    <link>https://github.com/kserve/kserve</link>
-    <description>Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes</description>
-  </item>
-  <item>
-    <title>esengine / DeepSeek-Reasonix</title>
-    <link>https://github.com/esengine/DeepSeek-Reasonix</link>
-    <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
-  </item>
-  <item>
-    <title>milvus-io / milvus</title>
-    <link>https://github.com/milvus-io/milvus</link>
-    <description>Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</description>
   </item>
   <item>
     <title>alibaba / open-code-review</title>
@@ -61,9 +16,19 @@
     <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
   </item>
   <item>
-    <title>amir20 / dozzle</title>
-    <link>https://github.com/amir20/dozzle</link>
-    <description>Realtime log viewer for containers. Supports Docker, Swarm and K8s.</description>
+    <title>nicocha30 / ligolo-ng</title>
+    <link>https://github.com/nicocha30/ligolo-ng</link>
+    <description>An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.</description>
+  </item>
+  <item>
+    <title>p1neappleXpress / OpenFlux</title>
+    <link>https://github.com/p1neappleXpress/OpenFlux</link>
+    <description>Network stack research tool. TCP tunnel with pluggable transports.</description>
+  </item>
+  <item>
+    <title>tbphp / gpt-load</title>
+    <link>https://github.com/tbphp/gpt-load</link>
+    <description>Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。</description>
   </item>
   <item>
     <title>Tencent / WeKnora</title>
@@ -71,34 +36,74 @@
     <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
   </item>
   <item>
+    <title>dagucloud / dagu</title>
+    <link>https://github.com/dagucloud/dagu</link>
+    <description>Self-hostable workflow orchestrator for teams whose main work isn&#x27;t orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.</description>
+  </item>
+  <item>
+    <title>hashicorp / nomad</title>
+    <link>https://github.com/hashicorp/nomad</link>
+    <description>Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</description>
+  </item>
+  <item>
+    <title>nektos / act</title>
+    <link>https://github.com/nektos/act</link>
+    <description>Run your GitHub Actions locally 🚀</description>
+  </item>
+  <item>
+    <title>restic / restic</title>
+    <link>https://github.com/restic/restic</link>
+    <description>Fast, secure, efficient backup program</description>
+  </item>
+  <item>
+    <title>netdata / netdata</title>
+    <link>https://github.com/netdata/netdata</link>
+    <description>The fastest path to AI-powered full stack observability, even for lean teams.</description>
+  </item>
+  <item>
+    <title>getarcaneapp / arcane</title>
+    <link>https://github.com/getarcaneapp/arcane</link>
+    <description>Modern Docker Management, Designed for Everyone</description>
+  </item>
+  <item>
+    <title>usememos / memos</title>
+    <link>https://github.com/usememos/memos</link>
+    <description>Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.</description>
+  </item>
+  <item>
+    <title>esengine / DeepSeek-Reasonix</title>
+    <link>https://github.com/esengine/DeepSeek-Reasonix</link>
+    <description>DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.</description>
+  </item>
+  <item>
     <title>navidrome / navidrome</title>
     <link>https://github.com/navidrome/navidrome</link>
     <description>🎧 Your Personal Streaming Service</description>
   </item>
   <item>
-    <title>opencode-ai / opencode</title>
-    <link>https://github.com/opencode-ai/opencode</link>
-    <description>A powerful AI coding agent. Built for the terminal.</description>
+    <title>charmbracelet / crush</title>
+    <link>https://github.com/charmbracelet/crush</link>
+    <description>Glamourous agentic coding for all 💘</description>
   </item>
   <item>
-    <title>james-6-23 / codex2api</title>
-    <link>https://github.com/james-6-23/codex2api</link>
-    <description>Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目</description>
+    <title>ipfs / kubo</title>
+    <link>https://github.com/ipfs/kubo</link>
+    <description>IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API</description>
   </item>
   <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
+    <title>trufflesecurity / trufflehog</title>
+    <link>https://github.com/trufflesecurity/trufflehog</link>
+    <description>Find, verify, and analyze leaked credentials</description>
   </item>
   <item>
-    <title>minio / minio</title>
-    <link>https://github.com/minio/minio</link>
-    <description>MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</description>
+    <title>SagerNet / sing-box</title>
+    <link>https://github.com/SagerNet/sing-box</link>
+    <description>The universal proxy platform</description>
   </item>
   <item>
-    <title>obot-platform / obot</title>
-    <link>https://github.com/obot-platform/obot</link>
-    <description>Complete AI Governance Platform from Obot AI</description>
+    <title>authelia / authelia</title>
+    <link>https://github.com/authelia/authelia</link>
+    <description>The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.</description>
   </item>
 </channel>
 </rss>

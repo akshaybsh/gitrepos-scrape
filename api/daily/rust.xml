@@ -4,11 +4,11 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:04:39 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 07:28:26 GMT</pubDate>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>alphaXiv / OpenResearch</title>
+    <link>https://github.com/alphaXiv/OpenResearch</link>
+    <description>Turn your coding agents into research agents</description>
   </item>
   <item>
     <title>tonhowtf / omniget</title>
@@ -16,24 +16,9 @@
     <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
-    <title>superradcompany / microsandbox</title>
-    <link>https://github.com/superradcompany/microsandbox</link>
-    <description>🧱 Easy fast local-first microVM runtime and library</description>
-  </item>
-  <item>
-    <title>HakanSeven12 / OpenCADStudio</title>
-    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
-  </item>
-  <item>
-    <title>alphaXiv / OpenResearch</title>
-    <link>https://github.com/alphaXiv/OpenResearch</link>
-    <description>Run parallel research agents with any model</description>
-  </item>
-  <item>
-    <title>raine / workmux</title>
-    <link>https://github.com/raine/workmux</link>
-    <description>git worktrees + tmux windows for zero-friction parallel dev</description>
+    <title>Stremio / stremio-core</title>
+    <link>https://github.com/Stremio/stremio-core</link>
+    <description>⚛️ The Stremio Core: types, addon system, UI models, core logic</description>
   </item>
   <item>
     <title>RyanCodrai / turbovec</title>
@@ -41,39 +26,19 @@
     <description>A vector index built on TurboQuant, written in Rust with Python bindings</description>
   </item>
   <item>
-    <title>t8y2 / dbx</title>
-    <link>https://github.com/t8y2/dbx</link>
-    <description>20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
+    <title>git-ai-project / git-ai</title>
+    <link>https://github.com/git-ai-project/git-ai</link>
+    <description>A Git extension for tracking the AI-generated code in your repos</description>
   </item>
   <item>
-    <title>AlexsJones / llmfit</title>
-    <link>https://github.com/AlexsJones/llmfit</link>
-    <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
-    <title>teamclouday / AndroidMic</title>
-    <link>https://github.com/teamclouday/AndroidMic</link>
-    <description>Use your Android phone as a microphone for your PC</description>
-  </item>
-  <item>
-    <title>DioxusLabs / dioxus</title>
-    <link>https://github.com/DioxusLabs/dioxus</link>
-    <description>Fullstack app framework for web, desktop, and mobile.</description>
-  </item>
-  <item>
-    <title>tinyhumansai / openhuman</title>
-    <link>https://github.com/tinyhumansai/openhuman</link>
-    <description>OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows</description>
-  </item>
-  <item>
-    <title>facebook / pyrefly</title>
-    <link>https://github.com/facebook/pyrefly</link>
-    <description>A fast type checker and language server for Python</description>
-  </item>
-  <item>
-    <title>NVlabs / cuda-oxide</title>
-    <link>https://github.com/NVlabs/cuda-oxide</link>
-    <description>cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.</description>
+    <title>raine / workmux</title>
+    <link>https://github.com/raine/workmux</link>
+    <description>git worktrees + tmux windows for zero-friction parallel dev</description>
   </item>
   <item>
     <title>reacherhq / check-if-email-exists</title>
@@ -81,19 +46,54 @@
     <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
   </item>
   <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+    <title>martin-olivier / airgorah</title>
+    <link>https://github.com/martin-olivier/airgorah</link>
+    <description>A WiFi security auditing software</description>
   </item>
   <item>
-    <title>googleworkspace / cli</title>
-    <link>https://github.com/googleworkspace/cli</link>
-    <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
+    <title>tinyhumansai / openhuman</title>
+    <link>https://github.com/tinyhumansai/openhuman</link>
+    <description>OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows</description>
   </item>
   <item>
-    <title>bytecodealliance / wasmtime</title>
-    <link>https://github.com/bytecodealliance/wasmtime</link>
-    <description>A lightweight WebAssembly runtime that is fast, secure, and standards-compliant</description>
+    <title>waditu / czsc</title>
+    <link>https://github.com/waditu/czsc</link>
+    <description>缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易</description>
+  </item>
+  <item>
+    <title>gfx-rs / wgpu</title>
+    <link>https://github.com/gfx-rs/wgpu</link>
+    <description>A cross-platform, safe, pure-Rust graphics API.</description>
+  </item>
+  <item>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+  </item>
+  <item>
+    <title>rust-lang / rust-analyzer</title>
+    <link>https://github.com/rust-lang/rust-analyzer</link>
+    <description>A Rust compiler front-end for IDEs</description>
+  </item>
+  <item>
+    <title>DioxusLabs / dioxus</title>
+    <link>https://github.com/DioxusLabs/dioxus</link>
+    <description>Fullstack app framework for web, desktop, and mobile.</description>
+  </item>
+  <item>
+    <title>zeroclaw-labs / zeroclaw</title>
+    <link>https://github.com/zeroclaw-labs/zeroclaw</link>
+    <description>Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀</description>
+  </item>
+  <item>
+    <title>ratatui / ratatui</title>
+    <link>https://github.com/ratatui/ratatui</link>
+    <description>A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</description>
+  </item>
+  <item>
+    <title>cjpais / Handy</title>
+    <link>https://github.com/cjpais/Handy</link>
+    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
   </item>
 </channel>
 </rss>

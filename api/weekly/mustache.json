@@ -2,7 +2,7 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "prometheus-community / helm-charts",
@@ -22,7 +22,7 @@
       "languageColor": "#724b3b",
       "stars": 2367,
       "forks": 2114,
-      "added_stars": "5 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "renovatebot / helm-charts",
@@ -45,16 +45,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "netbox-community / netbox-chart",
-      "url": "https://github.com/netbox-community/netbox-chart",
-      "description": "A Helm chart for NetBox",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 355,
-      "forks": 185,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "codecentric / helm-charts",
       "url": "https://github.com/codecentric/helm-charts",
       "description": "A curated set of Helm charts brought to you by codecentric",
@@ -71,18 +61,8 @@
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 302,
-      "forks": 5950,
+      "forks": 5949,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "thmsgbrt / thmsgbrt",
-      "url": "https://github.com/thmsgbrt/thmsgbrt",
-      "description": "My awesome README.md",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 539,
-      "forks": 1387,
-      "added_stars": "1 star this week"
     },
     {
       "title": "temporalio / helm-charts",
@@ -95,24 +75,24 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "swagger-api / swagger-codegen",
+      "url": "https://github.com/swagger-api/swagger-codegen",
+      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 17786,
+      "forks": 5959,
+      "added_stars": "3 stars this week"
+    },
+    {
       "title": "goharbor / harbor-helm",
       "url": "https://github.com/goharbor/harbor-helm",
       "description": "The helm chart to deploy Harbor",
       "language": "Mustache",
       "languageColor": "#724b3b",
       "stars": 1518,
-      "forks": 863,
+      "forks": 862,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "swagger-api / swagger-codegen",
-      "url": "https://github.com/swagger-api/swagger-codegen",
-      "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 17787,
-      "forks": 5960,
-      "added_stars": "4 stars this week"
     }
   ]
 }

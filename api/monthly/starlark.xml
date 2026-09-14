@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:10:01 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 07:34:06 GMT</pubDate>
   <item>
     <title>googleapis / googleapis</title>
     <link>https://github.com/googleapis/googleapis</link>
@@ -41,14 +41,14 @@
     <description>C++ Rules for Bazel</description>
   </item>
   <item>
-    <title>bazel-contrib / rules_python</title>
-    <link>https://github.com/bazel-contrib/rules_python</link>
-    <description>Bazel Python Rules</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_apple</title>
     <link>https://github.com/bazelbuild/rules_apple</link>
     <description>Bazel rules to build apps for Apple platforms.</description>
+  </item>
+  <item>
+    <title>bazel-contrib / rules_python</title>
+    <link>https://github.com/bazel-contrib/rules_python</link>
+    <description>Bazel Python Rules</description>
   </item>
   <item>
     <title>tidbyt / community</title>
@@ -61,9 +61,9 @@
     <description>Rust rules for Bazel</description>
   </item>
   <item>
-    <title>cgrindel / rules_swift_package_manager</title>
-    <link>https://github.com/cgrindel/rules_swift_package_manager</link>
-    <description>Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.</description>
+    <title>googleapis / api-common-protos</title>
+    <link>https://github.com/googleapis/api-common-protos</link>
+    <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
 </channel>
 </rss>

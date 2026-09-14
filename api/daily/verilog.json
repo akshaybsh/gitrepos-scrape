@@ -2,7 +2,7 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
     {
       "title": "The-OpenROAD-Project / OpenROAD",
@@ -10,19 +10,19 @@
       "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 3097,
+      "stars": 3098,
       "forks": 1009,
       "added_stars": "1 star today"
     },
     {
-      "title": "analogdevicesinc / hdl",
-      "url": "https://github.com/analogdevicesinc/hdl",
-      "description": "HDL libraries and projects",
+      "title": "OpenPOWERFoundation / a2o",
+      "url": "https://github.com/OpenPOWERFoundation/a2o",
+      "description": "The A2O core was a follow-on to A2I, written in Verilog, and supported a lower thread count than A2I, but higher performance per thread, using out-of-order execution (register renaming, reservation stations, completion buffer) and a store queue. It is now being updated for compliancy and integration into open projects.",
       "language": "Verilog",
       "languageColor": "#b2b7f8",
-      "stars": 2014,
-      "forks": 1684,
-      "added_stars": "2 stars today"
+      "stars": 58,
+      "forks": 13,
+      "added_stars": "0 stars today"
     },
     {
       "title": "YosysHQ / picorv32",
@@ -32,26 +32,6 @@
       "languageColor": "#b2b7f8",
       "stars": 4383,
       "forks": 1002,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 736,
-      "forks": 524,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "EttusResearch / uhd",
-      "url": "https://github.com/EttusResearch/uhd",
-      "description": "The USRP™ Hardware Driver Repository",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 1278,
-      "forks": 778,
       "added_stars": "0 stars today"
     }
   ]

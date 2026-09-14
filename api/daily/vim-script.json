@@ -2,26 +2,46 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
+    {
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 40888,
+      "forks": 6137,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "tpope / vim-surround",
+      "url": "https://github.com/tpope/vim-surround",
+      "description": "surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14104,
+      "forks": 447,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "sainnhe / everforest",
       "url": "https://github.com/sainnhe/everforest",
       "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 4214,
+      "stars": 4215,
       "forks": 144,
-      "added_stars": "3 stars today"
+      "added_stars": "2 stars today"
     },
     {
-      "title": "vim-test / vim-test",
-      "url": "https://github.com/vim-test/vim-test",
-      "description": "Run your tests at the speed of thought",
+      "title": "derekhe / msfs2020-map-enhancement",
+      "url": "https://github.com/derekhe/msfs2020-map-enhancement",
+      "description": "MSFS2020 Map Enhancement",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 3165,
-      "forks": 411,
+      "stars": 359,
+      "forks": 44,
       "added_stars": "0 stars today"
     },
     {
@@ -30,29 +50,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102290,
-      "forks": 7106,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35768,
-      "forks": 1932,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "yangyangwithgnu / use_vim_as_ide",
-      "url": "https://github.com/yangyangwithgnu/use_vim_as_ide",
-      "description": "use vim as IDE",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 9159,
-      "forks": 2308,
-      "added_stars": "0 stars today"
+      "stars": 102318,
+      "forks": 7107,
+      "added_stars": "35 stars today"
     },
     {
       "title": "dense-analysis / ale",
@@ -61,17 +61,17 @@
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 14014,
-      "forks": 1485,
+      "forks": 1484,
       "added_stars": "0 stars today"
     },
     {
-      "title": "tpope / vim-commentary",
-      "url": "https://github.com/tpope/vim-commentary",
-      "description": "commentary.vim: comment stuff out",
+      "title": "vim-airline / vim-airline",
+      "url": "https://github.com/vim-airline/vim-airline",
+      "description": "lean & mean status/tabline for vim that's light as air",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 6165,
-      "forks": 210,
+      "stars": 17966,
+      "forks": 1101,
       "added_stars": "1 star today"
     }
   ]

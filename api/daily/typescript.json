@@ -2,37 +2,57 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
+    {
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5446,
+      "forks": 958,
+      "added_stars": "191 stars today"
+    },
+    {
+      "title": "tech-leads-club / agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 5814,
+      "forks": 504,
+      "added_stars": "265 stars today"
+    },
     {
       "title": "melgarafael / DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 1916,
-      "forks": 563,
-      "added_stars": "504 stars today"
+      "stars": 2356,
+      "forks": 607,
+      "added_stars": "432 stars today"
     },
     {
-      "title": "nab138 / iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
+      "title": "ColeMurray / background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "description": "An open-source background agents coding system",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3157,
-      "forks": 217,
-      "added_stars": "209 stars today"
+      "stars": 3041,
+      "forks": 439,
+      "added_stars": "69 stars today"
     },
     {
-      "title": "alsk1992 / CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "title": "microsoft / AI-Engineering-Coach",
+      "url": "https://github.com/microsoft/AI-Engineering-Coach",
+      "description": "better agentic engineering",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2585,
-      "forks": 317,
-      "added_stars": "376 stars today"
+      "stars": 4053,
+      "forks": 554,
+      "added_stars": "211 stars today"
     },
     {
       "title": "nashsu / llm_wiki",
@@ -40,89 +60,79 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19185,
-      "forks": 2174,
-      "added_stars": "485 stars today"
+      "stars": 19400,
+      "forks": 2200,
+      "added_stars": "256 stars today"
     },
     {
-      "title": "vastsa / PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3152,
-      "forks": 243,
-      "added_stars": "346 stars today"
+      "stars": 2702,
+      "forks": 329,
+      "added_stars": "288 stars today"
     },
     {
-      "title": "vercel-labs / skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
+      "title": "hydralauncher / hydra",
+      "url": "https://github.com/hydralauncher/hydra",
+      "description": "Hydra Launcher is an open-source gaming platform created to be the single tool that you need",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31506,
-      "forks": 2688,
-      "added_stars": "73 stars today"
-    },
-    {
-      "title": "pascalorg / editor",
-      "url": "https://github.com/pascalorg/editor",
-      "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 23856,
-      "forks": 2958,
-      "added_stars": "442 stars today"
-    },
-    {
-      "title": "BuilderIO / agent-native",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "description": "A framework for building agentic apps",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4746,
-      "forks": 447,
+      "stars": 16943,
+      "forks": 4022,
       "added_stars": "18 stars today"
     },
     {
-      "title": "angular / angular",
-      "url": "https://github.com/angular/angular",
-      "description": "Deliver web apps with confidence 🚀",
+      "title": "nab138 / iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 100997,
-      "forks": 27453,
-      "added_stars": "9 stars today"
+      "stars": 3286,
+      "forks": 225,
+      "added_stars": "206 stars today"
     },
     {
-      "title": "wechaty / wechaty",
-      "url": "https://github.com/wechaty/wechaty",
-      "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23188,
-      "forks": 2868,
-      "added_stars": "46 stars today"
+      "stars": 26060,
+      "forks": 3545,
+      "added_stars": "229 stars today"
     },
     {
-      "title": "stablyai / orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "title": "thesysdev / openui",
+      "url": "https://github.com/thesysdev/openui",
+      "description": "The Open Standard for Generative UI",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 67420,
-      "forks": 4417,
-      "added_stars": "620 stars today"
+      "stars": 9008,
+      "forks": 636,
+      "added_stars": "85 stars today"
     },
     {
-      "title": "wonderwhy-er / DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "title": "mattpocock / dictionary-of-ai-coding",
+      "url": "https://github.com/mattpocock/dictionary-of-ai-coding",
+      "description": "AI coding jargon, explained in plain English.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9560,
-      "forks": 1170,
-      "added_stars": "18 stars today"
+      "stars": 4590,
+      "forks": 530,
+      "added_stars": "131 stars today"
+    },
+    {
+      "title": "TencentCloud / TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26627,
+      "forks": 2505,
+      "added_stars": "145 stars today"
     }
   ]
 }

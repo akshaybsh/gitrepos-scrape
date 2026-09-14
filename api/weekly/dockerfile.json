@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "jaywcjlove / reference",
@@ -10,9 +10,9 @@
       "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 15255,
+      "stars": 15258,
       "forks": 2226,
-      "added_stars": "51 stars this week"
+      "added_stars": "55 stars this week"
     },
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -20,19 +20,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105613,
-      "forks": 10724,
-      "added_stars": "31 stars this week"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21235,
-      "forks": 4805,
-      "added_stars": "32 stars this week"
+      "stars": 105614,
+      "forks": 10726,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "MicrosoftDocs / windows-powershell-docs",
@@ -45,14 +35,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "nodejs / docker-node",
-      "url": "https://github.com/nodejs/docker-node",
-      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 8590,
-      "forks": 1982,
-      "added_stars": "3 stars this week"
+      "stars": 21237,
+      "forks": 4805,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "docker-library / python",
@@ -70,9 +60,9 @@
       "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 24615,
-      "forks": 2396,
-      "added_stars": "37 stars this week"
+      "stars": 24620,
+      "forks": 2397,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "dotnet / dotnet-docker",
@@ -85,14 +75,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "title": "nodejs / docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12058,
-      "forks": 3714,
-      "added_stars": "16 stars this week"
+      "stars": 8590,
+      "forks": 1981,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "oxsecurity / megalinter",
@@ -100,9 +90,29 @@
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2585,
+      "stars": 2586,
       "forks": 310,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 12059,
+      "forks": 3715,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "render-examples / mysql",
+      "url": "https://github.com/render-examples/mysql",
+      "description": "MySQL 8.0 and 5.7 on Render",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 46,
+      "forks": 1148,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "docker-library / php",
@@ -112,7 +122,7 @@
       "languageColor": "#384d54",
       "stars": 4037,
       "forks": 2017,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     }
   ]
 }

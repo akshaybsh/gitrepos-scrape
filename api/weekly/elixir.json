@@ -2,27 +2,27 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29049,
-      "forks": 1862,
-      "added_stars": "159 stars this week"
-    },
     {
       "title": "firezone / firezone",
       "url": "https://github.com/firezone/firezone",
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9088,
+      "stars": 9090,
       "forks": 456,
-      "added_stars": "39 stars this week"
+      "added_stars": "43 stars this week"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 29066,
+      "forks": 1864,
+      "added_stars": "166 stars this week"
     },
     {
       "title": "openai / symphony",
@@ -30,9 +30,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27171,
-      "forks": 2801,
-      "added_stars": "131 stars this week"
+      "stars": 27192,
+      "forks": 2809,
+      "added_stars": "138 stars this week"
     },
     {
       "title": "blockscout / blockscout",
@@ -40,8 +40,8 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4682,
-      "forks": 3171,
+      "stars": 4683,
+      "forks": 3172,
       "added_stars": "15 stars this week"
     },
     {
@@ -52,17 +52,17 @@
       "languageColor": "#6e4a7e",
       "stars": 23156,
       "forks": 3109,
-      "added_stars": "17 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "title": "livebook-dev / livebook",
+      "url": "https://github.com/livebook-dev/livebook",
+      "description": "Automate code & data workflows with interactive Elixir notebooks",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8979,
-      "forks": 1004,
-      "added_stars": "31 stars this week"
+      "stars": 5863,
+      "forks": 513,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "anoma / anoma",
@@ -70,9 +70,19 @@
       "description": "Reference implementation of Anoma",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 33615,
+      "stars": 33613,
       "forks": 4112,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8986,
+      "forks": 1004,
+      "added_stars": "28 stars this week"
     },
     {
       "title": "supabase / realtime",
@@ -85,16 +95,6 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "elixir-lsp / elixir_sense",
-      "url": "https://github.com/elixir-lsp/elixir_sense",
-      "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 340,
-      "forks": 43,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "phoenixframework / phoenix_live_view",
       "url": "https://github.com/phoenixframework/phoenix_live_view",
       "description": "Rich, real-time user experiences with server-rendered HTML",
@@ -105,34 +105,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
+      "title": "elixir-lsp / elixir_sense",
+      "url": "https://github.com/elixir-lsp/elixir_sense",
+      "description": "Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26631,
-      "forks": 3669,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "agentjido / term_ui",
-      "url": "https://github.com/agentjido/term_ui",
-      "description": "A framework for writing terminal user interfaces in Elixir",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 204,
-      "forks": 16,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5309,
-      "forks": 166,
-      "added_stars": "14 stars this week"
+      "stars": 340,
+      "forks": 43,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "elixir-lsp / elixir-ls",
@@ -145,14 +125,24 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "algora-io / algora",
-      "url": "https://github.com/algora-io/algora",
-      "description": "Hire the top 1% OSS engineers",
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 1497,
-      "forks": 151,
-      "added_stars": "10 stars this week"
+      "stars": 26635,
+      "forks": 3669,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5311,
+      "forks": 166,
+      "added_stars": "14 stars this week"
     }
   ]
 }

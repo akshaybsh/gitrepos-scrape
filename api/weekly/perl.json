@@ -2,27 +2,27 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
-    {
-      "title": "znuny / Znuny",
-      "url": "https://github.com/znuny/Znuny",
-      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 593,
-      "forks": 121,
-      "added_stars": "2 stars this week"
-    },
     {
       "title": "exiftool / exiftool",
       "url": "https://github.com/exiftool/exiftool",
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5030,
+      "stars": 5034,
       "forks": 484,
-      "added_stars": "25 stars this week"
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "znuny / Znuny",
+      "url": "https://github.com/znuny/Znuny",
+      "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 594,
+      "forks": 121,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -35,6 +35,26 @@
       "added_stars": "4 stars this week"
     },
     {
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3917,
+      "forks": 212,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19745,
+      "forks": 2111,
+      "added_stars": "16 stars this week"
+    },
+    {
       "title": "fusioninventory / fusioninventory-agent",
       "url": "https://github.com/fusioninventory/fusioninventory-agent",
       "description": "FusionInventory Agent",
@@ -45,24 +65,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3916,
-      "forks": 212,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19744,
-      "forks": 2112,
-      "added_stars": "16 stars this week"
+      "stars": 3416,
+      "forks": 380,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "AlDanial / cloc",
@@ -70,9 +80,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23521,
-      "forks": 1123,
-      "added_stars": "26 stars this week"
+      "stars": 23529,
+      "forks": 1126,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "ddclient / ddclient",
@@ -82,17 +92,7 @@
       "languageColor": "#0298c3",
       "stars": 3542,
       "forks": 400,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3414,
-      "forks": 380,
-      "added_stars": "5 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "major / MySQLTuner-perl",
@@ -105,12 +105,32 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1689,
+      "forks": 327,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1521,
+      "forks": 1216,
+      "added_stars": "6 stars this week"
+    },
+    {
       "title": "so-fancy / diff-so-fancy",
       "url": "https://github.com/so-fancy/diff-so-fancy",
       "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 18088,
+      "stars": 18087,
       "forks": 347,
       "added_stars": "3 stars this week"
     }

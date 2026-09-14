@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "szTheory / exifcleaner",
@@ -12,7 +12,7 @@
       "languageColor": "#0298c3",
       "stars": 2679,
       "forks": 168,
-      "added_stars": "102 stars this month"
+      "added_stars": "97 stars this month"
     },
     {
       "title": "exiftool / exiftool",
@@ -20,9 +20,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5030,
+      "stars": 5034,
       "forks": 484,
-      "added_stars": "90 stars this month"
+      "added_stars": "91 stars this month"
     },
     {
       "title": "znuny / Znuny",
@@ -30,9 +30,9 @@
       "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 593,
+      "stars": 594,
       "forks": 121,
-      "added_stars": "6 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -45,6 +45,26 @@
       "added_stars": "19 stars this month"
     },
     {
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3917,
+      "forks": 212,
+      "added_stars": "56 stars this month"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19745,
+      "forks": 2111,
+      "added_stars": "97 stars this month"
+    },
+    {
       "title": "fusioninventory / fusioninventory-agent",
       "url": "https://github.com/fusioninventory/fusioninventory-agent",
       "description": "FusionInventory Agent",
@@ -55,24 +75,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
+      "title": "Zimbra / zm-build",
+      "url": "https://github.com/Zimbra/zm-build",
+      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19744,
-      "forks": 2112,
-      "added_stars": "101 stars this month"
-    },
-    {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3916,
-      "forks": 212,
-      "added_stars": "58 stars this month"
+      "stars": 245,
+      "forks": 106,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "OpenKore / openkore",
@@ -80,9 +90,9 @@
       "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1519,
+      "stars": 1521,
       "forks": 1216,
-      "added_stars": "18 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -92,7 +102,7 @@
       "languageColor": "#0298c3",
       "stars": 1689,
       "forks": 327,
-      "added_stars": "26 stars this month"
+      "added_stars": "25 stars this month"
     },
     {
       "title": "AlDanial / cloc",
@@ -100,19 +110,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23521,
-      "forks": 1123,
-      "added_stars": "124 stars this month"
-    },
-    {
-      "title": "Zimbra / zm-build",
-      "url": "https://github.com/Zimbra/zm-build",
-      "description": "zm-build for Zimbra Collaboration Suite, FOSS Edition",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 245,
-      "forks": 106,
-      "added_stars": "5 stars this month"
+      "stars": 23529,
+      "forks": 1126,
+      "added_stars": "126 stars this month"
     },
     {
       "title": "centreon / centreon-plugins",
@@ -130,9 +130,29 @@
       "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3414,
+      "stars": 3416,
       "forks": 380,
-      "added_stars": "30 stars this month"
+      "added_stars": "31 stars this month"
+    },
+    {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3105,
+      "forks": 224,
+      "added_stars": "37 stars this month"
+    },
+    {
+      "title": "docker-library / repo-info",
+      "url": "https://github.com/docker-library/repo-info",
+      "description": "Extended information (especially license and layer details) about the published Official Images",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 608,
+      "forks": 358,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "awsdocs / aws-cdk-guide",
@@ -145,26 +165,6 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "Difegue / LANraragi",
-      "url": "https://github.com/Difegue/LANraragi",
-      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3104,
-      "forks": 224,
-      "added_stars": "38 stars this month"
-    },
-    {
-      "title": "docker-library / repo-info",
-      "url": "https://github.com/docker-library/repo-info",
-      "description": "Extended information (especially license and layer details) about the published Official Images",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 609,
-      "forks": 358,
-      "added_stars": "5 stars this month"
-    },
-    {
       "title": "ddclient / ddclient",
       "url": "https://github.com/ddclient/ddclient",
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
@@ -172,7 +172,7 @@
       "languageColor": "#0298c3",
       "stars": 3542,
       "forks": 400,
-      "added_stars": "36 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "os-autoinst / os-autoinst-distri-opensuse",
@@ -183,16 +183,6 @@
       "stars": 91,
       "forks": 304,
       "added_stars": "1 star this month"
-    },
-    {
-      "title": "yaml / yaml-test-suite",
-      "url": "https://github.com/yaml/yaml-test-suite",
-      "description": "Comprehensive, language independent Test Suite for YAML",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 269,
-      "forks": 98,
-      "added_stars": "11 stars this month"
     }
   ]
 }

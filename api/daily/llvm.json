@@ -2,18 +2,8 @@
   "title": "GitHub Llvm Languages Daily Trending",
   "description": "Daily Trending of Llvm Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
-    {
-      "title": "llvm / llvm-project",
-      "url": "https://github.com/llvm/llvm-project",
-      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
-      "language": "LLVM",
-      "languageColor": "#185619",
-      "stars": 40440,
-      "forks": 18638,
-      "added_stars": "20 stars today"
-    },
     {
       "title": "intel / llvm",
       "url": "https://github.com/intel/llvm",
@@ -22,17 +12,27 @@
       "languageColor": "#185619",
       "stars": 1522,
       "forks": 853,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "llvm / clangir",
-      "url": "https://github.com/llvm/clangir",
-      "description": "💀💀💀 The former home of clangir incubator, now part of the official llvm-project.",
+      "title": "oneapi-src / SYCLomatic",
+      "url": "https://github.com/oneapi-src/SYCLomatic",
+      "description": "",
       "language": "LLVM",
       "languageColor": "#185619",
-      "stars": 581,
-      "forks": 195,
+      "stars": 291,
+      "forks": 99,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "llvm / llvm-project",
+      "url": "https://github.com/llvm/llvm-project",
+      "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
+      "language": "LLVM",
+      "languageColor": "#185619",
+      "stars": 40458,
+      "forks": 18650,
+      "added_stars": "19 stars today"
     }
   ]
 }

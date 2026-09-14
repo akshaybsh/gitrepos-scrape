@@ -2,107 +2,17 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
-    {
-      "title": "p1neappleXpress / OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1439,
-      "forks": 105,
-      "added_stars": "355 stars today"
-    },
     {
       "title": "vxcontrol / pentagi",
       "url": "https://github.com/vxcontrol/pentagi",
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23576,
-      "forks": 3073,
-      "added_stars": "189 stars today"
-    },
-    {
-      "title": "trufflesecurity / trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 27848,
-      "forks": 2578,
-      "added_stars": "38 stars today"
-    },
-    {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 12188,
-      "forks": 1107,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "dagucloud / dagu",
-      "url": "https://github.com/dagucloud/dagu",
-      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3964,
-      "forks": 332,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "najmuzzaman-mohammad / gawkbot",
-      "url": "https://github.com/najmuzzaman-mohammad/gawkbot",
-      "description": "open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1380,
-      "forks": 118,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "MHSanaei / 3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46259,
-      "forks": 11415,
-      "added_stars": "49 stars today"
-    },
-    {
-      "title": "kserve / kserve",
-      "url": "https://github.com/kserve/kserve",
-      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5885,
-      "forks": 1667,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "esengine / DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35520,
-      "forks": 2389,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "milvus-io / milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46082,
-      "forks": 4250,
-      "added_stars": "11 stars today"
+      "stars": 24198,
+      "forks": 3114,
+      "added_stars": "590 stars today"
     },
     {
       "title": "alibaba / open-code-review",
@@ -110,19 +20,39 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22796,
-      "forks": 1691,
-      "added_stars": "264 stars today"
+      "stars": 23906,
+      "forks": 1767,
+      "added_stars": "443 stars today"
     },
     {
-      "title": "amir20 / dozzle",
-      "url": "https://github.com/amir20/dozzle",
-      "description": "Realtime log viewer for containers. Supports Docker, Swarm and K8s.",
+      "title": "nicocha30 / ligolo-ng",
+      "url": "https://github.com/nicocha30/ligolo-ng",
+      "description": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14360,
-      "forks": 614,
-      "added_stars": "12 stars today"
+      "stars": 4979,
+      "forks": 479,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "p1neappleXpress / OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1541,
+      "forks": 117,
+      "added_stars": "156 stars today"
+    },
+    {
+      "title": "tbphp / gpt-load",
+      "url": "https://github.com/tbphp/gpt-load",
+      "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6733,
+      "forks": 727,
+      "added_stars": "52 stars today"
     },
     {
       "title": "Tencent / WeKnora",
@@ -130,9 +60,89 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 22722,
-      "forks": 3257,
-      "added_stars": "307 stars today"
+      "stars": 23001,
+      "forks": 3278,
+      "added_stars": "209 stars today"
+    },
+    {
+      "title": "dagucloud / dagu",
+      "url": "https://github.com/dagucloud/dagu",
+      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3979,
+      "forks": 332,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "hashicorp / nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16910,
+      "forks": 2140,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "nektos / act",
+      "url": "https://github.com/nektos/act",
+      "description": "Run your GitHub Actions locally 🚀",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 71993,
+      "forks": 2033,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "restic / restic",
+      "url": "https://github.com/restic/restic",
+      "description": "Fast, secure, efficient backup program",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36040,
+      "forks": 1873,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "netdata / netdata",
+      "url": "https://github.com/netdata/netdata",
+      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 80510,
+      "forks": 6627,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7373,
+      "forks": 307,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "usememos / memos",
+      "url": "https://github.com/usememos/memos",
+      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 63019,
+      "forks": 4751,
+      "added_stars": "35 stars today"
+    },
+    {
+      "title": "esengine / DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 35534,
+      "forks": 2391,
+      "added_stars": "22 stars today"
     },
     {
       "title": "navidrome / navidrome",
@@ -140,59 +150,59 @@
       "description": "🎧 Your Personal Streaming Service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23501,
-      "forks": 1695,
-      "added_stars": "26 stars today"
+      "stars": 23538,
+      "forks": 1696,
+      "added_stars": "39 stars today"
     },
     {
-      "title": "opencode-ai / opencode",
-      "url": "https://github.com/opencode-ai/opencode",
-      "description": "A powerful AI coding agent. Built for the terminal.",
+      "title": "charmbracelet / crush",
+      "url": "https://github.com/charmbracelet/crush",
+      "description": "Glamourous agentic coding for all 💘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 13732,
-      "forks": 1813,
-      "added_stars": "6 stars today"
+      "stars": 28069,
+      "forks": 2241,
+      "added_stars": "22 stars today"
     },
     {
-      "title": "james-6-23 / codex2api",
-      "url": "https://github.com/james-6-23/codex2api",
-      "description": "Codex2API 是一个基于 Go + Gin + React/Vite 的 Codex 反向代理与管理后台项目",
+      "title": "ipfs / kubo",
+      "url": "https://github.com/ipfs/kubo",
+      "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2097,
-      "forks": 365,
-      "added_stars": "7 stars today"
+      "stars": 17139,
+      "forks": 3170,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
+      "title": "trufflesecurity / trufflehog",
+      "url": "https://github.com/trufflesecurity/trufflehog",
+      "description": "Find, verify, and analyze leaked credentials",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 82950,
-      "forks": 2870,
-      "added_stars": "27 stars today"
+      "stars": 27877,
+      "forks": 2579,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "minio / minio",
-      "url": "https://github.com/minio/minio",
-      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
+      "title": "SagerNet / sing-box",
+      "url": "https://github.com/SagerNet/sing-box",
+      "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 61367,
-      "forks": 7873,
-      "added_stars": "0 stars today"
+      "stars": 37972,
+      "forks": 4576,
+      "added_stars": "44 stars today"
     },
     {
-      "title": "obot-platform / obot",
-      "url": "https://github.com/obot-platform/obot",
-      "description": "Complete AI Governance Platform from Obot AI",
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1007,
-      "forks": 211,
-      "added_stars": "4 stars today"
+      "stars": 28954,
+      "forks": 1481,
+      "added_stars": "16 stars today"
     }
   ]
 }

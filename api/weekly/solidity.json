@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,19 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27241,
-      "forks": 12398,
-      "added_stars": "17 stars this week"
+      "stars": 27240,
+      "forks": 12400,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "SunWeb3Sec / DeFiHackLabs",
+      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "description": "Reproduce DeFi hacked incidents using Foundry.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 6787,
+      "forks": 1479,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -21,7 +31,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 1055,
-      "forks": 520,
+      "forks": 519,
       "added_stars": "0 stars this week"
     },
     {
@@ -40,7 +50,7 @@
       "description": "Assertions, equality checks and other test helpers",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 239,
+      "stars": 238,
       "forks": 76,
       "added_stars": "0 stars this week"
     },
@@ -50,7 +60,7 @@
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 4286,
+      "stars": 4285,
       "forks": 706,
       "added_stars": "2 stars this week"
     },
@@ -60,9 +70,9 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3371,
+      "stars": 3372,
       "forks": 488,
-      "added_stars": "5 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "ethereum / ERCs",
@@ -71,7 +81,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 756,
-      "forks": 1056,
+      "forks": 1055,
       "added_stars": "6 stars this week"
     }
   ]

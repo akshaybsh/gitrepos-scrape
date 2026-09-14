@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,19 +10,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8746,
+      "stars": 8747,
       "forks": 2630,
       "added_stars": "16 stars this week"
-    },
-    {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 386,
-      "forks": 888,
-      "added_stars": "2 stars this week"
     },
     {
       "title": "tilt-dev / tilt-extensions",
@@ -75,14 +65,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 427,
-      "forks": 817,
-      "added_stars": "3 stars this week"
+      "stars": 386,
+      "forks": 892,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -90,9 +80,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3971,
+      "stars": 3972,
       "forks": 304,
-      "added_stars": "9 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -102,7 +92,17 @@
       "languageColor": "#76d275",
       "stars": 23069,
       "forks": 1434,
-      "added_stars": "17 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "tidbyt / community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 427,
+      "forks": 818,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "tronbyt / apps",

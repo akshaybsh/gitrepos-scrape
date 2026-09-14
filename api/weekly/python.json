@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "ayghri / i-have-adhd",
@@ -10,9 +10,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43640,
-      "forks": 2490,
-      "added_stars": "15,924 stars this week"
+      "stars": 44708,
+      "forks": 2580,
+      "added_stars": "16,740 stars this week"
     },
     {
       "title": "openai / skills",
@@ -20,19 +20,9 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27038,
-      "forks": 1807,
-      "added_stars": "1,579 stars this week"
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47420,
-      "forks": 3862,
-      "added_stars": "4,069 stars this week"
+      "stars": 27128,
+      "forks": 1811,
+      "added_stars": "1,622 stars this week"
     },
     {
       "title": "microsoft / markitdown",
@@ -40,9 +30,19 @@
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 183352,
-      "forks": 13487,
-      "added_stars": "4,823 stars this week"
+      "stars": 183740,
+      "forks": 13523,
+      "added_stars": "5,191 stars this week"
+    },
+    {
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 47815,
+      "forks": 3892,
+      "added_stars": "3,673 stars this week"
     },
     {
       "title": "earthtojake / text-to-cad",
@@ -50,9 +50,9 @@
       "description": "A library of agent skills for CAD, CAE and CAM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15479,
-      "forks": 1598,
-      "added_stars": "1,011 stars this week"
+      "stars": 15661,
+      "forks": 1615,
+      "added_stars": "1,054 stars this week"
     },
     {
       "title": "petergyang / no-ai-slop",
@@ -60,39 +60,9 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8798,
-      "forks": 651,
-      "added_stars": "1,307 stars this week"
-    },
-    {
-      "title": "Imbad0202 / academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47799,
-      "forks": 3727,
-      "added_stars": "1,388 stars this week"
-    },
-    {
-      "title": "NousResearch / hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 244961,
-      "forks": 50865,
-      "added_stars": "3,270 stars this week"
-    },
-    {
-      "title": "rohitg00 / ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 54386,
-      "forks": 9500,
-      "added_stars": "1,965 stars this week"
+      "stars": 9300,
+      "forks": 675,
+      "added_stars": "1,668 stars this week"
     },
     {
       "title": "github / spec-kit",
@@ -100,9 +70,9 @@
       "description": "💫 Toolkit to help you get started with Spec-Driven Development",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 136108,
-      "forks": 12232,
-      "added_stars": "2,501 stars this week"
+      "stars": 136540,
+      "forks": 12257,
+      "added_stars": "2,642 stars this week"
     },
     {
       "title": "browser-use / browser-use",
@@ -110,9 +80,19 @@
       "description": "Agents that use the browser.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 114410,
-      "forks": 12571,
-      "added_stars": "2,048 stars this week"
+      "stars": 114554,
+      "forks": 12588,
+      "added_stars": "1,944 stars this week"
+    },
+    {
+      "title": "rohitg00 / ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 54498,
+      "forks": 9532,
+      "added_stars": "1,968 stars this week"
     },
     {
       "title": "The-Swarm-Corporation / AutoHedge",
@@ -120,9 +100,19 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6031,
-      "forks": 870,
-      "added_stars": "1,680 stars this week"
+      "stars": 6073,
+      "forks": 876,
+      "added_stars": "1,506 stars this week"
+    },
+    {
+      "title": "bytedance / deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 82388,
+      "forks": 11363,
+      "added_stars": "883 stars this week"
     },
     {
       "title": "multimodal-art-projection / YuE",
@@ -130,9 +120,9 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7422,
-      "forks": 837,
-      "added_stars": "713 stars this week"
+      "stars": 7953,
+      "forks": 879,
+      "added_stars": "1,207 stars this week"
     },
     {
       "title": "debpalash / VoiceStudio",
@@ -140,19 +130,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 24957,
-      "forks": 3084,
-      "added_stars": "4,654 stars this week"
-    },
-    {
-      "title": "bikini / exploitarium",
-      "url": "https://github.com/bikini/exploitarium",
-      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5100,
-      "forks": 1311,
-      "added_stars": "472 stars this week"
+      "stars": 27638,
+      "forks": 3402,
+      "added_stars": "6,443 stars this week"
     },
     {
       "title": "jordan-gibbs / hyperresearch",
@@ -160,9 +140,39 @@
       "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3096,
-      "forks": 294,
-      "added_stars": "1,112 stars this week"
+      "stars": 3252,
+      "forks": 317,
+      "added_stars": "1,311 stars this week"
+    },
+    {
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4323,
+      "forks": 605,
+      "added_stars": "926 stars this week"
+    },
+    {
+      "title": "jiji262 / douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11580,
+      "forks": 1768,
+      "added_stars": "1,684 stars this week"
+    },
+    {
+      "title": "jihe520 / MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5462,
+      "forks": 414,
+      "added_stars": "1,075 stars this week"
     },
     {
       "title": "AgriciDaniel / claude-ads",
@@ -170,19 +180,9 @@
       "description": "Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic scoring, versioned JSON reports, and capability-gated account changes.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9222,
-      "forks": 1366,
-      "added_stars": "483 stars this week"
-    },
-    {
-      "title": "jingyaogong / minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 60855,
-      "forks": 7901,
-      "added_stars": "2,145 stars this week"
+      "stars": 9249,
+      "forks": 1371,
+      "added_stars": "360 stars this week"
     },
     {
       "title": "Sumanth077 / Hands-On-AI-Engineering",
@@ -190,19 +190,19 @@
       "description": "A curated collection of practical AI projects implementing OCR systems, RAG, AI agents, and other AI use cases.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3481,
-      "forks": 866,
-      "added_stars": "316 stars this week"
+      "stars": 3517,
+      "forks": 870,
+      "added_stars": "307 stars this week"
     },
     {
-      "title": "ahujasid / blender-mcp",
-      "url": "https://github.com/ahujasid/blender-mcp",
-      "description": "Community plugin to control Blender 3D with any LLM of your choice",
+      "title": "bikini / exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 28386,
-      "forks": 2615,
-      "added_stars": "1,352 stars this week"
+      "stars": 5108,
+      "forks": 1309,
+      "added_stars": "303 stars this week"
     }
   ]
 }

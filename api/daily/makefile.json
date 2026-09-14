@@ -2,16 +2,26 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
+    {
+      "title": "ROCKNIX / distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1551,
+      "forks": 351,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "openwrt / packages",
       "url": "https://github.com/openwrt/packages",
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4608,
-      "forks": 3966,
+      "stars": 4607,
+      "forks": 3969,
       "added_stars": "1 star today"
     },
     {
@@ -22,7 +32,27 @@
       "languageColor": "#427819",
       "stars": 4316,
       "forks": 123,
-      "added_stars": "6 stars today"
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "mindsdb / mindshub",
+      "url": "https://github.com/mindsdb/mindshub",
+      "description": "The unified workspace where open-source models get things done for you.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 39730,
+      "forks": 6241,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "LibreELEC / LibreELEC.tv",
+      "url": "https://github.com/LibreELEC/LibreELEC.tv",
+      "description": "Just enough OS for KODI",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2814,
+      "forks": 1201,
+      "added_stars": "0 stars today"
     },
     {
       "title": "mozilla / addons",
@@ -35,6 +65,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 56573,
+      "forks": 5425,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "geneontology / go-ontology",
       "url": "https://github.com/geneontology/go-ontology",
       "description": "Source ontology files for the Gene Ontology",
@@ -45,43 +85,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "open-telemetry / opentelemetry-proto",
-      "url": "https://github.com/open-telemetry/opentelemetry-proto",
-      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "title": "freebsd / freebsd-ports",
+      "url": "https://github.com/freebsd/freebsd-ports",
+      "description": "FreeBSD ports tree (read-only mirror)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 817,
-      "forks": 320,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "InteractiveAdvertisingBureau / openrtb2.x",
-      "url": "https://github.com/InteractiveAdvertisingBureau/openrtb2.x",
-      "description": "OpenRTB 2.x specification, from 2.6 onward",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 168,
-      "forks": 77,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Ysurac / openmptcprouter",
-      "url": "https://github.com/Ysurac/openmptcprouter",
-      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2493,
-      "forks": 354,
+      "stars": 1205,
+      "forks": 874,
       "added_stars": "1 star today"
     },
     {
-      "title": "dbt-labs / dbt-utils",
-      "url": "https://github.com/dbt-labs/dbt-utils",
-      "description": "Utility functions for dbt projects.",
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1800,
-      "forks": 632,
+      "stars": 1137,
+      "forks": 1360,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7646,
+      "forks": 1099,
       "added_stars": "0 stars today"
     },
     {
@@ -95,33 +125,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "uber-go / guide",
-      "url": "https://github.com/uber-go/guide",
-      "description": "The Uber Go Style Guide.",
+      "title": "NetBSD / pkgsrc",
+      "url": "https://github.com/NetBSD/pkgsrc",
+      "description": "Automatic conversion of the NetBSD pkgsrc CVS module, use with care",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 17701,
-      "forks": 1815,
-      "added_stars": "2 stars today"
+      "stars": 403,
+      "forks": 191,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
+      "title": "itchio / itch.io",
+      "url": "https://github.com/itchio/itch.io",
+      "description": "🐛 Public itch.io issues tracker and documentation - use support instead for private information!",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56571,
-      "forks": 5425,
-      "added_stars": "11 stars today"
+      "stars": 282,
+      "forks": 40,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "open-telemetry / opentelemetry-specification",
-      "url": "https://github.com/open-telemetry/opentelemetry-specification",
-      "description": "Specifications for OpenTelemetry",
+      "title": "jobbole / awesome-python-cn",
+      "url": "https://github.com/jobbole/awesome-python-cn",
+      "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4338,
-      "forks": 1000,
+      "stars": 30604,
+      "forks": 7918,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-proto",
+      "url": "https://github.com/open-telemetry/opentelemetry-proto",
+      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 817,
+      "forks": 320,
       "added_stars": "0 stars today"
     },
     {
@@ -132,47 +172,7 @@
       "languageColor": "#427819",
       "stars": 3161,
       "forks": 140,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "liberationfonts / liberation-fonts",
-      "url": "https://github.com/liberationfonts/liberation-fonts",
-      "description": "The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 571,
-      "forks": 30,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ROCKNIX / distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1549,
-      "forks": 351,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "adriannovegil / awesome-observability",
-      "url": "https://github.com/adriannovegil/awesome-observability",
-      "description": "Awesome observability page",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 672,
-      "forks": 174,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7647,
-      "forks": 1098,
-      "added_stars": "2 stars today"
     }
   ]
 }

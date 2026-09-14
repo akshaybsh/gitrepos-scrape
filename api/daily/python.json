@@ -2,37 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
     {
-      "title": "jihe520 / MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5200,
-      "forks": 404,
-      "added_stars": "262 stars today"
-    },
-    {
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 137743,
-      "forks": 20242,
-      "added_stars": "230 stars today"
-    },
-    {
-      "title": "SnailSploit / Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3737,
-      "forks": 564,
-      "added_stars": "113 stars today"
+      "stars": 58766,
+      "forks": 7380,
+      "added_stars": "380 stars today"
     },
     {
       "title": "multimodal-art-projection / YuE",
@@ -40,79 +20,89 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7422,
-      "forks": 837,
-      "added_stars": "210 stars today"
+      "stars": 7953,
+      "forks": 879,
+      "added_stars": "487 stars today"
     },
     {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43638,
-      "forks": 2490,
-      "added_stars": "2,584 stars today"
+      "stars": 27632,
+      "forks": 3401,
+      "added_stars": "2,632 stars today"
     },
     {
-      "title": "github / spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 136108,
-      "forks": 12232,
-      "added_stars": "375 stars today"
+      "stars": 4321,
+      "forks": 605,
+      "added_stars": "506 stars today"
     },
     {
-      "title": "virgiliojr94 / book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "title": "jihe520 / MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 30328,
-      "forks": 3144,
-      "added_stars": "288 stars today"
+      "stars": 5460,
+      "forks": 412,
+      "added_stars": "246 stars today"
     },
     {
-      "title": "petergyang / no-ai-slop",
-      "url": "https://github.com/petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "title": "jiji262 / douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8796,
-      "forks": 651,
-      "added_stars": "178 stars today"
+      "stars": 11576,
+      "forks": 1767,
+      "added_stars": "452 stars today"
     },
     {
-      "title": "D4Vinci / Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 80588,
-      "forks": 8136,
-      "added_stars": "226 stars today"
+      "stars": 165710,
+      "forks": 34565,
+      "added_stars": "152 stars today"
     },
     {
-      "title": "k2-fsa / OmniVoice",
-      "url": "https://github.com/k2-fsa/OmniVoice",
-      "description": "High-Quality Voice Cloning TTS for 600+ Languages",
+      "title": "davila7 / claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12961,
-      "forks": 1968,
-      "added_stars": "534 stars today"
+      "stars": 30719,
+      "forks": 3484,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "google-gemini / gemini-skills",
-      "url": "https://github.com/google-gemini/gemini-skills",
-      "description": "Skills for the Gemini API, SDK and model/agent interactions",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4105,
-      "forks": 428,
-      "added_stars": "5 stars today"
+      "stars": 138025,
+      "forks": 20282,
+      "added_stars": "429 stars today"
+    },
+    {
+      "title": "unclecode / crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 83391,
+      "forks": 8615,
+      "added_stars": "655 stars today"
     },
     {
       "title": "jordan-gibbs / hyperresearch",
@@ -120,19 +110,29 @@
       "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3096,
-      "forks": 294,
-      "added_stars": "642 stars today"
+      "stars": 3250,
+      "forks": 317,
+      "added_stars": "192 stars today"
     },
     {
-      "title": "jundot / omlx",
-      "url": "https://github.com/jundot/omlx",
-      "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "title": "sherlock-project / sherlock",
+      "url": "https://github.com/sherlock-project/sherlock",
+      "description": "Hunt down social media accounts by username across social networks",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 21670,
-      "forks": 1871,
-      "added_stars": "25 stars today"
+      "stars": 91478,
+      "forks": 10766,
+      "added_stars": "72 stars today"
+    },
+    {
+      "title": "simonlin1212 / TradingAgents-astock",
+      "url": "https://github.com/simonlin1212/TradingAgents-astock",
+      "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3313,
+      "forks": 851,
+      "added_stars": "7 stars today"
     }
   ]
 }

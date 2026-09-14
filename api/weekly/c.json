@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "facebook / zstd",
@@ -10,19 +10,19 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27840,
+      "stars": 27850,
       "forks": 2598,
       "added_stars": "136 stars this week"
     },
     {
-      "title": "doldecomp / melee",
-      "url": "https://github.com/doldecomp/melee",
-      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "title": "JustVugg / colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2165,
-      "forks": 306,
-      "added_stars": "1,128 stars this week"
+      "stars": 30485,
+      "forks": 3289,
+      "added_stars": "2,356 stars this week"
     },
     {
       "title": "armory3d / armorpaint",
@@ -30,9 +30,59 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4952,
-      "forks": 550,
-      "added_stars": "810 stars this week"
+      "stars": 5012,
+      "forks": 553,
+      "added_stars": "935 stars this week"
+    },
+    {
+      "title": "doldecomp / melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2181,
+      "forks": 311,
+      "added_stars": "1,142 stars this week"
+    },
+    {
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 63144,
+      "forks": 28401,
+      "added_stars": "142 stars this week"
+    },
+    {
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 42847,
+      "forks": 7357,
+      "added_stars": "112 stars this week"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16509,
+      "forks": 9964,
+      "added_stars": "98 stars this week"
+    },
+    {
+      "title": "winsiderss / systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 15978,
+      "forks": 1785,
+      "added_stars": "112 stars this week"
     },
     {
       "title": "DaveGamble / cJSON",
@@ -41,58 +91,38 @@
       "language": "C",
       "languageColor": "#555555",
       "stars": 12993,
-      "forks": 3520,
-      "added_stars": "23 stars this week"
+      "forks": 3521,
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63129,
-      "forks": 28399,
-      "added_stars": "156 stars this week"
+      "stars": 12066,
+      "forks": 1592,
+      "added_stars": "20 stars this week"
     },
     {
-      "title": "NebuSec / CyberMeowfia",
-      "url": "https://github.com/NebuSec/CyberMeowfia",
-      "description": "PoCs and exploits for CVEs discovered by NebuSec.",
+      "title": "NVIDIA-RTX / Streamline",
+      "url": "https://github.com/NVIDIA-RTX/Streamline",
+      "description": "Streamline Integration Framework",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1636,
-      "forks": 415,
-      "added_stars": "58 stars this week"
+      "stars": 1163,
+      "forks": 156,
+      "added_stars": "55 stars this week"
     },
     {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15966,
-      "forks": 1784,
-      "added_stars": "129 stars this week"
-    },
-    {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13967,
-      "forks": 2222,
-      "added_stars": "127 stars this week"
-    },
-    {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 42840,
-      "forks": 7354,
-      "added_stars": "106 stars this week"
+      "stars": 14544,
+      "forks": 3395,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "Genymobile / scrcpy",
@@ -100,29 +130,9 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 149498,
+      "stars": 149576,
       "forks": 13740,
-      "added_stars": "566 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16497,
-      "forks": 9962,
-      "added_stars": "96 stars this week"
-    },
-    {
-      "title": "obsproject / obs-studio",
-      "url": "https://github.com/obsproject/obs-studio",
-      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 76137,
-      "forks": 10142,
-      "added_stars": "294 stars this week"
+      "added_stars": "575 stars this week"
     },
     {
       "title": "ValdikSS / GoodbyeDPI",
@@ -130,59 +140,69 @@
       "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28638,
+      "stars": 28636,
       "forks": 2219,
-      "added_stars": "38 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "timescale / timescaledb",
-      "url": "https://github.com/timescale/timescaledb",
-      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "title": "voidtools / voidImageViewer",
+      "url": "https://github.com/voidtools/voidImageViewer",
+      "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 23516,
-      "forks": 1150,
-      "added_stars": "55 stars this week"
+      "stars": 2376,
+      "forks": 153,
+      "added_stars": "133 stars this week"
     },
     {
-      "title": "raysan5 / raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "title": "libretro / RetroArch",
+      "url": "https://github.com/libretro/RetroArch",
+      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34689,
-      "forks": 3283,
-      "added_stars": "97 stars this week"
+      "stars": 13983,
+      "forks": 2222,
+      "added_stars": "122 stars this week"
     },
     {
-      "title": "mackron / miniaudio",
-      "url": "https://github.com/mackron/miniaudio",
-      "description": "Audio playback and capture library written in C, in a single source file.",
+      "title": "NVIDIA / open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7262,
-      "forks": 601,
-      "added_stars": "33 stars this week"
+      "stars": 17381,
+      "forks": 1856,
+      "added_stars": "37 stars this week"
     },
     {
-      "title": "coredevices / PebbleOS",
-      "url": "https://github.com/coredevices/PebbleOS",
-      "description": "",
+      "title": "raspberrypi / linux",
+      "url": "https://github.com/raspberrypi/linux",
+      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1416,
-      "forks": 284,
-      "added_stars": "26 stars this week"
+      "stars": 13165,
+      "forks": 5459,
+      "added_stars": "23 stars this week"
     },
     {
-      "title": "FreeRDP / FreeRDP",
-      "url": "https://github.com/FreeRDP/FreeRDP",
-      "description": "FreeRDP is a free remote desktop protocol library and clients",
+      "title": "duixcom / Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13681,
-      "forks": 15445,
-      "added_stars": "40 stars this week"
+      "stars": 15414,
+      "forks": 2616,
+      "added_stars": "347 stars this week"
+    },
+    {
+      "title": "bol-van / zapret2",
+      "url": "https://github.com/bol-van/zapret2",
+      "description": "anti-dpi software",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5441,
+      "forks": 237,
+      "added_stars": "54 stars this week"
     }
   ]
 }

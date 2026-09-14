@@ -4,21 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
-  <item>
-    <title>rtk-ai / rtk</title>
-    <link>https://github.com/rtk-ai/rtk</link>
-    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
-  </item>
+  <pubDate>Mon, 14 Sep 2026 07:30:46 GMT</pubDate>
   <item>
     <title>max-sixty / worktrunk</title>
     <link>https://github.com/max-sixty/worktrunk</link>
     <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
-    <title>HakanSeven12 / OpenCADStudio</title>
-    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+    <title>rtk-ai / rtk</title>
+    <link>https://github.com/rtk-ai/rtk</link>
+    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
   </item>
   <item>
     <title>tonhowtf / omniget</title>
@@ -26,59 +21,14 @@
     <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
+  </item>
+  <item>
     <title>AlexsJones / llmfit</title>
     <link>https://github.com/AlexsJones/llmfit</link>
     <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
-  </item>
-  <item>
-    <title>clash-verge-rev / clash-verge-rev</title>
-    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
-    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
-  </item>
-  <item>
-    <title>mixelpixx / Konnect</title>
-    <link>https://github.com/mixelpixx/Konnect</link>
-    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
-  </item>
-  <item>
-    <title>jlcodes99 / cockpit-tools</title>
-    <link>https://github.com/jlcodes99/cockpit-tools</link>
-    <description>🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta</description>
-  </item>
-  <item>
-    <title>eythaann / Seelen-UI</title>
-    <link>https://github.com/eythaann/Seelen-UI</link>
-    <description>The Fully Customizable Desktop Environment for Windows 10/11.</description>
-  </item>
-  <item>
-    <title>lencx / ChatGPT</title>
-    <link>https://github.com/lencx/ChatGPT</link>
-    <description>❄️ ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  </item>
-  <item>
-    <title>Pumpkin-MC / Pumpkin</title>
-    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
-    <description>Empowering everyone to host fast and efficient Minecraft servers</description>
-  </item>
-  <item>
-    <title>Automattic / harper</title>
-    <link>https://github.com/Automattic/harper</link>
-    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
-  </item>
-  <item>
-    <title>t8y2 / dbx</title>
-    <link>https://github.com/t8y2/dbx</link>
-    <description>20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
-  </item>
-  <item>
-    <title>lbjlaq / Antigravity-Manager</title>
-    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
-    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
-  </item>
-  <item>
-    <title>visioncortex / vtracer</title>
-    <link>https://github.com/visioncortex/vtracer</link>
-    <description>Raster to Vector Graphics Converter</description>
   </item>
   <item>
     <title>googleworkspace / cli</title>
@@ -86,19 +36,64 @@
     <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
   </item>
   <item>
-    <title>cachix / devenv</title>
-    <link>https://github.com/cachix/devenv</link>
-    <description>Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</description>
+    <title>Automattic / harper</title>
+    <link>https://github.com/Automattic/harper</link>
+    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+  </item>
+  <item>
+    <title>clash-verge-rev / clash-verge-rev</title>
+    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
+    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
+  </item>
+  <item>
+    <title>reacherhq / check-if-email-exists</title>
+    <link>https://github.com/reacherhq/check-if-email-exists</link>
+    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+  </item>
+  <item>
+    <title>eythaann / Seelen-UI</title>
+    <link>https://github.com/eythaann/Seelen-UI</link>
+    <description>The Fully Customizable Desktop Environment for Windows 10/11.</description>
+  </item>
+  <item>
+    <title>Pumpkin-MC / Pumpkin</title>
+    <link>https://github.com/Pumpkin-MC/Pumpkin</link>
+    <description>Empowering everyone to host fast and efficient Minecraft servers</description>
+  </item>
+  <item>
+    <title>lbjlaq / Antigravity-Manager</title>
+    <link>https://github.com/lbjlaq/Antigravity-Manager</link>
+    <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
+  </item>
+  <item>
+    <title>mixelpixx / Konnect</title>
+    <link>https://github.com/mixelpixx/Konnect</link>
+    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+  </item>
+  <item>
+    <title>lencx / ChatGPT</title>
+    <link>https://github.com/lencx/ChatGPT</link>
+    <description>❄️ ChatGPT Desktop Application (Mac, Windows and Linux)</description>
+  </item>
+  <item>
+    <title>visioncortex / vtracer</title>
+    <link>https://github.com/visioncortex/vtracer</link>
+    <description>Raster to Vector Graphics Converter</description>
+  </item>
+  <item>
+    <title>jlcodes99 / cockpit-tools</title>
+    <link>https://github.com/jlcodes99/cockpit-tools</link>
+    <description>🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta</description>
+  </item>
+  <item>
+    <title>t8y2 / dbx</title>
+    <link>https://github.com/t8y2/dbx</link>
+    <description>20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
   </item>
   <item>
     <title>CapSoftware / Cap</title>
     <link>https://github.com/CapSoftware/Cap</link>
     <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
-  </item>
-  <item>
-    <title>farion1231 / cc-switch</title>
-    <link>https://github.com/farion1231/cc-switch</link>
-    <description>A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build &amp; Hermes Agent. Only official website: ccswitch.io</description>
   </item>
 </channel>
 </rss>

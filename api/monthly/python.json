@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "anthropics / claude-plugins-community",
@@ -10,9 +10,9 @@
       "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3885,
-      "forks": 288,
-      "added_stars": "3,563 stars this month"
+      "stars": 3965,
+      "forks": 291,
+      "added_stars": "3,635 stars this month"
     },
     {
       "title": "volcengine / OpenViking",
@@ -20,9 +20,9 @@
       "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 36879,
-      "forks": 2824,
-      "added_stars": "8,682 stars this month"
+      "stars": 37099,
+      "forks": 2852,
+      "added_stars": "8,745 stars this month"
     },
     {
       "title": "ayghri / i-have-adhd",
@@ -30,19 +30,9 @@
       "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 43640,
-      "forks": 2490,
-      "added_stars": "23,327 stars this month"
-    },
-    {
-      "title": "youssofal / MTPLX",
-      "url": "https://github.com/youssofal/MTPLX",
-      "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2290,
-      "forks": 168,
-      "added_stars": "1,116 stars this month"
+      "stars": 44713,
+      "forks": 2580,
+      "added_stars": "24,025 stars this month"
     },
     {
       "title": "debpalash / VoiceStudio",
@@ -50,9 +40,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 24960,
-      "forks": 3084,
-      "added_stars": "13,070 stars this month"
+      "stars": 27642,
+      "forks": 3403,
+      "added_stars": "15,895 stars this month"
     },
     {
       "title": "public-apis / public-apis",
@@ -60,29 +50,19 @@
       "description": "A collective list of free APIs",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 479513,
-      "forks": 52900,
-      "added_stars": "24,706 stars this month"
+      "stars": 479834,
+      "forks": 52933,
+      "added_stars": "24,869 stars this month"
     },
     {
-      "title": "semantica-agi / semantica",
-      "url": "https://github.com/semantica-agi/semantica",
-      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
+      "title": "youssofal / MTPLX",
+      "url": "https://github.com/youssofal/MTPLX",
+      "description": "3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 12777,
-      "forks": 1425,
-      "added_stars": "7,399 stars this month"
-    },
-    {
-      "title": "NVIDIA-NeMo / Switchyard",
-      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
-      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2980,
-      "forks": 263,
-      "added_stars": "2,319 stars this month"
+      "stars": 2304,
+      "forks": 171,
+      "added_stars": "1,153 stars this month"
     },
     {
       "title": "google-research / timesfm",
@@ -90,19 +70,9 @@
       "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32356,
-      "forks": 3100,
-      "added_stars": "5,141 stars this month"
-    },
-    {
-      "title": "marin-community / marin",
-      "url": "https://github.com/marin-community/marin",
-      "description": "Open-source framework for the research and development of foundation models.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 3628,
-      "forks": 291,
-      "added_stars": "2,419 stars this month"
+      "stars": 32417,
+      "forks": 3107,
+      "added_stars": "5,192 stars this month"
     },
     {
       "title": "harry0703 / MoneyPrinterTurbo",
@@ -110,9 +80,9 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 122953,
-      "forks": 19015,
-      "added_stars": "20,725 stars this month"
+      "stars": 123372,
+      "forks": 19089,
+      "added_stars": "20,878 stars this month"
     },
     {
       "title": "jundot / omlx",
@@ -120,19 +90,9 @@
       "description": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 21670,
-      "forks": 1871,
-      "added_stars": "3,104 stars this month"
-    },
-    {
-      "title": "p-e-w / heretic",
-      "url": "https://github.com/p-e-w/heretic",
-      "description": "Fully automatic censorship removal for language models",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31255,
-      "forks": 3496,
-      "added_stars": "4,029 stars this month"
+      "stars": 21702,
+      "forks": 1876,
+      "added_stars": "3,106 stars this month"
     },
     {
       "title": "jingyaogong / minimind",
@@ -140,9 +100,9 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60857,
-      "forks": 7901,
-      "added_stars": "6,411 stars this month"
+      "stars": 60985,
+      "forks": 7923,
+      "added_stars": "6,429 stars this month"
     },
     {
       "title": "K-Dense-AI / scientific-agent-skills",
@@ -150,19 +110,19 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 44649,
-      "forks": 4049,
-      "added_stars": "11,475 stars this month"
+      "stars": 44817,
+      "forks": 4065,
+      "added_stars": "11,530 stars this month"
     },
     {
-      "title": "sngyai / Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
+      "title": "p-e-w / heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "description": "Fully automatic censorship removal for language models",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7179,
-      "forks": 1457,
-      "added_stars": "1,877 stars this month"
+      "stars": 31327,
+      "forks": 3508,
+      "added_stars": "4,031 stars this month"
     },
     {
       "title": "Tencent / AI-Infra-Guard",
@@ -170,39 +130,39 @@
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6251,
+      "stars": 6260,
       "forks": 584,
-      "added_stars": "1,790 stars this month"
+      "added_stars": "1,796 stars this month"
     },
     {
-      "title": "cactus-compute / needle",
-      "url": "https://github.com/cactus-compute/needle",
-      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "title": "sngyai / Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "description": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10926,
-      "forks": 703,
-      "added_stars": "6,905 stars this month"
+      "stars": 7230,
+      "forks": 1468,
+      "added_stars": "1,910 stars this month"
     },
     {
-      "title": "experientiallabs / experiential",
-      "url": "https://github.com/experientiallabs/experiential",
-      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "title": "semantica-agi / semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4683,
-      "forks": 168,
-      "added_stars": "4,288 stars this month"
+      "stars": 12842,
+      "forks": 1433,
+      "added_stars": "6,477 stars this month"
     },
     {
-      "title": "3b1b / manim",
-      "url": "https://github.com/3b1b/manim",
-      "description": "Animation engine for explanatory math videos",
+      "title": "titanwings / distilly",
+      "url": "https://github.com/titanwings/distilly",
+      "description": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 93816,
-      "forks": 7701,
-      "added_stars": "3,386 stars this month"
+      "stars": 24694,
+      "forks": 2144,
+      "added_stars": "3,754 stars this month"
     },
     {
       "title": "abi / screenshot-to-code",
@@ -210,9 +170,39 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 78673,
-      "forks": 9596,
-      "added_stars": "4,838 stars this month"
+      "stars": 78757,
+      "forks": 9609,
+      "added_stars": "4,901 stars this month"
+    },
+    {
+      "title": "NVIDIA-NeMo / Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3049,
+      "forks": 270,
+      "added_stars": "1,905 stars this month"
+    },
+    {
+      "title": "experientiallabs / experiential",
+      "url": "https://github.com/experientiallabs/experiential",
+      "description": "Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4790,
+      "forks": 175,
+      "added_stars": "4,416 stars this month"
+    },
+    {
+      "title": "cactus-compute / needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10993,
+      "forks": 709,
+      "added_stars": "6,220 stars this month"
     }
   ]
 }

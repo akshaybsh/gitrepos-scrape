@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:07:50 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -20,19 +20,9 @@
       "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 967,
+      "stars": 968,
       "forks": 539,
       "added_stars": "5 stars this week"
-    },
-    {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1754,
-      "forks": 882,
-      "added_stars": "8 stars this week"
     },
     {
       "title": "firemodels / fds",
@@ -41,8 +31,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 873,
-      "forks": 688,
-      "added_stars": "5 stars this week"
+      "forks": 689,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -50,18 +40,18 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1703,
+      "stars": 1705,
       "forks": 396,
-      "added_stars": "12 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1205,
-      "forks": 497,
+      "stars": 1755,
+      "forks": 882,
       "added_stars": "7 stars this week"
     },
     {
@@ -71,8 +61,18 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 405,
-      "forks": 760,
+      "forks": 761,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1206,
+      "forks": 498,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "MetOffice / jules",

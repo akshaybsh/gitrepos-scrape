@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -10,9 +10,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105613,
-      "forks": 10724,
-      "added_stars": "230 stars this month"
+      "stars": 105614,
+      "forks": 10726,
+      "added_stars": "227 stars this month"
     },
     {
       "title": "mikeroyal / Self-Hosting-Guide",
@@ -20,19 +20,9 @@
       "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 22790,
-      "forks": 1154,
-      "added_stars": "592 stars this month"
-    },
-    {
-      "title": "Gar-b-age / CookLikeHOC",
-      "url": "https://github.com/Gar-b-age/CookLikeHOC",
-      "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 24615,
-      "forks": 2396,
-      "added_stars": "886 stars this month"
+      "stars": 22795,
+      "forks": 1153,
+      "added_stars": "596 stars this month"
     },
     {
       "title": "laradock / laradock",
@@ -40,9 +30,9 @@
       "description": "Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch & more.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12673,
-      "forks": 4345,
-      "added_stars": "23 stars this month"
+      "stars": 12672,
+      "forks": 4342,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "autowarefoundation / autoware",
@@ -50,9 +40,19 @@
       "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12058,
-      "forks": 3714,
-      "added_stars": "111 stars this month"
+      "stars": 12059,
+      "forks": 3715,
+      "added_stars": "91 stars this month"
+    },
+    {
+      "title": "Gar-b-age / CookLikeHOC",
+      "url": "https://github.com/Gar-b-age/CookLikeHOC",
+      "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 24621,
+      "forks": 2397,
+      "added_stars": "883 stars this month"
     },
     {
       "title": "microsoft / vscode-remote-release",
@@ -65,13 +65,23 @@
       "added_stars": "37 stars this month"
     },
     {
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 82,
+      "forks": 661,
+      "added_stars": "0 stars this month"
+    },
+    {
       "title": "nordquant / dbt-student-repo",
       "url": "https://github.com/nordquant/dbt-student-repo",
       "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 23,
-      "forks": 3284,
+      "forks": 3299,
       "added_stars": "2 stars this month"
     },
     {
@@ -95,34 +105,24 @@
       "added_stars": "14 stars this month"
     },
     {
-      "title": "redhat-openshift-ecosystem / certified-operators",
-      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
-      "description": "Production catalog for Red Hat Certified Operator Bundles",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 82,
-      "forks": 661,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "vulhub / vulhub",
       "url": "https://github.com/vulhub/vulhub",
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21235,
+      "stars": 21237,
       "forks": 4805,
-      "added_stars": "141 stars this month"
+      "added_stars": "140 stars this month"
     },
     {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "title": "jaywcjlove / reference",
+      "url": "https://github.com/jaywcjlove/reference",
+      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2585,
-      "forks": 310,
-      "added_stars": "30 stars this month"
+      "stars": 15258,
+      "forks": 2226,
+      "added_stars": "97 stars this month"
     },
     {
       "title": "docker-library / python",
@@ -135,24 +135,24 @@
       "added_stars": "9 stars this month"
     },
     {
-      "title": "piyushsachdeva / CKA-2024",
-      "url": "https://github.com/piyushsachdeva/CKA-2024",
-      "description": "This repository contains the notes and code snippets of the CKA 2025 YouTube Playlist. The content is based on the latest 2025 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.",
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 1168,
-      "forks": 1971,
-      "added_stars": "28 stars this month"
+      "stars": 2586,
+      "forks": 310,
+      "added_stars": "29 stars this month"
     },
     {
-      "title": "nodejs / docker-node",
-      "url": "https://github.com/nodejs/docker-node",
-      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "title": "render-examples / mysql",
+      "url": "https://github.com/render-examples/mysql",
+      "description": "MySQL 8.0 and 5.7 on Render",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 8590,
-      "forks": 1982,
-      "added_stars": "19 stars this month"
+      "stars": 46,
+      "forks": 1148,
+      "added_stars": "1 star this month"
     }
   ]
 }

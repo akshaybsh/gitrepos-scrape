@@ -2,17 +2,27 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3928,
+      "forks": 898,
+      "added_stars": "91 stars this month"
+    },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3641,
-      "forks": 1112,
-      "added_stars": "57 stars this month"
+      "stars": 3642,
+      "forks": 1113,
+      "added_stars": "56 stars this month"
     },
     {
       "title": "chipsalliance / adams-bridge",
@@ -30,19 +40,9 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2050,
-      "forks": 805,
-      "added_stars": "43 stars this month"
-    },
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3925,
-      "forks": 898,
-      "added_stars": "90 stars this month"
+      "stars": 2051,
+      "forks": 806,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "chipsalliance / caliptra-ss",
@@ -60,9 +60,9 @@
       "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 621,
-      "forks": 567,
-      "added_stars": "22 stars this month"
+      "stars": 622,
+      "forks": 568,
+      "added_stars": "24 stars this month"
     },
     {
       "title": "chipsalliance / caliptra-rtl",
@@ -81,8 +81,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 12933,
-      "forks": 1243,
-      "added_stars": "109 stars this month"
+      "forks": 1242,
+      "added_stars": "107 stars this month"
     }
   ]
 }

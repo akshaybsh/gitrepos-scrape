@@ -2,47 +2,27 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:04:39 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
   "items": [
     {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9152,
-      "forks": 978,
-      "added_stars": "18 stars today"
+      "stars": 1265,
+      "forks": 480,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "sunblaze-ucb / vero",
-      "url": "https://github.com/sunblaze-ucb/vero",
-      "description": "",
+      "title": "teorth / analysis",
+      "url": "https://github.com/teorth/analysis",
+      "description": "A Lean companion to Analysis I",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 90,
-      "forks": 14,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4113,
-      "forks": 1680,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 739,
-      "forks": 185,
-      "added_stars": "2 stars today"
+      "stars": 1906,
+      "forks": 263,
+      "added_stars": "3 stars today"
     },
     {
       "title": "leanprover / cslib",
@@ -50,29 +30,49 @@
       "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 699,
+      "stars": 701,
       "forks": 197,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1263,
-      "forks": 477,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "leanprover / comparator",
-      "url": "https://github.com/leanprover/comparator",
-      "description": "",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 198,
-      "forks": 36,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 4119,
+      "forks": 1684,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "Verified-zkEVM / VCVio",
+      "url": "https://github.com/Verified-zkEVM/VCVio",
+      "description": "A Lean library for machine-checked cryptographic proofs.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 147,
+      "forks": 50,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 9171,
+      "forks": 978,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "opencompl / veir",
+      "url": "https://github.com/opencompl/veir",
+      "description": "Verified Intermediate Representation",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 107,
+      "forks": 32,
+      "added_stars": "0 stars today"
     }
   ]
 }

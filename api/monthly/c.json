@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "libretro / RetroArch",
@@ -10,9 +10,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13967,
+      "stars": 13983,
       "forks": 2222,
-      "added_stars": "482 stars this month"
+      "added_stars": "491 stars this month"
     },
     {
       "title": "nmap / nmap",
@@ -20,9 +20,9 @@
       "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13574,
-      "forks": 2904,
-      "added_stars": "253 stars this month"
+      "stars": 13583,
+      "forks": 2903,
+      "added_stars": "255 stars this month"
     },
     {
       "title": "obsproject / obs-studio",
@@ -30,9 +30,9 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 76137,
-      "forks": 10142,
-      "added_stars": "1,334 stars this month"
+      "stars": 76182,
+      "forks": 10158,
+      "added_stars": "1,343 stars this month"
     },
     {
       "title": "mpv-player / mpv",
@@ -40,59 +40,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 36961,
-      "forks": 3515,
-      "added_stars": "521 stars this month"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16497,
-      "forks": 9962,
-      "added_stars": "338 stars this month"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 882,
-      "forks": 238,
-      "added_stars": "333 stars this month"
-    },
-    {
-      "title": "sumatrapdfreader / sumatrapdf",
-      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
-      "description": "SumatraPDF reader",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17569,
-      "forks": 2039,
-      "added_stars": "291 stars this month"
-    },
-    {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 42840,
-      "forks": 7354,
-      "added_stars": "340 stars this month"
-    },
-    {
-      "title": "reactos / reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 18082,
-      "forks": 2214,
-      "added_stars": "197 stars this month"
+      "stars": 36972,
+      "forks": 3517,
+      "added_stars": "508 stars this month"
     },
     {
       "title": "duixcom / Duix-Avatar",
@@ -100,89 +50,29 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15329,
-      "forks": 2605,
-      "added_stars": "840 stars this month"
+      "stars": 15414,
+      "forks": 2616,
+      "added_stars": "971 stars this month"
     },
     {
-      "title": "hashcat / hashcat",
-      "url": "https://github.com/hashcat/hashcat",
-      "description": "World's fastest and most advanced password recovery utility",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26766,
-      "forks": 3554,
-      "added_stars": "279 stars this month"
+      "stars": 42847,
+      "forks": 7357,
+      "added_stars": "345 stars this month"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63129,
-      "forks": 28399,
-      "added_stars": "720 stars this month"
-    },
-    {
-      "title": "UberGuidoZ / Flipper",
-      "url": "https://github.com/UberGuidoZ/Flipper",
-      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 17515,
-      "forks": 3910,
-      "added_stars": "177 stars this month"
-    },
-    {
-      "title": "termux / termux-x11",
-      "url": "https://github.com/termux/termux-x11",
-      "description": "Termux X-server add-on.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4755,
-      "forks": 697,
-      "added_stars": "222 stars this month"
-    },
-    {
-      "title": "brunodev85 / winlator",
-      "url": "https://github.com/brunodev85/winlator",
-      "description": "Android application for running Windows applications with Wine and Box86/Box64",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19000,
-      "forks": 1734,
-      "added_stars": "480 stars this month"
-    },
-    {
-      "title": "nicbarker / clay",
-      "url": "https://github.com/nicbarker/clay",
-      "description": "High performance UI layout library in C.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 18119,
-      "forks": 719,
-      "added_stars": "340 stars this month"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28377,
-      "forks": 12943,
-      "added_stars": "469 stars this month"
-    },
-    {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14538,
-      "forks": 3395,
-      "added_stars": "187 stars this month"
+      "stars": 891,
+      "forks": 240,
+      "added_stars": "337 stars this month"
     },
     {
       "title": "facebook / zstd",
@@ -190,19 +80,139 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27840,
+      "stars": 27850,
       "forks": 2598,
-      "added_stars": "321 stars this month"
+      "added_stars": "324 stars this month"
     },
     {
-      "title": "openzfs / zfs",
-      "url": "https://github.com/openzfs/zfs",
-      "description": "OpenZFS on Linux and FreeBSD",
+      "title": "reactos / reactos",
+      "url": "https://github.com/reactos/reactos",
+      "description": "A free Windows-compatible Operating System",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12455,
-      "forks": 2042,
-      "added_stars": "89 stars this month"
+      "stars": 18086,
+      "forks": 2214,
+      "added_stars": "197 stars this month"
+    },
+    {
+      "title": "sumatrapdfreader / sumatrapdf",
+      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17575,
+      "forks": 2040,
+      "added_stars": "295 stars this month"
+    },
+    {
+      "title": "hashcat / hashcat",
+      "url": "https://github.com/hashcat/hashcat",
+      "description": "World's fastest and most advanced password recovery utility",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 26772,
+      "forks": 3557,
+      "added_stars": "276 stars this month"
+    },
+    {
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14544,
+      "forks": 3395,
+      "added_stars": "182 stars this month"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16509,
+      "forks": 9964,
+      "added_stars": "332 stars this month"
+    },
+    {
+      "title": "UberGuidoZ / Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17520,
+      "forks": 3911,
+      "added_stars": "175 stars this month"
+    },
+    {
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 63144,
+      "forks": 28401,
+      "added_stars": "709 stars this month"
+    },
+    {
+      "title": "InterceptSuite / ProxyBridge",
+      "url": "https://github.com/InterceptSuite/ProxyBridge",
+      "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 6367,
+      "forks": 383,
+      "added_stars": "635 stars this month"
+    },
+    {
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28391,
+      "forks": 12951,
+      "added_stars": "467 stars this month"
+    },
+    {
+      "title": "termux / termux-x11",
+      "url": "https://github.com/termux/termux-x11",
+      "description": "Termux X-server add-on.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4766,
+      "forks": 698,
+      "added_stars": "220 stars this month"
+    },
+    {
+      "title": "brunodev85 / winlator",
+      "url": "https://github.com/brunodev85/winlator",
+      "description": "Android application for running Windows applications with Wine and Box86/Box64",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 19016,
+      "forks": 1736,
+      "added_stars": "478 stars this month"
+    },
+    {
+      "title": "NVIDIA / open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17381,
+      "forks": 1856,
+      "added_stars": "128 stars this month"
+    },
+    {
+      "title": "nicbarker / clay",
+      "url": "https://github.com/nicbarker/clay",
+      "description": "High performance UI layout library in C.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 18122,
+      "forks": 719,
+      "added_stars": "335 stars this month"
     },
     {
       "title": "aircrack-ng / aircrack-ng",
@@ -210,19 +220,9 @@
       "description": "WiFi security auditing tools suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7626,
+      "stars": 7634,
       "forks": 1374,
-      "added_stars": "163 stars this month"
-    },
-    {
-      "title": "merbanan / rtl_433",
-      "url": "https://github.com/merbanan/rtl_433",
-      "description": "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7803,
-      "forks": 1584,
-      "added_stars": "150 stars this month"
+      "added_stars": "161 stars this month"
     },
     {
       "title": "armory3d / armorpaint",
@@ -230,9 +230,19 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4952,
-      "forks": 550,
-      "added_stars": "864 stars this month"
+      "stars": 5012,
+      "forks": 553,
+      "added_stars": "979 stars this month"
+    },
+    {
+      "title": "libsdl-org / SDL",
+      "url": "https://github.com/libsdl-org/SDL",
+      "description": "Simple DirectMedia Layer",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16566,
+      "forks": 2972,
+      "added_stars": "281 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,9 +10,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8746,
+      "stars": 8747,
       "forks": 2630,
-      "added_stars": "75 stars this month"
+      "added_stars": "77 stars this month"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -21,7 +21,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 386,
-      "forks": 888,
+      "forks": 892,
       "added_stars": "9 stars this month"
     },
     {
@@ -32,7 +32,7 @@
       "languageColor": "#76d275",
       "stars": 23069,
       "forks": 1434,
-      "added_stars": "147 stars this month"
+      "added_stars": "107 stars this month"
     },
     {
       "title": "cel-expr / cel-spec",
@@ -40,9 +40,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3971,
+      "stars": 3972,
       "forks": 304,
-      "added_stars": "37 stars this month"
+      "added_stars": "38 stars this month"
     },
     {
       "title": "aspect-build / rules_js",
@@ -71,8 +71,18 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 247,
-      "forks": 195,
+      "forks": 196,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 593,
+      "forks": 334,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazel-contrib / rules_python",
@@ -82,17 +92,7 @@
       "languageColor": "#76d275",
       "stars": 688,
       "forks": 720,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 593,
-      "forks": 335,
-      "added_stars": "5 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "tidbyt / community",
@@ -101,8 +101,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 427,
-      "forks": 817,
-      "added_stars": "6 stars this month"
+      "forks": 818,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -111,17 +111,17 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 843,
-      "forks": 650,
-      "added_stars": "11 stars this month"
+      "forks": 651,
+      "added_stars": "10 stars this month"
     },
     {
-      "title": "cgrindel / rules_swift_package_manager",
-      "url": "https://github.com/cgrindel/rules_swift_package_manager",
-      "description": "Collection of utilities and Bazel rules to aid in the development and maintenance of Swift repositories using Bazel.",
+      "title": "googleapis / api-common-protos",
+      "url": "https://github.com/googleapis/api-common-protos",
+      "description": "A standard library for use in specifying protocol buffer APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 109,
-      "forks": 57,
+      "stars": 265,
+      "forks": 59,
       "added_stars": "0 stars this month"
     }
   ]

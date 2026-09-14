@@ -2,7 +2,7 @@
   "title": "GitHub Mdx Languages Daily Trending",
   "description": "Daily Trending of Mdx Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 13 Sep 2026 07:10:01 GMT",
+  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
   "items": [
     {
       "title": "huggingface / agents-course",
@@ -10,9 +10,9 @@
       "description": "This repository contains the Hugging Face Agents Course.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 32467,
-      "forks": 2329,
-      "added_stars": "1,600 stars this month"
+      "stars": 32497,
+      "forks": 2334,
+      "added_stars": "1,594 stars this month"
     },
     {
       "title": "thedaviddias / Front-End-Checklist",
@@ -20,9 +20,9 @@
       "description": "🗂 The essential checklist for modern web development, for humans and AI agents",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 74123,
-      "forks": 6735,
-      "added_stars": "683 stars this month"
+      "stars": 74132,
+      "forks": 6736,
+      "added_stars": "689 stars this month"
     },
     {
       "title": "wasp-lang / open-saas",
@@ -30,9 +30,9 @@
       "description": "A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadcn UI, S3 file upload. AI-ready with tailored AGENTS.md, skills, and Claude Code plugin. One cmd deploy. Powered by Wasp full-stack framework.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 15809,
-      "forks": 1894,
-      "added_stars": "547 stars this month"
+      "stars": 15818,
+      "forks": 1899,
+      "added_stars": "548 stars this month"
     },
     {
       "title": "adongwanai / AgentGuide",
@@ -40,9 +40,9 @@
       "description": "https://adongwanai.github.io/AgentGuide | AI Agent开发指南 | LangGraph实战 | 高级RAG | 转行大模型 | 大模型面试 | 算法工程师 | 面试题库 | 强化学习｜数据合成",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 9507,
-      "forks": 923,
-      "added_stars": "1,370 stars this month"
+      "stars": 9551,
+      "forks": 931,
+      "added_stars": "1,335 stars this month"
     },
     {
       "title": "twbs / bootstrap",
@@ -50,19 +50,9 @@
       "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 174775,
-      "forks": 78603,
+      "stars": 174792,
+      "forks": 78602,
       "added_stars": "436 stars this month"
-    },
-    {
-      "title": "cloudflare / cloudflare-docs",
-      "url": "https://github.com/cloudflare/cloudflare-docs",
-      "description": "Cloudflare’s documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 5216,
-      "forks": 16690,
-      "added_stars": "161 stars this month"
     },
     {
       "title": "enactic / openarm",
@@ -70,29 +60,19 @@
       "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 3021,
-      "forks": 345,
-      "added_stars": "176 stars this month"
+      "stars": 3073,
+      "forks": 354,
+      "added_stars": "211 stars this month"
     },
     {
-      "title": "discord / discord-api-docs",
-      "url": "https://github.com/discord/discord-api-docs",
-      "description": "Official Discord Developer Docs",
+      "title": "FailproofAI / failproofai",
+      "url": "https://github.com/FailproofAI/failproofai",
+      "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. 40 built-in policies, a local dashboard, no account required with a generous free cloud plan",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 6485,
-      "forks": 1381,
-      "added_stars": "36 stars this month"
-    },
-    {
-      "title": "dair-ai / Prompt-Engineering-Guide",
-      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 78258,
-      "forks": 8595,
-      "added_stars": "949 stars this month"
+      "stars": 3173,
+      "forks": 467,
+      "added_stars": "2,049 stars this month"
     },
     {
       "title": "esphome / esphome.io",
@@ -101,8 +81,48 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 459,
-      "forks": 2390,
+      "forks": 2391,
       "added_stars": "6 stars this month"
+    },
+    {
+      "title": "dair-ai / Prompt-Engineering-Guide",
+      "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+      "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 78299,
+      "forks": 8600,
+      "added_stars": "966 stars this month"
+    },
+    {
+      "title": "cloudflare / cloudflare-docs",
+      "url": "https://github.com/cloudflare/cloudflare-docs",
+      "description": "Cloudflare’s documentation",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 5217,
+      "forks": 16701,
+      "added_stars": "160 stars this month"
+    },
+    {
+      "title": "solana-foundation / solana-com",
+      "url": "https://github.com/solana-foundation/solana-com",
+      "description": "The solana.com website.",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 505,
+      "forks": 407,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "discord / discord-api-docs",
+      "url": "https://github.com/discord/discord-api-docs",
+      "description": "Official Discord Developer Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 6485,
+      "forks": 1380,
+      "added_stars": "38 stars this month"
     },
     {
       "title": "langchain-ai / docs",
@@ -111,28 +131,8 @@
       "language": "MDX",
       "languageColor": "#fcb32c",
       "stars": 412,
-      "forks": 2689,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "hashicorp / web-unified-docs",
-      "url": "https://github.com/hashicorp/web-unified-docs",
-      "description": "Hashicorp Unified Docs",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 85,
-      "forks": 274,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "huggingface / course",
-      "url": "https://github.com/huggingface/course",
-      "description": "The Hugging Face course on Transformers",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 4212,
-      "forks": 1421,
-      "added_stars": "99 stars this month"
+      "forks": 2690,
+      "added_stars": "18 stars this month"
     },
     {
       "title": "buchidonggua / dg-ai-notes",
@@ -140,9 +140,29 @@
       "description": "",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2777,
-      "forks": 227,
-      "added_stars": "824 stars this month"
+      "stars": 2790,
+      "forks": 228,
+      "added_stars": "816 stars this month"
+    },
+    {
+      "title": "hashicorp / web-unified-docs",
+      "url": "https://github.com/hashicorp/web-unified-docs",
+      "description": "Hashicorp Unified Docs",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 86,
+      "forks": 275,
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "huggingface / course",
+      "url": "https://github.com/huggingface/course",
+      "description": "The Hugging Face course on Transformers",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 4213,
+      "forks": 1421,
+      "added_stars": "98 stars this month"
     },
     {
       "title": "solidjs / solid-docs",
@@ -155,24 +175,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "FailproofAI / failproofai",
-      "url": "https://github.com/FailproofAI/failproofai",
-      "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement. 40 built-in policies, a local dashboard, no account required with a generous free cloud plan",
+      "title": "meshtastic / meshtastic",
+      "url": "https://github.com/meshtastic/meshtastic",
+      "description": "Meshtastic project website and documentation",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 3027,
-      "forks": 463,
-      "added_stars": "2,052 stars this month"
-    },
-    {
-      "title": "all-contributors / allcontributors.org",
-      "url": "https://github.com/all-contributors/allcontributors.org",
-      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 8101,
-      "forks": 1728,
-      "added_stars": "19 stars this month"
+      "stars": 2170,
+      "forks": 1045,
+      "added_stars": "65 stars this month"
     },
     {
       "title": "rainbow-me / rainbowkit",
@@ -180,9 +190,19 @@
       "description": "The best way to connect a wallet 🌈 🧰",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 2836,
+      "stars": 2835,
       "forks": 797,
       "added_stars": "5 stars this month"
+    },
+    {
+      "title": "all-contributors / allcontributors.org",
+      "url": "https://github.com/all-contributors/allcontributors.org",
+      "description": "✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨",
+      "language": "MDX",
+      "languageColor": "#fcb32c",
+      "stars": 8102,
+      "forks": 1729,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "react-native-elements / react-native-elements",
@@ -190,19 +210,9 @@
       "description": "Cross-Platform React Native UI Toolkit",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 25862,
-      "forks": 4673,
+      "stars": 25864,
+      "forks": 4674,
       "added_stars": "22 stars this month"
-    },
-    {
-      "title": "meshtastic / meshtastic",
-      "url": "https://github.com/meshtastic/meshtastic",
-      "description": "Meshtastic project website and documentation",
-      "language": "MDX",
-      "languageColor": "#fcb32c",
-      "stars": 2167,
-      "forks": 1045,
-      "added_stars": "67 stars this month"
     },
     {
       "title": "gpxstudio / gpx.studio",
@@ -210,9 +220,9 @@
       "description": "the online GPX file editor",
       "language": "MDX",
       "languageColor": "#fcb32c",
-      "stars": 1203,
-      "forks": 264,
-      "added_stars": "46 stars this month"
+      "stars": 1204,
+      "forks": 266,
+      "added_stars": "47 stars this month"
     }
   ]
 }

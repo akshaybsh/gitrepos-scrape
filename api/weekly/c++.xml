@@ -4,21 +4,21 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 13 Sep 2026 07:07:50 GMT</pubDate>
+  <pubDate>Mon, 14 Sep 2026 07:30:46 GMT</pubDate>
   <item>
     <title>facebook / rocksdb</title>
     <link>https://github.com/facebook/rocksdb</link>
     <description>A library that provides an embeddable, persistent key-value store for fast storage.</description>
   </item>
   <item>
-    <title>ClickHouse / ClickHouse</title>
-    <link>https://github.com/ClickHouse/ClickHouse</link>
-    <description>ClickHouse® is a real-time analytics database management system</description>
-  </item>
-  <item>
     <title>aseprite / aseprite</title>
     <link>https://github.com/aseprite/aseprite</link>
     <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
+  </item>
+  <item>
+    <title>godotengine / godot</title>
+    <link>https://github.com/godotengine/godot</link>
+    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
     <title>google-deepmind / mujoco</title>
@@ -31,34 +31,14 @@
     <description>Self-hosted game stream host for Moonlight.</description>
   </item>
   <item>
-    <title>imputnet / helium</title>
-    <link>https://github.com/imputnet/helium</link>
-    <description>Private, fast, and honest web browser</description>
+    <title>jomjol / AI-on-the-edge-device</title>
+    <link>https://github.com/jomjol/AI-on-the-edge-device</link>
+    <description>Easy to use device for connecting &quot;old&quot; measuring units (water, power, gas, ...) to the digital world</description>
   </item>
   <item>
-    <title>mltframework / shotcut</title>
-    <link>https://github.com/mltframework/shotcut</link>
-    <description>cross-platform (Qt), open-source (GPLv3) video editor</description>
-  </item>
-  <item>
-    <title>godotengine / godot</title>
-    <link>https://github.com/godotengine/godot</link>
-    <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
-  </item>
-  <item>
-    <title>optiscaler / OptiScaler</title>
-    <link>https://github.com/optiscaler/OptiScaler</link>
-    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
-  </item>
-  <item>
-    <title>noctalia-dev / noctalia</title>
-    <link>https://github.com/noctalia-dev/noctalia</link>
-    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
-  </item>
-  <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
+    <title>ClickHouse / ClickHouse</title>
+    <link>https://github.com/ClickHouse/ClickHouse</link>
+    <description>ClickHouse® is a real-time analytics database management system</description>
   </item>
   <item>
     <title>mamedev / mame</title>
@@ -66,9 +46,29 @@
     <description>MAME</description>
   </item>
   <item>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
+  </item>
+  <item>
     <title>justcallmekoko / ESP32Marauder</title>
     <link>https://github.com/justcallmekoko/ESP32Marauder</link>
     <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+  </item>
+  <item>
+    <title>apache / arrow</title>
+    <link>https://github.com/apache/arrow</link>
+    <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
+  </item>
+  <item>
+    <title>azahar-emu / azahar</title>
+    <link>https://github.com/azahar-emu/azahar</link>
+    <description>An open-source 3DS emulator project based on Citra.</description>
+  </item>
+  <item>
+    <title>noctalia-dev / noctalia</title>
+    <link>https://github.com/noctalia-dev/noctalia</link>
+    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
   </item>
   <item>
     <title>ClassicOldSong / Apollo</title>
@@ -76,34 +76,34 @@
     <description>Sunshine fork - The easiest way to stream with the native resolution of your client device</description>
   </item>
   <item>
+    <title>RPCS3 / rpcs3</title>
+    <link>https://github.com/RPCS3/rpcs3</link>
+    <description>PlayStation 3 emulator and debugger</description>
+  </item>
+  <item>
+    <title>juce-framework / JUCE</title>
+    <link>https://github.com/juce-framework/JUCE</link>
+    <description>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, LV2 and AAX audio plug-ins.</description>
+  </item>
+  <item>
+    <title>imputnet / helium</title>
+    <link>https://github.com/imputnet/helium</link>
+    <description>Private, fast, and honest web browser</description>
+  </item>
+  <item>
+    <title>abseil / abseil-cpp</title>
+    <link>https://github.com/abseil/abseil-cpp</link>
+    <description>Abseil Common Libraries (C++)</description>
+  </item>
+  <item>
+    <title>doitsujin / dxvk</title>
+    <link>https://github.com/doitsujin/dxvk</link>
+    <description>Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</description>
+  </item>
+  <item>
     <title>deskflow / deskflow</title>
     <link>https://github.com/deskflow/deskflow</link>
     <description>Share a single keyboard and mouse between multiple computers.</description>
-  </item>
-  <item>
-    <title>FreeCAD / FreeCAD</title>
-    <link>https://github.com/FreeCAD/FreeCAD</link>
-    <description>Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.</description>
-  </item>
-  <item>
-    <title>tenstorrent / tt-metal</title>
-    <link>https://github.com/tenstorrent/tt-metal</link>
-    <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
-  </item>
-  <item>
-    <title>aria2 / aria2</title>
-    <link>https://github.com/aria2/aria2</link>
-    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
-  </item>
-  <item>
-    <title>mongodb / mongo</title>
-    <link>https://github.com/mongodb/mongo</link>
-    <description>The MongoDB Database</description>
-  </item>
-  <item>
-    <title>apache / arrow</title>
-    <link>https://github.com/apache/arrow</link>
-    <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
   </item>
 </channel>
 </rss>
