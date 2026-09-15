@@ -4,7 +4,7 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:34:06 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
   <item>
     <title>libretro / RetroArch</title>
     <link>https://github.com/libretro/RetroArch</link>
@@ -16,14 +16,14 @@
     <description>Nmap - the Network Mapper. Github mirror of official SVN repository.</description>
   </item>
   <item>
-    <title>obsproject / obs-studio</title>
-    <link>https://github.com/obsproject/obs-studio</link>
-    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
-  </item>
-  <item>
     <title>mpv-player / mpv</title>
     <link>https://github.com/mpv-player/mpv</link>
     <description>🎥 Command line media player</description>
+  </item>
+  <item>
+    <title>obsproject / obs-studio</title>
+    <link>https://github.com/obsproject/obs-studio</link>
+    <description>OBS Studio - Free and open source software for live streaming and screen recording</description>
   </item>
   <item>
     <title>duixcom / Duix-Avatar</title>
@@ -36,34 +36,14 @@
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>tr4m0ryp / tr4mpass</title>
-    <link>https://github.com/tr4m0ryp/tr4mpass</link>
-    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
-  </item>
-  <item>
     <title>facebook / zstd</title>
     <link>https://github.com/facebook/zstd</link>
     <description>Zstandard - Fast real-time compression algorithm</description>
   </item>
   <item>
-    <title>reactos / reactos</title>
-    <link>https://github.com/reactos/reactos</link>
-    <description>A free Windows-compatible Operating System</description>
-  </item>
-  <item>
-    <title>sumatrapdfreader / sumatrapdf</title>
-    <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
-    <description>SumatraPDF reader</description>
-  </item>
-  <item>
-    <title>hashcat / hashcat</title>
-    <link>https://github.com/hashcat/hashcat</link>
-    <description>World&#x27;s fastest and most advanced password recovery utility</description>
-  </item>
-  <item>
-    <title>OpenVPN / openvpn</title>
-    <link>https://github.com/OpenVPN/openvpn</link>
-    <description>OpenVPN is an open source VPN daemon</description>
+    <title>tr4m0ryp / tr4mpass</title>
+    <link>https://github.com/tr4m0ryp/tr4mpass</link>
+    <description>Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).</description>
   </item>
   <item>
     <title>zephyrproject-rtos / zephyr</title>
@@ -71,19 +51,9 @@
     <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
   </item>
   <item>
-    <title>UberGuidoZ / Flipper</title>
-    <link>https://github.com/UberGuidoZ/Flipper</link>
-    <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
-  </item>
-  <item>
-    <title>git / git</title>
-    <link>https://github.com/git/git</link>
-    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
-  </item>
-  <item>
-    <title>InterceptSuite / ProxyBridge</title>
-    <link>https://github.com/InterceptSuite/ProxyBridge</link>
-    <description>Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy</description>
+    <title>OpenVPN / openvpn</title>
+    <link>https://github.com/OpenVPN/openvpn</link>
+    <description>OpenVPN is an open source VPN daemon</description>
   </item>
   <item>
     <title>openwrt / openwrt</title>
@@ -91,24 +61,49 @@
     <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
   </item>
   <item>
+    <title>hashcat / hashcat</title>
+    <link>https://github.com/hashcat/hashcat</link>
+    <description>World&#x27;s fastest and most advanced password recovery utility</description>
+  </item>
+  <item>
+    <title>sumatrapdfreader / sumatrapdf</title>
+    <link>https://github.com/sumatrapdfreader/sumatrapdf</link>
+    <description>SumatraPDF reader</description>
+  </item>
+  <item>
+    <title>UberGuidoZ / Flipper</title>
+    <link>https://github.com/UberGuidoZ/Flipper</link>
+    <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
+  </item>
+  <item>
+    <title>reactos / reactos</title>
+    <link>https://github.com/reactos/reactos</link>
+    <description>A free Windows-compatible Operating System</description>
+  </item>
+  <item>
+    <title>InterceptSuite / ProxyBridge</title>
+    <link>https://github.com/InterceptSuite/ProxyBridge</link>
+    <description>Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy</description>
+  </item>
+  <item>
+    <title>git / git</title>
+    <link>https://github.com/git/git</link>
+    <description>Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</description>
+  </item>
+  <item>
+    <title>openzfs / zfs</title>
+    <link>https://github.com/openzfs/zfs</link>
+    <description>OpenZFS on Linux and FreeBSD</description>
+  </item>
+  <item>
+    <title>ValdikSS / GoodbyeDPI</title>
+    <link>https://github.com/ValdikSS/GoodbyeDPI</link>
+    <description>GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)</description>
+  </item>
+  <item>
     <title>termux / termux-x11</title>
     <link>https://github.com/termux/termux-x11</link>
     <description>Termux X-server add-on.</description>
-  </item>
-  <item>
-    <title>brunodev85 / winlator</title>
-    <link>https://github.com/brunodev85/winlator</link>
-    <description>Android application for running Windows applications with Wine and Box86/Box64</description>
-  </item>
-  <item>
-    <title>NVIDIA / open-gpu-kernel-modules</title>
-    <link>https://github.com/NVIDIA/open-gpu-kernel-modules</link>
-    <description>NVIDIA Linux open GPU kernel module source</description>
-  </item>
-  <item>
-    <title>nicbarker / clay</title>
-    <link>https://github.com/nicbarker/clay</link>
-    <description>High performance UI layout library in C.</description>
   </item>
   <item>
     <title>aircrack-ng / aircrack-ng</title>
@@ -116,14 +111,19 @@
     <description>WiFi security auditing tools suite</description>
   </item>
   <item>
-    <title>armory3d / armorpaint</title>
-    <link>https://github.com/armory3d/armorpaint</link>
-    <description>Graphics Creation Tools</description>
+    <title>cilium / tetragon</title>
+    <link>https://github.com/cilium/tetragon</link>
+    <description>eBPF-based Security Observability and Runtime Enforcement</description>
   </item>
   <item>
     <title>libsdl-org / SDL</title>
     <link>https://github.com/libsdl-org/SDL</link>
     <description>Simple DirectMedia Layer</description>
+  </item>
+  <item>
+    <title>ImageMagick / ImageMagick</title>
+    <link>https://github.com/ImageMagick/ImageMagick</link>
+    <description>ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.</description>
   </item>
 </channel>
 </rss>

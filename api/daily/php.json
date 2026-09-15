@@ -2,17 +2,27 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
     {
-      "title": "laravel / framework",
-      "url": "https://github.com/laravel/framework",
-      "description": "Laravel is a web application framework with expressive, elegant syntax.",
+      "title": "espocrm / espocrm",
+      "url": "https://github.com/espocrm/espocrm",
+      "description": "EspoCRM – Open Source CRM Application",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 34912,
-      "forks": 11981,
-      "added_stars": "3 stars today"
+      "stars": 3354,
+      "forks": 971,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "SuiteCRM / SuiteCRM",
+      "url": "https://github.com/SuiteCRM/SuiteCRM",
+      "description": "SuiteCRM - Open source CRM for the world",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5745,
+      "forks": 2415,
+      "added_stars": "5 stars today"
     },
     {
       "title": "woocommerce / woocommerce",
@@ -20,9 +30,49 @@
       "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10505,
-      "forks": 10677,
-      "added_stars": "0 stars today"
+      "stars": 10509,
+      "forks": 10679,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "coollabsio / coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 61794,
+      "forks": 5458,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "alexjustesen / speedtest-tracker",
+      "url": "https://github.com/alexjustesen/speedtest-tracker",
+      "description": "Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5958,
+      "forks": 243,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "Paymenter / Paymenter",
+      "url": "https://github.com/Paymenter/Paymenter",
+      "description": "Free and open-source webshop solution for hostings",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 2301,
+      "forks": 492,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "firefly-iii / firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 24630,
+      "forks": 2285,
+      "added_stars": "20 stars today"
     },
     {
       "title": "monicahq / monica",
@@ -30,28 +80,18 @@
       "description": "Personal CRM. Remember everything about your friends, family and business relationships.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 25303,
-      "forks": 2606,
-      "added_stars": "17 stars today"
+      "stars": 25308,
+      "forks": 2607,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "pterodactyl / panel",
-      "url": "https://github.com/pterodactyl/panel",
-      "description": "Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.",
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 9228,
-      "forks": 2678,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "composer / composer",
-      "url": "https://github.com/composer/composer",
-      "description": "Dependency Manager for PHP",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 29523,
-      "forks": 4837,
+      "stars": 5436,
+      "forks": 3036,
       "added_stars": "4 stars today"
     },
     {
@@ -60,9 +100,69 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 36798,
-      "forks": 5181,
+      "stars": 36807,
+      "forks": 5185,
       "added_stars": "11 stars today"
+    },
+    {
+      "title": "Dolibarr / dolibarr",
+      "url": "https://github.com/Dolibarr/dolibarr",
+      "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7612,
+      "forks": 3524,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "metadist / synaplan",
+      "url": "https://github.com/metadist/synaplan",
+      "description": "Our AI control plane for fast deployment. Talk to various models, MCP with agents, get a chat widget for support and many tools more. Use the smart DAG routing to save some tokens! We take plugins in Go, Rust, Python, NodeJS, etc.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 147,
+      "forks": 21,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Leantime / leantime",
+      "url": "https://github.com/Leantime/leantime",
+      "description": "Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 11583,
+      "forks": 1126,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "alextselegidis / easyappointments",
+      "url": "https://github.com/alextselegidis/easyappointments",
+      "description": "📅 Easy!Appointments - Self Hosted Appointment Scheduler",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4372,
+      "forks": 1564,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "DenverCoder1 / readme-typing-svg",
+      "url": "https://github.com/DenverCoder1/readme-typing-svg",
+      "description": "⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 9332,
+      "forks": 1607,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "kimai / kimai",
+      "url": "https://github.com/kimai/kimai",
+      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4996,
+      "forks": 843,
+      "added_stars": "7 stars today"
     },
     {
       "title": "bagisto / bagisto",
@@ -70,8 +170,18 @@
       "description": "Open Source eCommerce & Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 28114,
-      "forks": 3281,
+      "stars": 28118,
+      "forks": 3282,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "symfony / symfony",
+      "url": "https://github.com/symfony/symfony",
+      "description": "The Symfony PHP framework",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 31150,
+      "forks": 9864,
       "added_stars": "3 stars today"
     },
     {
@@ -80,79 +190,9 @@
       "description": "Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome!",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 21863,
+      "stars": 21867,
       "forks": 2896,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "pixelfed / pixelfed",
-      "url": "https://github.com/pixelfed/pixelfed",
-      "description": "Photo Sharing. For Everyone.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 7099,
-      "forks": 879,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "kimai / kimai",
-      "url": "https://github.com/kimai/kimai",
-      "description": "Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4988,
-      "forks": 843,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "metadist / synaplan",
-      "url": "https://github.com/metadist/synaplan",
-      "description": "Our AI control plane for fast deployment. Talk to various models, MCP with agents, get a chat widget for support and many tools more. Use the smart DAG routing to save some tokens! We take plugins in Go, Rust, Python, NodeJS, etc.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 144,
-      "forks": 20,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "FreshRSS / FreshRSS",
-      "url": "https://github.com/FreshRSS/FreshRSS",
-      "description": "A free, self-hostable news aggregator…",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 16011,
-      "forks": 1282,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "nextcloud / all-in-one",
-      "url": "https://github.com/nextcloud/all-in-one",
-      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10419,
-      "forks": 1101,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "Dolibarr / dolibarr",
-      "url": "https://github.com/Dolibarr/dolibarr",
-      "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 7607,
-      "forks": 3520,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "invoiceninja / invoiceninja",
-      "url": "https://github.com/invoiceninja/invoiceninja",
-      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10076,
-      "forks": 2704,
-      "added_stars": "0 stars today"
+      "added_stars": "5 stars today"
     }
   ]
 }

@@ -2,47 +2,37 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
-    {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24198,
-      "forks": 3114,
-      "added_stars": "590 stars today"
-    },
     {
       "title": "alibaba / open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23906,
-      "forks": 1767,
-      "added_stars": "443 stars today"
+      "stars": 26488,
+      "forks": 1905,
+      "added_stars": "1,571 stars today"
     },
     {
-      "title": "nicocha30 / ligolo-ng",
-      "url": "https://github.com/nicocha30/ligolo-ng",
-      "description": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4979,
-      "forks": 479,
-      "added_stars": "21 stars today"
+      "stars": 24442,
+      "forks": 3134,
+      "added_stars": "661 stars today"
     },
     {
-      "title": "p1neappleXpress / OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "title": "operacle / checkcle",
+      "url": "https://github.com/operacle/checkcle",
+      "description": "CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1541,
-      "forks": 117,
-      "added_stars": "156 stars today"
+      "stars": 3216,
+      "forks": 281,
+      "added_stars": "81 stars today"
     },
     {
       "title": "tbphp / gpt-load",
@@ -50,79 +40,49 @@
       "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6733,
-      "forks": 727,
-      "added_stars": "52 stars today"
+      "stars": 6763,
+      "forks": 728,
+      "added_stars": "23 stars today"
     },
     {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "title": "pranshuparmar / witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23001,
-      "forks": 3278,
-      "added_stars": "209 stars today"
+      "stars": 22317,
+      "forks": 775,
+      "added_stars": "43 stars today"
     },
     {
-      "title": "dagucloud / dagu",
-      "url": "https://github.com/dagucloud/dagu",
-      "description": "Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.",
+      "title": "aldinokemal / go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3979,
-      "forks": 332,
-      "added_stars": "12 stars today"
+      "stars": 4778,
+      "forks": 1137,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "hashicorp / nomad",
-      "url": "https://github.com/hashicorp/nomad",
-      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "title": "yorukot / superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "description": "Pretty fancy and modern terminal file manager",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 16910,
-      "forks": 2140,
-      "added_stars": "16 stars today"
+      "stars": 23246,
+      "forks": 850,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "nektos / act",
-      "url": "https://github.com/nektos/act",
-      "description": "Run your GitHub Actions locally 🚀",
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 71993,
-      "forks": 2033,
-      "added_stars": "38 stars today"
-    },
-    {
-      "title": "restic / restic",
-      "url": "https://github.com/restic/restic",
-      "description": "Fast, secure, efficient backup program",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36040,
-      "forks": 1873,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "netdata / netdata",
-      "url": "https://github.com/netdata/netdata",
-      "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 80510,
-      "forks": 6627,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "getarcaneapp / arcane",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7373,
-      "forks": 307,
-      "added_stars": "9 stars today"
+      "stars": 127729,
+      "forks": 44069,
+      "added_stars": "278 stars today"
     },
     {
       "title": "usememos / memos",
@@ -130,59 +90,9 @@
       "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 63019,
-      "forks": 4751,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "esengine / DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35534,
-      "forks": 2391,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "navidrome / navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧 Your Personal Streaming Service",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23538,
-      "forks": 1696,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "charmbracelet / crush",
-      "url": "https://github.com/charmbracelet/crush",
-      "description": "Glamourous agentic coding for all 💘",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28069,
-      "forks": 2241,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "ipfs / kubo",
-      "url": "https://github.com/ipfs/kubo",
-      "description": "IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 17139,
-      "forks": 3170,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "trufflesecurity / trufflehog",
-      "url": "https://github.com/trufflesecurity/trufflehog",
-      "description": "Find, verify, and analyze leaked credentials",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 27877,
-      "forks": 2579,
-      "added_stars": "24 stars today"
+      "stars": 63063,
+      "forks": 4755,
+      "added_stars": "81 stars today"
     },
     {
       "title": "SagerNet / sing-box",
@@ -190,19 +100,99 @@
       "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37972,
-      "forks": 4576,
-      "added_stars": "44 stars today"
+      "stars": 38007,
+      "forks": 4587,
+      "added_stars": "53 stars today"
     },
     {
-      "title": "authelia / authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+      "title": "xob0t / gotohp",
+      "url": "https://github.com/xob0t/gotohp",
+      "description": "Unofficial Google Photos Desktop GUI Client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28954,
-      "forks": 1481,
-      "added_stars": "16 stars today"
+      "stars": 586,
+      "forks": 49,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "goreleaser / goreleaser",
+      "url": "https://github.com/goreleaser/goreleaser",
+      "description": "Release engineering, simplified",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16050,
+      "forks": 1108,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "Solr159 / JavBoss",
+      "url": "https://github.com/Solr159/JavBoss",
+      "description": "开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 Docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 637,
+      "forks": 62,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "nicocha30 / ligolo-ng",
+      "url": "https://github.com/nicocha30/ligolo-ng",
+      "description": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4988,
+      "forks": 480,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "fluxcd / flux2",
+      "url": "https://github.com/fluxcd/flux2",
+      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8407,
+      "forks": 782,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "navidrome / navidrome",
+      "url": "https://github.com/navidrome/navidrome",
+      "description": "🎧 Your Personal Streaming Service",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23563,
+      "forks": 1704,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7236,
+      "forks": 1506,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "bjarneo / cliamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "description": "cliamp - Terminal music player inspired by winamp",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4180,
+      "forks": 279,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "MHSanaei / 3x-ui",
+      "url": "https://github.com/MHSanaei/3x-ui",
+      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 46391,
+      "forks": 11507,
+      "added_stars": "58 stars today"
     }
   ]
 }

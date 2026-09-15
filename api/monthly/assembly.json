@@ -2,27 +2,27 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
   "items": [
-    {
-      "title": "apache / arrow-go",
-      "url": "https://github.com/apache/arrow-go",
-      "description": "Official Go implementation of Apache Arrow",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 404,
-      "forks": 145,
-      "added_stars": "7 stars this month"
-    },
     {
       "title": "vxunderground / MalwareSourceCode",
       "url": "https://github.com/vxunderground/MalwareSourceCode",
       "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 18722,
+      "stars": 18726,
       "forks": 2101,
-      "added_stars": "129 stars this month"
+      "added_stars": "126 stars this month"
+    },
+    {
+      "title": "apache / arrow-go",
+      "url": "https://github.com/apache/arrow-go",
+      "description": "Official Go implementation of Apache Arrow",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 405,
+      "forks": 146,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "openhwgroup / cva6",
@@ -30,9 +30,9 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3109,
-      "forks": 1021,
-      "added_stars": "45 stars this month"
+      "stars": 3112,
+      "forks": 1022,
+      "added_stars": "48 stars this month"
     },
     {
       "title": "aws / aws-lc",
@@ -41,28 +41,8 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 830,
-      "forks": 212,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 3943,
-      "forks": 131,
-      "added_stars": "171 stars this month"
-    },
-    {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 487,
-      "forks": 237,
-      "added_stars": "12 stars this month"
+      "forks": 216,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -71,8 +51,28 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 426,
-      "forks": 398,
-      "added_stars": "27 stars this month"
+      "forks": 400,
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3948,
+      "forks": 131,
+      "added_stars": "172 stars this month"
+    },
+    {
+      "title": "riscv / riscv-arch-test",
+      "url": "https://github.com/riscv/riscv-arch-test",
+      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 786,
+      "forks": 363,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "cirosantilli / x86-bare-metal-examples",
@@ -85,24 +85,24 @@
       "added_stars": "34 stars this month"
     },
     {
-      "title": "riscv / riscv-arch-test",
-      "url": "https://github.com/riscv/riscv-arch-test",
-      "description": "The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.",
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 787,
-      "forks": 362,
-      "added_stars": "20 stars this month"
+      "stars": 2499,
+      "forks": 979,
+      "added_stars": "13 stars this month"
     },
     {
-      "title": "NightFox-YT / Realix",
-      "url": "https://github.com/NightFox-YT/Realix",
-      "description": "Light hybrid OS (NASM x86 & Rust) with Russian codebase",
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 55,
-      "forks": 14,
-      "added_stars": "13 stars this month"
+      "stars": 487,
+      "forks": 237,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "Rangi42 / polishedcrystal",
@@ -112,17 +112,7 @@
       "languageColor": "#6E4C13",
       "stars": 1642,
       "forks": 343,
-      "added_stars": "28 stars this month"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2499,
-      "forks": 979,
-      "added_stars": "14 stars this month"
+      "added_stars": "29 stars this month"
     },
     {
       "title": "BLAKE3-team / BLAKE3",
@@ -130,9 +120,9 @@
       "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 6434,
+      "stars": 6437,
       "forks": 481,
-      "added_stars": "70 stars this month"
+      "added_stars": "75 stars this month"
     },
     {
       "title": "corkami / pics",
@@ -140,7 +130,7 @@
       "description": "File formats dissections and more...",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11484,
+      "stars": 11485,
       "forks": 792,
       "added_stars": "21 stars this month"
     },
@@ -150,7 +140,7 @@
       "description": "BLHeli for brushless ESC firmware",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2231,
+      "stars": 2230,
       "forks": 1151,
       "added_stars": "11 stars this month"
     },
@@ -160,7 +150,7 @@
       "description": "Community Graphic Packs for Cemu",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1474,
+      "stars": 1475,
       "forks": 599,
       "added_stars": "8 stars this month"
     },
@@ -175,14 +165,14 @@
       "added_stars": "11 stars this month"
     },
     {
-      "title": "RibShark / OmniDrive",
-      "url": "https://github.com/RibShark/OmniDrive",
-      "description": "",
+      "title": "virtualagc / virtualagc",
+      "url": "https://github.com/virtualagc/virtualagc",
+      "description": "Virtual Apollo Guidance Computer (AGC) software",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 1136,
-      "forks": 60,
-      "added_stars": "95 stars this month"
+      "stars": 3230,
+      "forks": 406,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "cRz-Shadows / Pokemon_Crystal_Legacy",
@@ -193,6 +183,16 @@
       "stars": 246,
       "forks": 67,
       "added_stars": "6 stars this month"
+    },
+    {
+      "title": "espressif / esp-dl",
+      "url": "https://github.com/espressif/esp-dl",
+      "description": "Espressif deep-learning library for AIoT applications",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1141,
+      "forks": 224,
+      "added_stars": "35 stars this month"
     }
   ]
 }

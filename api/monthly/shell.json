@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
   "items": [
     {
       "title": "omacom / omarchy",
@@ -10,9 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 40924,
-      "forks": 4591,
-      "added_stars": "16,489 stars this month"
+      "stars": 41140,
+      "forks": 4632,
+      "added_stars": "16,712 stars this month"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,29 +20,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5814,
-      "forks": 1800,
-      "added_stars": "2,196 stars this month"
-    },
-    {
-      "title": "llm-d / llm-d",
-      "url": "https://github.com/llm-d/llm-d",
-      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4527,
-      "forks": 764,
-      "added_stars": "509 stars this month"
-    },
-    {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 261541,
-      "forks": 22065,
-      "added_stars": "46,122 stars this month"
+      "stars": 5992,
+      "forks": 1841,
+      "added_stars": "2,369 stars this month"
     },
     {
       "title": "community-scripts / ProxmoxVE",
@@ -50,9 +30,39 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29578,
-      "forks": 2880,
+      "stars": 29595,
+      "forks": 2885,
       "added_stars": "391 stars this month"
+    },
+    {
+      "title": "llm-d / llm-d",
+      "url": "https://github.com/llm-d/llm-d",
+      "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4537,
+      "forks": 768,
+      "added_stars": "515 stars this month"
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 262298,
+      "forks": 22134,
+      "added_stars": "45,790 stars this month"
+    },
+    {
+      "title": "SimoneAvogadro / android-reverse-engineering-skill",
+      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
+      "description": "Claude Code skill to support Android app's reverse engineering",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 7820,
+      "forks": 885,
+      "added_stars": "1,049 stars this month"
     },
     {
       "title": "quickemu-project / quickemu",
@@ -60,19 +70,19 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16171,
+      "stars": 16178,
       "forks": 735,
-      "added_stars": "556 stars this month"
+      "added_stars": "553 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
       "url": "https://github.com/nvm-sh/nvm",
-      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 95078,
-      "forks": 10442,
-      "added_stars": "662 stars this month"
+      "stars": 95083,
+      "forks": 10443,
+      "added_stars": "647 stars this month"
     },
     {
       "title": "armbian / build",
@@ -80,8 +90,8 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5413,
-      "forks": 3145,
+      "stars": 5416,
+      "forks": 3146,
       "added_stars": "74 stars this month"
     },
     {
@@ -90,9 +100,9 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33224,
-      "forks": 1864,
-      "added_stars": "505 stars this month"
+      "stars": 33241,
+      "forks": 1861,
+      "added_stars": "510 stars this month"
     },
     {
       "title": "Donchitos / Claude-Code-Game-Studios",
@@ -100,29 +110,9 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 25059,
-      "forks": 3579,
-      "added_stars": "1,275 stars this month"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16957,
-      "forks": 4385,
-      "added_stars": "205 stars this month"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53261,
-      "forks": 4789,
-      "added_stars": "529 stars this month"
+      "stars": 25098,
+      "forks": 3583,
+      "added_stars": "1,297 stars this month"
     },
     {
       "title": "ophub / amlogic-s9xxx-armbian",
@@ -130,29 +120,29 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9787,
-      "forks": 3134,
+      "stars": 9793,
+      "forks": 3140,
       "added_stars": "201 stars this month"
     },
     {
-      "title": "SimoneAvogadro / android-reverse-engineering-skill",
-      "url": "https://github.com/SimoneAvogadro/android-reverse-engineering-skill",
-      "description": "Claude Code skill to support Android app's reverse engineering",
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7812,
-      "forks": 884,
-      "added_stars": "1,048 stars this month"
+      "stars": 16964,
+      "forks": 4383,
+      "added_stars": "210 stars this month"
     },
     {
-      "title": "longhorn / longhorn",
-      "url": "https://github.com/longhorn/longhorn",
-      "description": "Cloud-Native distributed storage built on and for Kubernetes",
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7974,
-      "forks": 737,
-      "added_stars": "68 stars this month"
+      "stars": 53279,
+      "forks": 4797,
+      "added_stars": "533 stars this month"
     },
     {
       "title": "assafdori / bypass-mdm",
@@ -160,19 +150,39 @@
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2320,
-      "forks": 538,
-      "added_stars": "227 stars this month"
+      "stars": 2334,
+      "forks": 539,
+      "added_stars": "234 stars this month"
     },
     {
-      "title": "bin456789 / reinstall",
-      "url": "https://github.com/bin456789/reinstall",
-      "description": "一键DD/重装脚本 (One-click reinstall OS on VPS)",
+      "title": "longhorn / longhorn",
+      "url": "https://github.com/longhorn/longhorn",
+      "description": "Cloud-Native distributed storage built on and for Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 13262,
-      "forks": 2132,
-      "added_stars": "554 stars this month"
+      "stars": 7980,
+      "forks": 737,
+      "added_stars": "71 stars this month"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9288,
+      "forks": 299,
+      "added_stars": "378 stars this month"
+    },
+    {
+      "title": "HyDE-Project / HyDE",
+      "url": "https://github.com/HyDE-Project/HyDE",
+      "description": "HyDE, your Development Environment 🖥️💻",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9603,
+      "forks": 638,
+      "added_stars": "187 stars this month"
     }
   ]
 }

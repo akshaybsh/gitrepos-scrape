@@ -2,57 +2,87 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
     {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "title": "ophub / amlogic-s9xxx-armbian",
+      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
+      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33224,
-      "forks": 1864,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 286356,
-      "forks": 25617,
-      "added_stars": "432 stars today"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16957,
-      "forks": 4385,
+      "stars": 9793,
+      "forks": 3140,
       "added_stars": "5 stars today"
     },
     {
-      "title": "assafdori / bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "title": "kunchenguid / firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2320,
-      "forks": 538,
-      "added_stars": "16 stars today"
+      "stars": 5992,
+      "forks": 1840,
+      "added_stars": "247 stars today"
     },
     {
-      "title": "sabamdarif / termux-desktop",
-      "url": "https://github.com/sabamdarif/termux-desktop",
-      "description": "Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration",
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2253,
-      "forks": 956,
-      "added_stars": "4 stars today"
+      "stars": 67200,
+      "forks": 2358,
+      "added_stars": "133 stars today"
+    },
+    {
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 25098,
+      "forks": 3583,
+      "added_stars": "53 stars today"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9288,
+      "forks": 299,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "OthmanAdi / planning-with-files",
+      "url": "https://github.com/OthmanAdi/planning-with-files",
+      "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 26898,
+      "forks": 2237,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2410,
+      "forks": 105,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "armbian / build",
+      "url": "https://github.com/armbian/build",
+      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 5416,
+      "forks": 3146,
+      "added_stars": "1 star today"
     },
     {
       "title": "RROrg / rr",
@@ -60,69 +90,79 @@
       "description": "Redpill Recovery (arpl-i18n)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 8604,
+      "stars": 8605,
       "forks": 1370,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "techjarves / Hermes-USB-Portable",
-      "url": "https://github.com/techjarves/Hermes-USB-Portable",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 518,
-      "forks": 187,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53261,
-      "forks": 4789,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "pi-hole / docker-pi-hole",
-      "url": "https://github.com/pi-hole/docker-pi-hole",
-      "description": "The official Pi-hole Docker image from pi-hole.net",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11559,
-      "forks": 1248,
       "added_stars": "4 stars today"
     },
     {
-      "title": "FiorenMas / Revanced-And-Revanced-Extended-Non-Root",
-      "url": "https://github.com/FiorenMas/Revanced-And-Revanced-Extended-Non-Root",
-      "description": "Real-time repository build Morphe, Revanced and Revanced Extended about 10 minutes after patch release",
+      "title": "BtbN / FFmpeg-Builds",
+      "url": "https://github.com/BtbN/FFmpeg-Builds",
+      "description": "",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2697,
-      "forks": 212,
-      "added_stars": "5 stars today"
+      "stars": 11668,
+      "forks": 1530,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "MichaIng / DietPi",
-      "url": "https://github.com/MichaIng/DietPi",
-      "description": "Lightweight justice for your single-board computer!",
+      "title": "FlyBrainLab / FlyBrainLab",
+      "url": "https://github.com/FlyBrainLab/FlyBrainLab",
+      "description": "An interactive computing platform for studying the function of executable circuits constructed from fly brain data.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6262,
-      "forks": 566,
+      "stars": 82,
+      "forks": 12,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "InfinityLoop1308 / PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6087,
+      "forks": 209,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "StressOzz / Zapret-Manager",
+      "url": "https://github.com/StressOzz/Zapret-Manager",
+      "description": "Универсальный менеджер для обхода блокировок на OpenWrt https://t.me/stressozz_manager",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 1821,
+      "forks": 77,
       "added_stars": "3 stars today"
     },
     {
-      "title": "itzg / docker-minecraft-server",
-      "url": "https://github.com/itzg/docker-minecraft-server",
-      "description": "Docker image that provides a Minecraft Server for Java Edition that automatically installs/upgrades versions, modloaders, modpacks and more at startup",
+      "title": "void-linux / void-packages",
+      "url": "https://github.com/void-linux/void-packages",
+      "description": "The Void source packages collection",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 14298,
-      "forks": 1914,
+      "stars": 3429,
+      "forks": 2794,
       "added_stars": "6 stars today"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29595,
+      "forks": 2885,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "CachyOS / linux-cachyos",
+      "url": "https://github.com/CachyOS/linux-cachyos",
+      "description": "Archlinux Kernel based on different schedulers and some other performance improvements.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 4458,
+      "forks": 160,
+      "added_stars": "14 stars today"
     }
   ]
 }

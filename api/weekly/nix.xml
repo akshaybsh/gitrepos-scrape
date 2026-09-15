@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:30:46 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
   <item>
     <title>NixOS / nixpkgs</title>
     <link>https://github.com/NixOS/nixpkgs</link>
@@ -14,11 +14,6 @@
     <title>NixOS / nixos-hardware</title>
     <link>https://github.com/NixOS/nixos-hardware</link>
     <description>A collection of NixOS modules covering hardware quirks.</description>
-  </item>
-  <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
     <title>numtide / llm-agents.nix</title>
@@ -31,9 +26,9 @@
     <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
-    <title>numtide / system-manager</title>
-    <link>https://github.com/numtide/system-manager</link>
-    <description>Manage system config using nix on any distro</description>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
     <title>microvm-nix / microvm.nix</title>
@@ -41,9 +36,9 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>henrysipp / omarchy-nix</title>
-    <link>https://github.com/henrysipp/omarchy-nix</link>
-    <description>An opinionated NixOS config based on DHH&#x27;s Omarchy</description>
+    <title>numtide / system-manager</title>
+    <link>https://github.com/numtide/system-manager</link>
+    <description>Manage system config using nix on any distro</description>
   </item>
 </channel>
 </rss>

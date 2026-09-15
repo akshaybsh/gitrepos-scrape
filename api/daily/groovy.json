@@ -2,46 +2,16 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
-    {
-      "title": "gradle / gradle",
-      "url": "https://github.com/gradle/gradle",
-      "description": "Adaptable, fast automation for all",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 18839,
-      "forks": 5337,
-      "added_stars": "1 star today"
-    },
     {
       "title": "apache / grails-core",
       "url": "https://github.com/apache/grails-core",
       "description": "Grails - the Web Application Framework",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 2929,
+      "stars": 2930,
       "forks": 975,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "nextflow-io / nextflow",
-      "url": "https://github.com/nextflow-io/nextflow",
-      "description": "A DSL for data-driven computational pipelines",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 3480,
-      "forks": 811,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rundeck / rundeck",
-      "url": "https://github.com/rundeck/rundeck",
-      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 6295,
-      "forks": 988,
       "added_stars": "1 star today"
     },
     {
@@ -52,7 +22,17 @@
       "languageColor": "#4298b8",
       "stars": 5467,
       "forks": 1916,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "gradle / gradle",
+      "url": "https://github.com/gradle/gradle",
+      "description": "Adaptable, fast automation for all",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 18841,
+      "forks": 5335,
+      "added_stars": "5 stars today"
     }
   ]
 }

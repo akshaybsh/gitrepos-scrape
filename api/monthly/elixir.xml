@@ -4,16 +4,11 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:34:06 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
   <item>
     <title>firezone / firezone</title>
     <link>https://github.com/firezone/firezone</link>
     <description>Blazing-fast remote access</description>
-  </item>
-  <item>
-    <title>phoenixframework / phoenix</title>
-    <link>https://github.com/phoenixframework/phoenix</link>
-    <description>Peace of mind from prototype to production</description>
   </item>
   <item>
     <title>openai / symphony</title>
@@ -34,6 +29,11 @@
     <title>blockscout / blockscout</title>
     <link>https://github.com/blockscout/blockscout</link>
     <description>Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</description>
+  </item>
+  <item>
+    <title>phoenixframework / phoenix</title>
+    <link>https://github.com/phoenixframework/phoenix</link>
+    <description>Peace of mind from prototype to production</description>
   </item>
   <item>
     <title>supabase / realtime</title>
@@ -61,14 +61,14 @@
     <description>Official Elixir Language Server Protocol implementation</description>
   </item>
   <item>
-    <title>icoretech / codex-pooler</title>
-    <link>https://github.com/icoretech/codex-pooler</link>
-    <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
-  </item>
-  <item>
     <title>livebook-dev / livebook</title>
     <link>https://github.com/livebook-dev/livebook</link>
     <description>Automate code &amp; data workflows with interactive Elixir notebooks</description>
+  </item>
+  <item>
+    <title>icoretech / codex-pooler</title>
+    <link>https://github.com/icoretech/codex-pooler</link>
+    <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
   </item>
   <item>
     <title>kieraneglin / pinchflat</title>
@@ -76,14 +76,24 @@
     <description>Your next YouTube media manager</description>
   </item>
   <item>
-    <title>phenixdigital / phoenix_storybook</title>
-    <link>https://github.com/phenixdigital/phoenix_storybook</link>
-    <description>A pluggable storybook for your Phoenix components.</description>
-  </item>
-  <item>
     <title>elixir-ecto / ecto</title>
     <link>https://github.com/elixir-ecto/ecto</link>
     <description>A toolkit for data mapping and language integrated query.</description>
+  </item>
+  <item>
+    <title>bartblast / hologram</title>
+    <link>https://github.com/bartblast/hologram</link>
+    <description>Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript</description>
+  </item>
+  <item>
+    <title>elixir-waffle / waffle</title>
+    <link>https://github.com/elixir-waffle/waffle</link>
+    <description>Flexible file upload and attachment library for Elixir</description>
+  </item>
+  <item>
+    <title>supabase / supavisor</title>
+    <link>https://github.com/supabase/supavisor</link>
+    <description>A cloud-native, multi-tenant Postgres connection pooler.</description>
   </item>
 </channel>
 </rss>

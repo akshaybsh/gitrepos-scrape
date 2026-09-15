@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
   "items": [
     {
       "title": "exiftool / exiftool",
@@ -10,9 +10,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5034,
+      "stars": 5038,
       "forks": 484,
-      "added_stars": "27 stars this week"
+      "added_stars": "28 stars this week"
     },
     {
       "title": "znuny / Znuny",
@@ -21,8 +21,8 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 594,
-      "forks": 121,
-      "added_stars": "3 stars this week"
+      "forks": 122,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -32,7 +32,7 @@
       "languageColor": "#0298c3",
       "stars": 488,
       "forks": 120,
-      "added_stars": "4 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "holzschu / a-shell",
@@ -40,9 +40,19 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3917,
+      "stars": 3920,
       "forks": 212,
-      "added_stars": "17 stars this week"
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23534,
+      "forks": 1126,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "brendangregg / FlameGraph",
@@ -50,19 +60,9 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19745,
+      "stars": 19752,
       "forks": 2111,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "fusioninventory / fusioninventory-agent",
-      "url": "https://github.com/fusioninventory/fusioninventory-agent",
-      "description": "FusionInventory Agent",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 268,
-      "forks": 124,
-      "added_stars": "1 star this week"
+      "added_stars": "21 stars this week"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -75,14 +75,14 @@
       "added_stars": "6 stars this week"
     },
     {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "title": "fusioninventory / fusioninventory-agent",
+      "url": "https://github.com/fusioninventory/fusioninventory-agent",
+      "description": "FusionInventory Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23529,
-      "forks": 1126,
-      "added_stars": "31 stars this week"
+      "stars": 268,
+      "forks": 124,
+      "added_stars": "1 star this week"
     },
     {
       "title": "ddclient / ddclient",
@@ -90,28 +90,8 @@
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3542,
+      "stars": 3543,
       "forks": 400,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "major / MySQLTuner-perl",
-      "url": "https://github.com/major/MySQLTuner-perl",
-      "description": "MySQLTuner is a script written in Perl that will assist you with your MySQL configuration and make recommendations for increased performance and stability.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 9479,
-      "forks": 1288,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "inverse-inc / packetfence",
-      "url": "https://github.com/inverse-inc/packetfence",
-      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1689,
-      "forks": 327,
       "added_stars": "6 stars this week"
     },
     {
@@ -125,14 +105,14 @@
       "added_stars": "6 stars this week"
     },
     {
-      "title": "so-fancy / diff-so-fancy",
-      "url": "https://github.com/so-fancy/diff-so-fancy",
-      "description": "Make your diffs human readable for improved code quality and faster defect detection. 🎉",
+      "title": "inverse-inc / packetfence",
+      "url": "https://github.com/inverse-inc/packetfence",
+      "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 18087,
-      "forks": 347,
-      "added_stars": "3 stars this week"
+      "stars": 1689,
+      "forks": 327,
+      "added_stars": "5 stars this week"
     }
   ]
 }

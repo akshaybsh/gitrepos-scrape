@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:34:06 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
   <item>
     <title>AprilNEA / OpenLogi</title>
     <link>https://github.com/AprilNEA/OpenLogi</link>
@@ -36,24 +36,14 @@
     <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+  </item>
+  <item>
     <title>gleam-lang / gleam</title>
     <link>https://github.com/gleam-lang/gleam</link>
     <description>⭐️ A friendly language for building type-safe, scalable systems!</description>
-  </item>
-  <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
-  </item>
-  <item>
-    <title>ajeetdsouza / zoxide</title>
-    <link>https://github.com/ajeetdsouza/zoxide</link>
-    <description>A smarter cd command. Supports all major shells.</description>
-  </item>
-  <item>
-    <title>nautechsystems / nautilus_trader</title>
-    <link>https://github.com/nautechsystems/nautilus_trader</link>
-    <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
   </item>
   <item>
     <title>pnpm / pnpm</title>
@@ -61,9 +51,19 @@
     <description>Fast, disk space efficient package manager</description>
   </item>
   <item>
-    <title>xingkongliang / skills-manager</title>
-    <link>https://github.com/xingkongliang/skills-manager</link>
-    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
+    <title>ajeetdsouza / zoxide</title>
+    <link>https://github.com/ajeetdsouza/zoxide</link>
+    <description>A smarter cd command. Supports all major shells.</description>
+  </item>
+  <item>
+    <title>openai / codex</title>
+    <link>https://github.com/openai/codex</link>
+    <description>Lightweight coding agent that runs in your terminal</description>
+  </item>
+  <item>
+    <title>firecracker-microvm / firecracker</title>
+    <link>https://github.com/firecracker-microvm/firecracker</link>
+    <description>Secure and fast microVMs for serverless computing.</description>
   </item>
   <item>
     <title>RyanCodrai / turbovec</title>
@@ -71,9 +71,14 @@
     <description>A vector index built on TurboQuant, written in Rust with Python bindings</description>
   </item>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>xingkongliang / skills-manager</title>
+    <link>https://github.com/xingkongliang/skills-manager</link>
+    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
+  </item>
+  <item>
+    <title>nautechsystems / nautilus_trader</title>
+    <link>https://github.com/nautechsystems/nautilus_trader</link>
+    <description>Production-grade Rust-native trading engine with deterministic event-driven architecture</description>
   </item>
   <item>
     <title>tinyhumansai / openhuman</title>
@@ -81,19 +86,14 @@
     <description>OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows</description>
   </item>
   <item>
-    <title>pola-rs / polars</title>
-    <link>https://github.com/pola-rs/polars</link>
-    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
-  </item>
-  <item>
     <title>sinelaw / fresh</title>
     <link>https://github.com/sinelaw/fresh</link>
     <description>Terminal based IDE &amp; text editor: easy, powerful and fast</description>
   </item>
   <item>
-    <title>CapSoftware / Cap</title>
-    <link>https://github.com/CapSoftware/Cap</link>
-    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+    <title>pola-rs / polars</title>
+    <link>https://github.com/pola-rs/polars</link>
+    <description>Extremely fast Query Engine for DataFrames, written in Rust</description>
   </item>
   <item>
     <title>HakanSeven12 / OpenCADStudio</title>
@@ -101,14 +101,19 @@
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
+    <title>CapSoftware / Cap</title>
+    <link>https://github.com/CapSoftware/Cap</link>
+    <description>Open source Loom alternative. Beautiful, shareable screen recordings.</description>
+  </item>
+  <item>
     <title>GraphiteEditor / Graphite</title>
     <link>https://github.com/GraphiteEditor/Graphite</link>
     <description>Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine</description>
   </item>
   <item>
-    <title>warp-tech / warpgate</title>
-    <link>https://github.com/warp-tech/warpgate</link>
-    <description>Fully transparent SSH, HTTPS, Kubernetes, database and RDP/VNC bastion/PAM that doesn&#x27;t need additional client-side software</description>
+    <title>apache / iggy</title>
+    <link>https://github.com/apache/iggy</link>
+    <description>Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed</description>
   </item>
   <item>
     <title>ai-dynamo / dynamo</title>

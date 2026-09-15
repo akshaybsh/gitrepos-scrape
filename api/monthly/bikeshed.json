@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 3997,
+      "stars": 4019,
       "forks": 269,
-      "added_stars": "1,016 stars this month"
+      "added_stars": "1,027 stars this month"
     },
     {
       "title": "w3c / csswg-drafts",
@@ -20,9 +20,9 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4879,
+      "stars": 4880,
       "forks": 816,
-      "added_stars": "17 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "w3c / webappsec-permissions-policy",
@@ -35,16 +35,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "w3c / webauthn",
-      "url": "https://github.com/w3c/webauthn",
-      "description": "Web Authentication: An API for accessing Public Key Credentials",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 1457,
-      "forks": 307,
-      "added_stars": "27 stars this month"
-    },
-    {
       "title": "WebAudio / web-audio-api",
       "url": "https://github.com/WebAudio/web-audio-api",
       "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
@@ -53,6 +43,16 @@
       "stars": 1131,
       "forks": 180,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "w3c / webauthn",
+      "url": "https://github.com/w3c/webauthn",
+      "description": "Web Authentication: An API for accessing Public Key Credentials",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 1458,
+      "forks": 307,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "w3c / resource-timing",
@@ -82,6 +82,16 @@
       "languageColor": "#5562ac",
       "stars": 3635,
       "forks": 324,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "w3c / webextensions",
+      "url": "https://github.com/w3c/webextensions",
+      "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 709,
+      "forks": 94,
       "added_stars": "3 stars this month"
     },
     {
@@ -95,14 +105,14 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "w3c / webextensions",
-      "url": "https://github.com/w3c/webextensions",
-      "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
+      "title": "w3c / attribution",
+      "url": "https://github.com/w3c/attribution",
+      "description": "Attribution API",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 710,
-      "forks": 94,
-      "added_stars": "4 stars this month"
+      "stars": 110,
+      "forks": 87,
+      "added_stars": "2 stars this month"
     }
   ]
 }

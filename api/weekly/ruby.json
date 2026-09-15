@@ -2,7 +2,7 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
   "items": [
     {
       "title": "ruby / ruby",
@@ -10,19 +10,19 @@
       "description": "The Ruby Programming Language",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 23737,
-      "forks": 5637,
-      "added_stars": "36 stars this week"
+      "stars": 23741,
+      "forks": 5639,
+      "added_stars": "38 stars this week"
     },
     {
-      "title": "fastlane / fastlane",
-      "url": "https://github.com/fastlane/fastlane",
-      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "title": "Homebrew / brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The Package Manager for Everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 42109,
-      "forks": 6029,
-      "added_stars": "50 stars this week"
+      "stars": 49639,
+      "forks": 11347,
+      "added_stars": "189 stars this week"
     },
     {
       "title": "we-promise / sure",
@@ -30,9 +30,9 @@
       "description": "The personal finance app for everyone (by everyone)",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 9904,
-      "forks": 478,
-      "added_stars": "168 stars this week"
+      "stars": 9919,
+      "forks": 483,
+      "added_stars": "170 stars this week"
     },
     {
       "title": "rapid7 / metasploit-framework",
@@ -40,9 +40,19 @@
       "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 39005,
-      "forks": 14968,
-      "added_stars": "59 stars this week"
+      "stars": 39008,
+      "forks": 14970,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "fastlane / fastlane",
+      "url": "https://github.com/fastlane/fastlane",
+      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 42112,
+      "forks": 6031,
+      "added_stars": "47 stars this week"
     },
     {
       "title": "opf / openproject",
@@ -50,9 +60,9 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 16095,
+      "stars": 16104,
       "forks": 3484,
-      "added_stars": "62 stars this week"
+      "added_stars": "59 stars this week"
     },
     {
       "title": "chatwoot / chatwoot",
@@ -60,29 +70,19 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 36787,
-      "forks": 8910,
-      "added_stars": "239 stars this week"
+      "stars": 36815,
+      "forks": 8922,
+      "added_stars": "247 stars this week"
     },
     {
-      "title": "kilimchoi / engineering-blogs",
-      "url": "https://github.com/kilimchoi/engineering-blogs",
-      "description": "A curated list of engineering blogs",
+      "title": "docusealco / docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 38634,
-      "forks": 2038,
-      "added_stars": "59 stars this week"
-    },
-    {
-      "title": "spree / spree",
-      "url": "https://github.com/spree/spree",
-      "description": "Open Source eCommerce Platform for B2B, Marketplace, and Enterprise. REST API, TypeScript SDK, and production-ready Next.js storefront. Self-host it. Own your stack. No vendor lock-in. Zero platform fees.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15696,
-      "forks": 5299,
-      "added_stars": "29 stars this week"
+      "stars": 18532,
+      "forks": 1861,
+      "added_stars": "77 stars this week"
     },
     {
       "title": "huginn / huginn",
@@ -90,9 +90,29 @@
       "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 49938,
+      "stars": 49943,
       "forks": 4295,
-      "added_stars": "58 stars this week"
+      "added_stars": "49 stars this week"
+    },
+    {
+      "title": "Homebrew / homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15567,
+      "forks": 13844,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "kilimchoi / engineering-blogs",
+      "url": "https://github.com/kilimchoi/engineering-blogs",
+      "description": "A curated list of engineering blogs",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 38651,
+      "forks": 2041,
+      "added_stars": "70 stars this week"
     },
     {
       "title": "github-linguist / linguist",
@@ -101,38 +121,8 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 13689,
-      "forks": 5395,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "Homebrew / homebrew-cask",
-      "url": "https://github.com/Homebrew/homebrew-cask",
-      "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 22204,
-      "forks": 11894,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "docusealco / docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 18518,
-      "forks": 1862,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "basecamp / fizzy",
-      "url": "https://github.com/basecamp/fizzy",
-      "description": "Kanban as it should be. Not as it has been.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 8196,
-      "forks": 1190,
-      "added_stars": "22 stars this week"
+      "forks": 5399,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "ytti / oxidized",
@@ -140,39 +130,19 @@
       "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3570,
+      "stars": 3572,
       "forks": 1058,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "Homebrew / homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15565,
-      "forks": 13844,
       "added_stars": "20 stars this week"
     },
     {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
+      "title": "Homebrew / homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 47834,
-      "forks": 9017,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "hashicorp / vagrant",
-      "url": "https://github.com/hashicorp/vagrant",
-      "description": "Vagrant is a tool for building and distributing development environments.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 27208,
-      "forks": 4395,
-      "added_stars": "5 stars this week"
+      "stars": 22211,
+      "forks": 11902,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "endoflife-date / endoflife.date",
@@ -180,39 +150,9 @@
       "description": "Informative site with EoL dates of everything",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3375,
-      "forks": 1303,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "Freika / dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 10388,
-      "forks": 375,
-      "added_stars": "59 stars this week"
-    },
-    {
-      "title": "dependabot / dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5768,
-      "forks": 1518,
-      "added_stars": "11 stars this week"
-    },
-    {
-      "title": "basecamp / kamal",
-      "url": "https://github.com/basecamp/kamal",
-      "description": "Deploy web apps anywhere.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 14578,
-      "forks": 752,
-      "added_stars": "24 stars this week"
+      "stars": 3377,
+      "forks": 1305,
+      "added_stars": "8 stars this week"
     },
     {
       "title": "ruby / rubygems",
@@ -222,17 +162,57 @@
       "languageColor": "#701516",
       "stars": 3969,
       "forks": 1937,
-      "added_stars": "3 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "rubocop / rubocop",
-      "url": "https://github.com/rubocop/rubocop",
-      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "title": "spree / spree",
+      "url": "https://github.com/spree/spree",
+      "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 12901,
-      "forks": 3139,
-      "added_stars": "9 stars this week"
+      "stars": 15697,
+      "forks": 5299,
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "github / explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 4890,
+      "forks": 14533,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "ruby / gem_rbs_collection",
+      "url": "https://github.com/ruby/gem_rbs_collection",
+      "description": "A collection of RBS for gems.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 303,
+      "forks": 136,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "everypolitician / everypolitician-data",
+      "url": "https://github.com/everypolitician/everypolitician-data",
+      "description": "data for national legislatures worldwide",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 256,
+      "forks": 59,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "Freika / dawarich",
+      "url": "https://github.com/Freika/dawarich",
+      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 10398,
+      "forks": 375,
+      "added_stars": "56 stars this week"
     }
   ]
 }

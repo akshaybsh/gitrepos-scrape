@@ -4,7 +4,7 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:34:06 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
   <item>
     <title>anthropics / claude-plugins-community</title>
     <link>https://github.com/anthropics/claude-plugins-community</link>
@@ -26,14 +26,14 @@
     <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
   </item>
   <item>
+    <title>microsoft / data-formulator</title>
+    <link>https://github.com/microsoft/data-formulator</link>
+    <description>🪄 Data Formulator is an interactive AI-powered data analysis system makes it easy to connect, explore and visualize data.</description>
+  </item>
+  <item>
     <title>public-apis / public-apis</title>
     <link>https://github.com/public-apis/public-apis</link>
     <description>A collective list of free APIs</description>
-  </item>
-  <item>
-    <title>youssofal / MTPLX</title>
-    <link>https://github.com/youssofal/MTPLX</link>
-    <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
   </item>
   <item>
     <title>google-research / timesfm</title>
@@ -46,11 +46,6 @@
     <description>利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.</description>
   </item>
   <item>
-    <title>jundot / omlx</title>
-    <link>https://github.com/jundot/omlx</link>
-    <description>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</description>
-  </item>
-  <item>
     <title>jingyaogong / minimind</title>
     <link>https://github.com/jingyaogong/minimind</link>
     <description>🧠 Train a 64M-parameter LLM from scratch in just 2h!</description>
@@ -59,6 +54,16 @@
     <title>K-Dense-AI / scientific-agent-skills</title>
     <link>https://github.com/K-Dense-AI/scientific-agent-skills</link>
     <description>Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.</description>
+  </item>
+  <item>
+    <title>jundot / omlx</title>
+    <link>https://github.com/jundot/omlx</link>
+    <description>LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar</description>
+  </item>
+  <item>
+    <title>youssofal / MTPLX</title>
+    <link>https://github.com/youssofal/MTPLX</link>
+    <description>3x faster speeds on MLX | Qwen 3.8 27B | Native MTP Speculative Decoding On Apple Silicon With No External Drafter.</description>
   </item>
   <item>
     <title>p-e-w / heretic</title>
@@ -76,24 +81,14 @@
     <description>A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书</description>
   </item>
   <item>
-    <title>semantica-agi / semantica</title>
-    <link>https://github.com/semantica-agi/semantica</link>
-    <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
-  </item>
-  <item>
-    <title>titanwings / distilly</title>
-    <link>https://github.com/titanwings/distilly</link>
-    <description>Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.</description>
-  </item>
-  <item>
     <title>abi / screenshot-to-code</title>
     <link>https://github.com/abi/screenshot-to-code</link>
     <description>Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)</description>
   </item>
   <item>
-    <title>NVIDIA-NeMo / Switchyard</title>
-    <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
-    <description>Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.</description>
+    <title>semantica-agi / semantica</title>
+    <link>https://github.com/semantica-agi/semantica</link>
+    <description>Graph-Native Infrastructure for Context and Accountable AI Systems</description>
   </item>
   <item>
     <title>experientiallabs / experiential</title>
@@ -101,9 +96,14 @@
     <description>Experiential is the open source, zero markup gateway for BYOK, self-hosted and 1000+ marketplace models. It learns from your traffic to cut costs, recommend better models, and train a specialized model you own.</description>
   </item>
   <item>
-    <title>cactus-compute / needle</title>
-    <link>https://github.com/cactus-compute/needle</link>
-    <description>14MB foundation model for tiny devices; phones, wearables, smart home, and robots.</description>
+    <title>NVIDIA-NeMo / Switchyard</title>
+    <link>https://github.com/NVIDIA-NeMo/Switchyard</link>
+    <description>Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.</description>
+  </item>
+  <item>
+    <title>petergyang / no-ai-slop</title>
+    <link>https://github.com/petergyang/no-ai-slop</link>
+    <description>Removes 20+ patterns of AI slop from any piece of writing.</description>
   </item>
 </channel>
 </rss>

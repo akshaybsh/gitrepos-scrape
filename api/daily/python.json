@@ -2,27 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
-    {
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 58766,
-      "forks": 7380,
-      "added_stars": "380 stars today"
-    },
     {
       "title": "multimodal-art-projection / YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 7953,
-      "forks": 879,
-      "added_stars": "487 stars today"
+      "stars": 8638,
+      "forks": 924,
+      "added_stars": "559 stars today"
     },
     {
       "title": "debpalash / VoiceStudio",
@@ -30,39 +20,59 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 27632,
-      "forks": 3401,
-      "added_stars": "2,632 stars today"
+      "stars": 29812,
+      "forks": 3605,
+      "added_stars": "2,776 stars today"
     },
     {
-      "title": "SnailSploit / Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "title": "666ghj / MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 4321,
-      "forks": 605,
-      "added_stars": "506 stars today"
+      "stars": 73424,
+      "forks": 11302,
+      "added_stars": "560 stars today"
     },
     {
-      "title": "jihe520 / MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "description": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 5460,
-      "forks": 412,
-      "added_stars": "246 stars today"
+      "stars": 81624,
+      "forks": 7100,
+      "added_stars": "651 stars today"
     },
     {
-      "title": "jiji262 / douyin-downloader",
-      "url": "https://github.com/jiji262/douyin-downloader",
-      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "title": "rlaope / oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11576,
-      "forks": 1767,
-      "added_stars": "452 stars today"
+      "stars": 2236,
+      "forks": 168,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "TauricResearch / TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 106357,
+      "forks": 20337,
+      "added_stars": "745 stars today"
+    },
+    {
+      "title": "OpenBMB / VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37487,
+      "forks": 4254,
+      "added_stars": "216 stars today"
     },
     {
       "title": "huggingface / transformers",
@@ -70,69 +80,109 @@
       "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 165710,
-      "forks": 34565,
-      "added_stars": "152 stars today"
+      "stars": 166104,
+      "forks": 34582,
+      "added_stars": "536 stars today"
     },
     {
-      "title": "davila7 / claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 30719,
-      "forks": 3484,
-      "added_stars": "40 stars today"
+      "stars": 4969,
+      "forks": 646,
+      "added_stars": "579 stars today"
     },
     {
-      "title": "Shubhamsaboo / awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "title": "MadsLorentzen / ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 138025,
-      "forks": 20282,
-      "added_stars": "429 stars today"
+      "stars": 42798,
+      "forks": 14675,
+      "added_stars": "443 stars today"
     },
     {
-      "title": "unclecode / crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
+      "title": "LibreTranslate / LibreTranslate",
+      "url": "https://github.com/LibreTranslate/LibreTranslate",
+      "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 83391,
-      "forks": 8615,
-      "added_stars": "655 stars today"
+      "stars": 16610,
+      "forks": 1696,
+      "added_stars": "65 stars today"
     },
     {
-      "title": "jordan-gibbs / hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "description": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "title": "petergyang / no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3250,
-      "forks": 317,
-      "added_stars": "192 stars today"
+      "stars": 9662,
+      "forks": 691,
+      "added_stars": "405 stars today"
     },
     {
-      "title": "sherlock-project / sherlock",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "title": "calesthio / OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 91478,
-      "forks": 10766,
-      "added_stars": "72 stars today"
+      "stars": 59204,
+      "forks": 7436,
+      "added_stars": "823 stars today"
     },
     {
-      "title": "simonlin1212 / TradingAgents-astock",
-      "url": "https://github.com/simonlin1212/TradingAgents-astock",
-      "description": "A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。",
+      "title": "searxng / searxng",
+      "url": "https://github.com/searxng/searxng",
+      "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3313,
-      "forks": 851,
-      "added_stars": "7 stars today"
+      "stars": 37128,
+      "forks": 3388,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "dgtlmoon / changedetection.io",
+      "url": "https://github.com/dgtlmoon/changedetection.io",
+      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 34174,
+      "forks": 2047,
+      "added_stars": "114 stars today"
+    },
+    {
+      "title": "harry0703 / MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 123773,
+      "forks": 19141,
+      "added_stars": "504 stars today"
+    },
+    {
+      "title": "jiji262 / douyin-downloader",
+      "url": "https://github.com/jiji262/douyin-downloader",
+      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11778,
+      "forks": 1781,
+      "added_stars": "427 stars today"
+    },
+    {
+      "title": "yt-dlp / yt-dlp",
+      "url": "https://github.com/yt-dlp/yt-dlp",
+      "description": "A feature-rich command-line audio/video downloader",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 191266,
+      "forks": 16604,
+      "added_stars": "313 stars today"
     }
   ]
 }

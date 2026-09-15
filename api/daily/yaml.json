@@ -2,8 +2,28 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
+    {
+      "title": "tyriis / home-ops",
+      "url": "https://github.com/tyriis/home-ops",
+      "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 81,
+      "forks": 4,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13658,
+      "forks": 1686,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "aquaproj / aqua-registry",
       "url": "https://github.com/aquaproj/aqua-registry",
@@ -15,26 +35,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13658,
-      "forks": 1684,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "web-platform-dx / web-features",
-      "url": "https://github.com/web-platform-dx/web-features",
-      "description": "Exploring how to present Web platform features adoptability",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 929,
-      "forks": 325,
-      "added_stars": "1 star today"
-    },
-    {
       "title": "stashapp / CommunityScrapers",
       "url": "https://github.com/stashapp/CommunityScrapers",
       "description": "This is a public repository containing scrapers created by the Stash Community.",
@@ -42,16 +42,6 @@
       "languageColor": "#cb171e",
       "stars": 837,
       "forks": 521,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tyriis / home-ops",
-      "url": "https://github.com/tyriis/home-ops",
-      "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 81,
-      "forks": 4,
       "added_stars": "0 stars today"
     }
   ]

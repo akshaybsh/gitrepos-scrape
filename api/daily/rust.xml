@@ -4,21 +4,21 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:28:26 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:04:55 GMT</pubDate>
+  <item>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+  </item>
+  <item>
+    <title>ruvnet / RuView</title>
+    <link>https://github.com/ruvnet/RuView</link>
+    <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+  </item>
   <item>
     <title>alphaXiv / OpenResearch</title>
     <link>https://github.com/alphaXiv/OpenResearch</link>
     <description>Turn your coding agents into research agents</description>
-  </item>
-  <item>
-    <title>tonhowtf / omniget</title>
-    <link>https://github.com/tonhowtf/omniget</link>
-    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
-  </item>
-  <item>
-    <title>Stremio / stremio-core</title>
-    <link>https://github.com/Stremio/stremio-core</link>
-    <description>⚛️ The Stremio Core: types, addon system, UI models, core logic</description>
   </item>
   <item>
     <title>RyanCodrai / turbovec</title>
@@ -26,14 +26,9 @@
     <description>A vector index built on TurboQuant, written in Rust with Python bindings</description>
   </item>
   <item>
-    <title>git-ai-project / git-ai</title>
-    <link>https://github.com/git-ai-project/git-ai</link>
-    <description>A Git extension for tracking the AI-generated code in your repos</description>
-  </item>
-  <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>zeroclaw-labs / zeroclaw</title>
+    <link>https://github.com/zeroclaw-labs/zeroclaw</link>
+    <description>Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀</description>
   </item>
   <item>
     <title>raine / workmux</title>
@@ -41,29 +36,9 @@
     <description>git worktrees + tmux windows for zero-friction parallel dev</description>
   </item>
   <item>
-    <title>reacherhq / check-if-email-exists</title>
-    <link>https://github.com/reacherhq/check-if-email-exists</link>
-    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
-  </item>
-  <item>
-    <title>martin-olivier / airgorah</title>
-    <link>https://github.com/martin-olivier/airgorah</link>
-    <description>A WiFi security auditing software</description>
-  </item>
-  <item>
-    <title>tinyhumansai / openhuman</title>
-    <link>https://github.com/tinyhumansai/openhuman</link>
-    <description>OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows</description>
-  </item>
-  <item>
-    <title>waditu / czsc</title>
-    <link>https://github.com/waditu/czsc</link>
-    <description>缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易</description>
-  </item>
-  <item>
-    <title>gfx-rs / wgpu</title>
-    <link>https://github.com/gfx-rs/wgpu</link>
-    <description>A cross-platform, safe, pure-Rust graphics API.</description>
+    <title>CluvexStudio / Aether</title>
+    <link>https://github.com/CluvexStudio/Aether</link>
+    <description>A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.</description>
   </item>
   <item>
     <title>HakanSeven12 / OpenCADStudio</title>
@@ -71,29 +46,79 @@
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>rust-lang / rust-analyzer</title>
-    <link>https://github.com/rust-lang/rust-analyzer</link>
-    <description>A Rust compiler front-end for IDEs</description>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
-    <title>DioxusLabs / dioxus</title>
-    <link>https://github.com/DioxusLabs/dioxus</link>
-    <description>Fullstack app framework for web, desktop, and mobile.</description>
+    <title>gfx-rs / wgpu</title>
+    <link>https://github.com/gfx-rs/wgpu</link>
+    <description>A cross-platform, safe, pure-Rust graphics API.</description>
   </item>
   <item>
-    <title>zeroclaw-labs / zeroclaw</title>
-    <link>https://github.com/zeroclaw-labs/zeroclaw</link>
-    <description>Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀</description>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
-    <title>ratatui / ratatui</title>
-    <link>https://github.com/ratatui/ratatui</link>
-    <description>A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</description>
+    <title>martin-olivier / airgorah</title>
+    <link>https://github.com/martin-olivier/airgorah</link>
+    <description>A WiFi security auditing software</description>
   </item>
   <item>
-    <title>cjpais / Handy</title>
-    <link>https://github.com/cjpais/Handy</link>
-    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+    <title>pacifio / atlas</title>
+    <link>https://github.com/pacifio/atlas</link>
+    <description>Source control for agents. Use multiple coding agents, track their changes and query them in one place</description>
+  </item>
+  <item>
+    <title>rust-lang / rust-clippy</title>
+    <link>https://github.com/rust-lang/rust-clippy</link>
+    <description>A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/</description>
+  </item>
+  <item>
+    <title>rust-lang / rust</title>
+    <link>https://github.com/rust-lang/rust</link>
+    <description>Empowering everyone to build reliable and efficient software.</description>
+  </item>
+  <item>
+    <title>waditu / czsc</title>
+    <link>https://github.com/waditu/czsc</link>
+    <description>缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易</description>
+  </item>
+  <item>
+    <title>louis-e / arnis</title>
+    <link>https://github.com/louis-e/arnis</link>
+    <description>Generate any location from the real world in Minecraft with a high level of detail.</description>
+  </item>
+  <item>
+    <title>reacherhq / check-if-email-exists</title>
+    <link>https://github.com/reacherhq/check-if-email-exists</link>
+    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+  </item>
+  <item>
+    <title>AlexsJones / llmfit</title>
+    <link>https://github.com/AlexsJones/llmfit</link>
+    <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
+  </item>
+  <item>
+    <title>ArthurBrussee / brush</title>
+    <link>https://github.com/ArthurBrussee/brush</link>
+    <description>3D Reconstruction for all</description>
+  </item>
+  <item>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
+  </item>
+  <item>
+    <title>transact-rs / sqlx</title>
+    <link>https://github.com/transact-rs/sqlx</link>
+    <description>🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</description>
+  </item>
+  <item>
+    <title>ruffle-rs / ruffle</title>
+    <link>https://github.com/ruffle-rs/ruffle</link>
+    <description>A Flash Player emulator written in Rust</description>
   </item>
 </channel>
 </rss>

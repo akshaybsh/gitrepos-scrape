@@ -2,17 +2,37 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1856,
+      "forks": 235,
+      "added_stars": "3 stars today"
+    },
     {
       "title": "doomemacs / core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22680,
+      "stars": 22683,
       "forks": 3147,
-      "added_stars": "3 stars today"
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 943,
+      "forks": 61,
+      "added_stars": "1 star today"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -25,6 +45,16 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2559,
+      "forks": 332,
+      "added_stars": "2 stars today"
+    },
+    {
       "title": "dnouri / pilish",
       "url": "https://github.com/dnouri/pilish",
       "description": "The ergonomic agent harness for Emacs.",
@@ -32,7 +62,27 @@
       "languageColor": "#c065db",
       "stars": 288,
       "forks": 37,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "melpa / melpa",
+      "url": "https://github.com/melpa/melpa",
+      "description": "Recipes and build machinery for the biggest Emacs package repo",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2968,
+      "forks": 2811,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5198,
+      "forks": 1405,
+      "added_stars": "1 star today"
     },
     {
       "title": "karthink / gptel",
@@ -42,36 +92,6 @@
       "languageColor": "#c065db",
       "stars": 3527,
       "forks": 431,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1854,
-      "forks": 235,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5196,
-      "forks": 1405,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2967,
-      "forks": 2811,
       "added_stars": "0 stars today"
     }
   ]

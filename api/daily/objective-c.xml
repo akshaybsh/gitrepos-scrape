@@ -4,16 +4,16 @@
   <title>GitHub Objective-c Languages Daily Trending</title>
   <description>Daily Trending of Objective-c Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Mon, 14 Sep 2026 07:28:26 GMT</pubDate>
+  <pubDate>Tue, 15 Sep 2026 07:04:55 GMT</pubDate>
+  <item>
+    <title>gnachman / iTerm2</title>
+    <link>https://github.com/gnachman/iTerm2</link>
+    <description>iTerm2 is a terminal emulator for Mac OS X that does amazing things.</description>
+  </item>
   <item>
     <title>geode-sdk / ios-launcher</title>
     <link>https://github.com/geode-sdk/ios-launcher</link>
     <description>Manages installing and launching Geometry Dash for iOS</description>
-  </item>
-  <item>
-    <title>opa334 / TrollStore</title>
-    <link>https://github.com/opa334/TrollStore</link>
-    <description>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</description>
   </item>
   <item>
     <title>PojavLauncherTeam / PojavLauncher_iOS</title>
@@ -21,9 +21,14 @@
     <description>A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS</description>
   </item>
   <item>
-    <title>LiveContainer / LiveExec32</title>
-    <link>https://github.com/LiveContainer/LiveExec32</link>
-    <description>Run 32-bit binaries on 64-bit iOS by passing through syscalls</description>
+    <title>git-up / GitUp</title>
+    <link>https://github.com/git-up/GitUp</link>
+    <description>The Git interface you&#x27;ve been missing all your life has finally arrived.</description>
+  </item>
+  <item>
+    <title>sparkle-project / Sparkle</title>
+    <link>https://github.com/sparkle-project/Sparkle</link>
+    <description>A software update framework for macOS</description>
   </item>
   <item>
     <title>noah-nuebling / mac-mouse-fix</title>
@@ -31,39 +36,9 @@
     <description>Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!</description>
   </item>
   <item>
-    <title>34306 / FilzaJailedDS</title>
-    <link>https://github.com/34306/FilzaJailedDS</link>
-    <description>Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)</description>
-  </item>
-  <item>
     <title>Hammerspoon / hammerspoon</title>
     <link>https://github.com/Hammerspoon/hammerspoon</link>
     <description>Staggeringly powerful macOS desktop automation with Lua</description>
-  </item>
-  <item>
-    <title>marcuswestin / WebViewJavascriptBridge</title>
-    <link>https://github.com/marcuswestin/WebViewJavascriptBridge</link>
-    <description>An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews</description>
-  </item>
-  <item>
-    <title>WenchaoD / FSCalendar</title>
-    <link>https://github.com/WenchaoD/FSCalendar</link>
-    <description>A fully customizable iOS calendar library, compatible with Objective-C and Swift</description>
-  </item>
-  <item>
-    <title>bang590 / JSPatch</title>
-    <link>https://github.com/bang590/JSPatch</link>
-    <description>JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.</description>
-  </item>
-  <item>
-    <title>Sequel-Ace / Sequel-Ace</title>
-    <link>https://github.com/Sequel-Ace/Sequel-Ace</link>
-    <description>MySQL/MariaDB database management for macOS</description>
-  </item>
-  <item>
-    <title>alexzielenski / Mousecape</title>
-    <link>https://github.com/alexzielenski/Mousecape</link>
-    <description>Cursor Manager for OSX</description>
   </item>
   <item>
     <title>benbaker76 / Hackintool</title>
@@ -71,9 +46,44 @@
     <description>The Swiss army knife of vanilla Hackintoshing</description>
   </item>
   <item>
-    <title>darlinghq / darling</title>
-    <link>https://github.com/darlinghq/darling</link>
-    <description>Darwin/macOS emulation layer for Linux</description>
+    <title>objective-see / LuLu</title>
+    <link>https://github.com/objective-see/LuLu</link>
+    <description>LuLu is the free open-source macOS firewall</description>
+  </item>
+  <item>
+    <title>34306 / FilzaJailedDS</title>
+    <link>https://github.com/34306/FilzaJailedDS</link>
+    <description>Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)</description>
+  </item>
+  <item>
+    <title>alexzielenski / Mousecape</title>
+    <link>https://github.com/alexzielenski/Mousecape</link>
+    <description>Cursor Manager for OSX</description>
+  </item>
+  <item>
+    <title>opa334 / TrollStore</title>
+    <link>https://github.com/opa334/TrollStore</link>
+    <description>Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple</description>
+  </item>
+  <item>
+    <title>LiveContainer / LiveExec32</title>
+    <link>https://github.com/LiveContainer/LiveExec32</link>
+    <description>Run 32-bit binaries on 64-bit iOS by passing through syscalls</description>
+  </item>
+  <item>
+    <title>schuyler / macdown3000</title>
+    <link>https://github.com/schuyler/macdown3000</link>
+    <description>A modern, lightweight Markdown editor for macOS.</description>
+  </item>
+  <item>
+    <title>newmarcel / KeepingYouAwake</title>
+    <link>https://github.com/newmarcel/KeepingYouAwake</link>
+    <description>Prevents your Mac from going to sleep.</description>
+  </item>
+  <item>
+    <title>SVProgressHUD / SVProgressHUD</title>
+    <link>https://github.com/SVProgressHUD/SVProgressHUD</link>
+    <description>A clean and lightweight progress HUD for your iOS and tvOS app.</description>
   </item>
 </channel>
 </rss>

@@ -2,37 +2,17 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
-    {
-      "title": "LandSandBoat / server",
-      "url": "https://github.com/LandSandBoat/server",
-      "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 505,
-      "forks": 909,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "koreader / koreader",
       "url": "https://github.com/koreader/koreader",
       "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 29699,
-      "forks": 1905,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "AndyHazz / bookshelf.koplugin",
-      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
-      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 844,
-      "forks": 33,
-      "added_stars": "14 stars today"
+      "stars": 29711,
+      "forks": 1906,
+      "added_stars": "20 stars today"
     },
     {
       "title": "Footagesus / WindUI",
@@ -40,99 +20,59 @@
       "description": "WindUI is a open source UI library for Roblox Script Hubs",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 355,
-      "forks": 337,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等设备。",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 713,
-      "forks": 87,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "nickjvandyke / opencode.nvim",
-      "url": "https://github.com/nickjvandyke/opencode.nvim",
-      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3821,
-      "forks": 158,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "lite-xl / lite-xl",
-      "url": "https://github.com/lite-xl/lite-xl",
-      "description": "A lightweight text editor written in Lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 6384,
-      "forks": 318,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "bol-van / zapret-win-bundle",
-      "url": "https://github.com/bol-van/zapret-win-bundle",
-      "description": "zapret and blockcheck binary bundle for windows",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1847,
-      "forks": 261,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "BeamMP / BeamMP",
-      "url": "https://github.com/BeamMP/BeamMP",
-      "description": "Bringing multiplayer to BeamNG.drive",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 512,
-      "forks": 118,
+      "stars": 356,
+      "forks": 339,
       "added_stars": "0 stars today"
     },
     {
-      "title": "rittermod / FS25_RealisticLivestockRM",
-      "url": "https://github.com/rittermod/FS25_RealisticLivestockRM",
-      "description": "FS25_RealisticLivestock - Ritter version",
+      "title": "LandSandBoat / server",
+      "url": "https://github.com/LandSandBoat/server",
+      "description": "⛵ LandSandBoat - a server emulator for Final Fantasy XI",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 172,
-      "forks": 16,
+      "stars": 505,
+      "forks": 910,
       "added_stars": "1 star today"
     },
     {
-      "title": "forest0xia / dota2bot-OpenHyperAI",
-      "url": "https://github.com/forest0xia/dota2bot-OpenHyperAI",
-      "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
+      "title": "AndyHazz / bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 289,
-      "forks": 69,
-      "added_stars": "0 stars today"
+      "stars": 851,
+      "forks": 33,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "FrSkyRC / ETHOS-Feedback-Community",
-      "url": "https://github.com/FrSkyRC/ETHOS-Feedback-Community",
-      "description": "Feedback & suggestions are welcomed here for ETHOS by FrSky",
+      "title": "nvim-lua / kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 248,
-      "forks": 99,
-      "added_stars": "0 stars today"
+      "stars": 31464,
+      "forks": 46580,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "opentibiabr / canary",
-      "url": "https://github.com/opentibiabr/canary",
-      "description": "Canary Server 15.25 for OpenTibia community.",
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 645,
-      "forks": 892,
-      "added_stars": "1 star today"
+      "stars": 13950,
+      "forks": 2493,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Courseplay / Courseplay_FS25",
+      "url": "https://github.com/Courseplay/Courseplay_FS25",
+      "description": "Courseplay for Farming Simulator 2025",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 921,
+      "forks": 83,
+      "added_stars": "0 stars today"
     },
     {
       "title": "Stephan-S / FS25_AutoDrive",
@@ -145,14 +85,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Courseplay / Courseplay_FS25",
-      "url": "https://github.com/Courseplay/Courseplay_FS25",
-      "description": "Courseplay for Farming Simulator 2025",
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 921,
-      "forks": 83,
-      "added_stars": "2 stars today"
+      "stars": 27471,
+      "forks": 1822,
+      "added_stars": "10 stars today"
     },
     {
       "title": "id577 / FS25_AdvancedDamageSystem",
@@ -162,6 +102,16 @@
       "languageColor": "#000080",
       "stars": 269,
       "forks": 17,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "forest0xia / dota2bot-OpenHyperAI",
+      "url": "https://github.com/forest0xia/dota2bot-OpenHyperAI",
+      "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 289,
+      "forks": 69,
       "added_stars": "0 stars today"
     }
   ]

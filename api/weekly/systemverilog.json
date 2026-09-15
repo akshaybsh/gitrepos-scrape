@@ -2,8 +2,18 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
   "items": [
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3644,
+      "forks": 1112,
+      "added_stars": "16 stars this week"
+    },
     {
       "title": "verilator / verilator",
       "url": "https://github.com/verilator/verilator",
@@ -11,18 +21,18 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 3928,
-      "forks": 898,
-      "added_stars": "20 stars this week"
+      "forks": 901,
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
+      "title": "openhwgroup / cvw",
+      "url": "https://github.com/openhwgroup/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3642,
-      "forks": 1113,
-      "added_stars": "16 stars this week"
+      "stars": 624,
+      "forks": 568,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -30,8 +40,8 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2051,
-      "forks": 806,
+      "stars": 2056,
+      "forks": 807,
       "added_stars": "16 stars this week"
     }
   ]

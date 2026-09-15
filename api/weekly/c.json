@@ -2,27 +2,17 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
   "items": [
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27850,
-      "forks": 2598,
-      "added_stars": "136 stars this week"
-    },
     {
       "title": "JustVugg / colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30485,
-      "forks": 3289,
-      "added_stars": "2,356 stars this week"
+      "stars": 32590,
+      "forks": 3429,
+      "added_stars": "5,084 stars this week"
     },
     {
       "title": "armory3d / armorpaint",
@@ -30,9 +20,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5012,
-      "forks": 553,
-      "added_stars": "935 stars this week"
+      "stars": 5046,
+      "forks": 558,
+      "added_stars": "975 stars this week"
     },
     {
       "title": "doldecomp / melee",
@@ -40,19 +30,19 @@
       "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2181,
-      "forks": 311,
-      "added_stars": "1,142 stars this week"
+      "stars": 2195,
+      "forks": 313,
+      "added_stars": "960 stars this week"
     },
     {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+      "title": "facebook / zstd",
+      "url": "https://github.com/facebook/zstd",
+      "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 63144,
-      "forks": 28401,
-      "added_stars": "142 stars this week"
+      "stars": 27861,
+      "forks": 2599,
+      "added_stars": "133 stars this week"
     },
     {
       "title": "curl / curl",
@@ -60,39 +50,19 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42847,
-      "forks": 7357,
-      "added_stars": "112 stars this week"
+      "stars": 42849,
+      "forks": 7356,
+      "added_stars": "92 stars this week"
     },
     {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16509,
-      "forks": 9964,
-      "added_stars": "98 stars this week"
-    },
-    {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15978,
-      "forks": 1785,
-      "added_stars": "112 stars this week"
-    },
-    {
-      "title": "DaveGamble / cJSON",
-      "url": "https://github.com/DaveGamble/cJSON",
-      "description": "Ultralightweight JSON parser in ANSI C",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12993,
-      "forks": 3521,
-      "added_stars": "21 stars this week"
+      "stars": 5393,
+      "forks": 838,
+      "added_stars": "69 stars this week"
     },
     {
       "title": "lz4 / lz4",
@@ -100,28 +70,48 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12066,
-      "forks": 1592,
-      "added_stars": "20 stars this week"
+      "stars": 12068,
+      "forks": 1593,
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "NVIDIA-RTX / Streamline",
-      "url": "https://github.com/NVIDIA-RTX/Streamline",
-      "description": "Streamline Integration Framework",
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1163,
-      "forks": 156,
-      "added_stars": "55 stars this week"
+      "stars": 22249,
+      "forks": 1943,
+      "added_stars": "67 stars this week"
     },
     {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
+      "title": "duixcom / Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14544,
-      "forks": 3395,
+      "stars": 15428,
+      "forks": 2622,
+      "added_stars": "390 stars this week"
+    },
+    {
+      "title": "zephyrproject-rtos / zephyr",
+      "url": "https://github.com/zephyrproject-rtos/zephyr",
+      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16524,
+      "forks": 9966,
+      "added_stars": "91 stars this week"
+    },
+    {
+      "title": "redcanaryco / atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12537,
+      "forks": 3212,
       "added_stars": "47 stars this week"
     },
     {
@@ -130,79 +120,79 @@
       "description": "Display and control your Android device",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 149576,
-      "forks": 13740,
-      "added_stars": "575 stars this week"
+      "stars": 149649,
+      "forks": 13738,
+      "added_stars": "586 stars this week"
     },
     {
-      "title": "ValdikSS / GoodbyeDPI",
-      "url": "https://github.com/ValdikSS/GoodbyeDPI",
-      "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+      "title": "git / git",
+      "url": "https://github.com/git/git",
+      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 28636,
-      "forks": 2219,
-      "added_stars": "35 stars this week"
+      "stars": 63161,
+      "forks": 28399,
+      "added_stars": "131 stars this week"
     },
     {
-      "title": "voidtools / voidImageViewer",
-      "url": "https://github.com/voidtools/voidImageViewer",
-      "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2376,
-      "forks": 153,
-      "added_stars": "133 stars this week"
+      "stars": 907,
+      "forks": 240,
+      "added_stars": "84 stars this week"
     },
     {
-      "title": "libretro / RetroArch",
-      "url": "https://github.com/libretro/RetroArch",
-      "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "title": "HarbourMasters / 2ship2harkinian",
+      "url": "https://github.com/HarbourMasters/2ship2harkinian",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13983,
-      "forks": 2222,
-      "added_stars": "122 stars this week"
+      "stars": 2222,
+      "forks": 242,
+      "added_stars": "28 stars this week"
     },
     {
-      "title": "NVIDIA / open-gpu-kernel-modules",
-      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
-      "description": "NVIDIA Linux open GPU kernel module source",
+      "title": "obsproject / obs-studio",
+      "url": "https://github.com/obsproject/obs-studio",
+      "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17381,
-      "forks": 1856,
-      "added_stars": "37 stars this week"
+      "stars": 76221,
+      "forks": 10174,
+      "added_stars": "308 stars this week"
     },
     {
-      "title": "raspberrypi / linux",
-      "url": "https://github.com/raspberrypi/linux",
-      "description": "Kernel source tree for Raspberry Pi-provided kernel builds. Issues unrelated to the linux kernel should be posted on the community forum at https://forums.raspberrypi.com/",
+      "title": "hathach / tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 13165,
-      "forks": 5459,
-      "added_stars": "23 stars this week"
+      "stars": 7097,
+      "forks": 1516,
+      "added_stars": "13 stars this week"
     },
     {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
+      "title": "NVIDIA-RTX / Streamline",
+      "url": "https://github.com/NVIDIA-RTX/Streamline",
+      "description": "Streamline Integration Framework",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15414,
-      "forks": 2616,
-      "added_stars": "347 stars this week"
+      "stars": 1166,
+      "forks": 157,
+      "added_stars": "55 stars this week"
     },
     {
-      "title": "bol-van / zapret2",
-      "url": "https://github.com/bol-van/zapret2",
-      "description": "anti-dpi software",
+      "title": "capstone-engine / capstone",
+      "url": "https://github.com/capstone-engine/capstone",
+      "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5441,
-      "forks": 237,
-      "added_stars": "54 stars this week"
+      "stars": 9022,
+      "forks": 1730,
+      "added_stars": "27 stars this week"
     }
   ]
 }

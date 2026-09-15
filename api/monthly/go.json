@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:34:06 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
   "items": [
     {
       "title": "rorkai / App-Store-Connect-CLI",
@@ -10,9 +10,9 @@
       "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7237,
-      "forks": 608,
-      "added_stars": "1,436 stars this month"
+      "stars": 7247,
+      "forks": 609,
+      "added_stars": "1,429 stars this month"
     },
     {
       "title": "majd / ipatool",
@@ -20,9 +20,9 @@
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11150,
-      "forks": 934,
-      "added_stars": "1,306 stars this month"
+      "stars": 11233,
+      "forks": 938,
+      "added_stars": "1,398 stars this month"
     },
     {
       "title": "glanceapp / glance",
@@ -30,19 +30,9 @@
       "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37028,
+      "stars": 37049,
       "forks": 1454,
       "added_stars": "759 stars this month"
-    },
-    {
-      "title": "authelia / authelia",
-      "url": "https://github.com/authelia/authelia",
-      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 28954,
-      "forks": 1481,
-      "added_stars": "444 stars this month"
     },
     {
       "title": "henrygd / beszel",
@@ -50,9 +40,19 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25363,
-      "forks": 1016,
-      "added_stars": "1,187 stars this month"
+      "stars": 25394,
+      "forks": 1017,
+      "added_stars": "1,184 stars this month"
+    },
+    {
+      "title": "authelia / authelia",
+      "url": "https://github.com/authelia/authelia",
+      "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28967,
+      "forks": 1482,
+      "added_stars": "449 stars this month"
     },
     {
       "title": "gtsteffaniak / filebrowser",
@@ -60,9 +60,9 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8277,
-      "forks": 436,
-      "added_stars": "549 stars this month"
+      "stars": 8295,
+      "forks": 437,
+      "added_stars": "547 stars this month"
     },
     {
       "title": "theagentrouter / agent-router",
@@ -70,69 +70,9 @@
       "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2061,
-      "forks": 373,
-      "added_stars": "139 stars this month"
-    },
-    {
-      "title": "go-task / task",
-      "url": "https://github.com/go-task/task",
-      "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16139,
-      "forks": 907,
-      "added_stars": "200 stars this month"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1856,
-      "forks": 317,
-      "added_stars": "642 stars this month"
-    },
-    {
-      "title": "asciimoo / hister",
-      "url": "https://github.com/asciimoo/hister",
-      "description": "Your own search engine",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3748,
-      "forks": 179,
-      "added_stars": "1,881 stars this month"
-    },
-    {
-      "title": "go-vikunja / vikunja",
-      "url": "https://github.com/go-vikunja/vikunja",
-      "description": "The task manager you actually own.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5387,
-      "forks": 685,
-      "added_stars": "353 stars this month"
-    },
-    {
-      "title": "siderolabs / talos",
-      "url": "https://github.com/siderolabs/talos",
-      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11153,
-      "forks": 892,
-      "added_stars": "243 stars this month"
-    },
-    {
-      "title": "1Panel-dev / 1Panel",
-      "url": "https://github.com/1Panel-dev/1Panel",
-      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36889,
-      "forks": 3346,
-      "added_stars": "453 stars this month"
+      "stars": 2088,
+      "forks": 374,
+      "added_stars": "148 stars this month"
     },
     {
       "title": "Tencent / WeKnora",
@@ -140,9 +80,49 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23001,
-      "forks": 3278,
-      "added_stars": "3,077 stars this month"
+      "stars": 23471,
+      "forks": 3323,
+      "added_stars": "3,309 stars this month"
+    },
+    {
+      "title": "agent-substrate / substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "description": "Agent Substrate: the core system",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1865,
+      "forks": 320,
+      "added_stars": "643 stars this month"
+    },
+    {
+      "title": "go-task / task",
+      "url": "https://github.com/go-task/task",
+      "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16141,
+      "forks": 908,
+      "added_stars": "197 stars this month"
+    },
+    {
+      "title": "go-vikunja / vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The task manager you actually own.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5396,
+      "forks": 689,
+      "added_stars": "358 stars this month"
+    },
+    {
+      "title": "asciimoo / hister",
+      "url": "https://github.com/asciimoo/hister",
+      "description": "Your own search engine",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3761,
+      "forks": 180,
+      "added_stars": "1,887 stars this month"
     },
     {
       "title": "kopia / kopia",
@@ -150,19 +130,29 @@
       "description": "Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 14101,
+      "stars": 14118,
       "forks": 727,
-      "added_stars": "266 stars this month"
+      "added_stars": "274 stars this month"
     },
     {
-      "title": "gitleaks / gitleaks",
-      "url": "https://github.com/gitleaks/gitleaks",
-      "description": "Find secrets with Gitleaks 🔑",
+      "title": "siderolabs / talos",
+      "url": "https://github.com/siderolabs/talos",
+      "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29292,
-      "forks": 2231,
-      "added_stars": "644 stars this month"
+      "stars": 11164,
+      "forks": 893,
+      "added_stars": "240 stars this month"
+    },
+    {
+      "title": "1Panel-dev / 1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36896,
+      "forks": 3348,
+      "added_stars": "446 stars this month"
     },
     {
       "title": "Wei-Shaw / sub2api",
@@ -170,19 +160,9 @@
       "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 41445,
-      "forks": 8650,
-      "added_stars": "4,730 stars this month"
-    },
-    {
-      "title": "github / gh-aw",
-      "url": "https://github.com/github/gh-aw",
-      "description": "GitHub Agentic Workflows",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5134,
-      "forks": 540,
-      "added_stars": "243 stars this month"
+      "stars": 41546,
+      "forks": 8675,
+      "added_stars": "4,719 stars this month"
     },
     {
       "title": "weave-os / router",
@@ -190,9 +170,9 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4322,
-      "forks": 116,
-      "added_stars": "3,392 stars this month"
+      "stars": 4336,
+      "forks": 117,
+      "added_stars": "3,412 stars this month"
     },
     {
       "title": "vllm-project / semantic-router",
@@ -200,29 +180,39 @@
       "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5789,
-      "forks": 937,
-      "added_stars": "637 stars this month"
+      "stars": 5810,
+      "forks": 943,
+      "added_stars": "649 stars this month"
     },
     {
-      "title": "restic / restic",
-      "url": "https://github.com/restic/restic",
-      "description": "Fast, secure, efficient backup program",
+      "title": "cloudflare / cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 36040,
-      "forks": 1873,
-      "added_stars": "589 stars this month"
+      "stars": 15620,
+      "forks": 1438,
+      "added_stars": "413 stars this month"
     },
     {
-      "title": "anchore / syft",
-      "url": "https://github.com/anchore/syft",
-      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9557,
-      "forks": 954,
-      "added_stars": "176 stars this month"
+      "stars": 34662,
+      "forks": 3002,
+      "added_stars": "628 stars this month"
+    },
+    {
+      "title": "gitleaks / gitleaks",
+      "url": "https://github.com/gitleaks/gitleaks",
+      "description": "Find secrets with Gitleaks 🔑",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29311,
+      "forks": 2233,
+      "added_stars": "627 stars this month"
     }
   ]
 }

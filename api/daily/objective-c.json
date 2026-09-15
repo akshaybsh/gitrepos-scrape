@@ -2,27 +2,27 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:28:26 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
   "items": [
+    {
+      "title": "gnachman / iTerm2",
+      "url": "https://github.com/gnachman/iTerm2",
+      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 18056,
+      "forks": 1494,
+      "added_stars": "6 stars today"
+    },
     {
       "title": "geode-sdk / ios-launcher",
       "url": "https://github.com/geode-sdk/ios-launcher",
       "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 722,
+      "stars": 726,
       "forks": 261,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 22153,
-      "forks": 1664,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "PojavLauncherTeam / PojavLauncher_iOS",
@@ -31,17 +31,27 @@
       "language": "Objective-C",
       "languageColor": "#438eff",
       "stars": 3242,
-      "forks": 1417,
+      "forks": 1423,
       "added_stars": "0 stars today"
     },
     {
-      "title": "LiveContainer / LiveExec32",
-      "url": "https://github.com/LiveContainer/LiveExec32",
-      "description": "Run 32-bit binaries on 64-bit iOS by passing through syscalls",
+      "title": "git-up / GitUp",
+      "url": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 254,
-      "forks": 18,
+      "stars": 12119,
+      "forks": 1496,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "sparkle-project / Sparkle",
+      "url": "https://github.com/sparkle-project/Sparkle",
+      "description": "A software update framework for macOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 9709,
+      "forks": 1137,
       "added_stars": "5 stars today"
     },
     {
@@ -50,9 +60,39 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10840,
-      "forks": 410,
-      "added_stars": "9 stars today"
+      "stars": 10852,
+      "forks": 417,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Hammerspoon / hammerspoon",
+      "url": "https://github.com/Hammerspoon/hammerspoon",
+      "description": "Staggeringly powerful macOS desktop automation with Lua",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 16108,
+      "forks": 717,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "benbaker76 / Hackintool",
+      "url": "https://github.com/benbaker76/Hackintool",
+      "description": "The Swiss army knife of vanilla Hackintoshing",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 3489,
+      "forks": 269,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "objective-see / LuLu",
+      "url": "https://github.com/objective-see/LuLu",
+      "description": "LuLu is the free open-source macOS firewall",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 13178,
+      "forks": 599,
+      "added_stars": "4 stars today"
     },
     {
       "title": "34306 / FilzaJailedDS",
@@ -65,83 +105,63 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "Hammerspoon / hammerspoon",
-      "url": "https://github.com/Hammerspoon/hammerspoon",
-      "description": "Staggeringly powerful macOS desktop automation with Lua",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 16102,
-      "forks": 717,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "marcuswestin / WebViewJavascriptBridge",
-      "url": "https://github.com/marcuswestin/WebViewJavascriptBridge",
-      "description": "An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 14306,
-      "forks": 2947,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "WenchaoD / FSCalendar",
-      "url": "https://github.com/WenchaoD/FSCalendar",
-      "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 10637,
-      "forks": 1944,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bang590 / JSPatch",
-      "url": "https://github.com/bang590/JSPatch",
-      "description": "JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally used to hotfix iOS App.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 11324,
-      "forks": 2210,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Sequel-Ace / Sequel-Ace",
-      "url": "https://github.com/Sequel-Ace/Sequel-Ace",
-      "description": "MySQL/MariaDB database management for macOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 7534,
-      "forks": 336,
-      "added_stars": "1 star today"
-    },
-    {
       "title": "alexzielenski / Mousecape",
       "url": "https://github.com/alexzielenski/Mousecape",
       "description": "Cursor Manager for OSX",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 2069,
+      "stars": 2071,
       "forks": 259,
-      "added_stars": "0 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "benbaker76 / Hackintool",
-      "url": "https://github.com/benbaker76/Hackintool",
-      "description": "The Swiss army knife of vanilla Hackintoshing",
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 3488,
-      "forks": 269,
-      "added_stars": "0 stars today"
+      "stars": 22156,
+      "forks": 1664,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "darlinghq / darling",
-      "url": "https://github.com/darlinghq/darling",
-      "description": "Darwin/macOS emulation layer for Linux",
+      "title": "LiveContainer / LiveExec32",
+      "url": "https://github.com/LiveContainer/LiveExec32",
+      "description": "Run 32-bit binaries on 64-bit iOS by passing through syscalls",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 13349,
-      "forks": 528,
+      "stars": 258,
+      "forks": 18,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "schuyler / macdown3000",
+      "url": "https://github.com/schuyler/macdown3000",
+      "description": "A modern, lightweight Markdown editor for macOS.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 462,
+      "forks": 52,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "newmarcel / KeepingYouAwake",
+      "url": "https://github.com/newmarcel/KeepingYouAwake",
+      "description": "Prevents your Mac from going to sleep.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 6901,
+      "forks": 266,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "SVProgressHUD / SVProgressHUD",
+      "url": "https://github.com/SVProgressHUD/SVProgressHUD",
+      "description": "A clean and lightweight progress HUD for your iOS and tvOS app.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 12442,
+      "forks": 2663,
       "added_stars": "1 star today"
     }
   ]

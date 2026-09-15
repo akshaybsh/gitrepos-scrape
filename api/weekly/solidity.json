@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Mon, 14 Sep 2026 07:30:46 GMT",
+  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,19 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27240,
+      "stars": 27241,
       "forks": 12400,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "SunWeb3Sec / DeFiHackLabs",
-      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
-      "description": "Reproduce DeFi hacked incidents using Foundry.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 6787,
-      "forks": 1479,
-      "added_stars": "19 stars this week"
+      "added_stars": "14 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -31,8 +21,18 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 1055,
-      "forks": 519,
+      "forks": 520,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2529,
+      "forks": 1326,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -71,17 +71,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 3372,
-      "forks": 488,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 756,
-      "forks": 1055,
+      "forks": 489,
       "added_stars": "6 stars this week"
     }
   ]
