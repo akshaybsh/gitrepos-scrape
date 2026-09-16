@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46283,
-      "forks": 3972,
-      "added_stars": "468 stars this month"
+      "stars": 46298,
+      "forks": 3974,
+      "added_stars": "476 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,19 +20,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40037,
-      "forks": 1946,
-      "added_stars": "201 stars this month"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2956,
-      "forks": 455,
-      "added_stars": "14 stars this month"
+      "stars": 40041,
+      "forks": 1944,
+      "added_stars": "202 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -40,9 +30,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1781,
+      "stars": 1784,
       "forks": 73,
-      "added_stars": "230 stars this month"
+      "added_stars": "229 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -50,9 +40,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12403,
+      "stars": 12408,
       "forks": 502,
-      "added_stars": "57 stars this month"
+      "added_stars": "62 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -60,9 +50,19 @@
       "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1744,
-      "forks": 750,
+      "stars": 1745,
+      "forks": 751,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27670,
+      "forks": 1228,
+      "added_stars": "100 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-ledger",
@@ -85,24 +85,14 @@
       "added_stars": "36 stars this month"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27665,
-      "forks": 1226,
-      "added_stars": "96 stars this month"
-    },
-    {
-      "title": "mtolly / onyx",
-      "url": "https://github.com/mtolly/onyx",
-      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 297,
-      "forks": 23,
-      "added_stars": "7 stars this month"
+      "stars": 2958,
+      "forks": 455,
+      "added_stars": "15 stars this month"
     },
     {
       "title": "wireapp / wire-server",
@@ -115,6 +105,16 @@
       "added_stars": "2 stars this month"
     },
     {
+      "title": "mtolly / onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 297,
+      "forks": 23,
+      "added_stars": "7 stars this month"
+    },
+    {
       "title": "IntersectMBO / cardano-node",
       "url": "https://github.com/IntersectMBO/cardano-node",
       "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
@@ -125,24 +125,24 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7903,
-      "forks": 691,
-      "added_stars": "49 stars this month"
-    },
-    {
       "title": "agda / agda",
       "url": "https://github.com/agda/agda",
       "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2931,
+      "stars": 2930,
       "forks": 429,
-      "added_stars": "24 stars this month"
+      "added_stars": "22 stars this month"
+    },
+    {
+      "title": "elm / compiler",
+      "url": "https://github.com/elm/compiler",
+      "description": "Compiler for Elm, a functional language for reliable webapps.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 7904,
+      "forks": 691,
+      "added_stars": "51 stars this month"
     },
     {
       "title": "simplex-chat / simplexmq",
@@ -150,19 +150,9 @@
       "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 846,
+      "stars": 847,
       "forks": 110,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "unisonweb / unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 6730,
-      "forks": 308,
-      "added_stars": "37 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "IntersectMBO / ouroboros-consensus",
@@ -173,6 +163,26 @@
       "stars": 67,
       "forks": 43,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "unisonweb / unison",
+      "url": "https://github.com/unisonweb/unison",
+      "description": "A friendly programming language from the future",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 6730,
+      "forks": 308,
+      "added_stars": "36 stars this month"
+    },
+    {
+      "title": "fossas / fossa-cli",
+      "url": "https://github.com/fossas/fossa-cli",
+      "description": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1518,
+      "forks": 205,
+      "added_stars": "6 stars this month"
     },
     {
       "title": "digital-asset / daml",

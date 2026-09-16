@@ -2,37 +2,17 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
-    {
-      "title": "verilator / verilator",
-      "url": "https://github.com/verilator/verilator",
-      "description": "Verilator open-source SystemVerilog simulator and lint system",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3928,
-      "forks": 901,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "openhwgroup / cvw",
-      "url": "https://github.com/openhwgroup/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 624,
-      "forks": 568,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "lowRISC / opentitan",
       "url": "https://github.com/lowRISC/opentitan",
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3644,
-      "forks": 1112,
-      "added_stars": "3 stars today"
+      "stars": 3645,
+      "forks": 1113,
+      "added_stars": "1 star today"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -40,9 +20,39 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12950,
-      "forks": 1243,
-      "added_stars": "7 stars today"
+      "stars": 12970,
+      "forks": 1247,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "verilator / verilator",
+      "url": "https://github.com/verilator/verilator",
+      "description": "Verilator open-source SystemVerilog simulator and lint system",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3931,
+      "forks": 903,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "chipsalliance / Cores-VeeR-EH1",
+      "url": "https://github.com/chipsalliance/Cores-VeeR-EH1",
+      "description": "VeeR EH1 core",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 966,
+      "forks": 246,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "lowRISC / ibex",
+      "url": "https://github.com/lowRISC/ibex",
+      "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 2058,
+      "forks": 808,
+      "added_stars": "3 stars today"
     }
   ]
 }

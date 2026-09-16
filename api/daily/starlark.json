@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,9 +10,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8755,
+      "stars": 8756,
       "forks": 2630,
-      "added_stars": "6 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -21,7 +21,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 386,
-      "forks": 892,
+      "forks": 893,
       "added_stars": "0 stars today"
     },
     {
@@ -35,13 +35,63 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "immich-app / immich-charts",
-      "url": "https://github.com/immich-app/immich-charts",
-      "description": "Helm chart implementation of Immich",
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 352,
-      "forks": 113,
+      "stars": 23074,
+      "forks": 1434,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "bazelbuild / rules_apple",
+      "url": "https://github.com/bazelbuild/rules_apple",
+      "description": "Bazel rules to build apps for Apple platforms.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 593,
+      "forks": 334,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "uber / hermetic_cc_toolchain",
+      "url": "https://github.com/uber/hermetic_cc_toolchain",
+      "description": "Bazel C/C++ toolchain for cross-compiling C/C++ programs",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 402,
+      "forks": 88,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 243,
+      "forks": 194,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3976,
+      "forks": 303,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 689,
+      "forks": 722,
       "added_stars": "0 stars today"
     },
     {
@@ -55,44 +105,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "tidbyt / community",
-      "url": "https://github.com/tidbyt/community",
-      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 427,
-      "forks": 818,
+      "stars": 294,
+      "forks": 115,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 689,
-      "forks": 722,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "openconfig / gnoi",
-      "url": "https://github.com/openconfig/gnoi",
-      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 195,
-      "forks": 90,
+      "stars": 271,
+      "forks": 85,
       "added_stars": "0 stars today"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3974,
-      "forks": 304,
-      "added_stars": "2 stars today"
+      "stars": 101,
+      "forks": 74,
+      "added_stars": "0 stars today"
     }
   ]
 }

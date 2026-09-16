@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,29 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26488,
-      "forks": 1905,
-      "added_stars": "1,571 stars today"
+      "stars": 29489,
+      "forks": 2101,
+      "added_stars": "2,756 stars today"
+    },
+    {
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 12535,
+      "forks": 1123,
+      "added_stars": "259 stars today"
+    },
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7409,
+      "forks": 310,
+      "added_stars": "13 stars today"
     },
     {
       "title": "vxcontrol / pentagi",
@@ -20,139 +40,39 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24442,
-      "forks": 3134,
-      "added_stars": "661 stars today"
+      "stars": 24526,
+      "forks": 3140,
+      "added_stars": "98 stars today"
     },
     {
-      "title": "operacle / checkcle",
-      "url": "https://github.com/operacle/checkcle",
-      "description": "CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere.",
+      "title": "minio / minio",
+      "url": "https://github.com/minio/minio",
+      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3216,
-      "forks": 281,
-      "added_stars": "81 stars today"
+      "stars": 61379,
+      "forks": 7930,
+      "added_stars": "1 star today"
     },
     {
-      "title": "tbphp / gpt-load",
-      "url": "https://github.com/tbphp/gpt-load",
-      "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 6763,
-      "forks": 728,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "pranshuparmar / witr",
-      "url": "https://github.com/pranshuparmar/witr",
-      "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 22317,
-      "forks": 775,
-      "added_stars": "43 stars today"
-    },
-    {
-      "title": "aldinokemal / go-whatsapp-web-multidevice",
-      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
-      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4778,
-      "forks": 1137,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "yorukot / superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "description": "Pretty fancy and modern terminal file manager",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23246,
-      "forks": 850,
-      "added_stars": "40 stars today"
-    },
-    {
-      "title": "kubernetes / kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 127729,
-      "forks": 44069,
-      "added_stars": "278 stars today"
-    },
-    {
-      "title": "usememos / memos",
-      "url": "https://github.com/usememos/memos",
-      "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 63063,
-      "forks": 4755,
-      "added_stars": "81 stars today"
-    },
-    {
-      "title": "SagerNet / sing-box",
-      "url": "https://github.com/SagerNet/sing-box",
-      "description": "The universal proxy platform",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38007,
-      "forks": 4587,
+      "stars": 34740,
+      "forks": 3002,
       "added_stars": "53 stars today"
     },
     {
-      "title": "xob0t / gotohp",
-      "url": "https://github.com/xob0t/gotohp",
-      "description": "Unofficial Google Photos Desktop GUI Client",
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 586,
-      "forks": 49,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "goreleaser / goreleaser",
-      "url": "https://github.com/goreleaser/goreleaser",
-      "description": "Release engineering, simplified",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16050,
-      "forks": 1108,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "Solr159 / JavBoss",
-      "url": "https://github.com/Solr159/JavBoss",
-      "description": "开箱即用的本地 JAV/视频 刮削、管理、播放软件，支持命令行一键安装和 Docker 部署。只需简单添加目录，即可打造你的私人 JAV/视频 媒体库，带给你顶级的浏览体验，懒人必备。| Your local JAV/video manager.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 637,
-      "forks": 62,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "nicocha30 / ligolo-ng",
-      "url": "https://github.com/nicocha30/ligolo-ng",
-      "description": "An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4988,
-      "forks": 480,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "fluxcd / flux2",
-      "url": "https://github.com/fluxcd/flux2",
-      "description": "Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 8407,
-      "forks": 782,
-      "added_stars": "1 star today"
+      "stars": 24604,
+      "forks": 3417,
+      "added_stars": "696 stars today"
     },
     {
       "title": "navidrome / navidrome",
@@ -160,39 +80,139 @@
       "description": "🎧 Your Personal Streaming Service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23563,
-      "forks": 1704,
-      "added_stars": "34 stars today"
+      "stars": 23601,
+      "forks": 1703,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "evcc-io / evcc",
-      "url": "https://github.com/evcc-io/evcc",
-      "description": "solar charging ☀️🚘",
+      "title": "goharbor / harbor",
+      "url": "https://github.com/goharbor/harbor",
+      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7236,
-      "forks": 1506,
+      "stars": 29388,
+      "forks": 5345,
       "added_stars": "6 stars today"
     },
     {
-      "title": "bjarneo / cliamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "description": "cliamp - Terminal music player inspired by winamp",
+      "title": "googleapis / mcp-toolbox",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4180,
-      "forks": 279,
-      "added_stars": "31 stars today"
+      "stars": 16430,
+      "forks": 1721,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "MHSanaei / 3x-ui",
-      "url": "https://github.com/MHSanaei/3x-ui",
-      "description": "Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)",
+      "title": "gin-gonic / gin",
+      "url": "https://github.com/gin-gonic/gin",
+      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 46391,
-      "forks": 11507,
-      "added_stars": "58 stars today"
+      "stars": 89232,
+      "forks": 8694,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "e2b-dev / runtime",
+      "url": "https://github.com/e2b-dev/runtime",
+      "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1534,
+      "forks": 425,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "fatedier / frp",
+      "url": "https://github.com/fatedier/frp",
+      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 109474,
+      "forks": 15215,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "majd / ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 11276,
+      "forks": 940,
+      "added_stars": "50 stars today"
+    },
+    {
+      "title": "gosom / google-maps-scraper",
+      "url": "https://github.com/gosom/google-maps-scraper",
+      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5884,
+      "forks": 925,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "kserve / kserve",
+      "url": "https://github.com/kserve/kserve",
+      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5939,
+      "forks": 1676,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "Mininglamp-OSS / octo-server",
+      "url": "https://github.com/Mininglamp-OSS/octo-server",
+      "description": "🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1058,
+      "forks": 165,
+      "added_stars": "80 stars today"
+    },
+    {
+      "title": "sysadminsmedia / homebox",
+      "url": "https://github.com/sysadminsmedia/homebox",
+      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7306,
+      "forks": 556,
+      "added_stars": "50 stars today"
+    },
+    {
+      "title": "hashicorp / nomad",
+      "url": "https://github.com/hashicorp/nomad",
+      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16964,
+      "forks": 2143,
+      "added_stars": "28 stars today"
+    },
+    {
+      "title": "aldinokemal / go-whatsapp-web-multidevice",
+      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
+      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4819,
+      "forks": 1141,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 181103,
+      "forks": 17897,
+      "added_stars": "140 stars today"
     }
   ]
 }

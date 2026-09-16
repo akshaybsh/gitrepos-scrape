@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,8 +10,8 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27241,
-      "forks": 12400,
+      "stars": 27242,
+      "forks": 12401,
       "added_stars": "14 stars this week"
     },
     {
@@ -23,16 +23,6 @@
       "stars": 1055,
       "forks": 520,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2529,
-      "forks": 1326,
-      "added_stars": "4 stars this week"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -55,6 +45,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2529,
+      "forks": 1327,
+      "added_stars": "4 stars this week"
+    },
+    {
       "title": "transmissions11 / solmate",
       "url": "https://github.com/transmissions11/solmate",
       "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
@@ -70,9 +70,19 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3372,
-      "forks": 489,
-      "added_stars": "6 stars this week"
+      "stars": 3373,
+      "forks": 490,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "SunWeb3Sec / DeFiHackLabs",
+      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "description": "Reproduce DeFi hacked incidents using Foundry.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 6790,
+      "forks": 1479,
+      "added_stars": "19 stars this week"
     }
   ]
 }

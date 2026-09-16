@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
   "items": [
     {
       "title": "emacs-mirror / emacs",
@@ -10,9 +10,9 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5198,
-      "forks": 1405,
-      "added_stars": "57 stars this month"
+      "stars": 5199,
+      "forks": 1404,
+      "added_stars": "58 stars this month"
     },
     {
       "title": "syl20bnr / spacemacs",
@@ -20,9 +20,9 @@
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24562,
+      "stars": 24561,
       "forks": 4833,
-      "added_stars": "26 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "karthink / gptel",
@@ -30,8 +30,8 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3527,
-      "forks": 431,
+      "stars": 3528,
+      "forks": 432,
       "added_stars": "55 stars this month"
     },
     {
@@ -40,19 +40,9 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22683,
-      "forks": 3147,
-      "added_stars": "129 stars this month"
-    },
-    {
-      "title": "mmontone / emacs-inspector",
-      "url": "https://github.com/mmontone/emacs-inspector",
-      "description": "Inspection tool for Emacs Lisp objects.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 121,
-      "forks": 11,
-      "added_stars": "0 stars this month"
+      "stars": 22679,
+      "forks": 3145,
+      "added_stars": "128 stars this month"
     },
     {
       "title": "melpa / melpa",
@@ -61,7 +51,7 @@
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
       "stars": 2968,
-      "forks": 2811,
+      "forks": 2813,
       "added_stars": "8 stars this month"
     },
     {
@@ -75,14 +65,14 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "title": "emacs-lsp / lsp-mode",
+      "url": "https://github.com/emacs-lsp/lsp-mode",
+      "description": "Emacs client/library for the Language Server Protocol",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1856,
-      "forks": 235,
-      "added_stars": "129 stars this month"
+      "stars": 5123,
+      "forks": 981,
+      "added_stars": "22 stars this month"
     },
     {
       "title": "google-coral / coralnpu",
@@ -90,19 +80,19 @@
       "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 2559,
-      "forks": 332,
-      "added_stars": "55 stars this month"
+      "stars": 2564,
+      "forks": 336,
+      "added_stars": "61 stars this month"
     },
     {
-      "title": "emacs-lsp / lsp-mode",
-      "url": "https://github.com/emacs-lsp/lsp-mode",
-      "description": "Emacs client/library for the Language Server Protocol",
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5124,
-      "forks": 980,
-      "added_stars": "23 stars this month"
+      "stars": 1859,
+      "forks": 235,
+      "added_stars": "130 stars this month"
     },
     {
       "title": "emacs-evil / evil",
@@ -112,7 +102,7 @@
       "languageColor": "#c065db",
       "stars": 3857,
       "forks": 307,
-      "added_stars": "26 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "tumashu / posframe",
@@ -130,19 +120,9 @@
       "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7225,
+      "stars": 7226,
       "forks": 882,
       "added_stars": "32 stars this month"
-    },
-    {
-      "title": "doomemacs / modules",
-      "url": "https://github.com/doomemacs/modules",
-      "description": "Official module library for Doom Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 61,
-      "forks": 37,
-      "added_stars": "9 stars this month"
     },
     {
       "title": "bbatsov / projectile",
@@ -150,7 +130,7 @@
       "description": "Project Interaction Library for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 4236,
+      "stars": 4237,
       "forks": 588,
       "added_stars": "5 stars this month"
     },
@@ -160,19 +140,39 @@
       "description": "Terminal emulator powered by libghostty",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 943,
+      "stars": 946,
       "forks": 61,
       "added_stars": "72 stars this month"
     },
     {
-      "title": "qjcg / awesome-typst",
-      "url": "https://github.com/qjcg/awesome-typst",
-      "description": "Awesome Typst Links",
+      "title": "seagle0128 / doom-modeline",
+      "url": "https://github.com/seagle0128/doom-modeline",
+      "description": "A fancy and fast mode-line inspired by minimalism design.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3584,
-      "forks": 167,
-      "added_stars": "33 stars this month"
+      "stars": 1524,
+      "forks": 168,
+      "added_stars": "9 stars this month"
+    },
+    {
+      "title": "abo-abo / hydra",
+      "url": "https://github.com/abo-abo/hydra",
+      "description": "make Emacs bindings that stick around",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1942,
+      "forks": 113,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "yoshiki / yaml-mode",
+      "url": "https://github.com/yoshiki/yaml-mode",
+      "description": "The emacs major mode for editing files in the YAML data serialization format.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 521,
+      "forks": 132,
+      "added_stars": "3 stars this month"
     }
   ]
 }

@@ -4,7 +4,7 @@
   <title>GitHub Dockerfile Languages Daily Trending</title>
   <description>Daily Trending of Dockerfile Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
   <item>
     <title>mikeroyal / Self-Hosting-Guide</title>
     <link>https://github.com/mikeroyal/Self-Hosting-Guide</link>
@@ -16,14 +16,14 @@
     <description>✅ The Node.js best practices list (July 2026)</description>
   </item>
   <item>
+    <title>dotnet / dotnet-docker</title>
+    <link>https://github.com/dotnet/dotnet-docker</link>
+    <description>Official container images for .NET</description>
+  </item>
+  <item>
     <title>laradock / laradock</title>
     <link>https://github.com/laradock/laradock</link>
     <description>Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.</description>
-  </item>
-  <item>
-    <title>Gar-b-age / CookLikeHOC</title>
-    <link>https://github.com/Gar-b-age/CookLikeHOC</link>
-    <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
   </item>
   <item>
     <title>autowarefoundation / autoware</title>
@@ -31,29 +31,14 @@
     <description>Autoware - the world&#x27;s leading open-source software project for autonomous driving</description>
   </item>
   <item>
-    <title>microsoft / vscode-remote-release</title>
-    <link>https://github.com/microsoft/vscode-remote-release</link>
-    <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
-  </item>
-  <item>
     <title>redhat-openshift-ecosystem / certified-operators</title>
     <link>https://github.com/redhat-openshift-ecosystem/certified-operators</link>
     <description>Production catalog for Red Hat Certified Operator Bundles</description>
   </item>
   <item>
-    <title>nordquant / dbt-student-repo</title>
-    <link>https://github.com/nordquant/dbt-student-repo</link>
-    <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
-  </item>
-  <item>
-    <title>dotnet / dotnet-docker</title>
-    <link>https://github.com/dotnet/dotnet-docker</link>
-    <description>Official container images for .NET</description>
-  </item>
-  <item>
-    <title>MicrosoftDocs / windows-powershell-docs</title>
-    <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
-    <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
+    <title>microsoft / vscode-remote-release</title>
+    <link>https://github.com/microsoft/vscode-remote-release</link>
+    <description>Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code&#x27;s full feature set.</description>
   </item>
   <item>
     <title>oxsecurity / megalinter</title>
@@ -61,14 +46,29 @@
     <description>🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</description>
   </item>
   <item>
-    <title>jaywcjlove / reference</title>
-    <link>https://github.com/jaywcjlove/reference</link>
-    <description>面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。</description>
+    <title>nordquant / dbt-student-repo</title>
+    <link>https://github.com/nordquant/dbt-student-repo</link>
+    <description>Starter Repository for the Complete dbt Bootcamp Zero to Hero Course</description>
   </item>
   <item>
     <title>vulhub / vulhub</title>
     <link>https://github.com/vulhub/vulhub</link>
     <description>Pre-Built Vulnerable Environments Based on Docker-Compose</description>
+  </item>
+  <item>
+    <title>Gar-b-age / CookLikeHOC</title>
+    <link>https://github.com/Gar-b-age/CookLikeHOC</link>
+    <description>🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.</description>
+  </item>
+  <item>
+    <title>MicrosoftDocs / windows-powershell-docs</title>
+    <link>https://github.com/MicrosoftDocs/windows-powershell-docs</link>
+    <description>This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.</description>
+  </item>
+  <item>
+    <title>jaywcjlove / reference</title>
+    <link>https://github.com/jaywcjlove/reference</link>
+    <description>面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。</description>
   </item>
   <item>
     <title>render-examples / mysql</title>
@@ -81,9 +81,9 @@
     <description>Docker Official Image packaging for Python</description>
   </item>
   <item>
-    <title>openai / codex-universal</title>
-    <link>https://github.com/openai/codex-universal</link>
-    <description>Base docker image used in Codex environments</description>
+    <title>nodejs / docker-node</title>
+    <link>https://github.com/nodejs/docker-node</link>
+    <description>Official Docker Image for Node.js 🐳 🐢 🚀</description>
   </item>
 </channel>
 </rss>

@@ -2,17 +2,27 @@
   "title": "GitHub Php Languages Daily Trending",
   "description": "Daily Trending of Php Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
+    {
+      "title": "firefly-iii / firefly-iii",
+      "url": "https://github.com/firefly-iii/firefly-iii",
+      "description": "Firefly III: a personal finances manager",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 24638,
+      "forks": 2286,
+      "added_stars": "106 stars this week"
+    },
     {
       "title": "danielmiessler / SecLists",
       "url": "https://github.com/danielmiessler/SecLists",
       "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 73516,
-      "forks": 25115,
-      "added_stars": "193 stars this week"
+      "stars": 73544,
+      "forks": 25116,
+      "added_stars": "182 stars this week"
     },
     {
       "title": "ellite / Wallos",
@@ -20,29 +30,9 @@
       "description": "Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 8514,
-      "forks": 427,
-      "added_stars": "57 stars this week"
-    },
-    {
-      "title": "firefly-iii / firefly-iii",
-      "url": "https://github.com/firefly-iii/firefly-iii",
-      "description": "Firefly III: a personal finances manager",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 24630,
-      "forks": 2285,
-      "added_stars": "99 stars this week"
-    },
-    {
-      "title": "FreshRSS / FreshRSS",
-      "url": "https://github.com/FreshRSS/FreshRSS",
-      "description": "A free, self-hostable news aggregator…",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 16018,
-      "forks": 1281,
-      "added_stars": "80 stars this week"
+      "stars": 8526,
+      "forks": 428,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "Dolibarr / dolibarr",
@@ -50,9 +40,9 @@
       "description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 7612,
-      "forks": 3524,
-      "added_stars": "29 stars this week"
+      "stars": 7616,
+      "forks": 3528,
+      "added_stars": "27 stars this week"
     },
     {
       "title": "laravel / framework",
@@ -60,138 +50,28 @@
       "description": "Laravel is a web application framework with expressive, elegant syntax.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 34910,
-      "forks": 11982,
-      "added_stars": "22 stars this week"
+      "stars": 34914,
+      "forks": 11987,
+      "added_stars": "23 stars this week"
     },
     {
-      "title": "nextcloud / all-in-one",
-      "url": "https://github.com/nextcloud/all-in-one",
-      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "title": "FreshRSS / FreshRSS",
+      "url": "https://github.com/FreshRSS/FreshRSS",
+      "description": "A free, self-hostable news aggregator…",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10423,
-      "forks": 1101,
-      "added_stars": "42 stars this week"
+      "stars": 16036,
+      "forks": 1279,
+      "added_stars": "85 stars this week"
     },
     {
-      "title": "lizhipay / acg-faka",
-      "url": "https://github.com/lizhipay/acg-faka",
-      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+      "title": "openemr / openemr",
+      "url": "https://github.com/openemr/openemr",
+      "description": "The most popular open source electronic health records and medical practice management solution.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5649,
-      "forks": 1097,
-      "added_stars": "51 stars this week"
-    },
-    {
-      "title": "MISP / MISP",
-      "url": "https://github.com/MISP/MISP",
-      "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 6530,
-      "forks": 1634,
-      "added_stars": "18 stars this week"
-    },
-    {
-      "title": "digininja / DVWA",
-      "url": "https://github.com/digininja/DVWA",
-      "description": "Damn Vulnerable Web Application (DVWA)",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 13667,
-      "forks": 5107,
-      "added_stars": "44 stars this week"
-    },
-    {
-      "title": "krayin / laravel-crm",
-      "url": "https://github.com/krayin/laravel-crm",
-      "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 23871,
-      "forks": 1625,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "librenms / librenms",
-      "url": "https://github.com/librenms/librenms",
-      "description": "Community-based GPL-licensed network monitoring system",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 4886,
-      "forks": 2798,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "glpi-project / glpi",
-      "url": "https://github.com/glpi-project/glpi",
-      "description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 6345,
-      "forks": 1809,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "invoiceninja / invoiceninja",
-      "url": "https://github.com/invoiceninja/invoiceninja",
-      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10077,
-      "forks": 2704,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "coollabsio / coolify",
-      "url": "https://github.com/coollabsio/coolify",
-      "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 61794,
-      "forks": 5458,
-      "added_stars": "284 stars this week"
-    },
-    {
-      "title": "openmediavault / openmediavault",
-      "url": "https://github.com/openmediavault/openmediavault",
-      "description": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 6956,
-      "forks": 613,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "woocommerce / woocommerce",
-      "url": "https://github.com/woocommerce/woocommerce",
-      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 10509,
-      "forks": 10679,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "filamentphp / filament",
-      "url": "https://github.com/filamentphp/filament",
-      "description": "A powerful open-source UI framework for Laravel • Build and ship apps & admin panels fast with Livewire",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 32059,
-      "forks": 4207,
-      "added_stars": "63 stars this week"
-    },
-    {
-      "title": "espocrm / espocrm",
-      "url": "https://github.com/espocrm/espocrm",
-      "description": "EspoCRM – Open Source CRM Application",
-      "language": "PHP",
-      "languageColor": "#4F5D95",
-      "stars": 3354,
-      "forks": 971,
+      "stars": 5441,
+      "forks": 3038,
       "added_stars": "24 stars this week"
     },
     {
@@ -200,19 +80,49 @@
       "description": "Mautic: Open Source Marketing Automation Software.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 10506,
-      "forks": 3443,
-      "added_stars": "55 stars this week"
+      "stars": 10513,
+      "forks": 3444,
+      "added_stars": "48 stars this week"
     },
     {
-      "title": "openemr / openemr",
-      "url": "https://github.com/openemr/openemr",
-      "description": "The most popular open source electronic health records and medical practice management solution.",
+      "title": "krayin / laravel-crm",
+      "url": "https://github.com/krayin/laravel-crm",
+      "description": "Krayin CRM is Free & Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 5436,
-      "forks": 3036,
-      "added_stars": "21 stars this week"
+      "stars": 23876,
+      "forks": 1627,
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "librenms / librenms",
+      "url": "https://github.com/librenms/librenms",
+      "description": "Community-based GPL-licensed network monitoring system",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 4889,
+      "forks": 2799,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "lizhipay / acg-faka",
+      "url": "https://github.com/lizhipay/acg-faka",
+      "description": "个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 5657,
+      "forks": 1097,
+      "added_stars": "50 stars this week"
+    },
+    {
+      "title": "pixelfed / pixelfed",
+      "url": "https://github.com/pixelfed/pixelfed",
+      "description": "Photo Sharing. For Everyone.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 7100,
+      "forks": 880,
+      "added_stars": "10 stars this week"
     },
     {
       "title": "nextcloud / server",
@@ -220,9 +130,89 @@
       "description": "☁️ Nextcloud server, a safe home for all your data",
       "language": "PHP",
       "languageColor": "#4F5D95",
-      "stars": 36807,
-      "forks": 5185,
-      "added_stars": "77 stars this week"
+      "stars": 36813,
+      "forks": 5190,
+      "added_stars": "68 stars this week"
+    },
+    {
+      "title": "woocommerce / woocommerce",
+      "url": "https://github.com/woocommerce/woocommerce",
+      "description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10513,
+      "forks": 10677,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "digininja / DVWA",
+      "url": "https://github.com/digininja/DVWA",
+      "description": "Damn Vulnerable Web Application (DVWA)",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 13673,
+      "forks": 5110,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "openmediavault / openmediavault",
+      "url": "https://github.com/openmediavault/openmediavault",
+      "description": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is primarily designed to be used in home environments or small home offices.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 6958,
+      "forks": 612,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "espocrm / espocrm",
+      "url": "https://github.com/espocrm/espocrm",
+      "description": "EspoCRM – Open Source CRM Application",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 3359,
+      "forks": 971,
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "invoiceninja / invoiceninja",
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "description": "A source-available invoice, quote, project and time-tracking app built with Laravel",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10081,
+      "forks": 2706,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "nextcloud / all-in-one",
+      "url": "https://github.com/nextcloud/all-in-one",
+      "description": "📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 10427,
+      "forks": 1102,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "larastan / larastan",
+      "url": "https://github.com/larastan/larastan",
+      "description": "⚗️ Adds code analysis to Laravel improving developer productivity and code quality.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 6506,
+      "forks": 505,
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "modelcontextprotocol / php-sdk",
+      "url": "https://github.com/modelcontextprotocol/php-sdk",
+      "description": "The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.",
+      "language": "PHP",
+      "languageColor": "#4F5D95",
+      "stars": 1609,
+      "forks": 173,
+      "added_stars": "6 stars this week"
     }
   ]
 }

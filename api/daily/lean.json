@@ -2,17 +2,17 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "leanprover-community / physlib",
+      "url": "https://github.com/leanprover-community/physlib",
+      "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1270,
-      "forks": 482,
-      "added_stars": "5 stars today"
+      "stars": 747,
+      "forks": 187,
+      "added_stars": "0 stars today"
     },
     {
       "title": "leanprover / lean4",
@@ -20,9 +20,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9187,
-      "forks": 981,
-      "added_stars": "22 stars today"
+      "stars": 9196,
+      "forks": 980,
+      "added_stars": "13 stars today"
     },
     {
       "title": "teorth / analysis",
@@ -30,9 +30,19 @@
       "description": "A Lean companion to Analysis I",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1910,
+      "stars": 1911,
       "forks": 263,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 703,
+      "forks": 198,
+      "added_stars": "1 star today"
     }
   ]
 }

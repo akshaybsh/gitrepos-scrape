@@ -2,127 +2,17 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
-    {
-      "title": "dani-garcia / vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 67595,
-      "forks": 3213,
-      "added_stars": "115 stars today"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 93988,
-      "forks": 12438,
-      "added_stars": "383 stars today"
-    },
     {
       "title": "alphaXiv / OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2762,
-      "forks": 184,
-      "added_stars": "568 stars today"
-    },
-    {
-      "title": "RyanCodrai / turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17170,
-      "forks": 1470,
-      "added_stars": "82 stars today"
-    },
-    {
-      "title": "zeroclaw-labs / zeroclaw",
-      "url": "https://github.com/zeroclaw-labs/zeroclaw",
-      "description": "Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32841,
-      "forks": 4942,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "raine / workmux",
-      "url": "https://github.com/raine/workmux",
-      "description": "git worktrees + tmux windows for zero-friction parallel dev",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2613,
-      "forks": 319,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "CluvexStudio / Aether",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1907,
-      "forks": 137,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1954,
-      "forks": 186,
-      "added_stars": "105 stars today"
-    },
-    {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7718,
-      "forks": 273,
-      "added_stars": "182 stars today"
-    },
-    {
-      "title": "gfx-rs / wgpu",
-      "url": "https://github.com/gfx-rs/wgpu",
-      "description": "A cross-platform, safe, pure-Rust graphics API.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18070,
-      "forks": 1449,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 12349,
-      "forks": 1066,
-      "added_stars": "1,018 stars today"
-    },
-    {
-      "title": "martin-olivier / airgorah",
-      "url": "https://github.com/martin-olivier/airgorah",
-      "description": "A WiFi security auditing software",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3499,
-      "forks": 569,
-      "added_stars": "59 stars today"
+      "stars": 3650,
+      "forks": 237,
+      "added_stars": "531 stars today"
     },
     {
       "title": "pacifio / atlas",
@@ -130,79 +20,29 @@
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4440,
-      "forks": 274,
-      "added_stars": "1,091 stars today"
+      "stars": 4737,
+      "forks": 281,
+      "added_stars": "91 stars today"
     },
     {
-      "title": "rust-lang / rust-clippy",
-      "url": "https://github.com/rust-lang/rust-clippy",
-      "description": "A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/",
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13534,
-      "forks": 2155,
-      "added_stars": "3 stars today"
+      "stars": 13198,
+      "forks": 1118,
+      "added_stars": "258 stars today"
     },
     {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 118917,
-      "forks": 15576,
-      "added_stars": "299 stars today"
-    },
-    {
-      "title": "waditu / czsc",
-      "url": "https://github.com/waditu/czsc",
-      "description": "缠中说禅技术分析工具；缠论；股票；期货；Quant；量化交易",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 6238,
-      "forks": 1739,
-      "added_stars": "31 stars today"
-    },
-    {
-      "title": "louis-e / arnis",
-      "url": "https://github.com/louis-e/arnis",
-      "description": "Generate any location from the real world in Minecraft with a high level of detail.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17904,
-      "forks": 1502,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "reacherhq / check-if-email-exists",
-      "url": "https://github.com/reacherhq/check-if-email-exists",
-      "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 9885,
-      "forks": 708,
-      "added_stars": "50 stars today"
-    },
-    {
-      "title": "AlexsJones / llmfit",
-      "url": "https://github.com/AlexsJones/llmfit",
-      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36591,
-      "forks": 2313,
-      "added_stars": "125 stars today"
-    },
-    {
-      "title": "ArthurBrussee / brush",
-      "url": "https://github.com/ArthurBrussee/brush",
-      "description": "3D Reconstruction for all",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 5089,
-      "forks": 319,
-      "added_stars": "4 stars today"
+      "stars": 67734,
+      "forks": 3220,
+      "added_stars": "206 stars today"
     },
     {
       "title": "rustfs / rustfs",
@@ -210,29 +50,129 @@
       "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32192,
-      "forks": 1443,
-      "added_stars": "79 stars today"
+      "stars": 32372,
+      "forks": 1447,
+      "added_stars": "121 stars today"
     },
     {
-      "title": "transact-rs / sqlx",
-      "url": "https://github.com/transact-rs/sqlx",
-      "description": "🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.",
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 17495,
-      "forks": 1694,
-      "added_stars": "8 stars today"
+      "stars": 80635,
+      "forks": 5111,
+      "added_stars": "190 stars today"
     },
     {
-      "title": "ruffle-rs / ruffle",
-      "url": "https://github.com/ruffle-rs/ruffle",
-      "description": "A Flash Player emulator written in Rust",
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18559,
-      "forks": 1095,
+      "stars": 94210,
+      "forks": 12462,
+      "added_stars": "421 stars today"
+    },
+    {
+      "title": "oxc-project / oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of high-performance JavaScript tools.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22804,
+      "forks": 1300,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 123745,
+      "forks": 19054,
+      "added_stars": "172 stars today"
+    },
+    {
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 7866,
+      "forks": 272,
+      "added_stars": "128 stars today"
+    },
+    {
+      "title": "RightNow-AI / openfang",
+      "url": "https://github.com/RightNow-AI/openfang",
+      "description": "Open-source Agent Operating System",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 18238,
+      "forks": 2291,
       "added_stars": "7 stars today"
+    },
+    {
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36805,
+      "forks": 2625,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "git-ai-project / git-ai",
+      "url": "https://github.com/git-ai-project/git-ai",
+      "description": "A Git extension for tracking the AI-generated code in your repos",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2784,
+      "forks": 294,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "biomejs / biome",
+      "url": "https://github.com/biomejs/biome",
+      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 25848,
+      "forks": 1233,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 31731,
+      "forks": 2882,
+      "added_stars": "83 stars today"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 124549,
+      "forks": 19255,
+      "added_stars": "314 stars today"
+    },
+    {
+      "title": "wealthfolio / wealthfolio",
+      "url": "https://github.com/wealthfolio/wealthfolio",
+      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9005,
+      "forks": 705,
+      "added_stars": "25 stars today"
     }
   ]
 }

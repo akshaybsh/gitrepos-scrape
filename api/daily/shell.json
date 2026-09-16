@@ -2,17 +2,17 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
     {
-      "title": "ophub / amlogic-s9xxx-armbian",
-      "url": "https://github.com/ophub/amlogic-s9xxx-armbian",
-      "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9793,
-      "forks": 3140,
-      "added_stars": "5 stars today"
+      "stars": 67445,
+      "forks": 2372,
+      "added_stars": "214 stars today"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,19 +20,19 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5992,
-      "forks": 1840,
-      "added_stars": "247 stars today"
+      "stars": 6087,
+      "forks": 1887,
+      "added_stars": "141 stars today"
     },
     {
-      "title": "tw93 / Mole",
-      "url": "https://github.com/tw93/Mole",
-      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
+      "title": "youngyangyang04 / leetcode-master",
+      "url": "https://github.com/youngyangyang04/leetcode-master",
+      "description": "《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 67200,
-      "forks": 2358,
-      "added_stars": "133 stars today"
+      "stars": 62496,
+      "forks": 12303,
+      "added_stars": "20 stars today"
     },
     {
       "title": "Donchitos / Claude-Code-Game-Studios",
@@ -40,69 +40,39 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 25098,
-      "forks": 3583,
-      "added_stars": "53 stars today"
+      "stars": 25133,
+      "forks": 3588,
+      "added_stars": "36 stars today"
     },
     {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9288,
-      "forks": 299,
-      "added_stars": "28 stars today"
+      "stars": 287305,
+      "forks": 25690,
+      "added_stars": "522 stars today"
     },
     {
-      "title": "OthmanAdi / planning-with-files",
-      "url": "https://github.com/OthmanAdi/planning-with-files",
-      "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
+      "title": "acmesh-official / acme.sh",
+      "url": "https://github.com/acmesh-official/acme.sh",
+      "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26898,
-      "forks": 2237,
-      "added_stars": "45 stars today"
+      "stars": 47660,
+      "forks": 5672,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "jqssun / android-titanium-browser",
-      "url": "https://github.com/jqssun/android-titanium-browser",
-      "description": "Secure open-source Android browser with support for extensions",
+      "title": "nvm-sh / nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2410,
-      "forks": 105,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "armbian / build",
-      "url": "https://github.com/armbian/build",
-      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 5416,
-      "forks": 3146,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "RROrg / rr",
-      "url": "https://github.com/RROrg/rr",
-      "description": "Redpill Recovery (arpl-i18n)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 8605,
-      "forks": 1370,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "BtbN / FFmpeg-Builds",
-      "url": "https://github.com/BtbN/FFmpeg-Builds",
-      "description": "",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 11668,
-      "forks": 1530,
-      "added_stars": "6 stars today"
+      "stars": 95088,
+      "forks": 10449,
+      "added_stars": "10 stars today"
     },
     {
       "title": "FlyBrainLab / FlyBrainLab",
@@ -110,59 +80,79 @@
       "description": "An interactive computing platform for studying the function of executable circuits constructed from fly brain data.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 82,
+      "stars": 91,
       "forks": 12,
-      "added_stars": "7 stars today"
+      "added_stars": "8 stars today"
     },
     {
-      "title": "InfinityLoop1308 / PipePipe",
-      "url": "https://github.com/InfinityLoop1308/PipePipe",
-      "description": "An open-source Android app to let you browse YouTube and other services freely.",
+      "title": "a2aproject / A2A",
+      "url": "https://github.com/a2aproject/A2A",
+      "description": "Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6087,
-      "forks": 209,
-      "added_stars": "10 stars today"
+      "stars": 25792,
+      "forks": 2610,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "StressOzz / Zapret-Manager",
-      "url": "https://github.com/StressOzz/Zapret-Manager",
-      "description": "Универсальный менеджер для обхода блокировок на OpenWrt https://t.me/stressozz_manager",
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 1821,
-      "forks": 77,
+      "stars": 16969,
+      "forks": 4382,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 263059,
+      "forks": 22188,
+      "added_stars": "820 stars today"
+    },
+    {
+      "title": "kodekloudhub / certified-kubernetes-administrator-course",
+      "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+      "description": "Certified Kubernetes Administrator - CKA Course",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 10824,
+      "forks": 9631,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "czlonkowski / n8n-skills",
+      "url": "https://github.com/czlonkowski/n8n-skills",
+      "description": "n8n skillset for Claude Code to build flawless n8n workflows",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 6239,
+      "forks": 1025,
       "added_stars": "3 stars today"
     },
     {
-      "title": "void-linux / void-packages",
-      "url": "https://github.com/void-linux/void-packages",
-      "description": "The Void source packages collection",
+      "title": "armbian / build",
+      "url": "https://github.com/armbian/build",
+      "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 3429,
-      "forks": 2794,
-      "added_stars": "6 stars today"
+      "stars": 5418,
+      "forks": 3149,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "title": "MichaIng / DietPi",
+      "url": "https://github.com/MichaIng/DietPi",
+      "description": "Lightweight justice for your single-board computer!",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29595,
-      "forks": 2885,
-      "added_stars": "20 stars today"
-    },
-    {
-      "title": "CachyOS / linux-cachyos",
-      "url": "https://github.com/CachyOS/linux-cachyos",
-      "description": "Archlinux Kernel based on different schedulers and some other performance improvements.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 4458,
-      "forks": 160,
-      "added_stars": "14 stars today"
+      "stars": 6270,
+      "forks": 566,
+      "added_stars": "3 stars today"
     }
   ]
 }

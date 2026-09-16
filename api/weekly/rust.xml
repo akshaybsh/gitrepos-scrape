@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>max-sixty / worktrunk</title>
     <link>https://github.com/max-sixty/worktrunk</link>
@@ -16,14 +16,14 @@
     <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
   </item>
   <item>
-    <title>HakanSeven12 / OpenCADStudio</title>
-    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
-    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
-  </item>
-  <item>
     <title>tonhowtf / omniget</title>
     <link>https://github.com/tonhowtf/omniget</link>
     <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
+  </item>
+  <item>
+    <title>HakanSeven12 / OpenCADStudio</title>
+    <link>https://github.com/HakanSeven12/OpenCADStudio</link>
+    <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
     <title>AlexsJones / llmfit</title>
@@ -31,14 +31,14 @@
     <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
   </item>
   <item>
+    <title>Automattic / harper</title>
+    <link>https://github.com/Automattic/harper</link>
+    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+  </item>
+  <item>
     <title>clash-verge-rev / clash-verge-rev</title>
     <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
     <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
-  </item>
-  <item>
-    <title>googleworkspace / cli</title>
-    <link>https://github.com/googleworkspace/cli</link>
-    <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
   </item>
   <item>
     <title>reacherhq / check-if-email-exists</title>
@@ -46,9 +46,14 @@
     <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
   </item>
   <item>
-    <title>Automattic / harper</title>
-    <link>https://github.com/Automattic/harper</link>
-    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+    <title>google / magika</title>
+    <link>https://github.com/google/magika</link>
+    <description>Fast and accurate AI powered file content types detection</description>
+  </item>
+  <item>
+    <title>googleworkspace / cli</title>
+    <link>https://github.com/googleworkspace/cli</link>
+    <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
   </item>
   <item>
     <title>rustfs / rustfs</title>
@@ -56,9 +61,9 @@
     <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
-    <title>raine / workmux</title>
-    <link>https://github.com/raine/workmux</link>
-    <description>git worktrees + tmux windows for zero-friction parallel dev</description>
+    <title>ai-dynamo / dynamo</title>
+    <link>https://github.com/ai-dynamo/dynamo</link>
+    <description>A Datacenter Scale Distributed Inference Serving Framework</description>
   </item>
   <item>
     <title>lbjlaq / Antigravity-Manager</title>
@@ -66,19 +71,9 @@
     <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
   </item>
   <item>
-    <title>lencx / ChatGPT</title>
-    <link>https://github.com/lencx/ChatGPT</link>
-    <description>❄️ ChatGPT Desktop Application (Mac, Windows and Linux)</description>
-  </item>
-  <item>
-    <title>mixelpixx / Konnect</title>
-    <link>https://github.com/mixelpixx/Konnect</link>
-    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
-  </item>
-  <item>
-    <title>CluvexStudio / Aether</title>
-    <link>https://github.com/CluvexStudio/Aether</link>
-    <description>A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.</description>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
     <title>t8y2 / dbx</title>
@@ -91,19 +86,14 @@
     <description>Turn your coding agents into research agents</description>
   </item>
   <item>
+    <title>pacifio / atlas</title>
+    <link>https://github.com/pacifio/atlas</link>
+    <description>Source control for agents. Use multiple coding agents, track their changes and query them in one place</description>
+  </item>
+  <item>
     <title>arcboxlabs / arcbox</title>
     <link>https://github.com/arcboxlabs/arcbox</link>
     <description>Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.</description>
-  </item>
-  <item>
-    <title>nklmilojevic / sofka</title>
-    <link>https://github.com/nklmilojevic/sofka</link>
-    <description>A Kubernetes TUI, reimagined in Rust - built on kube-rs and ratatui, async-first from the ground up.</description>
-  </item>
-  <item>
-    <title>feigeCode / navop</title>
-    <link>https://github.com/feigeCode/navop</link>
-    <description>A native, all-in-one workspace for databases, SSH, SFTP, terminals, remote desktop, monitoring, and AI.</description>
   </item>
 </channel>
 </rss>

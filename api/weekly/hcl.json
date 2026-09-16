@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -15,23 +15,23 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5004,
-      "forks": 4408,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3262,
-      "forks": 4627,
+      "forks": 4628,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5005,
+      "forks": 4408,
       "added_stars": "3 stars this week"
     },
     {
@@ -41,8 +41,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 585,
-      "forks": 3809,
-      "added_stars": "1 star this week"
+      "forks": 3808,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-lambda",
@@ -73,26 +73,6 @@
       "stars": 963,
       "forks": 593,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 503,
-      "forks": 1279,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
-      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
-      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 2098,
-      "forks": 1263,
-      "added_stars": "7 stars this week"
     }
   ]
 }

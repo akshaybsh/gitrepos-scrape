@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
     {
       "title": "openai / symphony",
@@ -10,18 +10,18 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27216,
-      "forks": 2814,
-      "added_stars": "26 stars today"
+      "stars": 27229,
+      "forks": 2819,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26638,
-      "forks": 3668,
+      "stars": 7633,
+      "forks": 462,
       "added_stars": "2 stars today"
     },
     {
@@ -30,49 +30,19 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4688,
-      "forks": 3173,
-      "added_stars": "6 stars today"
+      "stars": 4692,
+      "forks": 3174,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "title": "OpenFn / lightning",
+      "url": "https://github.com/OpenFn/lightning",
+      "description": "Lightning ⚡️ is latest version of the OpenFn platform, a DPG and DPI building block that governments use to manage complex service/workflow automation and data integration projects.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8989,
-      "forks": 1004,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5313,
-      "forks": 166,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "icoretech / codex-pooler",
-      "url": "https://github.com/icoretech/codex-pooler",
-      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 208,
-      "forks": 22,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29080,
-      "forks": 1863,
-      "added_stars": "13 stars today"
+      "stars": 297,
+      "forks": 86,
+      "added_stars": "0 stars today"
     },
     {
       "title": "firezone / firezone",
@@ -80,19 +50,69 @@
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9093,
+      "stars": 9095,
       "forks": 456,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8991,
+      "forks": 1005,
       "added_stars": "2 stars today"
     },
     {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7632,
-      "forks": 463,
+      "stars": 23156,
+      "forks": 3110,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "zoedsoupe / anubis-mcp",
+      "url": "https://github.com/zoedsoupe/anubis-mcp",
+      "description": "Elixir Model Context Protocol (MCP) SDK (hermes-mcp fork)",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 170,
+      "forks": 72,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 26644,
+      "forks": 3668,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 209,
+      "forks": 22,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5325,
+      "forks": 166,
+      "added_stars": "6 stars today"
     }
   ]
 }

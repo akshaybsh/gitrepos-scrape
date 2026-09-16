@@ -4,36 +4,16 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>olimorris / codecompanion.nvim</title>
     <link>https://github.com/olimorris/codecompanion.nvim</link>
     <description>✨ AI Coding, Vim Style</description>
   </item>
   <item>
-    <title>neovim / nvim-lspconfig</title>
-    <link>https://github.com/neovim/nvim-lspconfig</link>
-    <description>Quickstart configs for Nvim LSP</description>
-  </item>
-  <item>
-    <title>amzxyz / rime-wanxiang</title>
-    <link>https://github.com/amzxyz/rime-wanxiang</link>
-    <description>「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。</description>
-  </item>
-  <item>
-    <title>PathOfBuildingCommunity / PathOfBuilding-PoE2</title>
-    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2</link>
-    <description></description>
-  </item>
-  <item>
-    <title>LazyVim / LazyVim</title>
-    <link>https://github.com/LazyVim/LazyVim</link>
-    <description>Neovim config for the lazy</description>
-  </item>
-  <item>
-    <title>nvim-mini / mini.nvim</title>
-    <link>https://github.com/nvim-mini/mini.nvim</link>
-    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
+    <title>MeanderingProgrammer / render-markdown.nvim</title>
+    <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
+    <description>Improve viewing Markdown in Neovim</description>
   </item>
   <item>
     <title>saghen / blink.cmp</title>
@@ -41,9 +21,9 @@
     <description>Performant, batteries-included completion plugin for Neovim</description>
   </item>
   <item>
-    <title>nvim-neo-tree / neo-tree.nvim</title>
-    <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
-    <description>Neovim plugin to manage the file system and other tree like structures.</description>
+    <title>nvim-mini / mini.nvim</title>
+    <link>https://github.com/nvim-mini/mini.nvim</link>
+    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
   </item>
   <item>
     <title>folke / snacks.nvim</title>
@@ -51,14 +31,29 @@
     <description>🍿 A collection of QoL plugins for Neovim</description>
   </item>
   <item>
+    <title>lewis6991 / gitsigns.nvim</title>
+    <link>https://github.com/lewis6991/gitsigns.nvim</link>
+    <description>Git integration for buffers</description>
+  </item>
+  <item>
+    <title>neovim / nvim-lspconfig</title>
+    <link>https://github.com/neovim/nvim-lspconfig</link>
+    <description>Quickstart configs for Nvim LSP</description>
+  </item>
+  <item>
     <title>Kong / kong</title>
     <link>https://github.com/Kong/kong</link>
     <description>🦍 The API and AI Gateway</description>
   </item>
   <item>
-    <title>folke / lazy.nvim</title>
-    <link>https://github.com/folke/lazy.nvim</link>
-    <description>💤 A modern plugin manager for Neovim</description>
+    <title>LazyVim / LazyVim</title>
+    <link>https://github.com/LazyVim/LazyVim</link>
+    <description>Neovim config for the lazy</description>
+  </item>
+  <item>
+    <title>PathOfBuildingCommunity / PathOfBuilding-PoE2</title>
+    <link>https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2</link>
+    <description></description>
   </item>
   <item>
     <title>LandSandBoat / server</title>
@@ -66,9 +61,14 @@
     <description>⛵ LandSandBoat - a server emulator for Final Fantasy XI</description>
   </item>
   <item>
-    <title>lewis6991 / gitsigns.nvim</title>
-    <link>https://github.com/lewis6991/gitsigns.nvim</link>
-    <description>Git integration for buffers</description>
+    <title>folke / lazy.nvim</title>
+    <link>https://github.com/folke/lazy.nvim</link>
+    <description>💤 A modern plugin manager for Neovim</description>
+  </item>
+  <item>
+    <title>AndyHazz / bookshelf.koplugin</title>
+    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
+    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
   </item>
   <item>
     <title>Footagesus / WindUI</title>
@@ -76,29 +76,24 @@
     <description>WindUI is a open source UI library for Roblox Script Hubs</description>
   </item>
   <item>
-    <title>mason-org / mason.nvim</title>
-    <link>https://github.com/mason-org/mason.nvim</link>
-    <description>Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</description>
+    <title>nvim-neo-tree / neo-tree.nvim</title>
+    <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
+    <description>Neovim plugin to manage the file system and other tree like structures.</description>
   </item>
   <item>
-    <title>nvim-telescope / telescope.nvim</title>
-    <link>https://github.com/nvim-telescope/telescope.nvim</link>
-    <description>Find, Filter, Preview, Pick. All lua, all the time.</description>
+    <title>ntop / ntopng</title>
+    <link>https://github.com/ntop/ntopng</link>
+    <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
+  </item>
+  <item>
+    <title>xmake-io / xmake</title>
+    <link>https://github.com/xmake-io/xmake</link>
+    <description>🔥 A cross-platform build utility based on Lua</description>
   </item>
   <item>
     <title>nvim-lualine / lualine.nvim</title>
     <link>https://github.com/nvim-lualine/lualine.nvim</link>
     <description>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</description>
-  </item>
-  <item>
-    <title>mason-org / mason-lspconfig.nvim</title>
-    <link>https://github.com/mason-org/mason-lspconfig.nvim</link>
-    <description>Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</description>
-  </item>
-  <item>
-    <title>bol-van / zapret-win-bundle</title>
-    <link>https://github.com/bol-van/zapret-win-bundle</link>
-    <description>zapret and blockcheck binary bundle for windows</description>
   </item>
 </channel>
 </rss>

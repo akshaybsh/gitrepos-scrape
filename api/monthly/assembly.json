@@ -2,18 +2,8 @@
   "title": "GitHub Assembly Languages Daily Trending",
   "description": "Daily Trending of Assembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
   "items": [
-    {
-      "title": "vxunderground / MalwareSourceCode",
-      "url": "https://github.com/vxunderground/MalwareSourceCode",
-      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 18726,
-      "forks": 2101,
-      "added_stars": "126 stars this month"
-    },
     {
       "title": "apache / arrow-go",
       "url": "https://github.com/apache/arrow-go",
@@ -22,7 +12,17 @@
       "languageColor": "#6E4C13",
       "stars": 405,
       "forks": 146,
-      "added_stars": "9 stars this month"
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "vxunderground / MalwareSourceCode",
+      "url": "https://github.com/vxunderground/MalwareSourceCode",
+      "description": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 18730,
+      "forks": 2100,
+      "added_stars": "129 stars this month"
     },
     {
       "title": "openhwgroup / cva6",
@@ -30,19 +30,9 @@
       "description": "The CORE-V CVA6 is a highly configurable, 6-stage RISC-V core for both application and embedded applications. Application class configurations are capable of booting Linux.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3112,
-      "forks": 1022,
+      "stars": 3114,
+      "forks": 1023,
       "added_stars": "48 stars this month"
-    },
-    {
-      "title": "aws / aws-lc",
-      "url": "https://github.com/aws/aws-lc",
-      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 830,
-      "forks": 216,
-      "added_stars": "16 stars this month"
     },
     {
       "title": "ROCm / rocm-libraries",
@@ -50,19 +40,19 @@
       "description": "super repo for rocm libraries",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 426,
-      "forks": 400,
-      "added_stars": "26 stars this month"
+      "stars": 428,
+      "forks": 401,
+      "added_stars": "27 stars this month"
     },
     {
-      "title": "ebitengine / purego",
-      "url": "https://github.com/ebitengine/purego",
-      "description": "A library for calling C functions from Go without Cgo",
+      "title": "aws / aws-lc",
+      "url": "https://github.com/aws/aws-lc",
+      "description": "AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3948,
-      "forks": 131,
-      "added_stars": "172 stars this month"
+      "stars": 833,
+      "forks": 216,
+      "added_stars": "19 stars this month"
     },
     {
       "title": "riscv / riscv-arch-test",
@@ -72,7 +62,17 @@
       "languageColor": "#6E4C13",
       "stars": 786,
       "forks": 363,
-      "added_stars": "20 stars this month"
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "ebitengine / purego",
+      "url": "https://github.com/ebitengine/purego",
+      "description": "A library for calling C functions from Go without Cgo",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 3953,
+      "forks": 131,
+      "added_stars": "175 stars this month"
     },
     {
       "title": "cirosantilli / x86-bare-metal-examples",
@@ -80,39 +80,9 @@
       "description": "Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QE…",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 5361,
-      "forks": 430,
-      "added_stars": "34 stars this month"
-    },
-    {
-      "title": "pret / pokecrystal",
-      "url": "https://github.com/pret/pokecrystal",
-      "description": "Disassembly of Pokémon Crystal",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 2499,
-      "forks": 979,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "livekit / rust-sdks",
-      "url": "https://github.com/livekit/rust-sdks",
-      "description": "LiveKit realtime and server SDKs for Rust",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 487,
-      "forks": 237,
-      "added_stars": "12 stars this month"
-    },
-    {
-      "title": "Rangi42 / polishedcrystal",
-      "url": "https://github.com/Rangi42/polishedcrystal",
-      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
-      "language": "Assembly",
-      "languageColor": "#6E4C13",
-      "stars": 1642,
-      "forks": 343,
-      "added_stars": "29 stars this month"
+      "stars": 5364,
+      "forks": 431,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "BLAKE3-team / BLAKE3",
@@ -122,17 +92,37 @@
       "languageColor": "#6E4C13",
       "stars": 6437,
       "forks": 481,
-      "added_stars": "75 stars this month"
+      "added_stars": "74 stars this month"
     },
     {
-      "title": "corkami / pics",
-      "url": "https://github.com/corkami/pics",
-      "description": "File formats dissections and more...",
+      "title": "livekit / rust-sdks",
+      "url": "https://github.com/livekit/rust-sdks",
+      "description": "LiveKit realtime and server SDKs for Rust",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 11485,
-      "forks": 792,
-      "added_stars": "21 stars this month"
+      "stars": 488,
+      "forks": 236,
+      "added_stars": "12 stars this month"
+    },
+    {
+      "title": "Rangi42 / polishedcrystal",
+      "url": "https://github.com/Rangi42/polishedcrystal",
+      "description": "An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 1642,
+      "forks": 342,
+      "added_stars": "27 stars this month"
+    },
+    {
+      "title": "pret / pokecrystal",
+      "url": "https://github.com/pret/pokecrystal",
+      "description": "Disassembly of Pokémon Crystal",
+      "language": "Assembly",
+      "languageColor": "#6E4C13",
+      "stars": 2500,
+      "forks": 982,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "bitdump / BLHeli",
@@ -140,9 +130,9 @@
       "description": "BLHeli for brushless ESC firmware",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 2230,
-      "forks": 1151,
-      "added_stars": "11 stars this month"
+      "stars": 2231,
+      "forks": 1152,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "cemu-project / cemu_graphic_packs",
@@ -160,9 +150,9 @@
       "description": "This is a Pokémon Rom Hack made by TheSmithPlays with the intended purpose of fixing Pokémon Yellow into a more polished experience while staying true to the vision of Generation 1's Yellow.",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 299,
+      "stars": 300,
       "forks": 60,
-      "added_stars": "11 stars this month"
+      "added_stars": "12 stars this month"
     },
     {
       "title": "virtualagc / virtualagc",
@@ -170,9 +160,9 @@
       "description": "Virtual Apollo Guidance Computer (AGC) software",
       "language": "Assembly",
       "languageColor": "#6E4C13",
-      "stars": 3230,
+      "stars": 3231,
       "forks": 406,
-      "added_stars": "25 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "cRz-Shadows / Pokemon_Crystal_Legacy",
@@ -191,7 +181,7 @@
       "language": "Assembly",
       "languageColor": "#6E4C13",
       "stars": 1141,
-      "forks": 224,
+      "forks": 225,
       "added_stars": "35 stars this month"
     }
   ]

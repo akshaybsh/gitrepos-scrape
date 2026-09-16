@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
   "items": [
     {
       "title": "omacom / omarchy",
@@ -10,9 +10,9 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 41140,
-      "forks": 4632,
-      "added_stars": "16,712 stars this month"
+      "stars": 41354,
+      "forks": 4674,
+      "added_stars": "16,763 stars this month"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,9 +20,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5992,
-      "forks": 1841,
-      "added_stars": "2,369 stars this month"
+      "stars": 6087,
+      "forks": 1888,
+      "added_stars": "2,497 stars this month"
     },
     {
       "title": "community-scripts / ProxmoxVE",
@@ -30,9 +30,9 @@
       "description": "Proxmox VE Helper-Scripts (Community Edition)",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 29595,
-      "forks": 2885,
-      "added_stars": "391 stars this month"
+      "stars": 29600,
+      "forks": 2887,
+      "added_stars": "390 stars this month"
     },
     {
       "title": "llm-d / llm-d",
@@ -40,19 +40,9 @@
       "description": "Achieve state of the art inference performance with modern accelerators on Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 4537,
-      "forks": 768,
-      "added_stars": "515 stars this month"
-    },
-    {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 262298,
-      "forks": 22134,
-      "added_stars": "45,790 stars this month"
+      "stars": 4550,
+      "forks": 770,
+      "added_stars": "525 stars this month"
     },
     {
       "title": "SimoneAvogadro / android-reverse-engineering-skill",
@@ -60,9 +50,19 @@
       "description": "Claude Code skill to support Android app's reverse engineering",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7820,
-      "forks": 885,
-      "added_stars": "1,049 stars this month"
+      "stars": 7828,
+      "forks": 886,
+      "added_stars": "1,044 stars this month"
+    },
+    {
+      "title": "mattpocock / skills",
+      "url": "https://github.com/mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 263063,
+      "forks": 22188,
+      "added_stars": "45,643 stars this month"
     },
     {
       "title": "quickemu-project / quickemu",
@@ -70,9 +70,9 @@
       "description": "Quickly create and run optimised Windows, macOS and Linux virtual machines",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 16178,
+      "stars": 16181,
       "forks": 735,
-      "added_stars": "553 stars this month"
+      "added_stars": "556 stars this month"
     },
     {
       "title": "nvm-sh / nvm",
@@ -80,9 +80,9 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 95083,
-      "forks": 10443,
-      "added_stars": "647 stars this month"
+      "stars": 95087,
+      "forks": 10449,
+      "added_stars": "643 stars this month"
     },
     {
       "title": "armbian / build",
@@ -90,9 +90,9 @@
       "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configuration, U-Boot handling, and board-specific tweaks for various ARM and ARM64 single-board computers.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 5416,
-      "forks": 3146,
-      "added_stars": "74 stars this month"
+      "stars": 5418,
+      "forks": 3149,
+      "added_stars": "77 stars this month"
     },
     {
       "title": "VSCodium / vscodium",
@@ -100,19 +100,9 @@
       "description": "binary releases of VS Code without MS branding/telemetry/licensing",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 33241,
+      "stars": 33258,
       "forks": 1861,
-      "added_stars": "510 stars this month"
-    },
-    {
-      "title": "Donchitos / Claude-Code-Game-Studios",
-      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
-      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 25098,
-      "forks": 3583,
-      "added_stars": "1,297 stars this month"
+      "added_stars": "508 stars this month"
     },
     {
       "title": "ophub / amlogic-s9xxx-armbian",
@@ -120,39 +110,9 @@
       "description": "Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9793,
-      "forks": 3140,
-      "added_stars": "201 stars this month"
-    },
-    {
-      "title": "termux / termux-packages",
-      "url": "https://github.com/termux/termux-packages",
-      "description": "A package build system for Termux.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 16964,
-      "forks": 4383,
-      "added_stars": "210 stars this month"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53279,
-      "forks": 4797,
-      "added_stars": "533 stars this month"
-    },
-    {
-      "title": "assafdori / bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2334,
-      "forks": 539,
-      "added_stars": "234 stars this month"
+      "stars": 9797,
+      "forks": 3139,
+      "added_stars": "203 stars this month"
     },
     {
       "title": "longhorn / longhorn",
@@ -160,9 +120,39 @@
       "description": "Cloud-Native distributed storage built on and for Kubernetes",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 7980,
+      "stars": 7982,
       "forks": 737,
-      "added_stars": "71 stars this month"
+      "added_stars": "75 stars this month"
+    },
+    {
+      "title": "termux / termux-packages",
+      "url": "https://github.com/termux/termux-packages",
+      "description": "A package build system for Termux.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 16969,
+      "forks": 4382,
+      "added_stars": "203 stars this month"
+    },
+    {
+      "title": "assafdori / bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2345,
+      "forks": 540,
+      "added_stars": "247 stars this month"
+    },
+    {
+      "title": "dockur / windows",
+      "url": "https://github.com/dockur/windows",
+      "description": "Windows inside a Docker container.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 53297,
+      "forks": 4799,
+      "added_stars": "544 stars this month"
     },
     {
       "title": "awesome-jellyfin / awesome-jellyfin",
@@ -170,19 +160,19 @@
       "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9288,
-      "forks": 299,
-      "added_stars": "378 stars this month"
+      "stars": 9299,
+      "forks": 301,
+      "added_stars": "372 stars this month"
     },
     {
-      "title": "HyDE-Project / HyDE",
-      "url": "https://github.com/HyDE-Project/HyDE",
-      "description": "HyDE, your Development Environment 🖥️💻",
+      "title": "Donchitos / Claude-Code-Game-Studios",
+      "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+      "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 9603,
-      "forks": 638,
-      "added_stars": "187 stars this month"
+      "stars": 25133,
+      "forks": 3588,
+      "added_stars": "1,317 stars this month"
     }
   ]
 }

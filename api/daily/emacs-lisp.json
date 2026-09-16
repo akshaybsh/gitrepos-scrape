@@ -2,77 +2,17 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
-    {
-      "title": "xenodium / agent-shell",
-      "url": "https://github.com/xenodium/agent-shell",
-      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 1856,
-      "forks": 235,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "doomemacs / core",
       "url": "https://github.com/doomemacs/core",
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22683,
-      "forks": 3147,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "dakra / ghostel",
-      "url": "https://github.com/dakra/ghostel",
-      "description": "Terminal emulator powered by libghostty",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 943,
-      "forks": 61,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "syl20bnr / spacemacs",
-      "url": "https://github.com/syl20bnr/spacemacs",
-      "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 24562,
-      "forks": 4833,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2559,
-      "forks": 332,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "dnouri / pilish",
-      "url": "https://github.com/dnouri/pilish",
-      "description": "The ergonomic agent harness for Emacs.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 288,
-      "forks": 37,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "melpa / melpa",
-      "url": "https://github.com/melpa/melpa",
-      "description": "Recipes and build machinery for the biggest Emacs package repo",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2968,
-      "forks": 2811,
-      "added_stars": "1 star today"
+      "stars": 22679,
+      "forks": 3145,
+      "added_stars": "3 stars today"
     },
     {
       "title": "emacs-mirror / emacs",
@@ -80,9 +20,19 @@
       "description": "Mirror of GNU Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 5198,
-      "forks": 1405,
-      "added_stars": "1 star today"
+      "stars": 5199,
+      "forks": 1404,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "xenodium / agent-shell",
+      "url": "https://github.com/xenodium/agent-shell",
+      "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 1859,
+      "forks": 235,
+      "added_stars": "2 stars today"
     },
     {
       "title": "karthink / gptel",
@@ -90,9 +40,19 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3527,
-      "forks": 431,
-      "added_stars": "0 stars today"
+      "stars": 3528,
+      "forks": 432,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2564,
+      "forks": 336,
+      "added_stars": "6 stars today"
     }
   ]
 }

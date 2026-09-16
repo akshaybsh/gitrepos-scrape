@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "flashinfer-ai / flashinfer",
@@ -10,9 +10,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6411,
-      "forks": 1450,
-      "added_stars": "64 stars this week"
+      "stars": 6416,
+      "forks": 1459,
+      "added_stars": "60 stars this week"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -20,19 +20,9 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 7829,
-      "forks": 1259,
-      "added_stars": "44 stars this week"
-    },
-    {
-      "title": "deepseek-ai / DeepEP",
-      "url": "https://github.com/deepseek-ai/DeepEP",
-      "description": "DeepEP: an efficient expert-parallel communication library",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 10148,
-      "forks": 1438,
-      "added_stars": "39 stars this week"
+      "stars": 7833,
+      "forks": 1261,
+      "added_stars": "45 stars this week"
     },
     {
       "title": "karpathy / llm.c",
@@ -40,29 +30,29 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 30998,
-      "forks": 3762,
-      "added_stars": "63 stars this week"
+      "stars": 31006,
+      "forks": 3763,
+      "added_stars": "62 stars this week"
     },
     {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "title": "deepseek-ai / DeepEP",
+      "url": "https://github.com/deepseek-ai/DeepEP",
+      "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 2491,
-      "forks": 252,
-      "added_stars": "10 stars this week"
+      "stars": 10152,
+      "forks": 1440,
+      "added_stars": "38 stars this week"
     },
     {
-      "title": "NVIDIA / nccl-tests",
-      "url": "https://github.com/NVIDIA/nccl-tests",
-      "description": "NCCL Tests",
+      "title": "HazyResearch / ThunderKittens",
+      "url": "https://github.com/HazyResearch/ThunderKittens",
+      "description": "Tile primitives for speedy kernels",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1658,
-      "forks": 406,
-      "added_stars": "12 stars this week"
+      "stars": 3708,
+      "forks": 327,
+      "added_stars": "37 stars this week"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
@@ -70,9 +60,29 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3264,
+      "stars": 3268,
       "forks": 290,
-      "added_stars": "19 stars this week"
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "NVIDIA / nccl-tests",
+      "url": "https://github.com/NVIDIA/nccl-tests",
+      "description": "NCCL Tests",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 1659,
+      "forks": 405,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2492,
+      "forks": 255,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -80,9 +90,9 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1040,
-      "forks": 228,
-      "added_stars": "6 stars this week"
+      "stars": 1042,
+      "forks": 229,
+      "added_stars": "8 stars this week"
     }
   ]
 }

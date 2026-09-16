@@ -4,16 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
-  <item>
-    <title>rorkai / App-Store-Connect-CLI</title>
-    <link>https://github.com/rorkai/App-Store-Connect-CLI</link>
-    <description>Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more</description>
-  </item>
+  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
   <item>
     <title>majd / ipatool</title>
     <link>https://github.com/majd/ipatool</link>
     <description>Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.</description>
+  </item>
+  <item>
+    <title>rorkai / App-Store-Connect-CLI</title>
+    <link>https://github.com/rorkai/App-Store-Connect-CLI</link>
+    <description>Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more</description>
   </item>
   <item>
     <title>glanceapp / glance</title>
@@ -21,9 +21,9 @@
     <description>A self-hosted dashboard that puts all your feeds in one place</description>
   </item>
   <item>
-    <title>henrygd / beszel</title>
-    <link>https://github.com/henrygd/beszel</link>
-    <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+    <title>Tencent / WeKnora</title>
+    <link>https://github.com/Tencent/WeKnora</link>
+    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
   </item>
   <item>
     <title>authelia / authelia</title>
@@ -31,24 +31,14 @@
     <description>The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.</description>
   </item>
   <item>
+    <title>go-vikunja / vikunja</title>
+    <link>https://github.com/go-vikunja/vikunja</link>
+    <description>The task manager you actually own.</description>
+  </item>
+  <item>
     <title>gtsteffaniak / filebrowser</title>
     <link>https://github.com/gtsteffaniak/filebrowser</link>
     <description>📂 Web File Browser</description>
-  </item>
-  <item>
-    <title>theagentrouter / agent-router</title>
-    <link>https://github.com/theagentrouter/agent-router</link>
-    <description>Manages Unified Access to Generative AI Services built on Envoy Gateway</description>
-  </item>
-  <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-  </item>
-  <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
   </item>
   <item>
     <title>go-task / task</title>
@@ -56,14 +46,19 @@
     <description>A fast, cross-platform build tool inspired by Make, designed for modern workflows.</description>
   </item>
   <item>
-    <title>go-vikunja / vikunja</title>
-    <link>https://github.com/go-vikunja/vikunja</link>
-    <description>The task manager you actually own.</description>
+    <title>evcc-io / evcc</title>
+    <link>https://github.com/evcc-io/evcc</link>
+    <description>solar charging ☀️🚘</description>
   </item>
   <item>
     <title>asciimoo / hister</title>
     <link>https://github.com/asciimoo/hister</link>
     <description>Your own search engine</description>
+  </item>
+  <item>
+    <title>agent-substrate / substrate</title>
+    <link>https://github.com/agent-substrate/substrate</link>
+    <description>Agent Substrate: the core system</description>
   </item>
   <item>
     <title>kopia / kopia</title>
@@ -81,9 +76,9 @@
     <description>🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.</description>
   </item>
   <item>
-    <title>Wei-Shaw / sub2api</title>
-    <link>https://github.com/Wei-Shaw/sub2api</link>
-    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+    <title>seaweedfs / seaweedfs</title>
+    <link>https://github.com/seaweedfs/seaweedfs</link>
+    <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
   </item>
   <item>
     <title>weave-os / router</title>
@@ -91,24 +86,34 @@
     <description>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.</description>
   </item>
   <item>
+    <title>Wei-Shaw / sub2api</title>
+    <link>https://github.com/Wei-Shaw/sub2api</link>
+    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+  </item>
+  <item>
+    <title>milvus-io / milvus</title>
+    <link>https://github.com/milvus-io/milvus</link>
+    <description>Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</description>
+  </item>
+  <item>
     <title>vllm-project / semantic-router</title>
     <link>https://github.com/vllm-project/semantic-router</link>
     <description>A programmable Mixture-of-Models router for heterogeneous LLM inference</description>
   </item>
   <item>
+    <title>henrygd / beszel</title>
+    <link>https://github.com/henrygd/beszel</link>
+    <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
+  </item>
+  <item>
+    <title>vxcontrol / pentagi</title>
+    <link>https://github.com/vxcontrol/pentagi</link>
+    <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
+  </item>
+  <item>
     <title>cloudflare / cloudflared</title>
     <link>https://github.com/cloudflare/cloudflared</link>
     <description>Cloudflare Tunnel client</description>
-  </item>
-  <item>
-    <title>seaweedfs / seaweedfs</title>
-    <link>https://github.com/seaweedfs/seaweedfs</link>
-    <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
-  </item>
-  <item>
-    <title>gitleaks / gitleaks</title>
-    <link>https://github.com/gitleaks/gitleaks</link>
-    <description>Find secrets with Gitleaks 🔑</description>
   </item>
 </channel>
 </rss>

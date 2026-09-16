@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "exiftool / exiftool",
@@ -10,9 +10,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5038,
-      "forks": 484,
-      "added_stars": "28 stars this week"
+      "stars": 5044,
+      "forks": 485,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "znuny / Znuny",
@@ -20,9 +20,9 @@
       "description": "Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 594,
+      "stars": 595,
       "forks": 122,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -32,7 +32,17 @@
       "languageColor": "#0298c3",
       "stars": 488,
       "forks": 120,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23535,
+      "forks": 1126,
+      "added_stars": "32 stars this week"
     },
     {
       "title": "holzschu / a-shell",
@@ -41,18 +51,8 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 3920,
-      "forks": 212,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 23534,
-      "forks": 1126,
-      "added_stars": "33 stars this week"
+      "forks": 213,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "brendangregg / FlameGraph",
@@ -60,9 +60,19 @@
       "description": "Stack trace visualizer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 19752,
+      "stars": 19755,
       "forks": 2111,
-      "added_stars": "21 stars this week"
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "UniversalDependencies / tools",
+      "url": "https://github.com/UniversalDependencies/tools",
+      "description": "Various utilities for processing the data.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 220,
+      "forks": 53,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -72,6 +82,16 @@
       "languageColor": "#0298c3",
       "stars": 3416,
       "forks": 380,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1523,
+      "forks": 1216,
       "added_stars": "6 stars this week"
     },
     {
@@ -82,7 +102,7 @@
       "languageColor": "#0298c3",
       "stars": 268,
       "forks": 124,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "ddclient / ddclient",
@@ -90,18 +110,8 @@
       "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3543,
+      "stars": 3542,
       "forks": 400,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "OpenKore / openkore",
-      "url": "https://github.com/OpenKore/openkore",
-      "description": "A free/open source client and automation tool for Ragnarok Online",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 1521,
-      "forks": 1216,
       "added_stars": "6 stars this week"
     },
     {
@@ -110,9 +120,19 @@
       "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1689,
+      "stars": 1690,
       "forks": 327,
       "added_stars": "5 stars this week"
+    },
+    {
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2323,
+      "forks": 642,
+      "added_stars": "0 stars this week"
     }
   ]
 }

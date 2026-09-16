@@ -2,47 +2,37 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 760,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "ElmerCSC / elmerfem",
       "url": "https://github.com/ElmerCSC/elmerfem",
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1705,
+      "stars": 1706,
       "forks": 396,
       "added_stars": "1 star today"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1757,
-      "forks": 881,
-      "added_stars": "3 stars today"
+      "stars": 875,
+      "forks": 689,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "NGEET / fates",
-      "url": "https://github.com/NGEET/fates",
-      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
+      "title": "OpenFAST / openfast",
+      "url": "https://github.com/OpenFAST/openfast",
+      "description": "Main repository for the NLR-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 130,
-      "forks": 109,
-      "added_stars": "0 stars today"
+      "stars": 969,
+      "forks": 539,
+      "added_stars": "1 star today"
     },
     {
       "title": "cp2k / cp2k",
@@ -51,8 +41,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 1207,
-      "forks": 498,
-      "added_stars": "2 stars today"
+      "forks": 499,
+      "added_stars": "0 stars today"
     },
     {
       "title": "E3SM-Project / E3SM",
@@ -62,6 +52,46 @@
       "languageColor": "#4d41b1",
       "stars": 440,
       "forks": 481,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1760,
+      "forks": 881,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 23,
+      "forks": 34,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 26,
+      "forks": 73,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NGEET / fates",
+      "url": "https://github.com/NGEET/fates",
+      "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 130,
+      "forks": 109,
       "added_stars": "0 stars today"
     }
   ]

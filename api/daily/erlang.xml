@@ -4,11 +4,11 @@
   <title>GitHub Erlang Languages Daily Trending</title>
   <description>Daily Trending of Erlang Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:04:55 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:05:55 GMT</pubDate>
   <item>
-    <title>apache / couchdb</title>
-    <link>https://github.com/apache/couchdb</link>
-    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+    <title>erlang / otp</title>
+    <link>https://github.com/erlang/otp</link>
+    <description>Erlang/OTP</description>
   </item>
   <item>
     <title>emqx / emqx</title>
@@ -16,9 +16,14 @@
     <description>The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles</description>
   </item>
   <item>
-    <title>processone / ejabberd</title>
-    <link>https://github.com/processone/ejabberd</link>
-    <description>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</description>
+    <title>apache / couchdb</title>
+    <link>https://github.com/apache/couchdb</link>
+    <description>Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</description>
+  </item>
+  <item>
+    <title>blt / port_compiler</title>
+    <link>https://github.com/blt/port_compiler</link>
+    <description>A rebar3 port compiler</description>
   </item>
 </channel>
 </rss>

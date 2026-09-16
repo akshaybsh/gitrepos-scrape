@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -30,19 +30,9 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 873,
+      "stars": 875,
       "forks": 689,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 405,
-      "forks": 760,
-      "added_stars": "0 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "wrf-model / WRF",
@@ -50,9 +40,29 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1757,
+      "stars": 1760,
       "forks": 881,
-      "added_stars": "10 stars this week"
+      "added_stars": "8 stars this week"
+    },
+    {
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 406,
+      "forks": 760,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1706,
+      "forks": 396,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "cp2k / cp2k",
@@ -61,28 +71,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 1207,
-      "forks": 498,
+      "forks": 499,
       "added_stars": "6 stars this week"
-    },
-    {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1705,
-      "forks": 396,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "MetOffice / jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 22,
-      "forks": 34,
-      "added_stars": "1 star this week"
     }
   ]
 }

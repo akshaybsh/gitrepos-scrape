@@ -4,7 +4,12 @@
   <title>GitHub R Languages Daily Trending</title>
   <description>Daily Trending of R Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
+  <item>
+    <title>tidyverse / ggplot2</title>
+    <link>https://github.com/tidyverse/ggplot2</link>
+    <description>An implementation of the Grammar of Graphics in R</description>
+  </item>
   <item>
     <title>nflverse / nflverse-data</title>
     <link>https://github.com/nflverse/nflverse-data</link>
@@ -21,11 +26,6 @@
     <description>🎓 A collection of interactive courses for the swirl R package.</description>
   </item>
   <item>
-    <title>tidyverse / ggplot2</title>
-    <link>https://github.com/tidyverse/ggplot2</link>
-    <description>An implementation of the Grammar of Graphics in R</description>
-  </item>
-  <item>
     <title>satijalab / seurat</title>
     <link>https://github.com/satijalab/seurat</link>
     <description>R toolkit for single cell genomics</description>
@@ -36,14 +36,14 @@
     <description>R for data science: a book</description>
   </item>
   <item>
-    <title>r-spatial / sf</title>
-    <link>https://github.com/r-spatial/sf</link>
-    <description>Simple Features for R</description>
-  </item>
-  <item>
     <title>tidyverse / dplyr</title>
     <link>https://github.com/tidyverse/dplyr</link>
     <description>dplyr: A grammar of data manipulation</description>
+  </item>
+  <item>
+    <title>r-spatial / sf</title>
+    <link>https://github.com/r-spatial/sf</link>
+    <description>Simple Features for R</description>
   </item>
   <item>
     <title>rstudio / shiny</title>
@@ -54,6 +54,11 @@
     <title>jinworks / CellChat</title>
     <link>https://github.com/jinworks/CellChat</link>
     <description>R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics</description>
+  </item>
+  <item>
+    <title>posit-dev / skills</title>
+    <link>https://github.com/posit-dev/skills</link>
+    <description>A collection of Claude Skills from Posit</description>
   </item>
   <item>
     <title>Rdatatable / data.table</title>

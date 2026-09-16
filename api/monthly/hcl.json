@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
   "items": [
     {
       "title": "techiescamp / devops-projects",
@@ -10,9 +10,9 @@
       "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2317,
+      "stars": 2320,
       "forks": 1559,
-      "added_stars": "95 stars this month"
+      "added_stars": "96 stars this month"
     },
     {
       "title": "DataDog / serverless-sample-app",
@@ -30,7 +30,7 @@
       "description": "Terraform module for scalable GitHub action runners on AWS",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3126,
+      "stars": 3127,
       "forks": 748,
       "added_stars": "31 stars this month"
     },
@@ -41,8 +41,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 2098,
-      "forks": 1263,
-      "added_stars": "16 stars this month"
+      "forks": 1264,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-avm-res-keyvault-vault",
@@ -63,6 +63,16 @@
       "stars": 39,
       "forks": 80,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 585,
+      "forks": 3808,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "Azure / terraform-azurerm-naming",
@@ -91,28 +101,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 3262,
-      "forks": 4627,
+      "forks": 4628,
       "added_stars": "12 stars this month"
     },
     {
-      "title": "RaJiska / terraform-aws-fck-nat",
-      "url": "https://github.com/RaJiska/terraform-aws-fck-nat",
-      "description": "Terraform module for fck-nat",
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 170,
-      "forks": 81,
-      "added_stars": "5 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 585,
-      "forks": 3809,
-      "added_stars": "5 stars this month"
+      "stars": 1043,
+      "forks": 779,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "okd-project / okd",
@@ -125,24 +125,14 @@
       "added_stars": "24 stars this month"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "title": "kubernetes / k8s.io",
+      "url": "https://github.com/kubernetes/k8s.io",
+      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5004,
-      "forks": 4408,
-      "added_stars": "18 stars this month"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1251,
-      "forks": 588,
-      "added_stars": "24 stars this month"
+      "stars": 978,
+      "forks": 1040,
+      "added_stars": "2 stars this month"
     }
   ]
 }

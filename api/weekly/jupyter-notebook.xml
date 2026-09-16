@@ -4,16 +4,11 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>Lordog / dive-into-llms</title>
     <link>https://github.com/Lordog/dive-into-llms</link>
     <description>《动手学大模型Dive into LLMs》系列编程实践教程</description>
-  </item>
-  <item>
-    <title>jackfrued / Python-100-Days</title>
-    <link>https://github.com/jackfrued/Python-100-Days</link>
-    <description>Python - 100天从新手到大师</description>
   </item>
   <item>
     <title>rlabbe / Kalman-and-Bayesian-Filters-in-Python</title>
@@ -26,6 +21,11 @@
     <description>MiniCPM5: SOTA on-device LLMs, small yet powerful.</description>
   </item>
   <item>
+    <title>jackfrued / Python-100-Days</title>
+    <link>https://github.com/jackfrued/Python-100-Days</link>
+    <description>Python - 100天从新手到大师</description>
+  </item>
+  <item>
     <title>FareedKhan-dev / all-agentic-architectures</title>
     <link>https://github.com/FareedKhan-dev/all-agentic-architectures</link>
     <description>35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.</description>
@@ -36,44 +36,9 @@
     <description>量化研究-券商金工研报复现</description>
   </item>
   <item>
-    <title>pathwaycom / llm-app</title>
-    <link>https://github.com/pathwaycom/llm-app</link>
-    <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
-  </item>
-  <item>
     <title>GokuMohandas / Made-With-ML</title>
     <link>https://github.com/GokuMohandas/Made-With-ML</link>
     <description>Learn how to develop, deploy and iterate on production-grade ML applications.</description>
-  </item>
-  <item>
-    <title>patchy631 / ai-engineering-hub</title>
-    <link>https://github.com/patchy631/ai-engineering-hub</link>
-    <description>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</description>
-  </item>
-  <item>
-    <title>ageron / handson-ml3</title>
-    <link>https://github.com/ageron/handson-ml3</link>
-    <description>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</description>
-  </item>
-  <item>
-    <title>openai / openai-cookbook</title>
-    <link>https://github.com/openai/openai-cookbook</link>
-    <description>Examples and guides for using the OpenAI API</description>
-  </item>
-  <item>
-    <title>mrdbourke / zero-to-mastery-ml</title>
-    <link>https://github.com/mrdbourke/zero-to-mastery-ml</link>
-    <description>All course materials for the Zero to Mastery Machine Learning and Data Science course.</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / python-docs-samples</title>
-    <link>https://github.com/GoogleCloudPlatform/python-docs-samples</link>
-    <description>Code samples used on cloud.google.com</description>
-  </item>
-  <item>
-    <title>facebookresearch / segment-anything</title>
-    <link>https://github.com/facebookresearch/segment-anything</link>
-    <description>The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
   </item>
   <item>
     <title>jakevdp / PythonDataScienceHandbook</title>
@@ -86,9 +51,49 @@
     <description>The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
   </item>
   <item>
+    <title>openai / openai-cookbook</title>
+    <link>https://github.com/openai/openai-cookbook</link>
+    <description>Examples and guides for using the OpenAI API</description>
+  </item>
+  <item>
+    <title>microsoft / ai-agents-for-beginners</title>
+    <link>https://github.com/microsoft/ai-agents-for-beginners</link>
+    <description>18 Lessons to Get Started Building AI Agents</description>
+  </item>
+  <item>
+    <title>higgsfield-ai / higgsfield</title>
+    <link>https://github.com/higgsfield-ai/higgsfield</link>
+    <description>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</description>
+  </item>
+  <item>
+    <title>pathwaycom / llm-app</title>
+    <link>https://github.com/pathwaycom/llm-app</link>
+    <description>Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.</description>
+  </item>
+  <item>
+    <title>GoogleCloudPlatform / python-docs-samples</title>
+    <link>https://github.com/GoogleCloudPlatform/python-docs-samples</link>
+    <description>Code samples used on cloud.google.com</description>
+  </item>
+  <item>
     <title>fastai / fastbook</title>
     <link>https://github.com/fastai/fastbook</link>
     <description>The fastai book, published as Jupyter Notebooks</description>
+  </item>
+  <item>
+    <title>karpathy / nn-zero-to-hero</title>
+    <link>https://github.com/karpathy/nn-zero-to-hero</link>
+    <description>Neural Networks: Zero to Hero</description>
+  </item>
+  <item>
+    <title>ed-donner / llm_engineering</title>
+    <link>https://github.com/ed-donner/llm_engineering</link>
+    <description>Repo to accompany my mastering LLM engineering course</description>
+  </item>
+  <item>
+    <title>google-research / google-research</title>
+    <link>https://github.com/google-research/google-research</link>
+    <description>Google Research</description>
   </item>
 </channel>
 </rss>

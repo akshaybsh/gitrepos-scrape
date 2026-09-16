@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:09:34 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
   "items": [
     {
       "title": "firezone / firezone",
@@ -10,9 +10,9 @@
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9093,
+      "stars": 9095,
       "forks": 456,
-      "added_stars": "91 stars this month"
+      "added_stars": "87 stars this month"
     },
     {
       "title": "openai / symphony",
@@ -20,39 +20,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27216,
-      "forks": 2815,
-      "added_stars": "601 stars this month"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 8989,
-      "forks": 1004,
-      "added_stars": "159 stars this month"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29080,
-      "forks": 1863,
-      "added_stars": "583 stars this month"
-    },
-    {
-      "title": "blockscout / blockscout",
-      "url": "https://github.com/blockscout/blockscout",
-      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 4688,
-      "forks": 3173,
-      "added_stars": "64 stars this month"
+      "stars": 27229,
+      "forks": 2819,
+      "added_stars": "590 stars this month"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -65,14 +35,44 @@
       "added_stars": "66 stars this month"
     },
     {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 8991,
+      "forks": 1005,
+      "added_stars": "159 stars this month"
+    },
+    {
+      "title": "blockscout / blockscout",
+      "url": "https://github.com/blockscout/blockscout",
+      "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 4692,
+      "forks": 3174,
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 29095,
+      "forks": 1865,
+      "added_stars": "571 stars this month"
+    },
+    {
       "title": "supabase / realtime",
       "url": "https://github.com/supabase/realtime",
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7632,
-      "forks": 463,
-      "added_stars": "18 stars this month"
+      "stars": 7633,
+      "forks": 462,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "elixir-lang / elixir",
@@ -80,9 +80,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26638,
+      "stars": 26644,
       "forks": 3668,
-      "added_stars": "76 stars this month"
+      "added_stars": "79 stars this month"
     },
     {
       "title": "ash-project / ash",
@@ -90,9 +90,9 @@
       "description": "A declarative, extensible framework for building Elixir applications.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2490,
-      "forks": 422,
-      "added_stars": "18 stars this month"
+      "stars": 2492,
+      "forks": 423,
+      "added_stars": "20 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -110,9 +110,29 @@
       "description": "Official Elixir Language Server Protocol implementation",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2058,
+      "stars": 2059,
       "forks": 113,
-      "added_stars": "22 stars this month"
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 209,
+      "forks": 22,
+      "added_stars": "64 stars this month"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5325,
+      "forks": 166,
+      "added_stars": "77 stars this month"
     },
     {
       "title": "livebook-dev / livebook",
@@ -122,27 +142,7 @@
       "languageColor": "#6e4a7e",
       "stars": 5865,
       "forks": 513,
-      "added_stars": "26 stars this month"
-    },
-    {
-      "title": "icoretech / codex-pooler",
-      "url": "https://github.com/icoretech/codex-pooler",
-      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 208,
-      "forks": 22,
-      "added_stars": "65 stars this month"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5313,
-      "forks": 166,
-      "added_stars": "84 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "elixir-ecto / ecto",
@@ -155,34 +155,24 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "bartblast / hologram",
-      "url": "https://github.com/bartblast/hologram",
-      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1503,
-      "forks": 115,
-      "added_stars": "34 stars this month"
-    },
-    {
-      "title": "elixir-waffle / waffle",
-      "url": "https://github.com/elixir-waffle/waffle",
-      "description": "Flexible file upload and attachment library for Elixir",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 822,
-      "forks": 92,
-      "added_stars": "2 stars this month"
-    },
-    {
       "title": "supabase / supavisor",
       "url": "https://github.com/supabase/supavisor",
       "description": "A cloud-native, multi-tenant Postgres connection pooler.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2263,
+      "stars": 2265,
       "forks": 117,
-      "added_stars": "9 stars this month"
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "phenixdigital / phoenix_storybook",
+      "url": "https://github.com/phenixdigital/phoenix_storybook",
+      "description": "A pluggable storybook for your Phoenix components.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 871,
+      "forks": 98,
+      "added_stars": "5 stars this month"
     }
   ]
 }

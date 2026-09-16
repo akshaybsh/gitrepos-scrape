@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,9 +10,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 32590,
-      "forks": 3429,
-      "added_stars": "5,084 stars this week"
+      "stars": 34224,
+      "forks": 3584,
+      "added_stars": "6,095 stars this week"
     },
     {
       "title": "armory3d / armorpaint",
@@ -20,9 +20,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5046,
-      "forks": 558,
-      "added_stars": "975 stars this week"
+      "stars": 5077,
+      "forks": 563,
+      "added_stars": "944 stars this week"
     },
     {
       "title": "doldecomp / melee",
@@ -30,9 +30,9 @@
       "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2195,
+      "stars": 2209,
       "forks": 313,
-      "added_stars": "960 stars this week"
+      "added_stars": "554 stars this week"
     },
     {
       "title": "facebook / zstd",
@@ -40,19 +40,9 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27861,
-      "forks": 2599,
-      "added_stars": "133 stars this week"
-    },
-    {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 42849,
-      "forks": 7356,
-      "added_stars": "92 stars this week"
+      "stars": 27870,
+      "forks": 2602,
+      "added_stars": "126 stars this week"
     },
     {
       "title": "HarbourMasters / Shipwright",
@@ -60,9 +50,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5393,
-      "forks": 838,
-      "added_stars": "69 stars this week"
+      "stars": 5397,
+      "forks": 837,
+      "added_stars": "67 stars this week"
     },
     {
       "title": "lz4 / lz4",
@@ -70,89 +60,9 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12068,
+      "stars": 12069,
       "forks": 1593,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22249,
-      "forks": 1943,
-      "added_stars": "67 stars this week"
-    },
-    {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15428,
-      "forks": 2622,
-      "added_stars": "390 stars this week"
-    },
-    {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16524,
-      "forks": 9966,
-      "added_stars": "91 stars this week"
-    },
-    {
-      "title": "redcanaryco / atomic-red-team",
-      "url": "https://github.com/redcanaryco/atomic-red-team",
-      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12537,
-      "forks": 3212,
-      "added_stars": "47 stars this week"
-    },
-    {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 149649,
-      "forks": 13738,
-      "added_stars": "586 stars this week"
-    },
-    {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 63161,
-      "forks": 28399,
-      "added_stars": "131 stars this week"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 907,
-      "forks": 240,
-      "added_stars": "84 stars this week"
-    },
-    {
-      "title": "HarbourMasters / 2ship2harkinian",
-      "url": "https://github.com/HarbourMasters/2ship2harkinian",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2222,
-      "forks": 242,
-      "added_stars": "28 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
       "title": "obsproject / obs-studio",
@@ -160,29 +70,79 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 76221,
-      "forks": 10174,
-      "added_stars": "308 stars this week"
+      "stars": 76266,
+      "forks": 10190,
+      "added_stars": "304 stars this week"
     },
     {
-      "title": "hathach / tinyusb",
-      "url": "https://github.com/hathach/tinyusb",
-      "description": "An open source cross-platform USB stack for embedded system",
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7097,
-      "forks": 1516,
-      "added_stars": "13 stars this week"
+      "stars": 22267,
+      "forks": 1944,
+      "added_stars": "76 stars this week"
     },
     {
-      "title": "NVIDIA-RTX / Streamline",
-      "url": "https://github.com/NVIDIA-RTX/Streamline",
-      "description": "Streamline Integration Framework",
+      "title": "duixcom / Duix-Avatar",
+      "url": "https://github.com/duixcom/Duix-Avatar",
+      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1166,
-      "forks": 157,
-      "added_stars": "55 stars this week"
+      "stars": 15447,
+      "forks": 2627,
+      "added_stars": "388 stars this week"
+    },
+    {
+      "title": "redcanaryco / atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12546,
+      "forks": 3212,
+      "added_stars": "48 stars this week"
+    },
+    {
+      "title": "HarbourMasters / 2ship2harkinian",
+      "url": "https://github.com/HarbourMasters/2ship2harkinian",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2226,
+      "forks": 242,
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 42857,
+      "forks": 7356,
+      "added_stars": "83 stars this week"
+    },
+    {
+      "title": "FreeRTOS / FreeRTOS-Kernel",
+      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
+      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4504,
+      "forks": 1618,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 149733,
+      "forks": 13749,
+      "added_stars": "584 stars this week"
     },
     {
       "title": "capstone-engine / capstone",
@@ -190,9 +150,29 @@
       "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 9022,
+      "stars": 9024,
       "forks": 1730,
       "added_stars": "27 stars this week"
+    },
+    {
+      "title": "NVIDIA-RTX / Streamline",
+      "url": "https://github.com/NVIDIA-RTX/Streamline",
+      "description": "Streamline Integration Framework",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1169,
+      "forks": 157,
+      "added_stars": "58 stars this week"
+    },
+    {
+      "title": "mackron / miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7274,
+      "forks": 599,
+      "added_stars": "34 stars this week"
     }
   ]
 }

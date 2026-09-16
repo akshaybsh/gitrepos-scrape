@@ -2,27 +2,27 @@
   "title": "GitHub Pascal Languages Daily Trending",
   "description": "Daily Trending of Pascal Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
-    {
-      "title": "stascorp / rdpwrap",
-      "url": "https://github.com/stascorp/rdpwrap",
-      "description": "RDP Wrapper Library",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 16858,
-      "forks": 4053,
-      "added_stars": "21 stars this week"
-    },
     {
       "title": "doublecmd / doublecmd",
       "url": "https://github.com/doublecmd/doublecmd",
       "description": "Double Commander is a free cross platform open source file manager with two panels side by side.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 4515,
+      "stars": 4517,
       "forks": 354,
-      "added_stars": "33 stars this week"
+      "added_stars": "34 stars this week"
+    },
+    {
+      "title": "stascorp / rdpwrap",
+      "url": "https://github.com/stascorp/rdpwrap",
+      "description": "RDP Wrapper Library",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 16859,
+      "forks": 4053,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "keymanapp / keyman",
@@ -42,7 +42,7 @@
       "languageColor": "#E3F171",
       "stars": 3007,
       "forks": 324,
-      "added_stars": "7 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "FrankBijnen / ExifToolGui",
@@ -50,7 +50,7 @@
       "description": "A GUI for ExifTool",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 1009,
+      "stars": 1010,
       "forks": 51,
       "added_stars": "9 stars this week"
     },
@@ -60,9 +60,9 @@
       "description": "Goverlay is an easy graphical interface to configure linux gaming applications",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 1481,
+      "stars": 1484,
       "forks": 66,
-      "added_stars": "9 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "HeidiSQL / HeidiSQL",
@@ -70,29 +70,9 @@
       "description": "A lightweight client for managing MariaDB, MySQL, SQL Server, PostgreSQL, SQLite, Interbase and Firebird, written in Delphi and Lazarus/FreePascal",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 6249,
-      "forks": 586,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "jrsoftware / issrc",
-      "url": "https://github.com/jrsoftware/issrc",
-      "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 5630,
-      "forks": 1092,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "UltraStar-Deluxe / USDX",
-      "url": "https://github.com/UltraStar-Deluxe/USDX",
-      "description": "The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™",
-      "language": "Pascal",
-      "languageColor": "#E3F171",
-      "stars": 1267,
-      "forks": 209,
-      "added_stars": "3 stars this week"
+      "stars": 6267,
+      "forks": 585,
+      "added_stars": "28 stars this week"
     },
     {
       "title": "peazip / PeaZip",
@@ -100,9 +80,19 @@
       "description": "Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 7846,
-      "forks": 403,
-      "added_stars": "25 stars this week"
+      "stars": 7852,
+      "forks": 404,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "jrsoftware / issrc",
+      "url": "https://github.com/jrsoftware/issrc",
+      "description": "Inno Setup is an open-source installation builder for Windows applications by Jordan Russell and Martijn Laan. Since its introduction in 1997, Inno Setup has been trusted by developers and organizations of all sizes to reliably deploy software to millions of PCs worldwide.",
+      "language": "Pascal",
+      "languageColor": "#E3F171",
+      "stars": 5632,
+      "forks": 1092,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "nofeletru / UsbAsp-flash",
@@ -110,19 +100,19 @@
       "description": "Program allow you to program flash memory on the protocols spi, I2C, MicroWire. Supports CH341a, CH347, UsbAsp, AVRISP(LUFA), Arduino, FT232H.",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 1380,
-      "forks": 258,
-      "added_stars": "4 stars this week"
+      "stars": 1381,
+      "forks": 257,
+      "added_stars": "5 stars this week"
     },
     {
-      "title": "cheat-engine / cheat-engine",
-      "url": "https://github.com/cheat-engine/cheat-engine",
-      "description": "Cheat Engine. A development environment focused on modding",
+      "title": "UltraStar-Deluxe / USDX",
+      "url": "https://github.com/UltraStar-Deluxe/USDX",
+      "description": "The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™",
       "language": "Pascal",
       "languageColor": "#E3F171",
-      "stars": 19177,
-      "forks": 2785,
-      "added_stars": "48 stars this week"
+      "stars": 1268,
+      "forks": 209,
+      "added_stars": "5 stars this week"
     }
   ]
 }

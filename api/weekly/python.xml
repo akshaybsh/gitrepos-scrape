@@ -4,16 +4,11 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>ayghri / i-have-adhd</title>
     <link>https://github.com/ayghri/i-have-adhd</link>
     <description>A skill to stop your coding agent from burying the answer. ADHD-friendly output.</description>
-  </item>
-  <item>
-    <title>openai / skills</title>
-    <link>https://github.com/openai/skills</link>
-    <description>Skills Catalog for Codex</description>
   </item>
   <item>
     <title>microsoft / markitdown</title>
@@ -26,9 +21,14 @@
     <description>Agent skill that removes signs of AI-generated writing from text</description>
   </item>
   <item>
-    <title>earthtojake / text-to-cad</title>
-    <link>https://github.com/earthtojake/text-to-cad</link>
-    <description>A library of agent skills for CAD, CAE and CAM</description>
+    <title>openai / skills</title>
+    <link>https://github.com/openai/skills</link>
+    <description>Skills Catalog for Codex</description>
+  </item>
+  <item>
+    <title>TauricResearch / TradingAgents</title>
+    <link>https://github.com/TauricResearch/TradingAgents</link>
+    <description>TradingAgents: Multi-Agents LLM Financial Trading Framework</description>
   </item>
   <item>
     <title>petergyang / no-ai-slop</title>
@@ -36,24 +36,29 @@
     <description>Removes 20+ patterns of AI slop from any piece of writing.</description>
   </item>
   <item>
+    <title>earthtojake / text-to-cad</title>
+    <link>https://github.com/earthtojake/text-to-cad</link>
+    <description>A library of agent skills for CAD, CAE and CAM</description>
+  </item>
+  <item>
     <title>github / spec-kit</title>
     <link>https://github.com/github/spec-kit</link>
     <description>💫 Toolkit to help you get started with Spec-Driven Development</description>
   </item>
   <item>
-    <title>rohitg00 / ai-engineering-from-scratch</title>
-    <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
-    <description>Learn it. Build it. Ship it for others.</description>
+    <title>huggingface / transformers</title>
+    <link>https://github.com/huggingface/transformers</link>
+    <description>🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.</description>
   </item>
   <item>
-    <title>browser-use / browser-use</title>
-    <link>https://github.com/browser-use/browser-use</link>
-    <description>Agents that use the browser.</description>
+    <title>Panniantong / Agent-Reach</title>
+    <link>https://github.com/Panniantong/Agent-Reach</link>
+    <description>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
   </item>
   <item>
-    <title>multimodal-art-projection / YuE</title>
-    <link>https://github.com/multimodal-art-projection/YuE</link>
-    <description>YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.</description>
+    <title>SnailSploit / Claude-Red</title>
+    <link>https://github.com/SnailSploit/Claude-Red</link>
+    <description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
   </item>
   <item>
     <title>debpalash / VoiceStudio</title>
@@ -61,14 +66,14 @@
     <description>VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.</description>
   </item>
   <item>
-    <title>The-Swarm-Corporation / AutoHedge</title>
-    <link>https://github.com/The-Swarm-Corporation/AutoHedge</link>
-    <description>Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.</description>
+    <title>rohitg00 / ai-engineering-from-scratch</title>
+    <link>https://github.com/rohitg00/ai-engineering-from-scratch</link>
+    <description>Learn it. Build it. Ship it for others.</description>
   </item>
   <item>
-    <title>jordan-gibbs / hyperresearch</title>
-    <link>https://github.com/jordan-gibbs/hyperresearch</link>
-    <description>Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.</description>
+    <title>ahujasid / mcp-for-blender</title>
+    <link>https://github.com/ahujasid/mcp-for-blender</link>
+    <description>Community plugin to control Blender 3D with any LLM of your choice</description>
   </item>
   <item>
     <title>jihe520 / MathModelAgent</title>
@@ -86,14 +91,14 @@
     <description>A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。</description>
   </item>
   <item>
-    <title>D4Vinci / Scrapling</title>
-    <link>https://github.com/D4Vinci/Scrapling</link>
-    <description>🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&#x27;t be shy, join here: https://discord.gg/EMgGbDceNQ</description>
+    <title>home-assistant / core</title>
+    <link>https://github.com/home-assistant/core</link>
+    <description>🏡 Open source home automation that puts local control and privacy first.</description>
   </item>
   <item>
-    <title>k2-fsa / OmniVoice</title>
-    <link>https://github.com/k2-fsa/OmniVoice</link>
-    <description>High-Quality Voice Cloning TTS for 600+ Languages</description>
+    <title>NVIDIA / SkillSpector</title>
+    <link>https://github.com/NVIDIA/SkillSpector</link>
+    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
   </item>
 </channel>
 </rss>

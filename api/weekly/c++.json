@@ -2,97 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
-    {
-      "title": "ClickHouse / ClickHouse",
-      "url": "https://github.com/ClickHouse/ClickHouse",
-      "description": "ClickHouse® is a real-time analytics database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 49895,
-      "forks": 8955,
-      "added_stars": "212 stars this week"
-    },
     {
       "title": "godotengine / godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 117178,
-      "forks": 26745,
-      "added_stars": "432 stars this week"
-    },
-    {
-      "title": "mltframework / shotcut",
-      "url": "https://github.com/mltframework/shotcut",
-      "description": "cross-platform (Qt), open-source (GPLv3) video editor",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15205,
-      "forks": 1504,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41223,
-      "forks": 2117,
-      "added_stars": "266 stars this week"
-    },
-    {
-      "title": "jomjol / AI-on-the-edge-device",
-      "url": "https://github.com/jomjol/AI-on-the-edge-device",
-      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8760,
-      "forks": 909,
-      "added_stars": "102 stars this week"
-    },
-    {
-      "title": "google-deepmind / mujoco",
-      "url": "https://github.com/google-deepmind/mujoco",
-      "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15146,
-      "forks": 1757,
-      "added_stars": "163 stars this week"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 200089,
-      "forks": 76333,
-      "added_stars": "875 stars this week"
-    },
-    {
-      "title": "google / benchmark",
-      "url": "https://github.com/google/benchmark",
-      "description": "A microbenchmark support library",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10403,
-      "forks": 1801,
-      "added_stars": "17 stars this week"
-    },
-    {
-      "title": "justcallmekoko / ESP32Marauder",
-      "url": "https://github.com/justcallmekoko/ESP32Marauder",
-      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 12360,
-      "forks": 1480,
-      "added_stars": "112 stars this week"
+      "stars": 117259,
+      "forks": 26765,
+      "added_stars": "459 stars this week"
     },
     {
       "title": "tenstorrent / tt-metal",
@@ -100,29 +20,29 @@
       "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1674,
-      "forks": 681,
-      "added_stars": "13 stars this week"
+      "stars": 1675,
+      "forks": 685,
+      "added_stars": "14 stars this week"
     },
     {
-      "title": "0xShug0 / audio.cpp",
-      "url": "https://github.com/0xShug0/audio.cpp",
-      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2732,
-      "forks": 308,
-      "added_stars": "364 stars this week"
+      "stars": 41259,
+      "forks": 2119,
+      "added_stars": "258 stars this week"
     },
     {
-      "title": "RPCS3 / rpcs3",
-      "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PlayStation 3 emulator and debugger",
+      "title": "jomjol / AI-on-the-edge-device",
+      "url": "https://github.com/jomjol/AI-on-the-edge-device",
+      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19760,
-      "forks": 2442,
-      "added_stars": "96 stars this week"
+      "stars": 8765,
+      "forks": 910,
+      "added_stars": "108 stars this week"
     },
     {
       "title": "ggml-org / whisper.cpp",
@@ -130,39 +50,29 @@
       "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 53675,
-      "forks": 6151,
-      "added_stars": "192 stars this week"
+      "stars": 53692,
+      "forks": 6159,
+      "added_stars": "177 stars this week"
     },
     {
-      "title": "facebook / rocksdb",
-      "url": "https://github.com/facebook/rocksdb",
-      "description": "A library that provides an embeddable, persistent key-value store for fast storage.",
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32096,
-      "forks": 6926,
-      "added_stars": "34 stars this week"
+      "stars": 19769,
+      "forks": 2441,
+      "added_stars": "77 stars this week"
     },
     {
-      "title": "azahar-emu / azahar",
-      "url": "https://github.com/azahar-emu/azahar",
-      "description": "An open-source 3DS emulator project based on Citra.",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8128,
-      "forks": 670,
-      "added_stars": "74 stars this week"
-    },
-    {
-      "title": "aseprite / aseprite",
-      "url": "https://github.com/aseprite/aseprite",
-      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 39451,
-      "forks": 8992,
-      "added_stars": "167 stars this week"
+      "stars": 200123,
+      "forks": 76518,
+      "added_stars": "880 stars this week"
     },
     {
       "title": "ggml-org / llama.cpp",
@@ -170,9 +80,49 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 128272,
-      "forks": 23207,
-      "added_stars": "936 stars this week"
+      "stars": 128385,
+      "forks": 23248,
+      "added_stars": "906 stars this week"
+    },
+    {
+      "title": "0xShug0 / audio.cpp",
+      "url": "https://github.com/0xShug0/audio.cpp",
+      "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2764,
+      "forks": 314,
+      "added_stars": "385 stars this week"
+    },
+    {
+      "title": "azahar-emu / azahar",
+      "url": "https://github.com/azahar-emu/azahar",
+      "description": "An open-source 3DS emulator project based on Citra.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8141,
+      "forks": 671,
+      "added_stars": "75 stars this week"
+    },
+    {
+      "title": "PaddlePaddle / Paddle",
+      "url": "https://github.com/PaddlePaddle/Paddle",
+      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 24089,
+      "forks": 6022,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "google / benchmark",
+      "url": "https://github.com/google/benchmark",
+      "description": "A microbenchmark support library",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10406,
+      "forks": 1800,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "Atmosphere-NX / Atmosphere",
@@ -180,19 +130,29 @@
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19619,
+      "stars": 19646,
       "forks": 1475,
-      "added_stars": "104 stars this week"
+      "added_stars": "130 stars this week"
     },
     {
-      "title": "ocornut / imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "title": "mamedev / mame",
+      "url": "https://github.com/mamedev/mame",
+      "description": "MAME",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 76196,
-      "forks": 12039,
-      "added_stars": "133 stars this week"
+      "stars": 10494,
+      "forks": 2528,
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "justcallmekoko / ESP32Marauder",
+      "url": "https://github.com/justcallmekoko/ESP32Marauder",
+      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12372,
+      "forks": 1481,
+      "added_stars": "110 stars this week"
     },
     {
       "title": "optiscaler / OptiScaler",
@@ -200,9 +160,19 @@
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11016,
-      "forks": 483,
-      "added_stars": "552 stars this week"
+      "stars": 11067,
+      "forks": 487,
+      "added_stars": "558 stars this week"
+    },
+    {
+      "title": "aseprite / aseprite",
+      "url": "https://github.com/aseprite/aseprite",
+      "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 39482,
+      "forks": 9009,
+      "added_stars": "169 stars this week"
     }
   ]
 }

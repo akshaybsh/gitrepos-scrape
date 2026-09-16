@@ -4,21 +4,21 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
     <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
     <description>Configures opinionated GKE clusters</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
@@ -39,16 +39,6 @@
     <title>terraform-google-modules / terraform-google-project-factory</title>
     <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
     <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-network</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
-    <description>Sets up a new VPC network on Google Cloud</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
 </channel>
 </rss>

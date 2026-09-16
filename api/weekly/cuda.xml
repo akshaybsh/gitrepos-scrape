@@ -4,7 +4,7 @@
   <title>GitHub Cuda Languages Daily Trending</title>
   <description>Daily Trending of Cuda Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>flashinfer-ai / flashinfer</title>
     <link>https://github.com/flashinfer-ai/flashinfer</link>
@@ -16,19 +16,24 @@
     <description>DeepGEMM: clean and efficient BLAS kernel library on GPU</description>
   </item>
   <item>
-    <title>deepseek-ai / DeepEP</title>
-    <link>https://github.com/deepseek-ai/DeepEP</link>
-    <description>DeepEP: an efficient expert-parallel communication library</description>
-  </item>
-  <item>
     <title>karpathy / llm.c</title>
     <link>https://github.com/karpathy/llm.c</link>
     <description>LLM training in simple, raw C/CUDA</description>
   </item>
   <item>
-    <title>mirage-project / mirage</title>
-    <link>https://github.com/mirage-project/mirage</link>
-    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
+    <title>deepseek-ai / DeepEP</title>
+    <link>https://github.com/deepseek-ai/DeepEP</link>
+    <description>DeepEP: an efficient expert-parallel communication library</description>
+  </item>
+  <item>
+    <title>HazyResearch / ThunderKittens</title>
+    <link>https://github.com/HazyResearch/ThunderKittens</link>
+    <description>Tile primitives for speedy kernels</description>
+  </item>
+  <item>
+    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
+    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
+    <description>how to optimize some algorithm in cuda.</description>
   </item>
   <item>
     <title>NVIDIA / nccl-tests</title>
@@ -36,9 +41,9 @@
     <description>NCCL Tests</description>
   </item>
   <item>
-    <title>BBuf / how-to-optim-algorithm-in-cuda</title>
-    <link>https://github.com/BBuf/how-to-optim-algorithm-in-cuda</link>
-    <description>how to optimize some algorithm in cuda.</description>
+    <title>mirage-project / mirage</title>
+    <link>https://github.com/mirage-project/mirage</link>
+    <description>Mirage Persistent Kernel: Compiling LLMs into a MegaKernel</description>
   </item>
   <item>
     <title>NVIDIA / cuopt</title>

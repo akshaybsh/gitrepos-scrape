@@ -4,16 +4,36 @@
   <title>GitHub Kotlin Languages Daily Trending</title>
   <description>Daily Trending of Kotlin Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>damontecres / Wholphin</title>
     <link>https://github.com/damontecres/Wholphin</link>
     <description>An OSS Android TV client for Jellyfin</description>
   </item>
   <item>
+    <title>KernelSU-Next / KernelSU-Next</title>
+    <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
+    <description>An advanced Kernel based root solution for Android</description>
+  </item>
+  <item>
     <title>deniscerri / ytdlnis</title>
     <link>https://github.com/deniscerri/ytdlnis</link>
     <description>Full-featured audio/video downloader for Android using yt-dlp</description>
+  </item>
+  <item>
+    <title>jellyfin / jellyfin-androidtv</title>
+    <link>https://github.com/jellyfin/jellyfin-androidtv</link>
+    <description>Android TV Client for Jellyfin</description>
+  </item>
+  <item>
+    <title>recloudstream / cloudstream</title>
+    <link>https://github.com/recloudstream/cloudstream</link>
+    <description>Android app for streaming and downloading media.</description>
+  </item>
+  <item>
+    <title>ExTV / Podroid</title>
+    <link>https://github.com/ExTV/Podroid</link>
+    <description>A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.</description>
   </item>
   <item>
     <title>amir1376 / ab-download-manager</title>
@@ -26,14 +46,9 @@
     <description>Essential tools and mods for Android nerds</description>
   </item>
   <item>
-    <title>KernelSU-Next / KernelSU-Next</title>
-    <link>https://github.com/KernelSU-Next/KernelSU-Next</link>
-    <description>An advanced Kernel based root solution for Android</description>
-  </item>
-  <item>
-    <title>recloudstream / cloudstream</title>
-    <link>https://github.com/recloudstream/cloudstream</link>
-    <description>Android app for streaming and downloading media.</description>
+    <title>gkd-kit / gkd</title>
+    <link>https://github.com/gkd-kit/gkd</link>
+    <description>基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules</description>
   </item>
   <item>
     <title>2dust / v2rayNG</title>
@@ -41,34 +56,14 @@
     <description>A V2Ray client for Android, support Xray core and v2fly core</description>
   </item>
   <item>
-    <title>gkd-kit / gkd</title>
-    <link>https://github.com/gkd-kit/gkd</link>
-    <description>基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules</description>
-  </item>
-  <item>
     <title>maxrave-dev / SimpMusic</title>
     <link>https://github.com/maxrave-dev/SimpMusic</link>
     <description>A cross-platform music app using YouTube Music for backend</description>
   </item>
   <item>
-    <title>HuangZhuoRui / LocationSpoofer</title>
-    <link>https://github.com/HuangZhuoRui/LocationSpoofer</link>
-    <description>虚拟定位软件，主要是定位，集成了 WiFi、蓝牙、基站等方案，主要有定点模拟和路线模拟。非全局方案，需要单独 hook 对应的软件(因为不想单独去适配各大手机厂商的系统)，</description>
-  </item>
-  <item>
     <title>vivizzz007 / vivi-music</title>
     <link>https://github.com/vivizzz007/vivi-music</link>
     <description>Vivi-Music is an expressive Material 3–based YouTube Music client for Android.</description>
-  </item>
-  <item>
-    <title>jellyfin / jellyfin-androidtv</title>
-    <link>https://github.com/jellyfin/jellyfin-androidtv</link>
-    <description>Android TV Client for Jellyfin</description>
-  </item>
-  <item>
-    <title>wgtunnel / android</title>
-    <link>https://github.com/wgtunnel/android</link>
-    <description>A FOSS WireGuard &amp; AmneziaWG Android client with auto-tunneling, lockdown &amp; local proxying.</description>
   </item>
 </channel>
 </rss>

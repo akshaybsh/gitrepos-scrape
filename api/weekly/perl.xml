@@ -4,7 +4,7 @@
   <title>GitHub Perl Languages Daily Trending</title>
   <description>Daily Trending of Perl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:07:12 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
   <item>
     <title>exiftool / exiftool</title>
     <link>https://github.com/exiftool/exiftool</link>
@@ -21,14 +21,14 @@
     <description>GLPI Agent</description>
   </item>
   <item>
-    <title>holzschu / a-shell</title>
-    <link>https://github.com/holzschu/a-shell</link>
-    <description>A terminal for iOS, with multiple windows</description>
-  </item>
-  <item>
     <title>AlDanial / cloc</title>
     <link>https://github.com/AlDanial/cloc</link>
     <description>cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</description>
+  </item>
+  <item>
+    <title>holzschu / a-shell</title>
+    <link>https://github.com/holzschu/a-shell</link>
+    <description>A terminal for iOS, with multiple windows</description>
   </item>
   <item>
     <title>brendangregg / FlameGraph</title>
@@ -36,9 +36,19 @@
     <description>Stack trace visualizer</description>
   </item>
   <item>
+    <title>UniversalDependencies / tools</title>
+    <link>https://github.com/UniversalDependencies/tools</link>
+    <description>Various utilities for processing the data.</description>
+  </item>
+  <item>
     <title>adrienverge / openfortivpn</title>
     <link>https://github.com/adrienverge/openfortivpn</link>
     <description>Client for PPP+TLS VPN tunnel services</description>
+  </item>
+  <item>
+    <title>OpenKore / openkore</title>
+    <link>https://github.com/OpenKore/openkore</link>
+    <description>A free/open source client and automation tool for Ragnarok Online</description>
   </item>
   <item>
     <title>fusioninventory / fusioninventory-agent</title>
@@ -51,14 +61,14 @@
     <description>ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.</description>
   </item>
   <item>
-    <title>OpenKore / openkore</title>
-    <link>https://github.com/OpenKore/openkore</link>
-    <description>A free/open source client and automation tool for Ragnarok Online</description>
-  </item>
-  <item>
     <title>inverse-inc / packetfence</title>
     <link>https://github.com/inverse-inc/packetfence</link>
     <description>PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</description>
+  </item>
+  <item>
+    <title>Perl / perl5</title>
+    <link>https://github.com/Perl/perl5</link>
+    <description>🐪 The Perl programming language</description>
   </item>
 </channel>
 </rss>

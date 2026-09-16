@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:07:12 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
@@ -10,9 +10,19 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6558,
-      "forks": 1406,
-      "added_stars": "11 stars this week"
+      "stars": 6563,
+      "forks": 1408,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "MinaProtocol / mina",
+      "url": "https://github.com/MinaProtocol/mina",
+      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2119,
+      "forks": 585,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "rocq-prover / rocq",
@@ -25,14 +35,14 @@
       "added_stars": "10 stars this week"
     },
     {
-      "title": "MinaProtocol / mina",
-      "url": "https://github.com/MinaProtocol/mina",
-      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "title": "ocaml / dune",
+      "url": "https://github.com/ocaml/dune",
+      "description": "A composable build system for OCaml.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2119,
-      "forks": 584,
-      "added_stars": "0 stars this week"
+      "stars": 1917,
+      "forks": 500,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "ocaml / opam",
@@ -40,19 +50,9 @@
       "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1380,
+      "stars": 1381,
       "forks": 410,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "opengrep / opengrep",
-      "url": "https://github.com/opengrep/opengrep",
-      "description": "🔎 Static code analysis engine to find security issues in code.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 3073,
-      "forks": 262,
-      "added_stars": "21 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -60,19 +60,19 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 960,
+      "stars": 964,
       "forks": 106,
-      "added_stars": "12 stars this week"
+      "added_stars": "13 stars this week"
     },
     {
-      "title": "ocaml / dune",
-      "url": "https://github.com/ocaml/dune",
-      "description": "A composable build system for OCaml.",
+      "title": "opengrep / opengrep",
+      "url": "https://github.com/opengrep/opengrep",
+      "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1916,
-      "forks": 500,
-      "added_stars": "2 stars this week"
+      "stars": 3081,
+      "forks": 263,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "oxcaml / oxcaml",
@@ -80,9 +80,9 @@
       "description": "OCaml - Oxidized!",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 880,
-      "forks": 181,
-      "added_stars": "7 stars this week"
+      "stars": 883,
+      "forks": 182,
+      "added_stars": "8 stars this week"
     }
   ]
 }

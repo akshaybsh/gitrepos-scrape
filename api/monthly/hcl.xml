@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Tue, 15 Sep 2026 07:09:34 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
@@ -36,6 +36,11 @@
     <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+  </item>
+  <item>
     <title>Azure / terraform-azurerm-naming</title>
     <link>https://github.com/Azure/terraform-azurerm-naming</link>
     <description></description>
@@ -51,14 +56,9 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>RaJiska / terraform-aws-fck-nat</title>
-    <link>https://github.com/RaJiska/terraform-aws-fck-nat</link>
-    <description>Terraform module for fck-nat</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+    <title>terraform-aws-modules / terraform-aws-lambda</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
+    <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
     <title>okd-project / okd</title>
@@ -66,14 +66,9 @@
     <description>The self-managing, auto-upgrading, Kubernetes distribution for everyone</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>semgrep / semgrep-rules</title>
-    <link>https://github.com/semgrep/semgrep-rules</link>
-    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
+    <title>kubernetes / k8s.io</title>
+    <link>https://github.com/kubernetes/k8s.io</link>
+    <description>Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites</description>
   </item>
 </channel>
 </rss>

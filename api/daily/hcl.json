@@ -2,8 +2,108 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Tue, 15 Sep 2026 07:04:55 GMT",
+  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
   "items": [
+    {
+      "title": "terraform-aws-modules / terraform-aws-vpc",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+      "description": "Terraform module to create AWS VPC resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3262,
+      "forks": 4628,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2098,
+      "forks": 1264,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5005,
+      "forks": 4408,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "github-aws-runners / terraform-aws-github-runner",
+      "url": "https://github.com/github-aws-runners/terraform-aws-github-runner",
+      "description": "Terraform module for scalable GitHub action runners on AWS",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 3127,
+      "forks": 748,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "iam-veeramalla / ultimate-devops-project-aws",
+      "url": "https://github.com/iam-veeramalla/ultimate-devops-project-aws",
+      "description": "End to End DevOps project",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 955,
+      "forks": 2477,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 351,
+      "forks": 239,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
+      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 585,
+      "forks": 3808,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-lambda",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
+      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1043,
+      "forks": 779,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bridgecrewio / terragoat",
+      "url": "https://github.com/bridgecrewio/terragoat",
+      "description": "TerraGoat is Bridgecrew's \"Vulnerable by Design\" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1304,
+      "forks": 5862,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "okd-project / okd",
+      "url": "https://github.com/okd-project/okd",
+      "description": "The self-managing, auto-upgrading, Kubernetes distribution for everyone",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2127,
+      "forks": 323,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "semgrep / semgrep-rules",
       "url": "https://github.com/semgrep/semgrep-rules",
@@ -15,33 +115,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "zealvora / terraform-beginner-to-advanced-resource",
-      "url": "https://github.com/zealvora/terraform-beginner-to-advanced-resource",
-      "description": "HashiCorp Certified Terraform Associate 2026",
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 2506,
-      "forks": 6349,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Azure / terraform-azurerm-naming",
-      "url": "https://github.com/Azure/terraform-azurerm-naming",
-      "description": "",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 274,
-      "forks": 146,
+      "stars": 119,
+      "forks": 203,
       "added_stars": "0 stars today"
     },
     {
-      "title": "LinkedInLearning / learning-terraform-3087701",
-      "url": "https://github.com/LinkedInLearning/learning-terraform-3087701",
-      "description": "This repo is for the Linkedin Learning course: Learning Terraform",
+      "title": "kubernetes / k8s.io",
+      "url": "https://github.com/kubernetes/k8s.io",
+      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 146,
-      "forks": 7330,
+      "stars": 978,
+      "forks": 1040,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1280,
+      "forks": 1286,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-elasticache",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
+      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 28,
+      "forks": 70,
       "added_stars": "0 stars today"
     }
   ]
