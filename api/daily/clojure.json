@@ -2,17 +2,17 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
     {
-      "title": "unclebob / swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
+      "title": "metabase / metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 3894,
-      "forks": 384,
-      "added_stars": "46 stars today"
+      "stars": 49302,
+      "forks": 6826,
+      "added_stars": "24 stars today"
     },
     {
       "title": "logseq / logseq",
@@ -20,9 +20,29 @@
       "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 44929,
-      "forks": 2812,
-      "added_stars": "19 stars today"
+      "stars": 44947,
+      "forks": 2813,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "unclebob / swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 3896,
+      "forks": 385,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "tonsky / FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 82020,
+      "forks": 3186,
+      "added_stars": "2 stars today"
     },
     {
       "title": "status-im / status-legacy",
@@ -31,27 +51,7 @@
       "language": "Clojure",
       "languageColor": "#db5855",
       "stars": 4021,
-      "forks": 988,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "metabase / metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 49284,
-      "forks": 6821,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "logseq / og",
-      "url": "https://github.com/logseq/og",
-      "description": "Logseq og (file version)",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 291,
-      "forks": 51,
+      "forks": 989,
       "added_stars": "0 stars today"
     },
     {
@@ -60,19 +60,9 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 60039,
-      "forks": 4100,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "functional-koans / clojure-koans",
-      "url": "https://github.com/functional-koans/clojure-koans",
-      "description": "A set of exercises for learning Clojure",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 3803,
-      "forks": 2131,
-      "added_stars": "1 star today"
+      "stars": 60068,
+      "forks": 4105,
+      "added_stars": "38 stars today"
     }
   ]
 }

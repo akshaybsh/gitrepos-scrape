@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,19 +10,9 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27242,
-      "forks": 12401,
+      "stars": 27241,
+      "forks": 12402,
       "added_stars": "62 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2529,
-      "forks": 1327,
-      "added_stars": "8 stars this month"
     },
     {
       "title": "SunWeb3Sec / DeFiHackLabs",
@@ -30,8 +20,8 @@
       "description": "Reproduce DeFi hacked incidents using Foundry.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 6790,
-      "forks": 1479,
+      "stars": 6789,
+      "forks": 1481,
       "added_stars": "60 stars this month"
     },
     {
@@ -40,9 +30,19 @@
       "description": "",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 39,
-      "forks": 36,
-      "added_stars": "8 stars this month"
+      "stars": 40,
+      "forks": 37,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "FhenixProtocol / fhenix-contracts",
+      "url": "https://github.com/FhenixProtocol/fhenix-contracts",
+      "description": "Solidity Contracts that allow developers to use FHE on Fhenix",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 529,
+      "forks": 72,
+      "added_stars": "366 stars this month"
     },
     {
       "title": "across-protocol / contracts",
@@ -51,7 +51,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 152,
-      "forks": 93,
+      "forks": 95,
       "added_stars": "1 star this month"
     },
     {
@@ -65,13 +65,43 @@
       "added_stars": "6 stars this month"
     },
     {
+      "title": "ethereum / ERCs",
+      "url": "https://github.com/ethereum/ERCs",
+      "description": "The Ethereum Request for Comment repository",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 756,
+      "forks": 1058,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2529,
+      "forks": 1328,
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho's non-custodial vault protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 102,
+      "forks": 75,
+      "added_stars": "9 stars this month"
+    },
+    {
       "title": "Uniswap / v4-periphery",
       "url": "https://github.com/Uniswap/v4-periphery",
       "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 904,
-      "forks": 664,
+      "forks": 665,
       "added_stars": "3 stars this month"
     }
   ]

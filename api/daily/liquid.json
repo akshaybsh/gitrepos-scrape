@@ -2,27 +2,27 @@
   "title": "GitHub Liquid Languages Daily Trending",
   "description": "Daily Trending of Liquid Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
+    {
+      "title": "Shopify / skeleton-theme",
+      "url": "https://github.com/Shopify/skeleton-theme",
+      "description": "A minimal, carefully structured Shopify theme designed to help you quickly get started. Designed with modularity, maintainability, and Shopify's best practices in mind.",
+      "language": "Liquid",
+      "languageColor": "#67b8de",
+      "stars": 815,
+      "forks": 511,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "Shopify / dawn",
       "url": "https://github.com/Shopify/dawn",
       "description": "Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.",
       "language": "Liquid",
       "languageColor": "#67b8de",
-      "stars": 3077,
-      "forks": 4490,
+      "stars": 3080,
+      "forks": 4489,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "Shopify / horizon",
-      "url": "https://github.com/Shopify/horizon",
-      "description": "Shopify's Horizon theme source code",
-      "language": "Liquid",
-      "languageColor": "#67b8de",
-      "stars": 456,
-      "forks": 340,
-      "added_stars": "1 star today"
     }
   ]
 }

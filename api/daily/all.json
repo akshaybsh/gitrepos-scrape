@@ -2,7 +2,7 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,19 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29489,
-      "forks": 2101,
-      "added_stars": "2,756 stars today"
+      "stars": 32813,
+      "forks": 2321,
+      "added_stars": "3,231 stars today"
+    },
+    {
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8033,
+      "forks": 451,
+      "added_stars": "927 stars today"
     },
     {
       "title": "JustVugg / colibri",
@@ -20,9 +30,49 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34217,
-      "forks": 3584,
-      "added_stars": "2,026 stars today"
+      "stars": 35222,
+      "forks": 3702,
+      "added_stars": "1,546 stars today"
+    },
+    {
+      "title": "abue-ammar / tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 5785,
+      "forks": 274,
+      "added_stars": "1,179 stars today"
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 54566,
+      "forks": 6800,
+      "added_stars": "417 stars today"
+    },
+    {
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 13477,
+      "forks": 1596,
+      "added_stars": "547 stars today"
+    },
+    {
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 24372,
+      "forks": 2926,
+      "added_stars": "110 stars today"
     },
     {
       "title": "ever-co / ever-gauzy",
@@ -30,49 +80,19 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6892,
-      "forks": 1059,
-      "added_stars": "634 stars today"
+      "stars": 7442,
+      "forks": 1099,
+      "added_stars": "778 stars today"
     },
     {
-      "title": "debpalash / VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 31383,
-      "forks": 3727,
-      "added_stars": "2,072 stars today"
-    },
-    {
-      "title": "Homebrew / BrewUI",
-      "url": "https://github.com/Homebrew/BrewUI",
-      "description": "📺 Homebrew's official macOS GUI",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 1584,
-      "forks": 38,
-      "added_stars": "271 stars today"
-    },
-    {
-      "title": "melgarafael / DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2966,
-      "forks": 695,
-      "added_stars": "193 stars today"
-    },
-    {
-      "title": "alphaXiv / OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "description": "Turn your coding agents into research agents",
+      "title": "ankitects / anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3650,
-      "forks": 237,
-      "added_stars": "531 stars today"
+      "stars": 30976,
+      "forks": 3214,
+      "added_stars": "58 stars today"
     },
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -80,39 +100,89 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 77027,
-      "forks": 8500,
-      "added_stars": "725 stars today"
+      "stars": 78043,
+      "forks": 8634,
+      "added_stars": "1,059 stars today"
     },
     {
-      "title": "danny-avila / LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "title": "anthropics / claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 43982,
-      "forks": 9036,
-      "added_stars": "254 stars today"
+      "stars": 145666,
+      "forks": 23510,
+      "added_stars": "165 stars today"
     },
     {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4737,
-      "forks": 281,
-      "added_stars": "91 stars today"
-    },
-    {
-      "title": "MG1937 / ASC",
-      "url": "https://github.com/MG1937/ASC",
-      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "title": "roboflow / supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 1303,
-      "forks": 205,
-      "added_stars": "129 stars today"
+      "stars": 50684,
+      "forks": 4815,
+      "added_stars": "260 stars today"
+    },
+    {
+      "title": "alphaXiv / OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "description": "Turn your coding agents into research agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4632,
+      "forks": 282,
+      "added_stars": "1,017 stars today"
+    },
+    {
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 109892,
+      "forks": 14066,
+      "added_stars": "120 stars today"
+    },
+    {
+      "title": "rlaope / oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 2630,
+      "forks": 189,
+      "added_stars": "80 stars today"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25679,
+      "forks": 3509,
+      "added_stars": "1,197 stars today"
+    },
+    {
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5897,
+      "forks": 750,
+      "added_stars": "367 stars today"
+    },
+    {
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9484,
+      "forks": 1020,
+      "added_stars": "332 stars today"
     },
     {
       "title": "addyosmani / agent-skills",
@@ -120,29 +190,29 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 94989,
-      "forks": 10075,
-      "added_stars": "307 stars today"
+      "stars": 95634,
+      "forks": 10121,
+      "added_stars": "658 stars today"
     },
     {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13198,
-      "forks": 1118,
-      "added_stars": "258 stars today"
-    },
-    {
-      "title": "earendil-works / pi",
-      "url": "https://github.com/earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 105965,
-      "forks": 13320,
-      "added_stars": "458 stars today"
+      "stars": 68476,
+      "forks": 7395,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 260562,
+      "forks": 39000,
+      "added_stars": "1,057 stars today"
     }
   ]
 }

@@ -4,21 +4,21 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:05:55 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 06:56:16 GMT</pubDate>
   <item>
     <title>neovim / neovim</title>
     <link>https://github.com/neovim/neovim</link>
     <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
     <title>jbranchaud / til</title>
     <link>https://github.com/jbranchaud/til</link>
     <description>📝 Today I Learned</description>
+  </item>
+  <item>
+    <title>mhinz / vim-galore</title>
+    <link>https://github.com/mhinz/vim-galore</link>
+    <description>🎓 All things Vim!</description>
   </item>
   <item>
     <title>vim / vim</title>
@@ -31,9 +31,9 @@
     <description>🌺 Minimalist Vim Plugin Manager</description>
   </item>
   <item>
-    <title>vim-test / vim-test</title>
-    <link>https://github.com/vim-test/vim-test</link>
-    <description>Run your tests at the speed of thought</description>
+    <title>morhetz / gruvbox</title>
+    <link>https://github.com/morhetz/gruvbox</link>
+    <description>Retro groove color scheme for Vim</description>
   </item>
   <item>
     <title>tpope / vim-fugitive</title>
@@ -41,9 +41,19 @@
     <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
-    <title>morhetz / gruvbox</title>
-    <link>https://github.com/morhetz/gruvbox</link>
-    <description>Retro groove color scheme for Vim</description>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
+  </item>
+  <item>
+    <title>fatih / vim-go</title>
+    <link>https://github.com/fatih/vim-go</link>
+    <description>Go development plugin for Vim</description>
+  </item>
+  <item>
+    <title>tpope / vim-commentary</title>
+    <link>https://github.com/tpope/vim-commentary</link>
+    <description>commentary.vim: comment stuff out</description>
   </item>
 </channel>
 </rss>

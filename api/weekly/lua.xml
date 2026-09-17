@@ -4,7 +4,7 @@
   <title>GitHub Lua Languages Daily Trending</title>
   <description>Daily Trending of Lua Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 06:58:39 GMT</pubDate>
   <item>
     <title>olimorris / codecompanion.nvim</title>
     <link>https://github.com/olimorris/codecompanion.nvim</link>
@@ -14,16 +14,6 @@
     <title>MeanderingProgrammer / render-markdown.nvim</title>
     <link>https://github.com/MeanderingProgrammer/render-markdown.nvim</link>
     <description>Improve viewing Markdown in Neovim</description>
-  </item>
-  <item>
-    <title>saghen / blink.cmp</title>
-    <link>https://github.com/saghen/blink.cmp</link>
-    <description>Performant, batteries-included completion plugin for Neovim</description>
-  </item>
-  <item>
-    <title>nvim-mini / mini.nvim</title>
-    <link>https://github.com/nvim-mini/mini.nvim</link>
-    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
   </item>
   <item>
     <title>folke / snacks.nvim</title>
@@ -36,14 +26,9 @@
     <description>Git integration for buffers</description>
   </item>
   <item>
-    <title>neovim / nvim-lspconfig</title>
-    <link>https://github.com/neovim/nvim-lspconfig</link>
-    <description>Quickstart configs for Nvim LSP</description>
-  </item>
-  <item>
-    <title>Kong / kong</title>
-    <link>https://github.com/Kong/kong</link>
-    <description>🦍 The API and AI Gateway</description>
+    <title>nvim-mini / mini.nvim</title>
+    <link>https://github.com/nvim-mini/mini.nvim</link>
+    <description>Library of 45+ independent Lua modules improving Neovim experience with minimal effort</description>
   </item>
   <item>
     <title>LazyVim / LazyVim</title>
@@ -56,19 +41,19 @@
     <description></description>
   </item>
   <item>
-    <title>LandSandBoat / server</title>
-    <link>https://github.com/LandSandBoat/server</link>
-    <description>⛵ LandSandBoat - a server emulator for Final Fantasy XI</description>
+    <title>saghen / blink.cmp</title>
+    <link>https://github.com/saghen/blink.cmp</link>
+    <description>Performant, batteries-included completion plugin for Neovim</description>
   </item>
   <item>
-    <title>folke / lazy.nvim</title>
-    <link>https://github.com/folke/lazy.nvim</link>
-    <description>💤 A modern plugin manager for Neovim</description>
+    <title>apache / apisix</title>
+    <link>https://github.com/apache/apisix</link>
+    <description>The Cloud-Native API Gateway and AI Gateway</description>
   </item>
   <item>
-    <title>AndyHazz / bookshelf.koplugin</title>
-    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
-    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
+    <title>Kong / kong</title>
+    <link>https://github.com/Kong/kong</link>
+    <description>🦍 The API and AI Gateway</description>
   </item>
   <item>
     <title>Footagesus / WindUI</title>
@@ -76,14 +61,9 @@
     <description>WindUI is a open source UI library for Roblox Script Hubs</description>
   </item>
   <item>
-    <title>nvim-neo-tree / neo-tree.nvim</title>
-    <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
-    <description>Neovim plugin to manage the file system and other tree like structures.</description>
-  </item>
-  <item>
-    <title>ntop / ntopng</title>
-    <link>https://github.com/ntop/ntopng</link>
-    <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
+    <title>LandSandBoat / server</title>
+    <link>https://github.com/LandSandBoat/server</link>
+    <description>⛵ LandSandBoat - a server emulator for Final Fantasy XI</description>
   </item>
   <item>
     <title>xmake-io / xmake</title>
@@ -91,9 +71,34 @@
     <description>🔥 A cross-platform build utility based on Lua</description>
   </item>
   <item>
-    <title>nvim-lualine / lualine.nvim</title>
-    <link>https://github.com/nvim-lualine/lualine.nvim</link>
-    <description>A blazing fast and easy to configure neovim statusline plugin written in pure lua.</description>
+    <title>AndyHazz / bookshelf.koplugin</title>
+    <link>https://github.com/AndyHazz/bookshelf.koplugin</link>
+    <description>A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that&#x27;s shown.</description>
+  </item>
+  <item>
+    <title>folke / lazy.nvim</title>
+    <link>https://github.com/folke/lazy.nvim</link>
+    <description>💤 A modern plugin manager for Neovim</description>
+  </item>
+  <item>
+    <title>neovim / nvim-lspconfig</title>
+    <link>https://github.com/neovim/nvim-lspconfig</link>
+    <description>Quickstart configs for Nvim LSP</description>
+  </item>
+  <item>
+    <title>ntop / ntopng</title>
+    <link>https://github.com/ntop/ntopng</link>
+    <description>Web-based Traffic and Cybersecurity Network Traffic Monitoring</description>
+  </item>
+  <item>
+    <title>nvim-neo-tree / neo-tree.nvim</title>
+    <link>https://github.com/nvim-neo-tree/neo-tree.nvim</link>
+    <description>Neovim plugin to manage the file system and other tree like structures.</description>
+  </item>
+  <item>
+    <title>nickjvandyke / opencode.nvim</title>
+    <link>https://github.com/nickjvandyke/opencode.nvim</link>
+    <description>Neovim 🤝 OpenCode in the flow that you already know.</description>
   </item>
 </channel>
 </rss>

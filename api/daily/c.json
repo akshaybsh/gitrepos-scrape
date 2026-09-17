@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,29 +10,39 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 34217,
-      "forks": 3584,
-      "added_stars": "2,026 stars today"
+      "stars": 35222,
+      "forks": 3702,
+      "added_stars": "1,546 stars today"
     },
     {
-      "title": "DeusData / codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "title": "hathach / tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 43458,
-      "forks": 3537,
-      "added_stars": "160 stars today"
+      "stars": 7104,
+      "forks": 1519,
+      "added_stars": "1 star today"
     },
     {
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "title": "RightNow-AI / picolm",
+      "url": "https://github.com/RightNow-AI/picolm",
+      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22439,
-      "forks": 2130,
-      "added_stars": "35 stars today"
+      "stars": 2182,
+      "forks": 272,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "nginx / nginx",
+      "url": "https://github.com/nginx/nginx",
+      "description": "The official NGINX Open Source repository.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 31662,
+      "forks": 8302,
+      "added_stars": "14 stars today"
     },
     {
       "title": "colbymchenry / codegraph",
@@ -40,29 +50,29 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 71069,
-      "forks": 4564,
+      "stars": 71215,
+      "forks": 4573,
       "added_stars": "180 stars today"
     },
     {
-      "title": "microsoft / PowerToys",
-      "url": "https://github.com/microsoft/PowerToys",
-      "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "title": "DeusData / codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 138696,
-      "forks": 8571,
-      "added_stars": "37 stars today"
+      "stars": 43584,
+      "forks": 3550,
+      "added_stars": "164 stars today"
     },
     {
-      "title": "InterceptSuite / ProxyBridge",
-      "url": "https://github.com/InterceptSuite/ProxyBridge",
-      "description": "Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy",
+      "title": "espressif / esp-idf",
+      "url": "https://github.com/espressif/esp-idf",
+      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6399,
-      "forks": 387,
-      "added_stars": "17 stars today"
+      "stars": 19032,
+      "forks": 8486,
+      "added_stars": "9 stars today"
     },
     {
       "title": "madler / zlib",
@@ -70,19 +80,89 @@
       "description": "A massively spiffy yet delicately unobtrusive compression library.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7084,
-      "forks": 2853,
+      "stars": 7085,
+      "forks": 2854,
       "added_stars": "3 stars today"
     },
     {
-      "title": "luka-dev / mib2q-carplay-rgi",
-      "url": "https://github.com/luka-dev/mib2q-carplay-rgi",
-      "description": "Implementation of Route Guidance from CarPlay for MHI2Q",
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 127,
-      "forks": 24,
-      "added_stars": "6 stars today"
+      "stars": 28435,
+      "forks": 12972,
+      "added_stars": "23 stars today"
+    },
+    {
+      "title": "asmvik / yabai",
+      "url": "https://github.com/asmvik/yabai",
+      "description": "A tiling window manager for macOS based on binary space partitioning",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 29620,
+      "forks": 758,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "sonic-net / sonic-buildimage",
+      "url": "https://github.com/sonic-net/sonic-buildimage",
+      "description": "Scripts which perform an installable binary image build for SONiC",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1022,
+      "forks": 1950,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "lcdyk0517 / arkos4clone",
+      "url": "https://github.com/lcdyk0517/arkos4clone",
+      "description": "Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 697,
+      "forks": 437,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "semgrep / semgrep",
+      "url": "https://github.com/semgrep/semgrep",
+      "description": "Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16672,
+      "forks": 1058,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "libuv / libuv",
+      "url": "https://github.com/libuv/libuv",
+      "description": "Cross-platform asynchronous I/O",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27174,
+      "forks": 3931,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "scallyw4g / bonsai",
+      "url": "https://github.com/scallyw4g/bonsai",
+      "description": "The procedural generation voxel engine",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 1424,
+      "forks": 42,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "meshcore-dev / MeshCore",
+      "url": "https://github.com/meshcore-dev/MeshCore",
+      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3675,
+      "forks": 1340,
+      "added_stars": "7 stars today"
     },
     {
       "title": "CTCaer / hekate",
@@ -90,28 +170,8 @@
       "description": "hekate - A GUI based Nintendo Switch Bootloader",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 8709,
+      "stars": 8719,
       "forks": 680,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "ish-app / ish",
-      "url": "https://github.com/ish-app/ish",
-      "description": "Linux shell for iOS",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 20468,
-      "forks": 1525,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "betaflight / betaflight",
-      "url": "https://github.com/betaflight/betaflight",
-      "description": "Open Source Flight Controller Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 11541,
-      "forks": 4030,
       "added_stars": "7 stars today"
     },
     {
@@ -120,69 +180,19 @@
       "description": "Extremely Fast Compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 12069,
+      "stars": 12071,
       "forks": 1593,
-      "added_stars": "3 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "RightNow-AI / picolm",
-      "url": "https://github.com/RightNow-AI/picolm",
-      "description": "Run a 1-billion parameter LLM on a $10 board with 256MB RAM",
+      "title": "microsoft / mimalloc",
+      "url": "https://github.com/microsoft/mimalloc",
+      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2166,
-      "forks": 270,
-      "added_stars": "55 stars today"
-    },
-    {
-      "title": "PufferAI / PufferLib",
-      "url": "https://github.com/PufferAI/PufferLib",
-      "description": "Puffing up reinforcement learning",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 6437,
-      "forks": 569,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22267,
-      "forks": 1944,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "open5gs / open5gs",
-      "url": "https://github.com/open5gs/open5gs",
-      "description": "Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2721,
-      "forks": 1109,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "sonic-net / sonic-buildimage",
-      "url": "https://github.com/sonic-net/sonic-buildimage",
-      "description": "Scripts which perform an installable binary image build for SONiC",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1021,
-      "forks": 1949,
+      "stars": 13368,
+      "forks": 1177,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "xemu-project / xemu",
-      "url": "https://github.com/xemu-project/xemu",
-      "description": "Original Xbox Emulator for Windows, macOS, and Linux (Active Development)",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4108,
-      "forks": 508,
-      "added_stars": "5 stars today"
     }
   ]
 }

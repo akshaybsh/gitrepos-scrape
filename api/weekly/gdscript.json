@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
   "items": [
     {
       "title": "hi-godot / godot-ai",
@@ -10,9 +10,9 @@
       "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 2444,
-      "forks": 144,
-      "added_stars": "194 stars this week"
+      "stars": 2462,
+      "forks": 145,
+      "added_stars": "189 stars this week"
     },
     {
       "title": "Orama-Interactive / Pixelorama",
@@ -20,9 +20,9 @@
       "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 10318,
+      "stars": 10322,
       "forks": 551,
-      "added_stars": "50 stars this week"
+      "added_stars": "49 stars this week"
     },
     {
       "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
@@ -30,9 +30,9 @@
       "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 3143,
-      "forks": 306,
-      "added_stars": "38 stars this week"
+      "stars": 3147,
+      "forks": 305,
+      "added_stars": "35 stars this week"
     },
     {
       "title": "godotengine / godot-demo-projects",
@@ -40,9 +40,19 @@
       "description": "Demonstration and Template Projects",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 9529,
-      "forks": 2234,
-      "added_stars": "42 stars this week"
+      "stars": 9536,
+      "forks": 2235,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "RodZill4 / material-maker",
+      "url": "https://github.com/RodZill4/material-maker",
+      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 5922,
+      "forks": 375,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "Maran23 / script-ide",
@@ -52,27 +62,7 @@
       "languageColor": "#355570",
       "stars": 1047,
       "forks": 41,
-      "added_stars": "7 stars this week"
-    },
-    {
-      "title": "RodZill4 / material-maker",
-      "url": "https://github.com/RodZill4/material-maker",
-      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 5920,
-      "forks": 374,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "pablogila / TileMapDual",
-      "url": "https://github.com/pablogila/TileMapDual",
-      "description": "An automatic, real-time dual-grid tileset system for Godot",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 1246,
-      "forks": 58,
-      "added_stars": "24 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "Maaack / Godot-Game-Template",
@@ -80,19 +70,19 @@
       "description": "Godot template with a main menu, options menus, pause menu, credits, scene loader, extra tools, and an example game scene.",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 1650,
+      "stars": 1652,
       "forks": 106,
-      "added_stars": "19 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "bitbrain / beehave",
-      "url": "https://github.com/bitbrain/beehave",
-      "description": "🐝 behavior tree AI for Godot Engine",
+      "title": "pablogila / TileMapDual",
+      "url": "https://github.com/pablogila/TileMapDual",
+      "description": "An automatic, real-time dual-grid tileset system for Godot",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 3277,
-      "forks": 170,
-      "added_stars": "16 stars this week"
+      "stars": 1247,
+      "forks": 58,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "dialogic-godot / dialogic",
@@ -100,29 +90,9 @@
       "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 6002,
+      "stars": 6004,
       "forks": 349,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "dee-dee-catorce / desksaw",
-      "url": "https://github.com/dee-dee-catorce/desksaw",
-      "description": "An interactable desktop pet based on the Expie from Casualties Unknown, a neat little game by Orsoniks/Moffee.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 194,
-      "forks": 25,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "Alexofp / BDCC",
-      "url": "https://github.com/Alexofp/BDCC",
-      "description": "Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 350,
-      "forks": 124,
-      "added_stars": "4 stars this week"
+      "added_stars": "12 stars this week"
     }
   ]
 }

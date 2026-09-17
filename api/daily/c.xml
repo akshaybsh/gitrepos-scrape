@@ -4,66 +4,16 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:05:55 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 06:56:16 GMT</pubDate>
   <item>
     <title>JustVugg / colibri</title>
     <link>https://github.com/JustVugg/colibri</link>
     <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
   </item>
   <item>
-    <title>DeusData / codebase-memory-mcp</title>
-    <link>https://github.com/DeusData/codebase-memory-mcp</link>
-    <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
-  </item>
-  <item>
-    <title>antirez / ds4</title>
-    <link>https://github.com/antirez/ds4</link>
-    <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
-  </item>
-  <item>
-    <title>colbymchenry / codegraph</title>
-    <link>https://github.com/colbymchenry/codegraph</link>
-    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
-  </item>
-  <item>
-    <title>microsoft / PowerToys</title>
-    <link>https://github.com/microsoft/PowerToys</link>
-    <description>Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows</description>
-  </item>
-  <item>
-    <title>InterceptSuite / ProxyBridge</title>
-    <link>https://github.com/InterceptSuite/ProxyBridge</link>
-    <description>Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy</description>
-  </item>
-  <item>
-    <title>madler / zlib</title>
-    <link>https://github.com/madler/zlib</link>
-    <description>A massively spiffy yet delicately unobtrusive compression library.</description>
-  </item>
-  <item>
-    <title>luka-dev / mib2q-carplay-rgi</title>
-    <link>https://github.com/luka-dev/mib2q-carplay-rgi</link>
-    <description>Implementation of Route Guidance from CarPlay for MHI2Q</description>
-  </item>
-  <item>
-    <title>CTCaer / hekate</title>
-    <link>https://github.com/CTCaer/hekate</link>
-    <description>hekate - A GUI based Nintendo Switch Bootloader</description>
-  </item>
-  <item>
-    <title>ish-app / ish</title>
-    <link>https://github.com/ish-app/ish</link>
-    <description>Linux shell for iOS</description>
-  </item>
-  <item>
-    <title>betaflight / betaflight</title>
-    <link>https://github.com/betaflight/betaflight</link>
-    <description>Open Source Flight Controller Firmware</description>
-  </item>
-  <item>
-    <title>lz4 / lz4</title>
-    <link>https://github.com/lz4/lz4</link>
-    <description>Extremely Fast Compression algorithm</description>
+    <title>hathach / tinyusb</title>
+    <link>https://github.com/hathach/tinyusb</link>
+    <description>An open source cross-platform USB stack for embedded system</description>
   </item>
   <item>
     <title>RightNow-AI / picolm</title>
@@ -71,19 +21,39 @@
     <description>Run a 1-billion parameter LLM on a $10 board with 256MB RAM</description>
   </item>
   <item>
-    <title>PufferAI / PufferLib</title>
-    <link>https://github.com/PufferAI/PufferLib</link>
-    <description>Puffing up reinforcement learning</description>
+    <title>nginx / nginx</title>
+    <link>https://github.com/nginx/nginx</link>
+    <description>The official NGINX Open Source repository.</description>
   </item>
   <item>
-    <title>DarkFlippers / unleashed-firmware</title>
-    <link>https://github.com/DarkFlippers/unleashed-firmware</link>
-    <description>Flipper Zero Unleashed Firmware</description>
+    <title>colbymchenry / codegraph</title>
+    <link>https://github.com/colbymchenry/codegraph</link>
+    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
   </item>
   <item>
-    <title>open5gs / open5gs</title>
-    <link>https://github.com/open5gs/open5gs</link>
-    <description>Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-19)</description>
+    <title>DeusData / codebase-memory-mcp</title>
+    <link>https://github.com/DeusData/codebase-memory-mcp</link>
+    <description>High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.</description>
+  </item>
+  <item>
+    <title>espressif / esp-idf</title>
+    <link>https://github.com/espressif/esp-idf</link>
+    <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
+  </item>
+  <item>
+    <title>madler / zlib</title>
+    <link>https://github.com/madler/zlib</link>
+    <description>A massively spiffy yet delicately unobtrusive compression library.</description>
+  </item>
+  <item>
+    <title>openwrt / openwrt</title>
+    <link>https://github.com/openwrt/openwrt</link>
+    <description>This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</description>
+  </item>
+  <item>
+    <title>asmvik / yabai</title>
+    <link>https://github.com/asmvik/yabai</link>
+    <description>A tiling window manager for macOS based on binary space partitioning</description>
   </item>
   <item>
     <title>sonic-net / sonic-buildimage</title>
@@ -91,9 +61,44 @@
     <description>Scripts which perform an installable binary image build for SONiC</description>
   </item>
   <item>
-    <title>xemu-project / xemu</title>
-    <link>https://github.com/xemu-project/xemu</link>
-    <description>Original Xbox Emulator for Windows, macOS, and Linux (Active Development)</description>
+    <title>lcdyk0517 / arkos4clone</title>
+    <link>https://github.com/lcdyk0517/arkos4clone</link>
+    <description>Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.</description>
+  </item>
+  <item>
+    <title>semgrep / semgrep</title>
+    <link>https://github.com/semgrep/semgrep</link>
+    <description>Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</description>
+  </item>
+  <item>
+    <title>libuv / libuv</title>
+    <link>https://github.com/libuv/libuv</link>
+    <description>Cross-platform asynchronous I/O</description>
+  </item>
+  <item>
+    <title>scallyw4g / bonsai</title>
+    <link>https://github.com/scallyw4g/bonsai</link>
+    <description>The procedural generation voxel engine</description>
+  </item>
+  <item>
+    <title>meshcore-dev / MeshCore</title>
+    <link>https://github.com/meshcore-dev/MeshCore</link>
+    <description>A new lightweight, hybrid routing mesh protocol for packet radios</description>
+  </item>
+  <item>
+    <title>CTCaer / hekate</title>
+    <link>https://github.com/CTCaer/hekate</link>
+    <description>hekate - A GUI based Nintendo Switch Bootloader</description>
+  </item>
+  <item>
+    <title>lz4 / lz4</title>
+    <link>https://github.com/lz4/lz4</link>
+    <description>Extremely Fast Compression algorithm</description>
+  </item>
+  <item>
+    <title>microsoft / mimalloc</title>
+    <link>https://github.com/microsoft/mimalloc</link>
+    <description>mimalloc is a compact general purpose allocator with excellent performance.</description>
   </item>
 </channel>
 </rss>

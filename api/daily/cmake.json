@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,29 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27463,
-      "forks": 7725,
-      "added_stars": "2 stars today"
+      "stars": 27465,
+      "forks": 7726,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1651,
+      "forks": 130,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 703,
+      "added_stars": "0 stars today"
     },
     {
       "title": "corrosion-rs / corrosion",
@@ -20,19 +40,9 @@
       "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1494,
+      "stars": 1497,
       "forks": 150,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "boostorg / cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 120,
-      "forks": 37,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "ecmwf / ecbuild",
@@ -42,26 +52,6 @@
       "languageColor": "#DA3434",
       "stars": 39,
       "forks": 41,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "cpm-cmake / CPM.cmake",
-      "url": "https://github.com/cpm-cmake/CPM.cmake",
-      "description": "📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 4124,
-      "forks": 226,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "arsenm / sanitizers-cmake",
-      "url": "https://github.com/arsenm/sanitizers-cmake",
-      "description": "CMake modules to help use sanitizers",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 413,
-      "forks": 74,
       "added_stars": "0 stars today"
     }
   ]

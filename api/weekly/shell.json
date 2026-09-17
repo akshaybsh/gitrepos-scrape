@@ -2,7 +2,7 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
   "items": [
     {
       "title": "obra / superpowers",
@@ -10,9 +10,9 @@
       "description": "An agentic skills framework & software development methodology that works.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 287309,
-      "forks": 25690,
-      "added_stars": "4,170 stars this week"
+      "stars": 287742,
+      "forks": 25738,
+      "added_stars": "4,023 stars this week"
     },
     {
       "title": "kunchenguid / firstmate",
@@ -20,9 +20,9 @@
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6087,
-      "forks": 1888,
-      "added_stars": "1,056 stars this week"
+      "stars": 6225,
+      "forks": 1926,
+      "added_stars": "873 stars this week"
     },
     {
       "title": "assafdori / bypass-mdm",
@@ -30,19 +30,9 @@
       "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2345,
-      "forks": 540,
-      "added_stars": "106 stars this week"
-    },
-    {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9299,
-      "forks": 301,
-      "added_stars": "113 stars this week"
+      "stars": 2350,
+      "forks": 542,
+      "added_stars": "104 stars this week"
     },
     {
       "title": "OthmanAdi / planning-with-files",
@@ -50,29 +40,19 @@
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26925,
-      "forks": 2241,
-      "added_stars": "217 stars this week"
+      "stars": 26945,
+      "forks": 2243,
+      "added_stars": "215 stars this week"
     },
     {
-      "title": "github / copilot-cli",
-      "url": "https://github.com/github/copilot-cli",
-      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11172,
-      "forks": 1927,
-      "added_stars": "38 stars this week"
-    },
-    {
-      "title": "community-scripts / ProxmoxVE",
-      "url": "https://github.com/community-scripts/ProxmoxVE",
-      "description": "Proxmox VE Helper-Scripts (Community Edition)",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29600,
-      "forks": 2887,
-      "added_stars": "92 stars this week"
+      "stars": 9303,
+      "forks": 300,
+      "added_stars": "103 stars this week"
     },
     {
       "title": "msitarzewski / agency-agents",
@@ -80,9 +60,49 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 152680,
-      "forks": 24612,
-      "added_stars": "1,684 stars this week"
+      "stars": 152979,
+      "forks": 24671,
+      "added_stars": "1,707 stars this week"
+    },
+    {
+      "title": "community-scripts / ProxmoxVE",
+      "url": "https://github.com/community-scripts/ProxmoxVE",
+      "description": "Proxmox VE Helper-Scripts (Community Edition)",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29608,
+      "forks": 2887,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "jqssun / android-titanium-browser",
+      "url": "https://github.com/jqssun/android-titanium-browser",
+      "description": "Secure open-source Android browser with support for extensions",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2539,
+      "forks": 113,
+      "added_stars": "166 stars this week"
+    },
+    {
+      "title": "amoghmunikote / cmpunlocker",
+      "url": "https://github.com/amoghmunikote/cmpunlocker",
+      "description": "A tool to unlobotomize your NVIDIA card!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 648,
+      "forks": 236,
+      "added_stars": "74 stars this week"
+    },
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33269,
+      "forks": 1864,
+      "added_stars": "117 stars this week"
     },
     {
       "title": "pi-hole / docker-pi-hole",
@@ -90,49 +110,9 @@
       "description": "The official Pi-hole Docker image from pi-hole.net",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11579,
+      "stars": 11582,
       "forks": 1249,
-      "added_stars": "49 stars this week"
-    },
-    {
-      "title": "omacom / omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 41354,
-      "forks": 4674,
-      "added_stars": "1,987 stars this week"
-    },
-    {
-      "title": "zhnnky329 / MathModeling-skills",
-      "url": "https://github.com/zhnnky329/MathModeling-skills",
-      "description": "面向数学建模竞赛的 Claude Code / Codex Skills ，支持分阶段建模流程与 Python、MATLAB/北太天元代码分支。",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 897,
-      "forks": 38,
-      "added_stars": "106 stars this week"
-    },
-    {
-      "title": "auscaster / frantic-board",
-      "url": "https://github.com/auscaster/frantic-board",
-      "description": "HELP WANTED: AI AGENTS. Real bounties, real money, every payout sealed to a public ledger. The notice board for gofrantic.com",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 366,
-      "forks": 42,
-      "added_stars": "35 stars this week"
-    },
-    {
-      "title": "233boy / v2ray",
-      "url": "https://github.com/233boy/v2ray",
-      "description": "最好用的 V2Ray 一键安装脚本 & 管理脚本",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29619,
-      "forks": 16609,
-      "added_stars": "47 stars this week"
+      "added_stars": "52 stars this week"
     },
     {
       "title": "acmesh-official / acme.sh",
@@ -140,9 +120,39 @@
       "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 47660,
-      "forks": 5672,
-      "added_stars": "62 stars this week"
+      "stars": 47662,
+      "forks": 5671,
+      "added_stars": "61 stars this week"
+    },
+    {
+      "title": "expo / skills",
+      "url": "https://github.com/expo/skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2538,
+      "forks": 144,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "juewuy / ShellCrash",
+      "url": "https://github.com/juewuy/ShellCrash",
+      "description": "Run sing-box/mihomo as client in shell",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 13284,
+      "forks": 1869,
+      "added_stars": "30 stars this week"
+    },
+    {
+      "title": "zhnnky329 / MathModeling-skills",
+      "url": "https://github.com/zhnnky329/MathModeling-skills",
+      "description": "面向数学建模竞赛的 Claude Code / Codex Skills ，支持分阶段建模流程与 Python、MATLAB/北太天元代码分支。",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 908,
+      "forks": 38,
+      "added_stars": "80 stars this week"
     }
   ]
 }

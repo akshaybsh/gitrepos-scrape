@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
   "items": [
     {
       "title": "numtide / llm-agents.nix",
@@ -10,9 +10,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1945,
-      "forks": 247,
-      "added_stars": "194 stars this month"
+      "stars": 1954,
+      "forks": 250,
+      "added_stars": "198 stars this month"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -20,19 +20,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26140,
-      "forks": 20106,
-      "added_stars": "389 stars this month"
-    },
-    {
-      "title": "nix-darwin / nix-darwin",
-      "url": "https://github.com/nix-darwin/nix-darwin",
-      "description": "Manage your macOS using Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 5925,
-      "forks": 659,
-      "added_stars": "112 stars this month"
+      "stars": 26166,
+      "forks": 20113,
+      "added_stars": "396 stars this month"
     },
     {
       "title": "NixOS / nixos-hardware",
@@ -40,8 +30,8 @@
       "description": "A collection of NixOS modules covering hardware quirks.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3300,
-      "forks": 975,
+      "stars": 3302,
+      "forks": 974,
       "added_stars": "40 stars this month"
     },
     {
@@ -50,9 +40,9 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10346,
+      "stars": 10351,
       "forks": 2478,
-      "added_stars": "139 stars this month"
+      "added_stars": "135 stars this month"
     },
     {
       "title": "supabase / postgres",
@@ -61,7 +51,7 @@
       "language": "Nix",
       "languageColor": "#7e7eff",
       "stars": 1788,
-      "forks": 265,
+      "forks": 266,
       "added_stars": "16 stars this month"
     },
     {
@@ -72,7 +62,7 @@
       "languageColor": "#7e7eff",
       "stars": 2947,
       "forks": 404,
-      "added_stars": "39 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "microvm-nix / microvm.nix",
@@ -80,9 +70,19 @@
       "description": "NixOS MicroVMs",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2937,
+      "stars": 2941,
       "forks": 231,
       "added_stars": "88 stars this month"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 5934,
+      "forks": 659,
+      "added_stars": "114 stars this month"
     },
     {
       "title": "Mic92 / sops-nix",
@@ -90,19 +90,9 @@
       "description": "Atomic secret provisioning for NixOS based on sops",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3167,
-      "forks": 234,
-      "added_stars": "65 stars this month"
-    },
-    {
-      "title": "nix-community / stylix",
-      "url": "https://github.com/nix-community/stylix",
-      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 2405,
-      "forks": 359,
-      "added_stars": "48 stars this month"
+      "stars": 3169,
+      "forks": 235,
+      "added_stars": "63 stars this month"
     },
     {
       "title": "nix-community / disko",
@@ -110,9 +100,9 @@
       "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3324,
+      "stars": 3325,
       "forks": 330,
-      "added_stars": "75 stars this month"
+      "added_stars": "74 stars this month"
     },
     {
       "title": "nix-community / NixOS-WSL",
@@ -120,9 +110,19 @@
       "description": "NixOS on WSL [maintainer=@nzbr]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3095,
+      "stars": 3096,
       "forks": 165,
-      "added_stars": "50 stars this month"
+      "added_stars": "51 stars this month"
+    },
+    {
+      "title": "nix-community / stylix",
+      "url": "https://github.com/nix-community/stylix",
+      "description": "Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 2406,
+      "forks": 360,
+      "added_stars": "47 stars this month"
     }
   ]
 }

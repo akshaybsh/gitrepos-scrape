@@ -2,8 +2,18 @@
   "title": "GitHub Verilog Languages Daily Trending",
   "description": "Daily Trending of Verilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
   "items": [
+    {
+      "title": "The-OpenROAD-Project / OpenROAD",
+      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 3107,
+      "forks": 1012,
+      "added_stars": "22 stars this week"
+    },
     {
       "title": "YosysHQ / picorv32",
       "url": "https://github.com/YosysHQ/picorv32",
@@ -15,26 +25,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "The-OpenROAD-Project / OpenROAD",
-      "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
-      "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/",
-      "language": "Verilog",
-      "languageColor": "#b2b7f8",
-      "stars": 3104,
-      "forks": 1011,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "analogdevicesinc / hdl",
-      "url": "https://github.com/analogdevicesinc/hdl",
-      "description": "HDL libraries and projects",
-      "language": "Tcl",
-      "languageColor": "#e4cc98",
-      "stars": 2015,
-      "forks": 1685,
-      "added_stars": "6 stars this week"
-    },
-    {
       "title": "The-OpenROAD-Project / OpenROAD-flow-scripts",
       "url": "https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts",
       "description": "OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/",
@@ -42,7 +32,7 @@
       "languageColor": "#b2b7f8",
       "stars": 741,
       "forks": 525,
-      "added_stars": "10 stars this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "OpenPOWERFoundation / a2o",
@@ -53,6 +43,16 @@
       "stars": 58,
       "forks": 13,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "TinyTapeout / ttsky-verilog-template",
+      "url": "https://github.com/TinyTapeout/ttsky-verilog-template",
+      "description": "Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects",
+      "language": "Verilog",
+      "languageColor": "#b2b7f8",
+      "stars": 54,
+      "forks": 491,
+      "added_stars": "2 stars this week"
     }
   ]
 }

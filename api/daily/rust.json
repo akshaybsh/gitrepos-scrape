@@ -2,87 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
+    {
+      "title": "ankitects / anki",
+      "url": "https://github.com/ankitects/anki",
+      "description": "Anki is a smart spaced repetition flashcard program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 30977,
+      "forks": 3214,
+      "added_stars": "58 stars today"
+    },
     {
       "title": "alphaXiv / OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3650,
-      "forks": 237,
-      "added_stars": "531 stars today"
-    },
-    {
-      "title": "pacifio / atlas",
-      "url": "https://github.com/pacifio/atlas",
-      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4737,
-      "forks": 281,
-      "added_stars": "91 stars today"
-    },
-    {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13198,
-      "forks": 1118,
-      "added_stars": "258 stars today"
-    },
-    {
-      "title": "dani-garcia / vaultwarden",
-      "url": "https://github.com/dani-garcia/vaultwarden",
-      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 67734,
-      "forks": 3220,
-      "added_stars": "206 stars today"
-    },
-    {
-      "title": "rustfs / rustfs",
-      "url": "https://github.com/rustfs/rustfs",
-      "description": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 32372,
-      "forks": 1447,
-      "added_stars": "121 stars today"
-    },
-    {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 80635,
-      "forks": 5111,
-      "added_stars": "190 stars today"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 94210,
-      "forks": 12462,
-      "added_stars": "421 stars today"
-    },
-    {
-      "title": "oxc-project / oxc",
-      "url": "https://github.com/oxc-project/oxc",
-      "description": "⚓ A collection of high-performance JavaScript tools.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22804,
-      "forks": 1300,
-      "added_stars": "11 stars today"
+      "stars": 4633,
+      "forks": 282,
+      "added_stars": "1,017 stars today"
     },
     {
       "title": "rustdesk / rustdesk",
@@ -90,89 +30,129 @@
       "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 123745,
-      "forks": 19054,
-      "added_stars": "172 stars today"
+      "stars": 123954,
+      "forks": 19107,
+      "added_stars": "185 stars today"
     },
     {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+      "title": "rustfs / rustfs",
+      "url": "https://github.com/rustfs/rustfs",
+      "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7866,
-      "forks": 272,
-      "added_stars": "128 stars today"
+      "stars": 32746,
+      "forks": 1461,
+      "added_stars": "156 stars today"
     },
     {
-      "title": "RightNow-AI / openfang",
-      "url": "https://github.com/RightNow-AI/openfang",
-      "description": "Open-source Agent Operating System",
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 18238,
-      "forks": 2291,
-      "added_stars": "7 stars today"
+      "stars": 13643,
+      "forks": 1151,
+      "added_stars": "869 stars today"
     },
     {
-      "title": "firecracker-microvm / firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36805,
-      "forks": 2625,
-      "added_stars": "19 stars today"
+      "stars": 94432,
+      "forks": 12478,
+      "added_stars": "196 stars today"
     },
     {
-      "title": "git-ai-project / git-ai",
-      "url": "https://github.com/git-ai-project/git-ai",
-      "description": "A Git extension for tracking the AI-generated code in your repos",
+      "title": "dbt-labs / dbt",
+      "url": "https://github.com/dbt-labs/dbt",
+      "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2784,
-      "forks": 294,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "biomejs / biome",
-      "url": "https://github.com/biomejs/biome",
-      "description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 25848,
-      "forks": 1233,
+      "stars": 13951,
+      "forks": 2566,
       "added_stars": "11 stars today"
     },
     {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+      "title": "sharkdp / fd",
+      "url": "https://github.com/sharkdp/fd",
+      "description": "A simple, fast and user-friendly alternative to 'find'",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31731,
-      "forks": 2882,
-      "added_stars": "83 stars today"
+      "stars": 44554,
+      "forks": 1137,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
+      "title": "juspay / hyperswitch",
+      "url": "https://github.com/juspay/hyperswitch",
+      "description": "Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 124549,
-      "forks": 19255,
-      "added_stars": "314 stars today"
+      "stars": 43731,
+      "forks": 5135,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "wealthfolio / wealthfolio",
-      "url": "https://github.com/wealthfolio/wealthfolio",
-      "description": "A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.",
+      "title": "timhartmann7 / omnyssh",
+      "url": "https://github.com/timhartmann7/omnyssh",
+      "description": "A fast, keyboard-driven TUI for managing SSH connections, written in Rust",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9005,
-      "forks": 705,
-      "added_stars": "25 stars today"
+      "stars": 818,
+      "forks": 43,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "block / buzz",
+      "url": "https://github.com/block/buzz",
+      "description": "A hive mind communication platform",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 33534,
+      "forks": 4380,
+      "added_stars": "498 stars today"
+    },
+    {
+      "title": "uutils / coreutils",
+      "url": "https://github.com/uutils/coreutils",
+      "description": "Cross-platform Rust rewrite of the GNU coreutils",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 24216,
+      "forks": 2035,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "dani-garcia / vaultwarden",
+      "url": "https://github.com/dani-garcia/vaultwarden",
+      "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 67917,
+      "forks": 3224,
+      "added_stars": "121 stars today"
+    },
+    {
+      "title": "dora-rs / dora",
+      "url": "https://github.com/dora-rs/dora",
+      "description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4061,
+      "forks": 440,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2625,
+      "forks": 326,
+      "added_stars": "21 stars today"
     }
   ]
 }

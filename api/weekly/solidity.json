@@ -2,7 +2,7 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
   "items": [
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
@@ -10,9 +10,19 @@
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27242,
-      "forks": 12401,
-      "added_stars": "14 stars this week"
+      "stars": 27241,
+      "forks": 12402,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "SunWeb3Sec / DeFiHackLabs",
+      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "description": "Reproduce DeFi hacked incidents using Foundry.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 6789,
+      "forks": 1481,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -21,7 +31,7 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 1055,
-      "forks": 520,
+      "forks": 522,
       "added_stars": "0 stars this week"
     },
     {
@@ -51,8 +61,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 2529,
-      "forks": 1327,
-      "added_stars": "4 stars this week"
+      "forks": 1328,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "transmissions11 / solmate",
@@ -70,19 +80,9 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3373,
+      "stars": 3374,
       "forks": 490,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "SunWeb3Sec / DeFiHackLabs",
-      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
-      "description": "Reproduce DeFi hacked incidents using Foundry.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 6790,
-      "forks": 1479,
-      "added_stars": "19 stars this week"
+      "added_stars": "7 stars this week"
     }
   ]
 }

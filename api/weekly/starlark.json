@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,9 +10,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8756,
-      "forks": 2630,
-      "added_stars": "23 stars this week"
+      "stars": 8759,
+      "forks": 2632,
+      "added_stars": "25 stars this week"
     },
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -21,8 +21,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 386,
-      "forks": 893,
-      "added_stars": "1 star this week"
+      "forks": 897,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -75,26 +75,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "tronbyt / apps",
-      "url": "https://github.com/tronbyt/apps",
-      "description": "Hard Fork of Tidbyt Community Repo",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 58,
-      "forks": 138,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3976,
-      "forks": 303,
-      "added_stars": "13 stars this week"
-    },
-    {
       "title": "bazel-contrib / rules_python",
       "url": "https://github.com/bazel-contrib/rules_python",
       "description": "Bazel Python Rules",
@@ -102,7 +82,17 @@
       "languageColor": "#76d275",
       "stars": 689,
       "forks": 722,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3980,
+      "forks": 303,
+      "added_stars": "13 stars this week"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -110,7 +100,7 @@
       "description": "Rust rules for Bazel",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 843,
+      "stars": 844,
       "forks": 652,
       "added_stars": "3 stars this week"
     },
@@ -121,7 +111,7 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 427,
-      "forks": 818,
+      "forks": 819,
       "added_stars": "3 stars this week"
     }
   ]

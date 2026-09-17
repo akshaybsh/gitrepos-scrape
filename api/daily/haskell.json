@@ -2,37 +2,87 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12408,
-      "forks": 502,
-      "added_stars": "4 stars today"
-    },
     {
       "title": "simplex-chat / simplex-chat",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19451,
-      "forks": 1350,
-      "added_stars": "9 stars today"
+      "stars": 19455,
+      "forks": 1351,
+      "added_stars": "10 stars today"
     },
     {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1784,
-      "forks": 73,
-      "added_stars": "3 stars today"
+      "stars": 12410,
+      "forks": 502,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40046,
+      "forks": 1945,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 3179,
+      "forks": 755,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1745,
+      "forks": 751,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27671,
+      "forks": 1228,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "nammayatri / nammayatri",
+      "url": "https://github.com/nammayatri/nammayatri",
+      "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2566,
+      "forks": 399,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 46305,
+      "forks": 4020,
+      "added_stars": "8 stars today"
     },
     {
       "title": "agda / agda",
@@ -45,64 +95,24 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27670,
-      "forks": 1228,
-      "added_stars": "4 stars today"
-    },
-    {
       "title": "haskell / haskell-language-server",
       "url": "https://github.com/haskell/haskell-language-server",
       "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 2958,
-      "forks": 455,
-      "added_stars": "3 stars today"
+      "forks": 456,
+      "added_stars": "1 star today"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "title": "mtolly / onyx",
+      "url": "https://github.com/mtolly/onyx",
+      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3179,
-      "forks": 754,
+      "stars": 297,
+      "forks": 23,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "koalaman / shellcheck",
-      "url": "https://github.com/koalaman/shellcheck",
-      "description": "ShellCheck, a static analysis tool for shell scripts",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 40041,
-      "forks": 1944,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "haskell / cabal",
-      "url": "https://github.com/haskell/cabal",
-      "description": "Official upstream development repository for Cabal and cabal-install",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1745,
-      "forks": 751,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "carp-lang / Carp",
-      "url": "https://github.com/carp-lang/Carp",
-      "description": "A statically typed lisp, without a GC, for real-time applications.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 6044,
-      "forks": 187,
-      "added_stars": "1 star today"
     }
   ]
 }

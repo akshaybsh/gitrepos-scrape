@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:02:05 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
@@ -19,11 +19,6 @@
     <title>google-deepmind / formal-conjectures</title>
     <link>https://github.com/google-deepmind/formal-conjectures</link>
     <description>A collection of formalized statements of conjectures in Lean.</description>
-  </item>
-  <item>
-    <title>leanprover / cslib</title>
-    <link>https://github.com/leanprover/cslib</link>
-    <description>The Lean Computer Science Library (CSLib)</description>
   </item>
   <item>
     <title>LionSR / TNLean</title>
@@ -41,9 +36,9 @@
     <description>Intuitive, type-safe expression quotations for Lean 4.</description>
   </item>
   <item>
-    <title>leanprover-community / physlib</title>
-    <link>https://github.com/leanprover-community/physlib</link>
-    <description>A project to digitalise results from physics into Lean.</description>
+    <title>leanprover-community / ProofWidgets4</title>
+    <link>https://github.com/leanprover-community/ProofWidgets4</link>
+    <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
   </item>
   <item>
     <title>leanprover-community / LeanSearchClient</title>
@@ -56,11 +51,6 @@
     <description>White-box automation for Lean 4</description>
   </item>
   <item>
-    <title>leanprover-community / ProofWidgets4</title>
-    <link>https://github.com/leanprover-community/ProofWidgets4</link>
-    <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
-  </item>
-  <item>
     <title>leanprover-community / plausible</title>
     <link>https://github.com/leanprover-community/plausible</link>
     <description></description>
@@ -71,9 +61,14 @@
     <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
-    <title>Verified-zkEVM / evm-asm</title>
-    <link>https://github.com/Verified-zkEVM/evm-asm</link>
-    <description></description>
+    <title>leanprover-community / physlib</title>
+    <link>https://github.com/leanprover-community/physlib</link>
+    <description>A project to digitalise results from physics into Lean.</description>
+  </item>
+  <item>
+    <title>leanprover / cslib</title>
+    <link>https://github.com/leanprover/cslib</link>
+    <description>The Lean Computer Science Library (CSLib)</description>
   </item>
   <item>
     <title>leanprover-community / batteries</title>

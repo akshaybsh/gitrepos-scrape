@@ -2,8 +2,18 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
+    {
+      "title": "w3c / csswg-drafts",
+      "url": "https://github.com/w3c/csswg-drafts",
+      "description": "CSS Working Group Editor Drafts",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4881,
+      "forks": 816,
+      "added_stars": "1 star today"
+    },
     {
       "title": "w3c / webauthn",
       "url": "https://github.com/w3c/webauthn",
@@ -12,17 +22,27 @@
       "languageColor": "#5562ac",
       "stars": 1458,
       "forks": 306,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "w3c / csswg-drafts",
-      "url": "https://github.com/w3c/csswg-drafts",
-      "description": "CSS Working Group Editor Drafts",
+      "title": "gpuweb / gpuweb",
+      "url": "https://github.com/gpuweb/gpuweb",
+      "description": "Where the GPU for the Web work happens!",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4880,
-      "forks": 816,
+      "stars": 5473,
+      "forks": 381,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "webmachinelearning / webmcp",
+      "url": "https://github.com/webmachinelearning/webmcp",
+      "description": "🤖 WebMCP",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 4058,
+      "forks": 269,
+      "added_stars": "22 stars today"
     },
     {
       "title": "w3c / ServiceWorker",

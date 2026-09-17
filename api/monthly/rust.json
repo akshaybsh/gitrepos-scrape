@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
   "items": [
     {
       "title": "AprilNEA / OpenLogi",
@@ -10,9 +10,9 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 21246,
-      "forks": 685,
-      "added_stars": "12,792 stars this month"
+      "stars": 21369,
+      "forks": 689,
+      "added_stars": "12,927 stars this month"
     },
     {
       "title": "akitaonrails / ai-memory",
@@ -20,9 +20,9 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6958,
-      "forks": 466,
-      "added_stars": "5,449 stars this month"
+      "stars": 7036,
+      "forks": 470,
+      "added_stars": "5,445 stars this month"
     },
     {
       "title": "AlexsJones / llmfit",
@@ -30,139 +30,9 @@
       "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 36650,
-      "forks": 2317,
-      "added_stars": "5,053 stars this month"
-    },
-    {
-      "title": "tonhowtf / omniget",
-      "url": "https://github.com/tonhowtf/omniget",
-      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13201,
-      "forks": 1119,
-      "added_stars": "3,994 stars this month"
-    },
-    {
-      "title": "max-sixty / worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 7866,
-      "forks": 272,
-      "added_stars": "1,330 stars this month"
-    },
-    {
-      "title": "firecracker-microvm / firecracker",
-      "url": "https://github.com/firecracker-microvm/firecracker",
-      "description": "Secure and fast microVMs for serverless computing.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36805,
-      "forks": 2625,
-      "added_stars": "702 stars this month"
-    },
-    {
-      "title": "RyanCodrai / turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 17185,
-      "forks": 1469,
-      "added_stars": "2,456 stars this month"
-    },
-    {
-      "title": "pnpm / pnpm",
-      "url": "https://github.com/pnpm/pnpm",
-      "description": "Fast, disk space efficient package manager",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 36536,
-      "forks": 1730,
-      "added_stars": "497 stars this month"
-    },
-    {
-      "title": "gleam-lang / gleam",
-      "url": "https://github.com/gleam-lang/gleam",
-      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 21921,
-      "forks": 1021,
-      "added_stars": "211 stars this month"
-    },
-    {
-      "title": "tinyhumansai / openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39814,
-      "forks": 3921,
-      "added_stars": "3,776 stars this month"
-    },
-    {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 124550,
-      "forks": 19255,
-      "added_stars": "18,928 stars this month"
-    },
-    {
-      "title": "ajeetdsouza / zoxide",
-      "url": "https://github.com/ajeetdsouza/zoxide",
-      "description": "A smarter cd command. Supports all major shells.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39496,
-      "forks": 898,
-      "added_stars": "892 stars this month"
-    },
-    {
-      "title": "nautechsystems / nautilus_trader",
-      "url": "https://github.com/nautechsystems/nautilus_trader",
-      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 29008,
-      "forks": 3796,
-      "added_stars": "3,584 stars this month"
-    },
-    {
-      "title": "xingkongliang / skills-manager",
-      "url": "https://github.com/xingkongliang/skills-manager",
-      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4763,
-      "forks": 408,
-      "added_stars": "1,012 stars this month"
-    },
-    {
-      "title": "pola-rs / polars",
-      "url": "https://github.com/pola-rs/polars",
-      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 39741,
-      "forks": 3104,
-      "added_stars": "433 stars this month"
-    },
-    {
-      "title": "GraphiteEditor / Graphite",
-      "url": "https://github.com/GraphiteEditor/Graphite",
-      "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 27252,
-      "forks": 1256,
-      "added_stars": "439 stars this month"
+      "stars": 36698,
+      "forks": 2322,
+      "added_stars": "4,921 stars this month"
     },
     {
       "title": "longbridge / gpui-kit",
@@ -170,29 +40,119 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 14406,
+      "stars": 14441,
       "forks": 882,
-      "added_stars": "1,594 stars this month"
+      "added_stars": "1,597 stars this month"
     },
     {
-      "title": "HakanSeven12 / OpenCADStudio",
-      "url": "https://github.com/HakanSeven12/OpenCADStudio",
-      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "title": "tonhowtf / omniget",
+      "url": "https://github.com/tonhowtf/omniget",
+      "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2010,
-      "forks": 194,
-      "added_stars": "1,135 stars this month"
+      "stars": 13645,
+      "forks": 1151,
+      "added_stars": "4,800 stars this month"
     },
     {
-      "title": "sinelaw / fresh",
-      "url": "https://github.com/sinelaw/fresh",
-      "description": "Terminal based IDE & text editor: easy, powerful and fast",
+      "title": "max-sixty / worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8901,
-      "forks": 334,
-      "added_stars": "651 stars this month"
+      "stars": 7946,
+      "forks": 272,
+      "added_stars": "1,464 stars this month"
+    },
+    {
+      "title": "NVIDIA-NeMo / Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3135,
+      "forks": 279,
+      "added_stars": "1,493 stars this month"
+    },
+    {
+      "title": "firecracker-microvm / firecracker",
+      "url": "https://github.com/firecracker-microvm/firecracker",
+      "description": "Secure and fast microVMs for serverless computing.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36828,
+      "forks": 2631,
+      "added_stars": "748 stars this month"
+    },
+    {
+      "title": "gleam-lang / gleam",
+      "url": "https://github.com/gleam-lang/gleam",
+      "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 21926,
+      "forks": 1021,
+      "added_stars": "213 stars this month"
+    },
+    {
+      "title": "tinyhumansai / openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "description": "OpenHuman is an open source agent harness with local-first memory, agent orchestration, and workflows",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39828,
+      "forks": 3924,
+      "added_stars": "3,767 stars this month"
+    },
+    {
+      "title": "pnpm / pnpm",
+      "url": "https://github.com/pnpm/pnpm",
+      "description": "Fast, disk space efficient package manager",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 36540,
+      "forks": 1732,
+      "added_stars": "485 stars this month"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 124847,
+      "forks": 19314,
+      "added_stars": "19,131 stars this month"
+    },
+    {
+      "title": "xingkongliang / skills-manager",
+      "url": "https://github.com/xingkongliang/skills-manager",
+      "description": "A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 4792,
+      "forks": 411,
+      "added_stars": "1,020 stars this month"
+    },
+    {
+      "title": "ajeetdsouza / zoxide",
+      "url": "https://github.com/ajeetdsouza/zoxide",
+      "description": "A smarter cd command. Supports all major shells.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39523,
+      "forks": 898,
+      "added_stars": "898 stars this month"
+    },
+    {
+      "title": "nautechsystems / nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 29054,
+      "forks": 3812,
+      "added_stars": "3,557 stars this month"
     },
     {
       "title": "dani-garcia / vaultwarden",
@@ -200,9 +160,59 @@
       "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 67734,
-      "forks": 3220,
-      "added_stars": "2,334 stars this month"
+      "stars": 67918,
+      "forks": 3224,
+      "added_stars": "2,411 stars this month"
+    },
+    {
+      "title": "GraphiteEditor / Graphite",
+      "url": "https://github.com/GraphiteEditor/Graphite",
+      "description": "Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 27265,
+      "forks": 1257,
+      "added_stars": "441 stars this month"
+    },
+    {
+      "title": "pola-rs / polars",
+      "url": "https://github.com/pola-rs/polars",
+      "description": "Extremely fast Query Engine for DataFrames, written in Rust",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 39748,
+      "forks": 3107,
+      "added_stars": "445 stars this month"
+    },
+    {
+      "title": "HakanSeven12 / OpenCADStudio",
+      "url": "https://github.com/HakanSeven12/OpenCADStudio",
+      "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2045,
+      "forks": 202,
+      "added_stars": "1,180 stars this month"
+    },
+    {
+      "title": "sinelaw / fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "description": "Terminal based IDE & text editor: easy, powerful and fast",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 8926,
+      "forks": 335,
+      "added_stars": "671 stars this month"
+    },
+    {
+      "title": "CapSoftware / Cap",
+      "url": "https://github.com/CapSoftware/Cap",
+      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22357,
+      "forks": 1915,
+      "added_stars": "1,552 stars this month"
     },
     {
       "title": "apache / iggy",
@@ -210,29 +220,9 @@
       "description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4885,
-      "forks": 434,
-      "added_stars": "380 stars this month"
-    },
-    {
-      "title": "google / magika",
-      "url": "https://github.com/google/magika",
-      "description": "Fast and accurate AI powered file content types detection",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 18604,
-      "forks": 1168,
-      "added_stars": "681 stars this month"
-    },
-    {
-      "title": "ai-dynamo / dynamo",
-      "url": "https://github.com/ai-dynamo/dynamo",
-      "description": "A Datacenter Scale Distributed Inference Serving Framework",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 8087,
-      "forks": 1588,
-      "added_stars": "329 stars this month"
+      "stars": 4892,
+      "forks": 436,
+      "added_stars": "383 stars this month"
     },
     {
       "title": "clockworklabs / SpacetimeDB",
@@ -240,9 +230,19 @@
       "description": "Development at the speed of light",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 25186,
-      "forks": 1068,
-      "added_stars": "221 stars this month"
+      "stars": 25204,
+      "forks": 1072,
+      "added_stars": "247 stars this month"
+    },
+    {
+      "title": "oxc-project / oxc",
+      "url": "https://github.com/oxc-project/oxc",
+      "description": "⚓ A collection of high-performance JavaScript tools.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 22814,
+      "forks": 1301,
+      "added_stars": "508 stars this month"
     }
   ]
 }

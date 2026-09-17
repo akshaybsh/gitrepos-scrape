@@ -2,47 +2,17 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
     {
-      "title": "zhaoxuya520 / reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "title": "actions / runner-images",
+      "url": "https://github.com/actions/runner-images",
+      "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 36062,
-      "forks": 4967,
-      "added_stars": "124 stars today"
-    },
-    {
-      "title": "mandiant / flare-vm",
-      "url": "https://github.com/mandiant/flare-vm",
-      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 9035,
-      "forks": 1117,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 11220,
-      "forks": 9086,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Azure / Microsoft-Defender-for-Cloud",
-      "url": "https://github.com/Azure/Microsoft-Defender-for-Cloud",
-      "description": "Welcome to the Microsoft Defender for Cloud community repository",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1952,
-      "forks": 872,
-      "added_stars": "0 stars today"
+      "stars": 13145,
+      "forks": 3849,
+      "added_stars": "3 stars today"
     },
     {
       "title": "microsoft / work-iq",
@@ -50,9 +20,69 @@
       "description": "MCP Server and CLI for accessing Work IQ",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 1005,
-      "forks": 130,
+      "stars": 1007,
+      "forks": 131,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "microsoft / sql-server-samples",
+      "url": "https://github.com/microsoft/sql-server-samples",
+      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 11221,
+      "forks": 9086,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 36202,
+      "forks": 4995,
+      "added_stars": "102 stars today"
+    },
+    {
+      "title": "psmux / psmux",
+      "url": "https://github.com/psmux/psmux",
+      "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 3495,
+      "forks": 212,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "microsoft / WindowsDeveloperConfig",
+      "url": "https://github.com/microsoft/WindowsDeveloperConfig",
+      "description": "Automate the setup and configuration of your Windows development environment.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2183,
+      "forks": 167,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "olafhartong / sysmon-modular",
+      "url": "https://github.com/olafhartong/sysmon-modular",
+      "description": "A repository of sysmon configuration modules",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 3130,
+      "forks": 662,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "SpecterOps / BloodHound-Legacy",
+      "url": "https://github.com/SpecterOps/BloodHound-Legacy",
+      "description": "Six Degrees of Domain Admin",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 10614,
+      "forks": 1792,
+      "added_stars": "2 stars today"
     },
     {
       "title": "pnp / List-Formatting",
@@ -60,9 +90,39 @@
       "description": "List Formatting Samples for use in SharePoint and Microsoft Lists",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 2176,
+      "stars": 2177,
       "forks": 928,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "SkipToTheEndpoint / OpenIntuneBaseline",
+      "url": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+      "description": "Community-driven baseline to accelerate Intune adoption and learning.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1473,
+      "forks": 273,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "mandiant / flare-vm",
+      "url": "https://github.com/mandiant/flare-vm",
+      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 9041,
+      "forks": 1117,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "Azure / Microsoft-Defender-for-Cloud",
+      "url": "https://github.com/Azure/Microsoft-Defender-for-Cloud",
+      "description": "Welcome to the Microsoft Defender for Cloud community repository",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1954,
+      "forks": 873,
+      "added_stars": "2 stars today"
     },
     {
       "title": "cisagov / ScubaGear",
@@ -70,19 +130,9 @@
       "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 2666,
-      "forks": 379,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "Micke-K / IntuneManagement",
-      "url": "https://github.com/Micke-K/IntuneManagement",
-      "description": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2052,
-      "forks": 376,
-      "added_stars": "0 stars today"
+      "stars": 2668,
+      "forks": 380,
+      "added_stars": "1 star today"
     },
     {
       "title": "microsoft / fabric-toolbox",
@@ -91,77 +141,7 @@
       "language": "PowerShell",
       "languageColor": "#012456",
       "stars": 900,
-      "forks": 382,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ntdevlabs / tiny11builder",
-      "url": "https://github.com/ntdevlabs/tiny11builder",
-      "description": "Scripts to build a trimmed-down Windows 11 image.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 19594,
-      "forks": 1506,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "ScoopInstaller / Extras",
-      "url": "https://github.com/ScoopInstaller/Extras",
-      "description": "📦 The Extras bucket for Scoop.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2151,
-      "forks": 1783,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "microsoft / sre-agent",
-      "url": "https://github.com/microsoft/sre-agent",
-      "description": "Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve production issues, reduce operational toil, and lower mean time to resolution",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 157,
-      "forks": 96,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "0Chencc / clawgod",
-      "url": "https://github.com/0Chencc/clawgod",
-      "description": "ClawGod is a runtime patch applied to the official Claude Code. It continues to be supported with each version update.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 2020,
-      "forks": 326,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "SkipToTheEndpoint / OpenIntuneBaseline",
-      "url": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
-      "description": "Community-driven baseline to accelerate Intune adoption and learning.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1472,
-      "forks": 273,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "microsoft / AI-in-One-Dashboard",
-      "url": "https://github.com/microsoft/AI-in-One-Dashboard",
-      "description": "AI-in-One Dashboard Power BI template for comprehensive AI usage analytics",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 83,
-      "forks": 19,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Romanitho / Winget-AutoUpdate",
-      "url": "https://github.com/Romanitho/Winget-AutoUpdate",
-      "description": "WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1996,
-      "forks": 193,
+      "forks": 384,
       "added_stars": "0 stars today"
     }
   ]

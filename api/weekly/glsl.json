@@ -2,27 +2,17 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
   "items": [
-    {
-      "title": "s0xDk / ghostty-blackhole",
-      "url": "https://github.com/s0xDk/ghostty-blackhole",
-      "description": "Ghostty Blackhole puts a real, ray-traced black hole inside your terminal. It grows as Claude Code's context window fills up, live. A fresh session is a quiet hole in the corner. A full one swallows half your screen. You'll always see /compact coming.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1686,
-      "forks": 148,
-      "added_stars": "88 stars this week"
-    },
     {
       "title": "cizia64 / CrossMix-OS",
       "url": "https://github.com/cizia64/CrossMix-OS",
       "description": "Enhanced OS for the TrimUI Smart Pro",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 992,
+      "stars": 993,
       "forks": 92,
-      "added_stars": "1 star this week"
+      "added_stars": "0 stars this week"
     },
     {
       "title": "sixthsurge / photon",
@@ -30,19 +20,9 @@
       "description": "A gameplay-focused shader pack for Minecraft",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1904,
+      "stars": 1905,
       "forks": 329,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "libretro / glsl-shaders",
-      "url": "https://github.com/libretro/glsl-shaders",
-      "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1244,
-      "forks": 250,
-      "added_stars": "6 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "X0nk / Bliss-Shader",
@@ -53,6 +33,16 @@
       "stars": 1003,
       "forks": 144,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "libretro / glsl-shaders",
+      "url": "https://github.com/libretro/glsl-shaders",
+      "description": "This repo is for glsl shaders converted by hand from libretro's common-shaders repo, since some don't play nicely with the cg2glsl script.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 1244,
+      "forks": 250,
+      "added_stars": "5 stars this week"
     }
   ]
 }

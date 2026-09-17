@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3439-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3440-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-09-16
-_Top 3 per language · [view full day →](./2026/2026-09-16.md)_
+## 🔥 Today's Trending — 2026-09-17
+_Top 3 per language · [view full day →](./2026/2026-09-17.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
-| [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio) | 🐍 | VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages. |
-| [MG1937/ASC](https://github.com/MG1937/ASC) | 🐍 | ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. |
-| [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | 🐍 | Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. |
+| [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | 🐍 | Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork |
+| [roboflow/supervision](https://github.com/roboflow/supervision) | 🐍 | We write your reusable computer vision tools. 💜 |
+| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 🐍 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages |
+| [ankitects/anki](https://github.com/ankitects/anki) | 🦀 | Anki is a smart spaced repetition flashcard program |
 | [alphaXiv/OpenResearch](https://github.com/alphaXiv/OpenResearch) | 🦀 | Turn your coding agents into research agents |
-| [pacifio/atlas](https://github.com/pacifio/atlas) | 🦀 | Source control for agents. Use multiple coding agents, track their changes and query them in one place |
-| [tonhowtf/omniget](https://github.com/tonhowtf/omniget) | 🦀 | Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer. |
+| [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) | 🦀 | An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. |
+| [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | ⚡ | A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
-| [JoeanAmier/TikTokDownloader](https://github.com/JoeanAmier/TikTokDownloader) | ⚡ | 抖音 / TikTok 平台作品下载/数据采集工具 |
-| [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | ⚡ | Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly. |
+| [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
 | [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 🐹 | Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. |
 | [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) | 🐹 | Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. |
-| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🐹 | Modern Docker Management, Designed for Everyone |
-| [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | 🍎 | 📺 Homebrew's official macOS GUI |
 | [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) | 🍎 | Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. |
-| [dwarvesf/hidden](https://github.com/dwarvesf/hidden) | 🍎 | An ultra-light MacOS utility that helps hide menu bar icons |
+| [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) | 🍎 |  |
+| [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) | 🍎 | Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input. |
+| [jamiepine/voicebox](https://github.com/jamiepine/voicebox) | 🔷 | The open-source AI voice studio. Clone, dictate, create. |
 | [ever-co/ever-gauzy](https://github.com/ever-co/ever-gauzy) | 🔷 | Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co |
-| [melgarafael/DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) | 🔷 | Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. |
-| [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) | 🔷 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active |
+| [anthropics/claude-code](https://github.com/anthropics/claude-code) | 🔷 | Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-09-16.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-09-17](./2026/2026-09-17.md) | [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) | [anki](https://github.com/ankitects/anki) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [open-code-review](https://github.com/alibaba/open-code-review) | [tinycast](https://github.com/abue-ammar/tinycast) | [voicebox](https://github.com/jamiepine/voicebox) |
 | [2026-09-16](./2026/2026-09-16.md) | [VoiceStudio](https://github.com/debpalash/VoiceStudio) | [OpenResearch](https://github.com/alphaXiv/OpenResearch) | [agent-skills](https://github.com/addyosmani/agent-skills) | [open-code-review](https://github.com/alibaba/open-code-review) | [BrewUI](https://github.com/Homebrew/BrewUI) | [ever-gauzy](https://github.com/ever-co/ever-gauzy) |
 | [2026-09-15](./2026/2026-09-15.md) | [YuE](https://github.com/multimodal-art-projection/YuE) | [vaultwarden](https://github.com/dani-garcia/vaultwarden) | [system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) | [open-code-review](https://github.com/alibaba/open-code-review) | [opendisplay](https://github.com/peetzweg/opendisplay) | [agent-skills](https://github.com/tech-leads-club/agent-skills) |
 | [2026-09-14](./2026/2026-09-14.md) | [OpenMontage](https://github.com/calesthio/OpenMontage) | [OpenResearch](https://github.com/alphaXiv/OpenResearch) | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [pentagi](https://github.com/vxcontrol/pentagi) | [bitchat](https://github.com/permissionlesstech/bitchat) | [ever-gauzy](https://github.com/ever-co/ever-gauzy) |
 | [2026-09-13](./2026/2026-09-13.md) | [MathModelAgent](https://github.com/jihe520/MathModelAgent) | [worktrunk](https://github.com/max-sixty/worktrunk) | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [OpenFlux](https://github.com/p1neappleXpress/OpenFlux) | [tinycast](https://github.com/abue-ammar/tinycast) | [DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) |
 | [2026-09-12](./2026/2026-09-12.md) | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | [OpenResearch](https://github.com/alphaXiv/OpenResearch) | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [OpenFlux](https://github.com/p1neappleXpress/OpenFlux) | [tinycast](https://github.com/abue-ammar/tinycast) | [iloader](https://github.com/nab138/iloader) |
 | [2026-09-11](./2026/2026-09-11.md) | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | [llmfit](https://github.com/AlexsJones/llmfit) | [gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) | [gh-aw](https://github.com/github/gh-aw) | [vorssaint-utils](https://github.com/vorssaint/vorssaint-utils) | [CloddsBot](https://github.com/alsk1992/CloddsBot) |
-| [2026-09-10](./2026/2026-09-10.md) | [i-have-adhd](https://github.com/ayghri/i-have-adhd) | [OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) | [plugins](https://github.com/openai/plugins) | [superplane](https://github.com/superplanehq/superplane) | [FluidVoice](https://github.com/altic-dev/FluidVoice) | [teamai-cli](https://github.com/Tencent/teamai-cli) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -54,13 +54,13 @@ _Most days on trending, all time_
 |---|---|
 | [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) | 2249 |
 | [ReactiveX/RxSwift](https://github.com/ReactiveX/RxSwift) | 2014 |
-| [vapor/vapor](https://github.com/vapor/vapor) | 1731 |
-| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1499 |
+| [vapor/vapor](https://github.com/vapor/vapor) | 1732 |
+| [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) | 1500 |
 | [danielgindi/Charts](https://github.com/danielgindi/Charts) | 1442 |
 | [realm/SwiftLint](https://github.com/realm/SwiftLint) | 1367 |
-| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1344 |
+| [airbnb/lottie-ios](https://github.com/airbnb/lottie-ios) | 1345 |
 | [facebook/react](https://github.com/facebook/react) | 1314 |
-| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1262 |
+| [pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture) | 1263 |
 | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | 1250 |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [TencentCloud/Octop](https://github.com/TencentCloud/Octop) | 🐍 | 2026-09-17 | A smarter, self-hosted AI assistant — multi-user, multi-agent. |
+| [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) | 🐍 | 2026-09-17 |  |
+| [timhartmann7/omnyssh](https://github.com/timhartmann7/omnyssh) | 🦀 | 2026-09-17 | A fast, keyboard-driven TUI for managing SSH connections, written in Rust |
+| [MemTensor/MemOS](https://github.com/MemTensor/MemOS) | 🔷 | 2026-09-17 | Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support. |
+| [vercel/eve](https://github.com/vercel/eve) | 🔷 | 2026-09-17 | The Open Framework for Building Agents |
+| [desktop/desktop](https://github.com/desktop/desktop) | 🔷 | 2026-09-17 | Focus on what matters instead of fighting with Git. |
+| [vercel/ai](https://github.com/vercel/ai) | 🔷 | 2026-09-17 | The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents |
 | [MG1937/ASC](https://github.com/MG1937/ASC) | 🐍 | 2026-09-16 | ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers. |
 | [e2b-dev/runtime](https://github.com/e2b-dev/runtime) | 🐹 | 2026-09-16 | The runtime behind every E2B stack: Cloud, Enterprise, and your own machine. |
 | [CodeWithCJ/SparkyFitness](https://github.com/CodeWithCJ/SparkyFitness) | 🔷 | 2026-09-16 | SparkyFitness: Built for Families. Powered by AI. Track food, fitness, water, and health — together. |
-| [rlaope/oh-my-hermes](https://github.com/rlaope/oh-my-hermes) | 🐍 | 2026-09-15 | All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages |
-| [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | 🦀 | 2026-09-15 | A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2. |
-| [yuliskov/SmartTubeLegacy](https://github.com/yuliskov/SmartTubeLegacy) | ⚡ | 2026-09-15 | Watch YouTube videos on your TV and set-top-box with comfort |
-| [xob0t/gotohp](https://github.com/xob0t/gotohp) | 🐹 | 2026-09-15 | Unofficial Google Photos Desktop GUI Client |
-| [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) | 🍎 | 2026-09-15 | 📺 Homebrew's official macOS GUI |
-| [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) | 🍎 | 2026-09-15 | Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternative to CleanShot X and Loom. |
-| [ZimengXiong/winmux](https://github.com/ZimengXiong/winmux) | 🍎 | 2026-09-15 | A powerful project-based, sidebar-first window manager for macOS. |
 
 ---
 

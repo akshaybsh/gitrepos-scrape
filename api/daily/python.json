@@ -2,127 +2,17 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
   "items": [
     {
-      "title": "debpalash / VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "title": "anthropics / knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 31386,
-      "forks": 3727,
-      "added_stars": "2,072 stars today"
-    },
-    {
-      "title": "MG1937 / ASC",
-      "url": "https://github.com/MG1937/ASC",
-      "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 1303,
-      "forks": 205,
-      "added_stars": "129 stars today"
-    },
-    {
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 82172,
-      "forks": 7160,
-      "added_stars": "960 stars today"
-    },
-    {
-      "title": "SnailSploit / Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5465,
-      "forks": 707,
-      "added_stars": "699 stars today"
-    },
-    {
-      "title": "ComposioHQ / awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 75167,
-      "forks": 8692,
-      "added_stars": "70 stars today"
-    },
-    {
-      "title": "666ghj / MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 73679,
-      "forks": 11321,
-      "added_stars": "619 stars today"
-    },
-    {
-      "title": "unclecode / crawl4ai",
-      "url": "https://github.com/unclecode/crawl4ai",
-      "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 83629,
-      "forks": 8637,
-      "added_stars": "84 stars today"
-    },
-    {
-      "title": "rommapp / romm",
-      "url": "https://github.com/rommapp/romm",
-      "description": "A beautiful, powerful, self-hosted ROM manager and player.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 13102,
-      "forks": 729,
-      "added_stars": "92 stars today"
-    },
-    {
-      "title": "anthropics / claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 36386,
-      "forks": 4076,
-      "added_stars": "56 stars today"
-    },
-    {
-      "title": "bojieli / ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 47809,
-      "forks": 5328,
-      "added_stars": "660 stars today"
-    },
-    {
-      "title": "multimodal-art-projection / YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9081,
-      "forks": 986,
-      "added_stars": "701 stars today"
-    },
-    {
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 59397,
-      "forks": 7477,
-      "added_stars": "273 stars today"
+      "stars": 24374,
+      "forks": 2926,
+      "added_stars": "110 stars today"
     },
     {
       "title": "roboflow / supervision",
@@ -130,39 +20,169 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 50380,
-      "forks": 4801,
-      "added_stars": "217 stars today"
+      "stars": 50684,
+      "forks": 4815,
+      "added_stars": "260 stars today"
     },
     {
-      "title": "Jeffallan / claude-skills",
-      "url": "https://github.com/Jeffallan/claude-skills",
-      "description": "67 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "title": "rlaope / oh-my-hermes",
+      "url": "https://github.com/rlaope/oh-my-hermes",
+      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11542,
-      "forks": 1106,
+      "stars": 2630,
+      "forks": 189,
+      "added_stars": "80 stars today"
+    },
+    {
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5897,
+      "forks": 750,
+      "added_stars": "367 stars today"
+    },
+    {
+      "title": "multimodal-art-projection / YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 9484,
+      "forks": 1020,
+      "added_stars": "332 stars today"
+    },
+    {
+      "title": "TencentCloud / Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 3105,
+      "forks": 329,
+      "added_stars": "396 stars today"
+    },
+    {
+      "title": "meituan-longcat / LongCat-Video",
+      "url": "https://github.com/meituan-longcat/LongCat-Video",
+      "description": "",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 8232,
+      "forks": 1464,
+      "added_stars": "120 stars today"
+    },
+    {
+      "title": "bobeff / open-source-games",
+      "url": "https://github.com/bobeff/open-source-games",
+      "description": "A list of open source games.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 14494,
+      "forks": 1191,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "666ghj / MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 73858,
+      "forks": 11342,
+      "added_stars": "167 stars today"
+    },
+    {
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 82615,
+      "forks": 7223,
+      "added_stars": "476 stars today"
+    },
+    {
+      "title": "Q00 / ouroboros",
+      "url": "https://github.com/Q00/ouroboros",
+      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 5968,
+      "forks": 604,
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "debpalash / VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32221,
+      "forks": 3814,
+      "added_stars": "1,416 stars today"
+    },
+    {
+      "title": "volcengine / OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37822,
+      "forks": 2925,
+      "added_stars": "276 stars today"
+    },
+    {
+      "title": "MakazhanAlpamys / Soup",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 6725,
+      "forks": 1052,
+      "added_stars": "104 stars today"
+    },
+    {
+      "title": "onyx-dot-app / onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 32144,
+      "forks": 4474,
       "added_stars": "19 stars today"
     },
     {
-      "title": "TauricResearch / TradingAgents",
-      "url": "https://github.com/TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "title": "wshobson / agents",
+      "url": "https://github.com/wshobson/agents",
+      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 106810,
-      "forks": 20403,
-      "added_stars": "727 stars today"
+      "stars": 39747,
+      "forks": 4235,
+      "added_stars": "41 stars today"
     },
     {
-      "title": "dgtlmoon / changedetection.io",
-      "url": "https://github.com/dgtlmoon/changedetection.io",
-      "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!",
+      "title": "google / skills",
+      "url": "https://github.com/google/skills",
+      "description": "Agent Skills for Google products and technologies",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 34287,
-      "forks": 2057,
-      "added_stars": "114 stars today"
+      "stars": 20072,
+      "forks": 1631,
+      "added_stars": "77 stars today"
+    },
+    {
+      "title": "OpenBMB / VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 37692,
+      "forks": 4276,
+      "added_stars": "99 stars today"
     }
   ]
 }

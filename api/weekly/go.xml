@@ -4,7 +4,7 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 06:58:39 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
@@ -21,14 +21,14 @@
     <description>Fully autonomous AI Agents system capable of performing complex penetration testing tasks</description>
   </item>
   <item>
-    <title>XTLS / Xray-core</title>
-    <link>https://github.com/XTLS/Xray-core</link>
-    <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
+    <title>TencentCloud / CubeSandbox</title>
+    <link>https://github.com/TencentCloud/CubeSandbox</link>
+    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
   </item>
   <item>
-    <title>authelia / authelia</title>
-    <link>https://github.com/authelia/authelia</link>
-    <description>The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.</description>
+    <title>kubernetes / kubernetes</title>
+    <link>https://github.com/kubernetes/kubernetes</link>
+    <description>Production-Grade Container Scheduling and Management</description>
   </item>
   <item>
     <title>argoproj / argo-cd</title>
@@ -36,19 +36,29 @@
     <description>Declarative Continuous Deployment for Kubernetes</description>
   </item>
   <item>
+    <title>golang / go</title>
+    <link>https://github.com/golang/go</link>
+    <description>The Go programming language</description>
+  </item>
+  <item>
+    <title>kserve / kserve</title>
+    <link>https://github.com/kserve/kserve</link>
+    <description>Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes</description>
+  </item>
+  <item>
+    <title>Gentleman-Programming / gentle-ai</title>
+    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
+    <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+  </item>
+  <item>
     <title>kubernetes-sigs / agent-sandbox</title>
     <link>https://github.com/kubernetes-sigs/agent-sandbox</link>
     <description>agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).</description>
   </item>
   <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
-  </item>
-  <item>
-    <title>navidrome / navidrome</title>
-    <link>https://github.com/navidrome/navidrome</link>
-    <description>🎧 Your Personal Streaming Service</description>
+    <title>uvwt / agentdock</title>
+    <link>https://github.com/uvwt/agentdock</link>
+    <description>Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration.</description>
   </item>
   <item>
     <title>Gentleman-Programming / engram</title>
@@ -56,39 +66,39 @@
     <description>Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.</description>
   </item>
   <item>
-    <title>maximhq / bifrost</title>
-    <link>https://github.com/maximhq/bifrost</link>
-    <description>Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support &amp; &lt;100 µs overhead at 5k RPS.</description>
+    <title>DataDog / datadog-agent</title>
+    <link>https://github.com/DataDog/datadog-agent</link>
+    <description>Main repository for Datadog Agent</description>
   </item>
   <item>
-    <title>helm / helm</title>
-    <link>https://github.com/helm/helm</link>
-    <description>The Kubernetes Package Manager</description>
+    <title>authelia / authelia</title>
+    <link>https://github.com/authelia/authelia</link>
+    <description>The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.</description>
   </item>
   <item>
-    <title>ollama / ollama</title>
-    <link>https://github.com/ollama/ollama</link>
-    <description>Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.</description>
+    <title>navidrome / navidrome</title>
+    <link>https://github.com/navidrome/navidrome</link>
+    <description>🎧 Your Personal Streaming Service</description>
   </item>
   <item>
-    <title>dagucloud / dagu</title>
-    <link>https://github.com/dagucloud/dagu</link>
-    <description>Self-hostable workflow orchestrator for teams whose main work isn&#x27;t orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.</description>
+    <title>junegunn / fzf</title>
+    <link>https://github.com/junegunn/fzf</link>
+    <description>🌸 A command-line fuzzy finder</description>
   </item>
   <item>
-    <title>TencentCloud / CubeSandbox</title>
-    <link>https://github.com/TencentCloud/CubeSandbox</link>
-    <description>Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.</description>
+    <title>XTLS / Xray-core</title>
+    <link>https://github.com/XTLS/Xray-core</link>
+    <description>Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</description>
   </item>
   <item>
-    <title>open-telemetry / opentelemetry-collector-contrib</title>
-    <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
-    <description>Contrib repository for the OpenTelemetry Collector</description>
+    <title>usememos / memos</title>
+    <link>https://github.com/usememos/memos</link>
+    <description>Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.</description>
   </item>
   <item>
-    <title>hashicorp / nomad</title>
-    <link>https://github.com/hashicorp/nomad</link>
-    <description>Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</description>
+    <title>e2b-dev / runtime</title>
+    <link>https://github.com/e2b-dev/runtime</link>
+    <description>The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.</description>
   </item>
 </channel>
 </rss>
