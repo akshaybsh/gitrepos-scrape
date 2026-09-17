@@ -2,17 +2,37 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
+    {
+      "title": "rundeck / rundeck",
+      "url": "https://github.com/rundeck/rundeck",
+      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 6299,
+      "forks": 988,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "gradle / gradle",
       "url": "https://github.com/gradle/gradle",
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18842,
-      "forks": 5335,
+      "stars": 18845,
+      "forks": 5334,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "bregman-arie / devops-resources",
+      "url": "https://github.com/bregman-arie/devops-resources",
+      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 9699,
+      "forks": 2425,
+      "added_stars": "6 stars today"
     },
     {
       "title": "nextflow-io / nextflow",
@@ -22,7 +42,7 @@
       "languageColor": "#4298b8",
       "stars": 3488,
       "forks": 811,
-      "added_stars": "4 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "apache / grails-core",
@@ -35,24 +55,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bregman-arie / devops-resources",
-      "url": "https://github.com/bregman-arie/devops-resources",
-      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
+      "title": "apache / groovy",
+      "url": "https://github.com/apache/groovy",
+      "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 9694,
-      "forks": 2424,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "rundeck / rundeck",
-      "url": "https://github.com/rundeck/rundeck",
-      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 6297,
-      "forks": 988,
-      "added_stars": "0 stars today"
+      "stars": 5469,
+      "forks": 1917,
+      "added_stars": "1 star today"
     }
   ]
 }

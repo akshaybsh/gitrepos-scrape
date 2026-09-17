@@ -4,61 +4,16 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:05:55 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:02:00 GMT</pubDate>
+  <item>
+    <title>Infrasys-AI / AISystem</title>
+    <link>https://github.com/Infrasys-AI/AISystem</link>
+    <description>AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术</description>
+  </item>
   <item>
     <title>microsoft / generative-ai-for-beginners</title>
     <link>https://github.com/microsoft/generative-ai-for-beginners</link>
     <description>21 Lessons, Get Started Building with Generative AI</description>
-  </item>
-  <item>
-    <title>microsoft / ai-agents-for-beginners</title>
-    <link>https://github.com/microsoft/ai-agents-for-beginners</link>
-    <description>18 Lessons to Get Started Building AI Agents</description>
-  </item>
-  <item>
-    <title>datawhalechina / happy-llm</title>
-    <link>https://github.com/datawhalechina/happy-llm</link>
-    <description>📚 从零开始构建大模型</description>
-  </item>
-  <item>
-    <title>Infrasys-AI / AIInfra</title>
-    <link>https://github.com/Infrasys-AI/AIInfra</link>
-    <description>AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。</description>
-  </item>
-  <item>
-    <title>shap / shap</title>
-    <link>https://github.com/shap/shap</link>
-    <description>A game theoretic approach to explain the output of any machine learning model.</description>
-  </item>
-  <item>
-    <title>greyhatguy007 / Machine-Learning-Specialization-Coursera</title>
-    <link>https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera</link>
-    <description>Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG</description>
-  </item>
-  <item>
-    <title>Lordog / dive-into-llms</title>
-    <link>https://github.com/Lordog/dive-into-llms</link>
-    <description>《动手学大模型Dive into LLMs》系列编程实践教程</description>
-  </item>
-  <item>
-    <title>guipsamora / pandas_exercises</title>
-    <link>https://github.com/guipsamora/pandas_exercises</link>
-    <description>Practice your pandas skills!</description>
-  </item>
-  <item>
-    <title>wesm / pydata-book</title>
-    <link>https://github.com/wesm/pydata-book</link>
-    <description>Materials and IPython notebooks for &quot;Python for Data Analysis&quot; by Wes McKinney, published by O&#x27;Reilly Media</description>
-  </item>
-  <item>
-    <title>HandsOnLLM / Hands-On-Large-Language-Models</title>
-    <link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link>
-    <description>Official code repo for the O&#x27;Reilly Book - &quot;Hands-On Large Language Models&quot;</description>
-  </item>
-  <item>
-    <title>udlbook / udlbook</title>
-    <link>https://github.com/udlbook/udlbook</link>
-    <description>Understanding Deep Learning - Simon J.D. Prince</description>
   </item>
   <item>
     <title>anthropics / prompt-eng-interactive-tutorial</title>
@@ -66,44 +21,89 @@
     <description>Anthropic&#x27;s Interactive Prompt Engineering Tutorial</description>
   </item>
   <item>
+    <title>ageron / handson-mlp</title>
+    <link>https://github.com/ageron/handson-mlp</link>
+    <description>A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, PyTorch, and Hugging Face libraries.</description>
+  </item>
+  <item>
+    <title>karpathy / micrograd</title>
+    <link>https://github.com/karpathy/micrograd</link>
+    <description>A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</description>
+  </item>
+  <item>
+    <title>datawhalechina / llm-universe</title>
+    <link>https://github.com/datawhalechina/llm-universe</link>
+    <description>本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</description>
+  </item>
+  <item>
+    <title>ed-donner / llm_engineering</title>
+    <link>https://github.com/ed-donner/llm_engineering</link>
+    <description>Repo to accompany my mastering LLM engineering course</description>
+  </item>
+  <item>
+    <title>anthropics / claude-cookbooks</title>
+    <link>https://github.com/anthropics/claude-cookbooks</link>
+    <description>A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.</description>
+  </item>
+  <item>
+    <title>Infrasys-AI / AIInfra</title>
+    <link>https://github.com/Infrasys-AI/AIInfra</link>
+    <description>AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。</description>
+  </item>
+  <item>
+    <title>udlbook / udlbook</title>
+    <link>https://github.com/udlbook/udlbook</link>
+    <description>Understanding Deep Learning - Simon J.D. Prince</description>
+  </item>
+  <item>
+    <title>ageron / handson-ml2</title>
+    <link>https://github.com/ageron/handson-ml2</link>
+    <description>⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 or handson-mlp instead.</description>
+  </item>
+  <item>
+    <title>guipsamora / pandas_exercises</title>
+    <link>https://github.com/guipsamora/pandas_exercises</link>
+    <description>Practice your pandas skills!</description>
+  </item>
+  <item>
+    <title>microsoft / Data-Science-For-Beginners</title>
+    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
+    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
+  </item>
+  <item>
+    <title>facebookresearch / sam2</title>
+    <link>https://github.com/facebookresearch/sam2</link>
+    <description>The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</description>
+  </item>
+  <item>
     <title>google-research / google-research</title>
     <link>https://github.com/google-research/google-research</link>
     <description>Google Research</description>
   </item>
   <item>
-    <title>higgsfield-ai / higgsfield</title>
-    <link>https://github.com/higgsfield-ai/higgsfield</link>
-    <description>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</description>
+    <title>shsarv / Machine-Learning-Projects</title>
+    <link>https://github.com/shsarv/Machine-Learning-Projects</link>
+    <description>This repository showcases a selection of machine learning projects undertaken to understand and master various ML concepts. Each project reflects commitment to applying theoretical knowledge to practical scenarios, demonstrating proficiency in machine learning techniques and tools.</description>
   </item>
   <item>
-    <title>facebookresearch / dinov3</title>
-    <link>https://github.com/facebookresearch/dinov3</link>
-    <description>Reference PyTorch implementation and models for DINOv3</description>
+    <title>GoogleCloudPlatform / generative-ai</title>
+    <link>https://github.com/GoogleCloudPlatform/generative-ai</link>
+    <description>Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform</description>
   </item>
   <item>
-    <title>gepa-ai / gepa</title>
-    <link>https://github.com/gepa-ai/gepa</link>
-    <description>Optimize prompts, code, and more with AI-powered Reflective Optimization</description>
+    <title>facebookresearch / dinov2</title>
+    <link>https://github.com/facebookresearch/dinov2</link>
+    <description>PyTorch code and models for the DINOv2 self-supervised learning method.</description>
   </item>
   <item>
-    <title>NVIDIA / cosmos</title>
-    <link>https://github.com/NVIDIA/cosmos</link>
-    <description>NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.</description>
+    <title>AI4Finance-Foundation / FinRobot</title>
+    <link>https://github.com/AI4Finance-Foundation/FinRobot</link>
+    <description>FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models</description>
   </item>
   <item>
-    <title>AI4Finance-Foundation / FinRL</title>
-    <link>https://github.com/AI4Finance-Foundation/FinRL</link>
-    <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
-  </item>
-  <item>
-    <title>karpathy / nn-zero-to-hero</title>
-    <link>https://github.com/karpathy/nn-zero-to-hero</link>
-    <description>Neural Networks: Zero to Hero</description>
-  </item>
-  <item>
-    <title>QwenLM / Qwen3-VL</title>
-    <link>https://github.com/QwenLM/Qwen3-VL</link>
-    <description>Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</description>
+    <title>anthropics / courses</title>
+    <link>https://github.com/anthropics/courses</link>
+    <description>Anthropic&#x27;s educational courses</description>
   </item>
 </channel>
 </rss>

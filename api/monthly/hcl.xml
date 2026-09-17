@@ -4,7 +4,7 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:05:29 GMT</pubDate>
   <item>
     <title>techiescamp / devops-projects</title>
     <link>https://github.com/techiescamp/devops-projects</link>
@@ -31,14 +31,14 @@
     <description>Terraform Azure Verified Resource Module for Key Vault</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-vpc</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
+    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
+  </item>
+  <item>
     <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
     <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
     <description>Terraform Azure Verified Resource Module for Storage Account</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-naming</title>
@@ -46,19 +46,29 @@
     <description></description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+  </item>
+  <item>
     <title>ministryofjustice / modernisation-platform-environments</title>
     <link>https://github.com/ministryofjustice/modernisation-platform-environments</link>
     <description>Modernisation platform environments • This repository is defined and managed in Terraform</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-  </item>
-  <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>ministryofjustice / cloud-platform-environments</title>
+    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
+    <description>Environment configuration for the Cloud Platform</description>
   </item>
   <item>
     <title>okd-project / okd</title>

@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
@@ -10,19 +10,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6563,
-      "forks": 1408,
+      "stars": 6562,
+      "forks": 1409,
       "added_stars": "14 stars this week"
-    },
-    {
-      "title": "MinaProtocol / mina",
-      "url": "https://github.com/MinaProtocol/mina",
-      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 2119,
-      "forks": 585,
-      "added_stars": "0 stars this week"
     },
     {
       "title": "rocq-prover / rocq",
@@ -32,7 +22,17 @@
       "languageColor": "#ef7a08",
       "stars": 5575,
       "forks": 763,
-      "added_stars": "10 stars this week"
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "MinaProtocol / mina",
+      "url": "https://github.com/MinaProtocol/mina",
+      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 2120,
+      "forks": 585,
+      "added_stars": "1 star this week"
     },
     {
       "title": "ocaml / dune",
@@ -43,6 +43,16 @@
       "stars": 1917,
       "forks": 500,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 883,
+      "forks": 182,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "ocaml / opam",
@@ -60,9 +70,9 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 964,
+      "stars": 967,
       "forks": 106,
-      "added_stars": "13 stars this week"
+      "added_stars": "11 stars this week"
     },
     {
       "title": "opengrep / opengrep",
@@ -70,19 +80,9 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3081,
+      "stars": 3082,
       "forks": 263,
-      "added_stars": "24 stars this week"
-    },
-    {
-      "title": "oxcaml / oxcaml",
-      "url": "https://github.com/oxcaml/oxcaml",
-      "description": "OCaml - Oxidized!",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 883,
-      "forks": 182,
-      "added_stars": "8 stars this week"
+      "added_stars": "25 stars this week"
     }
   ]
 }

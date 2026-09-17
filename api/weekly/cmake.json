@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27463,
-      "forks": 7725,
-      "added_stars": "19 stars this week"
+      "stars": 27465,
+      "forks": 7726,
+      "added_stars": "21 stars this week"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -20,9 +20,19 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1751,
-      "forks": 254,
-      "added_stars": "8 stars this week"
+      "stars": 1753,
+      "forks": 255,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 688,
+      "forks": 703,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "Andersama / obs-asio",
@@ -33,16 +43,6 @@
       "stars": 844,
       "forks": 53,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 688,
-      "forks": 703,
-      "added_stars": "1 star this week"
     }
   ]
 }

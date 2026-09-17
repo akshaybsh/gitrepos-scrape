@@ -4,11 +4,16 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:05:55 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:02:00 GMT</pubDate>
   <item>
-    <title>Atmosphere-NX / Atmosphere</title>
-    <link>https://github.com/Atmosphere-NX/Atmosphere</link>
-    <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
+    <title>google / googletest</title>
+    <link>https://github.com/google/googletest</link>
+    <description>GoogleTest - Google Testing and Mocking Framework</description>
+  </item>
+  <item>
+    <title>duckdb / duckdb</title>
+    <link>https://github.com/duckdb/duckdb</link>
+    <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
     <title>Neroued / ninfer</title>
@@ -16,9 +21,9 @@
     <description>High-performance single-GPU inference for selected model checkpoints and GPUs.</description>
   </item>
   <item>
-    <title>Redot-Engine / redot-engine</title>
-    <link>https://github.com/Redot-Engine/redot-engine</link>
-    <description>Redot Engine – Multi-platform 2D and 3D game engine</description>
+    <title>microsoft / BitNet</title>
+    <link>https://github.com/microsoft/BitNet</link>
+    <description>Official inference framework for 1-bit LLMs</description>
   </item>
   <item>
     <title>godotengine / godot</title>
@@ -26,24 +31,14 @@
     <description>Godot Engine – Multi-platform 2D and 3D game engine</description>
   </item>
   <item>
-    <title>vicinaehq / vicinae</title>
-    <link>https://github.com/vicinaehq/vicinae</link>
-    <description>A focused launcher for your desktop - native, fast, extensible</description>
+    <title>OrcaSlicer / OrcaSlicer</title>
+    <link>https://github.com/OrcaSlicer/OrcaSlicer</link>
+    <description>G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)</description>
   </item>
   <item>
-    <title>google / googletest</title>
-    <link>https://github.com/google/googletest</link>
-    <description>GoogleTest - Google Testing and Mocking Framework</description>
-  </item>
-  <item>
-    <title>musescore / MuseScore</title>
-    <link>https://github.com/musescore/MuseScore</link>
-    <description>MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!</description>
-  </item>
-  <item>
-    <title>nlohmann / json</title>
-    <link>https://github.com/nlohmann/json</link>
-    <description>JSON for Modern C++</description>
+    <title>ROCm / rocm-systems</title>
+    <link>https://github.com/ROCm/rocm-systems</link>
+    <description>super repo for rocm systems projects</description>
   </item>
   <item>
     <title>wazuh / wazuh</title>
@@ -51,14 +46,49 @@
     <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
   </item>
   <item>
-    <title>jtenniswood / espcontrol</title>
-    <link>https://github.com/jtenniswood/espcontrol</link>
-    <description>Esphome based smart home control panel</description>
+    <title>Atmosphere-NX / Atmosphere</title>
+    <link>https://github.com/Atmosphere-NX/Atmosphere</link>
+    <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
   </item>
   <item>
-    <title>aria2 / aria2</title>
-    <link>https://github.com/aria2/aria2</link>
-    <description>aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</description>
+    <title>react / react-native</title>
+    <link>https://github.com/react/react-native</link>
+    <description>A framework for building native applications using React</description>
+  </item>
+  <item>
+    <title>JingMatrix / NeoZygisk</title>
+    <link>https://github.com/JingMatrix/NeoZygisk</link>
+    <description>Zygote injection with ptrace</description>
+  </item>
+  <item>
+    <title>YimMenu / YimMenuV2</title>
+    <link>https://github.com/YimMenu/YimMenuV2</link>
+    <description>Experimental menu for GTA 5: Enhanced</description>
+  </item>
+  <item>
+    <title>apache / arrow</title>
+    <link>https://github.com/apache/arrow</link>
+    <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
+  </item>
+  <item>
+    <title>Z3Prover / z3</title>
+    <link>https://github.com/Z3Prover/z3</link>
+    <description>The Z3 Theorem Prover</description>
+  </item>
+  <item>
+    <title>ArduPilot / ardupilot</title>
+    <link>https://github.com/ArduPilot/ardupilot</link>
+    <description>ArduPlane, ArduCopter, ArduRover, ArduSub source</description>
+  </item>
+  <item>
+    <title>nlohmann / json</title>
+    <link>https://github.com/nlohmann/json</link>
+    <description>JSON for Modern C++</description>
+  </item>
+  <item>
+    <title>microsoft / WSL</title>
+    <link>https://github.com/microsoft/WSL</link>
+    <description>Windows Subsystem for Linux</description>
   </item>
   <item>
     <title>vllm-project / vllm-ascend</title>
@@ -66,24 +96,29 @@
     <description>Community maintained hardware plugin for vLLM on Ascend</description>
   </item>
   <item>
-    <title>microsoft / onnxruntime</title>
-    <link>https://github.com/microsoft/onnxruntime</link>
-    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
+    <title>MrNeRF / LichtFeld-Studio</title>
+    <link>https://github.com/MrNeRF/LichtFeld-Studio</link>
+    <description>Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.</description>
   </item>
   <item>
-    <title>ggml-org / llama.cpp</title>
-    <link>https://github.com/ggml-org/llama.cpp</link>
-    <description>LLM inference in C/C++</description>
+    <title>yuaotian / antigravity-proxy</title>
+    <link>https://github.com/yuaotian/antigravity-proxy</link>
+    <description>🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。</description>
   </item>
   <item>
-    <title>nextcloud / desktop</title>
-    <link>https://github.com/nextcloud/desktop</link>
-    <description>💻 Desktop sync client for Nextcloud</description>
+    <title>NVIDIA / cuda-quantum</title>
+    <link>https://github.com/NVIDIA/cuda-quantum</link>
+    <description>C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows</description>
   </item>
   <item>
-    <title>firebase / firebase-ios-sdk</title>
-    <link>https://github.com/firebase/firebase-ios-sdk</link>
-    <description>Firebase SDK for Apple App Development</description>
+    <title>ZLMediaKit / ZLMediaKit</title>
+    <link>https://github.com/ZLMediaKit/ZLMediaKit</link>
+    <description>WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11</description>
+  </item>
+  <item>
+    <title>realsenseai / librealsense</title>
+    <link>https://github.com/realsenseai/librealsense</link>
+    <description>RealSense SDK</description>
   </item>
 </channel>
 </rss>

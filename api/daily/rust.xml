@@ -4,46 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:05:55 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:02:00 GMT</pubDate>
+  <item>
+    <title>ankitects / anki</title>
+    <link>https://github.com/ankitects/anki</link>
+    <description>Anki is a smart spaced repetition flashcard program</description>
+  </item>
   <item>
     <title>alphaXiv / OpenResearch</title>
     <link>https://github.com/alphaXiv/OpenResearch</link>
     <description>Turn your coding agents into research agents</description>
-  </item>
-  <item>
-    <title>pacifio / atlas</title>
-    <link>https://github.com/pacifio/atlas</link>
-    <description>Source control for agents. Use multiple coding agents, track their changes and query them in one place</description>
-  </item>
-  <item>
-    <title>tonhowtf / omniget</title>
-    <link>https://github.com/tonhowtf/omniget</link>
-    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
-  </item>
-  <item>
-    <title>dani-garcia / vaultwarden</title>
-    <link>https://github.com/dani-garcia/vaultwarden</link>
-    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
-  </item>
-  <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-  </item>
-  <item>
-    <title>rtk-ai / rtk</title>
-    <link>https://github.com/rtk-ai/rtk</link>
-    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
-  </item>
-  <item>
-    <title>ruvnet / RuView</title>
-    <link>https://github.com/ruvnet/RuView</link>
-    <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
-  </item>
-  <item>
-    <title>oxc-project / oxc</title>
-    <link>https://github.com/oxc-project/oxc</link>
-    <description>⚓ A collection of high-performance JavaScript tools.</description>
   </item>
   <item>
     <title>rustdesk / rustdesk</title>
@@ -51,44 +21,64 @@
     <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
   <item>
-    <title>max-sixty / worktrunk</title>
-    <link>https://github.com/max-sixty/worktrunk</link>
-    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
-    <title>RightNow-AI / openfang</title>
-    <link>https://github.com/RightNow-AI/openfang</link>
-    <description>Open-source Agent Operating System</description>
+    <title>tonhowtf / omniget</title>
+    <link>https://github.com/tonhowtf/omniget</link>
+    <description>Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.</description>
   </item>
   <item>
-    <title>firecracker-microvm / firecracker</title>
-    <link>https://github.com/firecracker-microvm/firecracker</link>
-    <description>Secure and fast microVMs for serverless computing.</description>
+    <title>ruvnet / RuView</title>
+    <link>https://github.com/ruvnet/RuView</link>
+    <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
   </item>
   <item>
-    <title>git-ai-project / git-ai</title>
-    <link>https://github.com/git-ai-project/git-ai</link>
-    <description>A Git extension for tracking the AI-generated code in your repos</description>
+    <title>dbt-labs / dbt</title>
+    <link>https://github.com/dbt-labs/dbt</link>
+    <description>dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.</description>
   </item>
   <item>
-    <title>biomejs / biome</title>
-    <link>https://github.com/biomejs/biome</link>
-    <description>A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</description>
+    <title>sharkdp / fd</title>
+    <link>https://github.com/sharkdp/fd</link>
+    <description>A simple, fast and user-friendly alternative to &#x27;find&#x27;</description>
   </item>
   <item>
-    <title>cjpais / Handy</title>
-    <link>https://github.com/cjpais/Handy</link>
-    <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
+    <title>juspay / hyperswitch</title>
+    <link>https://github.com/juspay/hyperswitch</link>
+    <description>Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation</description>
   </item>
   <item>
-    <title>openai / codex</title>
-    <link>https://github.com/openai/codex</link>
-    <description>Lightweight coding agent that runs in your terminal</description>
+    <title>timhartmann7 / omnyssh</title>
+    <link>https://github.com/timhartmann7/omnyssh</link>
+    <description>A fast, keyboard-driven TUI for managing SSH connections, written in Rust</description>
   </item>
   <item>
-    <title>wealthfolio / wealthfolio</title>
-    <link>https://github.com/wealthfolio/wealthfolio</link>
-    <description>A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.</description>
+    <title>block / buzz</title>
+    <link>https://github.com/block/buzz</link>
+    <description>A hive mind communication platform</description>
+  </item>
+  <item>
+    <title>uutils / coreutils</title>
+    <link>https://github.com/uutils/coreutils</link>
+    <description>Cross-platform Rust rewrite of the GNU coreutils</description>
+  </item>
+  <item>
+    <title>dani-garcia / vaultwarden</title>
+    <link>https://github.com/dani-garcia/vaultwarden</link>
+    <description>Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</description>
+  </item>
+  <item>
+    <title>dora-rs / dora</title>
+    <link>https://github.com/dora-rs/dora</link>
+    <description>DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.</description>
+  </item>
+  <item>
+    <title>raine / workmux</title>
+    <link>https://github.com/raine/workmux</link>
+    <description>git worktrees + tmux windows for zero-friction parallel dev</description>
   </item>
 </channel>
 </rss>

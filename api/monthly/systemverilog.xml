@@ -4,12 +4,7 @@
   <title>GitHub Systemverilog Languages Daily Trending</title>
   <description>Daily Trending of Systemverilog Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
-  <item>
-    <title>lowRISC / opentitan</title>
-    <link>https://github.com/lowRISC/opentitan</link>
-    <description>OpenTitan: Open source silicon root of trust</description>
-  </item>
+  <pubDate>Thu, 17 Sep 2026 07:05:29 GMT</pubDate>
   <item>
     <title>lowRISC / ibex</title>
     <link>https://github.com/lowRISC/ibex</link>
@@ -19,6 +14,11 @@
     <title>verilator / verilator</title>
     <link>https://github.com/verilator/verilator</link>
     <description>Verilator open-source SystemVerilog simulator and lint system</description>
+  </item>
+  <item>
+    <title>lowRISC / opentitan</title>
+    <link>https://github.com/lowRISC/opentitan</link>
+    <description>OpenTitan: Open source silicon root of trust</description>
   </item>
   <item>
     <title>chipsalliance / adams-bridge</title>
@@ -31,8 +31,8 @@
     <description>HW Design Collateral for Caliptra Subsystem, which comprises Caliptra RoT IP and additional manufacturer controls.</description>
   </item>
   <item>
-    <title>openhwgroup / cvw</title>
-    <link>https://github.com/openhwgroup/cvw</link>
+    <title>openhwfoundation / cvw</title>
+    <link>https://github.com/openhwfoundation/cvw</link>
     <description>CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</description>
   </item>
   <item>
@@ -46,9 +46,9 @@
     <description>A minimal GPU design in Verilog to learn how GPUs work from the ground up</description>
   </item>
   <item>
-    <title>pulp-platform / riscv-dbg</title>
-    <link>https://github.com/pulp-platform/riscv-dbg</link>
-    <description>RISC-V Debug Support for our PULP RISC-V Cores</description>
+    <title>pulp-platform / axi</title>
+    <link>https://github.com/pulp-platform/axi</link>
+    <description>AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</description>
   </item>
 </channel>
 </rss>

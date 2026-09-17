@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
     {
       "title": "w3c / csswg-drafts",
@@ -10,9 +10,9 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4880,
+      "stars": 4881,
       "forks": 816,
-      "added_stars": "4 stars this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "webmachinelearning / webmcp",
@@ -20,9 +20,19 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4030,
+      "stars": 4058,
       "forks": 269,
-      "added_stars": "157 stars this week"
+      "added_stars": "142 stars this week"
+    },
+    {
+      "title": "gpuweb / gpuweb",
+      "url": "https://github.com/gpuweb/gpuweb",
+      "description": "Where the GPU for the Web work happens!",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 5473,
+      "forks": 381,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "immersive-web / webxr",
@@ -35,16 +45,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "WebAudio / web-audio-api",
-      "url": "https://github.com/WebAudio/web-audio-api",
-      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 1131,
-      "forks": 180,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "w3c / ServiceWorker",
       "url": "https://github.com/w3c/ServiceWorker",
       "description": "Service Workers",
@@ -55,6 +55,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "WebAudio / web-audio-api",
+      "url": "https://github.com/WebAudio/web-audio-api",
+      "description": "The Web Audio API v1.0, developed by the W3C Audio WG",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 1131,
+      "forks": 180,
+      "added_stars": "1 star this week"
+    },
+    {
       "title": "w3c / webappsec-permissions-policy",
       "url": "https://github.com/w3c/webappsec-permissions-policy",
       "description": "A mechanism to selectively enable and disable browser features and APIs",
@@ -63,16 +73,6 @@
       "stars": 430,
       "forks": 182,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "w3c / webauthn",
-      "url": "https://github.com/w3c/webauthn",
-      "description": "Web Authentication: An API for accessing Public Key Credentials",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 1458,
-      "forks": 306,
-      "added_stars": "5 stars this week"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:05:29 GMT",
   "items": [
+    {
+      "title": "audacity / audacity",
+      "url": "https://github.com/audacity/audacity",
+      "description": "Audio Editor",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18458,
+      "forks": 2672,
+      "added_stars": "917 stars this month"
+    },
     {
       "title": "dragonflydb / dragonfly",
       "url": "https://github.com/dragonflydb/dragonfly",
       "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31534,
+      "stars": 31552,
       "forks": 1262,
-      "added_stars": "575 stars this month"
+      "added_stars": "594 stars this month"
     },
     {
       "title": "microsoft / microsoft-ui-xaml",
@@ -20,19 +30,9 @@
       "description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8424,
-      "forks": 940,
-      "added_stars": "566 stars this month"
-    },
-    {
-      "title": "audacity / audacity",
-      "url": "https://github.com/audacity/audacity",
-      "description": "Audio Editor",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18446,
-      "forks": 2669,
-      "added_stars": "909 stars this month"
+      "stars": 8430,
+      "forks": 941,
+      "added_stars": "572 stars this month"
     },
     {
       "title": "google / googletest",
@@ -40,39 +40,9 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39542,
+      "stars": 39546,
       "forks": 10895,
-      "added_stars": "678 stars this month"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41259,
-      "forks": 2119,
-      "added_stars": "1,154 stars this month"
-    },
-    {
-      "title": "microsoft / onnxruntime",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21860,
-      "forks": 4231,
-      "added_stars": "504 stars this month"
-    },
-    {
-      "title": "mod-playerbots / mod-playerbots",
-      "url": "https://github.com/mod-playerbots/mod-playerbots",
-      "description": "AzerothCore Playerbots Module",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1090,
-      "forks": 633,
-      "added_stars": "146 stars this month"
+      "added_stars": "686 stars this month"
     },
     {
       "title": "aria2 / aria2",
@@ -80,9 +50,39 @@
       "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 42371,
-      "forks": 3910,
-      "added_stars": "692 stars this month"
+      "stars": 42418,
+      "forks": 3915,
+      "added_stars": "737 stars this month"
+    },
+    {
+      "title": "mod-playerbots / mod-playerbots",
+      "url": "https://github.com/mod-playerbots/mod-playerbots",
+      "description": "AzerothCore Playerbots Module",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1093,
+      "forks": 637,
+      "added_stars": "144 stars this month"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41292,
+      "forks": 2124,
+      "added_stars": "1,165 stars this month"
+    },
+    {
+      "title": "microsoft / onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21870,
+      "forks": 4233,
+      "added_stars": "512 stars this month"
     },
     {
       "title": "fmtlib / fmt",
@@ -90,19 +90,19 @@
       "description": "A modern formatting library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 25780,
-      "forks": 3068,
-      "added_stars": "2,090 stars this month"
+      "stars": 25787,
+      "forks": 3070,
+      "added_stars": "2,096 stars this month"
     },
     {
-      "title": "Neroued / ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
+      "title": "vicinaehq / vicinae",
+      "url": "https://github.com/vicinaehq/vicinae",
+      "description": "A focused launcher for your desktop - native, fast, extensible",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1879,
-      "forks": 350,
-      "added_stars": "1,336 stars this month"
+      "stars": 9805,
+      "forks": 291,
+      "added_stars": "932 stars this month"
     },
     {
       "title": "openvinotoolkit / openvino",
@@ -111,18 +111,18 @@
       "language": "C++",
       "languageColor": "#f34b7d",
       "stars": 10862,
-      "forks": 3386,
-      "added_stars": "216 stars this month"
+      "forks": 3385,
+      "added_stars": "217 stars this month"
     },
     {
-      "title": "vicinaehq / vicinae",
-      "url": "https://github.com/vicinaehq/vicinae",
-      "description": "A focused launcher for your desktop - native, fast, extensible",
+      "title": "Neroued / ninfer",
+      "url": "https://github.com/Neroued/ninfer",
+      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9786,
-      "forks": 291,
-      "added_stars": "902 stars this month"
+      "stars": 1959,
+      "forks": 365,
+      "added_stars": "1,415 stars this month"
     },
     {
       "title": "ggml-org / llama.cpp",
@@ -130,39 +130,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 128385,
-      "forks": 23248,
-      "added_stars": "4,769 stars this month"
-    },
-    {
-      "title": "hrydgard / ppsspp",
-      "url": "https://github.com/hrydgard/ppsspp",
-      "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14465,
-      "forks": 2623,
-      "added_stars": "219 stars this month"
-    },
-    {
-      "title": "OHF-Voice / piper1-gpl",
-      "url": "https://github.com/OHF-Voice/piper1-gpl",
-      "description": "Fast and local neural text-to-speech engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5595,
-      "forks": 538,
-      "added_stars": "467 stars this month"
-    },
-    {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41295,
-      "forks": 3781,
-      "added_stars": "1,087 stars this month"
+      "stars": 128500,
+      "forks": 23299,
+      "added_stars": "4,747 stars this month"
     },
     {
       "title": "noctalia-dev / noctalia",
@@ -170,19 +140,9 @@
       "description": "A sleek, customizable desktop shell crafted for Wayland.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10619,
-      "forks": 803,
-      "added_stars": "1,151 stars this month"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11067,
-      "forks": 487,
-      "added_stars": "1,274 stars this month"
+      "stars": 10645,
+      "forks": 806,
+      "added_stars": "1,141 stars this month"
     },
     {
       "title": "keepassxreboot / keepassxc",
@@ -190,9 +150,39 @@
       "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28818,
-      "forks": 1909,
-      "added_stars": "482 stars this month"
+      "stars": 28836,
+      "forks": 1910,
+      "added_stars": "485 stars this month"
+    },
+    {
+      "title": "hrydgard / ppsspp",
+      "url": "https://github.com/hrydgard/ppsspp",
+      "description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14476,
+      "forks": 2625,
+      "added_stars": "224 stars this month"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41336,
+      "forks": 3791,
+      "added_stars": "1,126 stars this month"
+    },
+    {
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11109,
+      "forks": 488,
+      "added_stars": "1,312 stars this month"
     },
     {
       "title": "prusa3d / PrusaSlicer",
@@ -200,29 +190,49 @@
       "description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9347,
-      "forks": 2352,
-      "added_stars": "130 stars this month"
+      "stars": 9348,
+      "forks": 2353,
+      "added_stars": "134 stars this month"
     },
     {
-      "title": "official-stockfish / Stockfish",
-      "url": "https://github.com/official-stockfish/Stockfish",
-      "description": "A free and strong UCI chess engine",
+      "title": "ikawrakow / ik_llama.cpp",
+      "url": "https://github.com/ikawrakow/ik_llama.cpp",
+      "description": "llama.cpp fork with additional SOTA quants and improved performance",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16645,
-      "forks": 3022,
-      "added_stars": "346 stars this month"
+      "stars": 3231,
+      "forks": 463,
+      "added_stars": "195 stars this month"
     },
     {
-      "title": "dmlc / xgboost",
-      "url": "https://github.com/dmlc/xgboost",
-      "description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow",
+      "title": "OHF-Voice / piper1-gpl",
+      "url": "https://github.com/OHF-Voice/piper1-gpl",
+      "description": "Fast and local neural text-to-speech engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28766,
-      "forks": 8896,
-      "added_stars": "125 stars this month"
+      "stars": 5602,
+      "forks": 540,
+      "added_stars": "473 stars this month"
+    },
+    {
+      "title": "electron / electron",
+      "url": "https://github.com/electron/electron",
+      "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 123104,
+      "forks": 17532,
+      "added_stars": "829 stars this month"
+    },
+    {
+      "title": "flameshot-org / flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 30870,
+      "forks": 2019,
+      "added_stars": "267 stars this month"
     }
   ]
 }

@@ -2,46 +2,106 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
+    {
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2588,
+      "forks": 310,
+      "added_stars": "1 star today"
+    },
     {
       "title": "goldbergyoni / nodebestpractices",
       "url": "https://github.com/goldbergyoni/nodebestpractices",
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105618,
+      "stars": 105625,
       "forks": 10726,
-      "added_stars": "5 stars today"
+      "added_stars": "9 stars today"
     },
     {
-      "title": "autowarefoundation / autoware",
-      "url": "https://github.com/autowarefoundation/autoware",
-      "description": "Autoware - the world's leading open-source software project for autonomous driving",
+      "title": "Vinpink2 / June-Ultra",
+      "url": "https://github.com/Vinpink2/June-Ultra",
+      "description": "June Ultra (Official) Repository.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 12062,
-      "forks": 3714,
+      "stars": 726,
+      "forks": 2045,
       "added_stars": "0 stars today"
     },
     {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
+      "title": "freeCodeCamp / rdb-alpha",
+      "url": "https://github.com/freeCodeCamp/rdb-alpha",
       "description": "",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 284,
-      "forks": 2100,
+      "stars": 173,
+      "forks": 1118,
       "added_stars": "0 stars today"
     },
     {
-      "title": "kagisearch / kagi-docs",
-      "url": "https://github.com/kagisearch/kagi-docs",
-      "description": "Documentation for products made by Kagi Inc",
+      "title": "mikeroyal / Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 411,
-      "forks": 711,
+      "stars": 22822,
+      "forks": 1152,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4874,
+      "forks": 1975,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21246,
+      "forks": 4806,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "microsoft / vscode-remote-release",
+      "url": "https://github.com/microsoft/vscode-remote-release",
+      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4176,
+      "forks": 469,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "docker-library / python",
+      "url": "https://github.com/docker-library/python",
+      "description": "Docker Official Image packaging for Python",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2777,
+      "forks": 1108,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nodejs / docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 8592,
+      "forks": 1980,
       "added_stars": "1 star today"
     },
     {
@@ -52,37 +112,57 @@
       "languageColor": "#384d54",
       "stars": 2839,
       "forks": 1447,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "datawhalechina / vibe-vibe",
-      "url": "https://github.com/datawhalechina/vibe-vibe",
-      "description": "AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn",
+      "title": "redhat-openshift-ecosystem / certified-operators",
+      "url": "https://github.com/redhat-openshift-ecosystem/certified-operators",
+      "description": "Production catalog for Red Hat Certified Operator Bundles",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 6036,
-      "forks": 484,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "yankils / Simple-DevOps-Project",
-      "url": "https://github.com/yankils/Simple-DevOps-Project",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 966,
-      "forks": 16850,
+      "stars": 82,
+      "forks": 661,
       "added_stars": "0 stars today"
     },
     {
-      "title": "microsoft / vscode-remote-release",
-      "url": "https://github.com/microsoft/vscode-remote-release",
-      "description": "Visual Studio Code Remote Development: Open any folder in WSL, in a Docker container, or on a remote machine using SSH and take advantage of VS Code's full feature set.",
+      "title": "autowarefoundation / autoware",
+      "url": "https://github.com/autowarefoundation/autoware",
+      "description": "Autoware - the world's leading open-source software project for autonomous driving",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 4176,
-      "forks": 470,
-      "added_stars": "2 stars today"
+      "stars": 12065,
+      "forks": 3714,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "redhat-openshift-ecosystem / community-operators-prod",
+      "url": "https://github.com/redhat-openshift-ecosystem/community-operators-prod",
+      "description": "community-operators metadata backing OpenShift OperatorHub",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 140,
+      "forks": 660,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "LinkedInLearning / level-up-advanced-sql-4311094",
+      "url": "https://github.com/LinkedInLearning/level-up-advanced-sql-4311094",
+      "description": "This repo is for the Linkedin Learning course: Level Up: Advanced SQL",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 65,
+      "forks": 1289,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "docker-library / php",
+      "url": "https://github.com/docker-library/php",
+      "description": "Docker Official Image packaging for PHP",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4039,
+      "forks": 2016,
+      "added_stars": "0 stars today"
     }
   ]
 }

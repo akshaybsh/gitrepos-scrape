@@ -2,7 +2,7 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
     {
       "title": "olimorris / codecompanion.nvim",
@@ -11,8 +11,8 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": 6863,
-      "forks": 454,
-      "added_stars": "21 stars this week"
+      "forks": 455,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "MeanderingProgrammer / render-markdown.nvim",
@@ -20,9 +20,59 @@
       "description": "Improve viewing Markdown in Neovim",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 5057,
+      "stars": 5065,
       "forks": 139,
-      "added_stars": "58 stars this week"
+      "added_stars": "64 stars this week"
+    },
+    {
+      "title": "folke / snacks.nvim",
+      "url": "https://github.com/folke/snacks.nvim",
+      "description": "🍿 A collection of QoL plugins for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 8080,
+      "forks": 502,
+      "added_stars": "10 stars this week"
+    },
+    {
+      "title": "lewis6991 / gitsigns.nvim",
+      "url": "https://github.com/lewis6991/gitsigns.nvim",
+      "description": "Git integration for buffers",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 7103,
+      "forks": 295,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "nvim-mini / mini.nvim",
+      "url": "https://github.com/nvim-mini/mini.nvim",
+      "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 9527,
+      "forks": 310,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "LazyVim / LazyVim",
+      "url": "https://github.com/LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 27487,
+      "forks": 1819,
+      "added_stars": "70 stars this week"
+    },
+    {
+      "title": "PathOfBuildingCommunity / PathOfBuilding-PoE2",
+      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
+      "description": "",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 1882,
+      "forks": 450,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "saghen / blink.cmp",
@@ -32,47 +82,17 @@
       "languageColor": "#000080",
       "stars": 6578,
       "forks": 361,
-      "added_stars": "21 stars this week"
+      "added_stars": "19 stars this week"
     },
     {
-      "title": "nvim-mini / mini.nvim",
-      "url": "https://github.com/nvim-mini/mini.nvim",
-      "description": "Library of 45+ independent Lua modules improving Neovim experience with minimal effort",
+      "title": "apache / apisix",
+      "url": "https://github.com/apache/apisix",
+      "description": "The Cloud-Native API Gateway and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 9525,
-      "forks": 310,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "folke / snacks.nvim",
-      "url": "https://github.com/folke/snacks.nvim",
-      "description": "🍿 A collection of QoL plugins for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 8079,
-      "forks": 502,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "lewis6991 / gitsigns.nvim",
-      "url": "https://github.com/lewis6991/gitsigns.nvim",
-      "description": "Git integration for buffers",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 7102,
-      "forks": 295,
-      "added_stars": "20 stars this week"
-    },
-    {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 13954,
-      "forks": 2493,
-      "added_stars": "25 stars this week"
+      "stars": 17129,
+      "forks": 2947,
+      "added_stars": "30 stars this week"
     },
     {
       "title": "Kong / kong",
@@ -80,29 +100,19 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 44142,
-      "forks": 5210,
-      "added_stars": "48 stars this week"
+      "stars": 44144,
+      "forks": 5211,
+      "added_stars": "38 stars this week"
     },
     {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
+      "title": "Footagesus / WindUI",
+      "url": "https://github.com/Footagesus/WindUI",
+      "description": "WindUI is a open source UI library for Roblox Script Hubs",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27480,
-      "forks": 1820,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "PathOfBuildingCommunity / PathOfBuilding-PoE2",
-      "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding-PoE2",
-      "description": "",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 1881,
-      "forks": 449,
-      "added_stars": "7 stars this week"
+      "stars": 357,
+      "forks": 340,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "LandSandBoat / server",
@@ -111,58 +121,8 @@
       "language": "Lua",
       "languageColor": "#000080",
       "stars": 505,
-      "forks": 910,
+      "forks": 911,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "folke / lazy.nvim",
-      "url": "https://github.com/folke/lazy.nvim",
-      "description": "💤 A modern plugin manager for Neovim",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 21558,
-      "forks": 590,
-      "added_stars": "30 stars this week"
-    },
-    {
-      "title": "AndyHazz / bookshelf.koplugin",
-      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
-      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 857,
-      "forks": 34,
-      "added_stars": "73 stars this week"
-    },
-    {
-      "title": "Footagesus / WindUI",
-      "url": "https://github.com/Footagesus/WindUI",
-      "description": "WindUI is a open source UI library for Roblox Script Hubs",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 356,
-      "forks": 340,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "nvim-neo-tree / neo-tree.nvim",
-      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
-      "description": "Neovim plugin to manage the file system and other tree like structures.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 5596,
-      "forks": 305,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "ntop / ntopng",
-      "url": "https://github.com/ntop/ntopng",
-      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 8166,
-      "forks": 765,
-      "added_stars": "22 stars this week"
     },
     {
       "title": "xmake-io / xmake",
@@ -170,19 +130,69 @@
       "description": "🔥 A cross-platform build utility based on Lua",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 12220,
-      "forks": 953,
-      "added_stars": "19 stars this week"
+      "stars": 12221,
+      "forks": 954,
+      "added_stars": "15 stars this week"
     },
     {
-      "title": "nvim-lualine / lualine.nvim",
-      "url": "https://github.com/nvim-lualine/lualine.nvim",
-      "description": "A blazing fast and easy to configure neovim statusline plugin written in pure lua.",
+      "title": "AndyHazz / bookshelf.koplugin",
+      "url": "https://github.com/AndyHazz/bookshelf.koplugin",
+      "description": "A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8130,
-      "forks": 553,
-      "added_stars": "14 stars this week"
+      "stars": 860,
+      "forks": 35,
+      "added_stars": "66 stars this week"
+    },
+    {
+      "title": "folke / lazy.nvim",
+      "url": "https://github.com/folke/lazy.nvim",
+      "description": "💤 A modern plugin manager for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 21564,
+      "forks": 590,
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "neovim / nvim-lspconfig",
+      "url": "https://github.com/neovim/nvim-lspconfig",
+      "description": "Quickstart configs for Nvim LSP",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 13956,
+      "forks": 2494,
+      "added_stars": "28 stars this week"
+    },
+    {
+      "title": "ntop / ntopng",
+      "url": "https://github.com/ntop/ntopng",
+      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 8171,
+      "forks": 765,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "nvim-neo-tree / neo-tree.nvim",
+      "url": "https://github.com/nvim-neo-tree/neo-tree.nvim",
+      "description": "Neovim plugin to manage the file system and other tree like structures.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 5598,
+      "forks": 305,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "nickjvandyke / opencode.nvim",
+      "url": "https://github.com/nickjvandyke/opencode.nvim",
+      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 3831,
+      "forks": 158,
+      "added_stars": "21 stars this week"
     }
   ]
 }

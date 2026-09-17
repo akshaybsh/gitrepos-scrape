@@ -4,7 +4,12 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:08:13 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:04:15 GMT</pubDate>
+  <item>
+    <title>tensorflow / tensorflow</title>
+    <link>https://github.com/tensorflow/tensorflow</link>
+    <description>An Open Source Machine Learning Framework for Everyone</description>
+  </item>
   <item>
     <title>godotengine / godot</title>
     <link>https://github.com/godotengine/godot</link>
@@ -16,9 +21,9 @@
     <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
   </item>
   <item>
-    <title>LizardByte / Sunshine</title>
-    <link>https://github.com/LizardByte/Sunshine</link>
-    <description>Self-hosted game stream host for Moonlight.</description>
+    <title>0xShug0 / audio.cpp</title>
+    <link>https://github.com/0xShug0/audio.cpp</link>
+    <description>An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.</description>
   </item>
   <item>
     <title>jomjol / AI-on-the-edge-device</title>
@@ -26,19 +31,9 @@
     <description>Easy to use device for connecting &quot;old&quot; measuring units (water, power, gas, ...) to the digital world</description>
   </item>
   <item>
-    <title>ggml-org / whisper.cpp</title>
-    <link>https://github.com/ggml-org/whisper.cpp</link>
-    <description>Port of OpenAI&#x27;s Whisper model in C/C++</description>
-  </item>
-  <item>
-    <title>RPCS3 / rpcs3</title>
-    <link>https://github.com/RPCS3/rpcs3</link>
-    <description>PlayStation 3 emulator and debugger</description>
-  </item>
-  <item>
-    <title>tensorflow / tensorflow</title>
-    <link>https://github.com/tensorflow/tensorflow</link>
-    <description>An Open Source Machine Learning Framework for Everyone</description>
+    <title>LizardByte / Sunshine</title>
+    <link>https://github.com/LizardByte/Sunshine</link>
+    <description>Self-hosted game stream host for Moonlight.</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -46,24 +41,24 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>0xShug0 / audio.cpp</title>
-    <link>https://github.com/0xShug0/audio.cpp</link>
-    <description>An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.</description>
-  </item>
-  <item>
     <title>azahar-emu / azahar</title>
     <link>https://github.com/azahar-emu/azahar</link>
     <description>An open-source 3DS emulator project based on Citra.</description>
   </item>
   <item>
-    <title>PaddlePaddle / Paddle</title>
-    <link>https://github.com/PaddlePaddle/Paddle</link>
-    <description>PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&amp;机器学习高性能单机、分布式训练和跨平台部署）</description>
+    <title>ggml-org / whisper.cpp</title>
+    <link>https://github.com/ggml-org/whisper.cpp</link>
+    <description>Port of OpenAI&#x27;s Whisper model in C/C++</description>
   </item>
   <item>
-    <title>google / benchmark</title>
-    <link>https://github.com/google/benchmark</link>
-    <description>A microbenchmark support library</description>
+    <title>apache / arrow</title>
+    <link>https://github.com/apache/arrow</link>
+    <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
+  </item>
+  <item>
+    <title>duckdb / duckdb</title>
+    <link>https://github.com/duckdb/duckdb</link>
+    <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
     <title>Atmosphere-NX / Atmosphere</title>
@@ -71,14 +66,14 @@
     <description>Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.</description>
   </item>
   <item>
-    <title>mamedev / mame</title>
-    <link>https://github.com/mamedev/mame</link>
-    <description>MAME</description>
+    <title>aseprite / aseprite</title>
+    <link>https://github.com/aseprite/aseprite</link>
+    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
   </item>
   <item>
-    <title>justcallmekoko / ESP32Marauder</title>
-    <link>https://github.com/justcallmekoko/ESP32Marauder</link>
-    <description>A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32</description>
+    <title>RPCS3 / rpcs3</title>
+    <link>https://github.com/RPCS3/rpcs3</link>
+    <description>PlayStation 3 emulator and debugger</description>
   </item>
   <item>
     <title>optiscaler / OptiScaler</title>
@@ -86,9 +81,19 @@
     <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
-    <title>aseprite / aseprite</title>
-    <link>https://github.com/aseprite/aseprite</link>
-    <description>Animated sprite editor &amp; pixel art tool (Windows, macOS, Linux)</description>
+    <title>ocornut / imgui</title>
+    <link>https://github.com/ocornut/imgui</link>
+    <description>Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies</description>
+  </item>
+  <item>
+    <title>PaddlePaddle / Paddle</title>
+    <link>https://github.com/PaddlePaddle/Paddle</link>
+    <description>PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&amp;机器学习高性能单机、分布式训练和跨平台部署）</description>
+  </item>
+  <item>
+    <title>mamedev / mame</title>
+    <link>https://github.com/mamedev/mame</link>
+    <description>MAME</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:05:29 GMT",
   "items": [
     {
       "title": "exiftool / exiftool",
@@ -10,9 +10,9 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5044,
-      "forks": 485,
-      "added_stars": "96 stars this month"
+      "stars": 5049,
+      "forks": 486,
+      "added_stars": "101 stars this month"
     },
     {
       "title": "znuny / Znuny",
@@ -30,19 +30,9 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 488,
+      "stars": 489,
       "forks": 120,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19755,
-      "forks": 2111,
-      "added_stars": "102 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
       "title": "holzschu / a-shell",
@@ -50,9 +40,19 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3920,
+      "stars": 3922,
       "forks": 213,
-      "added_stars": "58 stars this month"
+      "added_stars": "56 stars this month"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19758,
+      "forks": 2111,
+      "added_stars": "104 stars this month"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -81,7 +81,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 1523,
-      "forks": 1216,
+      "forks": 1217,
       "added_stars": "21 stars this month"
     },
     {
@@ -90,9 +90,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23535,
+      "stars": 23541,
       "forks": 1126,
-      "added_stars": "123 stars this month"
+      "added_stars": "124 stars this month"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -101,7 +101,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 1690,
-      "forks": 327,
+      "forks": 328,
       "added_stars": "25 stars this month"
     },
     {
@@ -110,9 +110,9 @@
       "description": "Client for PPP+TLS VPN tunnel services",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3416,
+      "stars": 3418,
       "forks": 380,
-      "added_stars": "30 stars this month"
+      "added_stars": "31 stars this month"
     },
     {
       "title": "centreon / centreon-plugins",
@@ -121,7 +121,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 335,
-      "forks": 306,
+      "forks": 307,
       "added_stars": "1 star this month"
     },
     {
@@ -130,9 +130,9 @@
       "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3109,
-      "forks": 226,
-      "added_stars": "41 stars this month"
+      "stars": 3108,
+      "forks": 225,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "docker-library / repo-info",
@@ -141,7 +141,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 608,
-      "forks": 358,
+      "forks": 357,
       "added_stars": "5 stars this month"
     },
     {
@@ -155,16 +155,6 @@
       "added_stars": "13 stars this month"
     },
     {
-      "title": "ddclient / ddclient",
-      "url": "https://github.com/ddclient/ddclient",
-      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3542,
-      "forks": 400,
-      "added_stars": "35 stars this month"
-    },
-    {
       "title": "os-autoinst / os-autoinst-distri-opensuse",
       "url": "https://github.com/os-autoinst/os-autoinst-distri-opensuse",
       "description": "os-autoinst test cases for openSUSE",
@@ -173,6 +163,16 @@
       "stars": 91,
       "forks": 304,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "ddclient / ddclient",
+      "url": "https://github.com/ddclient/ddclient",
+      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3545,
+      "forks": 400,
+      "added_stars": "36 stars this month"
     },
     {
       "title": "awsdocs / aws-cdk-guide",

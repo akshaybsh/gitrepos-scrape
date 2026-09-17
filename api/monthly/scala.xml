@@ -4,7 +4,7 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 16 Sep 2026 07:10:32 GMT</pubDate>
+  <pubDate>Thu, 17 Sep 2026 07:05:29 GMT</pubDate>
   <item>
     <title>delta-io / delta</title>
     <link>https://github.com/delta-io/delta</link>
@@ -26,9 +26,9 @@
     <description>Open-source high-performance RISC-V processor</description>
   </item>
   <item>
-    <title>twitter / the-algorithm</title>
-    <link>https://github.com/twitter/the-algorithm</link>
-    <description>Source code for the X Recommendation Algorithm</description>
+    <title>apache / gluten</title>
+    <link>https://github.com/apache/gluten</link>
+    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
   </item>
   <item>
     <title>apache / datafusion-comet</title>
@@ -36,14 +36,9 @@
     <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
-    <title>scala / scala3</title>
-    <link>https://github.com/scala/scala3</link>
-    <description>The Scala 3 compiler, also known as Dotty.</description>
-  </item>
-  <item>
-    <title>apache / gluten</title>
-    <link>https://github.com/apache/gluten</link>
-    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
+    <title>twitter / the-algorithm</title>
+    <link>https://github.com/twitter/the-algorithm</link>
+    <description>Source code for the X Recommendation Algorithm</description>
   </item>
   <item>
     <title>apache / spark</title>
@@ -51,9 +46,9 @@
     <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
   </item>
   <item>
-    <title>chipsalliance / chisel</title>
-    <link>https://github.com/chipsalliance/chisel</link>
-    <description>Chisel: A Modern Hardware Design Language</description>
+    <title>scala / scala3</title>
+    <link>https://github.com/scala/scala3</link>
+    <description>The Scala 3 compiler, also known as Dotty.</description>
   </item>
   <item>
     <title>guardian / grid</title>
@@ -61,14 +56,14 @@
     <description>The Guardian’s image management system</description>
   </item>
   <item>
+    <title>joernio / joern</title>
+    <link>https://github.com/joernio/joern</link>
+    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
+  </item>
+  <item>
     <title>apache / pekko</title>
     <link>https://github.com/apache/pekko</link>
     <description>Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala</description>
-  </item>
-  <item>
-    <title>microsoft / SynapseML</title>
-    <link>https://github.com/microsoft/SynapseML</link>
-    <description>Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark</description>
   </item>
   <item>
     <title>apache / texera</title>
@@ -81,9 +76,14 @@
     <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
   </item>
   <item>
-    <title>joernio / joern</title>
-    <link>https://github.com/joernio/joern</link>
-    <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
+    <title>microsoft / SynapseML</title>
+    <link>https://github.com/microsoft/SynapseML</link>
+    <description>Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark</description>
+  </item>
+  <item>
+    <title>NVIDIA / cudf-spark</title>
+    <link>https://github.com/NVIDIA/cudf-spark</link>
+    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
   </item>
   <item>
     <title>guardian / frontend</title>
@@ -96,24 +96,9 @@
     <description>Modern Load Testing as Code</description>
   </item>
   <item>
-    <title>zio / zio</title>
-    <link>https://github.com/zio/zio</link>
-    <description>ZIO — A type-safe, composable library for async and concurrent programming in Scala</description>
-  </item>
-  <item>
-    <title>NVIDIA / cudf-spark</title>
-    <link>https://github.com/NVIDIA/cudf-spark</link>
-    <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
-  </item>
-  <item>
     <title>MightyPirates / OpenComputers</title>
     <link>https://github.com/MightyPirates/OpenComputers</link>
     <description>Home of the OpenComputers mod for Minecraft.</description>
-  </item>
-  <item>
-    <title>chipsalliance / rocket-chip</title>
-    <link>https://github.com/chipsalliance/rocket-chip</link>
-    <description>Rocket Chip Generator</description>
   </item>
   <item>
     <title>apache / kyuubi</title>
@@ -121,9 +106,24 @@
     <description>Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</description>
   </item>
   <item>
+    <title>canton-network / splice</title>
+    <link>https://github.com/canton-network/splice</link>
+    <description>Splice repository</description>
+  </item>
+  <item>
+    <title>chipsalliance / rocket-chip</title>
+    <link>https://github.com/chipsalliance/rocket-chip</link>
+    <description>Rocket Chip Generator</description>
+  </item>
+  <item>
     <title>ucb-bar / chipyard</title>
     <link>https://github.com/ucb-bar/chipyard</link>
     <description>An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</description>
+  </item>
+  <item>
+    <title>scalameta / metals</title>
+    <link>https://github.com/scalameta/metals</link>
+    <description>Scala language server with rich IDE features 🚀</description>
   </item>
 </channel>
 </rss>

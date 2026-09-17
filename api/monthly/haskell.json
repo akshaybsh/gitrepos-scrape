@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:05:29 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46298,
-      "forks": 3974,
-      "added_stars": "476 stars this month"
+      "stars": 46305,
+      "forks": 4020,
+      "added_stars": "470 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,9 +20,19 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40041,
-      "forks": 1944,
-      "added_stars": "202 stars this month"
+      "stars": 40046,
+      "forks": 1945,
+      "added_stars": "204 stars this month"
+    },
+    {
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 27671,
+      "forks": 1228,
+      "added_stars": "104 stars this month"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -30,9 +40,9 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1784,
+      "stars": 1795,
       "forks": 73,
-      "added_stars": "229 stars this month"
+      "added_stars": "231 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -40,9 +50,9 @@
       "description": "Dockerfile linter, validate inline bash, written in Haskell",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 12408,
+      "stars": 12410,
       "forks": 502,
-      "added_stars": "62 stars this month"
+      "added_stars": "64 stars this month"
     },
     {
       "title": "haskell / cabal",
@@ -53,16 +63,6 @@
       "stars": 1745,
       "forks": 751,
       "added_stars": "4 stars this month"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27670,
-      "forks": 1228,
-      "added_stars": "100 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-ledger",
@@ -80,9 +80,9 @@
       "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2565,
+      "stars": 2566,
       "forks": 399,
-      "added_stars": "36 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -91,18 +91,18 @@
       "language": "Haskell",
       "languageColor": "#5e5086",
       "stars": 2958,
-      "forks": 455,
+      "forks": 456,
       "added_stars": "15 stars this month"
     },
     {
-      "title": "wireapp / wire-server",
-      "url": "https://github.com/wireapp/wire-server",
-      "description": "🇪🇺 Wire back-end services",
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2781,
-      "forks": 333,
-      "added_stars": "2 stars this month"
+      "stars": 3179,
+      "forks": 755,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "mtolly / onyx",
@@ -115,44 +115,14 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
+      "title": "wireapp / wire-server",
+      "url": "https://github.com/wireapp/wire-server",
+      "description": "🇪🇺 Wire back-end services",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3179,
-      "forks": 754,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2930,
-      "forks": 429,
-      "added_stars": "22 stars this month"
-    },
-    {
-      "title": "elm / compiler",
-      "url": "https://github.com/elm/compiler",
-      "description": "Compiler for Elm, a functional language for reliable webapps.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 7904,
-      "forks": 691,
-      "added_stars": "51 stars this month"
-    },
-    {
-      "title": "simplex-chat / simplexmq",
-      "url": "https://github.com/simplex-chat/simplexmq",
-      "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 847,
-      "forks": 110,
-      "added_stars": "6 stars this month"
+      "stars": 2781,
+      "forks": 333,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "IntersectMBO / ouroboros-consensus",
@@ -165,24 +135,34 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "unisonweb / unison",
-      "url": "https://github.com/unisonweb/unison",
-      "description": "A friendly programming language from the future",
+      "title": "simplex-chat / simplexmq",
+      "url": "https://github.com/simplex-chat/simplexmq",
+      "description": "⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6730,
-      "forks": 308,
-      "added_stars": "36 stars this month"
+      "stars": 847,
+      "forks": 110,
+      "added_stars": "6 stars this month"
     },
     {
-      "title": "fossas / fossa-cli",
-      "url": "https://github.com/fossas/fossa-cli",
-      "description": "Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.",
+      "title": "agda / agda",
+      "url": "https://github.com/agda/agda",
+      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1518,
-      "forks": 205,
-      "added_stars": "6 stars this month"
+      "stars": 2930,
+      "forks": 429,
+      "added_stars": "22 stars this month"
+    },
+    {
+      "title": "therepanic / openleetcode",
+      "url": "https://github.com/therepanic/openleetcode",
+      "description": "we have democratized the LeetCode tests",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 170,
+      "forks": 6,
+      "added_stars": "135 stars this month"
     },
     {
       "title": "digital-asset / daml",
@@ -193,6 +173,16 @@
       "stars": 916,
       "forks": 263,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "unisonweb / unison",
+      "url": "https://github.com/unisonweb/unison",
+      "description": "A friendly programming language from the future",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 6731,
+      "forks": 308,
+      "added_stars": "37 stars this month"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "title": "GitHub Erlang Languages Daily Trending",
   "description": "Daily Trending of Erlang Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
-    {
-      "title": "apache / couchdb",
-      "url": "https://github.com/apache/couchdb",
-      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
-      "language": "Erlang",
-      "languageColor": "#B83998",
-      "stars": 6952,
-      "forks": 1077,
-      "added_stars": "3 stars this week"
-    },
     {
       "title": "emqx / emqx",
       "url": "https://github.com/emqx/emqx",
       "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
       "language": "Erlang",
       "languageColor": "#B83998",
-      "stars": 16726,
+      "stars": 16729,
       "forks": 2549,
-      "added_stars": "30 stars this week"
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "apache / couchdb",
+      "url": "https://github.com/apache/couchdb",
+      "description": "Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability",
+      "language": "Erlang",
+      "languageColor": "#B83998",
+      "stars": 6953,
+      "forks": 1077,
+      "added_stars": "4 stars this week"
     }
   ]
 }

@@ -2,57 +2,37 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
+    {
+      "title": "cloudflare / security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8052,
+      "forks": 454,
+      "added_stars": "927 stars today"
+    },
     {
       "title": "addyosmani / agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 94989,
-      "forks": 10075,
-      "added_stars": "307 stars today"
+      "stars": 95638,
+      "forks": 10121,
+      "added_stars": "658 stars today"
     },
     {
-      "title": "JoeanAmier / TikTokDownloader",
-      "url": "https://github.com/JoeanAmier/TikTokDownloader",
-      "description": "抖音 / TikTok 平台作品下载/数据采集工具",
+      "title": "affaan-m / ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 16062,
-      "forks": 2736,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "asgeirtj / system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 67267,
-      "forks": 10918,
-      "added_stars": "579 stars today"
-    },
-    {
-      "title": "tt-a1i / archify",
-      "url": "https://github.com/tt-a1i/archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 64007,
-      "forks": 4244,
-      "added_stars": "1,373 stars today"
-    },
-    {
-      "title": "Mathieu2301 / TradingView-API",
-      "url": "https://github.com/Mathieu2301/TradingView-API",
-      "description": "📈 Get real-time stocks from TradingView",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 5120,
-      "forks": 894,
-      "added_stars": "176 stars today"
+      "stars": 260568,
+      "forks": 39000,
+      "added_stars": "1,057 stars today"
     },
     {
       "title": "fleetbase / fleetbase",
@@ -60,19 +40,9 @@
       "description": "Modular logistics and supply chain operating system (LSOS)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3544,
-      "forks": 946,
-      "added_stars": "530 stars today"
-    },
-    {
-      "title": "kunchenguid / lavish-axi",
-      "url": "https://github.com/kunchenguid/lavish-axi",
-      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 3743,
-      "forks": 322,
-      "added_stars": "138 stars today"
+      "stars": 3782,
+      "forks": 973,
+      "added_stars": "282 stars today"
     },
     {
       "title": "darkzOGx / youtube-automation-agent",
@@ -80,29 +50,89 @@
       "description": "🎬 Fully automated YouTube channel management with AI agents. Creates, optimizes & publishes videos 24/7. Works with FREE Gemini API or OpenAI. No coding required!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 3551,
-      "forks": 1015,
-      "added_stars": "56 stars today"
+      "stars": 3679,
+      "forks": 1031,
+      "added_stars": "108 stars today"
     },
     {
-      "title": "cloudflare / security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "title": "kunchenguid / lavish-axi",
+      "url": "https://github.com/kunchenguid/lavish-axi",
+      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5270,
-      "forks": 320,
-      "added_stars": "1,434 stars today"
+      "stars": 3875,
+      "forks": 328,
+      "added_stars": "106 stars today"
     },
     {
-      "title": "plugin87 / ux-ui-agent-skills",
-      "url": "https://github.com/plugin87/ux-ui-agent-skills",
-      "description": "Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.",
+      "title": "stdlib-js / stdlib",
+      "url": "https://github.com/stdlib-js/stdlib",
+      "description": "✨ The fundamental numerical library for JavaScript and TypeScript. ✨                   ⭐️ Star to support our work!",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1466,
-      "forks": 140,
-      "added_stars": "93 stars today"
+      "stars": 6103,
+      "forks": 1278,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "laoma2053 / awesome-zhuiju-free",
+      "url": "https://github.com/laoma2053/awesome-zhuiju-free",
+      "description": "免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 8808,
+      "forks": 543,
+      "added_stars": "60 stars today"
+    },
+    {
+      "title": "Mathieu2301 / TradingView-API",
+      "url": "https://github.com/Mathieu2301/TradingView-API",
+      "description": "📈 Get real-time stocks from TradingView",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 5265,
+      "forks": 898,
+      "added_stars": "183 stars today"
+    },
+    {
+      "title": "Mintplex-Labs / anything-llm",
+      "url": "https://github.com/Mintplex-Labs/anything-llm",
+      "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 66228,
+      "forks": 7345,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "jarrodwatts / claude-hud",
+      "url": "https://github.com/jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 28142,
+      "forks": 1298,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "mozilla / pdf.js",
+      "url": "https://github.com/mozilla/pdf.js",
+      "description": "PDF Reader in JavaScript",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 54011,
+      "forks": 10679,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "ToolJet / ToolJet",
+      "url": "https://github.com/ToolJet/ToolJet",
+      "description": "Open-source foundation of ToolJet AI - the enterprise app generation platform for internal tools, dashboards, business applications, workflows and AI agents. Build visually, from a prompt, or from Claude Code, Codex and Cursor over MCP 🚀",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 41049,
+      "forks": 5449,
+      "added_stars": "13 stars today"
     },
     {
       "title": "xuanyustudio / LocalMiniDrama",
@@ -110,29 +140,9 @@
       "description": "🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1747,
-      "forks": 422,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "atlassian / atlassian-mcp-server",
-      "url": "https://github.com/atlassian/atlassian-mcp-server",
-      "description": "Official remote MCP server for Atlassian. Securely connect Jira, Confluence, Jira Service Management, Bitbucket, and Compass to Claude, ChatGPT, Cursor, VS Code, and other AI tools using OAuth 2.1 or API tokens.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 1111,
-      "forks": 129,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "prettier / prettier",
-      "url": "https://github.com/prettier/prettier",
-      "description": "Prettier is an opinionated code formatter.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 52332,
-      "forks": 5000,
-      "added_stars": "3 stars today"
+      "stars": 1916,
+      "forks": 429,
+      "added_stars": "116 stars today"
     }
   ]
 }

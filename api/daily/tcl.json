@@ -2,16 +2,46 @@
   "title": "GitHub Tcl Languages Daily Trending",
   "description": "Daily Trending of Tcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
+    {
+      "title": "Digilent / digilent-xdc",
+      "url": "https://github.com/Digilent/digilent-xdc",
+      "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 707,
+      "forks": 583,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "analogdevicesinc / hdl",
+      "url": "https://github.com/analogdevicesinc/hdl",
+      "description": "HDL libraries and projects",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 2016,
+      "forks": 1684,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "macports / macports-base",
       "url": "https://github.com/macports/macports-base",
       "description": "The MacPorts command-line client",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": 1034,
+      "stars": 1037,
       "forks": 291,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "TPC-Council / HammerDB",
+      "url": "https://github.com/TPC-Council/HammerDB",
+      "description": "HammerDB: The industry standard open-source database benchmark",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 786,
+      "forks": 158,
       "added_stars": "0 stars today"
     }
   ]

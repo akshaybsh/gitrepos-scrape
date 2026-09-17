@@ -2,7 +2,7 @@
   "title": "GitHub Bikeshed Languages Daily Trending",
   "description": "Daily Trending of Bikeshed Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:05:29 GMT",
   "items": [
     {
       "title": "webmachinelearning / webmcp",
@@ -10,9 +10,9 @@
       "description": "🤖 WebMCP",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4030,
+      "stars": 4058,
       "forks": 269,
-      "added_stars": "1,030 stars this month"
+      "added_stars": "1,039 stars this month"
     },
     {
       "title": "w3c / csswg-drafts",
@@ -20,9 +20,19 @@
       "description": "CSS Working Group Editor Drafts",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 4880,
+      "stars": 4881,
       "forks": 816,
-      "added_stars": "18 stars this month"
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "gpuweb / gpuweb",
+      "url": "https://github.com/gpuweb/gpuweb",
+      "description": "Where the GPU for the Web work happens!",
+      "language": "Bikeshed",
+      "languageColor": "#5562ac",
+      "stars": 5473,
+      "forks": 381,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "w3c / webappsec-permissions-policy",
@@ -42,7 +52,7 @@
       "languageColor": "#5562ac",
       "stars": 1458,
       "forks": 306,
-      "added_stars": "29 stars this month"
+      "added_stars": "28 stars this month"
     },
     {
       "title": "WebAudio / web-audio-api",
@@ -85,16 +95,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "WICG / first-party-sets",
-      "url": "https://github.com/WICG/first-party-sets",
-      "description": "",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 400,
-      "forks": 170,
-      "added_stars": "3 stars this month"
-    },
-    {
       "title": "w3c / webextensions",
       "url": "https://github.com/w3c/webextensions",
       "description": "Charter and administrivia for the WebExtensions Community Group (WECG)",
@@ -102,27 +102,17 @@
       "languageColor": "#5562ac",
       "stars": 711,
       "forks": 95,
-      "added_stars": "3 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
-      "title": "WICG / declarative-partial-updates",
-      "url": "https://github.com/WICG/declarative-partial-updates",
+      "title": "WICG / first-party-sets",
+      "url": "https://github.com/WICG/first-party-sets",
       "description": "",
       "language": "Bikeshed",
       "languageColor": "#5562ac",
-      "stars": 133,
-      "forks": 13,
-      "added_stars": "11 stars this month"
-    },
-    {
-      "title": "w3c / attribution",
-      "url": "https://github.com/w3c/attribution",
-      "description": "Attribution API",
-      "language": "Bikeshed",
-      "languageColor": "#5562ac",
-      "stars": 110,
-      "forks": 87,
-      "added_stars": "2 stars this month"
+      "stars": 400,
+      "forks": 169,
+      "added_stars": "3 stars this month"
     }
   ]
 }

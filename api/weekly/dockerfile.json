@@ -2,7 +2,7 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
     {
       "title": "jaywcjlove / reference",
@@ -12,7 +12,7 @@
       "languageColor": "#384d54",
       "stars": 15260,
       "forks": 2227,
-      "added_stars": "46 stars this week"
+      "added_stars": "40 stars this week"
     },
     {
       "title": "goldbergyoni / nodebestpractices",
@@ -20,9 +20,9 @@
       "description": "✅ The Node.js best practices list (July 2026)",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 105618,
+      "stars": 105625,
       "forks": 10726,
-      "added_stars": "39 stars this week"
+      "added_stars": "44 stars this week"
     },
     {
       "title": "dotnet / dotnet-docker",
@@ -35,44 +35,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "nodejs / docker-node",
-      "url": "https://github.com/nodejs/docker-node",
-      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 8591,
-      "forks": 1981,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "oxsecurity / megalinter",
       "url": "https://github.com/oxsecurity/megalinter",
       "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2587,
+      "stars": 2588,
       "forks": 310,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "render-examples / mysql",
-      "url": "https://github.com/render-examples/mysql",
-      "description": "MySQL 8.0 and 5.7 on Render",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 46,
-      "forks": 1148,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "docker-library / python",
-      "url": "https://github.com/docker-library/python",
-      "description": "Docker Official Image packaging for Python",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2776,
-      "forks": 1108,
-      "added_stars": "2 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "kubernetes-sigs / contributor-playground",
@@ -81,8 +51,8 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 284,
-      "forks": 2100,
-      "added_stars": "1 star this week"
+      "forks": 2102,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "kagisearch / kagi-docs",
@@ -91,8 +61,48 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 411,
-      "forks": 711,
+      "forks": 710,
       "added_stars": "4 stars this week"
+    },
+    {
+      "title": "docker-library / python",
+      "url": "https://github.com/docker-library/python",
+      "description": "Docker Official Image packaging for Python",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2777,
+      "forks": 1108,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "nodejs / docker-node",
+      "url": "https://github.com/nodejs/docker-node",
+      "description": "Official Docker Image for Node.js 🐳 🐢 🚀",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 8592,
+      "forks": 1980,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "render-examples / mysql",
+      "url": "https://github.com/render-examples/mysql",
+      "description": "MySQL 8.0 and 5.7 on Render",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 46,
+      "forks": 1149,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "nordquant / dbt-student-repo",
+      "url": "https://github.com/nordquant/dbt-student-repo",
+      "description": "Starter Repository for the Complete dbt Bootcamp Zero to Hero Course",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 23,
+      "forks": 3335,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "vulhub / vulhub",
@@ -100,8 +110,8 @@
       "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 21240,
-      "forks": 4805,
+      "stars": 21246,
+      "forks": 4806,
       "added_stars": "28 stars this week"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
     {
       "title": "neovim / neovim",
@@ -10,19 +10,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102362,
+      "stars": 102378,
       "forks": 7113,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11685,
-      "forks": 810,
-      "added_stars": "1 star today"
+      "added_stars": "21 stars today"
     },
     {
       "title": "jbranchaud / til",
@@ -35,13 +25,23 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "mhinz / vim-galore",
+      "url": "https://github.com/mhinz/vim-galore",
+      "description": "🎓 All things Vim!",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 17984,
+      "forks": 627,
+      "added_stars": "3 stars today"
+    },
+    {
       "title": "vim / vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
       "stars": 40893,
-      "forks": 6135,
+      "forks": 6137,
       "added_stars": "4 stars today"
     },
     {
@@ -50,29 +50,9 @@
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35767,
+      "stars": 35770,
       "forks": 1934,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "vim-test / vim-test",
-      "url": "https://github.com/vim-test/vim-test",
-      "description": "Run your tests at the speed of thought",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 3165,
-      "forks": 411,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21783,
-      "forks": 1080,
-      "added_stars": "0 stars today"
+      "added_stars": "2 stars today"
     },
     {
       "title": "morhetz / gruvbox",
@@ -80,9 +60,49 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15743,
+      "stars": 15744,
       "forks": 1124,
-      "added_stars": "3 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21787,
+      "forks": 1080,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11685,
+      "forks": 811,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "fatih / vim-go",
+      "url": "https://github.com/fatih/vim-go",
+      "description": "Go development plugin for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 16219,
+      "forks": 1426,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "tpope / vim-commentary",
+      "url": "https://github.com/tpope/vim-commentary",
+      "description": "commentary.vim: comment stuff out",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 6169,
+      "forks": 211,
+      "added_stars": "1 star today"
     }
   ]
 }

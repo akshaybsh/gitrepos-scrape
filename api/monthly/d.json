@@ -2,7 +2,7 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:10:32 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:05:29 GMT",
   "items": [
     {
       "title": "abraunegg / onedrive",
@@ -10,9 +10,9 @@
       "description": "OneDrive Client for Linux",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 12816,
+      "stars": 12815,
       "forks": 913,
-      "added_stars": "142 stars this month"
+      "added_stars": "141 stars this month"
     },
     {
       "title": "Dadoum / anisette-v3-server",
@@ -20,8 +20,8 @@
       "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 572,
-      "forks": 2482,
+      "stars": 573,
+      "forks": 2486,
       "added_stars": "39 stars this month"
     },
     {
@@ -30,9 +30,19 @@
       "description": "Open-source cross-platform iOS app sideloader (yep, even Linux is supported). Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 1016,
-      "forks": 164,
-      "added_stars": "29 stars this month"
+      "stars": 1018,
+      "forks": 163,
+      "added_stars": "30 stars this month"
+    },
+    {
+      "title": "gnunn1 / tilix",
+      "url": "https://github.com/gnunn1/tilix",
+      "description": "A tiling terminal emulator for Linux using GTK+ 3",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 5721,
+      "forks": 322,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "dlang / phobos",
@@ -43,16 +53,6 @@
       "stars": 1259,
       "forks": 773,
       "added_stars": "6 stars this month"
-    },
-    {
-      "title": "gnunn1 / tilix",
-      "url": "https://github.com/gnunn1/tilix",
-      "description": "A tiling terminal emulator for Linux using GTK+ 3",
-      "language": "D",
-      "languageColor": "#ba595e",
-      "stars": 5720,
-      "forks": 322,
-      "added_stars": "12 stars this month"
     }
   ]
 }

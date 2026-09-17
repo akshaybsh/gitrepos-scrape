@@ -2,107 +2,47 @@
   "title": "GitHub Kotlin Languages Daily Trending",
   "description": "Daily Trending of Kotlin Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
-    {
-      "title": "utkarshdalal / GameNative",
-      "url": "https://github.com/utkarshdalal/GameNative",
-      "description": "Native PC gaming with Steam, Epic, GOG and Amazon integrations on Android",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 10580,
-      "forks": 420,
-      "added_stars": "35 stars today"
-    },
-    {
-      "title": "AAswordman / Operit",
-      "url": "https://github.com/AAswordman/Operit",
-      "description": "The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 7846,
-      "forks": 647,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "sameerasw / essentials",
-      "url": "https://github.com/sameerasw/essentials",
-      "description": "Essential tools and mods for Android nerds",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 2992,
-      "forks": 80,
-      "added_stars": "18 stars today"
-    },
-    {
-      "title": "aniyomiorg / aniyomi",
-      "url": "https://github.com/aniyomiorg/aniyomi",
-      "description": "An app for manga and anime",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 7688,
-      "forks": 656,
-      "added_stars": "6 stars today"
-    },
     {
       "title": "ExTV / Podroid",
       "url": "https://github.com/ExTV/Podroid",
       "description": "A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 2666,
-      "forks": 165,
-      "added_stars": "254 stars today"
+      "stars": 2719,
+      "forks": 170,
+      "added_stars": "40 stars today"
     },
     {
-      "title": "bjzhou / PhotonCamera",
-      "url": "https://github.com/bjzhou/PhotonCamera",
-      "description": "Open-source Android camera application focused on static photography",
+      "title": "gkd-kit / gkd",
+      "url": "https://github.com/gkd-kit/gkd",
+      "description": "基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 408,
-      "forks": 35,
-      "added_stars": "5 stars today"
+      "stars": 41949,
+      "forks": 1986,
+      "added_stars": "32 stars today"
     },
     {
-      "title": "capcom6 / android-sms-gateway",
-      "url": "https://github.com/capcom6/android-sms-gateway",
-      "description": "The SMS Gateway for Android™ app enables sending and receiving SMS messages through an API that can be accessed directly on the device or via a cloud server when direct device access is not possible.",
+      "title": "thejaustin / ShizukuPlus",
+      "url": "https://github.com/thejaustin/ShizukuPlus",
+      "description": "An enhanced fork of Shizuku — adds Root/ADB/Dhizuku unification, a Plus API suite, and OneUI/Android 16+ compatibility fixes, while staying fully compatible with existing Shizuku apps.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 5728,
-      "forks": 1005,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "jellyfin / jellyfin-android",
-      "url": "https://github.com/jellyfin/jellyfin-android",
-      "description": "Android Client for Jellyfin",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 2765,
-      "forks": 525,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "kitsumed / ShizuCallRecorder",
-      "url": "https://github.com/kitsumed/ShizuCallRecorder",
-      "description": "ShizuCallRecorder empowers ADB through Shizuku to record phone calls on non-rooted device!",
-      "language": "Kotlin",
-      "languageColor": "#A97BFF",
-      "stars": 1503,
+      "stars": 1013,
       "forks": 59,
-      "added_stars": "10 stars today"
+      "added_stars": "13 stars today"
     },
     {
-      "title": "LegadoTeam / legado",
-      "url": "https://github.com/LegadoTeam/legado",
-      "description": "Legado 3.0 Book Reader with powerful controls",
+      "title": "home-assistant / android",
+      "url": "https://github.com/home-assistant/android",
+      "description": "Home Assistant Companion for Android",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 1177,
-      "forks": 284,
-      "added_stars": "13 stars today"
+      "stars": 3895,
+      "forks": 1064,
+      "added_stars": "6 stars today"
     },
     {
       "title": "pppscn / SmsForwarder",
@@ -110,49 +50,69 @@
       "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 28003,
-      "forks": 3418,
-      "added_stars": "23 stars today"
+      "stars": 28018,
+      "forks": 3421,
+      "added_stars": "20 stars today"
     },
     {
-      "title": "signalapp / Signal-Android",
-      "url": "https://github.com/signalapp/Signal-Android",
-      "description": "A private messenger for Android.",
+      "title": "celzero / rethink-app",
+      "url": "https://github.com/celzero/rethink-app",
+      "description": "DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 29344,
-      "forks": 6884,
-      "added_stars": "3 stars today"
+      "stars": 5432,
+      "forks": 332,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "tiann / KernelSU",
-      "url": "https://github.com/tiann/KernelSU",
-      "description": "A Kernel based root solution for Android",
+      "title": "MM2-0 / Kvaesitso",
+      "url": "https://github.com/MM2-0/Kvaesitso",
+      "description": "A search-focused Android launcher",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 18436,
-      "forks": 4037,
-      "added_stars": "24 stars today"
+      "stars": 5121,
+      "forks": 255,
+      "added_stars": "8 stars today"
     },
     {
-      "title": "tharunbirla / LibreCuts",
-      "url": "https://github.com/tharunbirla/LibreCuts",
-      "description": "LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.",
+      "title": "ankidroid / Anki-Android",
+      "url": "https://github.com/ankidroid/Anki-Android",
+      "description": "AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 788,
-      "forks": 88,
-      "added_stars": "9 stars today"
+      "stars": 11803,
+      "forks": 2911,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "rukamori / ArchiveTune",
-      "url": "https://github.com/rukamori/ArchiveTune",
-      "description": "🌸 The Cutest Music Player With Support Local File and Youtube Music for Android!",
+      "title": "aniyomiorg / aniyomi",
+      "url": "https://github.com/aniyomiorg/aniyomi",
+      "description": "An app for manga and anime",
       "language": "Kotlin",
       "languageColor": "#A97BFF",
-      "stars": 6098,
-      "forks": 257,
-      "added_stars": "27 stars today"
+      "stars": 7690,
+      "forks": 657,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "Nain57 / Smart-AutoClicker",
+      "url": "https://github.com/Nain57/Smart-AutoClicker",
+      "description": "An open-source auto clicker on images for Android",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 3616,
+      "forks": 606,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "jieapi / AiCode",
+      "url": "https://github.com/jieapi/AiCode",
+      "description": "在 Android 上运行的 AI 编程 Agent，内置 Linux 终端与代码编辑器，支持 MCP 协议扩展。",
+      "language": "Kotlin",
+      "languageColor": "#A97BFF",
+      "stars": 144,
+      "forks": 32,
+      "added_stars": "5 stars today"
     }
   ]
 }

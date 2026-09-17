@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -21,8 +21,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 969,
-      "forks": 539,
-      "added_stars": "6 stars this week"
+      "forks": 540,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "firemodels / fds",
@@ -35,24 +35,24 @@
       "added_stars": "4 stars this week"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1760,
-      "forks": 881,
-      "added_stars": "8 stars this week"
-    },
-    {
       "title": "JuliaPackaging / Yggdrasil",
       "url": "https://github.com/JuliaPackaging/Yggdrasil",
       "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 406,
-      "forks": 760,
+      "forks": 762,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1761,
+      "forks": 882,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -62,7 +62,7 @@
       "languageColor": "#4d41b1",
       "stars": 1706,
       "forks": 396,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "cp2k / cp2k",
@@ -70,8 +70,18 @@
       "description": "Quantum chemistry and solid state physics software package",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1207,
-      "forks": 499,
+      "stars": 1208,
+      "forks": 500,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "OpenRadioss / OpenRadioss",
+      "url": "https://github.com/OpenRadioss/OpenRadioss",
+      "description": "OpenRadioss is a powerful, industry-proven finite element solver for dynamic event analysis",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 874,
+      "forks": 394,
       "added_stars": "6 stars this week"
     }
   ]

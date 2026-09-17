@@ -2,17 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:08:13 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
   "items": [
+    {
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 200151,
+      "forks": 76633,
+      "added_stars": "888 stars this week"
+    },
     {
       "title": "godotengine / godot",
       "url": "https://github.com/godotengine/godot",
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 117259,
-      "forks": 26765,
-      "added_stars": "459 stars this week"
+      "stars": 117342,
+      "forks": 26778,
+      "added_stars": "471 stars this week"
     },
     {
       "title": "tenstorrent / tt-metal",
@@ -20,69 +30,9 @@
       "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1675,
-      "forks": 685,
+      "stars": 1679,
+      "forks": 688,
       "added_stars": "14 stars this week"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41259,
-      "forks": 2119,
-      "added_stars": "258 stars this week"
-    },
-    {
-      "title": "jomjol / AI-on-the-edge-device",
-      "url": "https://github.com/jomjol/AI-on-the-edge-device",
-      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8765,
-      "forks": 910,
-      "added_stars": "108 stars this week"
-    },
-    {
-      "title": "ggml-org / whisper.cpp",
-      "url": "https://github.com/ggml-org/whisper.cpp",
-      "description": "Port of OpenAI's Whisper model in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 53692,
-      "forks": 6159,
-      "added_stars": "177 stars this week"
-    },
-    {
-      "title": "RPCS3 / rpcs3",
-      "url": "https://github.com/RPCS3/rpcs3",
-      "description": "PlayStation 3 emulator and debugger",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 19769,
-      "forks": 2441,
-      "added_stars": "77 stars this week"
-    },
-    {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 200123,
-      "forks": 76518,
-      "added_stars": "880 stars this week"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 128385,
-      "forks": 23248,
-      "added_stars": "906 stars this week"
     },
     {
       "title": "0xShug0 / audio.cpp",
@@ -90,9 +40,39 @@
       "description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2764,
-      "forks": 314,
-      "added_stars": "385 stars this week"
+      "stars": 2800,
+      "forks": 316,
+      "added_stars": "396 stars this week"
+    },
+    {
+      "title": "jomjol / AI-on-the-edge-device",
+      "url": "https://github.com/jomjol/AI-on-the-edge-device",
+      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8774,
+      "forks": 911,
+      "added_stars": "111 stars this week"
+    },
+    {
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41292,
+      "forks": 2124,
+      "added_stars": "257 stars this week"
+    },
+    {
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 128499,
+      "forks": 23299,
+      "added_stars": "907 stars this week"
     },
     {
       "title": "azahar-emu / azahar",
@@ -100,29 +80,39 @@
       "description": "An open-source 3DS emulator project based on Citra.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8141,
-      "forks": 671,
-      "added_stars": "75 stars this week"
+      "stars": 8152,
+      "forks": 674,
+      "added_stars": "86 stars this week"
     },
     {
-      "title": "PaddlePaddle / Paddle",
-      "url": "https://github.com/PaddlePaddle/Paddle",
-      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "title": "ggml-org / whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 24089,
-      "forks": 6022,
-      "added_stars": "20 stars this week"
+      "stars": 53719,
+      "forks": 6165,
+      "added_stars": "173 stars this week"
     },
     {
-      "title": "google / benchmark",
-      "url": "https://github.com/google/benchmark",
-      "description": "A microbenchmark support library",
+      "title": "apache / arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10406,
-      "forks": 1800,
-      "added_stars": "19 stars this week"
+      "stars": 17125,
+      "forks": 4301,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41336,
+      "forks": 3791,
+      "added_stars": "235 stars this week"
     },
     {
       "title": "Atmosphere-NX / Atmosphere",
@@ -130,39 +120,9 @@
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19646,
+      "stars": 19672,
       "forks": 1475,
-      "added_stars": "130 stars this week"
-    },
-    {
-      "title": "mamedev / mame",
-      "url": "https://github.com/mamedev/mame",
-      "description": "MAME",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 10494,
-      "forks": 2528,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "justcallmekoko / ESP32Marauder",
-      "url": "https://github.com/justcallmekoko/ESP32Marauder",
-      "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 12372,
-      "forks": 1481,
-      "added_stars": "110 stars this week"
-    },
-    {
-      "title": "optiscaler / OptiScaler",
-      "url": "https://github.com/optiscaler/OptiScaler",
-      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11067,
-      "forks": 487,
-      "added_stars": "558 stars this week"
+      "added_stars": "152 stars this week"
     },
     {
       "title": "aseprite / aseprite",
@@ -170,9 +130,59 @@
       "description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39482,
-      "forks": 9009,
-      "added_stars": "169 stars this week"
+      "stars": 39507,
+      "forks": 9013,
+      "added_stars": "171 stars this week"
+    },
+    {
+      "title": "RPCS3 / rpcs3",
+      "url": "https://github.com/RPCS3/rpcs3",
+      "description": "PlayStation 3 emulator and debugger",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19780,
+      "forks": 2442,
+      "added_stars": "79 stars this week"
+    },
+    {
+      "title": "optiscaler / OptiScaler",
+      "url": "https://github.com/optiscaler/OptiScaler",
+      "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 11108,
+      "forks": 488,
+      "added_stars": "565 stars this week"
+    },
+    {
+      "title": "ocornut / imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 76225,
+      "forks": 12036,
+      "added_stars": "122 stars this week"
+    },
+    {
+      "title": "PaddlePaddle / Paddle",
+      "url": "https://github.com/PaddlePaddle/Paddle",
+      "description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 24091,
+      "forks": 6021,
+      "added_stars": "16 stars this week"
+    },
+    {
+      "title": "mamedev / mame",
+      "url": "https://github.com/mamedev/mame",
+      "description": "MAME",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 10497,
+      "forks": 2531,
+      "added_stars": "36 stars this week"
     }
   ]
 }

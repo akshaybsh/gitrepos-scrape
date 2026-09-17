@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 16 Sep 2026 07:05:55 GMT",
+  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,59 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29489,
-      "forks": 2101,
-      "added_stars": "2,756 stars today"
-    },
-    {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 12535,
-      "forks": 1123,
-      "added_stars": "259 stars today"
-    },
-    {
-      "title": "getarcaneapp / arcane",
-      "url": "https://github.com/getarcaneapp/arcane",
-      "description": "Modern Docker Management, Designed for Everyone",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7409,
-      "forks": 310,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24526,
-      "forks": 3140,
-      "added_stars": "98 stars today"
-    },
-    {
-      "title": "minio / minio",
-      "url": "https://github.com/minio/minio",
-      "description": "MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 61379,
-      "forks": 7930,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "seaweedfs / seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 34740,
-      "forks": 3002,
-      "added_stars": "53 stars today"
+      "stars": 32828,
+      "forks": 2323,
+      "added_stars": "3,231 stars today"
     },
     {
       "title": "Tencent / WeKnora",
@@ -70,49 +20,19 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24604,
-      "forks": 3417,
-      "added_stars": "696 stars today"
+      "stars": 25684,
+      "forks": 3511,
+      "added_stars": "1,197 stars today"
     },
     {
-      "title": "navidrome / navidrome",
-      "url": "https://github.com/navidrome/navidrome",
-      "description": "🎧 Your Personal Streaming Service",
+      "title": "TencentCloud / CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23601,
-      "forks": 1703,
-      "added_stars": "32 stars today"
-    },
-    {
-      "title": "goharbor / harbor",
-      "url": "https://github.com/goharbor/harbor",
-      "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29388,
-      "forks": 5345,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "googleapis / mcp-toolbox",
-      "url": "https://github.com/googleapis/mcp-toolbox",
-      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16430,
-      "forks": 1721,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "gin-gonic / gin",
-      "url": "https://github.com/gin-gonic/gin",
-      "description": "Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 89232,
-      "forks": 8694,
-      "added_stars": "11 stars today"
+      "stars": 12634,
+      "forks": 1126,
+      "added_stars": "51 stars today"
     },
     {
       "title": "e2b-dev / runtime",
@@ -120,89 +40,19 @@
       "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1534,
-      "forks": 425,
-      "added_stars": "33 stars today"
+      "stars": 1634,
+      "forks": 430,
+      "added_stars": "109 stars today"
     },
     {
-      "title": "fatedier / frp",
-      "url": "https://github.com/fatedier/frp",
-      "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "title": "versity / versitygw",
+      "url": "https://github.com/versity/versitygw",
+      "description": "A simple to deploy but feature rich S3 object storage server for your filesystem",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 109474,
-      "forks": 15215,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "majd / ipatool",
-      "url": "https://github.com/majd/ipatool",
-      "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 11276,
-      "forks": 940,
-      "added_stars": "50 stars today"
-    },
-    {
-      "title": "gosom / google-maps-scraper",
-      "url": "https://github.com/gosom/google-maps-scraper",
-      "description": "scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5884,
-      "forks": 925,
-      "added_stars": "24 stars today"
-    },
-    {
-      "title": "kserve / kserve",
-      "url": "https://github.com/kserve/kserve",
-      "description": "Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5939,
-      "forks": 1676,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "Mininglamp-OSS / octo-server",
-      "url": "https://github.com/Mininglamp-OSS/octo-server",
-      "description": "🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1058,
-      "forks": 165,
-      "added_stars": "80 stars today"
-    },
-    {
-      "title": "sysadminsmedia / homebox",
-      "url": "https://github.com/sysadminsmedia/homebox",
-      "description": "A continuation of HomeBox the inventory and organization system built for the Home User",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7306,
-      "forks": 556,
-      "added_stars": "50 stars today"
-    },
-    {
-      "title": "hashicorp / nomad",
-      "url": "https://github.com/hashicorp/nomad",
-      "description": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16964,
-      "forks": 2143,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "aldinokemal / go-whatsapp-web-multidevice",
-      "url": "https://github.com/aldinokemal/go-whatsapp-web-multidevice",
-      "description": "GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 4819,
-      "forks": 1141,
-      "added_stars": "26 stars today"
+      "stars": 2957,
+      "forks": 302,
+      "added_stars": "23 stars today"
     },
     {
       "title": "ollama / ollama",
@@ -210,9 +60,169 @@
       "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 181103,
-      "forks": 17897,
-      "added_stars": "140 stars today"
+      "stars": 181217,
+      "forks": 17914,
+      "added_stars": "111 stars today"
+    },
+    {
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7456,
+      "forks": 304,
+      "added_stars": "149 stars today"
+    },
+    {
+      "title": "cockroachdb / cockroach",
+      "url": "https://github.com/cockroachdb/cockroach",
+      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 32549,
+      "forks": 4111,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "projectdiscovery / nuclei",
+      "url": "https://github.com/projectdiscovery/nuclei",
+      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 31321,
+      "forks": 3874,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "nats-io / nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20800,
+      "forks": 1959,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 106118,
+      "forks": 6146,
+      "added_stars": "229 stars today"
+    },
+    {
+      "title": "grpc / grpc-go",
+      "url": "https://github.com/grpc/grpc-go",
+      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23125,
+      "forks": 4766,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "temporalio / temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23178,
+      "forks": 1905,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "kubernetes / kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "description": "Production-Grade Container Scheduling and Management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 127842,
+      "forks": 44363,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "kubernetes-sigs / agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3988,
+      "forks": 516,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 14634,
+      "forks": 1478,
+      "added_stars": "83 stars today"
+    },
+    {
+      "title": "googleapis / mcp-toolbox",
+      "url": "https://github.com/googleapis/mcp-toolbox",
+      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16526,
+      "forks": 1725,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "hashicorp / vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36333,
+      "forks": 4759,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "cloudnative-pg / cloudnative-pg",
+      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
+      "description": "The most popular Kubernetes Operator for PostgreSQL.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 9388,
+      "forks": 764,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "cilium / cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25238,
+      "forks": 4065,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "caddyserver / caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 75875,
+      "forks": 4966,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "netbirdio / netbird",
+      "url": "https://github.com/netbirdio/netbird",
+      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 29366,
+      "forks": 1683,
+      "added_stars": "44 stars today"
     }
   ]
 }
