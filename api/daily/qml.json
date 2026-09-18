@@ -2,27 +2,47 @@
   "title": "GitHub Qml Languages Daily Trending",
   "description": "Daily Trending of Qml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
   "items": [
+    {
+      "title": "Keyitdev / sddm-astronaut-theme",
+      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
+      "description": "Series of modern looking themes for SDDM.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 3266,
+      "forks": 210,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "TheQtCompanyRnD / agent-skills",
       "url": "https://github.com/TheQtCompanyRnD/agent-skills",
       "description": "Official Qt AI engineering skills for Claude Code, Codex, Copilot, Gemini,and other AI coding tools",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 427,
+      "stars": 432,
       "forks": 45,
-      "added_stars": "3 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "pctrade / end4-pC",
-      "url": "https://github.com/pctrade/end4-pC",
-      "description": "Custom end4",
+      "title": "barry-ran / QuickDesk",
+      "url": "https://github.com/barry-ran/QuickDesk",
+      "description": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 3022,
-      "forks": 167,
-      "added_stars": "22 stars today"
+      "stars": 464,
+      "forks": 74,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Darkkal44 / qylock",
+      "url": "https://github.com/Darkkal44/qylock",
+      "description": "A cozy collection of sddm-themes & quickshell lockscreen setups.",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 2752,
+      "forks": 112,
+      "added_stars": "5 stars today"
     },
     {
       "title": "noctalia-dev / legacy-v4-plugins",
@@ -35,56 +55,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "status-im / status-app",
-      "url": "https://github.com/status-im/status-app",
-      "description": "Status App client made in Nim & QML",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 373,
-      "forks": 98,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "end-4 / dots-hyprland",
-      "url": "https://github.com/end-4/dots-hyprland",
-      "description": "Usability-first dotfiles",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 16125,
-      "forks": 1354,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "caelestia-dots / shell",
-      "url": "https://github.com/caelestia-dots/shell",
-      "description": "A fluid, morphing shell for your Linux desktop",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 12362,
-      "forks": 892,
-      "added_stars": "28 stars today"
-    },
-    {
-      "title": "Keyitdev / sddm-astronaut-theme",
-      "url": "https://github.com/Keyitdev/sddm-astronaut-theme",
-      "description": "Series of modern looking themes for SDDM.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 3263,
-      "forks": 210,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "barry-ran / QuickDesk",
-      "url": "https://github.com/barry-ran/QuickDesk",
-      "description": "QuickDesk is the first AI-native remote desktop — an open-source, free application with a built-in MCP (Model Context Protocol) Server that lets any AI agent see and control remote computers.",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 462,
-      "forks": 74,
-      "added_stars": "3 stars today"
-    },
-    {
       "title": "victronenergy / gui-v2",
       "url": "https://github.com/victronenergy/gui-v2",
       "description": "",
@@ -95,24 +65,64 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "caelestia-dots / shell",
+      "url": "https://github.com/caelestia-dots/shell",
+      "description": "A fluid, morphing shell for your Linux desktop",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 12383,
+      "forks": 894,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "status-im / status-app",
+      "url": "https://github.com/status-im/status-app",
+      "description": "Status App client made in Nim & QML",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 373,
+      "forks": 98,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "RinLit-233-shiroko / Class-Widgets-2",
+      "url": "https://github.com/RinLit-233-shiroko/Class-Widgets-2",
+      "description": "Class Widgets™ 2 Project",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 184,
+      "forks": 38,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ladybug-me / caelestia-kde",
+      "url": "https://github.com/ladybug-me/caelestia-kde",
+      "description": "caelestia-shell ported to KDE plasma 6",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 674,
+      "forks": 33,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "pctrade / end4-pC",
+      "url": "https://github.com/pctrade/end4-pC",
+      "description": "Custom end4",
+      "language": "QML",
+      "languageColor": "#44a51c",
+      "stars": 3050,
+      "forks": 167,
+      "added_stars": "33 stars today"
+    },
+    {
       "title": "ilyamiro / serpantinum",
       "url": "https://github.com/ilyamiro/serpantinum",
       "description": "A shell for wayland compositors",
       "language": "QML",
       "languageColor": "#44a51c",
-      "stars": 6914,
-      "forks": 289,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "SuceV587 / NextKde",
-      "url": "https://github.com/SuceV587/NextKde",
-      "description": "quickshell project",
-      "language": "QML",
-      "languageColor": "#44a51c",
-      "stars": 152,
-      "forks": 15,
-      "added_stars": "10 stars today"
+      "stars": 6934,
+      "forks": 292,
+      "added_stars": "18 stars today"
     }
   ]
 }

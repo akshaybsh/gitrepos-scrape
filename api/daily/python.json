@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
   "items": [
     {
       "title": "anthropics / knowledge-work-plugins",
@@ -10,9 +10,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 24374,
-      "forks": 2927,
-      "added_stars": "110 stars today"
+      "stars": 24651,
+      "forks": 2955,
+      "added_stars": "287 stars today"
     },
     {
       "title": "roboflow / supervision",
@@ -20,39 +20,9 @@
       "description": "We write your reusable computer vision tools. 💜",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 50685,
-      "forks": 4815,
-      "added_stars": "260 stars today"
-    },
-    {
-      "title": "rlaope / oh-my-hermes",
-      "url": "https://github.com/rlaope/oh-my-hermes",
-      "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 2631,
-      "forks": 189,
-      "added_stars": "80 stars today"
-    },
-    {
-      "title": "SnailSploit / Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5899,
-      "forks": 751,
-      "added_stars": "367 stars today"
-    },
-    {
-      "title": "multimodal-art-projection / YuE",
-      "url": "https://github.com/multimodal-art-projection/YuE",
-      "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 9486,
-      "forks": 1021,
-      "added_stars": "332 stars today"
+      "stars": 50871,
+      "forks": 4836,
+      "added_stars": "329 stars today"
     },
     {
       "title": "TencentCloud / Octop",
@@ -60,89 +30,29 @@
       "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 3108,
-      "forks": 329,
-      "added_stars": "396 stars today"
+      "stars": 3645,
+      "forks": 379,
+      "added_stars": "367 stars today"
     },
     {
-      "title": "meituan-longcat / LongCat-Video",
-      "url": "https://github.com/meituan-longcat/LongCat-Video",
-      "description": "",
+      "title": "arnegiacomo / fugleramme",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "description": "E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 8232,
-      "forks": 1464,
-      "added_stars": "120 stars today"
+      "stars": 2953,
+      "forks": 73,
+      "added_stars": "592 stars today"
     },
     {
-      "title": "bobeff / open-source-games",
-      "url": "https://github.com/bobeff/open-source-games",
-      "description": "A list of open source games.",
+      "title": "SnailSploit / Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 14495,
-      "forks": 1191,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "666ghj / MiroFish",
-      "url": "https://github.com/666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 73858,
-      "forks": 11342,
-      "added_stars": "167 stars today"
-    },
-    {
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 82616,
-      "forks": 7223,
-      "added_stars": "476 stars today"
-    },
-    {
-      "title": "Q00 / ouroboros",
-      "url": "https://github.com/Q00/ouroboros",
-      "description": "Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 5968,
-      "forks": 604,
-      "added_stars": "32 stars today"
-    },
-    {
-      "title": "debpalash / VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 32221,
-      "forks": 3814,
-      "added_stars": "1,416 stars today"
-    },
-    {
-      "title": "volcengine / OpenViking",
-      "url": "https://github.com/volcengine/OpenViking",
-      "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 37823,
-      "forks": 2925,
-      "added_stars": "276 stars today"
-    },
-    {
-      "title": "MakazhanAlpamys / Soup",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
-      "description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 6725,
-      "forks": 1052,
-      "added_stars": "104 stars today"
+      "stars": 6063,
+      "forks": 781,
+      "added_stars": "440 stars today"
     },
     {
       "title": "onyx-dot-app / onyx",
@@ -150,39 +60,99 @@
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 32143,
-      "forks": 4474,
-      "added_stars": "19 stars today"
+      "stars": 32151,
+      "forks": 4478,
+      "added_stars": "33 stars today"
     },
     {
-      "title": "wshobson / agents",
-      "url": "https://github.com/wshobson/agents",
-      "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi",
+      "title": "google-research / timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 39747,
-      "forks": 4235,
+      "stars": 33052,
+      "forks": 3183,
+      "added_stars": "248 stars today"
+    },
+    {
+      "title": "strands-agents / harness-sdk",
+      "url": "https://github.com/strands-agents/harness-sdk",
+      "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7343,
+      "forks": 1153,
       "added_stars": "41 stars today"
     },
     {
-      "title": "google / skills",
-      "url": "https://github.com/google/skills",
-      "description": "Agent Skills for Google products and technologies",
+      "title": "LLMQuant / quant-mind",
+      "url": "https://github.com/LLMQuant/quant-mind",
+      "description": "QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 20072,
-      "forks": 1631,
-      "added_stars": "77 stars today"
+      "stars": 2986,
+      "forks": 482,
+      "added_stars": "81 stars today"
     },
     {
-      "title": "OpenBMB / VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "title": "wilbowes / EchoMuse",
+      "url": "https://github.com/wilbowes/EchoMuse",
+      "description": "Alexa replacement and controller for Echo Dot 2nd Generation device.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 37693,
-      "forks": 4276,
-      "added_stars": "99 stars today"
+      "stars": 803,
+      "forks": 49,
+      "added_stars": "60 stars today"
+    },
+    {
+      "title": "trailofbits / skills",
+      "url": "https://github.com/trailofbits/skills",
+      "description": "Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 7141,
+      "forks": 611,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "Tracer-Cloud / opensre",
+      "url": "https://github.com/Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 11122,
+      "forks": 1623,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "hao-ai-lab / FastVideo",
+      "url": "https://github.com/hao-ai-lab/FastVideo",
+      "description": "A unified inference and post-training framework for accelerated video generation.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4465,
+      "forks": 465,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "pytorch / pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 103078,
+      "forks": 29662,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "bmad-code-org / BMAD-METHOD",
+      "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+      "description": "Breakthrough Method for Agile Ai Driven Development",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 53166,
+      "forks": 6004,
+      "added_stars": "39 stars today"
     }
   ]
 }

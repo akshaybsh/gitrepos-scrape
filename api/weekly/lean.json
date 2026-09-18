@@ -2,17 +2,17 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
+  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
   "items": [
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "leanprover / lean4",
+      "url": "https://github.com/leanprover/lean4",
+      "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1272,
-      "forks": 483,
-      "added_stars": "27 stars this week"
+      "stars": 9212,
+      "forks": 985,
+      "added_stars": "106 stars this week"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,19 +20,19 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4137,
-      "forks": 1690,
-      "added_stars": "64 stars this week"
+      "stars": 4141,
+      "forks": 1692,
+      "added_stars": "55 stars this week"
     },
     {
-      "title": "leanprover / lean4",
-      "url": "https://github.com/leanprover/lean4",
-      "description": "Lean 4 programming language and theorem prover",
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9203,
-      "forks": 982,
-      "added_stars": "129 stars this week"
+      "stars": 1272,
+      "forks": 485,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "leanprover-community / physlib",
@@ -40,19 +40,29 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 748,
-      "forks": 188,
-      "added_stars": "20 stars this week"
+      "stars": 749,
+      "forks": 189,
+      "added_stars": "19 stars this week"
     },
     {
-      "title": "leanprover / comparator",
-      "url": "https://github.com/leanprover/comparator",
+      "title": "sunblaze-ucb / vero",
+      "url": "https://github.com/sunblaze-ucb/vero",
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 199,
-      "forks": 36,
-      "added_stars": "5 stars this week"
+      "stars": 98,
+      "forks": 14,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "ImperialCollegeLondon / FLT",
+      "url": "https://github.com/ImperialCollegeLondon/FLT",
+      "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1032,
+      "forks": 168,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "leanprover-community / batteries",
@@ -65,34 +75,24 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "ImperialCollegeLondon / FLT",
-      "url": "https://github.com/ImperialCollegeLondon/FLT",
-      "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1030,
-      "forks": 168,
-      "added_stars": "9 stars this week"
+      "stars": 1659,
+      "forks": 289,
+      "added_stars": "0 stars this week"
     },
     {
-      "title": "sunblaze-ucb / vero",
-      "url": "https://github.com/sunblaze-ucb/vero",
+      "title": "leanprover / comparator",
+      "url": "https://github.com/leanprover/comparator",
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 98,
-      "forks": 14,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 703,
-      "forks": 198,
-      "added_stars": "8 stars this week"
+      "stars": 199,
+      "forks": 36,
+      "added_stars": "3 stars this week"
     }
   ]
 }

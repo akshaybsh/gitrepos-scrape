@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,9 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 32828,
-      "forks": 2323,
-      "added_stars": "3,231 stars today"
+      "stars": 35574,
+      "forks": 2518,
+      "added_stars": "3,286 stars today"
     },
     {
       "title": "Tencent / WeKnora",
@@ -20,179 +20,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25684,
-      "forks": 3511,
-      "added_stars": "1,197 stars today"
-    },
-    {
-      "title": "TencentCloud / CubeSandbox",
-      "url": "https://github.com/TencentCloud/CubeSandbox",
-      "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 12634,
-      "forks": 1126,
-      "added_stars": "51 stars today"
-    },
-    {
-      "title": "e2b-dev / runtime",
-      "url": "https://github.com/e2b-dev/runtime",
-      "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1634,
-      "forks": 430,
-      "added_stars": "109 stars today"
-    },
-    {
-      "title": "versity / versitygw",
-      "url": "https://github.com/versity/versitygw",
-      "description": "A simple to deploy but feature rich S3 object storage server for your filesystem",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2957,
-      "forks": 302,
-      "added_stars": "23 stars today"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 181217,
-      "forks": 17914,
-      "added_stars": "111 stars today"
-    },
-    {
-      "title": "tailscale / tailcat",
-      "url": "https://github.com/tailscale/tailcat",
-      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7456,
-      "forks": 304,
-      "added_stars": "149 stars today"
-    },
-    {
-      "title": "cockroachdb / cockroach",
-      "url": "https://github.com/cockroachdb/cockroach",
-      "description": "CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 32549,
-      "forks": 4111,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "projectdiscovery / nuclei",
-      "url": "https://github.com/projectdiscovery/nuclei",
-      "description": "Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 31321,
-      "forks": 3874,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "nats-io / nats-server",
-      "url": "https://github.com/nats-io/nats-server",
-      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20800,
-      "forks": 1959,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 106118,
-      "forks": 6146,
-      "added_stars": "229 stars today"
-    },
-    {
-      "title": "grpc / grpc-go",
-      "url": "https://github.com/grpc/grpc-go",
-      "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23125,
-      "forks": 4766,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "temporalio / temporal",
-      "url": "https://github.com/temporalio/temporal",
-      "description": "Temporal service",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 23178,
-      "forks": 1905,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "kubernetes / kubernetes",
-      "url": "https://github.com/kubernetes/kubernetes",
-      "description": "Production-Grade Container Scheduling and Management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 127842,
-      "forks": 44363,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "kubernetes-sigs / agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3988,
-      "forks": 516,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "coder / coder",
-      "url": "https://github.com/coder/coder",
-      "description": "Secure environments for developers and their agents",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 14634,
-      "forks": 1478,
-      "added_stars": "83 stars today"
-    },
-    {
-      "title": "googleapis / mcp-toolbox",
-      "url": "https://github.com/googleapis/mcp-toolbox",
-      "description": "MCP Toolbox for Databases is an open source MCP server for databases.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 16526,
-      "forks": 1725,
-      "added_stars": "29 stars today"
-    },
-    {
-      "title": "hashicorp / vault",
-      "url": "https://github.com/hashicorp/vault",
-      "description": "A tool for secrets management, encryption as a service, and privileged access management",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36333,
-      "forks": 4759,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "cloudnative-pg / cloudnative-pg",
-      "url": "https://github.com/cloudnative-pg/cloudnative-pg",
-      "description": "The most popular Kubernetes Operator for PostgreSQL.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 9388,
-      "forks": 764,
-      "added_stars": "9 stars today"
+      "stars": 26578,
+      "forks": 3582,
+      "added_stars": "1,125 stars today"
     },
     {
       "title": "cilium / cilium",
@@ -200,29 +30,189 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25238,
-      "forks": 4065,
-      "added_stars": "20 stars today"
+      "stars": 25315,
+      "forks": 4076,
+      "added_stars": "111 stars today"
     },
     {
-      "title": "caddyserver / caddy",
-      "url": "https://github.com/caddyserver/caddy",
-      "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 75875,
-      "forks": 4966,
-      "added_stars": "25 stars today"
+      "stars": 14955,
+      "forks": 1490,
+      "added_stars": "145 stars today"
     },
     {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
+      "title": "JuliusBrussee / caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29366,
-      "forks": 1683,
-      "added_stars": "44 stars today"
+      "stars": 106370,
+      "forks": 6162,
+      "added_stars": "359 stars today"
+    },
+    {
+      "title": "multica-ai / multica",
+      "url": "https://github.com/multica-ai/multica",
+      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 50360,
+      "forks": 6518,
+      "added_stars": "205 stars today"
+    },
+    {
+      "title": "e2b-dev / runtime",
+      "url": "https://github.com/e2b-dev/runtime",
+      "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1571,
+      "forks": 432,
+      "added_stars": "126 stars today"
+    },
+    {
+      "title": "tailscale / tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "description": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7414,
+      "forks": 308,
+      "added_stars": "165 stars today"
+    },
+    {
+      "title": "junegunn / fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 83093,
+      "forks": 3023,
+      "added_stars": "59 stars today"
+    },
+    {
+      "title": "larksuite / cli",
+      "url": "https://github.com/larksuite/cli",
+      "description": "The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17259,
+      "forks": 1389,
+      "added_stars": "48 stars today"
+    },
+    {
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 111096,
+      "forks": 14200,
+      "added_stars": "55 stars today"
+    },
+    {
+      "title": "getarcaneapp / arcane",
+      "url": "https://github.com/getarcaneapp/arcane",
+      "description": "Modern Docker Management, Designed for Everyone",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7428,
+      "forks": 312,
+      "added_stars": "32 stars today"
+    },
+    {
+      "title": "gastownhall / beads",
+      "url": "https://github.com/gastownhall/beads",
+      "description": "Beads - A memory upgrade for your coding agent",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 27273,
+      "forks": 1848,
+      "added_stars": "78 stars today"
+    },
+    {
+      "title": "evcc-io / evcc",
+      "url": "https://github.com/evcc-io/evcc",
+      "description": "solar charging ☀️🚘",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7262,
+      "forks": 1513,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "golang / go",
+      "url": "https://github.com/golang/go",
+      "description": "The Go programming language",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 138870,
+      "forks": 19747,
+      "added_stars": "56 stars today"
+    },
+    {
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 34799,
+      "forks": 3002,
+      "added_stars": "53 stars today"
+    },
+    {
+      "title": "temporalio / temporal",
+      "url": "https://github.com/temporalio/temporal",
+      "description": "Temporal service",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 23145,
+      "forks": 1909,
+      "added_stars": "161 stars today"
+    },
+    {
+      "title": "nats-io / nats-server",
+      "url": "https://github.com/nats-io/nats-server",
+      "description": "High-Performance server for NATS.io, the cloud and edge native messaging system.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 20742,
+      "forks": 1961,
+      "added_stars": "112 stars today"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-collector-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-collector-contrib",
+      "description": "Contrib repository for the OpenTelemetry Collector",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4937,
+      "forks": 3920,
+      "added_stars": "30 stars today"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6974,
+      "forks": 762,
+      "added_stars": "89 stars today"
+    },
+    {
+      "title": "hashicorp / terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 49680,
+      "forks": 10623,
+      "added_stars": "29 stars today"
     }
   ]
 }

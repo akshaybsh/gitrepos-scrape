@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:04:15 GMT",
+  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
   "items": [
     {
       "title": "microsoft / WindowsDeveloperConfig",
@@ -10,9 +10,19 @@
       "description": "Automate the setup and configuration of your Windows development environment.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 2183,
+      "stars": 2185,
       "forks": 167,
-      "added_stars": "72 stars this week"
+      "added_stars": "68 stars this week"
+    },
+    {
+      "title": "mandiant / flare-vm",
+      "url": "https://github.com/mandiant/flare-vm",
+      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 9049,
+      "forks": 1117,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "ntdevlabs / tiny11builder",
@@ -20,9 +30,9 @@
       "description": "Scripts to build a trimmed-down Windows 11 image.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 19601,
-      "forks": 1507,
-      "added_stars": "60 stars this week"
+      "stars": 19604,
+      "forks": 1508,
+      "added_stars": "61 stars this week"
     },
     {
       "title": "ChrisTitusTech / winutil",
@@ -30,18 +40,18 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 62728,
-      "forks": 3675,
-      "added_stars": "442 stars this week"
+      "stars": 62790,
+      "forks": 3680,
+      "added_stars": "446 stars this week"
     },
     {
-      "title": "github / copilot-plugins",
-      "url": "https://github.com/github/copilot-plugins",
-      "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
+      "title": "microsoft / fabric-toolbox",
+      "url": "https://github.com/microsoft/fabric-toolbox",
+      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 362,
-      "forks": 127,
+      "stars": 903,
+      "forks": 385,
       "added_stars": "6 stars this week"
     },
     {
@@ -50,9 +60,9 @@
       "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-090 / P104-100 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, L40 ES, and RTX 5080M ES N22W-ES-A1.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 1604,
+      "stars": 1607,
       "forks": 133,
-      "added_stars": "20 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
       "title": "zoicware / RemoveWindowsAI",
@@ -60,19 +70,19 @@
       "description": "Force Remove Copilot, Recall and More in Windows 11",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13045,
+      "stars": 13051,
       "forks": 459,
-      "added_stars": "43 stars this week"
+      "added_stars": "48 stars this week"
     },
     {
-      "title": "microsoft / fabric-toolbox",
-      "url": "https://github.com/microsoft/fabric-toolbox",
-      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
+      "title": "github / copilot-plugins",
+      "url": "https://github.com/github/copilot-plugins",
+      "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 900,
-      "forks": 384,
-      "added_stars": "4 stars this week"
+      "stars": 363,
+      "forks": 129,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "Orange-Cyberdefense / GOAD",
@@ -80,39 +90,9 @@
       "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 8327,
-      "forks": 1135,
-      "added_stars": "30 stars this week"
-    },
-    {
-      "title": "actions / runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "description": "GitHub Actions runner images",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 13145,
-      "forks": 3849,
+      "stars": 8332,
+      "forks": 1136,
       "added_stars": "29 stars this week"
-    },
-    {
-      "title": "mandiant / flare-vm",
-      "url": "https://github.com/mandiant/flare-vm",
-      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 9041,
-      "forks": 1117,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "dotnet / core",
-      "url": "https://github.com/dotnet/core",
-      "description": ".NET news, announcements, release notes, and more!",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 22034,
-      "forks": 4938,
-      "added_stars": "7 stars this week"
     },
     {
       "title": "microsoft / sql-server-samples",
@@ -120,9 +100,19 @@
       "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 11221,
-      "forks": 9086,
+      "stars": 11222,
+      "forks": 9087,
       "added_stars": "10 stars this week"
+    },
+    {
+      "title": "dotnet / core",
+      "url": "https://github.com/dotnet/core",
+      "description": ".NET news, announcements, release notes, and more!",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 22033,
+      "forks": 4938,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "Azure / Microsoft-Defender-for-Cloud",
@@ -130,29 +120,19 @@
       "description": "Welcome to the Microsoft Defender for Cloud community repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 1954,
+      "stars": 1953,
       "forks": 873,
       "added_stars": "23 stars this week"
     },
     {
-      "title": "microsoftgraph / microsoft-graph-docs-contrib",
-      "url": "https://github.com/microsoftgraph/microsoft-graph-docs-contrib",
-      "description": "Documentation for the Microsoft Graph REST API",
+      "title": "hak5 / usbrubberducky-payloads",
+      "url": "https://github.com/hak5/usbrubberducky-payloads",
+      "description": "The Official USB Rubber Ducky Payload Repository",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 153,
-      "forks": 541,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "microsoft / work-iq",
-      "url": "https://github.com/microsoft/work-iq",
-      "description": "MCP Server and CLI for accessing Work IQ",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1007,
-      "forks": 131,
-      "added_stars": "11 stars this week"
+      "stars": 6019,
+      "forks": 1678,
+      "added_stars": "25 stars this week"
     }
   ]
 }

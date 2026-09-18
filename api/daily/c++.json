@@ -2,97 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
   "items": [
     {
-      "title": "google / googletest",
-      "url": "https://github.com/google/googletest",
-      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "title": "YimMenu / YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39546,
-      "forks": 10895,
-      "added_stars": "8 stars today"
+      "stars": 1737,
+      "forks": 395,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
+      "title": "keepassxreboot / keepassxc",
+      "url": "https://github.com/keepassxreboot/keepassxc",
+      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 41334,
-      "forks": 3791,
-      "added_stars": "46 stars today"
-    },
-    {
-      "title": "Neroued / ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1959,
-      "forks": 365,
-      "added_stars": "113 stars today"
-    },
-    {
-      "title": "microsoft / BitNet",
-      "url": "https://github.com/microsoft/BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 40267,
-      "forks": 3730,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 117342,
-      "forks": 26778,
-      "added_stars": "78 stars today"
-    },
-    {
-      "title": "OrcaSlicer / OrcaSlicer",
-      "url": "https://github.com/OrcaSlicer/OrcaSlicer",
-      "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 15702,
-      "forks": 3083,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "ROCm / rocm-systems",
-      "url": "https://github.com/ROCm/rocm-systems",
-      "description": "super repo for rocm systems projects",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 501,
-      "forks": 407,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "wazuh / wazuh",
-      "url": "https://github.com/wazuh/wazuh",
-      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16904,
-      "forks": 2486,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "Atmosphere-NX / Atmosphere",
-      "url": "https://github.com/Atmosphere-NX/Atmosphere",
-      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 19672,
-      "forks": 1475,
-      "added_stars": "27 stars today"
+      "stars": 28843,
+      "forks": 1910,
+      "added_stars": "19 stars today"
     },
     {
       "title": "react / react-native",
@@ -100,29 +30,69 @@
       "description": "A framework for building native applications using React",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 126635,
+      "stars": 126637,
       "forks": 25277,
-      "added_stars": "22 stars today"
+      "added_stars": "13 stars today"
     },
     {
-      "title": "JingMatrix / NeoZygisk",
-      "url": "https://github.com/JingMatrix/NeoZygisk",
-      "description": "Zygote injection with ptrace",
+      "title": "Neroued / ninfer",
+      "url": "https://github.com/Neroued/ninfer",
+      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2300,
-      "forks": 184,
-      "added_stars": "7 stars today"
+      "stars": 2045,
+      "forks": 374,
+      "added_stars": "71 stars today"
     },
     {
-      "title": "YimMenu / YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
+      "title": "google / highway",
+      "url": "https://github.com/google/highway",
+      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1735,
-      "forks": 394,
-      "added_stars": "11 stars today"
+      "stars": 5857,
+      "forks": 473,
+      "added_stars": "21 stars today"
+    },
+    {
+      "title": "microsoft / intelligent-terminal",
+      "url": "https://github.com/microsoft/intelligent-terminal",
+      "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1993,
+      "forks": 158,
+      "added_stars": "20 stars today"
+    },
+    {
+      "title": "FEX-Emu / FEX",
+      "url": "https://github.com/FEX-Emu/FEX",
+      "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 8037,
+      "forks": 353,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "catchorg / Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 21487,
+      "forks": 3502,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ROCm / rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 504,
+      "forks": 409,
+      "added_stars": "5 stars today"
     },
     {
       "title": "apache / arrow",
@@ -130,48 +100,78 @@
       "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17125,
-      "forks": 4300,
+      "stars": 17136,
+      "forks": 4308,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "google / perfetto",
+      "url": "https://github.com/google/perfetto",
+      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6517,
+      "forks": 870,
       "added_stars": "7 stars today"
     },
     {
-      "title": "Z3Prover / z3",
-      "url": "https://github.com/Z3Prover/z3",
-      "description": "The Z3 Theorem Prover",
+      "title": "jbeder / yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "description": "A YAML parser and emitter in C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12683,
-      "forks": 1689,
-      "added_stars": "12 stars today"
+      "stars": 6136,
+      "forks": 2194,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "ArduPilot / ardupilot",
-      "url": "https://github.com/ArduPilot/ardupilot",
-      "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+      "title": "esphome / esphome",
+      "url": "https://github.com/esphome/esphome",
+      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 15878,
-      "forks": 21406,
-      "added_stars": "9 stars today"
+      "stars": 11700,
+      "forks": 5631,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "nlohmann / json",
-      "url": "https://github.com/nlohmann/json",
-      "description": "JSON for Modern C++",
+      "title": "wazuh / wazuh",
+      "url": "https://github.com/wazuh/wazuh",
+      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 50622,
-      "forks": 7500,
-      "added_stars": "11 stars today"
+      "stars": 16924,
+      "forks": 2489,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "microsoft / WSL",
-      "url": "https://github.com/microsoft/WSL",
-      "description": "Windows Subsystem for Linux",
+      "title": "PX4 / PX4-Autopilot",
+      "url": "https://github.com/PX4/PX4-Autopilot",
+      "description": "PX4 Autopilot Software",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33718,
-      "forks": 1827,
+      "stars": 12651,
+      "forks": 16038,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "microsoft / onnxruntime-genai",
+      "url": "https://github.com/microsoft/onnxruntime-genai",
+      "description": "Generative AI extensions for onnxruntime",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1123,
+      "forks": 353,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "fougue / mayo",
+      "url": "https://github.com/fougue/mayo",
+      "description": "3D CAD viewer and converter based on Qt + OpenCascade",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 2212,
+      "forks": 359,
       "added_stars": "10 stars today"
     },
     {
@@ -180,59 +180,19 @@
       "description": "Community maintained hardware plugin for vLLM on Ascend",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2837,
-      "forks": 2275,
-      "added_stars": "7 stars today"
+      "stars": 2845,
+      "forks": 2295,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "MrNeRF / LichtFeld-Studio",
-      "url": "https://github.com/MrNeRF/LichtFeld-Studio",
-      "description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.",
+      "title": "Z3Prover / z3",
+      "url": "https://github.com/Z3Prover/z3",
+      "description": "The Z3 Theorem Prover",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3701,
-      "forks": 457,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "yuaotian / antigravity-proxy",
-      "url": "https://github.com/yuaotian/antigravity-proxy",
-      "description": "🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4128,
-      "forks": 302,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "NVIDIA / cuda-quantum",
-      "url": "https://github.com/NVIDIA/cuda-quantum",
-      "description": "C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 1137,
-      "forks": 457,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ZLMediaKit / ZLMediaKit",
-      "url": "https://github.com/ZLMediaKit/ZLMediaKit",
-      "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17547,
-      "forks": 4132,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "realsenseai / librealsense",
-      "url": "https://github.com/realsenseai/librealsense",
-      "description": "RealSense SDK",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 9019,
-      "forks": 5042,
-      "added_stars": "1 star today"
+      "stars": 12695,
+      "forks": 1690,
+      "added_stars": "16 stars today"
     }
   ]
 }

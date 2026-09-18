@@ -2,8 +2,28 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:00 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
   "items": [
+    {
+      "title": "GoogleContainerTools / distroless",
+      "url": "https://github.com/GoogleContainerTools/distroless",
+      "description": "🥑 Language focused docker images, minus the operating system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 23081,
+      "forks": 1436,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "bazelbuild / bazel-central-registry",
+      "url": "https://github.com/bazelbuild/bazel-central-registry",
+      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 386,
+      "forks": 900,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "googleapis / googleapis",
       "url": "https://github.com/googleapis/googleapis",
@@ -12,16 +32,6 @@
       "languageColor": "#76d275",
       "stars": 8759,
       "forks": 2632,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_cc",
-      "url": "https://github.com/bazelbuild/rules_cc",
-      "description": "C++ Rules for Bazel",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 247,
-      "forks": 196,
       "added_stars": "0 stars today"
     },
     {
@@ -30,28 +40,28 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3980,
-      "forks": 303,
-      "added_stars": "3 stars today"
+      "stars": 3981,
+      "forks": 304,
+      "added_stars": "1 star today"
     },
     {
-      "title": "tilt-dev / tilt-extensions",
-      "url": "https://github.com/tilt-dev/tilt-extensions",
-      "description": "Extensions for Tilt",
+      "title": "bazelbuild / rules_swift",
+      "url": "https://github.com/bazelbuild/rules_swift",
+      "description": "Bazel rules to build Swift on Apple and Linux platforms",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 243,
-      "forks": 194,
+      "stars": 353,
+      "forks": 172,
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazel-contrib / rules_distroless",
-      "url": "https://github.com/bazel-contrib/rules_distroless",
-      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "title": "cncf / xds",
+      "url": "https://github.com/cncf/xds",
+      "description": "xDS API Working Group",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 101,
-      "forks": 74,
+      "stars": 271,
+      "forks": 85,
       "added_stars": "0 stars today"
     },
     {
@@ -65,53 +75,13 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "bazelbuild / bazel-central-registry",
-      "url": "https://github.com/bazelbuild/bazel-central-registry",
-      "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
+      "title": "tilt-dev / tilt-extensions",
+      "url": "https://github.com/tilt-dev/tilt-extensions",
+      "description": "Extensions for Tilt",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 386,
-      "forks": 897,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "GoogleContainerTools / distroless",
-      "url": "https://github.com/GoogleContainerTools/distroless",
-      "description": "🥑 Language focused docker images, minus the operating system.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 23079,
-      "forks": 1435,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "cncf / xds",
-      "url": "https://github.com/cncf/xds",
-      "description": "xDS API Working Group",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 271,
-      "forks": 85,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazelbuild / rules_swift",
-      "url": "https://github.com/bazelbuild/rules_swift",
-      "description": "Bazel rules to build Swift on Apple and Linux platforms",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 353,
-      "forks": 172,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 689,
-      "forks": 722,
+      "stars": 243,
+      "forks": 194,
       "added_stars": "0 stars today"
     },
     {
@@ -132,7 +102,37 @@
       "languageColor": "#76d275",
       "stars": 594,
       "forks": 334,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 295,
+      "forks": 115,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 690,
+      "forks": 722,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "bazel-contrib / rules_distroless",
+      "url": "https://github.com/bazel-contrib/rules_distroless",
+      "description": "Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 101,
+      "forks": 74,
+      "added_stars": "0 stars today"
     }
   ]
 }

@@ -2,27 +2,27 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:05:29 GMT",
+  "pubDate": "Fri, 18 Sep 2026 07:02:27 GMT",
   "items": [
+    {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2529,
+      "forks": 1328,
+      "added_stars": "8 stars this month"
+    },
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27241,
+      "stars": 27242,
       "forks": 12402,
       "added_stars": "62 stars this month"
-    },
-    {
-      "title": "SunWeb3Sec / DeFiHackLabs",
-      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
-      "description": "Reproduce DeFi hacked incidents using Foundry.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 6789,
-      "forks": 1481,
-      "added_stars": "60 stars this month"
     },
     {
       "title": "1inch / swap-vm",
@@ -32,7 +32,77 @@
       "languageColor": "#AA6746",
       "stars": 40,
       "forks": 37,
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "across-protocol / contracts",
+      "url": "https://github.com/across-protocol/contracts",
+      "description": "Smart contracts for Across protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 152,
+      "forks": 94,
+      "added_stars": "1 star this month"
+    },
+    {
+      "title": "morpho-org / vault-v2",
+      "url": "https://github.com/morpho-org/vault-v2",
+      "description": "Morpho's non-custodial vault protocol",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 103,
+      "forks": 75,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "Uniswap / v4-periphery",
+      "url": "https://github.com/Uniswap/v4-periphery",
+      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 904,
+      "forks": 664,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "transmissions11 / solmate",
+      "url": "https://github.com/transmissions11/solmate",
+      "description": "Modern, opinionated, and gas optimized building blocks for smart contract development.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 4285,
+      "forks": 706,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "foundry-rs / forge-std",
+      "url": "https://github.com/foundry-rs/forge-std",
+      "description": "A collection of helpful contracts and libraries for use with Forge and Foundry",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 1056,
+      "forks": 522,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "aave / aave-v4",
+      "url": "https://github.com/aave/aave-v4",
+      "description": "Aave V4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 206,
+      "forks": 128,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "a16z / erc4626-tests",
+      "url": "https://github.com/a16z/erc4626-tests",
+      "description": "ERC4626 Property Tests",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 223,
+      "forks": 44,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "FhenixProtocol / fhenix-contracts",
@@ -45,64 +115,14 @@
       "added_stars": "366 stars this month"
     },
     {
-      "title": "across-protocol / contracts",
-      "url": "https://github.com/across-protocol/contracts",
-      "description": "Smart contracts for Across protocol",
+      "title": "GNSPS / solidity-bytes-utils",
+      "url": "https://github.com/GNSPS/solidity-bytes-utils",
+      "description": "Utility Solidity library composed of basic operations for tightly packed bytes arrays",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 152,
-      "forks": 95,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "aave / aave-v4",
-      "url": "https://github.com/aave/aave-v4",
-      "description": "Aave V4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 205,
-      "forks": 128,
-      "added_stars": "6 stars this month"
-    },
-    {
-      "title": "ethereum / ERCs",
-      "url": "https://github.com/ethereum/ERCs",
-      "description": "The Ethereum Request for Comment repository",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 756,
-      "forks": 1058,
-      "added_stars": "19 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-core",
-      "url": "https://github.com/Uniswap/v4-core",
-      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 2529,
-      "forks": 1328,
-      "added_stars": "8 stars this month"
-    },
-    {
-      "title": "morpho-org / vault-v2",
-      "url": "https://github.com/morpho-org/vault-v2",
-      "description": "Morpho's non-custodial vault protocol",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 102,
-      "forks": 75,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "Uniswap / v4-periphery",
-      "url": "https://github.com/Uniswap/v4-periphery",
-      "description": "🦄 🦄 🦄 🦄 Peripheral smart contracts for interacting with Uniswap v4",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 904,
-      "forks": 665,
-      "added_stars": "3 stars this month"
+      "stars": 562,
+      "forks": 113,
+      "added_stars": "0 stars this month"
     }
   ]
 }
