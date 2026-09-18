@@ -2,7 +2,7 @@
   "title": "GitHub Julia Languages Daily Trending",
   "description": "Daily Trending of Julia Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
   "items": [
     {
       "title": "JuliaLang / julia",
@@ -10,8 +10,8 @@
       "description": "The Julia Programming Language",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 49113,
-      "forks": 5975,
+      "stars": 49118,
+      "forks": 5976,
       "added_stars": "44 stars this week"
     },
     {
@@ -20,9 +20,29 @@
       "description": "Interactive data visualizations and plotting in Julia",
       "language": "Julia",
       "languageColor": "#a270ba",
-      "stars": 2810,
+      "stars": 2812,
       "forks": 396,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "CliMA / Oceananigans.jl",
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "description": "🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 1413,
+      "forks": 298,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "JuliaSmoothOptimizers / Krylov.jl",
+      "url": "https://github.com/JuliaSmoothOptimizers/Krylov.jl",
+      "description": "A Julia Basket of Hand-Picked Krylov Methods",
+      "language": "Julia",
+      "languageColor": "#a270ba",
+      "stars": 497,
+      "forks": 73,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "JuliaRegistries / General",
@@ -31,8 +51,8 @@
       "language": "Julia",
       "languageColor": "#a270ba",
       "stars": 732,
-      "forks": 605,
-      "added_stars": "2 stars this week"
+      "forks": 604,
+      "added_stars": "1 star this week"
     }
   ]
 }

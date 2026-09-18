@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,9 +10,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 35223,
-      "forks": 3702,
-      "added_stars": "7,728 stars this week"
+      "stars": 35885,
+      "forks": 3774,
+      "added_stars": "8,398 stars this week"
     },
     {
       "title": "armory3d / armorpaint",
@@ -20,19 +20,9 @@
       "description": "Graphics Creation Tools",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5099,
-      "forks": 566,
-      "added_stars": "903 stars this week"
-    },
-    {
-      "title": "doldecomp / melee",
-      "url": "https://github.com/doldecomp/melee",
-      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2226,
-      "forks": 315,
-      "added_stars": "269 stars this week"
+      "stars": 5121,
+      "forks": 571,
+      "added_stars": "856 stars this week"
     },
     {
       "title": "HarbourMasters / Shipwright",
@@ -40,49 +30,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5409,
-      "forks": 837,
-      "added_stars": "58 stars this week"
-    },
-    {
-      "title": "facebook / zstd",
-      "url": "https://github.com/facebook/zstd",
-      "description": "Zstandard - Fast real-time compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27878,
-      "forks": 2604,
-      "added_stars": "75 stars this week"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22270,
-      "forks": 1944,
-      "added_stars": "78 stars this week"
-    },
-    {
-      "title": "willfaust / Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 370,
-      "forks": 103,
-      "added_stars": "256 stars this week"
-    },
-    {
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12071,
-      "forks": 1593,
-      "added_stars": "18 stars this week"
+      "stars": 5426,
+      "forks": 838,
+      "added_stars": "62 stars this week"
     },
     {
       "title": "duixcom / Duix-Avatar",
@@ -90,9 +40,89 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15497,
+      "stars": 15511,
       "forks": 2632,
-      "added_stars": "423 stars this week"
+      "added_stars": "432 stars this week"
+    },
+    {
+      "title": "raysan5 / raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34778,
+      "forks": 3296,
+      "added_stars": "133 stars this week"
+    },
+    {
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22288,
+      "forks": 1945,
+      "added_stars": "78 stars this week"
+    },
+    {
+      "title": "doldecomp / melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2231,
+      "forks": 317,
+      "added_stars": "143 stars this week"
+    },
+    {
+      "title": "willfaust / Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 384,
+      "forks": 107,
+      "added_stars": "241 stars this week"
+    },
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12075,
+      "forks": 1593,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "valinet / ExplorerPatcher",
+      "url": "https://github.com/valinet/ExplorerPatcher",
+      "description": "This project aims to enhance the working environment on Windows",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 33916,
+      "forks": 1377,
+      "added_stars": "81 stars this week"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 149884,
+      "forks": 13764,
+      "added_stars": "564 stars this week"
+    },
+    {
+      "title": "NVIDIA / open-gpu-kernel-modules",
+      "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+      "description": "NVIDIA Linux open GPU kernel module source",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17403,
+      "forks": 1865,
+      "added_stars": "42 stars this week"
     },
     {
       "title": "voidtools / voidImageViewer",
@@ -100,59 +130,19 @@
       "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 2393,
+      "stars": 2396,
       "forks": 154,
-      "added_stars": "78 stars this week"
+      "added_stars": "52 stars this week"
     },
     {
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
+      "title": "stackia / rtp2httpd",
+      "url": "https://github.com/stackia/rtp2httpd",
+      "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 22474,
-      "forks": 2137,
-      "added_stars": "296 stars this week"
-    },
-    {
-      "title": "HarbourMasters / 2ship2harkinian",
-      "url": "https://github.com/HarbourMasters/2ship2harkinian",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2229,
-      "forks": 242,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "FreeRTOS / FreeRTOS-Kernel",
-      "url": "https://github.com/FreeRTOS/FreeRTOS-Kernel",
-      "description": "FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4506,
-      "forks": 1617,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "lcdyk0517 / arkos4clone",
-      "url": "https://github.com/lcdyk0517/arkos4clone",
-      "description": "Bringing ArkOS and dArkOS porting to unsupported RK3326 handheld gaming devices.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 697,
-      "forks": 437,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "capstone-engine / capstone",
-      "url": "https://github.com/capstone-engine/capstone",
-      "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 9026,
-      "forks": 1730,
-      "added_stars": "25 stars this week"
+      "stars": 2087,
+      "forks": 324,
+      "added_stars": "42 stars this week"
     }
   ]
 }

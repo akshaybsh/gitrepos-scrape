@@ -4,7 +4,7 @@
   <title>GitHub Elixir Languages Daily Trending</title>
   <description>Daily Trending of Elixir Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 17 Sep 2026 07:02:05 GMT</pubDate>
+  <pubDate>Fri, 18 Sep 2026 06:57:40 GMT</pubDate>
   <item>
     <title>openai / symphony</title>
     <link>https://github.com/openai/symphony</link>
@@ -46,6 +46,11 @@
     <description>Simple from zero to scale</description>
   </item>
   <item>
+    <title>tuist / tuist</title>
+    <link>https://github.com/tuist/tuist</link>
+    <description>Your platform team, as a service</description>
+  </item>
+  <item>
     <title>phoenixframework / phoenix_live_view</title>
     <link>https://github.com/phoenixframework/phoenix_live_view</link>
     <description>Rich, real-time user experiences with server-rendered HTML</description>
@@ -66,14 +71,9 @@
     <description>The full featured self-hosted Codex gateway, for teams, agents and you</description>
   </item>
   <item>
-    <title>supabase / supavisor</title>
-    <link>https://github.com/supabase/supavisor</link>
-    <description>A cloud-native, multi-tenant Postgres connection pooler.</description>
-  </item>
-  <item>
-    <title>agentjido / req_llm</title>
-    <link>https://github.com/agentjido/req_llm</link>
-    <description>Composable Elixir library for LLM interactions built on Req and Finch</description>
+    <title>phenixdigital / phoenix_storybook</title>
+    <link>https://github.com/phenixdigital/phoenix_storybook</link>
+    <description>A pluggable storybook for your Phoenix components.</description>
   </item>
   <item>
     <title>bartblast / hologram</title>
@@ -81,19 +81,29 @@
     <description>Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript</description>
   </item>
   <item>
-    <title>phenixdigital / phoenix_storybook</title>
-    <link>https://github.com/phenixdigital/phoenix_storybook</link>
-    <description>A pluggable storybook for your Phoenix components.</description>
+    <title>algora-io / algora</title>
+    <link>https://github.com/algora-io/algora</link>
+    <description>Hire the top 1% OSS engineers</description>
+  </item>
+  <item>
+    <title>agentjido / req_llm</title>
+    <link>https://github.com/agentjido/req_llm</link>
+    <description>Composable Elixir library for LLM interactions built on Req and Finch</description>
+  </item>
+  <item>
+    <title>open-telemetry / opentelemetry-erlang-contrib</title>
+    <link>https://github.com/open-telemetry/opentelemetry-erlang-contrib</link>
+    <description>OpenTelemetry instrumentation for Erlang &amp; Elixir</description>
+  </item>
+  <item>
+    <title>supabase / supavisor</title>
+    <link>https://github.com/supabase/supavisor</link>
+    <description>A cloud-native, multi-tenant Postgres connection pooler.</description>
   </item>
   <item>
     <title>livebook-dev / livebook</title>
     <link>https://github.com/livebook-dev/livebook</link>
     <description>Automate code &amp; data workflows with interactive Elixir notebooks</description>
-  </item>
-  <item>
-    <title>elixir-ecto / ecto</title>
-    <link>https://github.com/elixir-ecto/ecto</link>
-    <description>A toolkit for data mapping and language integrated query.</description>
   </item>
 </channel>
 </rss>

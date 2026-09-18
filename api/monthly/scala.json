@@ -2,7 +2,7 @@
   "title": "GitHub Scala Languages Daily Trending",
   "description": "Daily Trending of Scala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
   "items": [
     {
       "title": "delta-io / delta",
@@ -10,8 +10,8 @@
       "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 8997,
-      "forks": 2174,
+      "stars": 8999,
+      "forks": 2176,
       "added_stars": "64 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "♞ lichess.org: the forever free, adless and open source chess server ♞",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 18737,
-      "forks": 2786,
-      "added_stars": "131 stars this month"
+      "stars": 18742,
+      "forks": 2789,
+      "added_stars": "135 stars this month"
     },
     {
       "title": "sbt / sbt",
@@ -40,19 +40,9 @@
       "description": "Open-source high-performance RISC-V processor",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 7256,
-      "forks": 942,
-      "added_stars": "72 stars this month"
-    },
-    {
-      "title": "apache / gluten",
-      "url": "https://github.com/apache/gluten",
-      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 1599,
-      "forks": 661,
-      "added_stars": "13 stars this month"
+      "stars": 7261,
+      "forks": 944,
+      "added_stars": "75 stars this month"
     },
     {
       "title": "apache / datafusion-comet",
@@ -60,29 +50,19 @@
       "description": "Apache DataFusion Comet Spark Accelerator",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1278,
+      "stars": 1279,
       "forks": 375,
-      "added_stars": "27 stars this month"
+      "added_stars": "28 stars this month"
     },
     {
-      "title": "twitter / the-algorithm",
-      "url": "https://github.com/twitter/the-algorithm",
-      "description": "Source code for the X Recommendation Algorithm",
+      "title": "apache / gluten",
+      "url": "https://github.com/apache/gluten",
+      "description": "Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 73912,
-      "forks": 13283,
-      "added_stars": "233 stars this month"
-    },
-    {
-      "title": "apache / spark",
-      "url": "https://github.com/apache/spark",
-      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 44003,
-      "forks": 29385,
-      "added_stars": "229 stars this month"
+      "stars": 1600,
+      "forks": 661,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "scala / scala3",
@@ -95,6 +75,16 @@
       "added_stars": "15 stars this month"
     },
     {
+      "title": "twitter / the-algorithm",
+      "url": "https://github.com/twitter/the-algorithm",
+      "description": "Source code for the X Recommendation Algorithm",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 73912,
+      "forks": 13282,
+      "added_stars": "217 stars this month"
+    },
+    {
       "title": "guardian / grid",
       "url": "https://github.com/guardian/grid",
       "description": "The Guardian’s image management system",
@@ -105,16 +95,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "joernio / joern",
-      "url": "https://github.com/joernio/joern",
-      "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 3498,
-      "forks": 455,
-      "added_stars": "80 stars this month"
-    },
-    {
       "title": "apache / pekko",
       "url": "https://github.com/apache/pekko",
       "description": "Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala",
@@ -122,17 +102,7 @@
       "languageColor": "#c22d40",
       "stars": 1641,
       "forks": 211,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "apache / texera",
-      "url": "https://github.com/apache/texera",
-      "description": "Human-AI Collaborative Data Science Using Visual Workflows",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 317,
-      "forks": 188,
-      "added_stars": "47 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "gitbucket / gitbucket",
@@ -145,6 +115,16 @@
       "added_stars": "21 stars this month"
     },
     {
+      "title": "joernio / joern",
+      "url": "https://github.com/joernio/joern",
+      "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 3502,
+      "forks": 457,
+      "added_stars": "84 stars this month"
+    },
+    {
       "title": "microsoft / SynapseML",
       "url": "https://github.com/microsoft/SynapseML",
       "description": "Simple and Distributed Machine Learning Python Library porting ML algorithms for Spark",
@@ -155,16 +135,6 @@
       "added_stars": "15 stars this month"
     },
     {
-      "title": "NVIDIA / cudf-spark",
-      "url": "https://github.com/NVIDIA/cudf-spark",
-      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 1004,
-      "forks": 303,
-      "added_stars": "10 stars this month"
-    },
-    {
       "title": "guardian / frontend",
       "url": "https://github.com/guardian/frontend",
       "description": "The Guardian DotCom.",
@@ -172,7 +142,7 @@
       "languageColor": "#c22d40",
       "stars": 5899,
       "forks": 573,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "gatling / gatling",
@@ -180,29 +150,19 @@
       "description": "Modern Load Testing as Code",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 6956,
+      "stars": 6957,
       "forks": 1207,
-      "added_stars": "20 stars this month"
+      "added_stars": "18 stars this month"
     },
     {
-      "title": "MightyPirates / OpenComputers",
-      "url": "https://github.com/MightyPirates/OpenComputers",
-      "description": "Home of the OpenComputers mod for Minecraft.",
+      "title": "NVIDIA / cudf-spark",
+      "url": "https://github.com/NVIDIA/cudf-spark",
+      "description": "NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 1741,
-      "forks": 508,
-      "added_stars": "9 stars this month"
-    },
-    {
-      "title": "apache / kyuubi",
-      "url": "https://github.com/apache/kyuubi",
-      "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
-      "language": "Scala",
-      "languageColor": "#c22d40",
-      "stars": 2365,
-      "forks": 1021,
-      "added_stars": "10 stars this month"
+      "stars": 1006,
+      "forks": 304,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "canton-network / splice",
@@ -215,14 +175,34 @@
       "added_stars": "7 stars this month"
     },
     {
-      "title": "chipsalliance / rocket-chip",
-      "url": "https://github.com/chipsalliance/rocket-chip",
-      "description": "Rocket Chip Generator",
+      "title": "apache / texera",
+      "url": "https://github.com/apache/texera",
+      "description": "Human-AI Collaborative Data Science Using Visual Workflows",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 3868,
-      "forks": 1301,
-      "added_stars": "25 stars this month"
+      "stars": 317,
+      "forks": 188,
+      "added_stars": "47 stars this month"
+    },
+    {
+      "title": "apache / spark",
+      "url": "https://github.com/apache/spark",
+      "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 44008,
+      "forks": 29385,
+      "added_stars": "231 stars this month"
+    },
+    {
+      "title": "MightyPirates / OpenComputers",
+      "url": "https://github.com/MightyPirates/OpenComputers",
+      "description": "Home of the OpenComputers mod for Minecraft.",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 1741,
+      "forks": 508,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "ucb-bar / chipyard",
@@ -230,19 +210,39 @@
       "description": "An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 2388,
+      "stars": 2390,
       "forks": 920,
       "added_stars": "33 stars this month"
     },
     {
-      "title": "scalameta / metals",
-      "url": "https://github.com/scalameta/metals",
-      "description": "Scala language server with rich IDE features 🚀",
+      "title": "apache / kyuubi",
+      "url": "https://github.com/apache/kyuubi",
+      "description": "Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.",
       "language": "Scala",
       "languageColor": "#c22d40",
-      "stars": 2331,
-      "forks": 441,
-      "added_stars": "5 stars this month"
+      "stars": 2365,
+      "forks": 1021,
+      "added_stars": "10 stars this month"
+    },
+    {
+      "title": "chipsalliance / rocket-chip",
+      "url": "https://github.com/chipsalliance/rocket-chip",
+      "description": "Rocket Chip Generator",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 3869,
+      "forks": 1301,
+      "added_stars": "26 stars this month"
+    },
+    {
+      "title": "yahoo / CMAK",
+      "url": "https://github.com/yahoo/CMAK",
+      "description": "CMAK is a tool for managing Apache Kafka clusters",
+      "language": "Scala",
+      "languageColor": "#c22d40",
+      "stars": 11924,
+      "forks": 2472,
+      "added_stars": "6 stars this month"
     }
   ]
 }

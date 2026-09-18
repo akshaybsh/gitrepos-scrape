@@ -2,47 +2,17 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
   "items": [
-    {
-      "title": "leanprover / cslib",
-      "url": "https://github.com/leanprover/cslib",
-      "description": "The Lean Computer Science Library (CSLib)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 703,
-      "forks": 198,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ImperialCollegeLondon / FLT",
-      "url": "https://github.com/ImperialCollegeLondon/FLT",
-      "description": "Ongoing Lean formalisation of the proof of Fermat's Last Theorem",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1030,
-      "forks": 168,
-      "added_stars": "1 star today"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9203,
-      "forks": 982,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "leanprover-community / aesop",
-      "url": "https://github.com/leanprover-community/aesop",
-      "description": "White-box automation for Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 404,
-      "forks": 60,
-      "added_stars": "0 stars today"
+      "stars": 9211,
+      "forks": 985,
+      "added_stars": "6 stars today"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -50,98 +20,38 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4137,
-      "forks": 1690,
-      "added_stars": "6 stars today"
+      "stars": 4141,
+      "forks": 1692,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "cajal-technologies / talos",
-      "url": "https://github.com/cajal-technologies/talos",
-      "description": "Wasm interpreter in lean, designed for reasoning",
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 171,
-      "forks": 28,
+      "stars": 1659,
+      "forks": 289,
       "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover-community / import-graph",
-      "url": "https://github.com/leanprover-community/import-graph",
-      "description": "Tool to analyse the import structure of lean projects.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 26,
-      "forks": 16,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 226,
-      "forks": 49,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / batteries",
-      "url": "https://github.com/leanprover-community/batteries",
-      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 419,
-      "forks": 163,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / LeanSearchClient",
-      "url": "https://github.com/leanprover-community/LeanSearchClient",
-      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 36,
-      "forks": 13,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "leanprover-community / plausible",
-      "url": "https://github.com/leanprover-community/plausible",
+      "title": "sunblaze-ucb / vero",
+      "url": "https://github.com/sunblaze-ucb/vero",
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 115,
-      "forks": 30,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 120,
-      "forks": 30,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "leanprover-community / quote4",
-      "url": "https://github.com/leanprover-community/quote4",
-      "description": "Intuitive, type-safe expression quotations for Lean 4.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 111,
-      "forks": 27,
+      "stars": 98,
+      "forks": 14,
       "added_stars": "0 stars today"
     },
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "teorth / analysis",
+      "url": "https://github.com/teorth/analysis",
+      "description": "A Lean companion to Analysis I",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1272,
-      "forks": 483,
+      "stars": 1917,
+      "forks": 264,
       "added_stars": "2 stars today"
     }
   ]

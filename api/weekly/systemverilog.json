@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -10,9 +10,9 @@
       "description": "Verilator open-source SystemVerilog simulator and lint system",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3933,
-      "forks": 905,
-      "added_stars": "17 stars this week"
+      "stars": 3934,
+      "forks": 907,
+      "added_stars": "15 stars this week"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -20,19 +20,9 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 12981,
-      "forks": 1247,
-      "added_stars": "57 stars this week"
-    },
-    {
-      "title": "openhwfoundation / cvw",
-      "url": "https://github.com/openhwfoundation/cvw",
-      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 627,
-      "forks": 570,
-      "added_stars": "8 stars this week"
+      "stars": 12987,
+      "forks": 1249,
+      "added_stars": "65 stars this week"
     },
     {
       "title": "lowRISC / opentitan",
@@ -40,9 +30,9 @@
       "description": "OpenTitan: Open source silicon root of trust",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 3646,
-      "forks": 1115,
-      "added_stars": "13 stars this week"
+      "stars": 3648,
+      "forks": 1116,
+      "added_stars": "9 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -50,9 +40,19 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2059,
-      "forks": 809,
+      "stars": 2062,
+      "forks": 810,
       "added_stars": "15 stars this week"
+    },
+    {
+      "title": "openhwfoundation / cvw",
+      "url": "https://github.com/openhwfoundation/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 629,
+      "forks": 571,
+      "added_stars": "9 stars this week"
     }
   ]
 }

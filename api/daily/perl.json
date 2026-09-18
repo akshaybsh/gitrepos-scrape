@@ -2,8 +2,28 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
   "items": [
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19759,
+      "forks": 2111,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 2323,
+      "forks": 645,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "znuny / Znuny",
       "url": "https://github.com/znuny/Znuny",
@@ -20,9 +40,19 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 489,
+      "stars": 490,
       "forks": 120,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 5052,
+      "forks": 486,
+      "added_stars": "4 stars today"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -30,8 +60,8 @@
       "description": "PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1690,
-      "forks": 328,
+      "stars": 1691,
+      "forks": 329,
       "added_stars": "0 stars today"
     },
     {
@@ -40,29 +70,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23541,
+      "stars": 23543,
       "forks": 1126,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "Perl / perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2324,
-      "forks": 644,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19758,
-      "forks": 2111,
-      "added_stars": "5 stars today"
+      "added_stars": "3 stars today"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -72,17 +82,27 @@
       "languageColor": "#0298c3",
       "stars": 3418,
       "forks": 380,
-      "added_stars": "2 stars today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
+      "title": "netdisco / netdisco",
+      "url": "https://github.com/netdisco/netdisco",
+      "description": "A web-based network management tool.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3922,
-      "forks": 213,
-      "added_stars": "2 stars today"
+      "stars": 914,
+      "forks": 106,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "yaml / yaml-test-suite",
+      "url": "https://github.com/yaml/yaml-test-suite",
+      "description": "Comprehensive, language independent Test Suite for YAML",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 271,
+      "forks": 100,
+      "added_stars": "0 stars today"
     }
   ]
 }

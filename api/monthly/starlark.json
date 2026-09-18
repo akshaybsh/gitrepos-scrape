@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
   "items": [
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -11,8 +11,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 386,
-      "forks": 897,
-      "added_stars": "9 stars this month"
+      "forks": 900,
+      "added_stars": "8 stars this month"
     },
     {
       "title": "googleapis / googleapis",
@@ -22,7 +22,7 @@
       "languageColor": "#76d275",
       "stars": 8759,
       "forks": 2632,
-      "added_stars": "80 stars this month"
+      "added_stars": "78 stars this month"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -30,9 +30,19 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23079,
-      "forks": 1435,
-      "added_stars": "89 stars this month"
+      "stars": 23081,
+      "forks": 1436,
+      "added_stars": "88 stars this month"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 690,
+      "forks": 722,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "aspect-build / rules_js",
@@ -65,34 +75,14 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "bazelbuild / rules_apple",
-      "url": "https://github.com/bazelbuild/rules_apple",
-      "description": "Bazel rules to build apps for Apple platforms.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 594,
-      "forks": 334,
-      "added_stars": "6 stars this month"
-    },
-    {
       "title": "cel-expr / cel-spec",
       "url": "https://github.com/cel-expr/cel-spec",
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3980,
-      "forks": 303,
+      "stars": 3981,
+      "forks": 304,
       "added_stars": "40 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 689,
-      "forks": 722,
-      "added_stars": "5 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -101,8 +91,8 @@
       "language": "Starlark",
       "languageColor": "#76d275",
       "stars": 844,
-      "forks": 652,
-      "added_stars": "9 stars this month"
+      "forks": 653,
+      "added_stars": "10 stars this month"
     },
     {
       "title": "googleapis / api-common-protos",
@@ -115,13 +105,43 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "aspect-build / aspect-cli",
-      "url": "https://github.com/aspect-build/aspect-cli",
-      "description": "{ Correct, Fast, Usable } -- Choose three",
+      "title": "openconfig / gnoi",
+      "url": "https://github.com/openconfig/gnoi",
+      "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 165,
-      "forks": 45,
+      "stars": 195,
+      "forks": 90,
+      "added_stars": "3 stars this month"
+    },
+    {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 295,
+      "forks": 115,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "bazelbuild / rules_swift",
+      "url": "https://github.com/bazelbuild/rules_swift",
+      "description": "Bazel rules to build Swift on Apple and Linux platforms",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 353,
+      "forks": 172,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "immich-app / immich-charts",
+      "url": "https://github.com/immich-app/immich-charts",
+      "description": "Helm chart implementation of Immich",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 351,
+      "forks": 114,
       "added_stars": "5 stars this month"
     }
   ]

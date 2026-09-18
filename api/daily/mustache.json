@@ -2,8 +2,18 @@
   "title": "GitHub Mustache Languages Daily Trending",
   "description": "Daily Trending of Mustache Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
   "items": [
+    {
+      "title": "prometheus-community / helm-charts",
+      "url": "https://github.com/prometheus-community/helm-charts",
+      "description": "Prometheus community Helm charts",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 6188,
+      "forks": 5387,
+      "added_stars": "2 stars today"
+    },
     {
       "title": "netbox-community / netbox-chart",
       "url": "https://github.com/netbox-community/netbox-chart",
@@ -15,33 +25,33 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "amzn / selling-partner-api-models",
+      "url": "https://github.com/amzn/selling-partner-api-models",
+      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 910,
+      "forks": 794,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "thmsgbrt / thmsgbrt",
+      "url": "https://github.com/thmsgbrt/thmsgbrt",
+      "description": "My awesome README.md",
+      "language": "Mustache",
+      "languageColor": "#724b3b",
+      "stars": 539,
+      "forks": 1390,
+      "added_stars": "0 stars today"
+    },
+    {
       "title": "swagger-api / swagger-codegen",
       "url": "https://github.com/swagger-api/swagger-codegen",
       "description": "swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.",
       "language": "Mustache",
       "languageColor": "#724b3b",
-      "stars": 17787,
+      "stars": 17788,
       "forks": 5959,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "goauthentik / helm",
-      "url": "https://github.com/goauthentik/helm",
-      "description": "Helm chart for authentik",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 183,
-      "forks": 69,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "codefresh-contrib / gitops-certification-examples",
-      "url": "https://github.com/codefresh-contrib/gitops-certification-examples",
-      "description": "GitOps Certification Level 1 examples",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 302,
-      "forks": 5952,
       "added_stars": "0 stars today"
     },
     {
@@ -62,36 +72,6 @@
       "languageColor": "#724b3b",
       "stars": 560,
       "forks": 449,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "amzn / selling-partner-api-models",
-      "url": "https://github.com/amzn/selling-partner-api-models",
-      "description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 909,
-      "forks": 794,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "goharbor / harbor-helm",
-      "url": "https://github.com/goharbor/harbor-helm",
-      "description": "The helm chart to deploy Harbor",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 1519,
-      "forks": 863,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "prometheus-community / helm-charts",
-      "url": "https://github.com/prometheus-community/helm-charts",
-      "description": "Prometheus community Helm charts",
-      "language": "Mustache",
-      "languageColor": "#724b3b",
-      "stars": 6186,
-      "forks": 5385,
       "added_stars": "0 stars today"
     }
   ]

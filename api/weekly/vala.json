@@ -2,7 +2,7 @@
   "title": "GitHub Vala Languages Daily Trending",
   "description": "Daily Trending of Vala Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
   "items": [
     {
       "title": "alainm23 / planify",
@@ -12,7 +12,7 @@
       "languageColor": "#a56de2",
       "stars": 5689,
       "forks": 340,
-      "added_stars": "25 stars this week"
+      "added_stars": "20 stars this week"
     },
     {
       "title": "linuxmint / timeshift",
@@ -20,7 +20,7 @@
       "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 4278,
+      "stars": 4280,
       "forks": 155,
       "added_stars": "9 stars this week"
     },
@@ -30,19 +30,9 @@
       "description": "Budgie Desktop is a familiar, modern desktop environment.",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1332,
+      "stars": 1330,
       "forks": 66,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "kem-a / AppManager",
-      "url": "https://github.com/kem-a/AppManager",
-      "description": "MacOS style AppImage installer and management application",
-      "language": "Vala",
-      "languageColor": "#a56de2",
-      "stars": 1458,
-      "forks": 34,
-      "added_stars": "23 stars this week"
     },
     {
       "title": "Vysp3r / ProtonPlus",
@@ -50,9 +40,19 @@
       "description": "A modern compatibility tools manager",
       "language": "Vala",
       "languageColor": "#a56de2",
-      "stars": 1780,
+      "stars": 1786,
       "forks": 58,
-      "added_stars": "18 stars this week"
+      "added_stars": "24 stars this week"
+    },
+    {
+      "title": "kem-a / AppManager",
+      "url": "https://github.com/kem-a/AppManager",
+      "description": "MacOS style AppImage installer and management application",
+      "language": "Vala",
+      "languageColor": "#a56de2",
+      "stars": 1462,
+      "forks": 34,
+      "added_stars": "22 stars this week"
     }
   ]
 }

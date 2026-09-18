@@ -2,18 +2,8 @@
   "title": "GitHub Tsql Languages Daily Trending",
   "description": "Daily Trending of Tsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
   "items": [
-    {
-      "title": "lerocha / chinook-database",
-      "url": "https://github.com/lerocha/chinook-database",
-      "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
-      "language": "TSQL",
-      "languageColor": "#e38c00",
-      "stars": 2610,
-      "forks": 750,
-      "added_stars": "31 stars this month"
-    },
     {
       "title": "microsoft / fhir-server",
       "url": "https://github.com/microsoft/fhir-server",
@@ -21,8 +11,28 @@
       "language": "TSQL",
       "languageColor": "#e38c00",
       "stars": 1383,
-      "forks": 591,
+      "forks": 592,
       "added_stars": "7 stars this month"
+    },
+    {
+      "title": "lerocha / chinook-database",
+      "url": "https://github.com/lerocha/chinook-database",
+      "description": "Sample database for SQL Server, Oracle, MySQL, PostgreSQL, SQLite, DB2",
+      "language": "TSQL",
+      "languageColor": "#e38c00",
+      "stars": 2612,
+      "forks": 750,
+      "added_stars": "32 stars this month"
+    },
+    {
+      "title": "cisagov / cset",
+      "url": "https://github.com/cisagov/cset",
+      "description": "Cybersecurity Evaluation Tool",
+      "language": "TSQL",
+      "languageColor": "#e38c00",
+      "stars": 1897,
+      "forks": 334,
+      "added_stars": "17 stars this month"
     }
   ]
 }

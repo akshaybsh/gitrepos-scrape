@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,19 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46305,
-      "forks": 4020,
-      "added_stars": "111 stars this week"
-    },
-    {
-      "title": "hadolint / hadolint",
-      "url": "https://github.com/hadolint/hadolint",
-      "description": "Dockerfile linter, validate inline bash, written in Haskell",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 12410,
-      "forks": 502,
-      "added_stars": "14 stars this week"
+      "stars": 46321,
+      "forks": 4121,
+      "added_stars": "104 stars this week"
     },
     {
       "title": "PostgREST / postgrest",
@@ -30,9 +20,9 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27671,
-      "forks": 1228,
-      "added_stars": "28 stars this week"
+      "stars": 27670,
+      "forks": 1229,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "haskell / cabal",
@@ -40,7 +30,7 @@
       "description": "Official upstream development repository for Cabal and cabal-install",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1745,
+      "stars": 1744,
       "forks": 751,
       "added_stars": "1 star this week"
     },
@@ -52,7 +42,17 @@
       "languageColor": "#5e5086",
       "stars": 2930,
       "forks": 429,
-      "added_stars": "5 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "hadolint / hadolint",
+      "url": "https://github.com/hadolint/hadolint",
+      "description": "Dockerfile linter, validate inline bash, written in Haskell",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 12413,
+      "forks": 502,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "koalaman / shellcheck",
@@ -60,9 +60,9 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40046,
+      "stars": 40053,
       "forks": 1945,
-      "added_stars": "41 stars this week"
+      "added_stars": "40 stars this week"
     },
     {
       "title": "digital-asset / daml",
@@ -70,7 +70,7 @@
       "description": "The Daml smart contract language",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 916,
+      "stars": 917,
       "forks": 263,
       "added_stars": "2 stars this week"
     },
@@ -80,29 +80,9 @@
       "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 3179,
+      "stars": 3178,
       "forks": 755,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 19455,
-      "forks": 1351,
-      "added_stars": "61 stars this week"
-    },
-    {
-      "title": "haskell / haskell-language-server",
-      "url": "https://github.com/haskell/haskell-language-server",
-      "description": "Official Haskell IDE support via the language server protocol (LSP)",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2958,
-      "forks": 456,
-      "added_stars": "4 stars this week"
     },
     {
       "title": "monoscope-tech / monoscope",
@@ -110,19 +90,29 @@
       "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1795,
+      "stars": 1802,
       "forks": 73,
-      "added_stars": "53 stars this week"
+      "added_stars": "52 stars this week"
     },
     {
-      "title": "mtolly / onyx",
-      "url": "https://github.com/mtolly/onyx",
-      "description": "Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games",
+      "title": "haskell / haskell-language-server",
+      "url": "https://github.com/haskell/haskell-language-server",
+      "description": "Official Haskell IDE support via the language server protocol (LSP)",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 297,
-      "forks": 23,
-      "added_stars": "1 star this week"
+      "stars": 2957,
+      "forks": 456,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19456,
+      "forks": 1353,
+      "added_stars": "55 stars this week"
     }
   ]
 }

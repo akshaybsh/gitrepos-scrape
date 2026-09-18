@@ -2,27 +2,27 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:58:39 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
   "items": [
-    {
-      "title": "sepinf-inc / IPED",
-      "url": "https://github.com/sepinf-inc/IPED",
-      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2961,
-      "forks": 510,
-      "added_stars": "206 stars this week"
-    },
     {
       "title": "NationalSecurityAgency / ghidra",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 78044,
-      "forks": 8634,
-      "added_stars": "2,919 stars this week"
+      "stars": 78678,
+      "forks": 8699,
+      "added_stars": "3,524 stars this week"
+    },
+    {
+      "title": "sepinf-inc / IPED",
+      "url": "https://github.com/sepinf-inc/IPED",
+      "description": "IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2970,
+      "forks": 510,
+      "added_stars": "213 stars this week"
     },
     {
       "title": "yuliskov / SmartTube",
@@ -30,39 +30,9 @@
       "description": "Browse media content with your own rules on Android TV",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 33772,
-      "forks": 2060,
-      "added_stars": "1,052 stars this week"
-    },
-    {
-      "title": "Anuken / Mindustry",
-      "url": "https://github.com/Anuken/Mindustry",
-      "description": "The automation tower defense RTS",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 29015,
-      "forks": 3772,
-      "added_stars": "92 stars this week"
-    },
-    {
-      "title": "iflytek / astron-agent",
-      "url": "https://github.com/iflytek/astron-agent",
-      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9027,
-      "forks": 885,
-      "added_stars": "65 stars this week"
-    },
-    {
-      "title": "microg / GmsCore",
-      "url": "https://github.com/microg/GmsCore",
-      "description": "Free implementation of Play Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 14607,
-      "forks": 3177,
-      "added_stars": "100 stars this week"
+      "stars": 33822,
+      "forks": 2063,
+      "added_stars": "1,084 stars this week"
     },
     {
       "title": "Suwayomi / Suwayomi-Server",
@@ -70,9 +40,39 @@
       "description": "A rewrite of Tachiyomi for the Desktop",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7707,
-      "forks": 456,
-      "added_stars": "127 stars this week"
+      "stars": 7712,
+      "forks": 458,
+      "added_stars": "129 stars this week"
+    },
+    {
+      "title": "iflytek / astron-agent",
+      "url": "https://github.com/iflytek/astron-agent",
+      "description": "Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 9036,
+      "forks": 886,
+      "added_stars": "54 stars this week"
+    },
+    {
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 36840,
+      "forks": 8942,
+      "added_stars": "140 stars this week"
+    },
+    {
+      "title": "spring-projects / spring-boot",
+      "url": "https://github.com/spring-projects/spring-boot",
+      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 81463,
+      "forks": 42504,
+      "added_stars": "65 stars this week"
     },
     {
       "title": "00-Evan / shattered-pixel-dungeon",
@@ -80,9 +80,79 @@
       "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 6537,
-      "forks": 1619,
-      "added_stars": "47 stars this week"
+      "stars": 6539,
+      "forks": 1617,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "GeyserMC / Geyser",
+      "url": "https://github.com/GeyserMC/Geyser",
+      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5794,
+      "forks": 883,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "apache / doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15953,
+      "forks": 3949,
+      "added_stars": "68 stars this week"
+    },
+    {
+      "title": "iBotPeaches / Apktool",
+      "url": "https://github.com/iBotPeaches/Apktool",
+      "description": "A tool for reverse engineering Android apk files",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25594,
+      "forks": 4009,
+      "added_stars": "76 stars this week"
+    },
+    {
+      "title": "bazelbuild / bazel",
+      "url": "https://github.com/bazelbuild/bazel",
+      "description": "a fast, scalable, multi-language and extensible build system",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 25859,
+      "forks": 4613,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "AndreyPavlenko / Fermata",
+      "url": "https://github.com/AndreyPavlenko/Fermata",
+      "description": "",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1338,
+      "forks": 195,
+      "added_stars": "27 stars this week"
+    },
+    {
+      "title": "AndroidIDEOfficial / AndroidIDE",
+      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
+      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3121,
+      "forks": 641,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "apache / rocketmq",
+      "url": "https://github.com/apache/rocketmq",
+      "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 22603,
+      "forks": 12016,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "netty / netty",
@@ -90,9 +160,29 @@
       "description": "Netty project - an event-driven asynchronous network application framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 35060,
+      "stars": 35062,
       "forks": 16269,
-      "added_stars": "16 stars this week"
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "microg / GmsCore",
+      "url": "https://github.com/microg/GmsCore",
+      "description": "Free implementation of Play Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 14613,
+      "forks": 3184,
+      "added_stars": "96 stars this week"
+    },
+    {
+      "title": "PaperMC / Paper",
+      "url": "https://github.com/PaperMC/Paper",
+      "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 12649,
+      "forks": 3537,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "quarkusio / quarkus",
@@ -102,117 +192,27 @@
       "languageColor": "#b07219",
       "stars": 15891,
       "forks": 3300,
-      "added_stars": "15 stars this week"
+      "added_stars": "18 stars this week"
     },
     {
-      "title": "bazelbuild / bazel",
-      "url": "https://github.com/bazelbuild/bazel",
-      "description": "a fast, scalable, multi-language and extensible build system",
+      "title": "JabRef / jabref",
+      "url": "https://github.com/JabRef/jabref",
+      "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25857,
-      "forks": 4610,
-      "added_stars": "45 stars this week"
+      "stars": 4738,
+      "forks": 3581,
+      "added_stars": "33 stars this week"
     },
     {
-      "title": "iBotPeaches / Apktool",
-      "url": "https://github.com/iBotPeaches/Apktool",
-      "description": "A tool for reverse engineering Android apk files",
+      "title": "fish2018 / webhtv",
+      "url": "https://github.com/fish2018/webhtv",
+      "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25582,
-      "forks": 4009,
-      "added_stars": "74 stars this week"
-    },
-    {
-      "title": "apache / doris",
-      "url": "https://github.com/apache/doris",
-      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15929,
-      "forks": 3945,
-      "added_stars": "48 stars this week"
-    },
-    {
-      "title": "AndroidIDEOfficial / AndroidIDE",
-      "url": "https://github.com/AndroidIDEOfficial/AndroidIDE",
-      "description": "AndroidIDE is an IDE for Android to develop full featured Android apps.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 3117,
-      "forks": 638,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "AndreyPavlenko / Fermata",
-      "url": "https://github.com/AndreyPavlenko/Fermata",
-      "description": "",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1337,
-      "forks": 194,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "ashishps1 / awesome-low-level-design",
-      "url": "https://github.com/ashishps1/awesome-low-level-design",
-      "description": "Learn Low Level Design (LLD) and prepare for interviews using free resources.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26846,
-      "forks": 6505,
-      "added_stars": "157 stars this week"
-    },
-    {
-      "title": "spring-projects / spring-boot",
-      "url": "https://github.com/spring-projects/spring-boot",
-      "description": "Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 81454,
-      "forks": 42384,
-      "added_stars": "59 stars this week"
-    },
-    {
-      "title": "jeecgboot / JeecgBoot",
-      "url": "https://github.com/jeecgboot/JeecgBoot",
-      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 47854,
-      "forks": 16187,
-      "added_stars": "167 stars this week"
-    },
-    {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 36814,
-      "forks": 8942,
-      "added_stars": "136 stars this week"
-    },
-    {
-      "title": "agentscope-ai / agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "description": "Build distributed, production-grade, long-running agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5649,
-      "forks": 1373,
-      "added_stars": "120 stars this week"
-    },
-    {
-      "title": "apache / rocketmq",
-      "url": "https://github.com/apache/rocketmq",
-      "description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 22600,
-      "forks": 12012,
-      "added_stars": "19 stars this week"
+      "stars": 1487,
+      "forks": 426,
+      "added_stars": "78 stars this week"
     }
   ]
 }

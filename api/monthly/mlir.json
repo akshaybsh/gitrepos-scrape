@@ -2,18 +2,8 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
   "items": [
-    {
-      "title": "triton-lang / triton",
-      "url": "https://github.com/triton-lang/triton",
-      "description": "Development repository for the Triton language and compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 20178,
-      "forks": 3191,
-      "added_stars": "252 stars this month"
-    },
     {
       "title": "triton-lang / triton-ascend",
       "url": "https://github.com/triton-lang/triton-ascend",
@@ -21,8 +11,28 @@
       "language": "MLIR",
       "languageColor": "#5EC8DB",
       "stars": 166,
-      "forks": 227,
-      "added_stars": "30 stars this month"
+      "forks": 233,
+      "added_stars": "29 stars this month"
+    },
+    {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 20189,
+      "forks": 3193,
+      "added_stars": "255 stars this month"
+    },
+    {
+      "title": "intel / intel-xpu-backend-for-triton",
+      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
+      "description": "OpenAI Triton backend for Intel® GPUs",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 271,
+      "forks": 109,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "google / heir",
@@ -32,17 +42,7 @@
       "languageColor": "#5EC8DB",
       "stars": 908,
       "forks": 171,
-      "added_stars": "80 stars this month"
-    },
-    {
-      "title": "intel / intel-xpu-backend-for-triton",
-      "url": "https://github.com/intel/intel-xpu-backend-for-triton",
-      "description": "OpenAI Triton backend for Intel® GPUs",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 270,
-      "forks": 109,
-      "added_stars": "4 stars this month"
+      "added_stars": "72 stars this month"
     },
     {
       "title": "facebookexperimental / triton",
@@ -50,9 +50,9 @@
       "description": "Github mirror of trition-lang/triton repo.",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 195,
+      "stars": 196,
       "forks": 72,
-      "added_stars": "7 stars this month"
+      "added_stars": "8 stars this month"
     }
   ]
 }

@@ -4,16 +4,16 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 17 Sep 2026 06:58:39 GMT</pubDate>
+  <pubDate>Fri, 18 Sep 2026 06:55:23 GMT</pubDate>
   <item>
     <title>max-sixty / worktrunk</title>
     <link>https://github.com/max-sixty/worktrunk</link>
     <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
-    <title>rtk-ai / rtk</title>
-    <link>https://github.com/rtk-ai/rtk</link>
-    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+    <title>alphaXiv / OpenResearch</title>
+    <link>https://github.com/alphaXiv/OpenResearch</link>
+    <description>Turn your coding agents into research agents</description>
   </item>
   <item>
     <title>tonhowtf / omniget</title>
@@ -26,29 +26,9 @@
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>mesamirh / MovieBox-Tui</title>
-    <link>https://github.com/mesamirh/MovieBox-Tui</link>
-    <description>Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.</description>
-  </item>
-  <item>
-    <title>AlexsJones / llmfit</title>
-    <link>https://github.com/AlexsJones/llmfit</link>
-    <description>Hundreds of models &amp; providers. One command to find what runs on your hardware.</description>
-  </item>
-  <item>
     <title>pacifio / atlas</title>
     <link>https://github.com/pacifio/atlas</link>
     <description>Source control for agents. Use multiple coding agents, track their changes and query them in one place</description>
-  </item>
-  <item>
-    <title>rustfs / rustfs</title>
-    <link>https://github.com/rustfs/rustfs</link>
-    <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
-  </item>
-  <item>
-    <title>reacherhq / check-if-email-exists</title>
-    <link>https://github.com/reacherhq/check-if-email-exists</link>
-    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
   </item>
   <item>
     <title>raine / workmux</title>
@@ -56,14 +36,29 @@
     <description>git worktrees + tmux windows for zero-friction parallel dev</description>
   </item>
   <item>
-    <title>clash-verge-rev / clash-verge-rev</title>
-    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
-    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
+    <title>rustfs / rustfs</title>
+    <link>https://github.com/rustfs/rustfs</link>
+    <description>RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.</description>
   </item>
   <item>
-    <title>ruvnet / RuView</title>
-    <link>https://github.com/ruvnet/RuView</link>
-    <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
+    <title>rtk-ai / rtk</title>
+    <link>https://github.com/rtk-ai/rtk</link>
+    <description>CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies</description>
+  </item>
+  <item>
+    <title>mesamirh / MovieBox-Tui</title>
+    <link>https://github.com/mesamirh/MovieBox-Tui</link>
+    <description>Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.</description>
+  </item>
+  <item>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+  </item>
+  <item>
+    <title>ankitects / anki</title>
+    <link>https://github.com/ankitects/anki</link>
+    <description>Anki is a smart spaced repetition flashcard program</description>
   </item>
   <item>
     <title>yyjeqhc / webcodex</title>
@@ -71,14 +66,19 @@
     <description>Give cloud AI agents a real development environment on your own machines.</description>
   </item>
   <item>
+    <title>clash-verge-rev / clash-verge-rev</title>
+    <link>https://github.com/clash-verge-rev/clash-verge-rev</link>
+    <description>A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience</description>
+  </item>
+  <item>
     <title>googleworkspace / cli</title>
     <link>https://github.com/googleworkspace/cli</link>
     <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</description>
   </item>
   <item>
-    <title>Automattic / harper</title>
-    <link>https://github.com/Automattic/harper</link>
-    <description>Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</description>
+    <title>ruvnet / RuView</title>
+    <link>https://github.com/ruvnet/RuView</link>
+    <description>π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.</description>
   </item>
   <item>
     <title>lbjlaq / Antigravity-Manager</title>
@@ -86,19 +86,29 @@
     <description>Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。</description>
   </item>
   <item>
-    <title>t8y2 / dbx</title>
-    <link>https://github.com/t8y2/dbx</link>
-    <description>20 MB lightweight cross-platform database client for 90+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 90+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP Server。</description>
-  </item>
-  <item>
     <title>rust-lang / rust</title>
     <link>https://github.com/rust-lang/rust</link>
     <description>Empowering everyone to build reliable and efficient software.</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
+    <title>moghtech / komodo</title>
+    <link>https://github.com/moghtech/komodo</link>
+    <description>🦎 a tool to build and deploy software on many servers 🦎</description>
+  </item>
+  <item>
+    <title>reacherhq / check-if-email-exists</title>
+    <link>https://github.com/reacherhq/check-if-email-exists</link>
+    <description>Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.</description>
+  </item>
+  <item>
+    <title>arcboxlabs / arcbox</title>
+    <link>https://github.com/arcboxlabs/arcbox</link>
+    <description>Run AI agents on real and isolated machines — own kernel, filesystem, and network — with &lt;100ms boot. Local first, OCI compatible, pure Rust.</description>
+  </item>
+  <item>
+    <title>CluvexStudio / Aether</title>
+    <link>https://github.com/CluvexStudio/Aether</link>
+    <description>A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.</description>
   </item>
 </channel>
 </rss>

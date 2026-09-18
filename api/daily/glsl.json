@@ -2,17 +2,27 @@
   "title": "GitHub Glsl Languages Daily Trending",
   "description": "Daily Trending of Glsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
   "items": [
     {
-      "title": "s0xDk / ghostty-blackhole",
-      "url": "https://github.com/s0xDk/ghostty-blackhole",
-      "description": "Ghostty Blackhole puts a real, ray-traced black hole inside your terminal. It grows as Claude Code's context window fills up, live. A fresh session is a quiet hole in the corner. A full one swallows half your screen. You'll always see /compact coming.",
+      "title": "KhronosGroup / SPIRV-Cross",
+      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
+      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 1691,
-      "forks": 149,
-      "added_stars": "5 stars today"
+      "stars": 2515,
+      "forks": 713,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "patriciogonzalezvivo / thebookofshaders",
+      "url": "https://github.com/patriciogonzalezvivo/thebookofshaders",
+      "description": "Step-by-step guide through the abstract and complex universe of Fragment Shaders.",
+      "language": "GLSL",
+      "languageColor": "#5686a5",
+      "stars": 7022,
+      "forks": 755,
+      "added_stars": "1 star today"
     },
     {
       "title": "SaschaWillems / Vulkan",
@@ -20,29 +30,19 @@
       "description": "C++ examples for the Vulkan graphics API",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 12146,
+      "stars": 12147,
       "forks": 2231,
       "added_stars": "1 star today"
     },
     {
-      "title": "KhronosGroup / SPIRV-Cross",
-      "url": "https://github.com/KhronosGroup/SPIRV-Cross",
-      "description": "SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.",
+      "title": "Richasy / Bili.Copilot",
+      "url": "https://github.com/Richasy/Bili.Copilot",
+      "description": "B站第三方 Windows 桌面客户端，使用 Windows App SDK 构建的原生应用",
       "language": "GLSL",
       "languageColor": "#5686a5",
-      "stars": 2513,
-      "forks": 714,
+      "stars": 5235,
+      "forks": 143,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "sixthsurge / photon",
-      "url": "https://github.com/sixthsurge/photon",
-      "description": "A gameplay-focused shader pack for Minecraft",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1905,
-      "forks": 329,
-      "added_stars": "1 star today"
     },
     {
       "title": "cizia64 / CrossMix-OS",
@@ -52,17 +52,7 @@
       "languageColor": "#5686a5",
       "stars": 993,
       "forks": 92,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "X0nk / Bliss-Shader",
-      "url": "https://github.com/X0nk/Bliss-Shader",
-      "description": "A minecraft shader which is an edit of chocapic v9",
-      "language": "GLSL",
-      "languageColor": "#5686a5",
-      "stars": 1003,
-      "forks": 144,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,17 +2,27 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
   "items": [
     {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 3919,
-      "forks": 1053,
+      "stars": 892,
+      "forks": 143343,
       "added_stars": "1 star today"
+    },
+    {
+      "title": "posit-dev / skills",
+      "url": "https://github.com/posit-dev/skills",
+      "description": "A collection of Claude Skills from Posit",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 515,
+      "forks": 53,
+      "added_stars": "4 stars today"
     },
     {
       "title": "nflverse / nflverse-data",
@@ -20,29 +30,9 @@
       "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 394,
-      "forks": 44,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5687,
-      "forks": 1890,
+      "stars": 396,
+      "forks": 45,
       "added_stars": "1 star today"
-    },
-    {
-      "title": "mixOmics-org / mixOmics",
-      "url": "https://github.com/mixOmics-org/mixOmics",
-      "description": "Development repository for the Bioconductor package 'mixOmics '",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 267,
-      "forks": 69,
-      "added_stars": "0 stars today"
     },
     {
       "title": "satijalab / seurat",
@@ -52,27 +42,7 @@
       "languageColor": "#198CE7",
       "stars": 2799,
       "forks": 998,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "swirldev / swirl_courses",
-      "url": "https://github.com/swirldev/swirl_courses",
-      "description": "🎓 A collection of interactive courses for the swirl R package.",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 4605,
-      "forks": 7197,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "posit-dev / skills",
-      "url": "https://github.com/posit-dev/skills",
-      "description": "A collection of Claude Skills from Posit",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 510,
-      "forks": 52,
-      "added_stars": "3 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "jinworks / CellChat",
@@ -82,17 +52,7 @@
       "languageColor": "#198CE7",
       "stars": 671,
       "forks": 112,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 6997,
-      "forks": 2124,
-      "added_stars": "3 stars today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "tidyverse / dplyr",
@@ -102,7 +62,27 @@
       "languageColor": "#198CE7",
       "stars": 5067,
       "forks": 2114,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "swirldev / swirl_courses",
+      "url": "https://github.com/swirldev/swirl_courses",
+      "description": "🎓 A collection of interactive courses for the swirl R package.",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 4606,
+      "forks": 7197,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 6997,
+      "forks": 2126,
+      "added_stars": "0 stars today"
     }
   ]
 }

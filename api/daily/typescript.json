@@ -2,27 +2,17 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 06:56:16 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
   "items": [
     {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 54570,
-      "forks": 6800,
-      "added_stars": "417 stars today"
-    },
-    {
-      "title": "ever-co / ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7444,
-      "forks": 1099,
-      "added_stars": "778 stars today"
+      "stars": 4586,
+      "forks": 322,
+      "added_stars": "1,302 stars today"
     },
     {
       "title": "anthropics / claude-code",
@@ -30,19 +20,29 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 145669,
-      "forks": 23510,
-      "added_stars": "165 stars today"
+      "stars": 145965,
+      "forks": 23658,
+      "added_stars": "538 stars today"
     },
     {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 109894,
-      "forks": 14066,
-      "added_stars": "120 stars today"
+      "stars": 54965,
+      "forks": 6834,
+      "added_stars": "667 stars today"
+    },
+    {
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7645,
+      "forks": 1135,
+      "added_stars": "470 stars today"
     },
     {
       "title": "cline / cline",
@@ -50,19 +50,9 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 68478,
-      "forks": 7395,
-      "added_stars": "112 stars today"
-    },
-    {
-      "title": "Crosstalk-Solutions / project-nomad",
-      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
-      "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 37264,
-      "forks": 3702,
-      "added_stars": "83 stars today"
+      "stars": 68625,
+      "forks": 7418,
+      "added_stars": "380 stars today"
     },
     {
       "title": "n8n-io / n8n",
@@ -70,19 +60,69 @@
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 204720,
-      "forks": 60721,
-      "added_stars": "225 stars today"
+      "stars": 205131,
+      "forks": 60759,
+      "added_stars": "281 stars today"
     },
     {
-      "title": "MemTensor / MemOS",
-      "url": "https://github.com/MemTensor/MemOS",
-      "description": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 11487,
-      "forks": 1044,
-      "added_stars": "29 stars today"
+      "stars": 109935,
+      "forks": 14177,
+      "added_stars": "586 stars today"
+    },
+    {
+      "title": "CodebuffAI / freebuff",
+      "url": "https://github.com/CodebuffAI/freebuff",
+      "description": "The free coding agent",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12287,
+      "forks": 1314,
+      "added_stars": "97 stars today"
+    },
+    {
+      "title": "EveryInc / compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 25140,
+      "forks": 2060,
+      "added_stars": "46 stars today"
+    },
+    {
+      "title": "freeCodeCamp / freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 455708,
+      "forks": 46561,
+      "added_stars": "111 stars today"
+    },
+    {
+      "title": "vitest-dev / vitest",
+      "url": "https://github.com/vitest-dev/vitest",
+      "description": "Next generation testing framework powered by Vite.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17118,
+      "forks": 2003,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "Stirling-Tools / Stirling-PDF",
+      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 92465,
+      "forks": 8760,
+      "added_stars": "128 stars today"
     },
     {
       "title": "vercel / eve",
@@ -90,79 +130,9 @@
       "description": "The Open Framework for Building Agents",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5314,
-      "forks": 560,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "opengeos / GeoLibre",
-      "url": "https://github.com/opengeos/GeoLibre",
-      "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7581,
-      "forks": 787,
-      "added_stars": "108 stars today"
-    },
-    {
-      "title": "remotion-dev / remotion",
-      "url": "https://github.com/remotion-dev/remotion",
-      "description": "🎥 Make videos programmatically with React",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 59601,
-      "forks": 4564,
-      "added_stars": "123 stars today"
-    },
-    {
-      "title": "koala73 / worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 86705,
-      "forks": 13147,
-      "added_stars": "181 stars today"
-    },
-    {
-      "title": "cursor / plugins",
-      "url": "https://github.com/cursor/plugins",
-      "description": "Cursor plugin specification and official plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8123,
-      "forks": 724,
-      "added_stars": "171 stars today"
-    },
-    {
-      "title": "shadcn-ui / ui",
-      "url": "https://github.com/shadcn-ui/ui",
-      "description": "Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 124103,
-      "forks": 10486,
-      "added_stars": "115 stars today"
-    },
-    {
-      "title": "facebook / astryx",
-      "url": "https://github.com/facebook/astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 13215,
-      "forks": 1133,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "desktop / desktop",
-      "url": "https://github.com/desktop/desktop",
-      "description": "Focus on what matters instead of fighting with Git.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 21946,
-      "forks": 10549,
-      "added_stars": "6 stars today"
+      "stars": 5243,
+      "forks": 567,
+      "added_stars": "173 stars today"
     },
     {
       "title": "danny-avila / LibreChat",
@@ -170,39 +140,59 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 44299,
-      "forks": 9074,
-      "added_stars": "417 stars today"
+      "stars": 44260,
+      "forks": 9097,
+      "added_stars": "320 stars today"
     },
     {
-      "title": "openobserve / openobserve",
-      "url": "https://github.com/openobserve/openobserve",
-      "description": "Open source observability platform for logs, metrics, traces, RUM, Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment.",
+      "title": "actualbudget / actual",
+      "url": "https://github.com/actualbudget/actual",
+      "description": "A local-first personal finance app",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 22055,
-      "forks": 1091,
-      "added_stars": "46 stars today"
+      "stars": 28984,
+      "forks": 2994,
+      "added_stars": "65 stars today"
     },
     {
-      "title": "vercel / ai",
-      "url": "https://github.com/vercel/ai",
-      "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+      "title": "fosrl / pangolin",
+      "url": "https://github.com/fosrl/pangolin",
+      "description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26881,
-      "forks": 5156,
-      "added_stars": "33 stars today"
+      "stars": 22805,
+      "forks": 788,
+      "added_stars": "55 stars today"
     },
     {
-      "title": "reconurge / flowsint",
-      "url": "https://github.com/reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "title": "rowboatlabs / rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "The multiplayer personal assistant for work",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8892,
-      "forks": 1066,
-      "added_stars": "210 stars today"
+      "stars": 17892,
+      "forks": 1781,
+      "added_stars": "304 stars today"
+    },
+    {
+      "title": "wonderwhy-er / DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 9631,
+      "forks": 1193,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "immich-app / immich",
+      "url": "https://github.com/immich-app/immich",
+      "description": "High performance self-hosted photo and video management solution.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 114495,
+      "forks": 6980,
+      "added_stars": "100 stars today"
     }
   ]
 }

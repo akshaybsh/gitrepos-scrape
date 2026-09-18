@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
   "items": [
     {
       "title": "openai / symphony",
@@ -10,9 +10,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27261,
-      "forks": 2822,
-      "added_stars": "595 stars this month"
+      "stars": 27282,
+      "forks": 2824,
+      "added_stars": "615 stars this month"
     },
     {
       "title": "firezone / firezone",
@@ -20,8 +20,8 @@
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9097,
-      "forks": 456,
+      "stars": 9096,
+      "forks": 457,
       "added_stars": "75 stars this month"
     },
     {
@@ -30,9 +30,9 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 8996,
-      "forks": 1005,
-      "added_stars": "155 stars this month"
+      "stars": 9000,
+      "forks": 1006,
+      "added_stars": "159 stars this month"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -40,9 +40,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23157,
-      "forks": 3110,
-      "added_stars": "65 stars this month"
+      "stars": 23159,
+      "forks": 3111,
+      "added_stars": "68 stars this month"
     },
     {
       "title": "blockscout / blockscout",
@@ -50,8 +50,8 @@
       "description": "Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 4693,
-      "forks": 3178,
+      "stars": 4696,
+      "forks": 3180,
       "added_stars": "64 stars this month"
     },
     {
@@ -60,9 +60,9 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 29106,
-      "forks": 1865,
-      "added_stars": "537 stars this month"
+      "stars": 29126,
+      "forks": 1869,
+      "added_stars": "523 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -70,9 +70,9 @@
       "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 7633,
-      "forks": 464,
-      "added_stars": "20 stars this month"
+      "stars": 7634,
+      "forks": 467,
+      "added_stars": "21 stars this month"
     },
     {
       "title": "elixir-lang / elixir",
@@ -80,9 +80,19 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26651,
+      "stars": 26654,
       "forks": 3669,
-      "added_stars": "89 stars this month"
+      "added_stars": "90 stars this month"
+    },
+    {
+      "title": "tuist / tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5805,
+      "forks": 778,
+      "added_stars": "54 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -90,9 +100,9 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6826,
+      "stars": 6827,
       "forks": 1053,
-      "added_stars": "8 stars this month"
+      "added_stars": "9 stars this month"
     },
     {
       "title": "expert-lsp / expert",
@@ -110,9 +120,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5339,
+      "stars": 5344,
       "forks": 166,
-      "added_stars": "93 stars this month"
+      "added_stars": "97 stars this month"
     },
     {
       "title": "icoretech / codex-pooler",
@@ -122,37 +132,7 @@
       "languageColor": "#6e4a7e",
       "stars": 211,
       "forks": 22,
-      "added_stars": "65 stars this month"
-    },
-    {
-      "title": "supabase / supavisor",
-      "url": "https://github.com/supabase/supavisor",
-      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 2265,
-      "forks": 117,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "agentjido / req_llm",
-      "url": "https://github.com/agentjido/req_llm",
-      "description": "Composable Elixir library for LLM interactions built on Req and Finch",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 575,
-      "forks": 195,
-      "added_stars": "15 stars this month"
-    },
-    {
-      "title": "bartblast / hologram",
-      "url": "https://github.com/bartblast/hologram",
-      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1505,
-      "forks": 115,
-      "added_stars": "32 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "phenixdigital / phoenix_storybook",
@@ -165,24 +145,64 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "bartblast / hologram",
+      "url": "https://github.com/bartblast/hologram",
+      "description": "Full stack Elixir web framework that intelligently compiles Elixir client-side code to JavaScript",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1506,
+      "forks": 115,
+      "added_stars": "33 stars this month"
+    },
+    {
+      "title": "algora-io / algora",
+      "url": "https://github.com/algora-io/algora",
+      "description": "Hire the top 1% OSS engineers",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 1508,
+      "forks": 152,
+      "added_stars": "38 stars this month"
+    },
+    {
+      "title": "agentjido / req_llm",
+      "url": "https://github.com/agentjido/req_llm",
+      "description": "Composable Elixir library for LLM interactions built on Req and Finch",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 576,
+      "forks": 197,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-erlang-contrib",
+      "url": "https://github.com/open-telemetry/opentelemetry-erlang-contrib",
+      "description": "OpenTelemetry instrumentation for Erlang & Elixir",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 219,
+      "forks": 169,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "supabase / supavisor",
+      "url": "https://github.com/supabase/supavisor",
+      "description": "A cloud-native, multi-tenant Postgres connection pooler.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 2265,
+      "forks": 117,
+      "added_stars": "13 stars this month"
+    },
+    {
       "title": "livebook-dev / livebook",
       "url": "https://github.com/livebook-dev/livebook",
       "description": "Automate code & data workflows with interactive Elixir notebooks",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5866,
+      "stars": 5867,
       "forks": 513,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "elixir-ecto / ecto",
-      "url": "https://github.com/elixir-ecto/ecto",
-      "description": "A toolkit for data mapping and language integrated query.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 6497,
-      "forks": 1485,
-      "added_stars": "14 stars this month"
+      "added_stars": "26 stars this month"
     }
   ]
 }

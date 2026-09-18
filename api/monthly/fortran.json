@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 17 Sep 2026 07:02:05 GMT",
+  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -10,7 +10,7 @@
       "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 440,
+      "stars": 441,
       "forks": 481,
       "added_stars": "3 stars this month"
     },
@@ -30,19 +30,9 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1761,
+      "stars": 1762,
       "forks": 882,
       "added_stars": "28 stars this month"
-    },
-    {
-      "title": "MetOffice / jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 23,
-      "forks": 35,
-      "added_stars": "2 stars this month"
     },
     {
       "title": "JuliaPackaging / Yggdrasil",
@@ -63,6 +53,16 @@
       "stars": 31,
       "forks": 117,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 23,
+      "forks": 36,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -110,9 +110,9 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1706,
-      "forks": 396,
-      "added_stars": "44 stars this month"
+      "stars": 1707,
+      "forks": 397,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "OpenFAST / openfast",
@@ -122,7 +122,7 @@
       "languageColor": "#4d41b1",
       "stars": 969,
       "forks": 540,
-      "added_stars": "19 stars this month"
+      "added_stars": "17 stars this month"
     },
     {
       "title": "firemodels / fds",
@@ -130,19 +130,9 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 875,
+      "stars": 876,
       "forks": 689,
       "added_stars": "13 stars this month"
-    },
-    {
-      "title": "MFlowCode / MFC",
-      "url": "https://github.com/MFlowCode/MFC",
-      "description": "Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 420,
-      "forks": 174,
-      "added_stars": "16 stars this month"
     },
     {
       "title": "grimme-lab / xtb",
@@ -152,7 +142,7 @@
       "languageColor": "#4d41b1",
       "stars": 841,
       "forks": 207,
-      "added_stars": "12 stars this month"
+      "added_stars": "11 stars this month"
     }
   ]
 }
