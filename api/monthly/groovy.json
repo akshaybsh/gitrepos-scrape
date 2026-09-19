@@ -2,17 +2,37 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:02:27 GMT",
+  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
   "items": [
+    {
+      "title": "gradle / gradle",
+      "url": "https://github.com/gradle/gradle",
+      "description": "Adaptable, fast automation for all",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 18847,
+      "forks": 5335,
+      "added_stars": "96 stars this month"
+    },
     {
       "title": "rundeck / rundeck",
       "url": "https://github.com/rundeck/rundeck",
       "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 6302,
+      "stars": 6305,
       "forks": 987,
-      "added_stars": "36 stars this month"
+      "added_stars": "38 stars this month"
+    },
+    {
+      "title": "nextflow-io / nextflow",
+      "url": "https://github.com/nextflow-io/nextflow",
+      "description": "A DSL for data-driven computational pipelines",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 3488,
+      "forks": 811,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "apache / grails-core",
@@ -22,27 +42,7 @@
       "languageColor": "#4298b8",
       "stars": 2930,
       "forks": 975,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "gradle / gradle",
-      "url": "https://github.com/gradle/gradle",
-      "description": "Adaptable, fast automation for all",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 18845,
-      "forks": 5334,
-      "added_stars": "95 stars this month"
-    },
-    {
-      "title": "nextflow-io / nextflow",
-      "url": "https://github.com/nextflow-io/nextflow",
-      "description": "A DSL for data-driven computational pipelines",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 3487,
-      "forks": 811,
-      "added_stars": "24 stars this month"
+      "added_stars": "8 stars this month"
     },
     {
       "title": "apache / groovy",
@@ -50,19 +50,9 @@
       "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 5469,
-      "forks": 1917,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "gravitee-io / issues",
-      "url": "https://github.com/gravitee-io/issues",
-      "description": "Gravitee.io - API Platform - Issues",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 70,
-      "forks": 28,
-      "added_stars": "2 stars this month"
+      "stars": 5470,
+      "forks": 1916,
+      "added_stars": "17 stars this month"
     },
     {
       "title": "ben-manes / gradle-versions-plugin",
@@ -73,6 +63,16 @@
       "stars": 4087,
       "forks": 204,
       "added_stars": "12 stars this month"
+    },
+    {
+      "title": "gravitee-io / issues",
+      "url": "https://github.com/gravitee-io/issues",
+      "description": "Gravitee.io - API Platform - Issues",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 70,
+      "forks": 28,
+      "added_stars": "2 stars this month"
     }
   ]
 }

@@ -4,11 +4,61 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 18 Sep 2026 06:57:59 GMT</pubDate>
+  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
+  <item>
+    <title>TencentCloud / Octop</title>
+    <link>https://github.com/TencentCloud/Octop</link>
+    <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
+  </item>
   <item>
     <title>anthropics / knowledge-work-plugins</title>
     <link>https://github.com/anthropics/knowledge-work-plugins</link>
     <description>Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork</description>
+  </item>
+  <item>
+    <title>jinchenma94 / bazi-skill</title>
+    <link>https://github.com/jinchenma94/bazi-skill</link>
+    <description>四柱八字命理分析</description>
+  </item>
+  <item>
+    <title>bobeff / open-source-games</title>
+    <link>https://github.com/bobeff/open-source-games</link>
+    <description>A list of open source games.</description>
+  </item>
+  <item>
+    <title>NVIDIA / SkillSpector</title>
+    <link>https://github.com/NVIDIA/SkillSpector</link>
+    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
+  </item>
+  <item>
+    <title>fastino-ai / GLiNER2</title>
+    <link>https://github.com/fastino-ai/GLiNER2</link>
+    <description>Unified Schema-Based Information Extraction</description>
+  </item>
+  <item>
+    <title>shiyu-coder / Kronos</title>
+    <link>https://github.com/shiyu-coder/Kronos</link>
+    <description>Kronos: A Foundation Model for the Language of Financial Markets</description>
+  </item>
+  <item>
+    <title>unslothai / unsloth</title>
+    <link>https://github.com/unslothai/unsloth</link>
+    <description>Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.</description>
+  </item>
+  <item>
+    <title>pjialin / py12306</title>
+    <link>https://github.com/pjialin/py12306</link>
+    <description>🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理</description>
+  </item>
+  <item>
+    <title>tirth8205 / code-review-graph</title>
+    <link>https://github.com/tirth8205/code-review-graph</link>
+    <description>Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.</description>
+  </item>
+  <item>
+    <title>D4Vinci / Scrapling</title>
+    <link>https://github.com/D4Vinci/Scrapling</link>
+    <description>🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl! Don&#x27;t be shy, join here: https://discord.gg/EMgGbDceNQ</description>
   </item>
   <item>
     <title>roboflow / supervision</title>
@@ -16,69 +66,29 @@
     <description>We write your reusable computer vision tools. 💜</description>
   </item>
   <item>
-    <title>TencentCloud / Octop</title>
-    <link>https://github.com/TencentCloud/Octop</link>
-    <description>A smarter, self-hosted AI assistant — multi-user, multi-agent.</description>
+    <title>microsoft / agent-lightning</title>
+    <link>https://github.com/microsoft/agent-lightning</link>
+    <description>The absolute trainer to light up AI agents.</description>
   </item>
   <item>
-    <title>arnegiacomo / fugleramme</title>
-    <link>https://github.com/arnegiacomo/fugleramme</link>
-    <description>E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.</description>
+    <title>Graphify-Labs / graphify</title>
+    <link>https://github.com/Graphify-Labs/graphify</link>
+    <description>Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.</description>
   </item>
   <item>
-    <title>SnailSploit / Claude-Red</title>
-    <link>https://github.com/SnailSploit/Claude-Red</link>
-    <description>claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.</description>
+    <title>getsentry / sentry</title>
+    <link>https://github.com/getsentry/sentry</link>
+    <description>Developer-first error tracking and performance monitoring</description>
   </item>
   <item>
-    <title>onyx-dot-app / onyx</title>
-    <link>https://github.com/onyx-dot-app/onyx</link>
-    <description>Open Source AI Platform - AI Chat with advanced features that works with every LLM</description>
+    <title>PaddlePaddle / PaddleOCR</title>
+    <link>https://github.com/PaddlePaddle/PaddleOCR</link>
+    <description>Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.</description>
   </item>
   <item>
-    <title>google-research / timesfm</title>
-    <link>https://github.com/google-research/timesfm</link>
-    <description>TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.</description>
-  </item>
-  <item>
-    <title>strands-agents / harness-sdk</title>
-    <link>https://github.com/strands-agents/harness-sdk</link>
-    <description>Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.</description>
-  </item>
-  <item>
-    <title>LLMQuant / quant-mind</title>
-    <link>https://github.com/LLMQuant/quant-mind</link>
-    <description>QuantMind is an open source agent-native knowledge extraction and retrieval framework for quantitative finance.</description>
-  </item>
-  <item>
-    <title>wilbowes / EchoMuse</title>
-    <link>https://github.com/wilbowes/EchoMuse</link>
-    <description>Alexa replacement and controller for Echo Dot 2nd Generation device.</description>
-  </item>
-  <item>
-    <title>trailofbits / skills</title>
-    <link>https://github.com/trailofbits/skills</link>
-    <description>Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows</description>
-  </item>
-  <item>
-    <title>Tracer-Cloud / opensre</title>
-    <link>https://github.com/Tracer-Cloud/opensre</link>
-    <description>Build your own AI SRE agents. The open source toolkit for the AI era.</description>
-  </item>
-  <item>
-    <title>hao-ai-lab / FastVideo</title>
-    <link>https://github.com/hao-ai-lab/FastVideo</link>
-    <description>A unified inference and post-training framework for accelerated video generation.</description>
-  </item>
-  <item>
-    <title>pytorch / pytorch</title>
-    <link>https://github.com/pytorch/pytorch</link>
-    <description>Tensors and Dynamic neural networks in Python with strong GPU acceleration</description>
-  </item>
-  <item>
-    <title>bmad-code-org / BMAD-METHOD</title>
-    <link>https://github.com/bmad-code-org/BMAD-METHOD</link>
-    <description>Breakthrough Method for Agile Ai Driven Development</description>
+    <title>marin-community / marin</title>
+    <link>https://github.com/marin-community/marin</link>
+    <description>Open-source framework for the research and development of foundation models.</description>
   </item>
 </channel>
 </rss>

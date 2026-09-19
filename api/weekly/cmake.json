@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,19 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27468,
-      "forks": 7729,
-      "added_stars": "18 stars this week"
+      "stars": 27472,
+      "forks": 7732,
+      "added_stars": "20 stars this week"
+    },
+    {
+      "title": "KiCad / kicad-footprints",
+      "url": "https://github.com/KiCad/kicad-footprints",
+      "description": "Official KiCad Footprint Libraries for Kicad version 5",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 690,
+      "forks": 703,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -21,18 +31,8 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": 1754,
-      "forks": 255,
+      "forks": 254,
       "added_stars": "9 stars this week"
-    },
-    {
-      "title": "KiCad / kicad-footprints",
-      "url": "https://github.com/KiCad/kicad-footprints",
-      "description": "Official KiCad Footprint Libraries for Kicad version 5",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 689,
-      "forks": 703,
-      "added_stars": "1 star this week"
     },
     {
       "title": "minecraft-linux / mcpelauncher-manifest",
@@ -40,9 +40,9 @@
       "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1653,
-      "forks": 130,
-      "added_stars": "15 stars this week"
+      "stars": 1655,
+      "forks": 131,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "Andersama / obs-asio",

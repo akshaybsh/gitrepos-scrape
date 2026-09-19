@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
   "items": [
     {
       "title": "numtide / llm-agents.nix",
@@ -10,9 +10,29 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1964,
-      "forks": 254,
+      "stars": 1972,
+      "forks": 255,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "NixOS / nixpkgs",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "description": "Nix Packages collection & NixOS",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 26187,
+      "forks": 20134,
       "added_stars": "13 stars today"
+    },
+    {
+      "title": "nix-community / home-manager",
+      "url": "https://github.com/nix-community/home-manager",
+      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 10359,
+      "forks": 2478,
+      "added_stars": "7 stars today"
     },
     {
       "title": "nix-darwin / nix-darwin",
@@ -22,37 +42,7 @@
       "languageColor": "#7e7eff",
       "stars": 5937,
       "forks": 659,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "NixOS / nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "description": "Nix Packages collection & NixOS",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 26179,
-      "forks": 20121,
-      "added_stars": "26 stars today"
-    },
-    {
-      "title": "nix-community / home-manager",
-      "url": "https://github.com/nix-community/home-manager",
-      "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 10354,
-      "forks": 2478,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "feel-co / hjem",
-      "url": "https://github.com/feel-co/hjem",
-      "description": "Streamlined, elegant $HOME management with Nix",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 643,
-      "forks": 26,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "supabase / postgres",

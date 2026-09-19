@@ -2,28 +2,8 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
   "items": [
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19759,
-      "forks": 2111,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Perl / perl5",
-      "url": "https://github.com/Perl/perl5",
-      "description": "🐪 The Perl programming language",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 2323,
-      "forks": 645,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "znuny / Znuny",
       "url": "https://github.com/znuny/Znuny",
@@ -40,19 +20,59 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 490,
+      "stars": 492,
       "forks": 120,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19759,
+      "forks": 2111,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "AlDanial / cloc",
+      "url": "https://github.com/AlDanial/cloc",
+      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 23544,
+      "forks": 1126,
       "added_stars": "1 star today"
     },
     {
-      "title": "exiftool / exiftool",
-      "url": "https://github.com/exiftool/exiftool",
-      "description": "ExifTool meta information reader/writer",
+      "title": "Perl / perl5",
+      "url": "https://github.com/Perl/perl5",
+      "description": "🐪 The Perl programming language",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5052,
-      "forks": 486,
-      "added_stars": "4 stars today"
+      "stars": 2324,
+      "forks": 646,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "adrienverge / openfortivpn",
+      "url": "https://github.com/adrienverge/openfortivpn",
+      "description": "Client for PPP+TLS VPN tunnel services",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3418,
+      "forks": 381,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Difegue / LANraragi",
+      "url": "https://github.com/Difegue/LANraragi",
+      "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3111,
+      "forks": 225,
+      "added_stars": "1 star today"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -62,47 +82,37 @@
       "languageColor": "#0298c3",
       "stars": 1691,
       "forks": 329,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "OpenKore / openkore",
+      "url": "https://github.com/OpenKore/openkore",
+      "description": "A free/open source client and automation tool for Ragnarok Online",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 1523,
+      "forks": 1217,
       "added_stars": "0 stars today"
     },
     {
-      "title": "AlDanial / cloc",
-      "url": "https://github.com/AlDanial/cloc",
-      "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23543,
-      "forks": 1126,
-      "added_stars": "3 stars today"
+      "stars": 3926,
+      "forks": 213,
+      "added_stars": "1 star today"
     },
     {
-      "title": "adrienverge / openfortivpn",
-      "url": "https://github.com/adrienverge/openfortivpn",
-      "description": "Client for PPP+TLS VPN tunnel services",
+      "title": "exiftool / exiftool",
+      "url": "https://github.com/exiftool/exiftool",
+      "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3418,
-      "forks": 380,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "netdisco / netdisco",
-      "url": "https://github.com/netdisco/netdisco",
-      "description": "A web-based network management tool.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 914,
-      "forks": 106,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "yaml / yaml-test-suite",
-      "url": "https://github.com/yaml/yaml-test-suite",
-      "description": "Comprehensive, language independent Test Suite for YAML",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 271,
-      "forks": 100,
-      "added_stars": "0 stars today"
+      "stars": 5060,
+      "forks": 486,
+      "added_stars": "7 stars today"
     }
   ]
 }

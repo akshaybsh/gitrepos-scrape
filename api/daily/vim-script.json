@@ -2,27 +2,77 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
   "items": [
+    {
+      "title": "vim / vim",
+      "url": "https://github.com/vim/vim",
+      "description": "The official Vim repository",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 40898,
+      "forks": 6138,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35771,
+      "forks": 1934,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 102422,
+      "forks": 7118,
+      "added_stars": "20 stars today"
+    },
     {
       "title": "jbranchaud / til",
       "url": "https://github.com/jbranchaud/til",
       "description": "📝 Today I Learned",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 14153,
+      "stars": 14154,
       "forks": 754,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21791,
+      "forks": 1080,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "morhetz / gruvbox",
+      "url": "https://github.com/morhetz/gruvbox",
+      "description": "Retro groove color scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 15751,
+      "forks": 1123,
       "added_stars": "3 stars today"
     },
     {
-      "title": "amix / vimrc",
-      "url": "https://github.com/amix/vimrc",
-      "description": "The ultimate Vim configuration (vimrc)",
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 31813,
-      "forks": 7226,
-      "added_stars": "4 stars today"
+      "stars": 11683,
+      "forks": 812,
+      "added_stars": "0 stars today"
     },
     {
       "title": "vim-test / vim-test",
@@ -33,76 +83,6 @@
       "stars": 3165,
       "forks": 411,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35770,
-      "forks": 1934,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21791,
-      "forks": 1080,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11685,
-      "forks": 811,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "mhinz / vim-galore",
-      "url": "https://github.com/mhinz/vim-galore",
-      "description": "🎓 All things Vim!",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 17983,
-      "forks": 627,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "vim / vim",
-      "url": "https://github.com/vim/vim",
-      "description": "The official Vim repository",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 40896,
-      "forks": 6137,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "vim-airline / vim-airline",
-      "url": "https://github.com/vim-airline/vim-airline",
-      "description": "lean & mean status/tabline for vim that's light as air",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 17966,
-      "forks": 1101,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "junegunn / fzf.vim",
-      "url": "https://github.com/junegunn/fzf.vim",
-      "description": "fzf ❤️ vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 10255,
-      "forks": 608,
-      "added_stars": "1 star today"
     }
   ]
 }

@@ -2,8 +2,18 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:02:27 GMT",
+  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
   "items": [
+    {
+      "title": "facebook / infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 15706,
+      "forks": 2101,
+      "added_stars": "51 stars this month"
+    },
     {
       "title": "MinaProtocol / mina",
       "url": "https://github.com/MinaProtocol/mina",
@@ -12,7 +22,7 @@
       "languageColor": "#ef7a08",
       "stars": 2121,
       "forks": 585,
-      "added_stars": "8 stars this month"
+      "added_stars": "7 stars this month"
     },
     {
       "title": "ocaml / ocaml",
@@ -20,29 +30,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6562,
-      "forks": 1409,
-      "added_stars": "60 stars this month"
-    },
-    {
-      "title": "opengrep / opengrep",
-      "url": "https://github.com/opengrep/opengrep",
-      "description": "🔎 Static code analysis engine to find security issues in code.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 3086,
-      "forks": 264,
-      "added_stars": "132 stars this month"
-    },
-    {
-      "title": "facebook / infer",
-      "url": "https://github.com/facebook/infer",
-      "description": "A static analyzer for Java, C, C++, and Objective-C",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 15704,
-      "forks": 2101,
-      "added_stars": "51 stars this month"
+      "stars": 6565,
+      "forks": 1410,
+      "added_stars": "64 stars this month"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -50,9 +40,19 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 969,
+      "stars": 971,
       "forks": 107,
-      "added_stars": "55 stars this month"
+      "added_stars": "56 stars this month"
+    },
+    {
+      "title": "opengrep / opengrep",
+      "url": "https://github.com/opengrep/opengrep",
+      "description": "🔎 Static code analysis engine to find security issues in code.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 3091,
+      "forks": 264,
+      "added_stars": "130 stars this month"
     },
     {
       "title": "ocaml / dune",
@@ -60,7 +60,7 @@
       "description": "A composable build system for OCaml.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1916,
+      "stars": 1915,
       "forks": 500,
       "added_stars": "9 stars this month"
     },
@@ -70,29 +70,9 @@
       "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5577,
-      "forks": 763,
-      "added_stars": "35 stars this month"
-    },
-    {
-      "title": "ocaml / ocaml-lsp",
-      "url": "https://github.com/ocaml/ocaml-lsp",
-      "description": "OCaml Language Server Protocol implementation",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 909,
-      "forks": 165,
-      "added_stars": "1 star this month"
-    },
-    {
-      "title": "oxcaml / oxcaml",
-      "url": "https://github.com/oxcaml/oxcaml",
-      "description": "OCaml - Oxidized!",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 886,
-      "forks": 182,
-      "added_stars": "44 stars this month"
+      "stars": 5580,
+      "forks": 764,
+      "added_stars": "40 stars this month"
     },
     {
       "title": "semgrep / ocaml-tree-sitter-core",
@@ -115,14 +95,14 @@
       "added_stars": "17 stars this month"
     },
     {
-      "title": "ocaml / opam",
-      "url": "https://github.com/ocaml/opam",
-      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1380,
-      "forks": 410,
-      "added_stars": "8 stars this month"
+      "stars": 885,
+      "forks": 182,
+      "added_stars": "43 stars this month"
     },
     {
       "title": "caffeinelabs / motoko",
@@ -135,14 +115,24 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "bcpierce00 / unison",
-      "url": "https://github.com/bcpierce00/unison",
-      "description": "Unison file synchronizer",
+      "title": "ocaml / opam",
+      "url": "https://github.com/ocaml/opam",
+      "description": "opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5483,
-      "forks": 273,
-      "added_stars": "46 stars this month"
+      "stars": 1380,
+      "forks": 410,
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "astrada / google-drive-ocamlfuse",
+      "url": "https://github.com/astrada/google-drive-ocamlfuse",
+      "description": "FUSE filesystem over Google Drive",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5959,
+      "forks": 367,
+      "added_stars": "10 stars this month"
     }
   ]
 }

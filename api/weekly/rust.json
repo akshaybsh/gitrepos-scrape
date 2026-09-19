@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
   "items": [
     {
       "title": "max-sixty / worktrunk",
@@ -10,9 +10,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 7961,
-      "forks": 273,
-      "added_stars": "1,060 stars this week"
+      "stars": 8048,
+      "forks": 275,
+      "added_stars": "1,104 stars this week"
     },
     {
       "title": "alphaXiv / OpenResearch",
@@ -20,9 +20,9 @@
       "description": "Turn your coding agents into research agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5117,
-      "forks": 311,
-      "added_stars": "4,029 stars this week"
+      "stars": 5323,
+      "forks": 325,
+      "added_stars": "4,377 stars this week"
     },
     {
       "title": "tonhowtf / omniget",
@@ -30,9 +30,9 @@
       "description": "Download Udemy and Hotmart courses, YouTube videos, music and books — 1,800+ sites, no terminal. Free open-source desktop app for Windows, macOS and Linux, with a built-in course player, PDF/EPUB reader and music library. Powered by yt-dlp. Your files stay on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 13614,
-      "forks": 1165,
-      "added_stars": "4,033 stars this week"
+      "stars": 13763,
+      "forks": 1188,
+      "added_stars": "3,969 stars this week"
     },
     {
       "title": "HakanSeven12 / OpenCADStudio",
@@ -40,29 +40,19 @@
       "description": "A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2040,
-      "forks": 206,
-      "added_stars": "607 stars this week"
+      "stars": 2068,
+      "forks": 210,
+      "added_stars": "526 stars this week"
     },
     {
       "title": "pacifio / atlas",
       "url": "https://github.com/pacifio/atlas",
       "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 4761,
-      "forks": 292,
-      "added_stars": "1,550 stars this week"
-    },
-    {
-      "title": "raine / workmux",
-      "url": "https://github.com/raine/workmux",
-      "description": "git worktrees + tmux windows for zero-friction parallel dev",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2635,
-      "forks": 328,
-      "added_stars": "240 stars this week"
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4723,
+      "forks": 280,
+      "added_stars": "1,557 stars this week"
     },
     {
       "title": "rustfs / rustfs",
@@ -70,39 +60,9 @@
       "description": "RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 32848,
-      "forks": 1473,
-      "added_stars": "1,049 stars this week"
-    },
-    {
-      "title": "rtk-ai / rtk",
-      "url": "https://github.com/rtk-ai/rtk",
-      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 80864,
-      "forks": 5127,
-      "added_stars": "1,149 stars this week"
-    },
-    {
-      "title": "mesamirh / MovieBox-Tui",
-      "url": "https://github.com/mesamirh/MovieBox-Tui",
-      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 2037,
-      "forks": 219,
-      "added_stars": "220 stars this week"
-    },
-    {
-      "title": "rustdesk / rustdesk",
-      "url": "https://github.com/rustdesk/rustdesk",
-      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 123904,
-      "forks": 19132,
-      "added_stars": "988 stars this week"
+      "stars": 33245,
+      "forks": 1487,
+      "added_stars": "1,338 stars this week"
     },
     {
       "title": "ankitects / anki",
@@ -110,9 +70,29 @@
       "description": "Anki is a smart spaced repetition flashcard program",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31021,
-      "forks": 3229,
-      "added_stars": "688 stars this week"
+      "stars": 31260,
+      "forks": 3239,
+      "added_stars": "860 stars this week"
+    },
+    {
+      "title": "NVlabs / cuda-oxide",
+      "url": "https://github.com/NVlabs/cuda-oxide",
+      "description": "cuda-oxide is a Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3507,
+      "forks": 273,
+      "added_stars": "237 stars this week"
+    },
+    {
+      "title": "rtk-ai / rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 80961,
+      "forks": 5135,
+      "added_stars": "1,121 stars this week"
     },
     {
       "title": "yyjeqhc / webcodex",
@@ -120,39 +100,19 @@
       "description": "Give cloud AI agents a real development environment on your own machines.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1122,
-      "forks": 148,
-      "added_stars": "452 stars this week"
+      "stars": 1359,
+      "forks": 170,
+      "added_stars": "636 stars this week"
     },
     {
-      "title": "clash-verge-rev / clash-verge-rev",
-      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
-      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
+      "title": "rustdesk / rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 145194,
-      "forks": 10451,
-      "added_stars": "1,567 stars this week"
-    },
-    {
-      "title": "googleworkspace / cli",
-      "url": "https://github.com/googleworkspace/cli",
-      "description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 31041,
-      "forks": 1840,
-      "added_stars": "179 stars this week"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 94343,
-      "forks": 12487,
-      "added_stars": "1,627 stars this week"
+      "stars": 123964,
+      "forks": 19144,
+      "added_stars": "1,007 stars this week"
     },
     {
       "title": "lbjlaq / Antigravity-Manager",
@@ -160,29 +120,29 @@
       "description": "Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 31467,
-      "forks": 3387,
-      "added_stars": "295 stars this week"
+      "stars": 31512,
+      "forks": 3391,
+      "added_stars": "307 stars this week"
     },
     {
-      "title": "rust-lang / rust",
-      "url": "https://github.com/rust-lang/rust",
-      "description": "Empowering everyone to build reliable and efficient software.",
+      "title": "clash-verge-rev / clash-verge-rev",
+      "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "description": "A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 118921,
-      "forks": 15942,
-      "added_stars": "1,268 stars this week"
+      "stars": 145379,
+      "forks": 10463,
+      "added_stars": "1,557 stars this week"
     },
     {
-      "title": "moghtech / komodo",
-      "url": "https://github.com/moghtech/komodo",
-      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 12331,
-      "forks": 412,
-      "added_stars": "120 stars this week"
+      "stars": 94425,
+      "forks": 12496,
+      "added_stars": "1,640 stars this week"
     },
     {
       "title": "reacherhq / check-if-email-exists",
@@ -190,9 +150,19 @@
       "description": "Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 9880,
+      "stars": 9883,
       "forks": 712,
-      "added_stars": "345 stars this week"
+      "added_stars": "347 stars this week"
+    },
+    {
+      "title": "raine / workmux",
+      "url": "https://github.com/raine/workmux",
+      "description": "git worktrees + tmux windows for zero-friction parallel dev",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 2650,
+      "forks": 329,
+      "added_stars": "215 stars this week"
     },
     {
       "title": "arcboxlabs / arcbox",
@@ -200,19 +170,19 @@
       "description": "Run AI agents on real and isolated machines — own kernel, filesystem, and network — with <100ms boot. Local first, OCI compatible, pure Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5030,
-      "forks": 173,
-      "added_stars": "2,436 stars this week"
+      "stars": 5508,
+      "forks": 189,
+      "added_stars": "2,107 stars this week"
     },
     {
-      "title": "CluvexStudio / Aether",
-      "url": "https://github.com/CluvexStudio/Aether",
-      "description": "A Rust userspace WARP core for censored networks, built around MASQUE over HTTP/3 and HTTP/2.",
+      "title": "mesamirh / MovieBox-Tui",
+      "url": "https://github.com/mesamirh/MovieBox-Tui",
+      "description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1911,
-      "forks": 142,
-      "added_stars": "154 stars this week"
+      "stars": 2070,
+      "forks": 222,
+      "added_stars": "196 stars this week"
     }
   ]
 }

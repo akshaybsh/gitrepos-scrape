@@ -2,27 +2,27 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:02:27 GMT",
+  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
   "items": [
+    {
+      "title": "alibaba / open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36939,
+      "forks": 2634,
+      "added_stars": "15,865 stars this month"
+    },
     {
       "title": "Tencent / WeKnora",
       "url": "https://github.com/Tencent/WeKnora",
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 26581,
-      "forks": 3582,
-      "added_stars": "6,280 stars this month"
-    },
-    {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 35590,
-      "forks": 2518,
-      "added_stars": "13,677 stars this month"
+      "stars": 27114,
+      "forks": 3649,
+      "added_stars": "7,035 stars this month"
     },
     {
       "title": "majd / ipatool",
@@ -30,19 +30,9 @@
       "description": "Command-line tool that allows you to search for iOS, iPadOS, tvOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11297,
+      "stars": 11307,
       "forks": 941,
-      "added_stars": "1,490 stars this month"
-    },
-    {
-      "title": "glanceapp / glance",
-      "url": "https://github.com/glanceapp/glance",
-      "description": "A self-hosted dashboard that puts all your feeds in one place",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 37092,
-      "forks": 1463,
-      "added_stars": "756 stars this month"
+      "added_stars": "1,498 stars this month"
     },
     {
       "title": "rorkai / App-Store-Connect-CLI",
@@ -50,19 +40,19 @@
       "description": "Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7272,
-      "forks": 612,
-      "added_stars": "1,363 stars this month"
+      "stars": 7283,
+      "forks": 613,
+      "added_stars": "1,353 stars this month"
     },
     {
-      "title": "theagentrouter / agent-router",
-      "url": "https://github.com/theagentrouter/agent-router",
-      "description": "Manages Unified Access to Generative AI Services built on Envoy Gateway",
+      "title": "glanceapp / glance",
+      "url": "https://github.com/glanceapp/glance",
+      "description": "A self-hosted dashboard that puts all your feeds in one place",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 2117,
-      "forks": 379,
-      "added_stars": "188 stars this month"
+      "stars": 37114,
+      "forks": 1465,
+      "added_stars": "748 stars this month"
     },
     {
       "title": "gtsteffaniak / filebrowser",
@@ -70,19 +60,9 @@
       "description": "📂 Web File Browser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8338,
-      "forks": 441,
-      "added_stars": "561 stars this month"
-    },
-    {
-      "title": "1Panel-dev / 1Panel",
-      "url": "https://github.com/1Panel-dev/1Panel",
-      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 36963,
-      "forks": 3355,
-      "added_stars": "477 stars this month"
+      "stars": 8351,
+      "forks": 440,
+      "added_stars": "563 stars this month"
     },
     {
       "title": "authelia / authelia",
@@ -90,9 +70,19 @@
       "description": "The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 29007,
+      "stars": 29014,
       "forks": 1485,
-      "added_stars": "448 stars this month"
+      "added_stars": "440 stars this month"
+    },
+    {
+      "title": "1Panel-dev / 1Panel",
+      "url": "https://github.com/1Panel-dev/1Panel",
+      "description": "🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 36973,
+      "forks": 3355,
+      "added_stars": "482 stars this month"
     },
     {
       "title": "evcc-io / evcc",
@@ -100,29 +90,9 @@
       "description": "solar charging ☀️🚘",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7262,
-      "forks": 1513,
-      "added_stars": "205 stars this month"
-    },
-    {
-      "title": "go-vikunja / vikunja",
-      "url": "https://github.com/go-vikunja/vikunja",
-      "description": "The task manager you actually own.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5444,
-      "forks": 694,
-      "added_stars": "386 stars this month"
-    },
-    {
-      "title": "seaweedfs / seaweedfs",
-      "url": "https://github.com/seaweedfs/seaweedfs",
-      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 34799,
-      "forks": 3002,
-      "added_stars": "764 stars this month"
+      "stars": 7270,
+      "forks": 1515,
+      "added_stars": "233 stars this month"
     },
     {
       "title": "asciimoo / hister",
@@ -130,39 +100,19 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4484,
-      "forks": 193,
-      "added_stars": "1,905 stars this month"
+      "stars": 5027,
+      "forks": 211,
+      "added_stars": "2,948 stars this month"
     },
     {
-      "title": "bjarneo / cliamp",
-      "url": "https://github.com/bjarneo/cliamp",
-      "description": "cliamp - Terminal music player inspired by winamp",
+      "title": "seaweedfs / seaweedfs",
+      "url": "https://github.com/seaweedfs/seaweedfs",
+      "description": "SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4221,
-      "forks": 282,
-      "added_stars": "1,100 stars this month"
-    },
-    {
-      "title": "CarterPerez-dev / Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 7070,
-      "forks": 1035,
-      "added_stars": "1,987 stars this month"
-    },
-    {
-      "title": "milvus-io / milvus",
-      "url": "https://github.com/milvus-io/milvus",
-      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 46152,
-      "forks": 4256,
-      "added_stars": "539 stars this month"
+      "stars": 34822,
+      "forks": 3002,
+      "added_stars": "778 stars this month"
     },
     {
       "title": "SagerNet / sing-box",
@@ -170,9 +120,9 @@
       "description": "The universal proxy platform",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 38094,
-      "forks": 4616,
-      "added_stars": "1,147 stars this month"
+      "stars": 38118,
+      "forks": 4618,
+      "added_stars": "1,144 stars this month"
     },
     {
       "title": "siderolabs / talos",
@@ -180,49 +130,39 @@
       "description": "Talos Linux is a modern Linux distribution built for Kubernetes.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 11186,
-      "forks": 897,
-      "added_stars": "245 stars this month"
+      "stars": 11198,
+      "forks": 898,
+      "added_stars": "241 stars this month"
     },
     {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "title": "bjarneo / cliamp",
+      "url": "https://github.com/bjarneo/cliamp",
+      "description": "cliamp - Terminal music player inspired by winamp",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24682,
-      "forks": 3171,
-      "added_stars": "2,919 stars this month"
+      "stars": 4234,
+      "forks": 283,
+      "added_stars": "1,033 stars this month"
     },
     {
-      "title": "cloudflare / cloudflared",
-      "url": "https://github.com/cloudflare/cloudflared",
-      "description": "Cloudflare Tunnel client",
+      "title": "milvus-io / milvus",
+      "url": "https://github.com/milvus-io/milvus",
+      "description": "Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15696,
-      "forks": 1445,
-      "added_stars": "446 stars this month"
+      "stars": 46158,
+      "forks": 4257,
+      "added_stars": "534 stars this month"
     },
     {
-      "title": "microsoft / TypeScript",
-      "url": "https://github.com/microsoft/TypeScript",
-      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "title": "go-vikunja / vikunja",
+      "url": "https://github.com/go-vikunja/vikunja",
+      "description": "The task manager you actually own.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 111096,
-      "forks": 14200,
-      "added_stars": "1,130 stars this month"
-    },
-    {
-      "title": "vllm-project / semantic-router",
-      "url": "https://github.com/vllm-project/semantic-router",
-      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5855,
-      "forks": 950,
-      "added_stars": "689 stars this month"
+      "stars": 5456,
+      "forks": 695,
+      "added_stars": "392 stars this month"
     },
     {
       "title": "henrygd / beszel",
@@ -230,9 +170,69 @@
       "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25472,
-      "forks": 1021,
-      "added_stars": "1,185 stars this month"
+      "stars": 25511,
+      "forks": 1022,
+      "added_stars": "1,181 stars this month"
+    },
+    {
+      "title": "cloudflare / cloudflared",
+      "url": "https://github.com/cloudflare/cloudflared",
+      "description": "Cloudflare Tunnel client",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15740,
+      "forks": 1446,
+      "added_stars": "457 stars this month"
+    },
+    {
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 24728,
+      "forks": 3177,
+      "added_stars": "2,942 stars this month"
+    },
+    {
+      "title": "github / gh-aw",
+      "url": "https://github.com/github/gh-aw",
+      "description": "GitHub Agentic Workflows",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5151,
+      "forks": 545,
+      "added_stars": "222 stars this month"
+    },
+    {
+      "title": "go-task / task",
+      "url": "https://github.com/go-task/task",
+      "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16164,
+      "forks": 911,
+      "added_stars": "198 stars this month"
+    },
+    {
+      "title": "vllm-project / semantic-router",
+      "url": "https://github.com/vllm-project/semantic-router",
+      "description": "A programmable Mixture-of-Models router for heterogeneous LLM inference",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 5863,
+      "forks": 954,
+      "added_stars": "689 stars this month"
+    },
+    {
+      "title": "microsoft / TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 111110,
+      "forks": 14328,
+      "added_stars": "1,141 stars this month"
     }
   ]
 }

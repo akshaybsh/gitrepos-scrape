@@ -2,27 +2,47 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
   "items": [
-    {
-      "title": "dart-lang / sdk",
-      "url": "https://github.com/dart-lang/sdk",
-      "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 11285,
-      "forks": 1900,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "flutter / flutter",
       "url": "https://github.com/flutter/flutter",
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 178995,
-      "forks": 31493,
-      "added_stars": "29 stars today"
+      "stars": 179002,
+      "forks": 31622,
+      "added_stars": "17 stars today"
+    },
+    {
+      "title": "umr-xiaomai / kgka_Music_hl",
+      "url": "https://github.com/umr-xiaomai/kgka_Music_hl",
+      "description": "Flutter 开发的酷狗音乐客户端",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 555,
+      "forks": 40,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "KRTirtho / spotube",
+      "url": "https://github.com/KRTirtho/spotube",
+      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 49264,
+      "forks": 2297,
+      "added_stars": "31 stars today"
+    },
+    {
+      "title": "flutter / agent-plugins",
+      "url": "https://github.com/flutter/agent-plugins",
+      "description": "",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 2968,
+      "forks": 180,
+      "added_stars": "7 stars today"
     },
     {
       "title": "flutter / packages",
@@ -30,8 +50,8 @@
       "description": "A collection of useful packages maintained by the Flutter team",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 5310,
-      "forks": 3975,
+      "stars": 5311,
+      "forks": 3976,
       "added_stars": "1 star today"
     },
     {
@@ -40,39 +60,49 @@
       "description": "Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Meta Horizon OS, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、Meta Horizon OS、IOS、Windows、MacOS等系统。",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 1435,
+      "stars": 1440,
       "forks": 55,
       "added_stars": "4 stars today"
     },
     {
-      "title": "sdegenaar / liquid_glass_widgets",
-      "url": "https://github.com/sdegenaar/liquid_glass_widgets",
-      "description": "Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box.",
+      "title": "serverpod / serverpod",
+      "url": "https://github.com/serverpod/serverpod",
+      "description": "Serverpod is a next-generation app and web server, explicitly built for the Flutter and Dart ecosystem.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 630,
-      "forks": 91,
-      "added_stars": "6 stars today"
+      "stars": 3290,
+      "forks": 379,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "flutter / agent-plugins",
-      "url": "https://github.com/flutter/agent-plugins",
-      "description": "",
+      "title": "venera-app / venera",
+      "url": "https://github.com/venera-app/venera",
+      "description": "A comic app",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 2962,
-      "forks": 180,
-      "added_stars": "10 stars today"
+      "stars": 11028,
+      "forks": 604,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "Anxcye / anx-reader",
-      "url": "https://github.com/Anxcye/anx-reader",
-      "description": "Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.",
+      "title": "miru-project / miru-app",
+      "url": "https://github.com/miru-project/miru-app",
+      "description": "🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 8862,
-      "forks": 630,
-      "added_stars": "4 stars today"
+      "stars": 5636,
+      "forks": 248,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "hiddify / hiddify-app",
+      "url": "https://github.com/hiddify/hiddify-app",
+      "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 32795,
+      "forks": 3036,
+      "added_stars": "24 stars today"
     },
     {
       "title": "simonoppowa / OpenNutriTracker",
@@ -80,68 +110,28 @@
       "description": "🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 2546,
+      "stars": 2548,
       "forks": 347,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "Notsfsssf / pixez-flutter",
+      "url": "https://github.com/Notsfsssf/pixez-flutter",
+      "description": "一个支持免代理直连及查看动图的第三方Pixiv flutter客户端",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 12877,
+      "forks": 484,
       "added_stars": "8 stars today"
     },
     {
-      "title": "OpenStrap / edge",
-      "url": "https://github.com/OpenStrap/edge",
-      "description": "App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.",
+      "title": "FriesI23 / mhabit",
+      "url": "https://github.com/FriesI23/mhabit",
+      "description": "Open-source Flutter habit tracker with smart scoring, WebDAV sync, local-first storage, privacy-focused design, and support for Android, iOS, Windows, macOS, and Linux.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 592,
-      "forks": 101,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "TheLastGimbus / GooglePhotosTakeoutHelper",
-      "url": "https://github.com/TheLastGimbus/GooglePhotosTakeoutHelper",
-      "description": "Script that organizes the Google Takeout archive into one big chronological folder",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 5910,
-      "forks": 330,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "cake-tech / cake_wallet",
-      "url": "https://github.com/cake-tech/cake_wallet",
-      "description": "The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 1920,
-      "forks": 390,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "firebase / flutterfire",
-      "url": "https://github.com/firebase/flutterfire",
-      "description": "🔥 A collection of Firebase plugins for Flutter apps.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 9251,
-      "forks": 4118,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Aglglg / No-Reload-Mod-Manager",
-      "url": "https://github.com/Aglglg/No-Reload-Mod-Manager",
-      "description": "A tool to manage your XXMI mods",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 104,
-      "forks": 13,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "Spyou / Zangetsu",
-      "url": "https://github.com/Spyou/Zangetsu",
-      "description": "Free, open-source app for anime, movies, series, manga and light novels — on Android, Android TV and iOS (beta).",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 331,
-      "forks": 42,
+      "stars": 1576,
+      "forks": 95,
       "added_stars": "4 stars today"
     }
   ]

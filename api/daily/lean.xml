@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 18 Sep 2026 06:57:59 GMT</pubDate>
+  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
@@ -16,19 +16,24 @@
     <description>The math library of Lean 4</description>
   </item>
   <item>
-    <title>leanprover-community / mathlib3</title>
-    <link>https://github.com/leanprover-community/mathlib3</link>
-    <description>Lean 3&#x27;s obsolete mathematical components library: please use mathlib4</description>
+    <title>leanprover / cslib</title>
+    <link>https://github.com/leanprover/cslib</link>
+    <description>The Lean Computer Science Library (CSLib)</description>
   </item>
   <item>
-    <title>sunblaze-ucb / vero</title>
-    <link>https://github.com/sunblaze-ucb/vero</link>
+    <title>leanprover-community / plausible</title>
+    <link>https://github.com/leanprover-community/plausible</link>
     <description></description>
   </item>
   <item>
-    <title>teorth / analysis</title>
-    <link>https://github.com/teorth/analysis</link>
-    <description>A Lean companion to Analysis I</description>
+    <title>leanprover / lean4-cli</title>
+    <link>https://github.com/leanprover/lean4-cli</link>
+    <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
+  </item>
+  <item>
+    <title>leanprover-community / aesop</title>
+    <link>https://github.com/leanprover-community/aesop</link>
+    <description>White-box automation for Lean 4</description>
   </item>
 </channel>
 </rss>

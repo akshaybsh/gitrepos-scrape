@@ -2,37 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
   "items": [
     {
-      "title": "YimMenu / YimMenuV2",
-      "url": "https://github.com/YimMenu/YimMenuV2",
-      "description": "Experimental menu for GTA 5: Enhanced",
+      "title": "apache / arrow",
+      "url": "https://github.com/apache/arrow",
+      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1737,
-      "forks": 395,
-      "added_stars": "5 stars today"
+      "stars": 17138,
+      "forks": 4307,
+      "added_stars": "11 stars today"
     },
     {
-      "title": "keepassxreboot / keepassxc",
-      "url": "https://github.com/keepassxreboot/keepassxc",
-      "description": "KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.",
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 28843,
-      "forks": 1910,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "react / react-native",
-      "url": "https://github.com/react/react-native",
-      "description": "A framework for building native applications using React",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 126637,
-      "forks": 25277,
-      "added_stars": "13 stars today"
+      "stars": 41526,
+      "forks": 3804,
+      "added_stars": "76 stars today"
     },
     {
       "title": "Neroued / ninfer",
@@ -40,19 +30,9 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2045,
-      "forks": 374,
-      "added_stars": "71 stars today"
-    },
-    {
-      "title": "google / highway",
-      "url": "https://github.com/google/highway",
-      "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 5857,
-      "forks": 473,
-      "added_stars": "21 stars today"
+      "stars": 2105,
+      "forks": 386,
+      "added_stars": "81 stars today"
     },
     {
       "title": "microsoft / intelligent-terminal",
@@ -60,79 +40,19 @@
       "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1993,
-      "forks": 158,
-      "added_stars": "20 stars today"
+      "stars": 2002,
+      "forks": 159,
+      "added_stars": "15 stars today"
     },
     {
-      "title": "FEX-Emu / FEX",
-      "url": "https://github.com/FEX-Emu/FEX",
-      "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
+      "title": "dragonflydb / dragonfly",
+      "url": "https://github.com/dragonflydb/dragonfly",
+      "description": "A modern replacement for Redis and Memcached",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8037,
-      "forks": 353,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "catchorg / Catch2",
-      "url": "https://github.com/catchorg/Catch2",
-      "description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 21487,
-      "forks": 3502,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ROCm / rocm-systems",
-      "url": "https://github.com/ROCm/rocm-systems",
-      "description": "super repo for rocm systems projects",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 504,
-      "forks": 409,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "apache / arrow",
-      "url": "https://github.com/apache/arrow",
-      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 17136,
-      "forks": 4308,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "google / perfetto",
-      "url": "https://github.com/google/perfetto",
-      "description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6517,
-      "forks": 870,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "jbeder / yaml-cpp",
-      "url": "https://github.com/jbeder/yaml-cpp",
-      "description": "A YAML parser and emitter in C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6136,
-      "forks": 2194,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "esphome / esphome",
-      "url": "https://github.com/esphome/esphome",
-      "description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11700,
-      "forks": 5631,
-      "added_stars": "4 stars today"
+      "stars": 31605,
+      "forks": 1265,
+      "added_stars": "30 stars today"
     },
     {
       "title": "wazuh / wazuh",
@@ -140,38 +60,98 @@
       "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 16924,
-      "forks": 2489,
+      "stars": 16930,
+      "forks": 2490,
       "added_stars": "15 stars today"
     },
     {
-      "title": "PX4 / PX4-Autopilot",
-      "url": "https://github.com/PX4/PX4-Autopilot",
-      "description": "PX4 Autopilot Software",
+      "title": "nasa / fprime",
+      "url": "https://github.com/nasa/fprime",
+      "description": "F´ - A flight software and embedded systems framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12651,
-      "forks": 16038,
+      "stars": 11765,
+      "forks": 1821,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "WerWolv / ImHex",
+      "url": "https://github.com/WerWolv/ImHex",
+      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 54836,
+      "forks": 2458,
       "added_stars": "10 stars today"
     },
     {
-      "title": "microsoft / onnxruntime-genai",
-      "url": "https://github.com/microsoft/onnxruntime-genai",
-      "description": "Generative AI extensions for onnxruntime",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1123,
-      "forks": 353,
-      "added_stars": "1 star today"
+      "stars": 128770,
+      "forks": 23415,
+      "added_stars": "149 stars today"
     },
     {
-      "title": "fougue / mayo",
-      "url": "https://github.com/fougue/mayo",
-      "description": "3D CAD viewer and converter based on Qt + OpenCascade",
+      "title": "telegramdesktop / tdesktop",
+      "url": "https://github.com/telegramdesktop/tdesktop",
+      "description": "Telegram Desktop messaging app",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2212,
-      "forks": 359,
+      "stars": 32959,
+      "forks": 7222,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "k2-fsa / sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 14847,
+      "forks": 1708,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "Z3Prover / z3",
+      "url": "https://github.com/Z3Prover/z3",
+      "description": "The Z3 Theorem Prover",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12698,
+      "forks": 1690,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "protocolbuffers / protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "description": "Protocol Buffers - Google's data interchange format",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 72044,
+      "forks": 16292,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "gabime / spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "description": "Fast C++ logging library.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 29613,
+      "forks": 5396,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "kvcache-ai / Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6611,
+      "forks": 1243,
       "added_stars": "10 stars today"
     },
     {
@@ -180,19 +160,59 @@
       "description": "Community maintained hardware plugin for vLLM on Ascend",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2845,
-      "forks": 2295,
-      "added_stars": "5 stars today"
+      "stars": 2851,
+      "forks": 2305,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "Z3Prover / z3",
-      "url": "https://github.com/Z3Prover/z3",
-      "description": "The Z3 Theorem Prover",
+      "title": "microsoft / WSL",
+      "url": "https://github.com/microsoft/WSL",
+      "description": "Windows Subsystem for Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12695,
-      "forks": 1690,
-      "added_stars": "16 stars today"
+      "stars": 33729,
+      "forks": 1829,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "colmap / colmap",
+      "url": "https://github.com/colmap/colmap",
+      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 12759,
+      "forks": 2147,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "realsenseai / librealsense",
+      "url": "https://github.com/realsenseai/librealsense",
+      "description": "RealSense SDK",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 9029,
+      "forks": 5041,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "facebookresearch / faiss",
+      "url": "https://github.com/facebookresearch/faiss",
+      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 40933,
+      "forks": 4526,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "tenstorrent / tt-metal",
+      "url": "https://github.com/tenstorrent/tt-metal",
+      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 1684,
+      "forks": 695,
+      "added_stars": "2 stars today"
     }
   ]
 }

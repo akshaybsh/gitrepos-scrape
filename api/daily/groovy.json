@@ -2,46 +2,36 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:59 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
   "items": [
-    {
-      "title": "bregman-arie / devops-resources",
-      "url": "https://github.com/bregman-arie/devops-resources",
-      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 9700,
-      "forks": 2423,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "rundeck / rundeck",
-      "url": "https://github.com/rundeck/rundeck",
-      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 6302,
-      "forks": 987,
-      "added_stars": "4 stars today"
-    },
     {
       "title": "gradle / gradle",
       "url": "https://github.com/gradle/gradle",
       "description": "Adaptable, fast automation for all",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 18845,
-      "forks": 5334,
-      "added_stars": "2 stars today"
+      "stars": 18847,
+      "forks": 5335,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "apache / grails-core",
-      "url": "https://github.com/apache/grails-core",
-      "description": "Grails - the Web Application Framework",
+      "title": "bregman-arie / devops-resources",
+      "url": "https://github.com/bregman-arie/devops-resources",
+      "description": "DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 2930,
-      "forks": 975,
+      "stars": 9701,
+      "forks": 2423,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "NationalSecurityAgency / skills-service",
+      "url": "https://github.com/NationalSecurityAgency/skills-service",
+      "description": "SkillTree is a micro-learning gamification platform supporting the rapid integration of a gamified tool training approach into new and existing applications.",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 652,
+      "forks": 131,
       "added_stars": "0 stars today"
     },
     {
@@ -50,9 +40,29 @@
       "description": "A DSL for data-driven computational pipelines",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 3487,
+      "stars": 3488,
       "forks": 811,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "apache / groovy",
+      "url": "https://github.com/apache/groovy",
+      "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 5470,
+      "forks": 1916,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "rundeck / rundeck",
+      "url": "https://github.com/rundeck/rundeck",
+      "description": "Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 6305,
+      "forks": 987,
+      "added_stars": "3 stars today"
     }
   ]
 }

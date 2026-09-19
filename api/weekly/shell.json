@@ -2,27 +2,27 @@
   "title": "GitHub Shell Languages Daily Trending",
   "description": "Daily Trending of Shell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
   "items": [
-    {
-      "title": "obra / superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 288242,
-      "forks": 25784,
-      "added_stars": "3,821 stars this week"
-    },
     {
       "title": "kunchenguid / firstmate",
       "url": "https://github.com/kunchenguid/firstmate",
       "description": "Talk to one agent. Ship with a crew.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 6446,
-      "forks": 1971,
-      "added_stars": "890 stars this week"
+      "stars": 6590,
+      "forks": 2007,
+      "added_stars": "990 stars this week"
+    },
+    {
+      "title": "obra / superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 288600,
+      "forks": 25815,
+      "added_stars": "3,573 stars this week"
     },
     {
       "title": "msitarzewski / agency-agents",
@@ -30,19 +30,9 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 153226,
-      "forks": 24719,
-      "added_stars": "1,724 stars this week"
-    },
-    {
-      "title": "assafdori / bypass-mdm",
-      "url": "https://github.com/assafdori/bypass-mdm",
-      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 2352,
-      "forks": 546,
-      "added_stars": "106 stars this week"
+      "stars": 153430,
+      "forks": 24751,
+      "added_stars": "1,754 stars this week"
     },
     {
       "title": "jqssun / android-titanium-browser",
@@ -50,9 +40,29 @@
       "description": "Secure open-source Android browser with support for extensions",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2611,
-      "forks": 117,
-      "added_stars": "247 stars this week"
+      "stars": 2644,
+      "forks": 122,
+      "added_stars": "277 stars this week"
+    },
+    {
+      "title": "assafdori / bypass-mdm",
+      "url": "https://github.com/assafdori/bypass-mdm",
+      "description": "Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.3",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2354,
+      "forks": 547,
+      "added_stars": "70 stars this week"
+    },
+    {
+      "title": "tw93 / Mole",
+      "url": "https://github.com/tw93/Mole",
+      "description": "🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 67757,
+      "forks": 2383,
+      "added_stars": "911 stars this week"
     },
     {
       "title": "OthmanAdi / planning-with-files",
@@ -60,69 +70,9 @@
       "description": "Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, deterministic completion gate. Manus-style. Install from npm, the Claude Code plugin marketplace, or npx skills. Codex, Cursor, OpenCode, 60+ agents.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 26970,
-      "forks": 2246,
-      "added_stars": "216 stars this week"
-    },
-    {
-      "title": "awesome-jellyfin / awesome-jellyfin",
-      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
-      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 9313,
-      "forks": 300,
-      "added_stars": "98 stars this week"
-    },
-    {
-      "title": "MichaIng / DietPi",
-      "url": "https://github.com/MichaIng/DietPi",
-      "description": "Lightweight justice for your single-board computer!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6275,
-      "forks": 566,
-      "added_stars": "26 stars this week"
-    },
-    {
-      "title": "dockur / windows",
-      "url": "https://github.com/dockur/windows",
-      "description": "Windows inside a Docker container.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 53318,
-      "forks": 4820,
-      "added_stars": "122 stars this week"
-    },
-    {
-      "title": "VSCodium / vscodium",
-      "url": "https://github.com/VSCodium/vscodium",
-      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 33284,
-      "forks": 1865,
-      "added_stars": "119 stars this week"
-    },
-    {
-      "title": "MichaelCade / 90DaysOfDevOps",
-      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
-      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 29755,
-      "forks": 6757,
-      "added_stars": "39 stars this week"
-    },
-    {
-      "title": "amoghmunikote / cmpunlocker",
-      "url": "https://github.com/amoghmunikote/cmpunlocker",
-      "description": "A tool to unlobotomize your NVIDIA card!",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 653,
-      "forks": 236,
-      "added_stars": "72 stars this week"
+      "stars": 26984,
+      "forks": 2248,
+      "added_stars": "202 stars this week"
     },
     {
       "title": "expo / skills",
@@ -130,9 +80,69 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 2539,
-      "forks": 147,
-      "added_stars": "28 stars this week"
+      "stars": 2565,
+      "forks": 148,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "higgsfield-ai / cli",
+      "url": "https://github.com/higgsfield-ai/cli",
+      "description": "Higgsfield CLI",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 543,
+      "forks": 113,
+      "added_stars": "45 stars this week"
+    },
+    {
+      "title": "awesome-jellyfin / awesome-jellyfin",
+      "url": "https://github.com/awesome-jellyfin/awesome-jellyfin",
+      "description": "A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 9323,
+      "forks": 299,
+      "added_stars": "90 stars this week"
+    },
+    {
+      "title": "pi-hole / pi-hole",
+      "url": "https://github.com/pi-hole/pi-hole",
+      "description": "A black hole for Internet advertisements",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 60981,
+      "forks": 3317,
+      "added_stars": "143 stars this week"
+    },
+    {
+      "title": "cloudflare / skills",
+      "url": "https://github.com/cloudflare/skills",
+      "description": "Skills for teaching agents how to build on Cloudflare.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2862,
+      "forks": 284,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "PrismML-Eng / Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "description": "Bonsai Demo",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2699,
+      "forks": 281,
+      "added_stars": "364 stars this week"
+    },
+    {
+      "title": "VSCodium / vscodium",
+      "url": "https://github.com/VSCodium/vscodium",
+      "description": "binary releases of VS Code without MS branding/telemetry/licensing",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 33298,
+      "forks": 1866,
+      "added_stars": "120 stars this week"
     },
     {
       "title": "pi-hole / docker-pi-hole",
@@ -140,19 +150,49 @@
       "description": "The official Pi-hole Docker image from pi-hole.net",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 11585,
-      "forks": 1249,
-      "added_stars": "51 stars this week"
+      "stars": 11592,
+      "forks": 1247,
+      "added_stars": "53 stars this week"
     },
     {
-      "title": "mattpocock / skills",
-      "url": "https://github.com/mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "title": "github / copilot-cli",
+      "url": "https://github.com/github/copilot-cli",
+      "description": "GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.",
       "language": "Shell",
       "languageColor": "#89e051",
-      "stars": 264731,
-      "forks": 22324,
-      "added_stars": "5,890 stars this week"
+      "stars": 11183,
+      "forks": 1930,
+      "added_stars": "36 stars this week"
+    },
+    {
+      "title": "amoghmunikote / cmpunlocker",
+      "url": "https://github.com/amoghmunikote/cmpunlocker",
+      "description": "A tool to unlobotomize your NVIDIA card!",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 658,
+      "forks": 238,
+      "added_stars": "76 stars this week"
+    },
+    {
+      "title": "aditya-shri / VPN",
+      "url": "https://github.com/aditya-shri/VPN",
+      "description": "Personal VPN using Shadowsocks and v2ray",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 2159,
+      "forks": 1417,
+      "added_stars": "35 stars this week"
+    },
+    {
+      "title": "MichaelCade / 90DaysOfDevOps",
+      "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+      "description": "This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 29759,
+      "forks": 6757,
+      "added_stars": "39 stars this week"
     }
   ]
 }

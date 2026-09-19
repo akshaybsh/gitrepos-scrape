@@ -4,11 +4,16 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 18 Sep 2026 07:02:27 GMT</pubDate>
+  <pubDate>Sat, 19 Sep 2026 07:01:42 GMT</pubDate>
   <item>
     <title>jgm / pandoc</title>
     <link>https://github.com/jgm/pandoc</link>
     <description>Universal markup converter</description>
+  </item>
+  <item>
+    <title>PostgREST / postgrest</title>
+    <link>https://github.com/PostgREST/postgrest</link>
+    <description>REST API for any Postgres database</description>
   </item>
   <item>
     <title>koalaman / shellcheck</title>
@@ -31,29 +36,14 @@
     <description>Official upstream development repository for Cabal and cabal-install</description>
   </item>
   <item>
-    <title>IntersectMBO / cardano-ledger</title>
-    <link>https://github.com/IntersectMBO/cardano-ledger</link>
-    <description>The ledger implementation and specifications of the Cardano blockchain.</description>
-  </item>
-  <item>
-    <title>nammayatri / nammayatri</title>
-    <link>https://github.com/nammayatri/nammayatri</link>
-    <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
-  </item>
-  <item>
-    <title>haskell / haskell-language-server</title>
-    <link>https://github.com/haskell/haskell-language-server</link>
-    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
-  </item>
-  <item>
     <title>IntersectMBO / cardano-node</title>
     <link>https://github.com/IntersectMBO/cardano-node</link>
     <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
   </item>
   <item>
-    <title>PostgREST / postgrest</title>
-    <link>https://github.com/PostgREST/postgrest</link>
-    <description>REST API for any Postgres database</description>
+    <title>haskell / haskell-language-server</title>
+    <link>https://github.com/haskell/haskell-language-server</link>
+    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
   </item>
   <item>
     <title>mtolly / onyx</title>
@@ -66,9 +56,14 @@
     <description>🇪🇺 Wire back-end services</description>
   </item>
   <item>
-    <title>IntersectMBO / ouroboros-consensus</title>
-    <link>https://github.com/IntersectMBO/ouroboros-consensus</link>
-    <description>Implementation of a Consensus Layer for the Ouroboros family of protocols</description>
+    <title>nammayatri / nammayatri</title>
+    <link>https://github.com/nammayatri/nammayatri</link>
+    <description>A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</description>
+  </item>
+  <item>
+    <title>IntersectMBO / cardano-ledger</title>
+    <link>https://github.com/IntersectMBO/cardano-ledger</link>
+    <description>The ledger implementation and specifications of the Cardano blockchain.</description>
   </item>
   <item>
     <title>simplex-chat / simplexmq</title>
@@ -94,6 +89,11 @@
     <title>therepanic / openleetcode</title>
     <link>https://github.com/therepanic/openleetcode</link>
     <description>we have democratized the LeetCode tests</description>
+  </item>
+  <item>
+    <title>fossas / fossa-cli</title>
+    <link>https://github.com/fossas/fossa-cli</link>
+    <description>Fast, portable and reliable dependency analysis for any codebase. Supports license &amp; vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.</description>
   </item>
 </channel>
 </rss>

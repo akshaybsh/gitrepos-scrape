@@ -4,21 +4,16 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 18 Sep 2026 06:57:59 GMT</pubDate>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
-  </item>
+  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-cloud-storage</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-cloud-storage</link>
-    <description>Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users</description>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
@@ -26,24 +21,19 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
-    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
-  </item>
-  <item>
     <title>terraform-aws-modules / terraform-aws-lambda</title>
     <link>https://github.com/terraform-aws-modules/terraform-aws-lambda</link>
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-ecs</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
-    <description>Terraform module to create AWS ECS resources 🇺🇦</description>
+    <title>terraform-google-modules / terraform-google-cloud-storage</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-cloud-storage</link>
+    <description>Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
-    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
+    <title>ministryofjustice / cloud-platform-environments</title>
+    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
+    <description>Environment configuration for the Cloud Platform</description>
   </item>
   <item>
     <title>cloudposse / terraform-aws-ecs-container-definition</title>
@@ -51,9 +41,29 @@
     <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
   </item>
   <item>
-    <title>terraform-google-modules / terraform-google-project-factory</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-project-factory</link>
-    <description>Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</description>
+    <title>terraform-aws-modules / terraform-aws-s3-bucket</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</link>
+    <description>Terraform module to create AWS S3 resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-aws-modules / terraform-aws-ecs</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-ecs</link>
+    <description>Terraform module to create AWS ECS resources 🇺🇦</description>
+  </item>
+  <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
+  </item>
+  <item>
+    <title>DataDog / serverless-sample-app</title>
+    <link>https://github.com/DataDog/serverless-sample-app</link>
+    <description>Explore Datadog&#x27;s serverless observability features with this sample app.</description>
+  </item>
+  <item>
+    <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
+    <link>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</link>
+    <description>Terraform Azure Verified Resource Module for Storage Account</description>
   </item>
 </channel>
 </rss>

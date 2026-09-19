@@ -2,27 +2,27 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
   "items": [
-    {
-      "title": "abue-ammar / tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 6247,
-      "forks": 288,
-      "added_stars": "3,393 stars this week"
-    },
     {
       "title": "peetzweg / opendisplay",
       "url": "https://github.com/peetzweg/opendisplay",
       "description": "Free, open-source Sidecar/Duet alternative — use your iPhone, iPad or Mac as a true second monitor for your primary Mac over USB or WiFi. Low latency H.264, Retina HiDPI, touch input.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 4533,
-      "forks": 297,
-      "added_stars": "1,666 stars this week"
+      "stars": 4575,
+      "forks": 303,
+      "added_stars": "1,699 stars this week"
+    },
+    {
+      "title": "abue-ammar / tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 6513,
+      "forks": 301,
+      "added_stars": "3,590 stars this week"
     },
     {
       "title": "Lakr233 / vphone-cli",
@@ -30,9 +30,9 @@
       "description": "",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 13823,
-      "forks": 1632,
-      "added_stars": "2,336 stars this week"
+      "stars": 13907,
+      "forks": 1646,
+      "added_stars": "2,309 stars this week"
     },
     {
       "title": "dwarvesf / hidden",
@@ -40,9 +40,9 @@
       "description": "An ultra-light MacOS utility that helps hide menu bar icons",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14817,
-      "forks": 496,
-      "added_stars": "131 stars this week"
+      "stars": 14833,
+      "forks": 500,
+      "added_stars": "147 stars this week"
     },
     {
       "title": "FrizzleM / SideInstaller",
@@ -50,8 +50,8 @@
       "description": "An an app that installs Sidestore on iOS 27, fully on-device",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 760,
-      "forks": 66,
+      "stars": 766,
+      "forks": 67,
       "added_stars": "117 stars this week"
     },
     {
@@ -60,9 +60,9 @@
       "description": "🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 34219,
+      "stars": 34224,
       "forks": 1008,
-      "added_stars": "87 stars this week"
+      "added_stars": "90 stars this week"
     },
     {
       "title": "steipete / CodexBar",
@@ -70,49 +70,9 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 21592,
-      "forks": 1957,
-      "added_stars": "390 stars this week"
-    },
-    {
-      "title": "iFurySt / open-codex-computer-use",
-      "url": "https://github.com/iFurySt/open-codex-computer-use",
-      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 2119,
-      "forks": 190,
-      "added_stars": "119 stars this week"
-    },
-    {
-      "title": "LiveContainer / LiveContainer",
-      "url": "https://github.com/LiveContainer/LiveContainer",
-      "description": "Run iOS apps without actually installing them!",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 12233,
-      "forks": 1020,
-      "added_stars": "204 stars this week"
-    },
-    {
-      "title": "TheBoredTeam / boring.notch",
-      "url": "https://github.com/TheBoredTeam/boring.notch",
-      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 10773,
-      "forks": 1019,
-      "added_stars": "96 stars this week"
-    },
-    {
-      "title": "jordanbaird / Ice",
-      "url": "https://github.com/jordanbaird/Ice",
-      "description": "Powerful menu bar manager for macOS",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 29662,
-      "forks": 928,
-      "added_stars": "119 stars this week"
+      "stars": 21623,
+      "forks": 1964,
+      "added_stars": "385 stars this week"
     },
     {
       "title": "PlayCover / PlayCover",
@@ -120,9 +80,69 @@
       "description": "Community fork of PlayCover",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 11757,
+      "stars": 11766,
       "forks": 989,
-      "added_stars": "44 stars this week"
+      "added_stars": "52 stars this week"
+    },
+    {
+      "title": "momenbasel / PureMac",
+      "url": "https://github.com/momenbasel/PureMac",
+      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 6554,
+      "forks": 360,
+      "added_stars": "191 stars this week"
+    },
+    {
+      "title": "yonaskolb / XcodeGen",
+      "url": "https://github.com/yonaskolb/XcodeGen",
+      "description": "A Swift command line tool for generating your Xcode project",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 8787,
+      "forks": 908,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "osaurus-ai / osaurus",
+      "url": "https://github.com/osaurus-ai/osaurus",
+      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 7970,
+      "forks": 473,
+      "added_stars": "97 stars this week"
+    },
+    {
+      "title": "TheBoredTeam / boring.notch",
+      "url": "https://github.com/TheBoredTeam/boring.notch",
+      "description": "TheBoringNotch: Not so boring notch That Rocks 🎸🎶",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 10784,
+      "forks": 1022,
+      "added_stars": "99 stars this week"
+    },
+    {
+      "title": "jordanbaird / Ice",
+      "url": "https://github.com/jordanbaird/Ice",
+      "description": "Powerful menu bar manager for macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 29671,
+      "forks": 929,
+      "added_stars": "122 stars this week"
+    },
+    {
+      "title": "iFurySt / open-codex-computer-use",
+      "url": "https://github.com/iFurySt/open-codex-computer-use",
+      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2130,
+      "forks": 190,
+      "added_stars": "108 stars this week"
     },
     {
       "title": "onevcat / Kingfisher",
@@ -132,27 +152,27 @@
       "languageColor": "#F05138",
       "stars": 24404,
       "forks": 2772,
-      "added_stars": "14 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
-      "title": "farzaa / clicky",
-      "url": "https://github.com/farzaa/clicky",
-      "description": "",
+      "title": "openai / tart",
+      "url": "https://github.com/openai/tart",
+      "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7574,
-      "forks": 1492,
-      "added_stars": "55 stars this week"
+      "stars": 6810,
+      "forks": 367,
+      "added_stars": "75 stars this week"
     },
     {
-      "title": "momenbasel / PureMac",
-      "url": "https://github.com/momenbasel/PureMac",
-      "description": "Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.",
+      "title": "exelban / stats",
+      "url": "https://github.com/exelban/stats",
+      "description": "macOS system monitor in your menu bar",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 6533,
-      "forks": 358,
-      "added_stars": "192 stars this week"
+      "stars": 41947,
+      "forks": 1539,
+      "added_stars": "227 stars this week"
     },
     {
       "title": "jaywcjlove / awesome-mac",
@@ -160,39 +180,19 @@
       "description": " This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 114058,
-      "forks": 8874,
-      "added_stars": "589 stars this week"
+      "stars": 114134,
+      "forks": 8883,
+      "added_stars": "564 stars this week"
     },
     {
-      "title": "osaurus-ai / osaurus",
-      "url": "https://github.com/osaurus-ai/osaurus",
-      "description": "Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.",
+      "title": "manaflow-ai / cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 7963,
-      "forks": 471,
-      "added_stars": "140 stars this week"
-    },
-    {
-      "title": "Alamofire / Alamofire",
-      "url": "https://github.com/Alamofire/Alamofire",
-      "description": "Elegant HTTP Networking in Swift",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 42419,
-      "forks": 7657,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "vsouza / awesome-ios",
-      "url": "https://github.com/vsouza/awesome-ios",
-      "description": "A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 53385,
-      "forks": 7008,
-      "added_stars": "79 stars this week"
+      "stars": 27247,
+      "forks": 2375,
+      "added_stars": "255 stars this week"
     }
   ]
 }

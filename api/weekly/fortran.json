@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
   "items": [
     {
       "title": "E3SM-Project / E3SM",
@@ -12,7 +12,17 @@
       "languageColor": "#4d41b1",
       "stars": 441,
       "forks": 481,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "firemodels / fds",
+      "url": "https://github.com/firemodels/fds",
+      "description": "Fire Dynamics Simulator",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 876,
+      "forks": 689,
+      "added_stars": "4 stars this week"
     },
     {
       "title": "OpenFAST / openfast",
@@ -25,24 +35,34 @@
       "added_stars": "3 stars this week"
     },
     {
-      "title": "firemodels / fds",
-      "url": "https://github.com/firemodels/fds",
-      "description": "Fire Dynamics Simulator",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 876,
-      "forks": 689,
-      "added_stars": "5 stars this week"
-    },
-    {
       "title": "wrf-model / WRF",
       "url": "https://github.com/wrf-model/WRF",
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1762,
+      "stars": 1763,
       "forks": 882,
       "added_stars": "11 stars this week"
+    },
+    {
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1706,
+      "forks": 397,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1209,
+      "forks": 500,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "JuliaPackaging / Yggdrasil",
@@ -51,28 +71,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 406,
-      "forks": 762,
+      "forks": 763,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1707,
-      "forks": 397,
-      "added_stars": "8 stars this week"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1208,
-      "forks": 500,
-      "added_stars": "5 stars this week"
     },
     {
       "title": "MFlowCode / MFC",
@@ -82,7 +82,7 @@
       "languageColor": "#4d41b1",
       "stars": 421,
       "forks": 174,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     }
   ]
 }

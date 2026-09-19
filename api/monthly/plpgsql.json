@@ -2,7 +2,7 @@
   "title": "GitHub Plpgsql Languages Daily Trending",
   "description": "Daily Trending of Plpgsql Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:02:27 GMT",
+  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
   "items": [
     {
       "title": "DataDog / storedog",
@@ -15,24 +15,24 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "pgpartman / pg_partman",
-      "url": "https://github.com/pgpartman/pg_partman",
-      "description": "Partition management extension for PostgreSQL",
-      "language": "PLpgSQL",
-      "languageColor": "#336790",
-      "stars": 2823,
-      "forks": 316,
-      "added_stars": "33 stars this month"
-    },
-    {
       "title": "guchengwuyue / yshop-drink",
       "url": "https://github.com/guchengwuyue/yshop-drink",
       "description": "yshop意象点餐(扫码点餐)系统，在线点餐(外卖与自取)小程序模式，支持多门店模式，支持saas多租户模式，基础技术Java17+sprringboot3+vue3+uniapp(vue3)（支持H5、微信小程序） 采用当前流行技术组合的前后端分离点餐系统： SpringBoot3、Spring Security OAuth2、MybatisPlus、SpringSecurity、jwt、redis、Vue3的前后端分离的系统",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 1583,
+      "stars": 1584,
       "forks": 399,
       "added_stars": "60 stars this month"
+    },
+    {
+      "title": "pgpartman / pg_partman",
+      "url": "https://github.com/pgpartman/pg_partman",
+      "description": "Partition management extension for PostgreSQL",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 2824,
+      "forks": 316,
+      "added_stars": "33 stars this month"
     },
     {
       "title": "openmaptiles / openmaptiles",
@@ -40,9 +40,19 @@
       "description": "OpenMapTiles Vector Tile Schema Implementation",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 3165,
+      "stars": 3166,
       "forks": 675,
-      "added_stars": "29 stars this month"
+      "added_stars": "28 stars this month"
+    },
+    {
+      "title": "NikolayS / PgQue",
+      "url": "https://github.com/NikolayS/PgQue",
+      "description": "PgQue – Zero-bloat Postgres queue built on top of on battle-proven Skype's PgQ. One SQL file to install, pg_cron to tick https://pgque.dev",
+      "language": "PLpgSQL",
+      "languageColor": "#336790",
+      "stars": 1829,
+      "forks": 41,
+      "added_stars": "39 stars this month"
     },
     {
       "title": "TryGhost / node-sqlite3",
@@ -50,7 +60,7 @@
       "description": "SQLite3 bindings for Node.js",
       "language": "PLpgSQL",
       "languageColor": "#336790",
-      "stars": 6416,
+      "stars": 6415,
       "forks": 850,
       "added_stars": "1 star this month"
     }

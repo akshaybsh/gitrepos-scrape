@@ -2,37 +2,27 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:00:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
   "items": [
-    {
-      "title": "mksglu / context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 23435,
-      "forks": 1686,
-      "added_stars": "1,482 stars this week"
-    },
     {
       "title": "anthropics / claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 145968,
-      "forks": 23658,
-      "added_stars": "1,294 stars this week"
+      "stars": 146418,
+      "forks": 23821,
+      "added_stars": "1,620 stars this week"
     },
     {
-      "title": "danny-avila / LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "title": "mksglu / context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 44260,
-      "forks": 9097,
-      "added_stars": "1,421 stars this week"
+      "stars": 23578,
+      "forks": 1699,
+      "added_stars": "1,398 stars this week"
     },
     {
       "title": "stablyai / orca",
@@ -40,29 +30,9 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 71336,
-      "forks": 4670,
-      "added_stars": "5,305 stars this week"
-    },
-    {
-      "title": "vastsa / PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4203,
-      "forks": 351,
-      "added_stars": "1,939 stars this week"
-    },
-    {
-      "title": "microsoft / vscode",
-      "url": "https://github.com/microsoft/vscode",
-      "description": "Visual Studio Code",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 192636,
-      "forks": 42571,
-      "added_stars": "1,442 stars this week"
+      "stars": 72135,
+      "forks": 4720,
+      "added_stars": "5,272 stars this week"
     },
     {
       "title": "heygen-com / hyperframes",
@@ -70,9 +40,19 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 51152,
-      "forks": 4661,
-      "added_stars": "2,400 stars this week"
+      "stars": 51468,
+      "forks": 4688,
+      "added_stars": "2,401 stars this week"
+    },
+    {
+      "title": "danny-avila / LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 44348,
+      "forks": 9112,
+      "added_stars": "1,528 stars this week"
     },
     {
       "title": "supabase / supabase",
@@ -80,39 +60,29 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 109935,
-      "forks": 14177,
-      "added_stars": "1,016 stars this week"
+      "stars": 110220,
+      "forks": 14329,
+      "added_stars": "1,152 stars this week"
     },
     {
-      "title": "vercel-labs / skills",
-      "url": "https://github.com/vercel-labs/skills",
-      "description": "The open agent skills tool - npx skills",
+      "title": "vastsa / PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 31908,
-      "forks": 2725,
-      "added_stars": "821 stars this week"
+      "stars": 4407,
+      "forks": 369,
+      "added_stars": "1,661 stars this week"
     },
     {
-      "title": "alsk1992 / CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 2761,
-      "forks": 336,
-      "added_stars": "1,222 stars this week"
-    },
-    {
-      "title": "ever-co / ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 7650,
-      "forks": 1136,
-      "added_stars": "3,332 stars this week"
+      "stars": 68720,
+      "forks": 7428,
+      "added_stars": "1,090 stars this week"
     },
     {
       "title": "melgarafael / DeskcommCRM",
@@ -120,9 +90,9 @@
       "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3105,
-      "forks": 764,
-      "added_stars": "2,179 stars this week"
+      "stars": 3235,
+      "forks": 789,
+      "added_stars": "2,089 stars this week"
     },
     {
       "title": "reconurge / flowsint",
@@ -130,49 +100,9 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8776,
-      "forks": 1069,
-      "added_stars": "1,145 stars this week"
-    },
-    {
-      "title": "nab138 / iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3415,
-      "forks": 235,
-      "added_stars": "698 stars this week"
-    },
-    {
-      "title": "nashsu / llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
-      "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 19703,
-      "forks": 2224,
-      "added_stars": "1,718 stars this week"
-    },
-    {
-      "title": "microsoft / AI-Engineering-Coach",
-      "url": "https://github.com/microsoft/AI-Engineering-Coach",
-      "description": "better agentic engineering",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4230,
-      "forks": 582,
-      "added_stars": "565 stars this week"
-    },
-    {
-      "title": "langwatch / langwatch",
-      "url": "https://github.com/langwatch/langwatch",
-      "description": "The platform for LLM evaluations and AI agent testing",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4813,
-      "forks": 393,
-      "added_stars": "1,287 stars this week"
+      "stars": 8814,
+      "forks": 1074,
+      "added_stars": "1,171 stars this week"
     },
     {
       "title": "Tencent / BrowserSkill",
@@ -180,19 +110,19 @@
       "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4598,
-      "forks": 322,
-      "added_stars": "2,157 stars this week"
+      "stars": 5474,
+      "forks": 378,
+      "added_stars": "3,242 stars this week"
     },
     {
-      "title": "Tencent / teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "description": "Make Every Team AI Native",
+      "title": "langwatch / langwatch",
+      "url": "https://github.com/langwatch/langwatch",
+      "description": "The platform for LLM evaluations and AI agent testing",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4739,
-      "forks": 336,
-      "added_stars": "1,021 stars this week"
+      "stars": 4816,
+      "forks": 394,
+      "added_stars": "1,289 stars this week"
     },
     {
       "title": "jamiepine / voicebox",
@@ -200,9 +130,59 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 54968,
-      "forks": 6834,
-      "added_stars": "2,058 stars this week"
+      "stars": 55129,
+      "forks": 6867,
+      "added_stars": "2,281 stars this week"
+    },
+    {
+      "title": "alsk1992 / CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 2777,
+      "forks": 333,
+      "added_stars": "741 stars this week"
+    },
+    {
+      "title": "OpenHands / OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 88471,
+      "forks": 11620,
+      "added_stars": "1,020 stars this week"
+    },
+    {
+      "title": "nab138 / iloader",
+      "url": "https://github.com/nab138/iloader",
+      "description": "User friendly sideloader",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3435,
+      "forks": 237,
+      "added_stars": "618 stars this week"
+    },
+    {
+      "title": "wechaty / wechaty",
+      "url": "https://github.com/wechaty/wechaty",
+      "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 23286,
+      "forks": 2882,
+      "added_stars": "196 stars this week"
+    },
+    {
+      "title": "NangoHQ / nango",
+      "url": "https://github.com/NangoHQ/nango",
+      "description": "Build product integrations with AI.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12239,
+      "forks": 1358,
+      "added_stars": "462 stars this week"
     }
   ]
 }

@@ -4,11 +4,21 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 18 Sep 2026 06:57:59 GMT</pubDate>
+  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
   <item>
     <title>alibaba / open-code-review</title>
     <link>https://github.com/alibaba/open-code-review</link>
-    <description>Fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+    <description>Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+  </item>
+  <item>
+    <title>coder / coder</title>
+    <link>https://github.com/coder/coder</link>
+    <description>Secure environments for developers and their agents</description>
+  </item>
+  <item>
+    <title>asciimoo / hister</title>
+    <link>https://github.com/asciimoo/hister</link>
+    <description>Your own search engine</description>
   </item>
   <item>
     <title>Tencent / WeKnora</title>
@@ -21,9 +31,9 @@
     <description>eBPF-based Networking, Security, and Observability</description>
   </item>
   <item>
-    <title>coder / coder</title>
-    <link>https://github.com/coder/coder</link>
-    <description>Secure environments for developers and their agents</description>
+    <title>felinics / Memoh</title>
+    <link>https://github.com/felinics/Memoh</link>
+    <description>✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.</description>
   </item>
   <item>
     <title>JuliusBrussee / caveman</title>
@@ -31,19 +41,9 @@
     <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
   </item>
   <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
-  </item>
-  <item>
-    <title>e2b-dev / runtime</title>
-    <link>https://github.com/e2b-dev/runtime</link>
-    <description>The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.</description>
-  </item>
-  <item>
-    <title>tailscale / tailcat</title>
-    <link>https://github.com/tailscale/tailcat</link>
-    <description>like netcat, but over Tailscale&#x27;s data plane, without Tailscale&#x27;s control plane</description>
+    <title>weave-os / router</title>
+    <link>https://github.com/weave-os/router</link>
+    <description>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.</description>
   </item>
   <item>
     <title>junegunn / fzf</title>
@@ -51,64 +51,69 @@
     <description>🌸 A command-line fuzzy finder</description>
   </item>
   <item>
-    <title>larksuite / cli</title>
-    <link>https://github.com/larksuite/cli</link>
-    <description>The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills.</description>
-  </item>
-  <item>
     <title>microsoft / TypeScript</title>
     <link>https://github.com/microsoft/TypeScript</link>
     <description>TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</description>
   </item>
   <item>
-    <title>getarcaneapp / arcane</title>
-    <link>https://github.com/getarcaneapp/arcane</link>
-    <description>Modern Docker Management, Designed for Everyone</description>
+    <title>multica-ai / multica</title>
+    <link>https://github.com/multica-ai/multica</link>
+    <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
   </item>
   <item>
-    <title>gastownhall / beads</title>
-    <link>https://github.com/gastownhall/beads</link>
-    <description>Beads - A memory upgrade for your coding agent</description>
+    <title>kubernetes-sigs / kueue</title>
+    <link>https://github.com/kubernetes-sigs/kueue</link>
+    <description>Kubernetes-native Job Queueing</description>
   </item>
   <item>
-    <title>evcc-io / evcc</title>
-    <link>https://github.com/evcc-io/evcc</link>
-    <description>solar charging ☀️🚘</description>
+    <title>alibaba / skill-up</title>
+    <link>https://github.com/alibaba/skill-up</link>
+    <description>An evaluation and evolution tool for Agent Skills.</description>
   </item>
   <item>
-    <title>golang / go</title>
-    <link>https://github.com/golang/go</link>
-    <description>The Go programming language</description>
+    <title>fleetdm / fleet</title>
+    <link>https://github.com/fleetdm/fleet</link>
+    <description>Open device management</description>
   </item>
   <item>
-    <title>seaweedfs / seaweedfs</title>
-    <link>https://github.com/seaweedfs/seaweedfs</link>
-    <description>SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.</description>
+    <title>router-for-me / CLIProxyAPI</title>
+    <link>https://github.com/router-for-me/CLIProxyAPI</link>
+    <description>Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API</description>
   </item>
   <item>
-    <title>temporalio / temporal</title>
-    <link>https://github.com/temporalio/temporal</link>
-    <description>Temporal service</description>
+    <title>mikefarah / yq</title>
+    <link>https://github.com/mikefarah/yq</link>
+    <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
   </item>
   <item>
-    <title>nats-io / nats-server</title>
-    <link>https://github.com/nats-io/nats-server</link>
-    <description>High-Performance server for NATS.io, the cloud and edge native messaging system.</description>
+    <title>kunchenguid / no-mistakes</title>
+    <link>https://github.com/kunchenguid/no-mistakes</link>
+    <description>git push no-mistakes</description>
   </item>
   <item>
-    <title>open-telemetry / opentelemetry-collector-contrib</title>
-    <link>https://github.com/open-telemetry/opentelemetry-collector-contrib</link>
-    <description>Contrib repository for the OpenTelemetry Collector</description>
+    <title>github / gh-aw</title>
+    <link>https://github.com/github/gh-aw</link>
+    <description>GitHub Agentic Workflows</description>
   </item>
   <item>
-    <title>Gentleman-Programming / gentle-ai</title>
-    <link>https://github.com/Gentleman-Programming/gentle-ai</link>
-    <description>Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Spec-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.</description>
+    <title>goharbor / harbor</title>
+    <link>https://github.com/goharbor/harbor</link>
+    <description>An open source trusted cloud native registry project that stores, signs, and scans content.</description>
   </item>
   <item>
-    <title>hashicorp / terraform</title>
-    <link>https://github.com/hashicorp/terraform</link>
-    <description>Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</description>
+    <title>Wei-Shaw / sub2api</title>
+    <link>https://github.com/Wei-Shaw/sub2api</link>
+    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+  </item>
+  <item>
+    <title>guohuiyuan / go-music-dl</title>
+    <link>https://github.com/guohuiyuan/go-music-dl</link>
+    <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
+  </item>
+  <item>
+    <title>prometheus / alertmanager</title>
+    <link>https://github.com/prometheus/alertmanager</link>
+    <description>Prometheus Alertmanager</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 07:02:27 GMT",
+  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27468,
-      "forks": 7729,
-      "added_stars": "128 stars this month"
+      "stars": 27472,
+      "forks": 7732,
+      "added_stars": "130 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -21,8 +21,18 @@
       "language": "CMake",
       "languageColor": "#DA3434",
       "stars": 1754,
-      "forks": 255,
-      "added_stars": "51 stars this month"
+      "forks": 254,
+      "added_stars": "52 stars this month"
+    },
+    {
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1655,
+      "forks": 131,
+      "added_stars": "38 stars this month"
     },
     {
       "title": "OpenMoonRay / openmoonray",
@@ -32,17 +42,7 @@
       "languageColor": "#DA3434",
       "stars": 4726,
       "forks": 317,
-      "added_stars": "16 stars this month"
-    },
-    {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1653,
-      "forks": 130,
-      "added_stars": "38 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "corrosion-rs / corrosion",
@@ -52,7 +52,7 @@
       "languageColor": "#DA3434",
       "stars": 1498,
       "forks": 150,
-      "added_stars": "18 stars this month"
+      "added_stars": "16 stars this month"
     },
     {
       "title": "arsenm / sanitizers-cmake",
@@ -70,19 +70,9 @@
       "description": "Official KiCad Footprint Libraries for Kicad version 5",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 689,
+      "stars": 690,
       "forks": 703,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "steinbergmedia / vst3sdk",
-      "url": "https://github.com/steinbergmedia/vst3sdk",
-      "description": "VST 3 Plug-In SDK",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 2359,
-      "forks": 228,
-      "added_stars": "31 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
       "title": "ecmwf / ecbuild",
@@ -95,6 +85,16 @@
       "added_stars": "0 stars this month"
     },
     {
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2359,
+      "forks": 228,
+      "added_stars": "32 stars this month"
+    },
+    {
       "title": "Andersama / obs-asio",
       "url": "https://github.com/Andersama/obs-asio",
       "description": "ASIO plugin for OBS-Studio",
@@ -105,14 +105,24 @@
       "added_stars": "9 stars this month"
     },
     {
+      "title": "jrl-umi3218 / jrl-cmakemodules",
+      "url": "https://github.com/jrl-umi3218/jrl-cmakemodules",
+      "description": "CMake utility toolbox",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 78,
+      "forks": 58,
+      "added_stars": "0 stars this month"
+    },
+    {
       "title": "KiCad / kicad-symbols",
       "url": "https://github.com/KiCad/kicad-symbols",
       "description": "Official KiCad schematic symbol libraries for Kicad 5",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 766,
-      "forks": 723,
-      "added_stars": "3 stars this month"
+      "stars": 767,
+      "forks": 724,
+      "added_stars": "4 stars this month"
     }
   ]
 }
