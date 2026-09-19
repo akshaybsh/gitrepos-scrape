@@ -2,8 +2,18 @@
   "title": "GitHub Tcl Languages Daily Trending",
   "description": "Daily Trending of Tcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:52:18 GMT",
   "items": [
+    {
+      "title": "analogdevicesinc / hdl",
+      "url": "https://github.com/analogdevicesinc/hdl",
+      "description": "HDL libraries and projects",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 2016,
+      "forks": 1685,
+      "added_stars": "1 star today"
+    },
     {
       "title": "Digilent / digilent-xdc",
       "url": "https://github.com/Digilent/digilent-xdc",
@@ -15,24 +25,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "analogdevicesinc / hdl",
-      "url": "https://github.com/analogdevicesinc/hdl",
-      "description": "HDL libraries and projects",
+      "title": "macports / macports-ports",
+      "url": "https://github.com/macports/macports-ports",
+      "description": "The MacPorts ports tree",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": 2016,
-      "forks": 1684,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "macports / macports-base",
-      "url": "https://github.com/macports/macports-base",
-      "description": "The MacPorts command-line client",
-      "language": "Tcl",
-      "languageColor": "#e4cc98",
-      "stars": 1037,
-      "forks": 291,
-      "added_stars": "1 star today"
+      "stars": 1838,
+      "forks": 1562,
+      "added_stars": "0 stars today"
     }
   ]
 }

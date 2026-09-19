@@ -2,8 +2,18 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:56:51 GMT",
   "items": [
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13674,
+      "forks": 1689,
+      "added_stars": "144 stars this month"
+    },
     {
       "title": "aquaproj / aqua-registry",
       "url": "https://github.com/aquaproj/aqua-registry",
@@ -15,23 +25,13 @@
       "added_stars": "18 stars this month"
     },
     {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13674,
-      "forks": 1688,
-      "added_stars": "144 stars this month"
-    },
-    {
       "title": "web-platform-dx / web-features",
       "url": "https://github.com/web-platform-dx/web-features",
       "description": "Exploring how to present Web platform features adoptability",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 932,
-      "forks": 324,
+      "stars": 934,
+      "forks": 325,
       "added_stars": "31 stars this month"
     },
     {
@@ -50,8 +50,8 @@
       "description": "macOS Security Compliance Project",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 2474,
-      "forks": 302,
+      "stars": 2475,
+      "forks": 304,
       "added_stars": "29 stars this month"
     },
     {
@@ -61,7 +61,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 89,
-      "forks": 414,
+      "forks": 416,
       "added_stars": "0 stars this month"
     },
     {
@@ -73,16 +73,6 @@
       "stars": 1040,
       "forks": 1071,
       "added_stars": "7 stars this month"
-    },
-    {
-      "title": "tyriis / home-ops",
-      "url": "https://github.com/tyriis/home-ops",
-      "description": "IaC for my HomeLab kubernetes cluster resources with Flux",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 81,
-      "forks": 4,
-      "added_stars": "1 star this month"
     }
   ]
 }

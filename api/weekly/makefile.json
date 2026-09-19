@@ -2,8 +2,18 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:54:34 GMT",
   "items": [
+    {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4327,
+      "forks": 123,
+      "added_stars": "20 stars this week"
+    },
     {
       "title": "open-telemetry / opentelemetry-proto",
       "url": "https://github.com/open-telemetry/opentelemetry-proto",
@@ -11,7 +21,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 818,
-      "forks": 321,
+      "forks": 322,
       "added_stars": "1 star this week"
     },
     {
@@ -20,9 +30,9 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4612,
-      "forks": 3970,
-      "added_stars": "8 stars this week"
+      "stars": 4610,
+      "forks": 3969,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -31,8 +41,8 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 1561,
-      "forks": 352,
-      "added_stars": "18 stars this week"
+      "forks": 353,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "mozilla / addons",
@@ -45,24 +55,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "uber-go / guide",
-      "url": "https://github.com/uber-go/guide",
-      "description": "The Uber Go Style Guide.",
+      "title": "geneontology / go-ontology",
+      "url": "https://github.com/geneontology/go-ontology",
+      "description": "Source ontology files for the Gene Ontology",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 17709,
-      "forks": 1815,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4326,
-      "forks": 123,
-      "added_stars": "22 stars this week"
+      "stars": 254,
+      "forks": 47,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "PartialVolume / shredos.x86_64",
@@ -72,17 +72,7 @@
       "languageColor": "#427819",
       "stars": 3167,
       "forks": 140,
-      "added_stars": "10 stars this week"
-    },
-    {
-      "title": "geneontology / go-ontology",
-      "url": "https://github.com/geneontology/go-ontology",
-      "description": "Source ontology files for the Gene Ontology",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 254,
-      "forks": 47,
-      "added_stars": "1 star this week"
+      "added_stars": "9 stars this week"
     },
     {
       "title": "golang-standards / project-layout",
@@ -90,19 +80,9 @@
       "description": "Standard Go Project Layout",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 56603,
+      "stars": 56604,
       "forks": 5426,
-      "added_stars": "54 stars this week"
-    },
-    {
-      "title": "Ysurac / openmptcprouter",
-      "url": "https://github.com/Ysurac/openmptcprouter",
-      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 2502,
-      "forks": 358,
-      "added_stars": "13 stars this week"
+      "added_stars": "55 stars this week"
     },
     {
       "title": "obophenotype / human-phenotype-ontology",
@@ -115,6 +95,26 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "Ysurac / openmptcprouter",
+      "url": "https://github.com/Ysurac/openmptcprouter",
+      "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2504,
+      "forks": 357,
+      "added_stars": "11 stars this week"
+    },
+    {
+      "title": "adriannovegil / awesome-observability",
+      "url": "https://github.com/adriannovegil/awesome-observability",
+      "description": "Awesome observability page",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 694,
+      "forks": 180,
+      "added_stars": "22 stars this week"
+    },
+    {
       "title": "liberationfonts / liberation-fonts",
       "url": "https://github.com/liberationfonts/liberation-fonts",
       "description": "The Liberation(tm) Fonts is a font family which aims at metric compatibility with Arial, Times New Roman, and Courier New.",
@@ -122,27 +122,7 @@
       "languageColor": "#427819",
       "stars": 572,
       "forks": 30,
-      "added_stars": "4 stars this week"
-    },
-    {
-      "title": "canonical / ubuntu-server-documentation",
-      "url": "https://github.com/canonical/ubuntu-server-documentation",
-      "description": "Documentation for Ubuntu Server: https://ubuntu.com/server/docs",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 88,
-      "forks": 161,
       "added_stars": "3 stars this week"
-    },
-    {
-      "title": "foostan / crkbd",
-      "url": "https://github.com/foostan/crkbd",
-      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 7651,
-      "forks": 1099,
-      "added_stars": "12 stars this week"
     },
     {
       "title": "open-telemetry / opentelemetry-specification",
@@ -150,9 +130,9 @@
       "description": "Specifications for OpenTelemetry",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4342,
+      "stars": 4343,
       "forks": 1000,
-      "added_stars": "6 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "freebsd / freebsd-ports",
@@ -162,7 +142,37 @@
       "languageColor": "#427819",
       "stars": 1203,
       "forks": 874,
-      "added_stars": "4 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "jobbole / awesome-python-cn",
+      "url": "https://github.com/jobbole/awesome-python-cn",
+      "description": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 30613,
+      "forks": 7919,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "uber-go / guide",
+      "url": "https://github.com/uber-go/guide",
+      "description": "The Uber Go Style Guide.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 17712,
+      "forks": 1815,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7655,
+      "forks": 1099,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "dbt-labs / dbt-utils",
@@ -173,16 +183,6 @@
       "stars": 1802,
       "forks": 632,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "NetBSD / pkgsrc",
-      "url": "https://github.com/NetBSD/pkgsrc",
-      "description": "Automatic conversion of the NetBSD pkgsrc CVS module, use with care",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 403,
-      "forks": 191,
-      "added_stars": "0 stars this week"
     }
   ]
 }

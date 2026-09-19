@@ -4,21 +4,16 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Fri, 18 Sep 2026 06:53:11 GMT</pubDate>
+  <pubDate>Sat, 19 Sep 2026 06:52:18 GMT</pubDate>
   <item>
-    <title>YimMenu / YimMenuV2</title>
-    <link>https://github.com/YimMenu/YimMenuV2</link>
-    <description>Experimental menu for GTA 5: Enhanced</description>
+    <title>apache / arrow</title>
+    <link>https://github.com/apache/arrow</link>
+    <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
   </item>
   <item>
-    <title>keepassxreboot / keepassxc</title>
-    <link>https://github.com/keepassxreboot/keepassxc</link>
-    <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
-  </item>
-  <item>
-    <title>react / react-native</title>
-    <link>https://github.com/react/react-native</link>
-    <description>A framework for building native applications using React</description>
+    <title>duckdb / duckdb</title>
+    <link>https://github.com/duckdb/duckdb</link>
+    <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
     <title>Neroued / ninfer</title>
@@ -26,49 +21,14 @@
     <description>High-performance single-GPU inference for selected model checkpoints and GPUs.</description>
   </item>
   <item>
-    <title>google / highway</title>
-    <link>https://github.com/google/highway</link>
-    <description>Performance-portable, length-agnostic SIMD with runtime dispatch</description>
-  </item>
-  <item>
     <title>microsoft / intelligent-terminal</title>
     <link>https://github.com/microsoft/intelligent-terminal</link>
     <description>A fork of Windows Terminal with native agent integration, right in your command line.</description>
   </item>
   <item>
-    <title>FEX-Emu / FEX</title>
-    <link>https://github.com/FEX-Emu/FEX</link>
-    <description>A fast usermode x86 and x86-64 emulator for Arm64 Linux</description>
-  </item>
-  <item>
-    <title>catchorg / Catch2</title>
-    <link>https://github.com/catchorg/Catch2</link>
-    <description>A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</description>
-  </item>
-  <item>
-    <title>ROCm / rocm-systems</title>
-    <link>https://github.com/ROCm/rocm-systems</link>
-    <description>super repo for rocm systems projects</description>
-  </item>
-  <item>
-    <title>apache / arrow</title>
-    <link>https://github.com/apache/arrow</link>
-    <description>Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</description>
-  </item>
-  <item>
-    <title>google / perfetto</title>
-    <link>https://github.com/google/perfetto</link>
-    <description>Production-grade client-side tracing, profiling, and analysis for complex software systems.</description>
-  </item>
-  <item>
-    <title>jbeder / yaml-cpp</title>
-    <link>https://github.com/jbeder/yaml-cpp</link>
-    <description>A YAML parser and emitter in C++</description>
-  </item>
-  <item>
-    <title>esphome / esphome</title>
-    <link>https://github.com/esphome/esphome</link>
-    <description>ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.</description>
+    <title>dragonflydb / dragonfly</title>
+    <link>https://github.com/dragonflydb/dragonfly</link>
+    <description>A modern replacement for Redis and Memcached</description>
   </item>
   <item>
     <title>wazuh / wazuh</title>
@@ -76,19 +36,49 @@
     <description>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</description>
   </item>
   <item>
-    <title>PX4 / PX4-Autopilot</title>
-    <link>https://github.com/PX4/PX4-Autopilot</link>
-    <description>PX4 Autopilot Software</description>
+    <title>nasa / fprime</title>
+    <link>https://github.com/nasa/fprime</link>
+    <description>F´ - A flight software and embedded systems framework</description>
   </item>
   <item>
-    <title>microsoft / onnxruntime-genai</title>
-    <link>https://github.com/microsoft/onnxruntime-genai</link>
-    <description>Generative AI extensions for onnxruntime</description>
+    <title>WerWolv / ImHex</title>
+    <link>https://github.com/WerWolv/ImHex</link>
+    <description>🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</description>
   </item>
   <item>
-    <title>fougue / mayo</title>
-    <link>https://github.com/fougue/mayo</link>
-    <description>3D CAD viewer and converter based on Qt + OpenCascade</description>
+    <title>ggml-org / llama.cpp</title>
+    <link>https://github.com/ggml-org/llama.cpp</link>
+    <description>LLM inference in C/C++</description>
+  </item>
+  <item>
+    <title>telegramdesktop / tdesktop</title>
+    <link>https://github.com/telegramdesktop/tdesktop</link>
+    <description>Telegram Desktop messaging app</description>
+  </item>
+  <item>
+    <title>k2-fsa / sherpa-onnx</title>
+    <link>https://github.com/k2-fsa/sherpa-onnx</link>
+    <description>Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages</description>
+  </item>
+  <item>
+    <title>Z3Prover / z3</title>
+    <link>https://github.com/Z3Prover/z3</link>
+    <description>The Z3 Theorem Prover</description>
+  </item>
+  <item>
+    <title>protocolbuffers / protobuf</title>
+    <link>https://github.com/protocolbuffers/protobuf</link>
+    <description>Protocol Buffers - Google&#x27;s data interchange format</description>
+  </item>
+  <item>
+    <title>gabime / spdlog</title>
+    <link>https://github.com/gabime/spdlog</link>
+    <description>Fast C++ logging library.</description>
+  </item>
+  <item>
+    <title>kvcache-ai / Mooncake</title>
+    <link>https://github.com/kvcache-ai/Mooncake</link>
+    <description>Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.</description>
   </item>
   <item>
     <title>vllm-project / vllm-ascend</title>
@@ -96,9 +86,29 @@
     <description>Community maintained hardware plugin for vLLM on Ascend</description>
   </item>
   <item>
-    <title>Z3Prover / z3</title>
-    <link>https://github.com/Z3Prover/z3</link>
-    <description>The Z3 Theorem Prover</description>
+    <title>microsoft / WSL</title>
+    <link>https://github.com/microsoft/WSL</link>
+    <description>Windows Subsystem for Linux</description>
+  </item>
+  <item>
+    <title>colmap / colmap</title>
+    <link>https://github.com/colmap/colmap</link>
+    <description>COLMAP - Structure-from-Motion and Multi-View Stereo</description>
+  </item>
+  <item>
+    <title>realsenseai / librealsense</title>
+    <link>https://github.com/realsenseai/librealsense</link>
+    <description>RealSense SDK</description>
+  </item>
+  <item>
+    <title>facebookresearch / faiss</title>
+    <link>https://github.com/facebookresearch/faiss</link>
+    <description>A library for efficient similarity search and clustering of dense vectors.</description>
+  </item>
+  <item>
+    <title>tenstorrent / tt-metal</title>
+    <link>https://github.com/tenstorrent/tt-metal</link>
+    <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
   </item>
 </channel>
 </rss>

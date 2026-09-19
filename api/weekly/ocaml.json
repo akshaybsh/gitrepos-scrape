@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:55:23 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:54:34 GMT",
   "items": [
     {
       "title": "ocaml / ocaml",
@@ -10,19 +10,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6562,
-      "forks": 1409,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "rocq-prover / rocq",
-      "url": "https://github.com/rocq-prover/rocq",
-      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 5577,
-      "forks": 763,
-      "added_stars": "6 stars this week"
+      "stars": 6565,
+      "forks": 1410,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "ocaml / dune",
@@ -30,7 +20,7 @@
       "description": "A composable build system for OCaml.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1916,
+      "stars": 1915,
       "forks": 500,
       "added_stars": "1 star this week"
     },
@@ -42,7 +32,17 @@
       "languageColor": "#ef7a08",
       "stars": 1380,
       "forks": 410,
-      "added_stars": "3 stars this week"
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "rocq-prover / rocq",
+      "url": "https://github.com/rocq-prover/rocq",
+      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5580,
+      "forks": 764,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "MinaProtocol / mina",
@@ -60,9 +60,19 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3086,
+      "stars": 3091,
       "forks": 264,
-      "added_stars": "27 stars this week"
+      "added_stars": "32 stars this week"
+    },
+    {
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 885,
+      "forks": 182,
+      "added_stars": "9 stars this week"
     }
   ]
 }

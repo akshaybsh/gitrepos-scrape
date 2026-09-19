@@ -2,67 +2,47 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:53:11 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:52:18 GMT",
   "items": [
-    {
-      "title": "Tencent / BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4586,
-      "forks": 322,
-      "added_stars": "1,302 stars today"
-    },
     {
       "title": "anthropics / claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 145965,
-      "forks": 23658,
-      "added_stars": "538 stars today"
+      "stars": 146416,
+      "forks": 23821,
+      "added_stars": "444 stars today"
     },
     {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 54965,
-      "forks": 6834,
-      "added_stars": "667 stars today"
+      "stars": 5468,
+      "forks": 378,
+      "added_stars": "1,306 stars today"
     },
     {
-      "title": "ever-co / ever-gauzy",
-      "url": "https://github.com/ever-co/ever-gauzy",
-      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "title": "Fission-AI / OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7645,
-      "forks": 1135,
-      "added_stars": "470 stars today"
+      "stars": 69460,
+      "forks": 4760,
+      "added_stars": "296 stars today"
     },
     {
-      "title": "cline / cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "title": "supermemoryai / supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 68625,
-      "forks": 7418,
-      "added_stars": "380 stars today"
-    },
-    {
-      "title": "n8n-io / n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 205131,
-      "forks": 60759,
-      "added_stars": "281 stars today"
+      "stars": 30406,
+      "forks": 2648,
+      "added_stars": "140 stars today"
     },
     {
       "title": "supabase / supabase",
@@ -70,129 +50,139 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 109935,
-      "forks": 14177,
-      "added_stars": "586 stars today"
+      "stars": 110217,
+      "forks": 14329,
+      "added_stars": "120 stars today"
     },
     {
-      "title": "CodebuffAI / freebuff",
-      "url": "https://github.com/CodebuffAI/freebuff",
-      "description": "The free coding agent",
+      "title": "ahmedkhaleel2004 / gitdiagram",
+      "url": "https://github.com/ahmedkhaleel2004/gitdiagram",
+      "description": "Free, simple, fast interactive diagrams for any GitHub repository",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12287,
-      "forks": 1314,
-      "added_stars": "97 stars today"
+      "stars": 16541,
+      "forks": 1261,
+      "added_stars": "152 stars today"
     },
     {
-      "title": "EveryInc / compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 25140,
-      "forks": 2060,
-      "added_stars": "46 stars today"
-    },
-    {
-      "title": "freeCodeCamp / freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 455708,
-      "forks": 46561,
-      "added_stars": "111 stars today"
-    },
-    {
-      "title": "vitest-dev / vitest",
-      "url": "https://github.com/vitest-dev/vitest",
-      "description": "Next generation testing framework powered by Vite.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 17118,
-      "forks": 2003,
-      "added_stars": "37 stars today"
-    },
-    {
-      "title": "Stirling-Tools / Stirling-PDF",
-      "url": "https://github.com/Stirling-Tools/Stirling-PDF",
-      "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 92465,
-      "forks": 8760,
-      "added_stars": "128 stars today"
-    },
-    {
-      "title": "vercel / eve",
-      "url": "https://github.com/vercel/eve",
-      "description": "The Open Framework for Building Agents",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 5243,
-      "forks": 567,
-      "added_stars": "173 stars today"
-    },
-    {
-      "title": "danny-avila / LibreChat",
-      "url": "https://github.com/danny-avila/LibreChat",
-      "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 44260,
-      "forks": 9097,
-      "added_stars": "320 stars today"
-    },
-    {
-      "title": "actualbudget / actual",
-      "url": "https://github.com/actualbudget/actual",
-      "description": "A local-first personal finance app",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 28984,
-      "forks": 2994,
-      "added_stars": "65 stars today"
-    },
-    {
-      "title": "fosrl / pangolin",
-      "url": "https://github.com/fosrl/pangolin",
-      "description": "Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 22805,
-      "forks": 788,
-      "added_stars": "55 stars today"
+      "stars": 68720,
+      "forks": 7428,
+      "added_stars": "242 stars today"
     },
     {
       "title": "rowboatlabs / rowboat",
       "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "The multiplayer personal assistant for work",
+      "description": "AI coworker with memory and collaboration",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17892,
-      "forks": 1781,
-      "added_stars": "304 stars today"
+      "stars": 17904,
+      "forks": 1784,
+      "added_stars": "57 stars today"
     },
     {
-      "title": "wonderwhy-er / DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
+      "title": "NanmiCoder / cc-haha",
+      "url": "https://github.com/NanmiCoder/cc-haha",
+      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 9631,
-      "forks": 1193,
+      "stars": 14632,
+      "forks": 8570,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "every-app / open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "description": "Open source alternative to Semrush and Ahrefs",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 19368,
+      "forks": 2490,
+      "added_stars": "189 stars today"
+    },
+    {
+      "title": "backnotprop / plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8796,
+      "forks": 661,
       "added_stars": "39 stars today"
     },
     {
-      "title": "immich-app / immich",
-      "url": "https://github.com/immich-app/immich",
-      "description": "High performance self-hosted photo and video management solution.",
+      "title": "tashfeenahmed / freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 114495,
-      "forks": 6980,
-      "added_stars": "100 stars today"
+      "stars": 27235,
+      "forks": 3717,
+      "added_stars": "264 stars today"
+    },
+    {
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 72133,
+      "forks": 4719,
+      "added_stars": "831 stars today"
+    },
+    {
+      "title": "n8n-io / n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 205319,
+      "forks": 60783,
+      "added_stars": "558 stars today"
+    },
+    {
+      "title": "lfnovo / open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 39157,
+      "forks": 4538,
+      "added_stars": "62 stars today"
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 55129,
+      "forks": 6867,
+      "added_stars": "416 stars today"
+    },
+    {
+      "title": "heygen-com / hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 51467,
+      "forks": 4688,
+      "added_stars": "333 stars today"
+    },
+    {
+      "title": "yikart / AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "description": "Let's use AI to Earn!",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 26067,
+      "forks": 4212,
+      "added_stars": "50 stars today"
     }
   ]
 }

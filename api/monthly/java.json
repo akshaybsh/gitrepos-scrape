@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:56:51 GMT",
   "items": [
     {
       "title": "NationalSecurityAgency / ghidra",
@@ -10,9 +10,9 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 78681,
-      "forks": 8699,
-      "added_stars": "6,000 stars this month"
+      "stars": 78952,
+      "forks": 8731,
+      "added_stars": "6,510 stars this month"
     },
     {
       "title": "checkstyle / checkstyle",
@@ -20,8 +20,8 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 9569,
-      "forks": 4240,
+      "stars": 9572,
+      "forks": 4241,
       "added_stars": "643 stars this month"
     },
     {
@@ -30,19 +30,19 @@
       "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 60998,
-      "forks": 7557,
-      "added_stars": "1,785 stars this month"
+      "stars": 61041,
+      "forks": 7565,
+      "added_stars": "1,780 stars this month"
     },
     {
-      "title": "crimera / piko",
-      "url": "https://github.com/crimera/piko",
-      "description": "morphe patches for twitter and instagram",
+      "title": "TeamNewPipe / NewPipe",
+      "url": "https://github.com/TeamNewPipe/NewPipe",
+      "description": "A libre lightweight streaming front-end for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5291,
-      "forks": 205,
-      "added_stars": "592 stars this month"
+      "stars": 39718,
+      "forks": 3805,
+      "added_stars": "409 stars this month"
     },
     {
       "title": "aeron-io / aeron",
@@ -50,19 +50,19 @@
       "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8869,
+      "stars": 8870,
       "forks": 1096,
-      "added_stars": "80 stars this month"
+      "added_stars": "77 stars this month"
     },
     {
-      "title": "karma9874 / AndroRAT",
-      "url": "https://github.com/karma9874/AndroRAT",
-      "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+      "title": "crimera / piko",
+      "url": "https://github.com/crimera/piko",
+      "description": "morphe patches for twitter and instagram",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 5122,
-      "forks": 1651,
-      "added_stars": "147 stars this month"
+      "stars": 5297,
+      "forks": 205,
+      "added_stars": "585 stars this month"
     },
     {
       "title": "iBotPeaches / Apktool",
@@ -70,9 +70,19 @@
       "description": "A tool for reverse engineering Android apk files",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25594,
-      "forks": 4009,
-      "added_stars": "310 stars this month"
+      "stars": 25600,
+      "forks": 4008,
+      "added_stars": "320 stars this month"
+    },
+    {
+      "title": "karma9874 / AndroRAT",
+      "url": "https://github.com/karma9874/AndroRAT",
+      "description": "A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5128,
+      "forks": 1653,
+      "added_stars": "133 stars this month"
     },
     {
       "title": "JabRef / jabref",
@@ -80,19 +90,29 @@
       "description": "Desktop app for managing BibTeX and BibLaTeX (.bib) libraries",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4738,
-      "forks": 3581,
-      "added_stars": "131 stars this month"
+      "stars": 4742,
+      "forks": 3584,
+      "added_stars": "130 stars this month"
     },
     {
-      "title": "jeecgboot / jimureport",
-      "url": "https://github.com/jeecgboot/jimureport",
-      "description": "一款真正的 AI 报表诞生了！JimuChatBI —— 首款免费开源对话式智能数据分析产品（Chat2BI）。 一句话生成报表和数据大屏，支持对话式 AI 修改优化；类 Excel 在线报表设计，兼容国产信创数据源。 对着 AI 说句话，报表就出来了——表格、图表、分组汇总自动生成，复杂报表场景轻松应对。想做数据大屏？同样一句话搞定，让数据分析进入 AI 时代。",
+      "title": "microg / GmsCore",
+      "url": "https://github.com/microg/GmsCore",
+      "description": "Free implementation of Play Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 8449,
-      "forks": 1883,
-      "added_stars": "291 stars this month"
+      "stars": 14626,
+      "forks": 3190,
+      "added_stars": "405 stars this month"
+    },
+    {
+      "title": "osmandapp / OsmAnd",
+      "url": "https://github.com/osmandapp/OsmAnd",
+      "description": "OsmAnd",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 6019,
+      "forks": 1228,
+      "added_stars": "116 stars this month"
     },
     {
       "title": "quarkusio / quarkus",
@@ -101,18 +121,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 15891,
-      "forks": 3300,
-      "added_stars": "78 stars this month"
-    },
-    {
-      "title": "TeamNewPipe / NewPipe",
-      "url": "https://github.com/TeamNewPipe/NewPipe",
-      "description": "A libre lightweight streaming front-end for Android.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 39712,
-      "forks": 3800,
-      "added_stars": "414 stars this month"
+      "forks": 3302,
+      "added_stars": "77 stars this month"
     },
     {
       "title": "traccar / traccar",
@@ -120,19 +130,9 @@
       "description": "Open source GPS tracking platform - self-hosted or managed, 200+ device protocols",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 7754,
-      "forks": 3389,
-      "added_stars": "147 stars this month"
-    },
-    {
-      "title": "spring-projects / spring-security",
-      "url": "https://github.com/spring-projects/spring-security",
-      "description": "Spring Security",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9634,
-      "forks": 6347,
-      "added_stars": "38 stars this month"
+      "stars": 7766,
+      "forks": 3392,
+      "added_stars": "139 stars this month"
     },
     {
       "title": "plantuml / plantuml",
@@ -142,17 +142,7 @@
       "languageColor": "#b07219",
       "stars": 13323,
       "forks": 1237,
-      "added_stars": "93 stars this month"
-    },
-    {
-      "title": "osmandapp / OsmAnd",
-      "url": "https://github.com/osmandapp/OsmAnd",
-      "description": "OsmAnd",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 6018,
-      "forks": 1227,
-      "added_stars": "117 stars this month"
+      "added_stars": "92 stars this month"
     },
     {
       "title": "bazelbuild / bazel",
@@ -160,29 +150,9 @@
       "description": "a fast, scalable, multi-language and extensible build system",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 25859,
-      "forks": 4613,
-      "added_stars": "164 stars this month"
-    },
-    {
-      "title": "microg / GmsCore",
-      "url": "https://github.com/microg/GmsCore",
-      "description": "Free implementation of Play Services",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 14613,
-      "forks": 3184,
-      "added_stars": "401 stars this month"
-    },
-    {
-      "title": "languagetool-org / languagetool",
-      "url": "https://github.com/languagetool-org/languagetool",
-      "description": "Style and Grammar Checker for 25+ Languages",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15047,
-      "forks": 1582,
-      "added_stars": "257 stars this month"
+      "stars": 25862,
+      "forks": 4619,
+      "added_stars": "163 stars this month"
     },
     {
       "title": "DrKLO / Telegram",
@@ -190,9 +160,29 @@
       "description": "Telegram for Android source",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 29888,
-      "forks": 10076,
-      "added_stars": "207 stars this month"
+      "stars": 29896,
+      "forks": 10075,
+      "added_stars": "208 stars this month"
+    },
+    {
+      "title": "bethington / ghidra-mcp",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3892,
+      "forks": 148,
+      "added_stars": "563 stars this month"
+    },
+    {
+      "title": "jeecgboot / JeecgBoot",
+      "url": "https://github.com/jeecgboot/JeecgBoot",
+      "description": "【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并->AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 47893,
+      "forks": 16192,
+      "added_stars": "571 stars this month"
     },
     {
       "title": "WuKongOpenSource / Wukong-AICRM",
@@ -200,29 +190,39 @@
       "description": "开源 AI CRM，Salesforce 开源替代 + ChatGPT 式 AI 助手：客户管理、知识库查询、任务执行，全程对话完成。Open-source AI CRM and Salesforce alternative powered by conversational AI.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1709,
-      "forks": 268,
-      "added_stars": "752 stars this month"
+      "stars": 1737,
+      "forks": 272,
+      "added_stars": "753 stars this month"
     },
     {
-      "title": "00-Evan / shattered-pixel-dungeon",
-      "url": "https://github.com/00-Evan/shattered-pixel-dungeon",
-      "description": "Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the source code of Pixel Dungeon, by Watabou.",
+      "title": "booklore-app / booklore",
+      "url": "https://github.com/booklore-app/booklore",
+      "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 6539,
-      "forks": 1617,
-      "added_stars": "125 stars this month"
+      "stars": 1222,
+      "forks": 88,
+      "added_stars": "365 stars this month"
     },
     {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 36840,
-      "forks": 8942,
-      "added_stars": "649 stars this month"
+      "stars": 5226,
+      "forks": 4736,
+      "added_stars": "337 stars this month"
+    },
+    {
+      "title": "apache / doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15963,
+      "forks": 3952,
+      "added_stars": "185 stars this month"
     }
   ]
 }

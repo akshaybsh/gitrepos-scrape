@@ -2,17 +2,27 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Fri, 18 Sep 2026 06:57:40 GMT",
+  "pubDate": "Sat, 19 Sep 2026 06:56:51 GMT",
   "items": [
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19759,
+      "forks": 2111,
+      "added_stars": "100 stars this month"
+    },
     {
       "title": "exiftool / exiftool",
       "url": "https://github.com/exiftool/exiftool",
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5052,
+      "stars": 5060,
       "forks": 486,
-      "added_stars": "102 stars this month"
+      "added_stars": "104 stars this month"
     },
     {
       "title": "znuny / Znuny",
@@ -30,19 +40,9 @@
       "description": "GLPI Agent",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 490,
+      "stars": 492,
       "forks": 120,
       "added_stars": "19 stars this month"
-    },
-    {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19759,
-      "forks": 2111,
-      "added_stars": "104 stars this month"
     },
     {
       "title": "holzschu / a-shell",
@@ -50,9 +50,9 @@
       "description": "A terminal for iOS, with multiple windows",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3924,
+      "stars": 3926,
       "forks": 213,
-      "added_stars": "57 stars this month"
+      "added_stars": "56 stars this month"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -90,9 +90,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23543,
+      "stars": 23544,
       "forks": 1126,
-      "added_stars": "125 stars this month"
+      "added_stars": "122 stars this month"
     },
     {
       "title": "inverse-inc / packetfence",
@@ -102,7 +102,7 @@
       "languageColor": "#0298c3",
       "stars": 1691,
       "forks": 329,
-      "added_stars": "25 stars this month"
+      "added_stars": "26 stars this month"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -111,7 +111,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 3418,
-      "forks": 380,
+      "forks": 381,
       "added_stars": "28 stars this month"
     },
     {
@@ -145,26 +145,6 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "yaml / yaml-test-suite",
-      "url": "https://github.com/yaml/yaml-test-suite",
-      "description": "Comprehensive, language independent Test Suite for YAML",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 271,
-      "forks": 100,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "ddclient / ddclient",
-      "url": "https://github.com/ddclient/ddclient",
-      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3548,
-      "forks": 400,
-      "added_stars": "38 stars this month"
-    },
-    {
       "title": "os-autoinst / os-autoinst-distri-opensuse",
       "url": "https://github.com/os-autoinst/os-autoinst-distri-opensuse",
       "description": "os-autoinst test cases for openSUSE",
@@ -175,13 +155,43 @@
       "added_stars": "1 star this month"
     },
     {
+      "title": "ddclient / ddclient",
+      "url": "https://github.com/ddclient/ddclient",
+      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3549,
+      "forks": 400,
+      "added_stars": "37 stars this month"
+    },
+    {
+      "title": "sitaramc / gitolite",
+      "url": "https://github.com/sitaramc/gitolite",
+      "description": "Hosting git repositories -- Gitolite allows you to setup git hosting on a central server, with very fine-grained access control and many (many!) more powerful features.",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 8593,
+      "forks": 1006,
+      "added_stars": "6 stars this month"
+    },
+    {
+      "title": "ko-ichi-h / khcoder",
+      "url": "https://github.com/ko-ichi-h/khcoder",
+      "description": "KH Coder: for Quantitative Content Analysis or Text Mining",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 335,
+      "forks": 99,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "Perl / perl5",
       "url": "https://github.com/Perl/perl5",
       "description": "🐪 The Perl programming language",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2323,
-      "forks": 645,
+      "stars": 2324,
+      "forks": 646,
       "added_stars": "15 stars this month"
     },
     {
