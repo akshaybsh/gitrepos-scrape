@@ -2,7 +2,7 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
   "items": [
     {
       "title": "openwrt / packages",
@@ -10,9 +10,9 @@
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4610,
-      "forks": 3969,
-      "added_stars": "33 stars this month"
+      "stars": 4609,
+      "forks": 3968,
+      "added_stars": "31 stars this month"
     },
     {
       "title": "mindsdb / mindshub",
@@ -20,19 +20,9 @@
       "description": "The unified workspace where open-source models get things done for you.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 39749,
-      "forks": 6239,
-      "added_stars": "186 stars this month"
-    },
-    {
-      "title": "golang-standards / project-layout",
-      "url": "https://github.com/golang-standards/project-layout",
-      "description": "Standard Go Project Layout",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 56604,
-      "forks": 5426,
-      "added_stars": "196 stars this month"
+      "stars": 39754,
+      "forks": 6241,
+      "added_stars": "183 stars this month"
     },
     {
       "title": "ROCKNIX / distribution",
@@ -40,9 +30,29 @@
       "description": "",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1561,
-      "forks": 353,
-      "added_stars": "72 stars this month"
+      "stars": 1563,
+      "forks": 356,
+      "added_stars": "69 stars this month"
+    },
+    {
+      "title": "golang-standards / project-layout",
+      "url": "https://github.com/golang-standards/project-layout",
+      "description": "Standard Go Project Layout",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 56607,
+      "forks": 5426,
+      "added_stars": "193 stars this month"
+    },
+    {
+      "title": "foostan / crkbd",
+      "url": "https://github.com/foostan/crkbd",
+      "description": "Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 7657,
+      "forks": 1099,
+      "added_stars": "55 stars this month"
     },
     {
       "title": "uber-go / guide",
@@ -50,9 +60,29 @@
       "description": "The Uber Go Style Guide.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 17712,
-      "forks": 1815,
-      "added_stars": "77 stars this month"
+      "stars": 17715,
+      "forks": 1814,
+      "added_stars": "79 stars this month"
+    },
+    {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4329,
+      "forks": 123,
+      "added_stars": "61 stars this month"
+    },
+    {
+      "title": "freebsd / freebsd-ports",
+      "url": "https://github.com/freebsd/freebsd-ports",
+      "description": "FreeBSD ports tree (read-only mirror)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1203,
+      "forks": 873,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-proto",
@@ -60,9 +90,9 @@
       "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 818,
+      "stars": 819,
       "forks": 322,
-      "added_stars": "16 stars this month"
+      "added_stars": "15 stars this month"
     },
     {
       "title": "cncf / people",
@@ -85,34 +115,24 @@
       "added_stars": "0 stars this month"
     },
     {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4327,
-      "forks": 123,
-      "added_stars": "63 stars this month"
-    },
-    {
       "title": "PartialVolume / shredos.x86_64",
       "url": "https://github.com/PartialVolume/shredos.x86_64",
       "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 3167,
-      "forks": 140,
-      "added_stars": "51 stars this month"
+      "stars": 3168,
+      "forks": 141,
+      "added_stars": "52 stars this month"
     },
     {
-      "title": "geneontology / go-ontology",
-      "url": "https://github.com/geneontology/go-ontology",
-      "description": "Source ontology files for the Gene Ontology",
+      "title": "open-telemetry / opentelemetry-specification",
+      "url": "https://github.com/open-telemetry/opentelemetry-specification",
+      "description": "Specifications for OpenTelemetry",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 254,
-      "forks": 47,
-      "added_stars": "3 stars this month"
+      "stars": 4343,
+      "forks": 1000,
+      "added_stars": "30 stars this month"
     },
     {
       "title": "adriannovegil / awesome-observability",
@@ -121,7 +141,7 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 694,
-      "forks": 180,
+      "forks": 182,
       "added_stars": "39 stars this month"
     },
     {
@@ -130,29 +150,19 @@
       "description": "A Video Surveillance OS For Single-board Computers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 8214,
+      "stars": 8215,
       "forks": 912,
-      "added_stars": "9 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
-      "title": "InteractiveAdvertisingBureau / openrtb2.x",
-      "url": "https://github.com/InteractiveAdvertisingBureau/openrtb2.x",
-      "description": "OpenRTB 2.x specification, from 2.6 onward",
+      "title": "geneontology / go-ontology",
+      "url": "https://github.com/geneontology/go-ontology",
+      "description": "Source ontology files for the Gene Ontology",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 169,
-      "forks": 77,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "awesome-selfhosted / awesome-selfhosted-data",
-      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
-      "description": "machine-readable data for https://awesome-selfhosted.net",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1139,
-      "forks": 1370,
-      "added_stars": "40 stars this month"
+      "stars": 255,
+      "forks": 47,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "SiftScience / sift-ios",
@@ -163,6 +173,26 @@
       "stars": 23,
       "forks": 28,
       "added_stars": "0 stars this month"
+    },
+    {
+      "title": "awesome-selfhosted / awesome-selfhosted-data",
+      "url": "https://github.com/awesome-selfhosted/awesome-selfhosted-data",
+      "description": "machine-readable data for https://awesome-selfhosted.net",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1141,
+      "forks": 1373,
+      "added_stars": "37 stars this month"
+    },
+    {
+      "title": "InteractiveAdvertisingBureau / openrtb2.x",
+      "url": "https://github.com/InteractiveAdvertisingBureau/openrtb2.x",
+      "description": "OpenRTB 2.x specification, from 2.6 onward",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 170,
+      "forks": 77,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "obophenotype / human-phenotype-ontology",
@@ -181,28 +211,8 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 2504,
-      "forks": 357,
-      "added_stars": "40 stars this month"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-specification",
-      "url": "https://github.com/open-telemetry/opentelemetry-specification",
-      "description": "Specifications for OpenTelemetry",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4343,
-      "forks": 1000,
-      "added_stars": "31 stars this month"
-    },
-    {
-      "title": "WerWolv / Tesla-Menu",
-      "url": "https://github.com/WerWolv/Tesla-Menu",
-      "description": "The Nintendo Switch overlay menu",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1132,
-      "forks": 51,
-      "added_stars": "9 stars this month"
+      "forks": 358,
+      "added_stars": "39 stars this month"
     }
   ]
 }

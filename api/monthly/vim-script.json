@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -10,9 +10,9 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40898,
-      "forks": 6138,
-      "added_stars": "203 stars this month"
+      "stars": 40902,
+      "forks": 6137,
+      "added_stars": "202 stars this month"
     },
     {
       "title": "neovim / neovim",
@@ -20,9 +20,19 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 102422,
-      "forks": 7118,
-      "added_stars": "829 stars this month"
+      "stars": 102465,
+      "forks": 7123,
+      "added_stars": "834 stars this month"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21792,
+      "forks": 1080,
+      "added_stars": "54 stars this month"
     },
     {
       "title": "morhetz / gruvbox",
@@ -30,9 +40,19 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15751,
+      "stars": 15754,
       "forks": 1123,
-      "added_stars": "77 stars this month"
+      "added_stars": "79 stars this month"
+    },
+    {
+      "title": "github / copilot.vim",
+      "url": "https://github.com/github/copilot.vim",
+      "description": "Neovim plugin for GitHub Copilot",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 11684,
+      "forks": 812,
+      "added_stars": "33 stars this month"
     },
     {
       "title": "derekhe / msfs2020-map-enhancement",
@@ -45,14 +65,14 @@
       "added_stars": "8 stars this month"
     },
     {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 11683,
-      "forks": 812,
-      "added_stars": "31 stars this month"
+      "stars": 4226,
+      "forks": 144,
+      "added_stars": "64 stars this month"
     },
     {
       "title": "vim-test / vim-test",
@@ -75,26 +95,6 @@
       "added_stars": "21 stars this month"
     },
     {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4224,
-      "forks": 144,
-      "added_stars": "61 stars this month"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35771,
-      "forks": 1934,
-      "added_stars": "66 stars this month"
-    },
-    {
       "title": "dense-analysis / ale",
       "url": "https://github.com/dense-analysis/ale",
       "description": "Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support",
@@ -105,14 +105,14 @@
       "added_stars": "12 stars this month"
     },
     {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 21791,
-      "forks": 1080,
-      "added_stars": "56 stars this month"
+      "stars": 35772,
+      "forks": 1935,
+      "added_stars": "65 stars this month"
     },
     {
       "title": "mhinz / vim-galore",
@@ -120,9 +120,9 @@
       "description": "🎓 All things Vim!",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 17985,
+      "stars": 17984,
       "forks": 627,
-      "added_stars": "66 stars this month"
+      "added_stars": "64 stars this month"
     },
     {
       "title": "tpope / vim-eunuch",
@@ -135,26 +135,6 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "vim-syntastic / syntastic",
-      "url": "https://github.com/vim-syntastic/syntastic",
-      "description": "Syntax checking hacks for vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11212,
-      "forks": 1120,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "macvim-dev / macvim",
-      "url": "https://github.com/macvim-dev/macvim",
-      "description": "Vim - the text editor - for macOS",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 7882,
-      "forks": 691,
-      "added_stars": "19 stars this month"
-    },
-    {
       "title": "VundleVim / Vundle.vim",
       "url": "https://github.com/VundleVim/Vundle.vim",
       "description": "Vundle, the plug-in manager for Vim",
@@ -163,6 +143,16 @@
       "stars": 23920,
       "forks": 2530,
       "added_stars": "12 stars this month"
+    },
+    {
+      "title": "junegunn / vim-easy-align",
+      "url": "https://github.com/junegunn/vim-easy-align",
+      "description": "🌻 A Vim alignment plugin",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4236,
+      "forks": 122,
+      "added_stars": "4 stars this month"
     }
   ]
 }

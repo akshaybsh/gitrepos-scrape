@@ -2,7 +2,7 @@
   "title": "GitHub Gdscript Languages Daily Trending",
   "description": "Daily Trending of Gdscript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
       "title": "endlessm / threadbare",
@@ -10,69 +10,9 @@
       "description": "Rebuild an unraveling world",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 180,
+      "stars": 179,
       "forks": 492,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
-      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
-      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 3158,
-      "forks": 305,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "hi-godot / godot-ai",
-      "url": "https://github.com/hi-godot/godot-ai",
-      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 2491,
-      "forks": 148,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "dialogic-godot / dialogic",
-      "url": "https://github.com/dialogic-godot/dialogic",
-      "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 6005,
-      "forks": 349,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "ramokz / phantom-camera",
-      "url": "https://github.com/ramokz/phantom-camera",
-      "description": "A Camera addon for Godot 4. Inspired by Cinemachine.",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 3566,
-      "forks": 137,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "godotengine / godot-demo-projects",
-      "url": "https://github.com/godotengine/godot-demo-projects",
-      "description": "Demonstration and Template Projects",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 9541,
-      "forks": 2236,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "Orama-Interactive / Pixelorama",
-      "url": "https://github.com/Orama-Interactive/Pixelorama",
-      "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!",
-      "language": "GDScript",
-      "languageColor": "#355570",
-      "stars": 10333,
-      "forks": 551,
-      "added_stars": "7 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "dee-dee-catorce / desksaw",
@@ -85,13 +25,53 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "RodZill4 / material-maker",
-      "url": "https://github.com/RodZill4/material-maker",
-      "description": "A procedural textures authoring and 3D model painting tool based on the Godot game engine",
+      "title": "dialogic-godot / dialogic",
+      "url": "https://github.com/dialogic-godot/dialogic",
+      "description": "💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!",
       "language": "GDScript",
       "languageColor": "#355570",
-      "stars": 5925,
-      "forks": 375,
+      "stars": 6009,
+      "forks": 349,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "JHDev2006 / Super-Mario-Bros.-Remastered-Public",
+      "url": "https://github.com/JHDev2006/Super-Mario-Bros.-Remastered-Public",
+      "description": "A Remake / Celebration of the original 'Super Mario Bros.' games. Features new levels, custom modes, new characters, alongside a full level editor / custom level system!",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 3159,
+      "forks": 305,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "yurineko73 / Godot-MCP-Native",
+      "url": "https://github.com/yurineko73/Godot-MCP-Native",
+      "description": "一款支持godot开源引擎的的mcp插件，支持常见godot引擎操作，使用Godot原生实现MCPServer，无需安装依赖，开箱即用，支持多种AI工具调用。An MCP plugin that supports the open-source Godot engine, enabling common Godot engine operations. It implements the MCP Server using Godot's native HTTP, requires no dependency installation, is ready to use out of the box, and supports invocation by various AI tools.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 796,
+      "forks": 72,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "hi-godot / godot-ai",
+      "url": "https://github.com/hi-godot/godot-ai",
+      "description": "Production-grade MCP server and AI tools for the Godot engine. A Snap to install. Totally free and fun.",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 2509,
+      "forks": 151,
+      "added_stars": "15 stars today"
+    },
+    {
+      "title": "godotengine / godot-demo-projects",
+      "url": "https://github.com/godotengine/godot-demo-projects",
+      "description": "Demonstration and Template Projects",
+      "language": "GDScript",
+      "languageColor": "#355570",
+      "stars": 9541,
+      "forks": 2236,
       "added_stars": "1 star today"
     },
     {

@@ -2,7 +2,7 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
     {
       "title": "triton-lang / triton",
@@ -10,19 +10,9 @@
       "description": "Development repository for the Triton language and compiler",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 20194,
-      "forks": 3196,
+      "stars": 20201,
+      "forks": 3198,
       "added_stars": "67 stars this week"
-    },
-    {
-      "title": "triton-lang / triton-ascend",
-      "url": "https://github.com/triton-lang/triton-ascend",
-      "description": "Triton language and compiler for Ascend NPU",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 166,
-      "forks": 234,
-      "added_stars": "5 stars this week"
     },
     {
       "title": "intel / intel-xpu-backend-for-triton",
@@ -35,14 +25,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "google / heir",
-      "url": "https://github.com/google/heir",
-      "description": "A compiler for homomorphic encryption",
+      "title": "triton-lang / triton-ascend",
+      "url": "https://github.com/triton-lang/triton-ascend",
+      "description": "Triton language and compiler for Ascend NPU",
       "language": "MLIR",
       "languageColor": "#5EC8DB",
-      "stars": 909,
-      "forks": 171,
-      "added_stars": "13 stars this week"
+      "stars": 168,
+      "forks": 235,
+      "added_stars": "5 stars this week"
     }
   ]
 }

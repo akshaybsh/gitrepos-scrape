@@ -2,67 +2,117 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
-    {
-      "title": "zhaoxuya520 / reverse-skill",
-      "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 36488,
-      "forks": 5047,
-      "added_stars": "120 stars today"
-    },
-    {
-      "title": "mandiant / flare-vm",
-      "url": "https://github.com/mandiant/flare-vm",
-      "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 9052,
-      "forks": 1118,
-      "added_stars": "2 stars today"
-    },
     {
       "title": "actions / runner-images",
       "url": "https://github.com/actions/runner-images",
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13157,
+      "stars": 13164,
       "forks": 3849,
-      "added_stars": "10 stars today"
+      "added_stars": "9 stars today"
     },
     {
-      "title": "Orange-Cyberdefense / GOAD",
-      "url": "https://github.com/Orange-Cyberdefense/GOAD",
-      "description": "game of active directory",
+      "title": "Euro-Office / DesktopEditors",
+      "url": "https://github.com/Euro-Office/DesktopEditors",
+      "description": "",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 8332,
-      "forks": 1137,
-      "added_stars": "2 stars today"
+      "stars": 486,
+      "forks": 37,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "dartraiden / NVIDIA-patcher",
-      "url": "https://github.com/dartraiden/NVIDIA-patcher",
-      "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-090 / P104-100 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, L40 ES, and RTX 5080M ES N22W-ES-A1.",
+      "title": "microsoft / sql-server-samples",
+      "url": "https://github.com/microsoft/sql-server-samples",
+      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 1606,
-      "forks": 133,
+      "stars": 11227,
+      "forks": 9087,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "github / copilot-plugins",
+      "url": "https://github.com/github/copilot-plugins",
+      "description": "The official GitHub Copilot plugins collection — MCP servers, skills, hooks, and other extensibility tools for GitHub Copilot.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 364,
+      "forks": 132,
       "added_stars": "0 stars today"
     },
     {
-      "title": "psmux / psmux",
-      "url": "https://github.com/psmux/psmux",
-      "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
+      "title": "mkevenaar / chocolatey-packages",
+      "url": "https://github.com/mkevenaar/chocolatey-packages",
+      "description": "My chocolatey packages",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 3509,
-      "forks": 214,
-      "added_stars": "6 stars today"
+      "stars": 48,
+      "forks": 77,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "appveyor / ci",
+      "url": "https://github.com/appveyor/ci",
+      "description": "AppVeyor community support repository",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 340,
+      "forks": 63,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "microsoft / fabric-toolbox",
+      "url": "https://github.com/microsoft/fabric-toolbox",
+      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 906,
+      "forks": 385,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "zhaoxuya520 / reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "description": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 36605,
+      "forks": 5067,
+      "added_stars": "100 stars today"
+    },
+    {
+      "title": "dataplat / dbatools",
+      "url": "https://github.com/dataplat/dbatools",
+      "description": "🚀 SQL Server automation and instance migrations have never been safer, faster or freer",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2840,
+      "forks": 864,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "SkipToTheEndpoint / OpenIntuneBaseline",
+      "url": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+      "description": "Community-driven baseline to accelerate Intune adoption and learning.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1475,
+      "forks": 274,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "pnp / List-Formatting",
+      "url": "https://github.com/pnp/List-Formatting",
+      "description": "List Formatting Samples for use in SharePoint and Microsoft Lists",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2178,
+      "forks": 928,
+      "added_stars": "0 stars today"
     },
     {
       "title": "PowerShellMafia / PowerSploit",
@@ -72,67 +122,77 @@
       "languageColor": "#012456",
       "stars": 13085,
       "forks": 4706,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "microsoft / fabric-toolbox",
-      "url": "https://github.com/microsoft/fabric-toolbox",
-      "description": "Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 905,
-      "forks": 385,
       "added_stars": "2 stars today"
     },
     {
-      "title": "zoicware / RemoveWindowsAI",
-      "url": "https://github.com/zoicware/RemoveWindowsAI",
-      "description": "Force Remove Copilot, Recall and More in Windows 11",
+      "title": "pnp / copilot-prompts",
+      "url": "https://github.com/pnp/copilot-prompts",
+      "description": "Examples of prompts for Microsoft Copilot",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13053,
-      "forks": 458,
-      "added_stars": "7 stars today"
+      "stars": 881,
+      "forks": 301,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "Euro-Office / DesktopEditors",
-      "url": "https://github.com/Euro-Office/DesktopEditors",
-      "description": "",
+      "title": "I-Am-Jakoby / Flipper-Zero-BadUSB",
+      "url": "https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB",
+      "description": "Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 481,
-      "forks": 36,
+      "stars": 7090,
+      "forks": 892,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "Raphire / Win11Debloat",
+      "url": "https://github.com/Raphire/Win11Debloat",
+      "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 57378,
+      "forks": 2451,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "ScoopInstaller / Scoop",
+      "url": "https://github.com/ScoopInstaller/Scoop",
+      "description": "A command-line installer for Windows.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 24675,
+      "forks": 1536,
       "added_stars": "4 stars today"
     },
     {
-      "title": "ChrisTitusTech / winutil",
-      "url": "https://github.com/ChrisTitusTech/winutil",
-      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
+      "title": "cisagov / ScubaGear",
+      "url": "https://github.com/cisagov/ScubaGear",
+      "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 62846,
-      "forks": 3685,
-      "added_stars": "64 stars today"
-    },
-    {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 11225,
-      "forks": 9088,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "microsoft / sre-agent",
-      "url": "https://github.com/microsoft/sre-agent",
-      "description": "Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve production issues, reduce operational toil, and lower mean time to resolution",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 160,
-      "forks": 97,
+      "stars": 2672,
+      "forks": 381,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "Micke-K / IntuneManagement",
+      "url": "https://github.com/Micke-K/IntuneManagement",
+      "description": "Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 2061,
+      "forks": 377,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "comol / ai_rules_1c",
+      "url": "https://github.com/comol/ai_rules_1c",
+      "description": "Rules\\skills\\subagens for vibecoding in 1C(bsl)",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 459,
+      "forks": 102,
+      "added_stars": "1 star today"
     }
   ]
 }

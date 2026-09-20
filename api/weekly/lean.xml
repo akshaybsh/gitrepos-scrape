@@ -4,7 +4,7 @@
   <title>GitHub Lean Languages Daily Trending</title>
   <description>Daily Trending of Lean Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:59:20 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:24:11 GMT</pubDate>
   <item>
     <title>leanprover / lean4</title>
     <link>https://github.com/leanprover/lean4</link>
@@ -16,19 +16,14 @@
     <description>The math library of Lean 4</description>
   </item>
   <item>
-    <title>leanprover-community / physlib</title>
-    <link>https://github.com/leanprover-community/physlib</link>
-    <description>A project to digitalise results from physics into Lean.</description>
-  </item>
-  <item>
     <title>teorth / analysis</title>
     <link>https://github.com/teorth/analysis</link>
     <description>A Lean companion to Analysis I</description>
   </item>
   <item>
-    <title>google-deepmind / formal-conjectures</title>
-    <link>https://github.com/google-deepmind/formal-conjectures</link>
-    <description>A collection of formalized statements of conjectures in Lean.</description>
+    <title>ImperialCollegeLondon / FLT</title>
+    <link>https://github.com/ImperialCollegeLondon/FLT</link>
+    <description>Ongoing Lean formalisation of the proof of Fermat&#x27;s Last Theorem</description>
   </item>
   <item>
     <title>leanprover-community / mathlib3</title>
@@ -56,6 +51,11 @@
     <description>A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.</description>
   </item>
   <item>
+    <title>leanprover-community / quote4</title>
+    <link>https://github.com/leanprover-community/quote4</link>
+    <description>Intuitive, type-safe expression quotations for Lean 4.</description>
+  </item>
+  <item>
     <title>leanprover-community / ProofWidgets4</title>
     <link>https://github.com/leanprover-community/ProofWidgets4</link>
     <description>Helper toolkit for creating your own Lean 4 UserWidgets</description>
@@ -64,6 +64,11 @@
     <title>leanprover-community / plausible</title>
     <link>https://github.com/leanprover-community/plausible</link>
     <description></description>
+  </item>
+  <item>
+    <title>leanprover-community / physlib</title>
+    <link>https://github.com/leanprover-community/physlib</link>
+    <description>A project to digitalise results from physics into Lean.</description>
   </item>
 </channel>
 </rss>

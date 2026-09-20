@@ -2,7 +2,7 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
   "items": [
     {
       "title": "microsoft / vcpkg",
@@ -10,9 +10,9 @@
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27472,
-      "forks": 7732,
-      "added_stars": "130 stars this month"
+      "stars": 27470,
+      "forks": 7731,
+      "added_stars": "125 stars this month"
     },
     {
       "title": "shinchiro / mpv-winbuild-cmake",
@@ -22,17 +22,7 @@
       "languageColor": "#DA3434",
       "stars": 1754,
       "forks": 254,
-      "added_stars": "52 stars this month"
-    },
-    {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1655,
-      "forks": 131,
-      "added_stars": "38 stars this month"
+      "added_stars": "51 stars this month"
     },
     {
       "title": "OpenMoonRay / openmoonray",
@@ -40,9 +30,9 @@
       "description": "MoonRay is an open-source, award-winning, state-of-the-art production path tracing renderer, initially developed at DreamWorks and an active member project of the Academy Software Foundation.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 4726,
-      "forks": 317,
-      "added_stars": "15 stars this month"
+      "stars": 4727,
+      "forks": 316,
+      "added_stars": "16 stars this month"
     },
     {
       "title": "corrosion-rs / corrosion",
@@ -50,19 +40,29 @@
       "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1498,
+      "stars": 1497,
       "forks": 150,
       "added_stars": "16 stars this month"
     },
     {
-      "title": "arsenm / sanitizers-cmake",
-      "url": "https://github.com/arsenm/sanitizers-cmake",
-      "description": "CMake modules to help use sanitizers",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 413,
-      "forks": 74,
-      "added_stars": "1 star this month"
+      "stars": 1657,
+      "forks": 131,
+      "added_stars": "41 stars this month"
+    },
+    {
+      "title": "TheLartians / PackageProject.cmake",
+      "url": "https://github.com/TheLartians/PackageProject.cmake",
+      "description": "🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 137,
+      "forks": 18,
+      "added_stars": "0 stars this month"
     },
     {
       "title": "KiCad / kicad-footprints",
@@ -73,6 +73,16 @@
       "stars": 690,
       "forks": 703,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "arsenm / sanitizers-cmake",
+      "url": "https://github.com/arsenm/sanitizers-cmake",
+      "description": "CMake modules to help use sanitizers",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 413,
+      "forks": 74,
+      "added_stars": "1 star this month"
     },
     {
       "title": "ecmwf / ecbuild",
@@ -92,7 +102,7 @@
       "languageColor": "#DA3434",
       "stars": 2359,
       "forks": 228,
-      "added_stars": "32 stars this month"
+      "added_stars": "29 stars this month"
     },
     {
       "title": "Andersama / obs-asio",
@@ -100,9 +110,9 @@
       "description": "ASIO plugin for OBS-Studio",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 844,
+      "stars": 845,
       "forks": 53,
-      "added_stars": "9 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "jrl-umi3218 / jrl-cmakemodules",

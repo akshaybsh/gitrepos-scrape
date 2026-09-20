@@ -4,11 +4,16 @@
   <title>GitHub Cmake Languages Daily Trending</title>
   <description>Daily Trending of Cmake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:22:04 GMT</pubDate>
   <item>
     <title>microsoft / vcpkg</title>
     <link>https://github.com/microsoft/vcpkg</link>
     <description>C++ Library Manager for Windows, Linux, and MacOS</description>
+  </item>
+  <item>
+    <title>shinchiro / mpv-winbuild-cmake</title>
+    <link>https://github.com/shinchiro/mpv-winbuild-cmake</link>
+    <description>CMake-based MinGW-w64 Cross Toolchain</description>
   </item>
   <item>
     <title>KiCad / kicad-footprints</title>
@@ -16,19 +21,9 @@
     <description>Official KiCad Footprint Libraries for Kicad version 5</description>
   </item>
   <item>
-    <title>corrosion-rs / corrosion</title>
-    <link>https://github.com/corrosion-rs/corrosion</link>
-    <description>Marrying Rust and CMake - Easy Rust and C/C++ Integration!</description>
-  </item>
-  <item>
-    <title>steinbergmedia / vst3sdk</title>
-    <link>https://github.com/steinbergmedia/vst3sdk</link>
-    <description>VST 3 Plug-In SDK</description>
-  </item>
-  <item>
-    <title>ecmwf / ecbuild</title>
-    <link>https://github.com/ecmwf/ecbuild</link>
-    <description>A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</description>
+    <title>boostorg / cmake</title>
+    <link>https://github.com/boostorg/cmake</link>
+    <description>CMake support infrastructure Boost submodule</description>
   </item>
   <item>
     <title>minecraft-linux / mcpelauncher-manifest</title>

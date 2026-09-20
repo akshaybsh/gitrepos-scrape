@@ -2,37 +2,27 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
-      "title": "NationalSecurityAgency / ghidra",
-      "url": "https://github.com/NationalSecurityAgency/ghidra",
-      "description": "Ghidra is a software reverse engineering (SRE) framework",
+      "title": "TGX-Android / Telegram-X",
+      "url": "https://github.com/TGX-Android/Telegram-X",
+      "description": "The main repository of Telegram X — official alternative Telegram client for Android.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 78952,
-      "forks": 8731,
-      "added_stars": "572 stars today"
+      "stars": 5996,
+      "forks": 1112,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "keycloak / keycloak",
-      "url": "https://github.com/keycloak/keycloak",
-      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "title": "fish2018 / webhtv",
+      "url": "https://github.com/fish2018/webhtv",
+      "description": "WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 36862,
-      "forks": 8942,
-      "added_stars": "25 stars today"
-    },
-    {
-      "title": "apache / doris",
-      "url": "https://github.com/apache/doris",
-      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15963,
-      "forks": 3952,
-      "added_stars": "18 stars today"
+      "stars": 1503,
+      "forks": 436,
+      "added_stars": "9 stars today"
     },
     {
       "title": "spring-projects / spring-boot",
@@ -41,158 +31,98 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 81472,
-      "forks": 42656,
-      "added_stars": "12 stars today"
+      "forks": 42746,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "booklore-app / booklore",
-      "url": "https://github.com/booklore-app/booklore",
-      "description": "BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.",
+      "title": "traccar / traccar",
+      "url": "https://github.com/traccar/traccar",
+      "description": "Open source GPS tracking platform - self-hosted or managed, 200+ device protocols",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1222,
-      "forks": 88,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "GeyserMC / Geyser",
-      "url": "https://github.com/GeyserMC/Geyser",
-      "description": "A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5800,
-      "forks": 887,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "krahets / hello-algo",
-      "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 130268,
-      "forks": 15519,
-      "added_stars": "45 stars today"
-    },
-    {
-      "title": "logisim-evolution / logisim-evolution",
-      "url": "https://github.com/logisim-evolution/logisim-evolution",
-      "description": "Digital logic design tool and simulator",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 7600,
-      "forks": 1010,
+      "stars": 7777,
+      "forks": 3394,
       "added_stars": "11 stars today"
     },
     {
-      "title": "neo4j / neo4j",
-      "url": "https://github.com/neo4j/neo4j",
-      "description": "Graphs for Everyone",
+      "title": "spring-projects / spring-framework",
+      "url": "https://github.com/spring-projects/spring-framework",
+      "description": "Spring Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 17244,
-      "forks": 2703,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "OpenAPITools / openapi-generator",
-      "url": "https://github.com/OpenAPITools/openapi-generator",
-      "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26753,
-      "forks": 7678,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "apache / fineract",
-      "url": "https://github.com/apache/fineract",
-      "description": "Apache Fineract",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 2493,
-      "forks": 2785,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "rstudio / rstudio",
-      "url": "https://github.com/rstudio/rstudio",
-      "description": "RStudio is an integrated development environment (IDE) for R",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 5070,
-      "forks": 1200,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "648540858 / wvp-GB28181-pro",
-      "url": "https://github.com/648540858/wvp-GB28181-pro",
-      "description": "基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 7329,
-      "forks": 2102,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "halo-dev / halo",
-      "url": "https://github.com/halo-dev/halo",
-      "description": "Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 39817,
-      "forks": 10330,
-      "added_stars": "22 stars today"
-    },
-    {
-      "title": "apache / iceberg",
-      "url": "https://github.com/apache/iceberg",
-      "description": "Apache Iceberg",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 9251,
-      "forks": 3536,
+      "stars": 60251,
+      "forks": 38772,
       "added_stars": "4 stars today"
     },
     {
-      "title": "ViaVersion / ViaVersion",
-      "url": "https://github.com/ViaVersion/ViaVersion",
-      "description": "Allows of newer clients to connect to older server versions for Minecraft servers.",
+      "title": "bethington / ghidra-mcp",
+      "url": "https://github.com/bethington/ghidra-mcp",
+      "description": "Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 1634,
-      "forks": 347,
-      "added_stars": "1 star today"
+      "stars": 3920,
+      "forks": 149,
+      "added_stars": "22 stars today"
     },
     {
-      "title": "nageoffer / ragent",
-      "url": "https://github.com/nageoffer/ragent",
-      "description": "企业级 Agentic RAG 智能体 - 全链路覆盖文档解析、多路检索、意图识别、问题重写、会话记忆、MCP 工具调用与深度思考。面向真实业务场景，从 0 到 1 完整工程实现。",
+      "title": "agentscope-ai / agentscope-java",
+      "url": "https://github.com/agentscope-ai/agentscope-java",
+      "description": "Build distributed, production-grade, long-running agents.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 4061,
-      "forks": 825,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "trinodb / trino",
-      "url": "https://github.com/trinodb/trino",
-      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13254,
-      "forks": 3779,
+      "stars": 5704,
+      "forks": 1387,
       "added_stars": "8 stars today"
     },
     {
-      "title": "Card-Forge / forge",
-      "url": "https://github.com/Card-Forge/forge",
-      "description": "An unofficial rules engine for the world's greatest card game.",
+      "title": "LSPosed / LSPosed",
+      "url": "https://github.com/LSPosed/LSPosed",
+      "description": "LSPosed Framework",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 2710,
-      "forks": 1091,
-      "added_stars": "5 stars today"
+      "stars": 24755,
+      "forks": 3581,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "1Panel-dev / CordysCRM",
+      "url": "https://github.com/1Panel-dev/CordysCRM",
+      "description": "🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2731,
+      "forks": 562,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "apache / maven",
+      "url": "https://github.com/apache/maven",
+      "description": "Apache Maven core",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5352,
+      "forks": 3123,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "DependencyTrack / dependency-track",
+      "url": "https://github.com/DependencyTrack/dependency-track",
+      "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 4224,
+      "forks": 817,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "keycloak / keycloak",
+      "url": "https://github.com/keycloak/keycloak",
+      "description": "Open Source Identity and Access Management For Modern Applications and Services",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 36879,
+      "forks": 8945,
+      "added_stars": "22 stars today"
     },
     {
       "title": "elastic / elasticsearch",
@@ -200,9 +130,69 @@
       "description": "Free and Open Source, Distributed, RESTful Search Engine",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 77933,
-      "forks": 26075,
+      "stars": 77941,
+      "forks": 26077,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "apache / doris",
+      "url": "https://github.com/apache/doris",
+      "description": "Apache Doris is a real-time analytics and hybrid search database for AI agents.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15969,
+      "forks": 3950,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "trinodb / trino",
+      "url": "https://github.com/trinodb/trino",
+      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13259,
+      "forks": 3779,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "OtterMind / Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "description": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 28162,
+      "forks": 3036,
       "added_stars": "10 stars today"
+    },
+    {
+      "title": "CaffeineMC / sodium",
+      "url": "https://github.com/CaffeineMC/sodium",
+      "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5773,
+      "forks": 977,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "krahets / hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 130302,
+      "forks": 15522,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "apache / ozone",
+      "url": "https://github.com/apache/ozone",
+      "description": "Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 1299,
+      "forks": 642,
+      "added_stars": "6 stars today"
     }
   ]
 }

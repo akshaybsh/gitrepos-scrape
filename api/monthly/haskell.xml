@@ -4,16 +4,11 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 07:01:42 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
   <item>
     <title>jgm / pandoc</title>
     <link>https://github.com/jgm/pandoc</link>
     <description>Universal markup converter</description>
-  </item>
-  <item>
-    <title>PostgREST / postgrest</title>
-    <link>https://github.com/PostgREST/postgrest</link>
-    <description>REST API for any Postgres database</description>
   </item>
   <item>
     <title>koalaman / shellcheck</title>
@@ -41,19 +36,24 @@
     <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
   </item>
   <item>
+    <title>PostgREST / postgrest</title>
+    <link>https://github.com/PostgREST/postgrest</link>
+    <description>REST API for any Postgres database</description>
+  </item>
+  <item>
     <title>haskell / haskell-language-server</title>
     <link>https://github.com/haskell/haskell-language-server</link>
     <description>Official Haskell IDE support via the language server protocol (LSP)</description>
   </item>
   <item>
-    <title>mtolly / onyx</title>
-    <link>https://github.com/mtolly/onyx</link>
-    <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
-  </item>
-  <item>
     <title>wireapp / wire-server</title>
     <link>https://github.com/wireapp/wire-server</link>
     <description>🇪🇺 Wire back-end services</description>
+  </item>
+  <item>
+    <title>mtolly / onyx</title>
+    <link>https://github.com/mtolly/onyx</link>
+    <description>Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</description>
   </item>
   <item>
     <title>nammayatri / nammayatri</title>
@@ -64,11 +64,6 @@
     <title>IntersectMBO / cardano-ledger</title>
     <link>https://github.com/IntersectMBO/cardano-ledger</link>
     <description>The ledger implementation and specifications of the Cardano blockchain.</description>
-  </item>
-  <item>
-    <title>simplex-chat / simplexmq</title>
-    <link>https://github.com/simplex-chat/simplexmq</link>
-    <description>⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</description>
   </item>
   <item>
     <title>agda / agda</title>
@@ -86,14 +81,9 @@
     <description>A friendly programming language from the future</description>
   </item>
   <item>
-    <title>therepanic / openleetcode</title>
-    <link>https://github.com/therepanic/openleetcode</link>
-    <description>we have democratized the LeetCode tests</description>
-  </item>
-  <item>
-    <title>fossas / fossa-cli</title>
-    <link>https://github.com/fossas/fossa-cli</link>
-    <description>Fast, portable and reliable dependency analysis for any codebase. Supports license &amp; vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.</description>
+    <title>IntersectMBO / plutus</title>
+    <link>https://github.com/IntersectMBO/plutus</link>
+    <description>The Plutus language implementation and tools</description>
   </item>
 </channel>
 </rss>

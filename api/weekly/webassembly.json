@@ -2,27 +2,17 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
-    {
-      "title": "WebAssembly / binaryen",
-      "url": "https://github.com/WebAssembly/binaryen",
-      "description": "Optimizer and compiler/toolchain library for WebAssembly",
-      "language": "WebAssembly",
-      "languageColor": "#04133b",
-      "stars": 8627,
-      "forks": 885,
-      "added_stars": "8 stars this week"
-    },
     {
       "title": "AssemblyScript / assemblyscript",
       "url": "https://github.com/AssemblyScript/assemblyscript",
       "description": "A TypeScript-like language for WebAssembly.",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 18021,
+      "stars": 18024,
       "forks": 690,
-      "added_stars": "9 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "iRath96 / webNBT",
@@ -33,6 +23,16 @@
       "stars": 282,
       "forks": 53,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "WebAssembly / binaryen",
+      "url": "https://github.com/WebAssembly/binaryen",
+      "description": "Optimizer and compiler/toolchain library for WebAssembly",
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 8629,
+      "forks": 885,
+      "added_stars": "6 stars this week"
     }
   ]
 }

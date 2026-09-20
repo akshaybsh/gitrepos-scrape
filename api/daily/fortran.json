@@ -2,17 +2,27 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
-      "title": "MetOffice / jules",
-      "url": "https://github.com/MetOffice/jules",
-      "description": "The Joint UK Land Environment Simulator",
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 23,
-      "forks": 36,
+      "stars": 1763,
+      "forks": 882,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1210,
+      "forks": 501,
+      "added_stars": "1 star today"
     },
     {
       "title": "OpenFAST / openfast",
@@ -22,17 +32,7 @@
       "languageColor": "#4d41b1",
       "stars": 969,
       "forks": 540,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1763,
-      "forks": 882,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -45,14 +45,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
+      "title": "MetOffice / jules",
+      "url": "https://github.com/MetOffice/jules",
+      "description": "The Joint UK Land Environment Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1209,
-      "forks": 500,
-      "added_stars": "1 star today"
+      "stars": 23,
+      "forks": 36,
+      "added_stars": "0 stars today"
     },
     {
       "title": "NGEET / fates",
@@ -62,6 +62,16 @@
       "languageColor": "#4d41b1",
       "stars": 130,
       "forks": 109,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 441,
+      "forks": 481,
       "added_stars": "0 stars today"
     },
     {
@@ -75,14 +85,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 441,
-      "forks": 481,
-      "added_stars": "1 star today"
+      "stars": 406,
+      "forks": 763,
+      "added_stars": "0 stars today"
     },
     {
       "title": "MCSclimate / MCT",
@@ -100,19 +110,19 @@
       "description": "Fire Dynamics Simulator",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 876,
+      "stars": 877,
       "forks": 689,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "GEOS-ESM / MAPL",
-      "url": "https://github.com/GEOS-ESM/MAPL",
-      "description": "MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)",
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 45,
-      "forks": 25,
-      "added_stars": "0 stars today"
+      "stars": 1708,
+      "forks": 397,
+      "added_stars": "1 star today"
     }
   ]
 }

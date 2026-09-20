@@ -4,21 +4,21 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 07:01:42 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
   <item>
     <title>Neroued / ninfer</title>
     <link>https://github.com/Neroued/ninfer</link>
     <description>High-performance single-GPU inference for selected model checkpoints and GPUs.</description>
   </item>
   <item>
-    <title>dragonflydb / dragonfly</title>
-    <link>https://github.com/dragonflydb/dragonfly</link>
-    <description>A modern replacement for Redis and Memcached</description>
-  </item>
-  <item>
     <title>audacity / audacity</title>
     <link>https://github.com/audacity/audacity</link>
     <description>Audio Editor</description>
+  </item>
+  <item>
+    <title>dragonflydb / dragonfly</title>
+    <link>https://github.com/dragonflydb/dragonfly</link>
+    <description>A modern replacement for Redis and Memcached</description>
   </item>
   <item>
     <title>microsoft / microsoft-ui-xaml</title>
@@ -41,11 +41,6 @@
     <description>Self-hosted game stream host for Moonlight.</description>
   </item>
   <item>
-    <title>vicinaehq / vicinae</title>
-    <link>https://github.com/vicinaehq/vicinae</link>
-    <description>A focused launcher for your desktop - native, fast, extensible</description>
-  </item>
-  <item>
     <title>openvinotoolkit / openvino</title>
     <link>https://github.com/openvinotoolkit/openvino</link>
     <description>OpenVINO™ is an open source toolkit for optimizing and deploying AI inference</description>
@@ -54,6 +49,11 @@
     <title>mod-playerbots / mod-playerbots</title>
     <link>https://github.com/mod-playerbots/mod-playerbots</link>
     <description>AzerothCore Playerbots Module</description>
+  </item>
+  <item>
+    <title>vicinaehq / vicinae</title>
+    <link>https://github.com/vicinaehq/vicinae</link>
+    <description>A focused launcher for your desktop - native, fast, extensible</description>
   </item>
   <item>
     <title>fmtlib / fmt</title>
@@ -66,6 +66,11 @@
     <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
   </item>
   <item>
+    <title>moonlight-stream / moonlight-qt</title>
+    <link>https://github.com/moonlight-stream/moonlight-qt</link>
+    <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
+  </item>
+  <item>
     <title>flameshot-org / flameshot</title>
     <link>https://github.com/flameshot-org/flameshot</link>
     <description>Powerful yet simple to use screenshot software 🖥️ 📸</description>
@@ -76,29 +81,14 @@
     <description>LLM inference in C/C++</description>
   </item>
   <item>
-    <title>moonlight-stream / moonlight-qt</title>
-    <link>https://github.com/moonlight-stream/moonlight-qt</link>
-    <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
-  </item>
-  <item>
-    <title>optiscaler / OptiScaler</title>
-    <link>https://github.com/optiscaler/OptiScaler</link>
-    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
-  </item>
-  <item>
     <title>duckdb / duckdb</title>
     <link>https://github.com/duckdb/duckdb</link>
     <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
-    <title>microsoft / onnxruntime</title>
-    <link>https://github.com/microsoft/onnxruntime</link>
-    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
-  </item>
-  <item>
-    <title>prusa3d / PrusaSlicer</title>
-    <link>https://github.com/prusa3d/PrusaSlicer</link>
-    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
+    <title>tenstorrent / tt-metal</title>
+    <link>https://github.com/tenstorrent/tt-metal</link>
+    <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
   </item>
   <item>
     <title>hrydgard / ppsspp</title>
@@ -106,14 +96,34 @@
     <description>A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.</description>
   </item>
   <item>
-    <title>noctalia-dev / noctalia</title>
-    <link>https://github.com/noctalia-dev/noctalia</link>
-    <description>A sleek, customizable desktop shell crafted for Wayland.</description>
+    <title>optiscaler / OptiScaler</title>
+    <link>https://github.com/optiscaler/OptiScaler</link>
+    <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
+  </item>
+  <item>
+    <title>prusa3d / PrusaSlicer</title>
+    <link>https://github.com/prusa3d/PrusaSlicer</link>
+    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
+  </item>
+  <item>
+    <title>microsoft / onnxruntime</title>
+    <link>https://github.com/microsoft/onnxruntime</link>
+    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
   </item>
   <item>
     <title>imputnet / helium</title>
     <link>https://github.com/imputnet/helium</link>
     <description>Private, fast, and honest web browser</description>
+  </item>
+  <item>
+    <title>google-deepmind / mujoco</title>
+    <link>https://github.com/google-deepmind/mujoco</link>
+    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
+  </item>
+  <item>
+    <title>deskflow / deskflow</title>
+    <link>https://github.com/deskflow/deskflow</link>
+    <description>Share a single keyboard and mouse between multiple computers.</description>
   </item>
 </channel>
 </rss>

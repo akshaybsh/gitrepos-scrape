@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
   "items": [
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -20,7 +20,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8762,
+      "stars": 8766,
       "forks": 2632,
       "added_stars": "75 stars this month"
     },
@@ -30,19 +30,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23082,
+      "stars": 23083,
       "forks": 1436,
-      "added_stars": "88 stars this month"
-    },
-    {
-      "title": "aspect-build / rules_js",
-      "url": "https://github.com/aspect-build/rules_js",
-      "description": "High-performance Bazel rules for running Node.js tools and building JavaScript projects",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 378,
-      "forks": 183,
-      "added_stars": "4 stars this month"
+      "added_stars": "86 stars this month"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -53,6 +43,16 @@
       "stars": 247,
       "forks": 196,
       "added_stars": "1 star this month"
+    },
+    {
+      "title": "bazel-contrib / rules_python",
+      "url": "https://github.com/bazel-contrib/rules_python",
+      "description": "Bazel Python Rules",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 690,
+      "forks": 722,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "bazel-contrib / rules_distroless",
@@ -70,19 +70,9 @@
       "description": "Common Expression Language -- specification and binary representation",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 3980,
+      "stars": 3981,
       "forks": 305,
-      "added_stars": "41 stars this month"
-    },
-    {
-      "title": "bazel-contrib / rules_python",
-      "url": "https://github.com/bazel-contrib/rules_python",
-      "description": "Bazel Python Rules",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 690,
-      "forks": 722,
-      "added_stars": "5 stars this month"
+      "added_stars": "37 stars this month"
     },
     {
       "title": "bazelbuild / rules_rust",
@@ -95,6 +85,16 @@
       "added_stars": "10 stars this month"
     },
     {
+      "title": "tidbyt / community",
+      "url": "https://github.com/tidbyt/community",
+      "description": "A publishing platform for apps developed by the Tidbyt community 🚀",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 427,
+      "forks": 822,
+      "added_stars": "5 stars this month"
+    },
+    {
       "title": "openconfig / gnoi",
       "url": "https://github.com/openconfig/gnoi",
       "description": "gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.",
@@ -103,16 +103,6 @@
       "stars": 195,
       "forks": 90,
       "added_stars": "3 stars this month"
-    },
-    {
-      "title": "googleapis / api-common-protos",
-      "url": "https://github.com/googleapis/api-common-protos",
-      "description": "A standard library for use in specifying protocol buffer APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 265,
-      "forks": 59,
-      "added_stars": "0 stars this month"
     },
     {
       "title": "grpc / grpc-proto",
@@ -125,14 +115,44 @@
       "added_stars": "2 stars this month"
     },
     {
-      "title": "bazelbuild / rules_swift",
-      "url": "https://github.com/bazelbuild/rules_swift",
-      "description": "Bazel rules to build Swift on Apple and Linux platforms",
+      "title": "googleapis / api-common-protos",
+      "url": "https://github.com/googleapis/api-common-protos",
+      "description": "A standard library for use in specifying protocol buffer APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 353,
-      "forks": 172,
-      "added_stars": "2 stars this month"
+      "stars": 265,
+      "forks": 59,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "aspect-build / rules_lint",
+      "url": "https://github.com/aspect-build/rules_lint",
+      "description": "Run static analysis tools with Bazel",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 155,
+      "forks": 125,
+      "added_stars": "4 stars this month"
+    },
+    {
+      "title": "aspect-build / rules_py",
+      "url": "https://github.com/aspect-build/rules_py",
+      "description": "More compatible Bazel rules for running Python tools and building Python projects",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 148,
+      "forks": 98,
+      "added_stars": "5 stars this month"
+    },
+    {
+      "title": "aspect-build / aspect-cli",
+      "url": "https://github.com/aspect-build/aspect-cli",
+      "description": "{ Correct, Fast, Usable } -- Choose three",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 165,
+      "forks": 45,
+      "added_stars": "3 stars this month"
     },
     {
       "title": "immich-app / immich-charts",

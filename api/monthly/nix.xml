@@ -4,7 +4,7 @@
   <title>GitHub Nix Languages Daily Trending</title>
   <description>Daily Trending of Nix Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 07:01:42 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
   <item>
     <title>numtide / llm-agents.nix</title>
     <link>https://github.com/numtide/llm-agents.nix</link>
@@ -21,9 +21,9 @@
     <description>Nix Packages collection &amp; NixOS</description>
   </item>
   <item>
-    <title>nix-darwin / nix-darwin</title>
-    <link>https://github.com/nix-darwin/nix-darwin</link>
-    <description>Manage your macOS using Nix</description>
+    <title>nix-community / home-manager</title>
+    <link>https://github.com/nix-community/home-manager</link>
+    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
   </item>
   <item>
     <title>supabase / postgres</title>
@@ -31,9 +31,9 @@
     <description>Unmodified Postgres with some useful extensions</description>
   </item>
   <item>
-    <title>nix-community / home-manager</title>
-    <link>https://github.com/nix-community/home-manager</link>
-    <description>Manage a user environment using Nix [maintainer=@khaneliman, @rycee]</description>
+    <title>Mic92 / sops-nix</title>
+    <link>https://github.com/Mic92/sops-nix</link>
+    <description>Atomic secret provisioning for NixOS based on sops</description>
   </item>
   <item>
     <title>nix-community / nixvim</title>
@@ -46,9 +46,19 @@
     <description>NixOS MicroVMs</description>
   </item>
   <item>
-    <title>Mic92 / sops-nix</title>
-    <link>https://github.com/Mic92/sops-nix</link>
-    <description>Atomic secret provisioning for NixOS based on sops</description>
+    <title>nix-darwin / nix-darwin</title>
+    <link>https://github.com/nix-darwin/nix-darwin</link>
+    <description>Manage your macOS using Nix</description>
+  </item>
+  <item>
+    <title>NixOS / nix.dev</title>
+    <link>https://github.com/NixOS/nix.dev</link>
+    <description>Official documentation for getting things done with Nix.</description>
+  </item>
+  <item>
+    <title>nix-community / stylix</title>
+    <link>https://github.com/nix-community/stylix</link>
+    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
   </item>
   <item>
     <title>nix-community / disko</title>
@@ -56,19 +66,9 @@
     <description>Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]</description>
   </item>
   <item>
-    <title>Mic92 / dotfiles</title>
-    <link>https://github.com/Mic92/dotfiles</link>
-    <description>My NixOS dotfiles</description>
-  </item>
-  <item>
     <title>feel-co / hjem</title>
     <link>https://github.com/feel-co/hjem</link>
     <description>Streamlined, elegant $HOME management with Nix</description>
-  </item>
-  <item>
-    <title>nix-community / stylix</title>
-    <link>https://github.com/nix-community/stylix</link>
-    <description>Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]</description>
   </item>
 </channel>
 </rss>

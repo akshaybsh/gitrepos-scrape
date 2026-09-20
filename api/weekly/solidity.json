@@ -2,16 +2,26 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
+    {
+      "title": "SunWeb3Sec / DeFiHackLabs",
+      "url": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+      "description": "Reproduce DeFi hacked incidents using Foundry.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 6795,
+      "forks": 1481,
+      "added_stars": "15 stars this week"
+    },
     {
       "title": "OpenZeppelin / openzeppelin-contracts",
       "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
       "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 27242,
-      "forks": 12403,
+      "stars": 27243,
+      "forks": 12401,
       "added_stars": "11 stars this week"
     },
     {
@@ -21,8 +31,8 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 1058,
-      "forks": 523,
-      "added_stars": "2 stars this week"
+      "forks": 522,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "a16z / erc4626-tests",
@@ -50,7 +60,7 @@
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 3375,
+      "stars": 3376,
       "forks": 491,
       "added_stars": "5 stars this week"
     },
@@ -62,7 +72,7 @@
       "languageColor": "#AA6746",
       "stars": 4286,
       "forks": 706,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "Uniswap / v4-core",
@@ -70,9 +80,9 @@
       "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
       "language": "Solidity",
       "languageColor": "#AA6746",
-      "stars": 2530,
+      "stars": 2531,
       "forks": 1329,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     }
   ]
 }

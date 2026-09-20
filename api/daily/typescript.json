@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
       "title": "anthropics / claude-code",
@@ -10,49 +10,39 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 146417,
-      "forks": 23821,
-      "added_stars": "444 stars today"
+      "stars": 146828,
+      "forks": 23981,
+      "added_stars": "483 stars today"
     },
     {
-      "title": "Tencent / BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5469,
-      "forks": 378,
-      "added_stars": "1,306 stars today"
+      "stars": 16304,
+      "forks": 2104,
+      "added_stars": "472 stars today"
     },
     {
-      "title": "Fission-AI / OpenSpec",
-      "url": "https://github.com/Fission-AI/OpenSpec",
-      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "title": "ZuodaoTech / everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "description": "人人都能用英语",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 69461,
-      "forks": 4760,
-      "added_stars": "296 stars today"
+      "stars": 38002,
+      "forks": 5218,
+      "added_stars": "48 stars today"
     },
     {
-      "title": "supermemoryai / supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "title": "vercel-labs / json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "description": "The Generative UI framework",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 30406,
-      "forks": 2648,
-      "added_stars": "140 stars today"
-    },
-    {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 110219,
-      "forks": 14329,
-      "added_stars": "120 stars today"
+      "stars": 16909,
+      "forks": 903,
+      "added_stars": "585 stars today"
     },
     {
       "title": "ahmedkhaleel2004 / gitdiagram",
@@ -60,79 +50,9 @@
       "description": "Free, simple, fast interactive diagrams for any GitHub repository",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16542,
-      "forks": 1261,
-      "added_stars": "152 stars today"
-    },
-    {
-      "title": "cline / cline",
-      "url": "https://github.com/cline/cline",
-      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 68720,
-      "forks": 7428,
-      "added_stars": "242 stars today"
-    },
-    {
-      "title": "rowboatlabs / rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "AI coworker with memory and collaboration",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 17904,
-      "forks": 1784,
-      "added_stars": "57 stars today"
-    },
-    {
-      "title": "NanmiCoder / cc-haha",
-      "url": "https://github.com/NanmiCoder/cc-haha",
-      "description": "Local-first cross-platform desktop workspace for Claude Code / agents: multi-agent, Git worktrees, code diffs, skill marketplace, multi-model, Computer Use, task-aware desktop pets, with WeChat, Feishu, DingTalk, Telegram, WhatsApp and H5 access.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 14632,
-      "forks": 8570,
-      "added_stars": "33 stars today"
-    },
-    {
-      "title": "every-app / open-seo",
-      "url": "https://github.com/every-app/open-seo",
-      "description": "Open source alternative to Semrush and Ahrefs",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 19369,
-      "forks": 2490,
-      "added_stars": "189 stars today"
-    },
-    {
-      "title": "backnotprop / plannotator",
-      "url": "https://github.com/backnotprop/plannotator",
-      "description": "Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 8796,
-      "forks": 661,
-      "added_stars": "39 stars today"
-    },
-    {
-      "title": "tashfeenahmed / freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 27235,
-      "forks": 3718,
-      "added_stars": "264 stars today"
-    },
-    {
-      "title": "stablyai / orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 72133,
-      "forks": 4719,
-      "added_stars": "831 stars today"
+      "stars": 16680,
+      "forks": 1269,
+      "added_stars": "285 stars today"
     },
     {
       "title": "n8n-io / n8n",
@@ -140,39 +60,29 @@
       "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 205319,
-      "forks": 60783,
-      "added_stars": "558 stars today"
+      "stars": 205414,
+      "forks": 60794,
+      "added_stars": "126 stars today"
     },
     {
-      "title": "lfnovo / open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "description": "An Open Source implementation of Notebook LM with more flexibility and features",
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 39157,
-      "forks": 4538,
-      "added_stars": "62 stars today"
+      "stars": 5857,
+      "forks": 413,
+      "added_stars": "612 stars today"
     },
     {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "title": "Fission-AI / OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 55129,
-      "forks": 6867,
-      "added_stars": "416 stars today"
-    },
-    {
-      "title": "heygen-com / hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 51468,
-      "forks": 4688,
-      "added_stars": "333 stars today"
+      "stars": 69607,
+      "forks": 4766,
+      "added_stars": "367 stars today"
     },
     {
       "title": "yikart / AiToEarn",
@@ -180,9 +90,59 @@
       "description": "Let's use AI to Earn!",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 26067,
-      "forks": 4212,
-      "added_stars": "50 stars today"
+      "stars": 26140,
+      "forks": 4228,
+      "added_stars": "45 stars today"
+    },
+    {
+      "title": "withastro / flue",
+      "url": "https://github.com/withastro/flue",
+      "description": "The sandbox agent framework.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8310,
+      "forks": 496,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "supermemoryai / supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 30651,
+      "forks": 2673,
+      "added_stars": "392 stars today"
+    },
+    {
+      "title": "koala73 / worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 87047,
+      "forks": 13216,
+      "added_stars": "90 stars today"
+    },
+    {
+      "title": "ChromeDevTools / chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "description": "Chrome DevTools for coding agents",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 52343,
+      "forks": 4283,
+      "added_stars": "39 stars today"
+    },
+    {
+      "title": "google-labs-code / stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 8344,
+      "forks": 1107,
+      "added_stars": "9 stars today"
     }
   ]
 }

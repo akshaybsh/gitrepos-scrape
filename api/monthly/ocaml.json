@@ -2,18 +2,8 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
   "items": [
-    {
-      "title": "facebook / infer",
-      "url": "https://github.com/facebook/infer",
-      "description": "A static analyzer for Java, C, C++, and Objective-C",
-      "language": "OCaml",
-      "languageColor": "#ef7a08",
-      "stars": 15706,
-      "forks": 2101,
-      "added_stars": "51 stars this month"
-    },
     {
       "title": "MinaProtocol / mina",
       "url": "https://github.com/MinaProtocol/mina",
@@ -22,7 +12,7 @@
       "languageColor": "#ef7a08",
       "stars": 2121,
       "forks": 585,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "ocaml / ocaml",
@@ -30,9 +20,9 @@
       "description": "The core OCaml system: compilers, runtime system, base libraries",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 6565,
+      "stars": 6566,
       "forks": 1410,
-      "added_stars": "64 stars this month"
+      "added_stars": "63 stars this month"
     },
     {
       "title": "AeneasVerif / aeneas",
@@ -42,7 +32,7 @@
       "languageColor": "#ef7a08",
       "stars": 971,
       "forks": 107,
-      "added_stars": "56 stars this month"
+      "added_stars": "53 stars this month"
     },
     {
       "title": "opengrep / opengrep",
@@ -50,9 +40,19 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3091,
-      "forks": 264,
-      "added_stars": "130 stars this month"
+      "stars": 3093,
+      "forks": 265,
+      "added_stars": "126 stars this month"
+    },
+    {
+      "title": "facebook / infer",
+      "url": "https://github.com/facebook/infer",
+      "description": "A static analyzer for Java, C, C++, and Objective-C",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 15706,
+      "forks": 2101,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "ocaml / dune",
@@ -60,9 +60,9 @@
       "description": "A composable build system for OCaml.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1915,
+      "stars": 1916,
       "forks": 500,
-      "added_stars": "9 stars this month"
+      "added_stars": "10 stars this month"
     },
     {
       "title": "rocq-prover / rocq",
@@ -91,8 +91,18 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 1735,
-      "forks": 161,
+      "forks": 162,
       "added_stars": "17 stars this month"
+    },
+    {
+      "title": "bcpierce00 / unison",
+      "url": "https://github.com/bcpierce00/unison",
+      "description": "Unison file synchronizer",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 5486,
+      "forks": 273,
+      "added_stars": "47 stars this month"
     },
     {
       "title": "oxcaml / oxcaml",
@@ -101,8 +111,8 @@
       "language": "OCaml",
       "languageColor": "#ef7a08",
       "stars": 885,
-      "forks": 182,
-      "added_stars": "43 stars this month"
+      "forks": 183,
+      "added_stars": "42 stars this month"
     },
     {
       "title": "caffeinelabs / motoko",
@@ -130,7 +140,7 @@
       "description": "FUSE filesystem over Google Drive",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 5959,
+      "stars": 5960,
       "forks": 367,
       "added_stars": "10 stars this month"
     }

@@ -2,17 +2,27 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
     {
-      "title": "zephyrproject-rtos / zephyr",
-      "url": "https://github.com/zephyrproject-rtos/zephyr",
-      "description": "Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.",
+      "title": "HarbourMasters / PaperBoat",
+      "url": "https://github.com/HarbourMasters/PaperBoat",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16559,
-      "forks": 9995,
-      "added_stars": "9 stars today"
+      "stars": 323,
+      "forks": 17,
+      "added_stars": "34 stars today"
+    },
+    {
+      "title": "stackia / rtp2httpd",
+      "url": "https://github.com/stackia/rtp2httpd",
+      "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2103,
+      "forks": 326,
+      "added_stars": "6 stars today"
     },
     {
       "title": "pgvector / pgvector",
@@ -20,59 +30,9 @@
       "description": "Open-source vector similarity search for Postgres",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 23072,
-      "forks": 1326,
-      "added_stars": "13 stars today"
-    },
-    {
-      "title": "rexglue / rexglue-sdk",
-      "url": "https://github.com/rexglue/rexglue-sdk",
-      "description": "Xbox 360 Recompilation Runtime and Toolkit",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 892,
-      "forks": 126,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "nginx / nginx",
-      "url": "https://github.com/nginx/nginx",
-      "description": "The official NGINX Open Source repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 31684,
-      "forks": 8304,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "NLnetLabs / unbound",
-      "url": "https://github.com/NLnetLabs/unbound",
-      "description": "Unbound is a validating, recursive, and caching DNS resolver.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4914,
-      "forks": 453,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "microsoft / mimalloc",
-      "url": "https://github.com/microsoft/mimalloc",
-      "description": "mimalloc is a compact general purpose allocator with excellent performance.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13372,
-      "forks": 1178,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "Cisco-Talos / clamav",
-      "url": "https://github.com/Cisco-Talos/clamav",
-      "description": "ClamAV - Documentation is here: https://docs.clamav.net",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7252,
-      "forks": 924,
-      "added_stars": "4 stars today"
+      "stars": 23095,
+      "forks": 1327,
+      "added_stars": "24 stars today"
     },
     {
       "title": "foobnix / LibreraReader",
@@ -80,69 +40,49 @@
       "description": "Book Reader for Android",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4821,
-      "forks": 445,
-      "added_stars": "11 stars today"
+      "stars": 4830,
+      "forks": 447,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "arendst / Tasmota",
-      "url": "https://github.com/arendst/Tasmota",
-      "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+      "title": "nesbox / TIC-80",
+      "url": "https://github.com/nesbox/TIC-80",
+      "description": "TIC-80 is a fantasy computer for making, playing and sharing tiny games.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 24763,
-      "forks": 5179,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "espressif / esp-idf",
-      "url": "https://github.com/espressif/esp-idf",
-      "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 19051,
-      "forks": 8489,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "madler / zlib",
-      "url": "https://github.com/madler/zlib",
-      "description": "A massively spiffy yet delicately unobtrusive compression library.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 7093,
-      "forks": 2855,
+      "stars": 6131,
+      "forks": 646,
       "added_stars": "4 stars today"
     },
     {
-      "title": "erincatto / box3d",
-      "url": "https://github.com/erincatto/box3d",
-      "description": "Box3D is a 3D physics engine for games",
+      "title": "colbymchenry / codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 6388,
-      "forks": 339,
-      "added_stars": "11 stars today"
+      "stars": 71525,
+      "forks": 4598,
+      "added_stars": "76 stars today"
     },
     {
-      "title": "xmrig / xmrig",
-      "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+      "title": "UberGuidoZ / Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10125,
-      "forks": 3833,
-      "added_stars": "3 stars today"
+      "stars": 17555,
+      "forks": 3915,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "matz / spinel",
-      "url": "https://github.com/matz/spinel",
+      "title": "jemalloc / jemalloc",
+      "url": "https://github.com/jemalloc/jemalloc",
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 1868,
-      "forks": 97,
-      "added_stars": "9 stars today"
+      "stars": 11177,
+      "forks": 1649,
+      "added_stars": "17 stars today"
     },
     {
       "title": "Cyan4973 / xxHash",
@@ -150,9 +90,9 @@
       "description": "Extremely fast non-cryptographic hash algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 11262,
+      "stars": 11267,
       "forks": 912,
-      "added_stars": "9 stars today"
+      "added_stars": "5 stars today"
     },
     {
       "title": "openssl / openssl",
@@ -160,49 +100,19 @@
       "description": "General purpose TLS and crypto library",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 30804,
-      "forks": 11468,
+      "stars": 30808,
+      "forks": 11470,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Rainchus / Donkey-Kong-64-Recompiled",
+      "url": "https://github.com/Rainchus/Donkey-Kong-64-Recompiled",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 439,
+      "forks": 12,
       "added_stars": "9 stars today"
-    },
-    {
-      "title": "nothings / stb",
-      "url": "https://github.com/nothings/stb",
-      "description": "stb single-file public domain libraries for C/C++",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34670,
-      "forks": 8087,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "kingToolbox / WindTerm",
-      "url": "https://github.com/kingToolbox/WindTerm",
-      "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 32285,
-      "forks": 2461,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "i12bp8 / TagTinker",
-      "url": "https://github.com/i12bp8/TagTinker",
-      "description": "Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 1918,
-      "forks": 148,
-      "added_stars": "27 stars today"
-    },
-    {
-      "title": "maxsteeel / nomount",
-      "url": "https://github.com/maxsteeel/nomount",
-      "description": "NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 306,
-      "forks": 63,
-      "added_stars": "7 stars today"
     },
     {
       "title": "jqlang / jq",
@@ -210,9 +120,9 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 35622,
-      "forks": 2106,
-      "added_stars": "5 stars today"
+      "stars": 35643,
+      "forks": 2207,
+      "added_stars": "7 stars today"
     },
     {
       "title": "FRRouting / frr",
@@ -220,8 +130,68 @@
       "description": "The FRRouting Protocol Suite",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4295,
-      "forks": 1616,
+      "stars": 4296,
+      "forks": 1617,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "PerformanC / ReZygisk",
+      "url": "https://github.com/PerformanC/ReZygisk",
+      "description": "Transparent implementation of Zygisk.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3950,
+      "forks": 368,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "tmux / tmux",
+      "url": "https://github.com/tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 49377,
+      "forks": 2905,
+      "added_stars": "22 stars today"
+    },
+    {
+      "title": "eclipse-mosquitto / mosquitto",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "description": "Eclipse Mosquitto - An open source MQTT broker",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11211,
+      "forks": 2642,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "hathach / tinyusb",
+      "url": "https://github.com/hathach/tinyusb",
+      "description": "An open source cross-platform USB stack for embedded system",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 7110,
+      "forks": 1520,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "checkpoint-restore / criu",
+      "url": "https://github.com/checkpoint-restore/criu",
+      "description": "Checkpoint/Restore tool",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 3999,
+      "forks": 786,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "timescale / timescaledb",
+      "url": "https://github.com/timescale/timescaledb",
+      "description": "A time-series database for high-performance real-time analytics packaged as a Postgres extension",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 23549,
+      "forks": 1154,
       "added_stars": "2 stars today"
     }
   ]

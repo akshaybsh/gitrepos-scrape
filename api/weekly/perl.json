@@ -2,7 +2,7 @@
   "title": "GitHub Perl Languages Daily Trending",
   "description": "Daily Trending of Perl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
     {
       "title": "exiftool / exiftool",
@@ -10,9 +10,19 @@
       "description": "ExifTool meta information reader/writer",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 5060,
-      "forks": 486,
-      "added_stars": "33 stars this week"
+      "stars": 5069,
+      "forks": 487,
+      "added_stars": "37 stars this week"
+    },
+    {
+      "title": "holzschu / a-shell",
+      "url": "https://github.com/holzschu/a-shell",
+      "description": "A terminal for iOS, with multiple windows",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 3929,
+      "forks": 213,
+      "added_stars": "16 stars this week"
     },
     {
       "title": "znuny / Znuny",
@@ -25,24 +35,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "holzschu / a-shell",
-      "url": "https://github.com/holzschu/a-shell",
-      "description": "A terminal for iOS, with multiple windows",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 3926,
-      "forks": 213,
-      "added_stars": "15 stars this week"
-    },
-    {
       "title": "Perl / perl5",
       "url": "https://github.com/Perl/perl5",
       "description": "🐪 The Perl programming language",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 2324,
+      "stars": 2325,
       "forks": 646,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
     },
     {
       "title": "glpi-project / glpi-agent",
@@ -52,7 +52,7 @@
       "languageColor": "#0298c3",
       "stars": 492,
       "forks": 120,
-      "added_stars": "5 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
       "title": "Difegue / LANraragi",
@@ -60,9 +60,19 @@
       "description": "Web application for archival and reading of manga/doujinshi. Lightweight and Docker-ready for NAS/servers.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3111,
+      "stars": 3114,
       "forks": 225,
-      "added_stars": "12 stars this week"
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "brendangregg / FlameGraph",
+      "url": "https://github.com/brendangregg/FlameGraph",
+      "description": "Stack trace visualizer",
+      "language": "Perl",
+      "languageColor": "#0298c3",
+      "stars": 19761,
+      "forks": 2110,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "adrienverge / openfortivpn",
@@ -71,7 +81,7 @@
       "language": "Perl",
       "languageColor": "#0298c3",
       "stars": 3418,
-      "forks": 381,
+      "forks": 380,
       "added_stars": "4 stars this week"
     },
     {
@@ -85,24 +95,14 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "brendangregg / FlameGraph",
-      "url": "https://github.com/brendangregg/FlameGraph",
-      "description": "Stack trace visualizer",
-      "language": "Perl",
-      "languageColor": "#0298c3",
-      "stars": 19759,
-      "forks": 2111,
-      "added_stars": "21 stars this week"
-    },
-    {
       "title": "OpenKore / openkore",
       "url": "https://github.com/OpenKore/openkore",
       "description": "A free/open source client and automation tool for Ragnarok Online",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 1523,
-      "forks": 1217,
-      "added_stars": "4 stars this week"
+      "stars": 1524,
+      "forks": 1218,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "AlDanial / cloc",
@@ -110,9 +110,9 @@
       "description": "cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 23544,
-      "forks": 1126,
-      "added_stars": "25 stars this week"
+      "stars": 23549,
+      "forks": 1125,
+      "added_stars": "26 stars this week"
     },
     {
       "title": "fusioninventory / fusioninventory-agent",
@@ -125,14 +125,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "ddclient / ddclient",
-      "url": "https://github.com/ddclient/ddclient",
-      "description": "ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.",
+      "title": "centreon / centreon-plugins",
+      "url": "https://github.com/centreon/centreon-plugins",
+      "description": "Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.",
       "language": "Perl",
       "languageColor": "#0298c3",
-      "stars": 3549,
-      "forks": 400,
-      "added_stars": "9 stars this week"
+      "stars": 335,
+      "forks": 307,
+      "added_stars": "0 stars this week"
     }
   ]
 }

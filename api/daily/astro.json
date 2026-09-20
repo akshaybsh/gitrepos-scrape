@@ -2,16 +2,26 @@
   "title": "GitHub Astro Languages Daily Trending",
   "description": "Daily Trending of Astro Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
-      "title": "spicetify / docs",
-      "url": "https://github.com/spicetify/docs",
-      "description": "Documentation website for spicetify",
+      "title": "tabler / tabler",
+      "url": "https://github.com/tabler/tabler",
+      "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 199,
-      "forks": 633,
+      "stars": 41726,
+      "forks": 4428,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "saicaca / fuwari",
+      "url": "https://github.com/saicaca/fuwari",
+      "description": "✨A static blog template built with Astro.",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 5016,
+      "forks": 1259,
       "added_stars": "1 star today"
     },
     {
@@ -20,39 +30,9 @@
       "description": "A minimal, accessible and SEO-friendly Astro blog theme.",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 5058,
+      "stars": 5059,
       "forks": 1097,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "cworld1 / astro-theme-pure",
-      "url": "https://github.com/cworld1/astro-theme-pure",
-      "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 1079,
-      "forks": 277,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "skills / agentic-workflows-that-read-the-room",
-      "url": "https://github.com/skills/agentic-workflows-that-read-the-room",
-      "description": "This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 71,
-      "forks": 24,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "tabler / tabler",
-      "url": "https://github.com/tabler/tabler",
-      "description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 41715,
-      "forks": 4427,
-      "added_stars": "10 stars today"
     },
     {
       "title": "skills / idea-to-merge-with-the-copilot-app",
@@ -65,34 +45,34 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "skills / agentic-workflows-that-read-the-room",
+      "url": "https://github.com/skills/agentic-workflows-that-read-the-room",
+      "description": "This is a GitHub Skills exercise on how to get started with Agentic Workflows where we will create simple use case to show the power of an Agentic Workflow",
+      "language": "Astro",
+      "languageColor": "#ff5a03",
+      "stars": 72,
+      "forks": 24,
+      "added_stars": "1 star today"
+    },
+    {
       "title": "NebulaServices / Nebula",
       "url": "https://github.com/NebulaServices/Nebula",
       "description": "a stunning and sleek web proxy with support for hundreds of popular sites.",
       "language": "Astro",
       "languageColor": "#ff5a03",
       "stars": 376,
-      "forks": 4410,
+      "forks": 4411,
       "added_stars": "0 stars today"
     },
     {
-      "title": "samber / awesome-prometheus-alerts",
-      "url": "https://github.com/samber/awesome-prometheus-alerts",
-      "description": "🚨 Collection of Prometheus alerting rules",
+      "title": "cworld1 / astro-theme-pure",
+      "url": "https://github.com/cworld1/astro-theme-pure",
+      "description": "⭐ A simple, fast and powerful blog & document theme built by Astro",
       "language": "Astro",
       "languageColor": "#ff5a03",
-      "stars": 8197,
-      "forks": 1169,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "saicaca / fuwari",
-      "url": "https://github.com/saicaca/fuwari",
-      "description": "✨A static blog template built with Astro.",
-      "language": "Astro",
-      "languageColor": "#ff5a03",
-      "stars": 5015,
-      "forks": 1260,
-      "added_stars": "5 stars today"
+      "stars": 1079,
+      "forks": 276,
+      "added_stars": "0 stars today"
     }
   ]
 }

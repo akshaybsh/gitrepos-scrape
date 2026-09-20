@@ -4,7 +4,7 @@
   <title>GitHub Typescript Languages Daily Trending</title>
   <description>Daily Trending of Typescript Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:59:20 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:24:11 GMT</pubDate>
   <item>
     <title>anthropics / claude-code</title>
     <link>https://github.com/anthropics/claude-code</link>
@@ -16,14 +16,14 @@
     <description>Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.</description>
   </item>
   <item>
-    <title>stablyai / orca</title>
-    <link>https://github.com/stablyai/orca</link>
-    <description>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
-  </item>
-  <item>
     <title>heygen-com / hyperframes</title>
     <link>https://github.com/heygen-com/hyperframes</link>
     <description>Write HTML. Render video. Built for agents.</description>
+  </item>
+  <item>
+    <title>stablyai / orca</title>
+    <link>https://github.com/stablyai/orca</link>
+    <description>Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.</description>
   </item>
   <item>
     <title>danny-avila / LibreChat</title>
@@ -36,19 +36,19 @@
     <description>The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.</description>
   </item>
   <item>
-    <title>vastsa / PI-Desktop</title>
-    <link>https://github.com/vastsa/PI-Desktop</link>
-    <description>Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins</description>
-  </item>
-  <item>
     <title>cline / cline</title>
     <link>https://github.com/cline/cline</link>
     <description>Autonomous coding agent as an SDK, IDE extension, or CLI assistant.</description>
   </item>
   <item>
-    <title>melgarafael / DeskcommCRM</title>
-    <link>https://github.com/melgarafael/DeskcommCRM</link>
-    <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
+    <title>vastsa / PI-Desktop</title>
+    <link>https://github.com/vastsa/PI-Desktop</link>
+    <description>Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins</description>
+  </item>
+  <item>
+    <title>ever-co / ever-gauzy</title>
+    <link>https://github.com/ever-co/ever-gauzy</link>
+    <description>Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co</description>
   </item>
   <item>
     <title>reconurge / flowsint</title>
@@ -56,14 +56,14 @@
     <description>A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.</description>
   </item>
   <item>
-    <title>Tencent / BrowserSkill</title>
-    <link>https://github.com/Tencent/BrowserSkill</link>
-    <description>Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.</description>
+    <title>melgarafael / DeskcommCRM</title>
+    <link>https://github.com/melgarafael/DeskcommCRM</link>
+    <description>Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk &amp; Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.</description>
   </item>
   <item>
-    <title>langwatch / langwatch</title>
-    <link>https://github.com/langwatch/langwatch</link>
-    <description>The platform for LLM evaluations and AI agent testing</description>
+    <title>Open-Dev-Society / OpenStock</title>
+    <link>https://github.com/Open-Dev-Society/OpenStock</link>
+    <description>OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.</description>
   </item>
   <item>
     <title>jamiepine / voicebox</title>
@@ -71,29 +71,19 @@
     <description>The open-source AI voice studio. Clone, dictate, create.</description>
   </item>
   <item>
-    <title>alsk1992 / CloddsBot</title>
-    <link>https://github.com/alsk1992/CloddsBot</link>
-    <description>Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.</description>
-  </item>
-  <item>
-    <title>OpenHands / OpenHands</title>
-    <link>https://github.com/OpenHands/OpenHands</link>
-    <description>🙌 OpenHands: AI-Driven Development</description>
-  </item>
-  <item>
-    <title>nab138 / iloader</title>
-    <link>https://github.com/nab138/iloader</link>
-    <description>User friendly sideloader</description>
-  </item>
-  <item>
-    <title>wechaty / wechaty</title>
-    <link>https://github.com/wechaty/wechaty</link>
-    <description>Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt</description>
-  </item>
-  <item>
     <title>NangoHQ / nango</title>
     <link>https://github.com/NangoHQ/nango</link>
     <description>Build product integrations with AI.</description>
+  </item>
+  <item>
+    <title>Fission-AI / OpenSpec</title>
+    <link>https://github.com/Fission-AI/OpenSpec</link>
+    <description>Spec-driven development (SDD) for AI coding assistants.</description>
+  </item>
+  <item>
+    <title>rowboatlabs / rowboat</title>
+    <link>https://github.com/rowboatlabs/rowboat</link>
+    <description>AI coworker with memory and collaboration</description>
   </item>
 </channel>
 </rss>

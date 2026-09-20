@@ -2,8 +2,28 @@
   "title": "GitHub D Languages Daily Trending",
   "description": "Daily Trending of D Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
+    {
+      "title": "dlang / phobos",
+      "url": "https://github.com/dlang/phobos",
+      "description": "The standard library of the D programming language",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 1260,
+      "forks": 773,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "dlang / dmd",
+      "url": "https://github.com/dlang/dmd",
+      "description": "dmd D Programming Language compiler",
+      "language": "D",
+      "languageColor": "#ba595e",
+      "stars": 3310,
+      "forks": 719,
+      "added_stars": "1 star today"
+    },
     {
       "title": "abraunegg / onedrive",
       "url": "https://github.com/abraunegg/onedrive",
@@ -12,17 +32,17 @@
       "languageColor": "#ba595e",
       "stars": 12826,
       "forks": 913,
-      "added_stars": "6 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "dlang / phobos",
-      "url": "https://github.com/dlang/phobos",
-      "description": "The standard library of the D programming language",
+      "title": "Dadoum / anisette-v3-server",
+      "url": "https://github.com/Dadoum/anisette-v3-server",
+      "description": "sidestore's anisette-v3 compatible server",
       "language": "D",
       "languageColor": "#ba595e",
-      "stars": 1259,
-      "forks": 773,
-      "added_stars": "0 stars today"
+      "stars": 576,
+      "forks": 2493,
+      "added_stars": "1 star today"
     }
   ]
 }

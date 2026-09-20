@@ -2,8 +2,48 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
+    {
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4689,
+      "forks": 3110,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "piyushsachdeva / Terraform-Full-Course-Aws",
+      "url": "https://github.com/piyushsachdeva/Terraform-Full-Course-Aws",
+      "description": "",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 543,
+      "forks": 849,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "techiescamp / devops-projects",
+      "url": "https://github.com/techiescamp/devops-projects",
+      "description": "DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2329,
+      "forks": 1562,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "ministryofjustice / cloud-platform-environments",
+      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
+      "description": "Environment configuration for the Cloud Platform",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 84,
+      "forks": 38,
+      "added_stars": "0 stars today"
+    },
     {
       "title": "GoogleCloudPlatform / cloud-foundation-fabric",
       "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
@@ -12,7 +52,7 @@
       "languageColor": "#844FBA",
       "stars": 2100,
       "forks": 1266,
-      "added_stars": "1 star today"
+      "added_stars": "0 stars today"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -20,7 +60,7 @@
       "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 5005,
+      "stars": 5004,
       "forks": 4409,
       "added_stars": "0 stars today"
     },
@@ -32,36 +72,26 @@
       "languageColor": "#844FBA",
       "stars": 3264,
       "forks": 4626,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-lambda",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-lambda",
-      "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1043,
-      "forks": 779,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-cloud-storage",
-      "url": "https://github.com/terraform-google-modules/terraform-google-cloud-storage",
-      "description": "Creates one or more Cloud Storage buckets and assigns basic permissions on them to arbitrary users",
+      "title": "aws-ia / terraform-aws-control_tower_account_factory",
+      "url": "https://github.com/aws-ia/terraform-aws-control_tower_account_factory",
+      "description": "AWS Control Tower Account Factory",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 207,
-      "forks": 608,
+      "stars": 820,
+      "forks": 602,
       "added_stars": "0 stars today"
     },
     {
-      "title": "ministryofjustice / cloud-platform-environments",
-      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
-      "description": "Environment configuration for the Cloud Platform",
+      "title": "nebius / nebius-solutions-library",
+      "url": "https://github.com/nebius/nebius-solutions-library",
+      "description": "",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 84,
-      "forks": 38,
+      "stars": 117,
+      "forks": 52,
       "added_stars": "0 stars today"
     },
     {
@@ -75,53 +105,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-s3-bucket",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-s3-bucket",
-      "description": "Terraform module to create AWS S3 resources 🇺🇦",
+      "title": "hashicorp / terraform-cidr-subnets",
+      "url": "https://github.com/hashicorp/terraform-cidr-subnets",
+      "description": "A Terraform module for calculating subnet IP address prefixes",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 585,
-      "forks": 3810,
+      "stars": 80,
+      "forks": 40,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-ecs",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-ecs",
-      "description": "Terraform module to create AWS ECS resources 🇺🇦",
+      "title": "kubernetes / k8s.io",
+      "url": "https://github.com/kubernetes/k8s.io",
+      "description": "Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 676,
-      "forks": 669,
+      "stars": 977,
+      "forks": 1040,
       "added_stars": "0 stars today"
     },
     {
-      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
-      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
-      "description": "Configures opinionated GKE clusters",
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1281,
-      "forks": 1286,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "DataDog / serverless-sample-app",
-      "url": "https://github.com/DataDog/serverless-sample-app",
-      "description": "Explore Datadog's serverless observability features with this sample app.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 60,
-      "forks": 20,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "Azure / terraform-azurerm-avm-res-storage-storageaccount",
-      "url": "https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount",
-      "description": "Terraform Azure Verified Resource Module for Storage Account",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 39,
-      "forks": 80,
+      "stars": 119,
+      "forks": 203,
       "added_stars": "0 stars today"
     }
   ]

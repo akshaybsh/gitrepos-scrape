@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 07:01:42 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
   "items": [
     {
       "title": "rdpeng / ProgrammingAssignment2",
@@ -11,7 +11,7 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 892,
-      "forks": 143342,
+      "forks": 143336,
       "added_stars": "3 stars this month"
     },
     {
@@ -20,9 +20,9 @@
       "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 396,
+      "stars": 398,
       "forks": 45,
-      "added_stars": "18 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
       "title": "swirldev / swirl_courses",
@@ -32,7 +32,7 @@
       "languageColor": "#198CE7",
       "stars": 4608,
       "forks": 7197,
-      "added_stars": "26 stars this month"
+      "added_stars": "27 stars this month"
     },
     {
       "title": "satijalab / seurat",
@@ -40,7 +40,7 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2800,
+      "stars": 2801,
       "forks": 998,
       "added_stars": "17 stars this month"
     },
@@ -50,19 +50,9 @@
       "description": "R for data science: a book",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5158,
-      "forks": 4442,
-      "added_stars": "27 stars this month"
-    },
-    {
-      "title": "tidyverse / dplyr",
-      "url": "https://github.com/tidyverse/dplyr",
-      "description": "dplyr: A grammar of data manipulation",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5067,
-      "forks": 2114,
-      "added_stars": "13 stars this month"
+      "stars": 5159,
+      "forks": 4443,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "tidyverse / ggplot2",
@@ -72,7 +62,27 @@
       "languageColor": "#198CE7",
       "stars": 6997,
       "forks": 2126,
-      "added_stars": "22 stars this month"
+      "added_stars": "21 stars this month"
+    },
+    {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5691,
+      "forks": 1889,
+      "added_stars": "16 stars this month"
+    },
+    {
+      "title": "stan-dev / cmdstanr",
+      "url": "https://github.com/stan-dev/cmdstanr",
+      "description": "CmdStanR: the R interface to CmdStan",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 160,
+      "forks": 69,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "r-spatial / sf",
@@ -85,16 +95,6 @@
       "added_stars": "5 stars this month"
     },
     {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5690,
-      "forks": 1889,
-      "added_stars": "17 stars this month"
-    },
-    {
       "title": "jinworks / CellChat",
       "url": "https://github.com/jinworks/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
@@ -103,6 +103,16 @@
       "stars": 671,
       "forks": 112,
       "added_stars": "20 stars this month"
+    },
+    {
+      "title": "tidyverse / dplyr",
+      "url": "https://github.com/tidyverse/dplyr",
+      "description": "dplyr: A grammar of data manipulation",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5068,
+      "forks": 2114,
+      "added_stars": "13 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
@@ -123,16 +133,6 @@
       "stars": 517,
       "forks": 53,
       "added_stars": "44 stars this month"
-    },
-    {
-      "title": "stan-dev / cmdstanr",
-      "url": "https://github.com/stan-dev/cmdstanr",
-      "description": "CmdStanR: the R interface to CmdStan",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 160,
-      "forks": 69,
-      "added_stars": "2 stars this month"
     }
   ]
 }

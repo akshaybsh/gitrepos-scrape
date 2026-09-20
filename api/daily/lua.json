@@ -2,17 +2,37 @@
   "title": "GitHub Lua Languages Daily Trending",
   "description": "Daily Trending of Lua Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
-      "title": "LazyVim / LazyVim",
-      "url": "https://github.com/LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
+      "title": "nvim-lua / kickstart.nvim",
+      "url": "https://github.com/nvim-lua/kickstart.nvim",
+      "description": "A launch point for your personal nvim configuration",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 27510,
-      "forks": 1821,
-      "added_stars": "11 stars today"
+      "stars": 31492,
+      "forks": 46568,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "ntop / ntopng",
+      "url": "https://github.com/ntop/ntopng",
+      "description": "Web-based Traffic and Cybersecurity Network Traffic Monitoring",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 8185,
+      "forks": 766,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "folke / snacks.nvim",
+      "url": "https://github.com/folke/snacks.nvim",
+      "description": "🍿 A collection of QoL plugins for Neovim",
+      "language": "Lua",
+      "languageColor": "#000080",
+      "stars": 8083,
+      "forks": 504,
+      "added_stars": "1 star today"
     },
     {
       "title": "Kong / kong",
@@ -20,88 +40,48 @@
       "description": "🦍 The API and AI Gateway",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 44154,
+      "stars": 44157,
       "forks": 5210,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "nickjvandyke / opencode.nvim",
-      "url": "https://github.com/nickjvandyke/opencode.nvim",
-      "description": "Neovim 🤝 OpenCode in the flow that you already know.",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 3837,
-      "forks": 160,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "neovim / nvim-lspconfig",
-      "url": "https://github.com/neovim/nvim-lspconfig",
-      "description": "Quickstart configs for Nvim LSP",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 13960,
-      "forks": 2498,
       "added_stars": "3 stars today"
     },
     {
-      "title": "nvim-telescope / telescope.nvim",
-      "url": "https://github.com/nvim-telescope/telescope.nvim",
-      "description": "Find, Filter, Preview, Pick. All lua, all the time.",
+      "title": "FrSkyRC / ETHOS-Feedback-Community",
+      "url": "https://github.com/FrSkyRC/ETHOS-Feedback-Community",
+      "description": "Feedback & suggestions are welcomed here for ETHOS by FrSky",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 19790,
-      "forks": 967,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "opentibiabr / otclient",
-      "url": "https://github.com/opentibiabr/otclient",
-      "description": "An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 529,
-      "forks": 518,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "ibhagwan / fzf-lua",
-      "url": "https://github.com/ibhagwan/fzf-lua",
-      "description": "Improved fzf.vim written in lua",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 4444,
-      "forks": 266,
+      "stars": 249,
+      "forks": 99,
       "added_stars": "0 stars today"
     },
     {
-      "title": "folke / tokyonight.nvim",
-      "url": "https://github.com/folke/tokyonight.nvim",
-      "description": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+      "title": "amzxyz / rime-wanxiang",
+      "url": "https://github.com/amzxyz/rime-wanxiang",
+      "description": "「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 8199,
-      "forks": 552,
-      "added_stars": "2 stars today"
+      "stars": 4622,
+      "forks": 174,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "lewis6991 / gitsigns.nvim",
-      "url": "https://github.com/lewis6991/gitsigns.nvim",
-      "description": "Git integration for buffers",
+      "title": "nvim-tree / nvim-web-devicons",
+      "url": "https://github.com/nvim-tree/nvim-web-devicons",
+      "description": "Provides Nerd Font icons (glyphs) for use by neovim plugins",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 7110,
-      "forks": 295,
-      "added_stars": "4 stars today"
+      "stars": 2717,
+      "forks": 240,
+      "added_stars": "0 stars today"
     },
     {
-      "title": "beyond-all-reason / Beyond-All-Reason",
-      "url": "https://github.com/beyond-all-reason/Beyond-All-Reason",
-      "description": "Main game repository for Beyond All Reason.",
+      "title": "stevearc / oil.nvim",
+      "url": "https://github.com/stevearc/oil.nvim",
+      "description": "Neovim file explorer: edit your filesystem like a buffer",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 4219,
-      "forks": 671,
+      "stars": 6913,
+      "forks": 254,
       "added_stars": "3 stars today"
     },
     {
@@ -110,28 +90,18 @@
       "description": "User Interface replacement AddOn for World of Warcraft.",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 697,
+      "stars": 698,
       "forks": 249,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "PortsMaster / PortMaster-New",
-      "url": "https://github.com/PortsMaster/PortMaster-New",
-      "description": "New PortMaster repo",
-      "language": "Lua",
-      "languageColor": "#000080",
-      "stars": 367,
-      "forks": 247,
       "added_stars": "1 star today"
     },
     {
-      "title": "SmartThingsCommunity / SmartThingsEdgeDrivers",
-      "url": "https://github.com/SmartThingsCommunity/SmartThingsEdgeDrivers",
-      "description": "",
+      "title": "Questie / Questie",
+      "url": "https://github.com/Questie/Questie",
+      "description": "Questie: The WoW Classic quest helper",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 347,
-      "forks": 561,
+      "stars": 1085,
+      "forks": 363,
       "added_stars": "1 star today"
     },
     {
@@ -140,19 +110,19 @@
       "description": "A beta Dota2 Bot Script aims to provide better bot game experience",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 290,
+      "stars": 291,
       "forks": 69,
-      "added_stars": "0 stars today"
+      "added_stars": "1 star today"
     },
     {
-      "title": "finlater / weread.koplugin",
-      "url": "https://github.com/finlater/weread.koplugin",
-      "description": "微信读书 koreader 插件，在 koreader 里阅读微信读书里的书籍、公众号文章，支持阅读进度同步，阅读时长上报和统计，本地书籍支持获取微信读书划线和想法内容，支持Kindle、Kobo等所有能安装 koreader 的设备。",
+      "title": "PortsMaster / PortMaster-New",
+      "url": "https://github.com/PortsMaster/PortMaster-New",
+      "description": "New PortMaster repo",
       "language": "Lua",
       "languageColor": "#000080",
-      "stars": 736,
-      "forks": 90,
-      "added_stars": "4 stars today"
+      "stars": 369,
+      "forks": 247,
+      "added_stars": "3 stars today"
     }
   ]
 }

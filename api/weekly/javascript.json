@@ -2,27 +2,27 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
-    {
-      "title": "bilawalsidhu / gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 38014,
-      "forks": 7665,
-      "added_stars": "11,683 stars this week"
-    },
     {
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 262266,
-      "forks": 39232,
-      "added_stars": "5,877 stars this week"
+      "stars": 263126,
+      "forks": 39368,
+      "added_stars": "6,265 stars this week"
+    },
+    {
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 38814,
+      "forks": 7842,
+      "added_stars": "10,207 stars this week"
     },
     {
       "title": "addyosmani / agent-skills",
@@ -30,9 +30,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 96544,
-      "forks": 10202,
-      "added_stars": "3,051 stars this week"
+      "stars": 97262,
+      "forks": 10262,
+      "added_stars": "3,445 stars this week"
     },
     {
       "title": "openai / plugins",
@@ -40,9 +40,9 @@
       "description": "OpenAI Plugins",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6988,
-      "forks": 905,
-      "added_stars": "542 stars this week"
+      "stars": 7057,
+      "forks": 914,
+      "added_stars": "522 stars this week"
     },
     {
       "title": "decolua / 9router",
@@ -50,9 +50,9 @@
       "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 29309,
-      "forks": 5433,
-      "added_stars": "884 stars this week"
+      "stars": 29394,
+      "forks": 5471,
+      "added_stars": "862 stars this week"
     },
     {
       "title": "cloudflare / security-audit-skill",
@@ -60,9 +60,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 14340,
-      "forks": 773,
-      "added_stars": "10,436 stars this week"
+      "stars": 16957,
+      "forks": 931,
+      "added_stars": "13,286 stars this week"
     },
     {
       "title": "asgeirtj / system_prompts_leaks",
@@ -70,19 +70,9 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5.1, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 67480,
-      "forks": 10968,
-      "added_stars": "2,770 stars this week"
-    },
-    {
-      "title": "mekos2772 / ios-location-spoofer",
-      "url": "https://github.com/mekos2772/ios-location-spoofer",
-      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 4196,
-      "forks": 841,
-      "added_stars": "234 stars this week"
+      "stars": 67747,
+      "forks": 11007,
+      "added_stars": "2,469 stars this week"
     },
     {
       "title": "tradesdontlie / tradingview-mcp",
@@ -90,9 +80,19 @@
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 6525,
-      "forks": 2719,
-      "added_stars": "402 stars this week"
+      "stars": 6573,
+      "forks": 2724,
+      "added_stars": "494 stars this week"
+    },
+    {
+      "title": "duolahypercho / codex-router",
+      "url": "https://github.com/duolahypercho/codex-router",
+      "description": "External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migration, and rollback.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 3738,
+      "forks": 314,
+      "added_stars": "429 stars this week"
     },
     {
       "title": "JoeanAmier / TikTokDownloader",
@@ -100,39 +100,19 @@
       "description": "抖音 / TikTok 平台作品下载/数据采集工具",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 16110,
-      "forks": 2748,
-      "added_stars": "336 stars this week"
+      "stars": 16149,
+      "forks": 2755,
+      "added_stars": "359 stars this week"
     },
     {
-      "title": "vercel / next.js",
-      "url": "https://github.com/vercel/next.js",
-      "description": "The React Framework",
+      "title": "plugin87 / ux-ui-agent-skills",
+      "url": "https://github.com/plugin87/ux-ui-agent-skills",
+      "description": "Turn Claude into a senior design architect: DTCG tokens, 50 components, WCAG 2.2 AA-AAA, 138 design systems, any-framework code, and 43 objective gates that fail the build instead of faking success.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 142346,
-      "forks": 32404,
-      "added_stars": "531 stars this week"
-    },
-    {
-      "title": "DietrichGebert / ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 142153,
-      "forks": 7622,
-      "added_stars": "6,452 stars this week"
-    },
-    {
-      "title": "is-a-dev / register",
-      "url": "https://github.com/is-a-dev/register",
-      "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 11331,
-      "forks": 29888,
-      "added_stars": "97 stars this week"
+      "stars": 1424,
+      "forks": 146,
+      "added_stars": "371 stars this week"
     },
     {
       "title": "xuanyustudio / LocalMiniDrama",
@@ -140,29 +120,19 @@
       "description": "🎬 seedance2接入 开源本地 AI 短剧 & 漫剧生成工具 —— 从故事到成片一站式完成，数据不出本机，短剧工作流管理平台，高灵活度，AI真人剧，AI漫剧本地搞定。 Open-source local AI short drama maker: story → storyboard → video, fully offline, your data stays yours. 纳米流水线",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1759,
+      "stars": 1771,
       "forks": 437,
-      "added_stars": "421 stars this week"
+      "added_stars": "419 stars this week"
     },
     {
-      "title": "Mathieu2301 / TradingView-API",
-      "url": "https://github.com/Mathieu2301/TradingView-API",
-      "description": "📈 Get real-time stocks from TradingView",
+      "title": "mekos2772 / ios-location-spoofer",
+      "url": "https://github.com/mekos2772/ios-location-spoofer",
+      "description": "Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 5082,
-      "forks": 902,
-      "added_stars": "958 stars this week"
-    },
-    {
-      "title": "fleetbase / fleetbase",
-      "url": "https://github.com/fleetbase/fleetbase",
-      "description": "Modular logistics and supply chain operating system (LSOS)",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 3724,
-      "forks": 1010,
-      "added_stars": "1,389 stars this week"
+      "stars": 4215,
+      "forks": 843,
+      "added_stars": "217 stars this week"
     },
     {
       "title": "pdone / lx-music-source",
@@ -170,19 +140,59 @@
       "description": "洛雪音乐源",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 8939,
-      "forks": 750,
-      "added_stars": "275 stars this week"
+      "stars": 8977,
+      "forks": 752,
+      "added_stars": "270 stars this week"
     },
     {
-      "title": "github / awesome-copilot",
-      "url": "https://github.com/github/awesome-copilot",
-      "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
+      "title": "fleetbase / fleetbase",
+      "url": "https://github.com/fleetbase/fleetbase",
+      "description": "Modular logistics and supply chain operating system (LSOS)",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 39153,
-      "forks": 4971,
-      "added_stars": "275 stars this week"
+      "stars": 3786,
+      "forks": 1021,
+      "added_stars": "1,399 stars this week"
+    },
+    {
+      "title": "Mathieu2301 / TradingView-API",
+      "url": "https://github.com/Mathieu2301/TradingView-API",
+      "description": "📈 Get real-time stocks from TradingView",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 5089,
+      "forks": 903,
+      "added_stars": "964 stars this week"
+    },
+    {
+      "title": "kunchenguid / lavish-axi",
+      "url": "https://github.com/kunchenguid/lavish-axi",
+      "description": "HTML is the new markdown. Lavish is the new editor for your HTML artifacts.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 3758,
+      "forks": 338,
+      "added_stars": "504 stars this week"
+    },
+    {
+      "title": "WorldFlowAI / everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "description": "Claude Code toolkit - agents, commands, skills, rules, and hooks for productive AI-assisted development",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 3319,
+      "forks": 518,
+      "added_stars": "444 stars this week"
+    },
+    {
+      "title": "react / react",
+      "url": "https://github.com/react/react",
+      "description": "The library for web and native user interfaces.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 250607,
+      "forks": 51381,
+      "added_stars": "593 stars this week"
     }
   ]
 }

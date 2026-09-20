@@ -2,8 +2,18 @@
   "title": "GitHub Vue Languages Daily Trending",
   "description": "Daily Trending of Vue Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
+    {
+      "title": "lissy93 / dashy",
+      "url": "https://github.com/lissy93/dashy",
+      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 26519,
+      "forks": 1937,
+      "added_stars": "92 stars this week"
+    },
     {
       "title": "RikkaApps / websites",
       "url": "https://github.com/RikkaApps/websites",
@@ -11,18 +21,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": 443,
-      "forks": 65252,
+      "forks": 65487,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "lissy93 / dashy",
-      "url": "https://github.com/lissy93/dashy",
-      "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 26511,
-      "forks": 1937,
-      "added_stars": "92 stars this week"
     },
     {
       "title": "julyx10 / lap",
@@ -30,9 +30,29 @@
       "description": "An offline-first photo manager for large local libraries",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 2456,
+      "stars": 2467,
       "forks": 151,
       "added_stars": "200 stars this week"
+    },
+    {
+      "title": "ayangweb / BongoCat",
+      "url": "https://github.com/ayangweb/BongoCat",
+      "description": "🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 23386,
+      "forks": 1141,
+      "added_stars": "215 stars this week"
+    },
+    {
+      "title": "Gzh0821 / pvzg_site",
+      "url": "https://github.com/Gzh0821/pvzg_site",
+      "description": "PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 1646,
+      "forks": 131,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "Jelosus2 / BD2-L2D-Viewer",
@@ -41,58 +61,8 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": 503,
-      "forks": 86,
-      "added_stars": "37 stars this week"
-    },
-    {
-      "title": "requarks / wiki",
-      "url": "https://github.com/requarks/wiki",
-      "description": "Wiki.js | Next Generation Open Source Wiki",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 28943,
-      "forks": 3314,
-      "added_stars": "54 stars this week"
-    },
-    {
-      "title": "algerkong / AlgerMusicPlayer",
-      "url": "https://github.com/algerkong/AlgerMusicPlayer",
-      "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 16758,
-      "forks": 1359,
-      "added_stars": "91 stars this week"
-    },
-    {
-      "title": "unovue / reka-ui",
-      "url": "https://github.com/unovue/reka-ui",
-      "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 6816,
-      "forks": 553,
+      "forks": 88,
       "added_stars": "29 stars this week"
-    },
-    {
-      "title": "Gzh0821 / pvzg_site",
-      "url": "https://github.com/Gzh0821/pvzg_site",
-      "description": "PvZ2 Gardendless Official Website | A rewritten Plants vs Zombies 2 PC port",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 1637,
-      "forks": 131,
-      "added_stars": "31 stars this week"
-    },
-    {
-      "title": "imsyy / yt-dlp-gui",
-      "url": "https://github.com/imsyy/yt-dlp-gui",
-      "description": "A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ sites. Built with Tauri + Vue.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 372,
-      "forks": 44,
-      "added_stars": "34 stars this week"
     },
     {
       "title": "advplyr / audiobookshelf-app",
@@ -102,17 +72,17 @@
       "languageColor": "#41b883",
       "stars": 2717,
       "forks": 441,
-      "added_stars": "28 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "yuhonas / free-exercise-db",
-      "url": "https://github.com/yuhonas/free-exercise-db",
-      "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
+      "title": "unovue / reka-ui",
+      "url": "https://github.com/unovue/reka-ui",
+      "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 1899,
-      "forks": 493,
-      "added_stars": "35 stars this week"
+      "stars": 6820,
+      "forks": 553,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "wux1an / wxapkg",
@@ -120,9 +90,19 @@
       "description": "跨平台微信小程序反编译 GUI 工具，.wxapkg 文件扫描 + 解密 + 解包工具",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 4150,
+      "stars": 4156,
       "forks": 845,
-      "added_stars": "48 stars this week"
+      "added_stars": "51 stars this week"
+    },
+    {
+      "title": "requarks / wiki",
+      "url": "https://github.com/requarks/wiki",
+      "description": "Wiki.js | Next Generation Open Source Wiki",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 28946,
+      "forks": 3314,
+      "added_stars": "43 stars this week"
     },
     {
       "title": "CorentinTh / it-tools",
@@ -130,59 +110,49 @@
       "description": "Collection of handy online tools for developers, with great UX.",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 40633,
-      "forks": 5427,
-      "added_stars": "89 stars this week"
+      "stars": 40643,
+      "forks": 5433,
+      "added_stars": "93 stars this week"
     },
     {
-      "title": "miantiao-me / Sink",
-      "url": "https://github.com/miantiao-me/Sink",
-      "description": "⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.",
+      "title": "frappe / helpdesk",
+      "url": "https://github.com/frappe/helpdesk",
+      "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 7146,
-      "forks": 5255,
-      "added_stars": "38 stars this week"
+      "stars": 3387,
+      "forks": 946,
+      "added_stars": "16 stars this week"
     },
     {
-      "title": "ayangweb / BongoCat",
-      "url": "https://github.com/ayangweb/BongoCat",
-      "description": "🐱跨平台互动桌宠 BongoCat，为桌面增添乐趣！",
+      "title": "yuhonas / free-exercise-db",
+      "url": "https://github.com/yuhonas/free-exercise-db",
+      "description": "Open Public Domain Exercise Dataset in JSON format, over 800 exercises with a browsable public searchable frontend",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 23314,
-      "forks": 1136,
-      "added_stars": "229 stars this week"
+      "stars": 1902,
+      "forks": 492,
+      "added_stars": "34 stars this week"
     },
     {
-      "title": "zwave-js / zwave-js-ui",
-      "url": "https://github.com/zwave-js/zwave-js-ui",
-      "description": "Full featured Z-Wave Control Panel UI and MQTT gateway. Built using Nodejs, and Vue/Vuetify",
+      "title": "MoeKoeMusic / MoeKoeMusic",
+      "url": "https://github.com/MoeKoeMusic/MoeKoeMusic",
+      "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux / Web",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 1239,
-      "forks": 246,
+      "stars": 6336,
+      "forks": 397,
+      "added_stars": "59 stars this week"
+    },
+    {
+      "title": "wrapper-offline / wrapper-offline",
+      "url": "https://github.com/wrapper-offline/wrapper-offline",
+      "description": "A project with the purpose of providing a way to use the Legacy Video Maker from GoAnimate / Vyond.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 300,
+      "forks": 361,
       "added_stars": "2 stars this week"
-    },
-    {
-      "title": "keleus / BewlyCat",
-      "url": "https://github.com/keleus/BewlyCat",
-      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 4253,
-      "forks": 137,
-      "added_stars": "52 stars this week"
-    },
-    {
-      "title": "pipipi-pikachu / PPTist",
-      "url": "https://github.com/pipipi-pikachu/PPTist",
-      "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview.",
-      "language": "Vue",
-      "languageColor": "#41b883",
-      "stars": 9345,
-      "forks": 1771,
-      "added_stars": "24 stars this week"
     },
     {
       "title": "PanJiaChen / vue-element-admin",
@@ -190,19 +160,69 @@
       "description": "🎉 A magical vue admin https://panjiachen.github.io/vue-element-admin",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 90187,
+      "stars": 90186,
       "forks": 30305,
       "added_stars": "23 stars this week"
     },
     {
-      "title": "primefaces / primevue",
-      "url": "https://github.com/primefaces/primevue",
-      "description": "Next Generation Vue UI Component Library",
+      "title": "keleus / BewlyCat",
+      "url": "https://github.com/keleus/BewlyCat",
+      "description": "BewlyCat——基于BewlyBewly开发的Bilibili拓展",
       "language": "Vue",
       "languageColor": "#41b883",
-      "stars": 14458,
-      "forks": 1781,
-      "added_stars": "5 stars this week"
+      "stars": 4260,
+      "forks": 137,
+      "added_stars": "56 stars this week"
+    },
+    {
+      "title": "algerkong / AlgerMusicPlayer",
+      "url": "https://github.com/algerkong/AlgerMusicPlayer",
+      "description": "一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 16764,
+      "forks": 1360,
+      "added_stars": "77 stars this week"
+    },
+    {
+      "title": "imsyy / yt-dlp-gui",
+      "url": "https://github.com/imsyy/yt-dlp-gui",
+      "description": "A modern cross-platform GUI for yt-dlp. Download videos from YouTube, Bilibili, TikTok and 1000+ sites. Built with Tauri + Vue.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 376,
+      "forks": 45,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "miantiao-me / Sink",
+      "url": "https://github.com/miantiao-me/Sink",
+      "description": "⚡ A Simple, Speedy, Secure, and Serverless Link Shortener with Analytics, Running Entirely on Cloudflare.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 7148,
+      "forks": 5260,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "pipipi-pikachu / PPTist",
+      "url": "https://github.com/pipipi-pikachu/PPTist",
+      "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It also supports AIPPT and local PPTX file preview.",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 9346,
+      "forks": 1772,
+      "added_stars": "26 stars this week"
+    },
+    {
+      "title": "vbenjs / vue-vben-admin",
+      "url": "https://github.com/vbenjs/vue-vben-admin",
+      "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+      "language": "Vue",
+      "languageColor": "#41b883",
+      "stars": 33487,
+      "forks": 8970,
+      "added_stars": "60 stars this week"
     },
     {
       "title": "VueTorrent / VueTorrent",
@@ -211,7 +231,7 @@
       "language": "Vue",
       "languageColor": "#41b883",
       "stars": 6966,
-      "forks": 341,
+      "forks": 342,
       "added_stars": "10 stars this week"
     }
   ]

@@ -4,7 +4,7 @@
   <title>GitHub Swift Languages Daily Trending</title>
   <description>Daily Trending of Swift Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:59:20 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:24:11 GMT</pubDate>
   <item>
     <title>peetzweg / opendisplay</title>
     <link>https://github.com/peetzweg/opendisplay</link>
@@ -16,14 +16,14 @@
     <description>Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.</description>
   </item>
   <item>
-    <title>Lakr233 / vphone-cli</title>
-    <link>https://github.com/Lakr233/vphone-cli</link>
-    <description></description>
-  </item>
-  <item>
     <title>dwarvesf / hidden</title>
     <link>https://github.com/dwarvesf/hidden</link>
     <description>An ultra-light MacOS utility that helps hide menu bar icons</description>
+  </item>
+  <item>
+    <title>Lakr233 / vphone-cli</title>
+    <link>https://github.com/Lakr233/vphone-cli</link>
+    <description></description>
   </item>
   <item>
     <title>FrizzleM / SideInstaller</title>
@@ -36,9 +36,19 @@
     <description>🖥 Control your display&#x27;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.</description>
   </item>
   <item>
+    <title>jordanbaird / Ice</title>
+    <link>https://github.com/jordanbaird/Ice</link>
+    <description>Powerful menu bar manager for macOS</description>
+  </item>
+  <item>
     <title>steipete / CodexBar</title>
     <link>https://github.com/steipete/CodexBar</link>
     <description>Show usage stats for OpenAI Codex and Claude Code, without having to login.</description>
+  </item>
+  <item>
+    <title>Homebrew / BrewUI</title>
+    <link>https://github.com/Homebrew/BrewUI</link>
+    <description>📺 Homebrew&#x27;s official macOS GUI</description>
   </item>
   <item>
     <title>PlayCover / PlayCover</title>
@@ -46,39 +56,9 @@
     <description>Community fork of PlayCover</description>
   </item>
   <item>
-    <title>momenbasel / PureMac</title>
-    <link>https://github.com/momenbasel/PureMac</link>
-    <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
-  </item>
-  <item>
-    <title>yonaskolb / XcodeGen</title>
-    <link>https://github.com/yonaskolb/XcodeGen</link>
-    <description>A Swift command line tool for generating your Xcode project</description>
-  </item>
-  <item>
-    <title>osaurus-ai / osaurus</title>
-    <link>https://github.com/osaurus-ai/osaurus</link>
-    <description>Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.</description>
-  </item>
-  <item>
-    <title>TheBoredTeam / boring.notch</title>
-    <link>https://github.com/TheBoredTeam/boring.notch</link>
-    <description>TheBoringNotch: Not so boring notch That Rocks 🎸🎶</description>
-  </item>
-  <item>
-    <title>jordanbaird / Ice</title>
-    <link>https://github.com/jordanbaird/Ice</link>
-    <description>Powerful menu bar manager for macOS</description>
-  </item>
-  <item>
-    <title>iFurySt / open-codex-computer-use</title>
-    <link>https://github.com/iFurySt/open-codex-computer-use</link>
-    <description>👾 Open Computer Use – Open-Source Alternative to Codex Computer Use</description>
-  </item>
-  <item>
-    <title>onevcat / Kingfisher</title>
-    <link>https://github.com/onevcat/Kingfisher</link>
-    <description>A lightweight, pure-Swift library for downloading and caching images from the web.</description>
+    <title>exelban / stats</title>
+    <link>https://github.com/exelban/stats</link>
+    <description>macOS system monitor in your menu bar</description>
   </item>
   <item>
     <title>openai / tart</title>
@@ -86,19 +66,39 @@
     <description>macOS and Linux VMs on Apple Silicon to use in CI and other automations</description>
   </item>
   <item>
-    <title>exelban / stats</title>
-    <link>https://github.com/exelban/stats</link>
-    <description>macOS system monitor in your menu bar</description>
+    <title>momenbasel / PureMac</title>
+    <link>https://github.com/momenbasel/PureMac</link>
+    <description>Free, open-source macOS cleaner. CleanMyMac alternative with zero telemetry. Native SwiftUI, scheduled auto-cleaning, Xcode/Homebrew/system cache cleanup. MIT licensed.</description>
   </item>
   <item>
-    <title>jaywcjlove / awesome-mac</title>
-    <link>https://github.com/jaywcjlove/awesome-mac</link>
-    <description> This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.</description>
+    <title>TheBoredTeam / boring.notch</title>
+    <link>https://github.com/TheBoredTeam/boring.notch</link>
+    <description>TheBoringNotch: Not so boring notch That Rocks 🎸🎶</description>
   </item>
   <item>
     <title>manaflow-ai / cmux</title>
     <link>https://github.com/manaflow-ai/cmux</link>
     <description>Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.</description>
+  </item>
+  <item>
+    <title>pointfreeco / swift-composable-architecture</title>
+    <link>https://github.com/pointfreeco/swift-composable-architecture</link>
+    <description>A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</description>
+  </item>
+  <item>
+    <title>onevcat / Kingfisher</title>
+    <link>https://github.com/onevcat/Kingfisher</link>
+    <description>A lightweight, pure-Swift library for downloading and caching images from the web.</description>
+  </item>
+  <item>
+    <title>Alamofire / Alamofire</title>
+    <link>https://github.com/Alamofire/Alamofire</link>
+    <description>Elegant HTTP Networking in Swift</description>
+  </item>
+  <item>
+    <title>iFurySt / open-codex-computer-use</title>
+    <link>https://github.com/iFurySt/open-codex-computer-use</link>
+    <description>👾 Open Computer Use – Open-Source Alternative to Codex Computer Use</description>
   </item>
 </channel>
 </rss>

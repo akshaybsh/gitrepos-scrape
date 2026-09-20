@@ -2,7 +2,7 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
     {
       "title": "localsend / localsend",
@@ -10,9 +10,9 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 92058,
-      "forks": 5136,
-      "added_stars": "1,500 stars this week"
+      "stars": 92174,
+      "forks": 5141,
+      "added_stars": "1,567 stars this week"
     },
     {
       "title": "chen08209 / FlClash",
@@ -20,9 +20,9 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 52641,
-      "forks": 3321,
-      "added_stars": "898 stars this week"
+      "stars": 52749,
+      "forks": 3329,
+      "added_stars": "867 stars this week"
     },
     {
       "title": "techjarves / Uncensored-Local-AI-Multiplatform",
@@ -30,9 +30,9 @@
       "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 1197,
-      "forks": 278,
-      "added_stars": "40 stars this week"
+      "stars": 1205,
+      "forks": 279,
+      "added_stars": "39 stars this week"
     },
     {
       "title": "flutter / flutter",
@@ -40,9 +40,29 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 179002,
-      "forks": 31622,
-      "added_stars": "164 stars this week"
+      "stars": 179016,
+      "forks": 31722,
+      "added_stars": "154 stars this week"
+    },
+    {
+      "title": "flutter / agent-plugins",
+      "url": "https://github.com/flutter/agent-plugins",
+      "description": "",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 2974,
+      "forks": 180,
+      "added_stars": "44 stars this week"
+    },
+    {
+      "title": "getlantern / lantern",
+      "url": "https://github.com/getlantern/lantern",
+      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 16001,
+      "forks": 11042,
+      "added_stars": "40 stars this week"
     },
     {
       "title": "bepass-org / oblivion",
@@ -52,17 +72,7 @@
       "languageColor": "#00B4AB",
       "stars": 4843,
       "forks": 634,
-      "added_stars": "47 stars this week"
-    },
-    {
-      "title": "KaringX / clashmi",
-      "url": "https://github.com/KaringX/clashmi",
-      "description": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 9378,
-      "forks": 581,
-      "added_stars": "123 stars this week"
+      "added_stars": "28 stars this week"
     },
     {
       "title": "dart-lang / sdk",
@@ -70,19 +80,9 @@
       "description": "The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 11287,
-      "forks": 1900,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "flutter / agent-plugins",
-      "url": "https://github.com/flutter/agent-plugins",
-      "description": "",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 2968,
-      "forks": 180,
-      "added_stars": "39 stars this week"
+      "stars": 11288,
+      "forks": 1899,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "GopeedLab / gopeed",
@@ -90,69 +90,9 @@
       "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 26380,
-      "forks": 1721,
-      "added_stars": "153 stars this week"
-    },
-    {
-      "title": "getlantern / lantern",
-      "url": "https://github.com/getlantern/lantern",
-      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 15990,
-      "forks": 11042,
-      "added_stars": "34 stars this week"
-    },
-    {
-      "title": "kodjodevf / mangayomi",
-      "url": "https://github.com/kodjodevf/mangayomi",
-      "description": "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 3806,
-      "forks": 141,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "sdegenaar / liquid_glass_widgets",
-      "url": "https://github.com/sdegenaar/liquid_glass_widgets",
-      "description": "Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 633,
-      "forks": 93,
-      "added_stars": "44 stars this week"
-    },
-    {
-      "title": "krille-chan / fluffychat",
-      "url": "https://github.com/krille-chan/fluffychat",
-      "description": "The cutest instant messenger in the [matrix]",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 3134,
-      "forks": 634,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "lichess-org / mobile",
-      "url": "https://github.com/lichess-org/mobile",
-      "description": "Lichess mobile app",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 2549,
-      "forks": 496,
-      "added_stars": "21 stars this week"
-    },
-    {
-      "title": "Solido / awesome-flutter",
-      "url": "https://github.com/Solido/awesome-flutter",
-      "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 61235,
-      "forks": 6916,
-      "added_stars": "87 stars this week"
+      "stars": 26404,
+      "forks": 1723,
+      "added_stars": "160 stars this week"
     },
     {
       "title": "ente / ente",
@@ -160,29 +100,89 @@
       "description": "💚 End-to-end encrypted cloud for everything.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 28955,
-      "forks": 1805,
-      "added_stars": "159 stars this week"
+      "stars": 28970,
+      "forks": 1807,
+      "added_stars": "150 stars this week"
     },
     {
-      "title": "KaringX / karing",
-      "url": "https://github.com/KaringX/karing",
-      "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
+      "title": "sdegenaar / liquid_glass_widgets",
+      "url": "https://github.com/sdegenaar/liquid_glass_widgets",
+      "description": "Flutter UI kit implementing Apple's iOS 26 Liquid Glass design language - a comprehensive glass widget library with real shader-based blur, physics-driven jelly animations, and dynamic lighting. Works on every platform out of the box.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 14950,
-      "forks": 1247,
-      "added_stars": "138 stars this week"
+      "stars": 637,
+      "forks": 94,
+      "added_stars": "40 stars this week"
     },
     {
-      "title": "KRTirtho / spotube",
-      "url": "https://github.com/KRTirtho/spotube",
-      "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+      "title": "KaringX / clashmi",
+      "url": "https://github.com/KaringX/clashmi",
+      "description": "Clash Mihomo for iOS/MacOS/Android/Windows/Linux",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 49264,
-      "forks": 2297,
-      "added_stars": "224 stars this week"
+      "stars": 9394,
+      "forks": 581,
+      "added_stars": "120 stars this week"
+    },
+    {
+      "title": "lichess-org / mobile",
+      "url": "https://github.com/lichess-org/mobile",
+      "description": "Lichess mobile app",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 2552,
+      "forks": 498,
+      "added_stars": "17 stars this week"
+    },
+    {
+      "title": "krille-chan / fluffychat",
+      "url": "https://github.com/krille-chan/fluffychat",
+      "description": "The cutest instant messenger in the [matrix]",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 3137,
+      "forks": 636,
+      "added_stars": "18 stars this week"
+    },
+    {
+      "title": "FoxSensei001 / LoveIwara",
+      "url": "https://github.com/FoxSensei001/LoveIwara",
+      "description": "Love Iwara (i-iwara or 2i). An unofficial iwara flutter app - Supporting multiple platforms and devices including mobile phones, tablets and computers. Compatible with Android, Meta Horizon OS, Windows and other systems. 第三方的Iwara应用 - 支持多个平台和设备，包括手机、平板和计算机。兼容 安卓、Meta Horizon OS、IOS、Windows、MacOS等系统。",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 1440,
+      "forks": 55,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "OpenStrap / edge",
+      "url": "https://github.com/OpenStrap/edge",
+      "description": "App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 601,
+      "forks": 102,
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "ImranR98 / Obtainium",
+      "url": "https://github.com/ImranR98/Obtainium",
+      "description": "Get Android app updates straight from the source.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 19813,
+      "forks": 600,
+      "added_stars": "182 stars this week"
+    },
+    {
+      "title": "flutter / packages",
+      "url": "https://github.com/flutter/packages",
+      "description": "A collection of useful packages maintained by the Flutter team",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 5310,
+      "forks": 3978,
+      "added_stars": "8 stars this week"
     }
   ]
 }

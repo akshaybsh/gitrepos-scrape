@@ -4,16 +4,11 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:59:20 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:24:11 GMT</pubDate>
   <item>
     <title>JustVugg / colibri</title>
     <link>https://github.com/JustVugg/colibri</link>
     <description>Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦</description>
-  </item>
-  <item>
-    <title>armory3d / armorpaint</title>
-    <link>https://github.com/armory3d/armorpaint</link>
-    <description>Graphics Creation Tools</description>
   </item>
   <item>
     <title>HarbourMasters / Shipwright</title>
@@ -21,14 +16,14 @@
     <description></description>
   </item>
   <item>
+    <title>armory3d / armorpaint</title>
+    <link>https://github.com/armory3d/armorpaint</link>
+    <description>Graphics Creation Tools</description>
+  </item>
+  <item>
     <title>DarkFlippers / unleashed-firmware</title>
     <link>https://github.com/DarkFlippers/unleashed-firmware</link>
     <description>Flipper Zero Unleashed Firmware</description>
-  </item>
-  <item>
-    <title>raysan5 / raylib</title>
-    <link>https://github.com/raysan5/raylib</link>
-    <description>A simple and easy-to-use library to enjoy videogames programming</description>
   </item>
   <item>
     <title>duixcom / Duix-Avatar</title>
@@ -46,16 +41,6 @@
     <description>hekate - A GUI based Nintendo Switch Bootloader</description>
   </item>
   <item>
-    <title>Genymobile / scrcpy</title>
-    <link>https://github.com/Genymobile/scrcpy</link>
-    <description>Display and control your Android device</description>
-  </item>
-  <item>
-    <title>lz4 / lz4</title>
-    <link>https://github.com/lz4/lz4</link>
-    <description>Extremely Fast Compression algorithm</description>
-  </item>
-  <item>
     <title>antirez / ds4</title>
     <link>https://github.com/antirez/ds4</link>
     <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
@@ -66,14 +51,9 @@
     <description>Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!</description>
   </item>
   <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
-  </item>
-  <item>
-    <title>espressif / esp-idf</title>
-    <link>https://github.com/espressif/esp-idf</link>
-    <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
+    <title>foobnix / LibreraReader</title>
+    <link>https://github.com/foobnix/LibreraReader</link>
+    <description>Book Reader for Android</description>
   </item>
   <item>
     <title>curl / curl</title>
@@ -81,9 +61,39 @@
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>foobnix / LibreraReader</title>
-    <link>https://github.com/foobnix/LibreraReader</link>
-    <description>Book Reader for Android</description>
+    <title>raysan5 / raylib</title>
+    <link>https://github.com/raysan5/raylib</link>
+    <description>A simple and easy-to-use library to enjoy videogames programming</description>
+  </item>
+  <item>
+    <title>lz4 / lz4</title>
+    <link>https://github.com/lz4/lz4</link>
+    <description>Extremely Fast Compression algorithm</description>
+  </item>
+  <item>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
+  </item>
+  <item>
+    <title>skeeto / w64devkit</title>
+    <link>https://github.com/skeeto/w64devkit</link>
+    <description>Portable C and C++ Development Kit for x64 (and x86) Windows</description>
+  </item>
+  <item>
+    <title>hathach / tinyusb</title>
+    <link>https://github.com/hathach/tinyusb</link>
+    <description>An open source cross-platform USB stack for embedded system</description>
+  </item>
+  <item>
+    <title>SlickAmogus / silent-hill-decomp</title>
+    <link>https://github.com/SlickAmogus/silent-hill-decomp</link>
+    <description>Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.</description>
+  </item>
+  <item>
+    <title>valinet / ExplorerPatcher</title>
+    <link>https://github.com/valinet/ExplorerPatcher</link>
+    <description>This project aims to enhance the working environment on Windows</description>
   </item>
 </channel>
 </rss>

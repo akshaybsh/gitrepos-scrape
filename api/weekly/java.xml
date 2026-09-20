@@ -4,7 +4,7 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:59:20 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:24:11 GMT</pubDate>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
@@ -26,9 +26,14 @@
     <description>The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies</description>
   </item>
   <item>
-    <title>keycloak / keycloak</title>
-    <link>https://github.com/keycloak/keycloak</link>
-    <description>Open Source Identity and Access Management For Modern Applications and Services</description>
+    <title>fish2018 / webhtv</title>
+    <link>https://github.com/fish2018/webhtv</link>
+    <description>WebHomeTV 基于FongMi二次开发，增强了 WebHome 自定义首页、App Native SDK、网盘链接检测 和 Nostr推荐首页。 这个项目的核心目标是让 CSP 站点首页可以变成一个真正可开发的网页应用：开发者可以用 HTML/CSS/JavaScript 定制首页，再通过 App 暴露的 Native 能力完成搜索、播放、跨域请求、资源代理、最近观看、网盘检测和状态同步。</description>
+  </item>
+  <item>
+    <title>GeyserMC / Geyser</title>
+    <link>https://github.com/GeyserMC/Geyser</link>
+    <description>A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.</description>
   </item>
   <item>
     <title>Stirling-Tools / Stirling-PDF</title>
@@ -41,11 +46,6 @@
     <description>Apache Doris is a real-time analytics and hybrid search database for AI agents.</description>
   </item>
   <item>
-    <title>GeyserMC / Geyser</title>
-    <link>https://github.com/GeyserMC/Geyser</link>
-    <description>A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.</description>
-  </item>
-  <item>
     <title>Suwayomi / Suwayomi-Server</title>
     <link>https://github.com/Suwayomi/Suwayomi-Server</link>
     <description>A rewrite of Tachiyomi for the Desktop</description>
@@ -56,39 +56,14 @@
     <description>Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</description>
   </item>
   <item>
+    <title>keycloak / keycloak</title>
+    <link>https://github.com/keycloak/keycloak</link>
+    <description>Open Source Identity and Access Management For Modern Applications and Services</description>
+  </item>
+  <item>
     <title>apache / rocketmq</title>
     <link>https://github.com/apache/rocketmq</link>
     <description>Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.</description>
-  </item>
-  <item>
-    <title>ReSo7200 / InstaEclipse</title>
-    <link>https://github.com/ReSo7200/InstaEclipse</link>
-    <description>An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.</description>
-  </item>
-  <item>
-    <title>LiteLDev / LeviLaunchroid</title>
-    <link>https://github.com/LiteLDev/LeviLaunchroid</link>
-    <description>A launcher designed for Minecraft Bedrock Edition on Android</description>
-  </item>
-  <item>
-    <title>microg / GmsCore</title>
-    <link>https://github.com/microg/GmsCore</link>
-    <description>Free implementation of Play Services</description>
-  </item>
-  <item>
-    <title>iflytek / astron-agent</title>
-    <link>https://github.com/iflytek/astron-agent</link>
-    <description>Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.</description>
-  </item>
-  <item>
-    <title>Anuken / Mindustry</title>
-    <link>https://github.com/Anuken/Mindustry</link>
-    <description>The automation tower defense RTS</description>
-  </item>
-  <item>
-    <title>ZCShou / GoGoGo</title>
-    <link>https://github.com/ZCShou/GoGoGo</link>
-    <description>一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆</description>
   </item>
   <item>
     <title>LaurieWired / GhidraMCP</title>
@@ -96,9 +71,14 @@
     <description>MCP Server for Ghidra</description>
   </item>
   <item>
-    <title>00-Evan / shattered-pixel-dungeon</title>
-    <link>https://github.com/00-Evan/shattered-pixel-dungeon</link>
-    <description>Shattered Pixel Dungeon is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It&#x27;s based on the source code of Pixel Dungeon, by Watabou.</description>
+    <title>ZCShou / GoGoGo</title>
+    <link>https://github.com/ZCShou/GoGoGo</link>
+    <description>一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆</description>
+  </item>
+  <item>
+    <title>microg / GmsCore</title>
+    <link>https://github.com/microg/GmsCore</link>
+    <description>Free implementation of Play Services</description>
   </item>
   <item>
     <title>JabRef / jabref</title>
@@ -106,9 +86,34 @@
     <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
   </item>
   <item>
-    <title>jeecgboot / JeecgBoot</title>
-    <link>https://github.com/jeecgboot/JeecgBoot</link>
-    <description>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。</description>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+  </item>
+  <item>
+    <title>ReSo7200 / InstaEclipse</title>
+    <link>https://github.com/ReSo7200/InstaEclipse</link>
+    <description>An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.</description>
+  </item>
+  <item>
+    <title>bethington / ghidra-mcp</title>
+    <link>https://github.com/bethington/ghidra-mcp</link>
+    <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
+  </item>
+  <item>
+    <title>LiteLDev / LeviLaunchroid</title>
+    <link>https://github.com/LiteLDev/LeviLaunchroid</link>
+    <description>A launcher designed for Minecraft Bedrock Edition on Android</description>
+  </item>
+  <item>
+    <title>quarkusio / quarkus</title>
+    <link>https://github.com/quarkusio/quarkus</link>
+    <description>Quarkus: Supersonic Subatomic Java.</description>
+  </item>
+  <item>
+    <title>RikkaApps / Sui</title>
+    <link>https://github.com/RikkaApps/Sui</link>
+    <description>Modern super user interface implementation on Android.</description>
   </item>
 </channel>
 </rss>

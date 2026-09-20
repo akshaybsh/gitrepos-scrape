@@ -4,12 +4,7 @@
   <title>GitHub Php Languages Daily Trending</title>
   <description>Daily Trending of Php Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 07:01:42 GMT</pubDate>
-  <item>
-    <title>glpi-project / glpi</title>
-    <link>https://github.com/glpi-project/glpi</link>
-    <description>GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.</description>
-  </item>
+  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
   <item>
     <title>FreshRSS / FreshRSS</title>
     <link>https://github.com/FreshRSS/FreshRSS</link>
@@ -26,14 +21,19 @@
     <description>Firefly III: a personal finances manager</description>
   </item>
   <item>
-    <title>matomo-org / matomo</title>
-    <link>https://github.com/matomo-org/matomo</link>
-    <description>Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites &amp; apps. Star us on GitHub ⭐️ – Pull Requests welcome!</description>
+    <title>glpi-project / glpi</title>
+    <link>https://github.com/glpi-project/glpi</link>
+    <description>GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.</description>
   </item>
   <item>
     <title>monicahq / monica</title>
     <link>https://github.com/monicahq/monica</link>
     <description>Personal CRM. Remember everything about your friends, family and business relationships.</description>
+  </item>
+  <item>
+    <title>matomo-org / matomo</title>
+    <link>https://github.com/matomo-org/matomo</link>
+    <description>Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites &amp; apps. Star us on GitHub ⭐️ – Pull Requests welcome!</description>
   </item>
   <item>
     <title>laravel / framework</title>
@@ -46,9 +46,9 @@
     <description>🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard, self hosted, powerful and customizable, URL shortener in PHP</description>
   </item>
   <item>
-    <title>kimai / kimai</title>
-    <link>https://github.com/kimai/kimai</link>
-    <description>Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org</description>
+    <title>symfony / symfony</title>
+    <link>https://github.com/symfony/symfony</link>
+    <description>The Symfony PHP framework</description>
   </item>
   <item>
     <title>roundcube / roundcubemail</title>
@@ -56,9 +56,9 @@
     <description>The Roundcube Webmail suite</description>
   </item>
   <item>
-    <title>symfony / symfony</title>
-    <link>https://github.com/symfony/symfony</link>
-    <description>The Symfony PHP framework</description>
+    <title>fruitcake / laravel-debugbar</title>
+    <link>https://github.com/fruitcake/laravel-debugbar</link>
+    <description>Debugbar for Laravel (Integrates PHP Debug Bar)</description>
   </item>
   <item>
     <title>livewire / livewire</title>
@@ -71,14 +71,9 @@
     <description>Dolibarr ERP CRM is a modern software package to manage your company or foundation&#x27;s activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it&#x27;s an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.</description>
   </item>
   <item>
-    <title>openemr / openemr</title>
-    <link>https://github.com/openemr/openemr</link>
-    <description>The most popular open source electronic health records and medical practice management solution.</description>
-  </item>
-  <item>
-    <title>ellite / Wallos</title>
-    <link>https://github.com/ellite/Wallos</link>
-    <description>Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.</description>
+    <title>kimai / kimai</title>
+    <link>https://github.com/kimai/kimai</link>
+    <description>Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org</description>
   </item>
   <item>
     <title>danielmiessler / SecLists</title>
@@ -91,9 +86,9 @@
     <description>Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more</description>
   </item>
   <item>
-    <title>krayin / laravel-crm</title>
-    <link>https://github.com/krayin/laravel-crm</link>
-    <description>Krayin CRM is Free &amp; Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.</description>
+    <title>openemr / openemr</title>
+    <link>https://github.com/openemr/openemr</link>
+    <description>The most popular open source electronic health records and medical practice management solution.</description>
   </item>
   <item>
     <title>shopware / shopware</title>
@@ -101,29 +96,34 @@
     <description>Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions</description>
   </item>
   <item>
+    <title>espocrm / espocrm</title>
+    <link>https://github.com/espocrm/espocrm</link>
+    <description>EspoCRM – Open Source CRM Application</description>
+  </item>
+  <item>
+    <title>krayin / laravel-crm</title>
+    <link>https://github.com/krayin/laravel-crm</link>
+    <description>Krayin CRM is Free &amp; Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.</description>
+  </item>
+  <item>
+    <title>getgrav / grav</title>
+    <link>https://github.com/getgrav/grav</link>
+    <description>Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony</description>
+  </item>
+  <item>
     <title>SuiteCRM / SuiteCRM</title>
     <link>https://github.com/SuiteCRM/SuiteCRM</link>
     <description>SuiteCRM - Open source CRM for the world</description>
   </item>
   <item>
-    <title>librenms / librenms</title>
-    <link>https://github.com/librenms/librenms</link>
-    <description>Community-based GPL-licensed network monitoring system</description>
-  </item>
-  <item>
-    <title>woocommerce / woocommerce</title>
-    <link>https://github.com/woocommerce/woocommerce</link>
-    <description>A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.</description>
-  </item>
-  <item>
-    <title>digininja / DVWA</title>
-    <link>https://github.com/digininja/DVWA</link>
-    <description>Damn Vulnerable Web Application (DVWA)</description>
-  </item>
-  <item>
     <title>bagisto / bagisto</title>
     <link>https://github.com/bagisto/bagisto</link>
     <description>Open Source eCommerce &amp; Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs</description>
+  </item>
+  <item>
+    <title>laravel / boost</title>
+    <link>https://github.com/laravel/boost</link>
+    <description>Laravel-focused MCP server for augmenting your AI powered local development experience.</description>
   </item>
 </channel>
 </rss>

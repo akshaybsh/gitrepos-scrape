@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
     {
       "title": "anthropics / claude-code",
@@ -10,9 +10,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 146418,
-      "forks": 23821,
-      "added_stars": "1,620 stars this week"
+      "stars": 146828,
+      "forks": 23981,
+      "added_stars": "1,999 stars this week"
     },
     {
       "title": "mksglu / context-mode",
@@ -20,19 +20,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23578,
-      "forks": 1699,
-      "added_stars": "1,398 stars this week"
-    },
-    {
-      "title": "stablyai / orca",
-      "url": "https://github.com/stablyai/orca",
-      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 72135,
-      "forks": 4720,
-      "added_stars": "5,272 stars this week"
+      "stars": 23706,
+      "forks": 1710,
+      "added_stars": "1,359 stars this week"
     },
     {
       "title": "heygen-com / hyperframes",
@@ -40,9 +30,19 @@
       "description": "Write HTML. Render video. Built for agents.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 51468,
-      "forks": 4688,
-      "added_stars": "2,401 stars this week"
+      "stars": 51723,
+      "forks": 4715,
+      "added_stars": "2,498 stars this week"
+    },
+    {
+      "title": "stablyai / orca",
+      "url": "https://github.com/stablyai/orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 72931,
+      "forks": 4771,
+      "added_stars": "5,404 stars this week"
     },
     {
       "title": "danny-avila / LibreChat",
@@ -50,9 +50,9 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 44348,
-      "forks": 9112,
-      "added_stars": "1,528 stars this week"
+      "stars": 44429,
+      "forks": 9124,
+      "added_stars": "1,573 stars this week"
     },
     {
       "title": "supabase / supabase",
@@ -60,19 +60,9 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 110220,
-      "forks": 14329,
-      "added_stars": "1,152 stars this week"
-    },
-    {
-      "title": "vastsa / PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 4407,
-      "forks": 369,
-      "added_stars": "1,661 stars this week"
+      "stars": 110367,
+      "forks": 14420,
+      "added_stars": "1,389 stars this week"
     },
     {
       "title": "cline / cline",
@@ -80,19 +70,29 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 68720,
-      "forks": 7428,
-      "added_stars": "1,090 stars this week"
+      "stars": 68823,
+      "forks": 7453,
+      "added_stars": "1,118 stars this week"
     },
     {
-      "title": "melgarafael / DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "title": "vastsa / PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3235,
-      "forks": 789,
-      "added_stars": "2,089 stars this week"
+      "stars": 4576,
+      "forks": 388,
+      "added_stars": "1,478 stars this week"
+    },
+    {
+      "title": "ever-co / ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 7790,
+      "forks": 1156,
+      "added_stars": "3,530 stars this week"
     },
     {
       "title": "reconurge / flowsint",
@@ -100,29 +100,29 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8814,
-      "forks": 1074,
-      "added_stars": "1,171 stars this week"
+      "stars": 8831,
+      "forks": 1077,
+      "added_stars": "1,190 stars this week"
     },
     {
-      "title": "Tencent / BrowserSkill",
-      "url": "https://github.com/Tencent/BrowserSkill",
-      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "title": "melgarafael / DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 5474,
-      "forks": 378,
-      "added_stars": "3,242 stars this week"
+      "stars": 3332,
+      "forks": 813,
+      "added_stars": "1,745 stars this week"
     },
     {
-      "title": "langwatch / langwatch",
-      "url": "https://github.com/langwatch/langwatch",
-      "description": "The platform for LLM evaluations and AI agent testing",
+      "title": "Open-Dev-Society / OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4816,
-      "forks": 394,
-      "added_stars": "1,289 stars this week"
+      "stars": 16306,
+      "forks": 2104,
+      "added_stars": "1,636 stars this week"
     },
     {
       "title": "jamiepine / voicebox",
@@ -130,49 +130,9 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 55129,
-      "forks": 6867,
-      "added_stars": "2,281 stars this week"
-    },
-    {
-      "title": "alsk1992 / CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 2777,
-      "forks": 333,
-      "added_stars": "741 stars this week"
-    },
-    {
-      "title": "OpenHands / OpenHands",
-      "url": "https://github.com/OpenHands/OpenHands",
-      "description": "🙌 OpenHands: AI-Driven Development",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 88471,
-      "forks": 11620,
-      "added_stars": "1,020 stars this week"
-    },
-    {
-      "title": "nab138 / iloader",
-      "url": "https://github.com/nab138/iloader",
-      "description": "User friendly sideloader",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3435,
-      "forks": 237,
-      "added_stars": "618 stars this week"
-    },
-    {
-      "title": "wechaty / wechaty",
-      "url": "https://github.com/wechaty/wechaty",
-      "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 23286,
-      "forks": 2882,
-      "added_stars": "196 stars this week"
+      "stars": 55231,
+      "forks": 6888,
+      "added_stars": "2,304 stars this week"
     },
     {
       "title": "NangoHQ / nango",
@@ -180,9 +140,29 @@
       "description": "Build product integrations with AI.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 12239,
-      "forks": 1358,
-      "added_stars": "462 stars this week"
+      "stars": 12259,
+      "forks": 1359,
+      "added_stars": "479 stars this week"
+    },
+    {
+      "title": "Fission-AI / OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "description": "Spec-driven development (SDD) for AI coding assistants.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 69607,
+      "forks": 4766,
+      "added_stars": "1,537 stars this week"
+    },
+    {
+      "title": "rowboatlabs / rowboat",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "description": "AI coworker with memory and collaboration",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 17918,
+      "forks": 1786,
+      "added_stars": "438 stars this week"
     }
   ]
 }

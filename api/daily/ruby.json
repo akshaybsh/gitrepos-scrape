@@ -2,78 +2,8 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
-    {
-      "title": "rails / rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 58775,
-      "forks": 22944,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "chatwoot / chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 36951,
-      "forks": 8971,
-      "added_stars": "36 stars today"
-    },
-    {
-      "title": "spree / spree",
-      "url": "https://github.com/spree/spree",
-      "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15709,
-      "forks": 5303,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "instructure / canvas-lms",
-      "url": "https://github.com/instructure/canvas-lms",
-      "description": "The open LMS by Instructure, Inc.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 6823,
-      "forks": 3020,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "ruby / ruby",
-      "url": "https://github.com/ruby/ruby",
-      "description": "The Ruby Programming Language",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 23746,
-      "forks": 5644,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "zammad / zammad",
-      "url": "https://github.com/zammad/zammad",
-      "description": "Zammad is a web based open source helpdesk/customer support system.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5925,
-      "forks": 1057,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "discourse / discourse",
-      "url": "https://github.com/discourse/discourse",
-      "description": "A platform for community discussion. Free, open, simple.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 47869,
-      "forks": 9020,
-      "added_stars": "15 stars today"
-    },
     {
       "title": "github-linguist / linguist",
       "url": "https://github.com/github-linguist/linguist",
@@ -81,8 +11,88 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 13694,
-      "forks": 5415,
-      "added_stars": "4 stars today"
+      "forks": 5421,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 58780,
+      "forks": 23030,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "discourse / discourse",
+      "url": "https://github.com/discourse/discourse",
+      "description": "A platform for community discussion. Free, open, simple.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 47873,
+      "forks": 9020,
+      "added_stars": "7 stars today"
+    },
+    {
+      "title": "crmne / ruby_llm",
+      "url": "https://github.com/crmne/ruby_llm",
+      "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 4390,
+      "forks": 504,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "opf / openproject",
+      "url": "https://github.com/opf/openproject",
+      "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 16153,
+      "forks": 3495,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "otwcode / otwarchive",
+      "url": "https://github.com/otwcode/otwarchive",
+      "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2239,
+      "forks": 853,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "spree / spree",
+      "url": "https://github.com/spree/spree",
+      "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15713,
+      "forks": 5303,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "Homebrew / brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The Package Manager for Everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 49722,
+      "forks": 11358,
+      "added_stars": "10 stars today"
+    },
+    {
+      "title": "basecamp / fizzy",
+      "url": "https://github.com/basecamp/fizzy",
+      "description": "Kanban as it should be. Not as it has been.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 8212,
+      "forks": 1194,
+      "added_stars": "2 stars today"
     },
     {
       "title": "fastlane / fastlane",
@@ -90,69 +100,19 @@
       "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 42131,
+      "stars": 42134,
       "forks": 6032,
-      "added_stars": "5 stars today"
+      "added_stars": "4 stars today"
     },
     {
-      "title": "citation-style-language / styles",
-      "url": "https://github.com/citation-style-language/styles",
-      "description": "Official repository for Citation Style Language (CSL) citation styles.",
+      "title": "instructure / canvas-lms",
+      "url": "https://github.com/instructure/canvas-lms",
+      "description": "The open LMS by Instructure, Inc.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3894,
-      "forks": 4152,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "docusealco / docuseal",
-      "url": "https://github.com/docusealco/docuseal",
-      "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 18567,
-      "forks": 1870,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "midudev / autoskills",
-      "url": "https://github.com/midudev/autoskills",
-      "description": "One command. Your entire AI skill stack. Installed.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 6877,
-      "forks": 621,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "antiwork / gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 9702,
-      "forks": 2037,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "googleapis / google-api-ruby-client",
-      "url": "https://github.com/googleapis/google-api-ruby-client",
-      "description": "REST client for Google APIs",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2899,
-      "forks": 888,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "basecamp / once-campfire",
-      "url": "https://github.com/basecamp/once-campfire",
-      "description": "Super simple group chat, without a subscription",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 4633,
-      "forks": 793,
-      "added_stars": "2 stars today"
+      "stars": 6825,
+      "forks": 3023,
+      "added_stars": "4 stars today"
     },
     {
       "title": "dependabot / dependabot-core",
@@ -161,38 +121,88 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 5776,
-      "forks": 1526,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "freeCodeCamp / devdocs",
-      "url": "https://github.com/freeCodeCamp/devdocs",
-      "description": "API Documentation Browser",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 39466,
-      "forks": 2644,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "github / explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 4891,
-      "forks": 14546,
+      "forks": 1525,
       "added_stars": "1 star today"
     },
     {
-      "title": "crmne / ruby_llm",
-      "url": "https://github.com/crmne/ruby_llm",
-      "description": "The Ruby-native AI framework. Chats, agents, tools, images, audio, and video through one consistent API, in plain Ruby or Rails.",
+      "title": "onetimesecret / onetimesecret",
+      "url": "https://github.com/onetimesecret/onetimesecret",
+      "description": "Keep passwords and other sensitive information out of your chat logs and inboxes.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4385,
-      "forks": 504,
+      "stars": 2941,
+      "forks": 453,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "zammad / zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5929,
+      "forks": 1057,
       "added_stars": "5 stars today"
+    },
+    {
+      "title": "hashicorp / vagrant",
+      "url": "https://github.com/hashicorp/vagrant",
+      "description": "Vagrant is a tool for building and distributing development environments.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 27211,
+      "forks": 4398,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "chatwoot / chatwoot",
+      "url": "https://github.com/chatwoot/chatwoot",
+      "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 36988,
+      "forks": 8985,
+      "added_stars": "37 stars today"
+    },
+    {
+      "title": "forem / forem",
+      "url": "https://github.com/forem/forem",
+      "description": "For empowering community 🌱",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 22779,
+      "forks": 4184,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "cncf / gitdm",
+      "url": "https://github.com/cncf/gitdm",
+      "description": "📜Fork for tracking CNCF projects",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 83,
+      "forks": 958,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "ruby / rubygems",
+      "url": "https://github.com/ruby/rubygems",
+      "description": "Library packaging and distribution for Ruby.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3968,
+      "forks": 1938,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "citation-style-language / styles",
+      "url": "https://github.com/citation-style-language/styles",
+      "description": "Official repository for Citation Style Language (CSL) citation styles.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3895,
+      "forks": 4153,
+      "added_stars": "1 star today"
     }
   ]
 }

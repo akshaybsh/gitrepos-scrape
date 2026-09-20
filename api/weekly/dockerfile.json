@@ -2,28 +2,8 @@
   "title": "GitHub Dockerfile Languages Daily Trending",
   "description": "Daily Trending of Dockerfile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:59:20 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
   "items": [
-    {
-      "title": "jaywcjlove / reference",
-      "url": "https://github.com/jaywcjlove/reference",
-      "description": "面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 15257,
-      "forks": 2227,
-      "added_stars": "15 stars this week"
-    },
-    {
-      "title": "goldbergyoni / nodebestpractices",
-      "url": "https://github.com/goldbergyoni/nodebestpractices",
-      "description": "✅ The Node.js best practices list (July 2026)",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 105626,
-      "forks": 10727,
-      "added_stars": "38 stars this week"
-    },
     {
       "title": "freeCodeCamp / rdb-alpha",
       "url": "https://github.com/freeCodeCamp/rdb-alpha",
@@ -31,67 +11,7 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 173,
-      "forks": 1129,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "Gar-b-age / CookLikeHOC",
-      "url": "https://github.com/Gar-b-age/CookLikeHOC",
-      "description": "🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 24638,
-      "forks": 2393,
-      "added_stars": "33 stars this week"
-    },
-    {
-      "title": "oxsecurity / megalinter",
-      "url": "https://github.com/oxsecurity/megalinter",
-      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 2594,
-      "forks": 311,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "vulhub / vulhub",
-      "url": "https://github.com/vulhub/vulhub",
-      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 21250,
-      "forks": 4807,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "kubernetes-sigs / contributor-playground",
-      "url": "https://github.com/kubernetes-sigs/contributor-playground",
-      "description": "",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 285,
-      "forks": 2106,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "dotnet / dotnet-docker",
-      "url": "https://github.com/dotnet/dotnet-docker",
-      "description": "Official container images for .NET",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 4874,
-      "forks": 1975,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "render-examples / mysql",
-      "url": "https://github.com/render-examples/mysql",
-      "description": "MySQL 8.0 and 5.7 on Render",
-      "language": "Dockerfile",
-      "languageColor": "#384d54",
-      "stars": 46,
-      "forks": 1149,
+      "forks": 1136,
       "added_stars": "0 stars this week"
     },
     {
@@ -101,8 +21,48 @@
       "language": "Dockerfile",
       "languageColor": "#384d54",
       "stars": 411,
-      "forks": 712,
-      "added_stars": "3 stars this week"
+      "forks": 714,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "kubernetes-sigs / contributor-playground",
+      "url": "https://github.com/kubernetes-sigs/contributor-playground",
+      "description": "",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 288,
+      "forks": 2108,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "oxsecurity / megalinter",
+      "url": "https://github.com/oxsecurity/megalinter",
+      "description": "🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2597,
+      "forks": 311,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "dotnet / dotnet-docker",
+      "url": "https://github.com/dotnet/dotnet-docker",
+      "description": "Official container images for .NET",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 4875,
+      "forks": 1975,
+      "added_stars": "2 stars this week"
+    },
+    {
+      "title": "vulhub / vulhub",
+      "url": "https://github.com/vulhub/vulhub",
+      "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 21252,
+      "forks": 4809,
+      "added_stars": "28 stars this week"
     },
     {
       "title": "docker-library / python",
@@ -110,9 +70,9 @@
       "description": "Docker Official Image packaging for Python",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 2777,
+      "stars": 2778,
       "forks": 1108,
-      "added_stars": "2 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "compose-spec / compose-spec",
@@ -125,13 +85,53 @@
       "added_stars": "3 stars this week"
     },
     {
+      "title": "render-examples / mysql",
+      "url": "https://github.com/render-examples/mysql",
+      "description": "MySQL 8.0 and 5.7 on Render",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 46,
+      "forks": 1150,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "goldbergyoni / nodebestpractices",
+      "url": "https://github.com/goldbergyoni/nodebestpractices",
+      "description": "✅ The Node.js best practices list (July 2026)",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 105629,
+      "forks": 10728,
+      "added_stars": "37 stars this week"
+    },
+    {
       "title": "MicrosoftDocs / windows-powershell-docs",
       "url": "https://github.com/MicrosoftDocs/windows-powershell-docs",
       "description": "This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.",
       "language": "Dockerfile",
       "languageColor": "#384d54",
-      "stars": 503,
+      "stars": 504,
       "forks": 635,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "zabbix / zabbix-docker",
+      "url": "https://github.com/zabbix/zabbix-docker",
+      "description": "Official Zabbix Dockerfiles",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 2839,
+      "forks": 1445,
+      "added_stars": "5 stars this week"
+    },
+    {
+      "title": "microsoft / mssql-docker",
+      "url": "https://github.com/microsoft/mssql-docker",
+      "description": "Official Microsoft repository for SQL Server in Docker resources",
+      "language": "Dockerfile",
+      "languageColor": "#384d54",
+      "stars": 1886,
+      "forks": 764,
       "added_stars": "1 star this week"
     }
   ]

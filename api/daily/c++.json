@@ -2,87 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sat, 19 Sep 2026 06:57:01 GMT",
+  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
   "items": [
     {
-      "title": "apache / arrow",
-      "url": "https://github.com/apache/arrow",
-      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "title": "harry7557558 / spirula-studio",
+      "url": "https://github.com/harry7557558/spirula-studio",
+      "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17138,
-      "forks": 4307,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41526,
-      "forks": 3804,
-      "added_stars": "76 stars today"
-    },
-    {
-      "title": "Neroued / ninfer",
-      "url": "https://github.com/Neroued/ninfer",
-      "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2105,
-      "forks": 386,
-      "added_stars": "81 stars today"
-    },
-    {
-      "title": "microsoft / intelligent-terminal",
-      "url": "https://github.com/microsoft/intelligent-terminal",
-      "description": "A fork of Windows Terminal with native agent integration, right in your command line.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2002,
-      "forks": 159,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "dragonflydb / dragonfly",
-      "url": "https://github.com/dragonflydb/dragonfly",
-      "description": "A modern replacement for Redis and Memcached",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 31605,
-      "forks": 1265,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "wazuh / wazuh",
-      "url": "https://github.com/wazuh/wazuh",
-      "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 16930,
-      "forks": 2490,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "nasa / fprime",
-      "url": "https://github.com/nasa/fprime",
-      "description": "F´ - A flight software and embedded systems framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 11765,
-      "forks": 1821,
+      "stars": 473,
+      "forks": 41,
       "added_stars": "9 stars today"
-    },
-    {
-      "title": "WerWolv / ImHex",
-      "url": "https://github.com/WerWolv/ImHex",
-      "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 54836,
-      "forks": 2458,
-      "added_stars": "10 stars today"
     },
     {
       "title": "ggml-org / llama.cpp",
@@ -90,69 +20,9 @@
       "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 128770,
-      "forks": 23415,
-      "added_stars": "149 stars today"
-    },
-    {
-      "title": "telegramdesktop / tdesktop",
-      "url": "https://github.com/telegramdesktop/tdesktop",
-      "description": "Telegram Desktop messaging app",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 32959,
-      "forks": 7222,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "k2-fsa / sherpa-onnx",
-      "url": "https://github.com/k2-fsa/sherpa-onnx",
-      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 14847,
-      "forks": 1708,
-      "added_stars": "19 stars today"
-    },
-    {
-      "title": "Z3Prover / z3",
-      "url": "https://github.com/Z3Prover/z3",
-      "description": "The Z3 Theorem Prover",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 12698,
-      "forks": 1690,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "protocolbuffers / protobuf",
-      "url": "https://github.com/protocolbuffers/protobuf",
-      "description": "Protocol Buffers - Google's data interchange format",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 72044,
-      "forks": 16292,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "gabime / spdlog",
-      "url": "https://github.com/gabime/spdlog",
-      "description": "Fast C++ logging library.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 29613,
-      "forks": 5396,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "kvcache-ai / Mooncake",
-      "url": "https://github.com/kvcache-ai/Mooncake",
-      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6611,
-      "forks": 1243,
-      "added_stars": "10 stars today"
+      "stars": 128892,
+      "forks": 23469,
+      "added_stars": "140 stars today"
     },
     {
       "title": "vllm-project / vllm-ascend",
@@ -160,59 +30,159 @@
       "description": "Community maintained hardware plugin for vLLM on Ascend",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2851,
-      "forks": 2305,
-      "added_stars": "9 stars today"
+      "stars": 2856,
+      "forks": 2312,
+      "added_stars": "1 star today"
     },
     {
-      "title": "microsoft / WSL",
-      "url": "https://github.com/microsoft/WSL",
-      "description": "Windows Subsystem for Linux",
+      "title": "opencv / opencv",
+      "url": "https://github.com/opencv/opencv",
+      "description": "Open Source Computer Vision Library",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 33729,
-      "forks": 1829,
+      "stars": 90898,
+      "forks": 57033,
+      "added_stars": "14 stars today"
+    },
+    {
+      "title": "moonlight-stream / moonlight-qt",
+      "url": "https://github.com/moonlight-stream/moonlight-qt",
+      "description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 18705,
+      "forks": 1324,
       "added_stars": "11 stars today"
     },
     {
-      "title": "colmap / colmap",
-      "url": "https://github.com/colmap/colmap",
-      "description": "COLMAP - Structure-from-Motion and Multi-View Stereo",
+      "title": "ml-explore / mlx",
+      "url": "https://github.com/ml-explore/mlx",
+      "description": "MLX: An array framework for Apple silicon",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 12759,
-      "forks": 2147,
-      "added_stars": "10 stars today"
+      "stars": 28488,
+      "forks": 2265,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "realsenseai / librealsense",
-      "url": "https://github.com/realsenseai/librealsense",
-      "description": "RealSense SDK",
+      "title": "google / or-tools",
+      "url": "https://github.com/google/or-tools",
+      "description": "Google's Operations Research tools:",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9029,
-      "forks": 5041,
-      "added_stars": "3 stars today"
+      "stars": 14074,
+      "forks": 2495,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "facebookresearch / faiss",
-      "url": "https://github.com/facebookresearch/faiss",
-      "description": "A library for efficient similarity search and clustering of dense vectors.",
+      "title": "openvinotoolkit / openvino",
+      "url": "https://github.com/openvinotoolkit/openvino",
+      "description": "OpenVINO™ is an open source toolkit for optimizing and deploying AI inference",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40933,
-      "forks": 4526,
+      "stars": 10877,
+      "forks": 3390,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "BruceDevices / firmware",
+      "url": "https://github.com/BruceDevices/firmware",
+      "description": "Predatory ESP32 Firmware",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6781,
+      "forks": 2263,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "google / googletest",
+      "url": "https://github.com/google/googletest",
+      "description": "GoogleTest - Google Testing and Mocking Framework",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 39558,
+      "forks": 10898,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "tesseract-ocr / tesseract",
+      "url": "https://github.com/tesseract-ocr/tesseract",
+      "description": "Tesseract Open Source OCR Engine (main repository)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 76582,
+      "forks": 10806,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "amnezia-vpn / amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15073,
+      "forks": 1154,
+      "added_stars": "18 stars today"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41570,
+      "forks": 3808,
+      "added_stars": "42 stars today"
+    },
+    {
+      "title": "ROCm / rocm-systems",
+      "url": "https://github.com/ROCm/rocm-systems",
+      "description": "super repo for rocm systems projects",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 508,
+      "forks": 411,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "flameshot-org / flameshot",
+      "url": "https://github.com/flameshot-org/flameshot",
+      "description": "Powerful yet simple to use screenshot software 🖥️ 📸",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 30894,
+      "forks": 2025,
+      "added_stars": "12 stars today"
+    },
+    {
+      "title": "Atmosphere-NX / Atmosphere",
+      "url": "https://github.com/Atmosphere-NX/Atmosphere",
+      "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 19741,
+      "forks": 1478,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "carbon-language / carbon-lang",
+      "url": "https://github.com/carbon-language/carbon-lang",
+      "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 33898,
+      "forks": 1710,
       "added_stars": "4 stars today"
     },
     {
-      "title": "tenstorrent / tt-metal",
-      "url": "https://github.com/tenstorrent/tt-metal",
-      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1684,
-      "forks": 695,
-      "added_stars": "2 stars today"
+      "stars": 200200,
+      "forks": 76956,
+      "added_stars": "28 stars today"
     }
   ]
 }

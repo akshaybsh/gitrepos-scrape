@@ -4,11 +4,16 @@
   <title>GitHub Jupyter-notebook Languages Daily Trending</title>
   <description>Daily Trending of Jupyter-notebook Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 07:01:42 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
   <item>
     <title>jackfrued / Python-100-Days</title>
     <link>https://github.com/jackfrued/Python-100-Days</link>
     <description>Python - 100天从新手到大师</description>
+  </item>
+  <item>
+    <title>higgsfield-ai / higgsfield</title>
+    <link>https://github.com/higgsfield-ai/higgsfield</link>
+    <description>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</description>
   </item>
   <item>
     <title>Lordog / dive-into-llms</title>
@@ -21,19 +26,9 @@
     <description>Examples and guides for using the OpenAI API</description>
   </item>
   <item>
-    <title>OpenBMB / MiniCPM</title>
-    <link>https://github.com/OpenBMB/MiniCPM</link>
-    <description>MiniCPM5: SOTA on-device LLMs, small yet powerful.</description>
-  </item>
-  <item>
-    <title>udlbook / udlbook</title>
-    <link>https://github.com/udlbook/udlbook</link>
-    <description>Understanding Deep Learning - Simon J.D. Prince</description>
-  </item>
-  <item>
-    <title>HandsOnLLM / Hands-On-Large-Language-Models</title>
-    <link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link>
-    <description>Official code repo for the O&#x27;Reilly Book - &quot;Hands-On Large Language Models&quot;</description>
+    <title>patchy631 / ai-engineering-hub</title>
+    <link>https://github.com/patchy631/ai-engineering-hub</link>
+    <description>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</description>
   </item>
   <item>
     <title>microsoft / ML-For-Beginners</title>
@@ -41,9 +36,24 @@
     <description>12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all</description>
   </item>
   <item>
-    <title>patchy631 / ai-engineering-hub</title>
-    <link>https://github.com/patchy631/ai-engineering-hub</link>
-    <description>In-depth tutorials on LLMs, RAGs and real-world AI agent applications.</description>
+    <title>OpenBMB / MiniCPM</title>
+    <link>https://github.com/OpenBMB/MiniCPM</link>
+    <description>MiniCPM5: SOTA on-device LLMs, small yet powerful.</description>
+  </item>
+  <item>
+    <title>HandsOnLLM / Hands-On-Large-Language-Models</title>
+    <link>https://github.com/HandsOnLLM/Hands-On-Large-Language-Models</link>
+    <description>Official code repo for the O&#x27;Reilly Book - &quot;Hands-On Large Language Models&quot;</description>
+  </item>
+  <item>
+    <title>microsoft / Data-Science-For-Beginners</title>
+    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
+    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
+  </item>
+  <item>
+    <title>hugo2046 / QuantsPlaybook</title>
+    <link>https://github.com/hugo2046/QuantsPlaybook</link>
+    <description>量化研究-券商金工研报复现</description>
   </item>
   <item>
     <title>google-research / google-research</title>
@@ -56,29 +66,9 @@
     <description>Repo to accompany my mastering LLM engineering course</description>
   </item>
   <item>
-    <title>AI4Finance-Foundation / FinRL</title>
-    <link>https://github.com/AI4Finance-Foundation/FinRL</link>
-    <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
-  </item>
-  <item>
-    <title>microsoft / Data-Science-For-Beginners</title>
-    <link>https://github.com/microsoft/Data-Science-For-Beginners</link>
-    <description>10 Weeks, 20 Lessons, Data Science for All!</description>
-  </item>
-  <item>
     <title>datawhalechina / happy-llm</title>
     <link>https://github.com/datawhalechina/happy-llm</link>
     <description>📚 从零开始构建大模型</description>
-  </item>
-  <item>
-    <title>higgsfield-ai / higgsfield</title>
-    <link>https://github.com/higgsfield-ai/higgsfield</link>
-    <description>Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters</description>
-  </item>
-  <item>
-    <title>rlabbe / Kalman-and-Bayesian-Filters-in-Python</title>
-    <link>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</link>
-    <description>Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</description>
   </item>
   <item>
     <title>microsoft / mcp-for-beginners</title>
@@ -86,9 +76,14 @@
     <description>This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.</description>
   </item>
   <item>
-    <title>QwenLM / Qwen3-VL</title>
-    <link>https://github.com/QwenLM/Qwen3-VL</link>
-    <description>Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</description>
+    <title>AI4Finance-Foundation / FinRL</title>
+    <link>https://github.com/AI4Finance-Foundation/FinRL</link>
+    <description>FinRL®: Financial Reinforcement Learning. 🔥</description>
+  </item>
+  <item>
+    <title>rlabbe / Kalman-and-Bayesian-Filters-in-Python</title>
+    <link>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</link>
+    <description>Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</description>
   </item>
   <item>
     <title>anthropics / prompt-eng-interactive-tutorial</title>

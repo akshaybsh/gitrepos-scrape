@@ -4,26 +4,11 @@
   <title>GitHub Scala Languages Daily Trending</title>
   <description>Daily Trending of Scala Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:22:04 GMT</pubDate>
   <item>
     <title>OpenXiangShan / XiangShan</title>
     <link>https://github.com/OpenXiangShan/XiangShan</link>
     <description>Open-source high-performance RISC-V processor</description>
-  </item>
-  <item>
-    <title>delta-io / delta</title>
-    <link>https://github.com/delta-io/delta</link>
-    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
-  </item>
-  <item>
-    <title>apache / spark</title>
-    <link>https://github.com/apache/spark</link>
-    <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
-  </item>
-  <item>
-    <title>lichess-org / lila</title>
-    <link>https://github.com/lichess-org/lila</link>
-    <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
   </item>
   <item>
     <title>joernio / joern</title>
@@ -31,14 +16,14 @@
     <description>Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</description>
   </item>
   <item>
-    <title>sbt / sbt</title>
-    <link>https://github.com/sbt/sbt</link>
-    <description>sbt, the interactive build tool</description>
+    <title>apache / spark</title>
+    <link>https://github.com/apache/spark</link>
+    <description>Apache Spark - A unified analytics engine for large-scale data processing</description>
   </item>
   <item>
-    <title>apache / gluten</title>
-    <link>https://github.com/apache/gluten</link>
-    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
+    <title>scalameta / metals</title>
+    <link>https://github.com/scalameta/metals</link>
+    <description>Scala language server with rich IDE features 🚀</description>
   </item>
   <item>
     <title>guardian / frontend</title>
@@ -46,9 +31,29 @@
     <description>The Guardian DotCom.</description>
   </item>
   <item>
+    <title>apache / gluten</title>
+    <link>https://github.com/apache/gluten</link>
+    <description>Gluten is a middle layer responsible for offloading JVM-based SQL engines&#x27; execution to native engines.</description>
+  </item>
+  <item>
+    <title>twitter / the-algorithm</title>
+    <link>https://github.com/twitter/the-algorithm</link>
+    <description>Source code for the X Recommendation Algorithm</description>
+  </item>
+  <item>
     <title>NVIDIA / cudf-spark</title>
     <link>https://github.com/NVIDIA/cudf-spark</link>
     <description>NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs</description>
+  </item>
+  <item>
+    <title>lichess-org / lila</title>
+    <link>https://github.com/lichess-org/lila</link>
+    <description>♞ lichess.org: the forever free, adless and open source chess server ♞</description>
+  </item>
+  <item>
+    <title>delta-io / delta</title>
+    <link>https://github.com/delta-io/delta</link>
+    <description>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</description>
   </item>
   <item>
     <title>apache / datafusion-comet</title>
@@ -56,24 +61,24 @@
     <description>Apache DataFusion Comet Spark Accelerator</description>
   </item>
   <item>
-    <title>playframework / playframework</title>
-    <link>https://github.com/playframework/playframework</link>
-    <description>The Community Maintained High Velocity Web Framework For Java and Scala.</description>
+    <title>gatling / gatling</title>
+    <link>https://github.com/gatling/gatling</link>
+    <description>Modern Load Testing as Code</description>
   </item>
   <item>
-    <title>apache / texera</title>
-    <link>https://github.com/apache/texera</link>
-    <description>Human-AI Collaborative Data Science Using Visual Workflows</description>
+    <title>starlake-ai / quack-on-demand</title>
+    <link>https://github.com/starlake-ai/quack-on-demand</link>
+    <description>Production-grade Arrow FlightSQL gateway in front of DuckDB Quack + DuckLake. Multi-tenant pools, pluggable auth (DB/JWT/OIDC), table-level ACLs, role-aware routing, and a live admin console</description>
   </item>
   <item>
-    <title>TheHive-Project / TheHive</title>
-    <link>https://github.com/TheHive-Project/TheHive</link>
-    <description>TheHive is a Collaborative Case Management Platform, now distributed as a commercial version</description>
+    <title>gitbucket / gitbucket</title>
+    <link>https://github.com/gitbucket/gitbucket</link>
+    <description>A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</description>
   </item>
   <item>
-    <title>canton-network / splice</title>
-    <link>https://github.com/canton-network/splice</link>
-    <description>Splice repository</description>
+    <title>orbeon / orbeon-forms</title>
+    <link>https://github.com/orbeon/orbeon-forms</link>
+    <description>Orbeon Forms - Build, run, and manage web forms on-premises or in the cloud.</description>
   </item>
   <item>
     <title>ucb-bar / gemmini</title>

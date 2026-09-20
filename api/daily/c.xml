@@ -4,11 +4,16 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sat, 19 Sep 2026 06:57:01 GMT</pubDate>
+  <pubDate>Sun, 20 Sep 2026 07:22:04 GMT</pubDate>
   <item>
-    <title>zephyrproject-rtos / zephyr</title>
-    <link>https://github.com/zephyrproject-rtos/zephyr</link>
-    <description>Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</description>
+    <title>HarbourMasters / PaperBoat</title>
+    <link>https://github.com/HarbourMasters/PaperBoat</link>
+    <description></description>
+  </item>
+  <item>
+    <title>stackia / rtp2httpd</title>
+    <link>https://github.com/stackia/rtp2httpd</link>
+    <description>Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!</description>
   </item>
   <item>
     <title>pgvector / pgvector</title>
@@ -16,63 +21,28 @@
     <description>Open-source vector similarity search for Postgres</description>
   </item>
   <item>
-    <title>rexglue / rexglue-sdk</title>
-    <link>https://github.com/rexglue/rexglue-sdk</link>
-    <description>Xbox 360 Recompilation Runtime and Toolkit</description>
-  </item>
-  <item>
-    <title>nginx / nginx</title>
-    <link>https://github.com/nginx/nginx</link>
-    <description>The official NGINX Open Source repository.</description>
-  </item>
-  <item>
-    <title>NLnetLabs / unbound</title>
-    <link>https://github.com/NLnetLabs/unbound</link>
-    <description>Unbound is a validating, recursive, and caching DNS resolver.</description>
-  </item>
-  <item>
-    <title>microsoft / mimalloc</title>
-    <link>https://github.com/microsoft/mimalloc</link>
-    <description>mimalloc is a compact general purpose allocator with excellent performance.</description>
-  </item>
-  <item>
-    <title>Cisco-Talos / clamav</title>
-    <link>https://github.com/Cisco-Talos/clamav</link>
-    <description>ClamAV - Documentation is here: https://docs.clamav.net</description>
-  </item>
-  <item>
     <title>foobnix / LibreraReader</title>
     <link>https://github.com/foobnix/LibreraReader</link>
     <description>Book Reader for Android</description>
   </item>
   <item>
-    <title>arendst / Tasmota</title>
-    <link>https://github.com/arendst/Tasmota</link>
-    <description>Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</description>
+    <title>nesbox / TIC-80</title>
+    <link>https://github.com/nesbox/TIC-80</link>
+    <description>TIC-80 is a fantasy computer for making, playing and sharing tiny games.</description>
   </item>
   <item>
-    <title>espressif / esp-idf</title>
-    <link>https://github.com/espressif/esp-idf</link>
-    <description>Espressif IoT Development Framework. Official development framework for Espressif SoCs.</description>
+    <title>colbymchenry / codegraph</title>
+    <link>https://github.com/colbymchenry/codegraph</link>
+    <description>Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local</description>
   </item>
   <item>
-    <title>madler / zlib</title>
-    <link>https://github.com/madler/zlib</link>
-    <description>A massively spiffy yet delicately unobtrusive compression library.</description>
+    <title>UberGuidoZ / Flipper</title>
+    <link>https://github.com/UberGuidoZ/Flipper</link>
+    <description>Playground (and dump) of stuff I make or modify for the Flipper Zero</description>
   </item>
   <item>
-    <title>erincatto / box3d</title>
-    <link>https://github.com/erincatto/box3d</link>
-    <description>Box3D is a 3D physics engine for games</description>
-  </item>
-  <item>
-    <title>xmrig / xmrig</title>
-    <link>https://github.com/xmrig/xmrig</link>
-    <description>RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark</description>
-  </item>
-  <item>
-    <title>matz / spinel</title>
-    <link>https://github.com/matz/spinel</link>
+    <title>jemalloc / jemalloc</title>
+    <link>https://github.com/jemalloc/jemalloc</link>
     <description></description>
   </item>
   <item>
@@ -86,24 +56,9 @@
     <description>General purpose TLS and crypto library</description>
   </item>
   <item>
-    <title>nothings / stb</title>
-    <link>https://github.com/nothings/stb</link>
-    <description>stb single-file public domain libraries for C/C++</description>
-  </item>
-  <item>
-    <title>kingToolbox / WindTerm</title>
-    <link>https://github.com/kingToolbox/WindTerm</link>
-    <description>A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</description>
-  </item>
-  <item>
-    <title>i12bp8 / TagTinker</title>
-    <link>https://github.com/i12bp8/TagTinker</link>
-    <description>Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl</description>
-  </item>
-  <item>
-    <title>maxsteeel / nomount</title>
-    <link>https://github.com/maxsteeel/nomount</link>
-    <description>NoMount is a VFS (Virtual File System) path redirection framework for Android kernels.</description>
+    <title>Rainchus / Donkey-Kong-64-Recompiled</title>
+    <link>https://github.com/Rainchus/Donkey-Kong-64-Recompiled</link>
+    <description></description>
   </item>
   <item>
     <title>jqlang / jq</title>
@@ -114,6 +69,36 @@
     <title>FRRouting / frr</title>
     <link>https://github.com/FRRouting/frr</link>
     <description>The FRRouting Protocol Suite</description>
+  </item>
+  <item>
+    <title>PerformanC / ReZygisk</title>
+    <link>https://github.com/PerformanC/ReZygisk</link>
+    <description>Transparent implementation of Zygisk.</description>
+  </item>
+  <item>
+    <title>tmux / tmux</title>
+    <link>https://github.com/tmux/tmux</link>
+    <description>tmux source code</description>
+  </item>
+  <item>
+    <title>eclipse-mosquitto / mosquitto</title>
+    <link>https://github.com/eclipse-mosquitto/mosquitto</link>
+    <description>Eclipse Mosquitto - An open source MQTT broker</description>
+  </item>
+  <item>
+    <title>hathach / tinyusb</title>
+    <link>https://github.com/hathach/tinyusb</link>
+    <description>An open source cross-platform USB stack for embedded system</description>
+  </item>
+  <item>
+    <title>checkpoint-restore / criu</title>
+    <link>https://github.com/checkpoint-restore/criu</link>
+    <description>Checkpoint/Restore tool</description>
+  </item>
+  <item>
+    <title>timescale / timescaledb</title>
+    <link>https://github.com/timescale/timescaledb</link>
+    <description>A time-series database for high-performance real-time analytics packaged as a Postgres extension</description>
   </item>
 </channel>
 </rss>
