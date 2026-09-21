@@ -2,27 +2,17 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
-    {
-      "title": "godotengine / godot",
-      "url": "https://github.com/godotengine/godot",
-      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 117496,
-      "forks": 26802,
-      "added_stars": "497 stars this week"
-    },
     {
       "title": "Atmosphere-NX / Atmosphere",
       "url": "https://github.com/Atmosphere-NX/Atmosphere",
       "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 19741,
-      "forks": 1478,
-      "added_stars": "183 stars this week"
+      "stars": 19755,
+      "forks": 1481,
+      "added_stars": "180 stars this week"
     },
     {
       "title": "Fincept-Corporation / FinceptTerminal",
@@ -30,9 +20,9 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 31815,
-      "forks": 4515,
-      "added_stars": "513 stars this week"
+      "stars": 31864,
+      "forks": 4521,
+      "added_stars": "485 stars this week"
     },
     {
       "title": "Neroued / ninfer",
@@ -40,59 +30,29 @@
       "description": "High-performance single-GPU inference for selected model checkpoints and GPUs.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 2159,
-      "forks": 396,
-      "added_stars": "538 stars this week"
+      "stars": 2218,
+      "forks": 409,
+      "added_stars": "578 stars this week"
     },
     {
-      "title": "azahar-emu / azahar",
-      "url": "https://github.com/azahar-emu/azahar",
-      "description": "An open-source 3DS emulator project based on Citra.",
+      "title": "godotengine / godot",
+      "url": "https://github.com/godotengine/godot",
+      "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8174,
-      "forks": 680,
-      "added_stars": "70 stars this week"
+      "stars": 117532,
+      "forks": 26811,
+      "added_stars": "510 stars this week"
     },
     {
-      "title": "aria2 / aria2",
-      "url": "https://github.com/aria2/aria2",
-      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+      "title": "firebase / firebase-ios-sdk",
+      "url": "https://github.com/firebase/firebase-ios-sdk",
+      "description": "Firebase SDK for Apple App Development",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 42542,
-      "forks": 3923,
-      "added_stars": "431 stars this week"
-    },
-    {
-      "title": "LizardByte / Sunshine",
-      "url": "https://github.com/LizardByte/Sunshine",
-      "description": "Self-hosted game stream host for Moonlight.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41379,
-      "forks": 2130,
-      "added_stars": "264 stars this week"
-    },
-    {
-      "title": "jomjol / AI-on-the-edge-device",
-      "url": "https://github.com/jomjol/AI-on-the-edge-device",
-      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8785,
-      "forks": 912,
-      "added_stars": "120 stars this week"
-    },
-    {
-      "title": "ggml-org / llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "description": "LLM inference in C/C++",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 128893,
-      "forks": 23469,
-      "added_stars": "956 stars this week"
+      "stars": 6662,
+      "forks": 1788,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "YimMenu / YimMenuV2",
@@ -100,39 +60,29 @@
       "description": "Experimental menu for GTA 5: Enhanced",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1740,
+      "stars": 1741,
       "forks": 398,
       "added_stars": "34 stars this week"
     },
     {
-      "title": "ggml-org / whisper.cpp",
-      "url": "https://github.com/ggml-org/whisper.cpp",
-      "description": "Port of OpenAI's Whisper model in C/C++",
+      "title": "aria2 / aria2",
+      "url": "https://github.com/aria2/aria2",
+      "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 53785,
-      "forks": 6181,
-      "added_stars": "171 stars this week"
+      "stars": 42576,
+      "forks": 3925,
+      "added_stars": "371 stars this week"
     },
     {
-      "title": "apache / arrow",
-      "url": "https://github.com/apache/arrow",
-      "description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics",
+      "title": "ggml-org / llama.cpp",
+      "url": "https://github.com/ggml-org/llama.cpp",
+      "description": "LLM inference in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 17140,
-      "forks": 4311,
-      "added_stars": "43 stars this week"
-    },
-    {
-      "title": "CalcProgrammer1 / OpenRGB",
-      "url": "https://github.com/CalcProgrammer1/OpenRGB",
-      "description": "Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 4483,
-      "forks": 431,
-      "added_stars": "65 stars this week"
+      "stars": 129009,
+      "forks": 23515,
+      "added_stars": "963 stars this week"
     },
     {
       "title": "react / react-native",
@@ -140,19 +90,29 @@
       "description": "A framework for building native applications using React",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 126660,
+      "stars": 126675,
       "forks": 25281,
-      "added_stars": "125 stars this week"
+      "added_stars": "123 stars this week"
     },
     {
-      "title": "tenstorrent / tt-metal",
-      "url": "https://github.com/tenstorrent/tt-metal",
-      "description": "🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.",
+      "title": "ggml-org / whisper.cpp",
+      "url": "https://github.com/ggml-org/whisper.cpp",
+      "description": "Port of OpenAI's Whisper model in C/C++",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1686,
-      "forks": 697,
-      "added_stars": "20 stars this week"
+      "stars": 53818,
+      "forks": 6186,
+      "added_stars": "178 stars this week"
+    },
+    {
+      "title": "Redot-Engine / redot-engine",
+      "url": "https://github.com/Redot-Engine/redot-engine",
+      "description": "Redot Engine – Multi-platform 2D and 3D game engine",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 6105,
+      "forks": 332,
+      "added_stars": "64 stars this week"
     },
     {
       "title": "optiscaler / OptiScaler",
@@ -160,29 +120,19 @@
       "description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 11203,
-      "forks": 495,
-      "added_stars": "492 stars this week"
+      "stars": 11232,
+      "forks": 497,
+      "added_stars": "389 stars this week"
     },
     {
-      "title": "google / benchmark",
-      "url": "https://github.com/google/benchmark",
-      "description": "A microbenchmark support library",
+      "title": "LizardByte / Sunshine",
+      "url": "https://github.com/LizardByte/Sunshine",
+      "description": "Self-hosted game stream host for Moonlight.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 10415,
-      "forks": 1800,
-      "added_stars": "23 stars this week"
-    },
-    {
-      "title": "duckdb / duckdb",
-      "url": "https://github.com/duckdb/duckdb",
-      "description": "DuckDB is an analytical in-process SQL database management system",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 41570,
-      "forks": 3808,
-      "added_stars": "381 stars this week"
+      "stars": 41399,
+      "forks": 2133,
+      "added_stars": "268 stars this week"
     },
     {
       "title": "ocornut / imgui",
@@ -190,19 +140,39 @@
       "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 76277,
-      "forks": 12047,
-      "added_stars": "130 stars this week"
+      "stars": 76296,
+      "forks": 12048,
+      "added_stars": "132 stars this week"
     },
     {
-      "title": "jtenniswood / espcontrol",
-      "url": "https://github.com/jtenniswood/espcontrol",
-      "description": "Esphome based smart home control panel",
+      "title": "FEX-Emu / FEX",
+      "url": "https://github.com/FEX-Emu/FEX",
+      "description": "A fast usermode x86 and x86-64 emulator for Arm64 Linux",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1041,
-      "forks": 156,
-      "added_stars": "60 stars this week"
+      "stars": 8101,
+      "forks": 359,
+      "added_stars": "133 stars this week"
+    },
+    {
+      "title": "CalcProgrammer1 / OpenRGB",
+      "url": "https://github.com/CalcProgrammer1/OpenRGB",
+      "description": "Open source RGB lighting control that doesn't depend on manufacturer software. Supports Windows, Linux, MacOS. Mirror of https://gitlab.com/CalcProgrammer1/OpenRGB. Releases can be found on GitLab.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 4489,
+      "forks": 433,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "duckdb / duckdb",
+      "url": "https://github.com/duckdb/duckdb",
+      "description": "DuckDB is an analytical in-process SQL database management system",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 41595,
+      "forks": 3810,
+      "added_stars": "395 stars this week"
     }
   ]
 }

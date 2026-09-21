@@ -2,16 +2,16 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:32:06 GMT",
   "items": [
     {
-      "title": "microsoft / vcpkg",
-      "url": "https://github.com/microsoft/vcpkg",
-      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "title": "minecraft-linux / mcpelauncher-manifest",
+      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
+      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27470,
-      "forks": 7731,
+      "stars": 1658,
+      "forks": 132,
       "added_stars": "1 star today"
     },
     {
@@ -20,8 +20,38 @@
       "description": "CMake-based MinGW-w64 Cross Toolchain",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 1754,
-      "forks": 254,
+      "stars": 1757,
+      "forks": 256,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "Andersama / obs-asio",
+      "url": "https://github.com/Andersama/obs-asio",
+      "description": "ASIO plugin for OBS-Studio",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 846,
+      "forks": 53,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "microsoft / vcpkg",
+      "url": "https://github.com/microsoft/vcpkg",
+      "description": "C++ Library Manager for Windows, Linux, and MacOS",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 27476,
+      "forks": 7733,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "corrosion-rs / corrosion",
+      "url": "https://github.com/corrosion-rs/corrosion",
+      "description": "Marrying Rust and CMake - Easy Rust and C/C++ Integration!",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1497,
+      "forks": 150,
       "added_stars": "0 stars today"
     },
     {
@@ -33,26 +63,6 @@
       "stars": 690,
       "forks": 703,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "boostorg / cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 120,
-      "forks": 37,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "minecraft-linux / mcpelauncher-manifest",
-      "url": "https://github.com/minecraft-linux/mcpelauncher-manifest",
-      "description": "The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1657,
-      "forks": 131,
-      "added_stars": "3 stars today"
     }
   ]
 }

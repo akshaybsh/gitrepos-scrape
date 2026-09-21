@@ -2,7 +2,7 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
   "items": [
     {
       "title": "tt-a1i / archify",
@@ -10,29 +10,9 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 67731,
-      "forks": 4524,
-      "added_stars": "53,311 stars this month"
-    },
-    {
-      "title": "omacom / omarchy",
-      "url": "https://github.com/omacom/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 42214,
-      "forks": 4857,
-      "added_stars": "15,717 stars this month"
-    },
-    {
-      "title": "anthropics / claude-plugins-community",
-      "url": "https://github.com/anthropics/claude-plugins-community",
-      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 4278,
-      "forks": 310,
-      "added_stars": "3,968 stars this month"
+      "stars": 68568,
+      "forks": 4594,
+      "added_stars": "53,904 stars this month"
     },
     {
       "title": "THU-MAIC / OpenMAIC",
@@ -40,9 +20,29 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 38063,
-      "forks": 5978,
-      "added_stars": "17,316 stars this month"
+      "stars": 38295,
+      "forks": 6001,
+      "added_stars": "17,511 stars this month"
+    },
+    {
+      "title": "anthropics / claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "description": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 4328,
+      "forks": 311,
+      "added_stars": "4,010 stars this month"
+    },
+    {
+      "title": "omacom / omarchy",
+      "url": "https://github.com/omacom/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "languageColor": "#89e051",
+      "stars": 42424,
+      "forks": 4886,
+      "added_stars": "15,720 stars this month"
     },
     {
       "title": "freestylefly / awesome-gpt-image-2",
@@ -50,9 +50,9 @@
       "description": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 32879,
-      "forks": 3171,
-      "added_stars": "21,920 stars this month"
+      "stars": 33064,
+      "forks": 3187,
+      "added_stars": "22,015 stars this month"
     },
     {
       "title": "cursor / plugins",
@@ -60,9 +60,9 @@
       "description": "Cursor plugin specification and official plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8199,
-      "forks": 752,
-      "added_stars": "4,944 stars this month"
+      "stars": 8256,
+      "forks": 760,
+      "added_stars": "4,521 stars this month"
     },
     {
       "title": "debpalash / VoiceStudio",
@@ -70,39 +70,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 33286,
-      "forks": 3930,
-      "added_stars": "23,139 stars this month"
-    },
-    {
-      "title": "AprilNEA / OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 21681,
-      "forks": 701,
-      "added_stars": "12,141 stars this month"
-    },
-    {
-      "title": "vorssaint / vorssaint-utils",
-      "url": "https://github.com/vorssaint/vorssaint-utils",
-      "description": "Free and open-source macOS menu bar toolkit.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 20079,
-      "forks": 732,
-      "added_stars": "14,438 stars this month"
-    },
-    {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 48884,
-      "forks": 2841,
-      "added_stars": "26,527 stars this month"
+      "stars": 33651,
+      "forks": 3974,
+      "added_stars": "22,901 stars this month"
     },
     {
       "title": "cloudflare / security-audit-skill",
@@ -110,19 +80,29 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 16962,
-      "forks": 931,
-      "added_stars": "12,420 stars this month"
+      "stars": 18377,
+      "forks": 1027,
+      "added_stars": "14,879 stars this month"
     },
     {
-      "title": "Lakr233 / vphone-cli",
-      "url": "https://github.com/Lakr233/vphone-cli",
-      "description": "",
+      "title": "vorssaint / vorssaint-utils",
+      "url": "https://github.com/vorssaint/vorssaint-utils",
+      "description": "Free and open-source macOS menu bar toolkit.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14010,
-      "forks": 1657,
-      "added_stars": "6,183 stars this month"
+      "stars": 20292,
+      "forks": 740,
+      "added_stars": "14,605 stars this month"
+    },
+    {
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 49425,
+      "forks": 2860,
+      "added_stars": "26,844 stars this month"
     },
     {
       "title": "alibaba / open-code-review",
@@ -130,59 +110,29 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37903,
-      "forks": 2698,
-      "added_stars": "16,711 stars this month"
+      "stars": 38691,
+      "forks": 2763,
+      "added_stars": "17,582 stars this month"
     },
     {
-      "title": "cathrynlavery / diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "language": "HTML",
-      "languageColor": "#e34c26",
-      "stars": 41403,
-      "forks": 2654,
-      "added_stars": "18,899 stars this month"
+      "title": "Lakr233 / vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "description": "",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 14108,
+      "forks": 1668,
+      "added_stars": "6,211 stars this month"
     },
     {
-      "title": "google-research / timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 33259,
-      "forks": 3202,
-      "added_stars": "5,274 stars this month"
-    },
-    {
-      "title": "jingyaogong / minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 61743,
-      "forks": 8038,
-      "added_stars": "7,036 stars this month"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 27678,
-      "forks": 3724,
-      "added_stars": "7,397 stars this month"
-    },
-    {
-      "title": "tashfeenahmed / freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 27513,
-      "forks": 3762,
-      "added_stars": "8,646 stars this month"
+      "title": "AprilNEA / OpenLogi",
+      "url": "https://github.com/AprilNEA/OpenLogi",
+      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 21785,
+      "forks": 712,
+      "added_stars": "10,567 stars this month"
     },
     {
       "title": "tech-leads-club / agent-skills",
@@ -190,9 +140,59 @@
       "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 6492,
-      "forks": 537,
-      "added_stars": "1,527 stars this month"
+      "stars": 6564,
+      "forks": 538,
+      "added_stars": "1,604 stars this month"
+    },
+    {
+      "title": "google-research / timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 33359,
+      "forks": 3220,
+      "added_stars": "5,364 stars this month"
+    },
+    {
+      "title": "cathrynlavery / diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "description": "Editorial diagram design for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "language": "HTML",
+      "languageColor": "#e34c26",
+      "stars": 41676,
+      "forks": 2671,
+      "added_stars": "17,716 stars this month"
+    },
+    {
+      "title": "jingyaogong / minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 61909,
+      "forks": 8056,
+      "added_stars": "7,126 stars this month"
+    },
+    {
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 28238,
+      "forks": 3802,
+      "added_stars": "7,936 stars this month"
+    },
+    {
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 6163,
+      "forks": 443,
+      "added_stars": "4,797 stars this month"
     },
     {
       "title": "every-app / open-seo",
@@ -200,29 +200,9 @@
       "description": "Open source alternative to Semrush and Ahrefs",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 19561,
-      "forks": 2512,
-      "added_stars": "6,917 stars this month"
-    },
-    {
-      "title": "melgarafael / DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 3332,
-      "forks": 813,
-      "added_stars": "2,827 stars this month"
-    },
-    {
-      "title": "abue-ammar / tinycast",
-      "url": "https://github.com/abue-ammar/tinycast",
-      "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 6725,
-      "forks": 313,
-      "added_stars": "4,979 stars this month"
+      "stars": 19758,
+      "forks": 2539,
+      "added_stars": "6,976 stars this month"
     }
   ]
 }

@@ -2,48 +2,8 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:32:06 GMT",
   "items": [
-    {
-      "title": "imputnet / cobalt",
-      "url": "https://github.com/imputnet/cobalt",
-      "description": "best way to save what you love",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 43666,
-      "forks": 3825,
-      "added_stars": "49 stars today"
-    },
-    {
-      "title": "lissy93 / networking-toolbox",
-      "url": "https://github.com/lissy93/networking-toolbox",
-      "description": "🛜 100+ offline-first networking tools and utilities",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 2676,
-      "forks": 234,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "seanmorley15 / AdventureLog",
-      "url": "https://github.com/seanmorley15/AdventureLog",
-      "description": "Self-hostable travel tracker and trip planner.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 3738,
-      "forks": 254,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "mylofi / lofi.so",
-      "url": "https://github.com/mylofi/lofi.so",
-      "description": "Home for Sync and Local-first",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 26,
-      "forks": 35,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "Abdenasser / neohtop",
       "url": "https://github.com/Abdenasser/neohtop",
@@ -52,7 +12,37 @@
       "languageColor": "#ff3e00",
       "stars": 9382,
       "forks": 308,
-      "added_stars": "5 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "RockinChaos / Shiru",
+      "url": "https://github.com/RockinChaos/Shiru",
+      "description": "A personal anime library manager for watching and tracking your collection in real time. Lightweight, powerful, and paws-itively fast. No waiting required!",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 599,
+      "forks": 39,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "imputnet / cobalt",
+      "url": "https://github.com/imputnet/cobalt",
+      "description": "best way to save what you love",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 43707,
+      "forks": 3831,
+      "added_stars": "44 stars today"
+    },
+    {
+      "title": "openfoodfacts / openfoodfacts-explorer",
+      "url": "https://github.com/openfoodfacts/openfoodfacts-explorer",
+      "description": "The next-generation frontend for OpenFoodFacts, made with SvelteKit",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 72,
+      "forks": 163,
+      "added_stars": "0 stars today"
     },
     {
       "title": "open-webui / desktop",
@@ -60,9 +50,49 @@
       "description": "Open WebUI Desktop 🌐",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 2786,
+      "stars": 2792,
       "forks": 268,
-      "added_stars": "5 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "vaibhav-kakde-in / mdhero",
+      "url": "https://github.com/vaibhav-kakde-in/mdhero",
+      "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 168,
+      "forks": 22,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "VERT-sh / VERT",
+      "url": "https://github.com/VERT-sh/VERT",
+      "description": "The next-generation file converter. Open source, fully local* and free forever.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 15625,
+      "forks": 836,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "seanmorley15 / AdventureLog",
+      "url": "https://github.com/seanmorley15/AdventureLog",
+      "description": "Self-hostable travel tracker and trip planner.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 3741,
+      "forks": 254,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "RaidOwl / homelab-hub",
+      "url": "https://github.com/RaidOwl/homelab-hub",
+      "description": "",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 898,
+      "forks": 62,
+      "added_stars": "2 stars today"
     }
   ]
 }

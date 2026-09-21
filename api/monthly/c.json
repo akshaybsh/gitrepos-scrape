@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
   "items": [
     {
       "title": "libretro / RetroArch",
@@ -10,29 +10,9 @@
       "description": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 14056,
-      "forks": 2238,
-      "added_stars": "545 stars this month"
-    },
-    {
-      "title": "nmap / nmap",
-      "url": "https://github.com/nmap/nmap",
-      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13628,
-      "forks": 2910,
-      "added_stars": "255 stars this month"
-    },
-    {
-      "title": "HarbourMasters / Shipwright",
-      "url": "https://github.com/HarbourMasters/Shipwright",
-      "description": "",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5442,
-      "forks": 848,
-      "added_stars": "195 stars this month"
+      "stars": 14069,
+      "forks": 2240,
+      "added_stars": "555 stars this month"
     },
     {
       "title": "facebook / zstd",
@@ -40,9 +20,19 @@
       "description": "Zstandard - Fast real-time compression algorithm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 27902,
-      "forks": 2608,
-      "added_stars": "340 stars this month"
+      "stars": 27911,
+      "forks": 2610,
+      "added_stars": "339 stars this month"
+    },
+    {
+      "title": "HarbourMasters / Shipwright",
+      "url": "https://github.com/HarbourMasters/Shipwright",
+      "description": "",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5451,
+      "forks": 849,
+      "added_stars": "201 stars this month"
     },
     {
       "title": "curl / curl",
@@ -50,9 +40,19 @@
       "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 42894,
-      "forks": 7370,
-      "added_stars": "354 stars this month"
+      "stars": 42893,
+      "forks": 7371,
+      "added_stars": "351 stars this month"
+    },
+    {
+      "title": "radareorg / radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 24838,
+      "forks": 3328,
+      "added_stars": "264 stars this month"
     },
     {
       "title": "obsproject / obs-studio",
@@ -60,29 +60,19 @@
       "description": "OBS Studio - Free and open source software for live streaming and screen recording",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 76424,
-      "forks": 10246,
-      "added_stars": "1,311 stars this month"
+      "stars": 76475,
+      "forks": 10262,
+      "added_stars": "1,329 stars this month"
     },
     {
-      "title": "sumatrapdfreader / sumatrapdf",
-      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
-      "description": "SumatraPDF reader",
+      "title": "nmap / nmap",
+      "url": "https://github.com/nmap/nmap",
+      "description": "Nmap - the Network Mapper. Github mirror of official SVN repository.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17610,
-      "forks": 2041,
-      "added_stars": "302 stars this month"
-    },
-    {
-      "title": "asmvik / yabai",
-      "url": "https://github.com/asmvik/yabai",
-      "description": "A tiling window manager for macOS based on binary space partitioning",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 29635,
-      "forks": 760,
-      "added_stars": "202 stars this month"
+      "stars": 13645,
+      "forks": 2909,
+      "added_stars": "266 stars this month"
     },
     {
       "title": "libsdl-org / SDL",
@@ -90,9 +80,39 @@
       "description": "Simple DirectMedia Layer",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 16620,
-      "forks": 2996,
-      "added_stars": "293 stars this month"
+      "stars": 16628,
+      "forks": 3002,
+      "added_stars": "298 stars this month"
+    },
+    {
+      "title": "OpenVPN / openvpn",
+      "url": "https://github.com/OpenVPN/openvpn",
+      "description": "OpenVPN is an open source VPN daemon",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 14588,
+      "forks": 3404,
+      "added_stars": "209 stars this month"
+    },
+    {
+      "title": "valkey-io / valkey",
+      "url": "https://github.com/valkey-io/valkey",
+      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 27265,
+      "forks": 1318,
+      "added_stars": "385 stars this month"
+    },
+    {
+      "title": "rexglue / rexglue-sdk",
+      "url": "https://github.com/rexglue/rexglue-sdk",
+      "description": "Xbox 360 Recompilation Runtime and Toolkit",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 897,
+      "forks": 129,
+      "added_stars": "117 stars this month"
     },
     {
       "title": "hashcat / hashcat",
@@ -100,8 +120,8 @@
       "description": "World's fastest and most advanced password recovery utility",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 26813,
-      "forks": 3564,
+      "stars": 26821,
+      "forks": 3563,
       "added_stars": "268 stars this month"
     },
     {
@@ -110,19 +130,9 @@
       "description": "🎥 Command line media player",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 37036,
+      "stars": 37049,
       "forks": 3532,
-      "added_stars": "494 stars this month"
-    },
-    {
-      "title": "tr4m0ryp / tr4mpass",
-      "url": "https://github.com/tr4m0ryp/tr4mpass",
-      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 950,
-      "forks": 247,
-      "added_stars": "321 stars this month"
+      "added_stars": "497 stars this month"
     },
     {
       "title": "ImageMagick / ImageMagick",
@@ -130,29 +140,9 @@
       "description": "ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 17483,
+      "stars": 17488,
       "forks": 1659,
-      "added_stars": "315 stars this month"
-    },
-    {
-      "title": "rexglue / rexglue-sdk",
-      "url": "https://github.com/rexglue/rexglue-sdk",
-      "description": "Xbox 360 Recompilation Runtime and Toolkit",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 896,
-      "forks": 129,
-      "added_stars": "119 stars this month"
-    },
-    {
-      "title": "OpenVPN / openvpn",
-      "url": "https://github.com/OpenVPN/openvpn",
-      "description": "OpenVPN is an open source VPN daemon",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 14580,
-      "forks": 3403,
-      "added_stars": "200 stars this month"
+      "added_stars": "317 stars this month"
     },
     {
       "title": "duixcom / Duix-Avatar",
@@ -160,59 +150,9 @@
       "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 15529,
-      "forks": 2633,
-      "added_stars": "871 stars this month"
-    },
-    {
-      "title": "valkey-io / valkey",
-      "url": "https://github.com/valkey-io/valkey",
-      "description": "A flexible distributed key-value database that is optimized for caching and other realtime workloads.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 27259,
-      "forks": 1319,
-      "added_stars": "385 stars this month"
-    },
-    {
-      "title": "voidtools / voidImageViewer",
-      "url": "https://github.com/voidtools/voidImageViewer",
-      "description": "Lightweight image viewer for Windows with animated GIF/WEBP support",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2399,
-      "forks": 154,
-      "added_stars": "275 stars this month"
-    },
-    {
-      "title": "winsiderss / systeminformer",
-      "url": "https://github.com/winsiderss/systeminformer",
-      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 16047,
-      "forks": 1787,
-      "added_stars": "408 stars this month"
-    },
-    {
-      "title": "openwrt / openwrt",
-      "url": "https://github.com/openwrt/openwrt",
-      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 28465,
-      "forks": 12990,
-      "added_stars": "472 stars this month"
-    },
-    {
-      "title": "reactos / reactos",
-      "url": "https://github.com/reactos/reactos",
-      "description": "A free Windows-compatible Operating System",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 18101,
-      "forks": 2218,
-      "added_stars": "192 stars this month"
+      "stars": 15537,
+      "forks": 2638,
+      "added_stars": "822 stars this month"
     },
     {
       "title": "jqlang / jq",
@@ -220,9 +160,69 @@
       "description": "Command-line JSON processor",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 35643,
-      "forks": 2207,
-      "added_stars": "223 stars this month"
+      "stars": 35650,
+      "forks": 2305,
+      "added_stars": "246 stars this month"
+    },
+    {
+      "title": "UberGuidoZ / Flipper",
+      "url": "https://github.com/UberGuidoZ/Flipper",
+      "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17567,
+      "forks": 3915,
+      "added_stars": "178 stars this month"
+    },
+    {
+      "title": "tr4m0ryp / tr4mpass",
+      "url": "https://github.com/tr4m0ryp/tr4mpass",
+      "description": "Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 961,
+      "forks": 249,
+      "added_stars": "325 stars this month"
+    },
+    {
+      "title": "sumatrapdfreader / sumatrapdf",
+      "url": "https://github.com/sumatrapdfreader/sumatrapdf",
+      "description": "SumatraPDF reader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 17617,
+      "forks": 2040,
+      "added_stars": "299 stars this month"
+    },
+    {
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 28473,
+      "forks": 12995,
+      "added_stars": "469 stars this month"
+    },
+    {
+      "title": "winsiderss / systeminformer",
+      "url": "https://github.com/winsiderss/systeminformer",
+      "description": "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars & Solutions, Inc. @ https://windows-internals.com",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 16052,
+      "forks": 1786,
+      "added_stars": "409 stars this month"
+    },
+    {
+      "title": "doldecomp / melee",
+      "url": "https://github.com/doldecomp/melee",
+      "description": "A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2251,
+      "forks": 319,
+      "added_stars": "1,248 stars this month"
     }
   ]
 }

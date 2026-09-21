@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
   "items": [
     {
       "title": "openai / symphony",
@@ -10,9 +10,19 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27295,
-      "forks": 2825,
-      "added_stars": "587 stars this month"
+      "stars": 27320,
+      "forks": 2823,
+      "added_stars": "598 stars this month"
+    },
+    {
+      "title": "phoenixframework / phoenix",
+      "url": "https://github.com/phoenixframework/phoenix",
+      "description": "Peace of mind from prototype to production",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 23167,
+      "forks": 3110,
+      "added_stars": "65 stars this month"
     },
     {
       "title": "supabase / realtime",
@@ -21,7 +31,7 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 7636,
-      "forks": 468,
+      "forks": 469,
       "added_stars": "21 stars this month"
     },
     {
@@ -30,29 +40,9 @@
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9101,
-      "forks": 457,
-      "added_stars": "72 stars this month"
-    },
-    {
-      "title": "phoenixframework / phoenix",
-      "url": "https://github.com/phoenixframework/phoenix",
-      "description": "Peace of mind from prototype to production",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 23166,
-      "forks": 3111,
-      "added_stars": "67 stars this month"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9009,
-      "forks": 1005,
-      "added_stars": "161 stars this month"
+      "stars": 9102,
+      "forks": 458,
+      "added_stars": "75 stars this month"
     },
     {
       "title": "plausible / analytics",
@@ -60,19 +50,29 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 29155,
-      "forks": 1868,
-      "added_stars": "523 stars this month"
+      "stars": 29170,
+      "forks": 1871,
+      "added_stars": "526 stars this month"
     },
     {
-      "title": "tuist / tuist",
-      "url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
+      "title": "elixir-lang / elixir",
+      "url": "https://github.com/elixir-lang/elixir",
+      "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5810,
-      "forks": 779,
-      "added_stars": "60 stars this month"
+      "stars": 26665,
+      "forks": 3670,
+      "added_stars": "95 stars this month"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9014,
+      "forks": 1005,
+      "added_stars": "162 stars this month"
     },
     {
       "title": "blockscout / blockscout",
@@ -81,18 +81,18 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 4701,
-      "forks": 3179,
+      "forks": 3182,
       "added_stars": "69 stars this month"
     },
     {
-      "title": "elixir-lang / elixir",
-      "url": "https://github.com/elixir-lang/elixir",
-      "description": "Simple from zero to scale",
+      "title": "tuist / tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26663,
-      "forks": 3671,
-      "added_stars": "94 stars this month"
+      "stars": 5812,
+      "forks": 779,
+      "added_stars": "62 stars this month"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -100,9 +100,9 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6827,
+      "stars": 6826,
       "forks": 1053,
-      "added_stars": "7 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "expert-lsp / expert",
@@ -111,18 +111,8 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 2059,
-      "forks": 112,
+      "forks": 113,
       "added_stars": "21 stars this month"
-    },
-    {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5355,
-      "forks": 166,
-      "added_stars": "101 stars this month"
     },
     {
       "title": "supabase / supavisor",
@@ -131,8 +121,28 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 2264,
-      "forks": 117,
+      "forks": 118,
       "added_stars": "12 stars this month"
+    },
+    {
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5356,
+      "forks": 166,
+      "added_stars": "104 stars this month"
+    },
+    {
+      "title": "icoretech / codex-pooler",
+      "url": "https://github.com/icoretech/codex-pooler",
+      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 212,
+      "forks": 22,
+      "added_stars": "58 stars this month"
     },
     {
       "title": "open-telemetry / opentelemetry-erlang-contrib",
@@ -142,17 +152,17 @@
       "languageColor": "#6e4a7e",
       "stars": 219,
       "forks": 169,
-      "added_stars": "4 stars this month"
+      "added_stars": "3 stars this month"
     },
     {
-      "title": "icoretech / codex-pooler",
-      "url": "https://github.com/icoretech/codex-pooler",
-      "description": "The full featured self-hosted Codex gateway, for teams, agents and you",
+      "title": "livebook-dev / livebook",
+      "url": "https://github.com/livebook-dev/livebook",
+      "description": "Automate code & data workflows with interactive Elixir notebooks",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 211,
-      "forks": 22,
-      "added_stars": "60 stars this month"
+      "stars": 5867,
+      "forks": 515,
+      "added_stars": "25 stars this month"
     },
     {
       "title": "ash-project / ash",
@@ -160,19 +170,19 @@
       "description": "A declarative, extensible framework for building Elixir applications.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 2500,
-      "forks": 426,
-      "added_stars": "29 stars this month"
+      "stars": 2503,
+      "forks": 427,
+      "added_stars": "30 stars this month"
     },
     {
-      "title": "elixir-ecto / ecto",
-      "url": "https://github.com/elixir-ecto/ecto",
-      "description": "A toolkit for data mapping and language integrated query.",
+      "title": "hexpm / hex",
+      "url": "https://github.com/hexpm/hex",
+      "description": "Package manager for the Erlang ecosystem.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6498,
-      "forks": 1485,
-      "added_stars": "16 stars this month"
+      "stars": 1089,
+      "forks": 211,
+      "added_stars": "4 stars this month"
     }
   ]
 }

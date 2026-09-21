@@ -2,7 +2,7 @@
   "title": "GitHub Python Languages Daily Trending",
   "description": "Daily Trending of Python Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "anthropics / knowledge-work-plugins",
@@ -10,29 +10,9 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25202,
-      "forks": 3001,
-      "added_stars": "1,034 stars this week"
-    },
-    {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 48884,
-      "forks": 2841,
-      "added_stars": "5,589 stars this week"
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 50369,
-      "forks": 4059,
-      "added_stars": "3,024 stars this week"
+      "stars": 25306,
+      "forks": 3008,
+      "added_stars": "1,298 stars this week"
     },
     {
       "title": "home-assistant / core",
@@ -40,19 +20,19 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 90838,
-      "forks": 38709,
-      "added_stars": "417 stars this week"
+      "stars": 90918,
+      "forks": 38719,
+      "added_stars": "480 stars this week"
     },
     {
-      "title": "microsoft / markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 185746,
-      "forks": 13678,
-      "added_stars": "2,767 stars this week"
+      "stars": 50777,
+      "forks": 4083,
+      "added_stars": "3,045 stars this week"
     },
     {
       "title": "Panniantong / Agent-Reach",
@@ -60,19 +40,19 @@
       "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 83573,
-      "forks": 7324,
-      "added_stars": "3,914 stars this week"
+      "stars": 84027,
+      "forks": 7373,
+      "added_stars": "3,690 stars this week"
     },
     {
-      "title": "huggingface / transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 166425,
-      "forks": 34637,
-      "added_stars": "1,290 stars this week"
+      "stars": 49425,
+      "forks": 2860,
+      "added_stars": "5,249 stars this week"
     },
     {
       "title": "petergyang / no-ai-slop",
@@ -80,19 +60,29 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 10698,
-      "forks": 741,
-      "added_stars": "2,134 stars this week"
+      "stars": 10887,
+      "forks": 739,
+      "added_stars": "1,819 stars this week"
     },
     {
-      "title": "bojieli / ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 48768,
-      "forks": 5470,
-      "added_stars": "2,731 stars this week"
+      "stars": 186031,
+      "forks": 13702,
+      "added_stars": "2,521 stars this week"
+    },
+    {
+      "title": "huggingface / transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 166446,
+      "forks": 34647,
+      "added_stars": "1,246 stars this week"
     },
     {
       "title": "SnailSploit / Claude-Red",
@@ -100,9 +90,9 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 6382,
-      "forks": 830,
-      "added_stars": "2,930 stars this week"
+      "stars": 6559,
+      "forks": 859,
+      "added_stars": "2,649 stars this week"
     },
     {
       "title": "multimodal-art-projection / YuE",
@@ -110,9 +100,9 @@
       "description": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 9844,
-      "forks": 1094,
-      "added_stars": "2,741 stars this week"
+      "stars": 9944,
+      "forks": 1115,
+      "added_stars": "2,427 stars this week"
     },
     {
       "title": "debpalash / VoiceStudio",
@@ -120,19 +110,9 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 33285,
-      "forks": 3930,
-      "added_stars": "9,620 stars this week"
-    },
-    {
-      "title": "NVIDIA / SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 17866,
-      "forks": 1538,
-      "added_stars": "820 stars this week"
+      "stars": 33651,
+      "forks": 3974,
+      "added_stars": "7,754 stars this week"
     },
     {
       "title": "bobeff / open-source-games",
@@ -140,9 +120,9 @@
       "description": "A list of open source games.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 15212,
-      "forks": 1264,
-      "added_stars": "1,285 stars this week"
+      "stars": 15258,
+      "forks": 1267,
+      "added_stars": "1,266 stars this week"
     },
     {
       "title": "rlaope / oh-my-hermes",
@@ -150,29 +130,59 @@
       "description": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 2807,
-      "forks": 208,
-      "added_stars": "1,136 stars this week"
+      "stars": 2833,
+      "forks": 210,
+      "added_stars": "1,110 stars this week"
     },
     {
-      "title": "jiji262 / douyin-downloader",
-      "url": "https://github.com/jiji262/douyin-downloader",
-      "description": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
+      "title": "666ghj / MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 11984,
-      "forks": 1844,
-      "added_stars": "1,116 stars this week"
+      "stars": 74181,
+      "forks": 11407,
+      "added_stars": "1,803 stars this week"
     },
     {
-      "title": "calesthio / OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "title": "bojieli / ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 60248,
-      "forks": 7628,
-      "added_stars": "2,412 stars this week"
+      "stars": 49396,
+      "forks": 5537,
+      "added_stars": "2,798 stars this week"
+    },
+    {
+      "title": "roboflow / supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "description": "We write your reusable computer vision tools. 💜",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 50964,
+      "forks": 4849,
+      "added_stars": "1,055 stars this week"
+    },
+    {
+      "title": "pytorch / pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 103138,
+      "forks": 30003,
+      "added_stars": "205 stars this week"
+    },
+    {
+      "title": "NVIDIA / SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 17942,
+      "forks": 1544,
+      "added_stars": "846 stars this week"
     }
   ]
 }

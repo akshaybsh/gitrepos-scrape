@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
   "items": [
     {
       "title": "bazelbuild / bazel-central-registry",
@@ -20,9 +20,9 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8766,
+      "stars": 8767,
       "forks": 2632,
-      "added_stars": "75 stars this month"
+      "added_stars": "74 stars this month"
     },
     {
       "title": "GoogleContainerTools / distroless",
@@ -30,9 +30,9 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23083,
+      "stars": 23086,
       "forks": 1436,
-      "added_stars": "86 stars this month"
+      "added_stars": "87 stars this month"
     },
     {
       "title": "bazelbuild / rules_cc",
@@ -65,16 +65,6 @@
       "added_stars": "1 star this month"
     },
     {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 3981,
-      "forks": 305,
-      "added_stars": "37 stars this month"
-    },
-    {
       "title": "bazelbuild / rules_rust",
       "url": "https://github.com/bazelbuild/rules_rust",
       "description": "Rust rules for Bazel",
@@ -83,6 +73,16 @@
       "stars": 844,
       "forks": 653,
       "added_stars": "10 stars this month"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 3981,
+      "forks": 305,
+      "added_stars": "34 stars this month"
     },
     {
       "title": "tidbyt / community",
@@ -105,26 +105,6 @@
       "added_stars": "3 stars this month"
     },
     {
-      "title": "grpc / grpc-proto",
-      "url": "https://github.com/grpc/grpc-proto",
-      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 295,
-      "forks": 115,
-      "added_stars": "2 stars this month"
-    },
-    {
-      "title": "googleapis / api-common-protos",
-      "url": "https://github.com/googleapis/api-common-protos",
-      "description": "A standard library for use in specifying protocol buffer APIs.",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 265,
-      "forks": 59,
-      "added_stars": "0 stars this month"
-    },
-    {
       "title": "aspect-build / rules_lint",
       "url": "https://github.com/aspect-build/rules_lint",
       "description": "Run static analysis tools with Bazel",
@@ -133,6 +113,16 @@
       "stars": 155,
       "forks": 125,
       "added_stars": "4 stars this month"
+    },
+    {
+      "title": "grpc / grpc-proto",
+      "url": "https://github.com/grpc/grpc-proto",
+      "description": "gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 295,
+      "forks": 115,
+      "added_stars": "2 stars this month"
     },
     {
       "title": "aspect-build / rules_py",
@@ -145,14 +135,24 @@
       "added_stars": "5 stars this month"
     },
     {
+      "title": "googleapis / api-common-protos",
+      "url": "https://github.com/googleapis/api-common-protos",
+      "description": "A standard library for use in specifying protocol buffer APIs.",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 265,
+      "forks": 59,
+      "added_stars": "0 stars this month"
+    },
+    {
       "title": "aspect-build / aspect-cli",
       "url": "https://github.com/aspect-build/aspect-cli",
       "description": "{ Correct, Fast, Usable } -- Choose three",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 165,
+      "stars": 166,
       "forks": 45,
-      "added_stars": "3 stars this month"
+      "added_stars": "4 stars this month"
     },
     {
       "title": "immich-app / immich-charts",

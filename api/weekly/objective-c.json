@@ -2,7 +2,7 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "noah-nuebling / mac-mouse-fix",
@@ -10,19 +10,9 @@
       "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 10966,
-      "forks": 431,
-      "added_stars": "137 stars this week"
-    },
-    {
-      "title": "gnachman / iTerm2",
-      "url": "https://github.com/gnachman/iTerm2",
-      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 18075,
-      "forks": 1496,
-      "added_stars": "34 stars this week"
+      "stars": 10973,
+      "forks": 432,
+      "added_stars": "136 stars this week"
     },
     {
       "title": "LiveContainer / LiveExec32",
@@ -30,9 +20,19 @@
       "description": "Run 32-bit binaries on 64-bit iOS by passing through syscalls",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 273,
-      "forks": 18,
-      "added_stars": "28 stars this week"
+      "stars": 274,
+      "forks": 17,
+      "added_stars": "23 stars this week"
+    },
+    {
+      "title": "gnachman / iTerm2",
+      "url": "https://github.com/gnachman/iTerm2",
+      "description": "iTerm2 is a terminal emulator for Mac OS X that does amazing things.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 18078,
+      "forks": 1498,
+      "added_stars": "34 stars this week"
     },
     {
       "title": "objective-see / LuLu",
@@ -40,9 +40,19 @@
       "description": "LuLu is the free open-source macOS firewall",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 13212,
+      "stars": 13217,
       "forks": 600,
-      "added_stars": "44 stars this week"
+      "added_stars": "42 stars this week"
+    },
+    {
+      "title": "keycastr / keycastr",
+      "url": "https://github.com/keycastr/keycastr",
+      "description": "KeyCastr, an open-source keystroke visualizer",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 15118,
+      "forks": 578,
+      "added_stars": "24 stars this week"
     },
     {
       "title": "realm / realm-swift",
@@ -50,7 +60,7 @@
       "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16608,
+      "stars": 16610,
       "forks": 2241,
       "added_stars": "4 stars this week"
     },
@@ -60,39 +70,19 @@
       "description": "Staggeringly powerful macOS desktop automation with Lua",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 16142,
-      "forks": 718,
-      "added_stars": "53 stars this week"
+      "stars": 16152,
+      "forks": 719,
+      "added_stars": "54 stars this week"
     },
     {
-      "title": "opa334 / TrollStore",
-      "url": "https://github.com/opa334/TrollStore",
-      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+      "title": "sparkle-project / Sparkle",
+      "url": "https://github.com/sparkle-project/Sparkle",
+      "description": "A software update framework for macOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 22193,
-      "forks": 1670,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "geode-sdk / ios-launcher",
-      "url": "https://github.com/geode-sdk/ios-launcher",
-      "description": "Manages installing and launching Geometry Dash for iOS",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 731,
-      "forks": 262,
-      "added_stars": "12 stars this week"
-    },
-    {
-      "title": "git-up / GitUp",
-      "url": "https://github.com/git-up/GitUp",
-      "description": "The Git interface you've been missing all your life has finally arrived.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 12121,
-      "forks": 1497,
-      "added_stars": "5 stars this week"
+      "stars": 9734,
+      "forks": 1140,
+      "added_stars": "33 stars this week"
     },
     {
       "title": "google / GoogleUtilities",
@@ -115,6 +105,16 @@
       "added_stars": "0 stars this week"
     },
     {
+      "title": "git-up / GitUp",
+      "url": "https://github.com/git-up/GitUp",
+      "description": "The Git interface you've been missing all your life has finally arrived.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 12122,
+      "forks": 1498,
+      "added_stars": "6 stars this week"
+    },
+    {
       "title": "google / GoogleDataTransport",
       "url": "https://github.com/google/GoogleDataTransport",
       "description": "",
@@ -123,6 +123,16 @@
       "stars": 60,
       "forks": 49,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "SDWebImage / SDWebImage",
+      "url": "https://github.com/SDWebImage/SDWebImage",
+      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 25629,
+      "forks": 5958,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "google / gtm-session-fetcher",
@@ -145,14 +155,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "SDWebImage / SDWebImage",
-      "url": "https://github.com/SDWebImage/SDWebImage",
-      "description": "Asynchronous image downloader with cache support as a UIImageView category",
+      "title": "geode-sdk / ios-launcher",
+      "url": "https://github.com/geode-sdk/ios-launcher",
+      "description": "Manages installing and launching Geometry Dash for iOS",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25629,
-      "forks": 5957,
-      "added_stars": "6 stars this week"
+      "stars": 732,
+      "forks": 263,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "openid / AppAuth-iOS",
@@ -160,9 +170,9 @@
       "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 2030,
+      "stars": 2032,
       "forks": 867,
-      "added_stars": "1 star this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "google / GoogleSignIn-iOS",
@@ -183,16 +193,6 @@
       "stars": 277,
       "forks": 101,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "kstenerud / KSCrash",
-      "url": "https://github.com/kstenerud/KSCrash",
-      "description": "The Ultimate iOS Crash Reporter",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 4494,
-      "forks": 742,
-      "added_stars": "5 stars this week"
     }
   ]
 }

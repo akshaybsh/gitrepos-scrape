@@ -2,7 +2,7 @@
   "title": "GitHub C Languages Daily Trending",
   "description": "Daily Trending of C Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "JustVugg / colibri",
@@ -10,9 +10,9 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 36457,
-      "forks": 3877,
-      "added_stars": "7,945 stars this week"
+      "stars": 36652,
+      "forks": 3907,
+      "added_stars": "7,441 stars this week"
     },
     {
       "title": "HarbourMasters / Shipwright",
@@ -20,139 +20,9 @@
       "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 5442,
-      "forks": 848,
-      "added_stars": "74 stars this week"
-    },
-    {
-      "title": "armory3d / armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "description": "Graphics Creation Tools",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 5146,
-      "forks": 574,
-      "added_stars": "286 stars this week"
-    },
-    {
-      "title": "DarkFlippers / unleashed-firmware",
-      "url": "https://github.com/DarkFlippers/unleashed-firmware",
-      "description": "Flipper Zero Unleashed Firmware",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22306,
-      "forks": 1946,
-      "added_stars": "94 stars this week"
-    },
-    {
-      "title": "duixcom / Duix-Avatar",
-      "url": "https://github.com/duixcom/Duix-Avatar",
-      "description": "🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 15529,
-      "forks": 2633,
-      "added_stars": "268 stars this week"
-    },
-    {
-      "title": "willfaust / Madeira",
-      "url": "https://github.com/willfaust/Madeira",
-      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 397,
-      "forks": 114,
-      "added_stars": "120 stars this week"
-    },
-    {
-      "title": "CTCaer / hekate",
-      "url": "https://github.com/CTCaer/hekate",
-      "description": "hekate - A GUI based Nintendo Switch Bootloader",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 8745,
-      "forks": 683,
-      "added_stars": "70 stars this week"
-    },
-    {
-      "title": "antirez / ds4",
-      "url": "https://github.com/antirez/ds4",
-      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 22538,
-      "forks": 2158,
-      "added_stars": "245 stars this week"
-    },
-    {
-      "title": "stackia / rtp2httpd",
-      "url": "https://github.com/stackia/rtp2httpd",
-      "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 2103,
-      "forks": 326,
-      "added_stars": "58 stars this week"
-    },
-    {
-      "title": "foobnix / LibreraReader",
-      "url": "https://github.com/foobnix/LibreraReader",
-      "description": "Book Reader for Android",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4830,
-      "forks": 447,
-      "added_stars": "50 stars this week"
-    },
-    {
-      "title": "curl / curl",
-      "url": "https://github.com/curl/curl",
-      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 42894,
-      "forks": 7370,
-      "added_stars": "90 stars this week"
-    },
-    {
-      "title": "raysan5 / raylib",
-      "url": "https://github.com/raysan5/raylib",
-      "description": "A simple and easy-to-use library to enjoy videogames programming",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34793,
-      "forks": 3301,
-      "added_stars": "127 stars this week"
-    },
-    {
-      "title": "lz4 / lz4",
-      "url": "https://github.com/lz4/lz4",
-      "description": "Extremely Fast Compression algorithm",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 12082,
-      "forks": 1594,
-      "added_stars": "22 stars this week"
-    },
-    {
-      "title": "Genymobile / scrcpy",
-      "url": "https://github.com/Genymobile/scrcpy",
-      "description": "Display and control your Android device",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 150039,
-      "forks": 13778,
-      "added_stars": "579 stars this week"
-    },
-    {
-      "title": "skeeto / w64devkit",
-      "url": "https://github.com/skeeto/w64devkit",
-      "description": "Portable C and C++ Development Kit for x64 (and x86) Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 4833,
-      "forks": 382,
-      "added_stars": "41 stars this week"
+      "stars": 5451,
+      "forks": 849,
+      "added_stars": "72 stars this week"
     },
     {
       "title": "hathach / tinyusb",
@@ -160,9 +30,89 @@
       "description": "An open source cross-platform USB stack for embedded system",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7110,
-      "forks": 1520,
-      "added_stars": "22 stars this week"
+      "stars": 7112,
+      "forks": 1523,
+      "added_stars": "21 stars this week"
+    },
+    {
+      "title": "DarkFlippers / unleashed-firmware",
+      "url": "https://github.com/DarkFlippers/unleashed-firmware",
+      "description": "Flipper Zero Unleashed Firmware",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 22311,
+      "forks": 1946,
+      "added_stars": "87 stars this week"
+    },
+    {
+      "title": "CTCaer / hekate",
+      "url": "https://github.com/CTCaer/hekate",
+      "description": "hekate - A GUI based Nintendo Switch Bootloader",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 8755,
+      "forks": 683,
+      "added_stars": "70 stars this week"
+    },
+    {
+      "title": "willfaust / Madeira",
+      "url": "https://github.com/willfaust/Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 408,
+      "forks": 119,
+      "added_stars": "110 stars this week"
+    },
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12086,
+      "forks": 1594,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "stackia / rtp2httpd",
+      "url": "https://github.com/stackia/rtp2httpd",
+      "description": "Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 2111,
+      "forks": 327,
+      "added_stars": "62 stars this week"
+    },
+    {
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 42893,
+      "forks": 7371,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "armory3d / armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "description": "Graphics Creation Tools",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 5158,
+      "forks": 578,
+      "added_stars": "177 stars this week"
+    },
+    {
+      "title": "foobnix / LibreraReader",
+      "url": "https://github.com/foobnix/LibreraReader",
+      "description": "Book Reader for Android",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 4838,
+      "forks": 448,
+      "added_stars": "57 stars this week"
     },
     {
       "title": "SlickAmogus / silent-hill-decomp",
@@ -170,19 +120,69 @@
       "description": "Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 559,
+      "stars": 562,
       "forks": 32,
-      "added_stars": "34 stars this week"
+      "added_stars": "35 stars this week"
     },
     {
-      "title": "valinet / ExplorerPatcher",
-      "url": "https://github.com/valinet/ExplorerPatcher",
-      "description": "This project aims to enhance the working environment on Windows",
+      "title": "antirez / ds4",
+      "url": "https://github.com/antirez/ds4",
+      "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 33935,
-      "forks": 1377,
-      "added_stars": "75 stars this week"
+      "stars": 22575,
+      "forks": 2161,
+      "added_stars": "237 stars this week"
+    },
+    {
+      "title": "Genymobile / scrcpy",
+      "url": "https://github.com/Genymobile/scrcpy",
+      "description": "Display and control your Android device",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 150101,
+      "forks": 13786,
+      "added_stars": "588 stars this week"
+    },
+    {
+      "title": "Cyan4973 / xxHash",
+      "url": "https://github.com/Cyan4973/xxHash",
+      "description": "Extremely fast non-cryptographic hash algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 11274,
+      "forks": 914,
+      "added_stars": "31 stars this week"
+    },
+    {
+      "title": "pgvector / pgvector",
+      "url": "https://github.com/pgvector/pgvector",
+      "description": "Open-source vector similarity search for Postgres",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 23112,
+      "forks": 1329,
+      "added_stars": "112 stars this week"
+    },
+    {
+      "title": "raysan5 / raylib",
+      "url": "https://github.com/raysan5/raylib",
+      "description": "A simple and easy-to-use library to enjoy videogames programming",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 34804,
+      "forks": 3303,
+      "added_stars": "122 stars this week"
+    },
+    {
+      "title": "redcanaryco / atomic-red-team",
+      "url": "https://github.com/redcanaryco/atomic-red-team",
+      "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12565,
+      "forks": 3219,
+      "added_stars": "40 stars this week"
     }
   ]
 }

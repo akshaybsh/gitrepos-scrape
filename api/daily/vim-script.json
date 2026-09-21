@@ -2,77 +2,27 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:32:06 GMT",
   "items": [
-    {
-      "title": "neovim / neovim",
-      "url": "https://github.com/neovim/neovim",
-      "description": "Vim-fork focused on extensibility and usability",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 102465,
-      "forks": 7123,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21792,
-      "forks": 1080,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "github / copilot.vim",
-      "url": "https://github.com/github/copilot.vim",
-      "description": "Neovim plugin for GitHub Copilot",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 11684,
-      "forks": 812,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "sainnhe / everforest",
-      "url": "https://github.com/sainnhe/everforest",
-      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 4226,
-      "forks": 144,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "mhinz / vim-galore",
-      "url": "https://github.com/mhinz/vim-galore",
-      "description": "🎓 All things Vim!",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 17984,
-      "forks": 627,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "jbranchaud / til",
-      "url": "https://github.com/jbranchaud/til",
-      "description": "📝 Today I Learned",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14154,
-      "forks": 754,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "vim / vim",
       "url": "https://github.com/vim/vim",
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 40902,
-      "forks": 6137,
-      "added_stars": "6 stars today"
+      "stars": 40912,
+      "forks": 6136,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "neovim / neovim",
+      "url": "https://github.com/neovim/neovim",
+      "description": "Vim-fork focused on extensibility and usability",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 102488,
+      "forks": 7123,
+      "added_stars": "50 stars today"
     },
     {
       "title": "morhetz / gruvbox",
@@ -80,9 +30,9 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15754,
+      "stars": 15755,
       "forks": 1123,
-      "added_stars": "4 stars today"
+      "added_stars": "1 star today"
     },
     {
       "title": "derekhe / msfs2020-map-enhancement",
@@ -95,14 +45,34 @@
       "added_stars": "0 stars today"
     },
     {
+      "title": "sainnhe / everforest",
+      "url": "https://github.com/sainnhe/everforest",
+      "description": "🌲 Comfortable & Pleasant Color Scheme for Vim",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 4228,
+      "forks": 144,
+      "added_stars": "2 stars today"
+    },
+    {
       "title": "junegunn / vim-plug",
       "url": "https://github.com/junegunn/vim-plug",
       "description": "🌺 Minimalist Vim Plugin Manager",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 35772,
+      "stars": 35773,
       "forks": 1935,
-      "added_stars": "2 stars today"
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "jbranchaud / til",
+      "url": "https://github.com/jbranchaud/til",
+      "description": "📝 Today I Learned",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14152,
+      "forks": 754,
+      "added_stars": "0 stars today"
     },
     {
       "title": "dense-analysis / ale",

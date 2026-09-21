@@ -4,16 +4,16 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
-  <item>
-    <title>techiescamp / devops-projects</title>
-    <link>https://github.com/techiescamp/devops-projects</link>
-    <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
-  </item>
+  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
   <item>
     <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
     <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
     <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
+  </item>
+  <item>
+    <title>techiescamp / devops-projects</title>
+    <link>https://github.com/techiescamp/devops-projects</link>
+    <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
   </item>
   <item>
     <title>ministryofjustice / cloud-platform-environments</title>
@@ -26,24 +26,19 @@
     <description>Explore Datadog&#x27;s serverless observability features with this sample app.</description>
   </item>
   <item>
+    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
+    <description>Configures opinionated GKE clusters</description>
+  </item>
+  <item>
     <title>github-aws-runners / terraform-aws-github-runner</title>
     <link>https://github.com/github-aws-runners/terraform-aws-github-runner</link>
     <description>Terraform module for scalable GitHub action runners on AWS</description>
   </item>
   <item>
-    <title>kubernetes / k8s.io</title>
-    <link>https://github.com/kubernetes/k8s.io</link>
-    <description>Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites</description>
-  </item>
-  <item>
     <title>Azure / terraform-azurerm-avm-res-keyvault-vault</title>
     <link>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</link>
     <description>Terraform Azure Verified Resource Module for Key Vault</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-kubernetes-engine</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</link>
-    <description>Configures opinionated GKE clusters</description>
   </item>
   <item>
     <title>Azure / terraform-azurerm-avm-res-storage-storageaccount</title>
@@ -61,6 +56,11 @@
     <description>Terraform module to create AWS S3 resources 🇺🇦</description>
   </item>
   <item>
+    <title>terraform-aws-modules / terraform-aws-eks</title>
+    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
+    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+  </item>
+  <item>
     <title>ministryofjustice / modernisation-platform-environments</title>
     <link>https://github.com/ministryofjustice/modernisation-platform-environments</link>
     <description>Modernisation platform environments • This repository is defined and managed in Terraform</description>
@@ -71,19 +71,9 @@
     <description>Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</description>
   </item>
   <item>
-    <title>terraform-aws-modules / terraform-aws-vpc</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-vpc</link>
-    <description>Terraform module to create AWS VPC resources 🇺🇦</description>
-  </item>
-  <item>
-    <title>terraform-google-modules / terraform-google-gcloud</title>
-    <link>https://github.com/terraform-google-modules/terraform-google-gcloud</link>
-    <description>Executes Google Cloud CLI commands within Terraform</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+    <title>terraform-google-modules / terraform-google-network</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-network</link>
+    <description>Sets up a new VPC network on Google Cloud</description>
   </item>
 </channel>
 </rss>

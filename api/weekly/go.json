@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37901,
-      "forks": 2698,
-      "added_stars": "15,028 stars this week"
+      "stars": 38690,
+      "forks": 2763,
+      "added_stars": "15,504 stars this week"
     },
     {
       "title": "Tencent / WeKnora",
@@ -20,19 +20,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27677,
-      "forks": 3724,
-      "added_stars": "4,867 stars this week"
-    },
-    {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 83144,
-      "forks": 3231,
-      "added_stars": "252 stars this week"
+      "stars": 28233,
+      "forks": 3802,
+      "added_stars": "5,242 stars this week"
     },
     {
       "title": "cilium / cilium",
@@ -40,19 +30,9 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25360,
-      "forks": 4082,
-      "added_stars": "356 stars this week"
-    },
-    {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 24770,
-      "forks": 3186,
-      "added_stars": "1,568 stars this week"
+      "stars": 25403,
+      "forks": 4086,
+      "added_stars": "373 stars this week"
     },
     {
       "title": "coder / coder",
@@ -60,39 +40,19 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15726,
-      "forks": 1526,
-      "added_stars": "1,200 stars this week"
+      "stars": 16178,
+      "forks": 1548,
+      "added_stars": "1,551 stars this week"
     },
     {
-      "title": "Gentleman-Programming / gentle-ai",
-      "url": "https://github.com/Gentleman-Programming/gentle-ai",
-      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "title": "vxcontrol / pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 7038,
-      "forks": 770,
-      "added_stars": "364 stars this week"
-    },
-    {
-      "title": "p1neappleXpress / OpenFlux",
-      "url": "https://github.com/p1neappleXpress/OpenFlux",
-      "description": "Network stack research tool. TCP tunnel with pluggable transports.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1749,
-      "forks": 137,
-      "added_stars": "408 stars this week"
-    },
-    {
-      "title": "Gentleman-Programming / engram",
-      "url": "https://github.com/Gentleman-Programming/engram",
-      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 6719,
-      "forks": 696,
-      "added_stars": "167 stars this week"
+      "stars": 24805,
+      "forks": 3195,
+      "added_stars": "1,037 stars this week"
     },
     {
       "title": "asciimoo / hister",
@@ -100,9 +60,39 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5331,
-      "forks": 222,
-      "added_stars": "1,438 stars this week"
+      "stars": 5450,
+      "forks": 230,
+      "added_stars": "1,690 stars this week"
+    },
+    {
+      "title": "junegunn / fzf",
+      "url": "https://github.com/junegunn/fzf",
+      "description": "🌸 A command-line fuzzy finder",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 83163,
+      "forks": 3311,
+      "added_stars": "243 stars this week"
+    },
+    {
+      "title": "Gentleman-Programming / engram",
+      "url": "https://github.com/Gentleman-Programming/engram",
+      "description": "Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6737,
+      "forks": 695,
+      "added_stars": "155 stars this week"
+    },
+    {
+      "title": "Gentleman-Programming / gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 7084,
+      "forks": 773,
+      "added_stars": "369 stars this week"
     },
     {
       "title": "TencentCloud / CubeSandbox",
@@ -110,29 +100,9 @@
       "description": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 12602,
-      "forks": 1137,
-      "added_stars": "542 stars this week"
-    },
-    {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 106838,
-      "forks": 6180,
-      "added_stars": "1,791 stars this week"
-    },
-    {
-      "title": "ollama / ollama",
-      "url": "https://github.com/ollama/ollama",
-      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 181292,
-      "forks": 17939,
-      "added_stars": "761 stars this week"
+      "stars": 12632,
+      "forks": 1140,
+      "added_stars": "552 stars this week"
     },
     {
       "title": "syncthing / syncthing",
@@ -140,9 +110,9 @@
       "description": "Open Source Continuous File Synchronization",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 88788,
+      "stars": 88817,
       "forks": 5486,
-      "added_stars": "298 stars this week"
+      "added_stars": "295 stars this week"
     },
     {
       "title": "usememos / memos",
@@ -150,29 +120,9 @@
       "description": "Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 63178,
-      "forks": 4772,
-      "added_stars": "271 stars this week"
-    },
-    {
-      "title": "kubernetes-sigs / agent-sandbox",
-      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
-      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 3957,
-      "forks": 521,
-      "added_stars": "211 stars this week"
-    },
-    {
-      "title": "qax-os / excelize",
-      "url": "https://github.com/qax-os/excelize",
-      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 20925,
-      "forks": 1954,
-      "added_stars": "23 stars this week"
+      "stars": 63209,
+      "forks": 4774,
+      "added_stars": "267 stars this week"
     },
     {
       "title": "navidrome / navidrome",
@@ -180,9 +130,19 @@
       "description": "🎧 Your Personal Streaming Service",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 23678,
-      "forks": 1712,
-      "added_stars": "202 stars this week"
+      "stars": 23698,
+      "forks": 1715,
+      "added_stars": "188 stars this week"
+    },
+    {
+      "title": "kubernetes-sigs / agent-sandbox",
+      "url": "https://github.com/kubernetes-sigs/agent-sandbox",
+      "description": "agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 3968,
+      "forks": 523,
+      "added_stars": "220 stars this week"
     },
     {
       "title": "kubernetes / kubernetes",
@@ -190,9 +150,29 @@
       "description": "Production-Grade Container Scheduling and Management",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 127845,
-      "forks": 44705,
-      "added_stars": "574 stars this week"
+      "stars": 127863,
+      "forks": 44791,
+      "added_stars": "286 stars this week"
+    },
+    {
+      "title": "tbphp / gpt-load",
+      "url": "https://github.com/tbphp/gpt-load",
+      "description": "Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 6912,
+      "forks": 763,
+      "added_stars": "167 stars this week"
+    },
+    {
+      "title": "ollama / ollama",
+      "url": "https://github.com/ollama/ollama",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 181344,
+      "forks": 17949,
+      "added_stars": "735 stars this week"
     },
     {
       "title": "e2b-dev / runtime",
@@ -200,9 +180,19 @@
       "description": "The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 1585,
-      "forks": 438,
-      "added_stars": "318 stars this week"
+      "stars": 1595,
+      "forks": 440,
+      "added_stars": "322 stars this week"
+    },
+    {
+      "title": "openai / tunnel-client",
+      "url": "https://github.com/openai/tunnel-client",
+      "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 454,
+      "forks": 91,
+      "added_stars": "63 stars this week"
     }
   ]
 }

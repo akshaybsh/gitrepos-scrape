@@ -4,11 +4,16 @@
   <title>GitHub Go Languages Daily Trending</title>
   <description>Daily Trending of Go Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:22:04 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:32:06 GMT</pubDate>
   <item>
     <title>coder / coder</title>
     <link>https://github.com/coder/coder</link>
     <description>Secure environments for developers and their agents</description>
+  </item>
+  <item>
+    <title>guohuiyuan / go-music-dl</title>
+    <link>https://github.com/guohuiyuan/go-music-dl</link>
+    <description>一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923</description>
   </item>
   <item>
     <title>asciimoo / hister</title>
@@ -16,49 +21,19 @@
     <description>Your own search engine</description>
   </item>
   <item>
-    <title>Wei-Shaw / sub2api</title>
-    <link>https://github.com/Wei-Shaw/sub2api</link>
-    <description>Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。</description>
+    <title>henrygd / beszel</title>
+    <link>https://github.com/henrygd/beszel</link>
+    <description>Lightweight server monitoring with historical data, docker stats, and alerts.</description>
   </item>
   <item>
-    <title>alibaba / open-code-review</title>
-    <link>https://github.com/alibaba/open-code-review</link>
-    <description>Secure, fast, efficient, battle-tested at Alibaba&#x27;s scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.</description>
+    <title>cloudreve / cloudreve</title>
+    <link>https://github.com/cloudreve/cloudreve</link>
+    <description>🌩 Self-hosted file management and sharing system, supports multiple storage providers</description>
   </item>
   <item>
-    <title>JuliusBrussee / caveman</title>
-    <link>https://github.com/JuliusBrussee/caveman</link>
-    <description>🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.</description>
-  </item>
-  <item>
-    <title>agent-substrate / substrate</title>
-    <link>https://github.com/agent-substrate/substrate</link>
-    <description>Agent Substrate: the core system</description>
-  </item>
-  <item>
-    <title>Tencent / WeKnora</title>
-    <link>https://github.com/Tencent/WeKnora</link>
-    <description>Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.</description>
-  </item>
-  <item>
-    <title>danielmiessler / Fabric</title>
-    <link>https://github.com/danielmiessler/Fabric</link>
-    <description>Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</description>
-  </item>
-  <item>
-    <title>cilium / cilium</title>
-    <link>https://github.com/cilium/cilium</link>
-    <description>eBPF-based Networking, Security, and Observability</description>
-  </item>
-  <item>
-    <title>docker / compose</title>
-    <link>https://github.com/docker/compose</link>
-    <description>Define and run multi-container applications with Docker</description>
-  </item>
-  <item>
-    <title>karmada-io / karmada</title>
-    <link>https://github.com/karmada-io/karmada</link>
-    <description>Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration</description>
+    <title>dagger / dagger</title>
+    <link>https://github.com/dagger/dagger</link>
+    <description>Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud</description>
   </item>
   <item>
     <title>weave-os / router</title>
@@ -66,19 +41,9 @@
     <description>Model router for agentic systems. Routes every prompt to the right model in &lt;50ms. Cut costs 40-70% with just an endpoint change.</description>
   </item>
   <item>
-    <title>cloudflare / cloudflared</title>
-    <link>https://github.com/cloudflare/cloudflared</link>
-    <description>Cloudflare Tunnel client</description>
-  </item>
-  <item>
-    <title>junegunn / fzf</title>
-    <link>https://github.com/junegunn/fzf</link>
-    <description>🌸 A command-line fuzzy finder</description>
-  </item>
-  <item>
-    <title>netbirdio / netbird</title>
-    <link>https://github.com/netbirdio/netbird</link>
-    <description>Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</description>
+    <title>wailsapp / wails</title>
+    <link>https://github.com/wailsapp/wails</link>
+    <description>Create beautiful applications using Go</description>
   </item>
   <item>
     <title>openai / tunnel-client</title>
@@ -86,29 +51,29 @@
     <description>Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.</description>
   </item>
   <item>
-    <title>anchore / syft</title>
-    <link>https://github.com/anchore/syft</link>
-    <description>CLI tool and library for generating a Software Bill of Materials from container images and filesystems</description>
+    <title>screego / server</title>
+    <link>https://github.com/screego/server</link>
+    <description>screen sharing for developers https://screego.net/</description>
   </item>
   <item>
-    <title>multica-ai / multica</title>
-    <link>https://github.com/multica-ai/multica</link>
-    <description>Make humans and AI agents work as one team — open-source and self-hostable.</description>
+    <title>vshulcz / deja-vu</title>
+    <link>https://github.com/vshulcz/deja-vu</link>
+    <description>One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.</description>
   </item>
   <item>
-    <title>looplj / axonhub</title>
-    <link>https://github.com/looplj/axonhub</link>
-    <description>⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control &amp; end-to-end tracing.</description>
+    <title>kubernetes / minikube</title>
+    <link>https://github.com/kubernetes/minikube</link>
+    <description>Run Kubernetes locally</description>
   </item>
   <item>
-    <title>charmbracelet / bubbletea</title>
-    <link>https://github.com/charmbracelet/bubbletea</link>
-    <description>A powerful little TUI framework 🏗</description>
+    <title>superdurable / dex</title>
+    <link>https://github.com/superdurable/dex</link>
+    <description>Durable Execution (D-EX) framework built on Temporal/Cadence</description>
   </item>
   <item>
-    <title>grafana / gcx</title>
-    <link>https://github.com/grafana/gcx</link>
-    <description>A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.</description>
+    <title>mikefarah / yq</title>
+    <link>https://github.com/mikefarah/yq</link>
+    <description>yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor</description>
   </item>
 </channel>
 </rss>

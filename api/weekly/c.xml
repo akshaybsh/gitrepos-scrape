@@ -4,7 +4,7 @@
   <title>GitHub C Languages Daily Trending</title>
   <description>Daily Trending of C Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:24:11 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:34:17 GMT</pubDate>
   <item>
     <title>JustVugg / colibri</title>
     <link>https://github.com/JustVugg/colibri</link>
@@ -16,9 +16,9 @@
     <description></description>
   </item>
   <item>
-    <title>armory3d / armorpaint</title>
-    <link>https://github.com/armory3d/armorpaint</link>
-    <description>Graphics Creation Tools</description>
+    <title>hathach / tinyusb</title>
+    <link>https://github.com/hathach/tinyusb</link>
+    <description>An open source cross-platform USB stack for embedded system</description>
   </item>
   <item>
     <title>DarkFlippers / unleashed-firmware</title>
@@ -26,9 +26,9 @@
     <description>Flipper Zero Unleashed Firmware</description>
   </item>
   <item>
-    <title>duixcom / Duix-Avatar</title>
-    <link>https://github.com/duixcom/Duix-Avatar</link>
-    <description>🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.</description>
+    <title>CTCaer / hekate</title>
+    <link>https://github.com/CTCaer/hekate</link>
+    <description>hekate - A GUI based Nintendo Switch Bootloader</description>
   </item>
   <item>
     <title>willfaust / Madeira</title>
@@ -36,14 +36,9 @@
     <description>Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT</description>
   </item>
   <item>
-    <title>CTCaer / hekate</title>
-    <link>https://github.com/CTCaer/hekate</link>
-    <description>hekate - A GUI based Nintendo Switch Bootloader</description>
-  </item>
-  <item>
-    <title>antirez / ds4</title>
-    <link>https://github.com/antirez/ds4</link>
-    <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
+    <title>lz4 / lz4</title>
+    <link>https://github.com/lz4/lz4</link>
+    <description>Extremely Fast Compression algorithm</description>
   </item>
   <item>
     <title>stackia / rtp2httpd</title>
@@ -51,39 +46,19 @@
     <description>Multicast RTP/RTSP to Unicast HTTP stream converter, with built-in web player, status dashboard, fast channel change support, and more!</description>
   </item>
   <item>
-    <title>foobnix / LibreraReader</title>
-    <link>https://github.com/foobnix/LibreraReader</link>
-    <description>Book Reader for Android</description>
-  </item>
-  <item>
     <title>curl / curl</title>
     <link>https://github.com/curl/curl</link>
     <description>A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</description>
   </item>
   <item>
-    <title>raysan5 / raylib</title>
-    <link>https://github.com/raysan5/raylib</link>
-    <description>A simple and easy-to-use library to enjoy videogames programming</description>
+    <title>armory3d / armorpaint</title>
+    <link>https://github.com/armory3d/armorpaint</link>
+    <description>Graphics Creation Tools</description>
   </item>
   <item>
-    <title>lz4 / lz4</title>
-    <link>https://github.com/lz4/lz4</link>
-    <description>Extremely Fast Compression algorithm</description>
-  </item>
-  <item>
-    <title>Genymobile / scrcpy</title>
-    <link>https://github.com/Genymobile/scrcpy</link>
-    <description>Display and control your Android device</description>
-  </item>
-  <item>
-    <title>skeeto / w64devkit</title>
-    <link>https://github.com/skeeto/w64devkit</link>
-    <description>Portable C and C++ Development Kit for x64 (and x86) Windows</description>
-  </item>
-  <item>
-    <title>hathach / tinyusb</title>
-    <link>https://github.com/hathach/tinyusb</link>
-    <description>An open source cross-platform USB stack for embedded system</description>
+    <title>foobnix / LibreraReader</title>
+    <link>https://github.com/foobnix/LibreraReader</link>
+    <description>Book Reader for Android</description>
   </item>
   <item>
     <title>SlickAmogus / silent-hill-decomp</title>
@@ -91,9 +66,34 @@
     <description>Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.</description>
   </item>
   <item>
-    <title>valinet / ExplorerPatcher</title>
-    <link>https://github.com/valinet/ExplorerPatcher</link>
-    <description>This project aims to enhance the working environment on Windows</description>
+    <title>antirez / ds4</title>
+    <link>https://github.com/antirez/ds4</link>
+    <description>DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm</description>
+  </item>
+  <item>
+    <title>Genymobile / scrcpy</title>
+    <link>https://github.com/Genymobile/scrcpy</link>
+    <description>Display and control your Android device</description>
+  </item>
+  <item>
+    <title>Cyan4973 / xxHash</title>
+    <link>https://github.com/Cyan4973/xxHash</link>
+    <description>Extremely fast non-cryptographic hash algorithm</description>
+  </item>
+  <item>
+    <title>pgvector / pgvector</title>
+    <link>https://github.com/pgvector/pgvector</link>
+    <description>Open-source vector similarity search for Postgres</description>
+  </item>
+  <item>
+    <title>raysan5 / raylib</title>
+    <link>https://github.com/raysan5/raylib</link>
+    <description>A simple and easy-to-use library to enjoy videogames programming</description>
+  </item>
+  <item>
+    <title>redcanaryco / atomic-red-team</title>
+    <link>https://github.com/redcanaryco/atomic-red-team</link>
+    <description>Small and highly portable detection tests based on MITRE&#x27;s ATT&amp;CK.</description>
   </item>
 </channel>
 </rss>

@@ -2,7 +2,7 @@
   "title": "GitHub Emacs-lisp Languages Daily Trending",
   "description": "Daily Trending of Emacs-lisp Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "doomemacs / core",
@@ -10,9 +10,9 @@
       "description": "An Emacs framework for the stubborn martian hacker",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 22688,
+      "stars": 22690,
       "forks": 3144,
-      "added_stars": "26 stars this week"
+      "added_stars": "24 stars this week"
     },
     {
       "title": "xenodium / agent-shell",
@@ -20,19 +20,9 @@
       "description": "A native Emacs buffer to interact with LLM agents powered by ACP",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 1865,
-      "forks": 235,
+      "stars": 1868,
+      "forks": 236,
       "added_stars": "16 stars this week"
-    },
-    {
-      "title": "google-coral / coralnpu",
-      "url": "https://github.com/google-coral/coralnpu",
-      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 2570,
-      "forks": 336,
-      "added_stars": "17 stars this week"
     },
     {
       "title": "emacs-lsp / lsp-mode",
@@ -45,24 +35,24 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "google-coral / coralnpu",
+      "url": "https://github.com/google-coral/coralnpu",
+      "description": "A machine learning accelerator core designed for energy-efficient AI at the edge.",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 2572,
+      "forks": 336,
+      "added_stars": "17 stars this week"
+    },
+    {
       "title": "syl20bnr / spacemacs",
       "url": "https://github.com/syl20bnr/spacemacs",
       "description": "A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 24558,
+      "stars": 24559,
       "forks": 4831,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "emacs-mirror / emacs",
-      "url": "https://github.com/emacs-mirror/emacs",
-      "description": "Mirror of GNU Emacs",
-      "language": "Emacs Lisp",
-      "languageColor": "#c065db",
-      "stars": 5204,
-      "forks": 1404,
-      "added_stars": "13 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "karthink / gptel",
@@ -70,9 +60,29 @@
       "description": "A simple, extensible LLM client for Emacs",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 3533,
+      "stars": 3535,
       "forks": 434,
-      "added_stars": "10 stars this week"
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "emacs-mirror / emacs",
+      "url": "https://github.com/emacs-mirror/emacs",
+      "description": "Mirror of GNU Emacs",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 5209,
+      "forks": 1404,
+      "added_stars": "14 stars this week"
+    },
+    {
+      "title": "dakra / ghostel",
+      "url": "https://github.com/dakra/ghostel",
+      "description": "Terminal emulator powered by libghostty",
+      "language": "Emacs Lisp",
+      "languageColor": "#c065db",
+      "stars": 955,
+      "forks": 60,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "magit / magit",
@@ -80,9 +90,9 @@
       "description": "It's Magit! A Git Porcelain inside Emacs.",
       "language": "Emacs Lisp",
       "languageColor": "#c065db",
-      "stars": 7229,
+      "stars": 7231,
       "forks": 881,
-      "added_stars": "7 stars this week"
+      "added_stars": "9 stars this week"
     }
   ]
 }

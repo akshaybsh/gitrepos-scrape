@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "openai / symphony",
@@ -10,9 +10,9 @@
       "description": "Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 27295,
-      "forks": 2825,
-      "added_stars": "139 stars this week"
+      "stars": 27320,
+      "forks": 2823,
+      "added_stars": "151 stars this week"
     },
     {
       "title": "blockscout / blockscout",
@@ -21,8 +21,8 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 4701,
-      "forks": 3179,
-      "added_stars": "23 stars this week"
+      "forks": 3182,
+      "added_stars": "22 stars this week"
     },
     {
       "title": "kieraneglin / pinchflat",
@@ -30,9 +30,9 @@
       "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5355,
+      "stars": 5356,
       "forks": 166,
-      "added_stars": "53 stars this week"
+      "added_stars": "54 stars this week"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -40,9 +40,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23166,
-      "forks": 3111,
-      "added_stars": "19 stars this week"
+      "stars": 23167,
+      "forks": 3110,
+      "added_stars": "20 stars this week"
     },
     {
       "title": "supabase / realtime",
@@ -51,8 +51,8 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 7636,
-      "forks": 468,
-      "added_stars": "5 stars this week"
+      "forks": 469,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "elixir-lang / elixir",
@@ -60,9 +60,19 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26663,
-      "forks": 3671,
-      "added_stars": "40 stars this week"
+      "stars": 26665,
+      "forks": 3670,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "Tymeslot / tymeslot",
+      "url": "https://github.com/Tymeslot/tymeslot",
+      "description": "Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 205,
+      "forks": 39,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "firezone / firezone",
@@ -70,8 +80,8 @@
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9101,
-      "forks": 457,
+      "stars": 9102,
+      "forks": 458,
       "added_stars": "15 stars this week"
     },
     {
@@ -80,9 +90,9 @@
       "description": "Your platform team, as a service",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5810,
+      "stars": 5812,
       "forks": 779,
-      "added_stars": "14 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
       "title": "GenericJam / mob",
@@ -92,7 +102,7 @@
       "languageColor": "#6e4a7e",
       "stars": 267,
       "forks": 24,
-      "added_stars": "13 stars this week"
+      "added_stars": "15 stars this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -110,19 +120,9 @@
       "description": "Rich, real-time user experiences with server-rendered HTML",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 6827,
+      "stars": 6826,
       "forks": 1053,
       "added_stars": "1 star this week"
-    },
-    {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 9009,
-      "forks": 1005,
-      "added_stars": "28 stars this week"
     },
     {
       "title": "elixir-lsp / elixir-ls",
@@ -133,6 +133,16 @@
       "stars": 1777,
       "forks": 228,
       "added_stars": "3 stars this week"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9014,
+      "forks": 1005,
+      "added_stars": "30 stars this week"
     }
   ]
 }

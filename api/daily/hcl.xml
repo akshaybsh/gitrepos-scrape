@@ -4,36 +4,21 @@
   <title>GitHub Hcl Languages Daily Trending</title>
   <description>Daily Trending of Hcl Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:22:04 GMT</pubDate>
-  <item>
-    <title>antonputra / tutorials</title>
-    <link>https://github.com/antonputra/tutorials</link>
-    <description>DevOps Tutorials</description>
-  </item>
+  <pubDate>Mon, 21 Sep 2026 07:32:06 GMT</pubDate>
   <item>
     <title>piyushsachdeva / Terraform-Full-Course-Aws</title>
     <link>https://github.com/piyushsachdeva/Terraform-Full-Course-Aws</link>
     <description></description>
   </item>
   <item>
-    <title>techiescamp / devops-projects</title>
-    <link>https://github.com/techiescamp/devops-projects</link>
-    <description>DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</description>
+    <title>semgrep / semgrep-rules</title>
+    <link>https://github.com/semgrep/semgrep-rules</link>
+    <description>Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</description>
   </item>
   <item>
-    <title>ministryofjustice / cloud-platform-environments</title>
-    <link>https://github.com/ministryofjustice/cloud-platform-environments</link>
-    <description>Environment configuration for the Cloud Platform</description>
-  </item>
-  <item>
-    <title>GoogleCloudPlatform / cloud-foundation-fabric</title>
-    <link>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</link>
-    <description>End-to-end modular samples and landing zones toolkit for Terraform on GCP.</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-eks</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-eks</link>
-    <description>Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</description>
+    <title>cloudposse / terraform-aws-elasticache-redis</title>
+    <link>https://github.com/cloudposse/terraform-aws-elasticache-redis</link>
+    <description>Terraform module to provision an ElastiCache Redis Cluster</description>
   </item>
   <item>
     <title>terraform-aws-modules / terraform-aws-vpc</title>
@@ -41,34 +26,19 @@
     <description>Terraform module to create AWS VPC resources 🇺🇦</description>
   </item>
   <item>
-    <title>aws-ia / terraform-aws-control_tower_account_factory</title>
-    <link>https://github.com/aws-ia/terraform-aws-control_tower_account_factory</link>
-    <description>AWS Control Tower Account Factory</description>
+    <title>zealvora / terraform-beginner-to-advanced-resource</title>
+    <link>https://github.com/zealvora/terraform-beginner-to-advanced-resource</link>
+    <description>HashiCorp Certified Terraform Associate 2026</description>
   </item>
   <item>
-    <title>nebius / nebius-solutions-library</title>
-    <link>https://github.com/nebius/nebius-solutions-library</link>
-    <description></description>
-  </item>
-  <item>
-    <title>cloudposse / terraform-aws-ecs-container-definition</title>
-    <link>https://github.com/cloudposse/terraform-aws-ecs-container-definition</link>
-    <description>Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</description>
-  </item>
-  <item>
-    <title>hashicorp / terraform-cidr-subnets</title>
-    <link>https://github.com/hashicorp/terraform-cidr-subnets</link>
-    <description>A Terraform module for calculating subnet IP address prefixes</description>
+    <title>terraform-google-modules / terraform-google-kms</title>
+    <link>https://github.com/terraform-google-modules/terraform-google-kms</link>
+    <description>Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</description>
   </item>
   <item>
     <title>kubernetes / k8s.io</title>
     <link>https://github.com/kubernetes/k8s.io</link>
     <description>Code and configuration to manage Kubernetes project infrastructure, including various *.k8s.io sites</description>
-  </item>
-  <item>
-    <title>terraform-aws-modules / terraform-aws-dynamodb-table</title>
-    <link>https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table</link>
-    <description>Terraform module to create AWS DynamoDB resources 🇺🇦</description>
   </item>
 </channel>
 </rss>

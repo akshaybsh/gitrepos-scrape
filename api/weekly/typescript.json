@@ -2,7 +2,7 @@
   "title": "GitHub Typescript Languages Daily Trending",
   "description": "Daily Trending of Typescript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "anthropics / claude-code",
@@ -10,9 +10,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 146828,
-      "forks": 23981,
-      "added_stars": "1,999 stars this week"
+      "stars": 147297,
+      "forks": 24092,
+      "added_stars": "2,342 stars this week"
     },
     {
       "title": "mksglu / context-mode",
@@ -20,19 +20,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23706,
-      "forks": 1710,
-      "added_stars": "1,359 stars this week"
-    },
-    {
-      "title": "heygen-com / hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 51723,
-      "forks": 4715,
-      "added_stars": "2,498 stars this week"
+      "stars": 23808,
+      "forks": 1718,
+      "added_stars": "1,242 stars this week"
     },
     {
       "title": "stablyai / orca",
@@ -40,9 +30,19 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 72931,
-      "forks": 4771,
-      "added_stars": "5,404 stars this week"
+      "stars": 73972,
+      "forks": 4850,
+      "added_stars": "5,841 stars this week"
+    },
+    {
+      "title": "heygen-com / hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 52027,
+      "forks": 4741,
+      "added_stars": "2,546 stars this week"
     },
     {
       "title": "danny-avila / LibreChat",
@@ -50,19 +50,9 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 44429,
-      "forks": 9124,
-      "added_stars": "1,573 stars this week"
-    },
-    {
-      "title": "supabase / supabase",
-      "url": "https://github.com/supabase/supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 110367,
-      "forks": 14420,
-      "added_stars": "1,389 stars this week"
+      "stars": 44519,
+      "forks": 9142,
+      "added_stars": "1,600 stars this week"
     },
     {
       "title": "cline / cline",
@@ -70,19 +60,19 @@
       "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 68823,
-      "forks": 7453,
-      "added_stars": "1,118 stars this week"
+      "stars": 68914,
+      "forks": 7466,
+      "added_stars": "1,167 stars this week"
     },
     {
-      "title": "vastsa / PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
-      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "title": "supabase / supabase",
+      "url": "https://github.com/supabase/supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 4576,
-      "forks": 388,
-      "added_stars": "1,478 stars this week"
+      "stars": 110464,
+      "forks": 14507,
+      "added_stars": "1,484 stars this week"
     },
     {
       "title": "ever-co / ever-gauzy",
@@ -90,29 +80,29 @@
       "description": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 7790,
-      "forks": 1156,
-      "added_stars": "3,530 stars this week"
+      "stars": 7814,
+      "forks": 1161,
+      "added_stars": "3,262 stars this week"
     },
     {
-      "title": "reconurge / flowsint",
-      "url": "https://github.com/reconurge/flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
+      "title": "tech-leads-club / agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "description": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 8831,
-      "forks": 1077,
-      "added_stars": "1,190 stars this week"
+      "stars": 6564,
+      "forks": 538,
+      "added_stars": "1,161 stars this week"
     },
     {
-      "title": "melgarafael / DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "title": "Tencent / BrowserSkill",
+      "url": "https://github.com/Tencent/BrowserSkill",
+      "description": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 3332,
-      "forks": 813,
-      "added_stars": "1,745 stars this week"
+      "stars": 6163,
+      "forks": 443,
+      "added_stars": "4,077 stars this week"
     },
     {
       "title": "Open-Dev-Society / OpenStock",
@@ -120,29 +110,19 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 16306,
-      "forks": 2104,
-      "added_stars": "1,636 stars this week"
+      "stars": 17090,
+      "forks": 2148,
+      "added_stars": "2,391 stars this week"
     },
     {
-      "title": "jamiepine / voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "title": "reconurge / flowsint",
+      "url": "https://github.com/reconurge/flowsint",
+      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 55231,
-      "forks": 6888,
-      "added_stars": "2,304 stars this week"
-    },
-    {
-      "title": "NangoHQ / nango",
-      "url": "https://github.com/NangoHQ/nango",
-      "description": "Build product integrations with AI.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 12259,
-      "forks": 1359,
-      "added_stars": "479 stars this week"
+      "stars": 8853,
+      "forks": 1083,
+      "added_stars": "1,131 stars this week"
     },
     {
       "title": "Fission-AI / OpenSpec",
@@ -150,19 +130,69 @@
       "description": "Spec-driven development (SDD) for AI coding assistants.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 69607,
-      "forks": 4766,
-      "added_stars": "1,537 stars this week"
+      "stars": 69708,
+      "forks": 4774,
+      "added_stars": "1,593 stars this week"
     },
     {
-      "title": "rowboatlabs / rowboat",
-      "url": "https://github.com/rowboatlabs/rowboat",
-      "description": "AI coworker with memory and collaboration",
+      "title": "vastsa / PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "description": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 17918,
-      "forks": 1786,
-      "added_stars": "438 stars this week"
+      "stars": 4817,
+      "forks": 409,
+      "added_stars": "1,457 stars this week"
+    },
+    {
+      "title": "melgarafael / DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "description": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 3386,
+      "forks": 822,
+      "added_stars": "1,417 stars this week"
+    },
+    {
+      "title": "jamiepine / voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "description": "The open-source AI voice studio. Clone, dictate, create.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 55316,
+      "forks": 6903,
+      "added_stars": "2,346 stars this week"
+    },
+    {
+      "title": "microsoft / AI-Engineering-Coach",
+      "url": "https://github.com/microsoft/AI-Engineering-Coach",
+      "description": "better agentic engineering",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4266,
+      "forks": 590,
+      "added_stars": "367 stars this week"
+    },
+    {
+      "title": "pacifio / atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "description": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 4732,
+      "forks": 283,
+      "added_stars": "1,556 stars this week"
+    },
+    {
+      "title": "NangoHQ / nango",
+      "url": "https://github.com/NangoHQ/nango",
+      "description": "Build product integrations with AI.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 12273,
+      "forks": 1361,
+      "added_stars": "445 stars this week"
     }
   ]
 }

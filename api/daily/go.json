@@ -2,7 +2,7 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:22:04 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:32:06 GMT",
   "items": [
     {
       "title": "coder / coder",
@@ -10,9 +10,19 @@
       "description": "Secure environments for developers and their agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15724,
-      "forks": 1526,
-      "added_stars": "402 stars today"
+      "stars": 16177,
+      "forks": 1548,
+      "added_stars": "379 stars today"
+    },
+    {
+      "title": "guohuiyuan / go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 4633,
+      "forks": 445,
+      "added_stars": "162 stars today"
     },
     {
       "title": "asciimoo / hister",
@@ -20,99 +30,39 @@
       "description": "Your own search engine",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5330,
-      "forks": 222,
-      "added_stars": "420 stars today"
+      "stars": 5450,
+      "forks": 230,
+      "added_stars": "271 stars today"
     },
     {
-      "title": "Wei-Shaw / sub2api",
-      "url": "https://github.com/Wei-Shaw/sub2api",
-      "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "title": "henrygd / beszel",
+      "url": "https://github.com/henrygd/beszel",
+      "description": "Lightweight server monitoring with historical data, docker stats, and alerts.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 42097,
-      "forks": 8974,
-      "added_stars": "83 stars today"
+      "stars": 25575,
+      "forks": 1027,
+      "added_stars": "37 stars today"
     },
     {
-      "title": "alibaba / open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "title": "cloudreve / cloudreve",
+      "url": "https://github.com/cloudreve/cloudreve",
+      "description": "🌩 Self-hosted file management and sharing system, supports multiple storage providers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37899,
-      "forks": 2698,
-      "added_stars": "985 stars today"
+      "stars": 28738,
+      "forks": 3898,
+      "added_stars": "5 stars today"
     },
     {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "title": "dagger / dagger",
+      "url": "https://github.com/dagger/dagger",
+      "description": "Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 106838,
-      "forks": 6180,
-      "added_stars": "220 stars today"
-    },
-    {
-      "title": "agent-substrate / substrate",
-      "url": "https://github.com/agent-substrate/substrate",
-      "description": "Agent Substrate: the core system",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 1988,
-      "forks": 333,
-      "added_stars": "12 stars today"
-    },
-    {
-      "title": "Tencent / WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 27675,
-      "forks": 3724,
-      "added_stars": "478 stars today"
-    },
-    {
-      "title": "danielmiessler / Fabric",
-      "url": "https://github.com/danielmiessler/Fabric",
-      "description": "Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 44014,
-      "forks": 4272,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 25360,
-      "forks": 4082,
-      "added_stars": "11 stars today"
-    },
-    {
-      "title": "docker / compose",
-      "url": "https://github.com/docker/compose",
-      "description": "Define and run multi-container applications with Docker",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38194,
-      "forks": 5825,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "karmada-io / karmada",
-      "url": "https://github.com/karmada-io/karmada",
-      "description": "Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5680,
-      "forks": 1202,
-      "added_stars": "11 stars today"
+      "stars": 16286,
+      "forks": 924,
+      "added_stars": "9 stars today"
     },
     {
       "title": "weave-os / router",
@@ -120,39 +70,19 @@
       "description": "Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 4520,
+      "stars": 4550,
       "forks": 125,
-      "added_stars": "56 stars today"
+      "added_stars": "44 stars today"
     },
     {
-      "title": "cloudflare / cloudflared",
-      "url": "https://github.com/cloudflare/cloudflared",
-      "description": "Cloudflare Tunnel client",
+      "title": "wailsapp / wails",
+      "url": "https://github.com/wailsapp/wails",
+      "description": "Create beautiful applications using Go",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 15779,
-      "forks": 1449,
-      "added_stars": "53 stars today"
-    },
-    {
-      "title": "junegunn / fzf",
-      "url": "https://github.com/junegunn/fzf",
-      "description": "🌸 A command-line fuzzy finder",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 83144,
-      "forks": 3231,
-      "added_stars": "34 stars today"
-    },
-    {
-      "title": "netbirdio / netbird",
-      "url": "https://github.com/netbirdio/netbird",
-      "description": "Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 29390,
-      "forks": 1688,
-      "added_stars": "34 stars today"
+      "stars": 36290,
+      "forks": 1856,
+      "added_stars": "12 stars today"
     },
     {
       "title": "openai / tunnel-client",
@@ -160,59 +90,59 @@
       "description": "Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 438,
+      "stars": 454,
+      "forks": 91,
+      "added_stars": "19 stars today"
+    },
+    {
+      "title": "screego / server",
+      "url": "https://github.com/screego/server",
+      "description": "screen sharing for developers https://screego.net/",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10684,
+      "forks": 732,
+      "added_stars": "49 stars today"
+    },
+    {
+      "title": "vshulcz / deja-vu",
+      "url": "https://github.com/vshulcz/deja-vu",
+      "description": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 905,
       "forks": 87,
-      "added_stars": "10 stars today"
+      "added_stars": "26 stars today"
     },
     {
-      "title": "anchore / syft",
-      "url": "https://github.com/anchore/syft",
-      "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems",
+      "title": "kubernetes / minikube",
+      "url": "https://github.com/kubernetes/minikube",
+      "description": "Run Kubernetes locally",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9588,
-      "forks": 964,
+      "stars": 32146,
+      "forks": 5330,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "superdurable / dex",
+      "url": "https://github.com/superdurable/dex",
+      "description": "Durable Execution (D-EX) framework built on Temporal/Cadence",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 121,
+      "forks": 10,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "mikefarah / yq",
+      "url": "https://github.com/mikefarah/yq",
+      "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL and properties processor",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 15986,
+      "forks": 1304,
       "added_stars": "8 stars today"
-    },
-    {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 50741,
-      "forks": 6572,
-      "added_stars": "99 stars today"
-    },
-    {
-      "title": "looplj / axonhub",
-      "url": "https://github.com/looplj/axonhub",
-      "description": "⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 5264,
-      "forks": 702,
-      "added_stars": "10 stars today"
-    },
-    {
-      "title": "charmbracelet / bubbletea",
-      "url": "https://github.com/charmbracelet/bubbletea",
-      "description": "A powerful little TUI framework 🏗",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 45040,
-      "forks": 1728,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "grafana / gcx",
-      "url": "https://github.com/grafana/gcx",
-      "description": "A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 709,
-      "forks": 52,
-      "added_stars": "23 stars today"
     }
   ]
 }

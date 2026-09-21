@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "mandiant / flare-vm",
@@ -10,7 +10,7 @@
       "description": "A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 9054,
+      "stars": 9059,
       "forks": 1117,
       "added_stars": "38 stars this week"
     },
@@ -20,9 +20,19 @@
       "description": "Automate the setup and configuration of your Windows development environment.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 2191,
+      "stars": 2195,
       "forks": 168,
-      "added_stars": "60 stars this week"
+      "added_stars": "58 stars this week"
+    },
+    {
+      "title": "actions / runner-images",
+      "url": "https://github.com/actions/runner-images",
+      "description": "GitHub Actions runner images",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 13168,
+      "forks": 3850,
+      "added_stars": "41 stars this week"
     },
     {
       "title": "github / copilot-plugins",
@@ -32,17 +42,37 @@
       "languageColor": "#012456",
       "stars": 364,
       "forks": 132,
-      "added_stars": "5 stars this week"
+      "added_stars": "4 stars this week"
     },
     {
-      "title": "actions / runner-images",
-      "url": "https://github.com/actions/runner-images",
-      "description": "GitHub Actions runner images",
+      "title": "Orange-Cyberdefense / GOAD",
+      "url": "https://github.com/Orange-Cyberdefense/GOAD",
+      "description": "game of active directory",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13164,
-      "forks": 3849,
-      "added_stars": "38 stars this week"
+      "stars": 8358,
+      "forks": 1141,
+      "added_stars": "46 stars this week"
+    },
+    {
+      "title": "microsoft / sql-server-samples",
+      "url": "https://github.com/microsoft/sql-server-samples",
+      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 11229,
+      "forks": 9087,
+      "added_stars": "15 stars this week"
+    },
+    {
+      "title": "Euro-Office / DesktopEditors",
+      "url": "https://github.com/Euro-Office/DesktopEditors",
+      "description": "",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 491,
+      "forks": 37,
+      "added_stars": "23 stars this week"
     },
     {
       "title": "microsoft / work-iq",
@@ -52,37 +82,7 @@
       "languageColor": "#012456",
       "stars": 1010,
       "forks": 132,
-      "added_stars": "9 stars this week"
-    },
-    {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 11227,
-      "forks": 9087,
-      "added_stars": "13 stars this week"
-    },
-    {
-      "title": "ChrisTitusTech / winutil",
-      "url": "https://github.com/ChrisTitusTech/winutil",
-      "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 62891,
-      "forks": 3688,
-      "added_stars": "437 stars this week"
-    },
-    {
-      "title": "Euro-Office / DesktopEditors",
-      "url": "https://github.com/Euro-Office/DesktopEditors",
-      "description": "",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 486,
-      "forks": 37,
-      "added_stars": "19 stars this week"
+      "added_stars": "8 stars this week"
     },
     {
       "title": "Azure / Microsoft-Defender-for-Cloud",
@@ -92,17 +92,17 @@
       "languageColor": "#012456",
       "stars": 1954,
       "forks": 873,
-      "added_stars": "23 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
-      "title": "Orange-Cyberdefense / GOAD",
-      "url": "https://github.com/Orange-Cyberdefense/GOAD",
-      "description": "game of active directory",
+      "title": "dartraiden / NVIDIA-patcher",
+      "url": "https://github.com/dartraiden/NVIDIA-patcher",
+      "description": "Adds 3D acceleration support for P106-090 / P106-100 / P104-090 / P104-100 / P102-100 / CMP 30HX / CMP 40HX / CMP 50HX / CMP 70HX / CMP 90HX / CMP 170HX mining cards as well as RTX 3060 3840SP, RTX 3080 Ti 20 GB, RTX 4070 10 GB, L40 ES, and RTX 5080M ES N22W-ES-A1.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 8348,
-      "forks": 1139,
-      "added_stars": "32 stars this week"
+      "stars": 1610,
+      "forks": 133,
+      "added_stars": "12 stars this week"
     }
   ]
 }

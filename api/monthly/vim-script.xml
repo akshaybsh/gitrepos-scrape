@@ -4,7 +4,7 @@
   <title>GitHub Vim-script Languages Daily Trending</title>
   <description>Daily Trending of Vim-script Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
   <item>
     <title>vim / vim</title>
     <link>https://github.com/vim/vim</link>
@@ -16,24 +16,9 @@
     <description>Vim-fork focused on extensibility and usability</description>
   </item>
   <item>
-    <title>tpope / vim-fugitive</title>
-    <link>https://github.com/tpope/vim-fugitive</link>
-    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
-  </item>
-  <item>
     <title>morhetz / gruvbox</title>
     <link>https://github.com/morhetz/gruvbox</link>
     <description>Retro groove color scheme for Vim</description>
-  </item>
-  <item>
-    <title>github / copilot.vim</title>
-    <link>https://github.com/github/copilot.vim</link>
-    <description>Neovim plugin for GitHub Copilot</description>
-  </item>
-  <item>
-    <title>derekhe / msfs2020-map-enhancement</title>
-    <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
-    <description>MSFS2020 Map Enhancement</description>
   </item>
   <item>
     <title>sainnhe / everforest</title>
@@ -46,9 +31,24 @@
     <description>Run your tests at the speed of thought</description>
   </item>
   <item>
+    <title>derekhe / msfs2020-map-enhancement</title>
+    <link>https://github.com/derekhe/msfs2020-map-enhancement</link>
+    <description>MSFS2020 Map Enhancement</description>
+  </item>
+  <item>
     <title>preservim / nerdtree</title>
     <link>https://github.com/preservim/nerdtree</link>
     <description>A tree explorer plugin for vim.</description>
+  </item>
+  <item>
+    <title>junegunn / vim-plug</title>
+    <link>https://github.com/junegunn/vim-plug</link>
+    <description>🌺 Minimalist Vim Plugin Manager</description>
+  </item>
+  <item>
+    <title>github / copilot.vim</title>
+    <link>https://github.com/github/copilot.vim</link>
+    <description>Neovim plugin for GitHub Copilot</description>
   </item>
   <item>
     <title>dense-analysis / ale</title>
@@ -56,9 +56,9 @@
     <description>Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</description>
   </item>
   <item>
-    <title>junegunn / vim-plug</title>
-    <link>https://github.com/junegunn/vim-plug</link>
-    <description>🌺 Minimalist Vim Plugin Manager</description>
+    <title>tpope / vim-fugitive</title>
+    <link>https://github.com/tpope/vim-fugitive</link>
+    <description>fugitive.vim: A Git wrapper so awesome, it should be illegal</description>
   </item>
   <item>
     <title>mhinz / vim-galore</title>
@@ -69,16 +69,6 @@
     <title>tpope / vim-eunuch</title>
     <link>https://github.com/tpope/vim-eunuch</link>
     <description>eunuch.vim: Helpers for UNIX</description>
-  </item>
-  <item>
-    <title>VundleVim / Vundle.vim</title>
-    <link>https://github.com/VundleVim/Vundle.vim</link>
-    <description>Vundle, the plug-in manager for Vim</description>
-  </item>
-  <item>
-    <title>junegunn / vim-easy-align</title>
-    <link>https://github.com/junegunn/vim-easy-align</link>
-    <description>🌻 A Vim alignment plugin</description>
   </item>
 </channel>
 </rss>

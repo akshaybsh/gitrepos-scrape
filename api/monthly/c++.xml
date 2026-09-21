@@ -4,7 +4,7 @@
   <title>GitHub C++ Languages Daily Trending</title>
   <description>Daily Trending of C++ Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
   <item>
     <title>Neroued / ninfer</title>
     <link>https://github.com/Neroued/ninfer</link>
@@ -51,11 +51,6 @@
     <description>AzerothCore Playerbots Module</description>
   </item>
   <item>
-    <title>vicinaehq / vicinae</title>
-    <link>https://github.com/vicinaehq/vicinae</link>
-    <description>A focused launcher for your desktop - native, fast, extensible</description>
-  </item>
-  <item>
     <title>fmtlib / fmt</title>
     <link>https://github.com/fmtlib/fmt</link>
     <description>A modern formatting library</description>
@@ -66,14 +61,24 @@
     <description>KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.</description>
   </item>
   <item>
-    <title>moonlight-stream / moonlight-qt</title>
-    <link>https://github.com/moonlight-stream/moonlight-qt</link>
-    <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
+    <title>RPCS3 / rpcs3</title>
+    <link>https://github.com/RPCS3/rpcs3</link>
+    <description>PlayStation 3 emulator and debugger</description>
   </item>
   <item>
     <title>flameshot-org / flameshot</title>
     <link>https://github.com/flameshot-org/flameshot</link>
     <description>Powerful yet simple to use screenshot software 🖥️ 📸</description>
+  </item>
+  <item>
+    <title>vicinaehq / vicinae</title>
+    <link>https://github.com/vicinaehq/vicinae</link>
+    <description>A focused launcher for your desktop - native, fast, extensible</description>
+  </item>
+  <item>
+    <title>moonlight-stream / moonlight-qt</title>
+    <link>https://github.com/moonlight-stream/moonlight-qt</link>
+    <description>GameStream client for PCs (Windows, Mac, Linux, and Steam Link)</description>
   </item>
   <item>
     <title>ggml-org / llama.cpp</title>
@@ -86,14 +91,19 @@
     <description>DuckDB is an analytical in-process SQL database management system</description>
   </item>
   <item>
-    <title>tenstorrent / tt-metal</title>
-    <link>https://github.com/tenstorrent/tt-metal</link>
-    <description>🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.</description>
+    <title>prusa3d / PrusaSlicer</title>
+    <link>https://github.com/prusa3d/PrusaSlicer</link>
+    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
   </item>
   <item>
-    <title>hrydgard / ppsspp</title>
-    <link>https://github.com/hrydgard/ppsspp</link>
-    <description>A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.</description>
+    <title>PCSX2 / pcsx2</title>
+    <link>https://github.com/PCSX2/pcsx2</link>
+    <description>PCSX2 - The Playstation 2 Emulator</description>
+  </item>
+  <item>
+    <title>doitsujin / dxvk</title>
+    <link>https://github.com/doitsujin/dxvk</link>
+    <description>Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine</description>
   </item>
   <item>
     <title>optiscaler / OptiScaler</title>
@@ -101,14 +111,9 @@
     <description>OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.</description>
   </item>
   <item>
-    <title>prusa3d / PrusaSlicer</title>
-    <link>https://github.com/prusa3d/PrusaSlicer</link>
-    <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)</description>
-  </item>
-  <item>
-    <title>microsoft / onnxruntime</title>
-    <link>https://github.com/microsoft/onnxruntime</link>
-    <description>ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</description>
+    <title>google-deepmind / mujoco</title>
+    <link>https://github.com/google-deepmind/mujoco</link>
+    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
   </item>
   <item>
     <title>imputnet / helium</title>
@@ -116,14 +121,9 @@
     <description>Private, fast, and honest web browser</description>
   </item>
   <item>
-    <title>google-deepmind / mujoco</title>
-    <link>https://github.com/google-deepmind/mujoco</link>
-    <description>Multi-Joint dynamics with Contact. A general purpose physics simulator.</description>
-  </item>
-  <item>
-    <title>deskflow / deskflow</title>
-    <link>https://github.com/deskflow/deskflow</link>
-    <description>Share a single keyboard and mouse between multiple computers.</description>
+    <title>hrydgard / ppsspp</title>
+    <link>https://github.com/hrydgard/ppsspp</link>
+    <description>A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues.</description>
   </item>
 </channel>
 </rss>

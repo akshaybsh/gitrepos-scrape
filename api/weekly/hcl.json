@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -10,8 +10,8 @@
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3264,
-      "forks": 4626,
+      "stars": 3265,
+      "forks": 4627,
       "added_stars": "2 stars this week"
     },
     {
@@ -51,7 +51,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 585,
-      "forks": 3810,
+      "forks": 3809,
       "added_stars": "0 stars this week"
     },
     {
@@ -75,16 +75,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-project-factory",
-      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
-      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 964,
-      "forks": 593,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
       "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
@@ -95,24 +85,14 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-aws-modules / terraform-aws-elasticache",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-elasticache",
-      "description": "Terraform module to create AWS ElastiCache resources 🇺🇦",
+      "title": "terraform-google-modules / terraform-google-project-factory",
+      "url": "https://github.com/terraform-google-modules/terraform-google-project-factory",
+      "description": "Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 28,
-      "forks": 70,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "ministryofjustice / cloud-platform-environments",
-      "url": "https://github.com/ministryofjustice/cloud-platform-environments",
-      "description": "Environment configuration for the Cloud Platform",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 84,
-      "forks": 38,
-      "added_stars": "0 stars this week"
+      "stars": 964,
+      "forks": 593,
+      "added_stars": "1 star this week"
     }
   ]
 }

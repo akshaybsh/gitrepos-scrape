@@ -4,7 +4,7 @@
   <title>GitHub Assembly Languages Daily Trending</title>
   <description>Daily Trending of Assembly Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
   <item>
     <title>openhwfoundation / cva6</title>
     <link>https://github.com/openhwfoundation/cva6</link>
@@ -16,14 +16,14 @@
     <description>Collection of malware source code for a variety of platforms in an array of different programming languages.</description>
   </item>
   <item>
-    <title>apache / arrow-go</title>
-    <link>https://github.com/apache/arrow-go</link>
-    <description>Official Go implementation of Apache Arrow</description>
-  </item>
-  <item>
     <title>aws / aws-lc</title>
     <link>https://github.com/aws/aws-lc</link>
     <description>AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.</description>
+  </item>
+  <item>
+    <title>apache / arrow-go</title>
+    <link>https://github.com/apache/arrow-go</link>
+    <description>Official Go implementation of Apache Arrow</description>
   </item>
   <item>
     <title>z88dk / z88dk</title>
@@ -41,11 +41,6 @@
     <description>The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.</description>
   </item>
   <item>
-    <title>ROCm / rocm-libraries</title>
-    <link>https://github.com/ROCm/rocm-libraries</link>
-    <description>super repo for rocm libraries</description>
-  </item>
-  <item>
     <title>BLAKE3-team / BLAKE3</title>
     <link>https://github.com/BLAKE3-team/BLAKE3</link>
     <description>the official Rust and C implementations of the BLAKE3 cryptographic hash function</description>
@@ -61,14 +56,24 @@
     <description>Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!</description>
   </item>
   <item>
+    <title>pret / pokecrystal</title>
+    <link>https://github.com/pret/pokecrystal</link>
+    <description>Disassembly of Pokémon Crystal</description>
+  </item>
+  <item>
+    <title>ROCm / rocm-libraries</title>
+    <link>https://github.com/ROCm/rocm-libraries</link>
+    <description>super repo for rocm libraries</description>
+  </item>
+  <item>
     <title>Rangi42 / polishedcrystal</title>
     <link>https://github.com/Rangi42/polishedcrystal</link>
     <description>An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.</description>
   </item>
   <item>
-    <title>pret / pokecrystal</title>
-    <link>https://github.com/pret/pokecrystal</link>
-    <description>Disassembly of Pokémon Crystal</description>
+    <title>corkami / pics</title>
+    <link>https://github.com/corkami/pics</link>
+    <description>File formats dissections and more...</description>
   </item>
   <item>
     <title>cemu-project / cemu_graphic_packs</title>
@@ -79,11 +84,6 @@
     <title>bitdump / BLHeli</title>
     <link>https://github.com/bitdump/BLHeli</link>
     <description>BLHeli for brushless ESC firmware</description>
-  </item>
-  <item>
-    <title>kanaka / mal</title>
-    <link>https://github.com/kanaka/mal</link>
-    <description>mal - Make a Lisp</description>
   </item>
   <item>
     <title>SheerSt / pokewilds</title>

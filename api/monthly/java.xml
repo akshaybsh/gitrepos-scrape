@@ -4,16 +4,11 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
-  </item>
-  <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
   <item>
     <title>checkstyle / checkstyle</title>
@@ -26,29 +21,14 @@
     <description>A tool for reverse engineering Android apk files</description>
   </item>
   <item>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
+  </item>
+  <item>
     <title>aeron-io / aeron</title>
     <link>https://github.com/aeron-io/aeron</link>
     <description>Efficient reliable UDP unicast, UDP multicast, and IPC message transport</description>
-  </item>
-  <item>
-    <title>karma9874 / AndroRAT</title>
-    <link>https://github.com/karma9874/AndroRAT</link>
-    <description>A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</description>
-  </item>
-  <item>
-    <title>crimera / piko</title>
-    <link>https://github.com/crimera/piko</link>
-    <description>morphe patches for twitter and instagram</description>
-  </item>
-  <item>
-    <title>traccar / traccar</title>
-    <link>https://github.com/traccar/traccar</link>
-    <description>Open source GPS tracking platform - self-hosted or managed, 200+ device protocols</description>
-  </item>
-  <item>
-    <title>JabRef / jabref</title>
-    <link>https://github.com/JabRef/jabref</link>
-    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
   </item>
   <item>
     <title>bazelbuild / bazel</title>
@@ -56,14 +36,39 @@
     <description>a fast, scalable, multi-language and extensible build system</description>
   </item>
   <item>
+    <title>keycloak / keycloak</title>
+    <link>https://github.com/keycloak/keycloak</link>
+    <description>Open Source Identity and Access Management For Modern Applications and Services</description>
+  </item>
+  <item>
+    <title>karma9874 / AndroRAT</title>
+    <link>https://github.com/karma9874/AndroRAT</link>
+    <description>A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</description>
+  </item>
+  <item>
+    <title>traccar / traccar</title>
+    <link>https://github.com/traccar/traccar</link>
+    <description>Open source GPS tracking platform - self-hosted or managed, 200+ device protocols</description>
+  </item>
+  <item>
+    <title>crimera / piko</title>
+    <link>https://github.com/crimera/piko</link>
+    <description>morphe patches for twitter and instagram</description>
+  </item>
+  <item>
     <title>quarkusio / quarkus</title>
     <link>https://github.com/quarkusio/quarkus</link>
     <description>Quarkus: Supersonic Subatomic Java.</description>
   </item>
   <item>
-    <title>microg / GmsCore</title>
-    <link>https://github.com/microg/GmsCore</link>
-    <description>Free implementation of Play Services</description>
+    <title>JabRef / jabref</title>
+    <link>https://github.com/JabRef/jabref</link>
+    <description>Desktop app for managing BibTeX and BibLaTeX (.bib) libraries</description>
+  </item>
+  <item>
+    <title>languagetool-org / languagetool</title>
+    <link>https://github.com/languagetool-org/languagetool</link>
+    <description>Style and Grammar Checker for 25+ Languages</description>
   </item>
   <item>
     <title>halo-dev / halo</title>
@@ -71,39 +76,9 @@
     <description>Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。</description>
   </item>
   <item>
-    <title>osmandapp / OsmAnd</title>
-    <link>https://github.com/osmandapp/OsmAnd</link>
-    <description>OsmAnd</description>
-  </item>
-  <item>
-    <title>plantuml / plantuml</title>
-    <link>https://github.com/plantuml/plantuml</link>
-    <description>Generate diagrams from textual description</description>
-  </item>
-  <item>
-    <title>bethington / ghidra-mcp</title>
-    <link>https://github.com/bethington/ghidra-mcp</link>
-    <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
-  </item>
-  <item>
-    <title>jeecgboot / JeecgBoot</title>
-    <link>https://github.com/jeecgboot/JeecgBoot</link>
-    <description>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。</description>
-  </item>
-  <item>
-    <title>DrKLO / Telegram</title>
-    <link>https://github.com/DrKLO/Telegram</link>
-    <description>Telegram for Android source</description>
-  </item>
-  <item>
-    <title>apache / doris</title>
-    <link>https://github.com/apache/doris</link>
-    <description>Apache Doris is a real-time analytics and hybrid search database for AI agents.</description>
-  </item>
-  <item>
-    <title>TeamNewPipe / NewPipe</title>
-    <link>https://github.com/TeamNewPipe/NewPipe</link>
-    <description>A libre lightweight streaming front-end for Android.</description>
+    <title>microg / GmsCore</title>
+    <link>https://github.com/microg/GmsCore</link>
+    <description>Free implementation of Play Services</description>
   </item>
   <item>
     <title>alibaba / nacos</title>
@@ -111,14 +86,39 @@
     <description>an easy-to-use dynamic service discovery, configuration and service management platform for building AI cloud native applications.</description>
   </item>
   <item>
+    <title>zaproxy / zaproxy</title>
+    <link>https://github.com/zaproxy/zaproxy</link>
+    <description>The ZAP by Checkmarx Core project</description>
+  </item>
+  <item>
+    <title>ZCShou / GoGoGo</title>
+    <link>https://github.com/ZCShou/GoGoGo</link>
+    <description>一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆</description>
+  </item>
+  <item>
+    <title>jeecgboot / JeecgBoot</title>
+    <link>https://github.com/jeecgboot/JeecgBoot</link>
+    <description>【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失灵活。</description>
+  </item>
+  <item>
+    <title>ashishps1 / awesome-low-level-design</title>
+    <link>https://github.com/ashishps1/awesome-low-level-design</link>
+    <description>Learn Low Level Design (LLD) and prepare for interviews using free resources.</description>
+  </item>
+  <item>
+    <title>bethington / ghidra-mcp</title>
+    <link>https://github.com/bethington/ghidra-mcp</link>
+    <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
+  </item>
+  <item>
+    <title>apache / doris</title>
+    <link>https://github.com/apache/doris</link>
+    <description>Apache Doris is a real-time analytics and hybrid search database for AI agents.</description>
+  </item>
+  <item>
     <title>booklore-app / booklore</title>
     <link>https://github.com/booklore-app/booklore</link>
     <description>BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo &amp; KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.</description>
-  </item>
-  <item>
-    <title>NotHarshhaa / DevOps-Projects</title>
-    <link>https://github.com/NotHarshhaa/DevOps-Projects</link>
-    <description>🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.</description>
   </item>
 </channel>
 </rss>

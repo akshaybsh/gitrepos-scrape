@@ -4,31 +4,11 @@
   <title>GitHub Bitbake Languages Daily Trending</title>
   <description>Daily Trending of Bitbake Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:22:04 GMT</pubDate>
-  <item>
-    <title>qualcomm-linux / meta-qcom</title>
-    <link>https://github.com/qualcomm-linux/meta-qcom</link>
-    <description>OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</description>
-  </item>
+  <pubDate>Mon, 21 Sep 2026 07:32:06 GMT</pubDate>
   <item>
     <title>priv-kweihmann / meta-sca</title>
     <link>https://github.com/priv-kweihmann/meta-sca</link>
     <description>Layer for static code analysis and security hardening</description>
-  </item>
-  <item>
-    <title>openbmc / openbmc</title>
-    <link>https://github.com/openbmc/openbmc</link>
-    <description>OpenBMC Distribution</description>
-  </item>
-  <item>
-    <title>openembedded / meta-openembedded</title>
-    <link>https://github.com/openembedded/meta-openembedded</link>
-    <description></description>
-  </item>
-  <item>
-    <title>kraj / meta-clang</title>
-    <link>https://github.com/kraj/meta-clang</link>
-    <description>Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</description>
   </item>
   <item>
     <title>sbabic / meta-swupdate</title>
@@ -36,14 +16,9 @@
     <description>Yocto receipes to generate a swupdate rootfilesystem as initrd</description>
   </item>
   <item>
-    <title>nxp-imx / meta-imx</title>
-    <link>https://github.com/nxp-imx/meta-imx</link>
-    <description>i.MX Yocto Project i.MX BSP Layer</description>
-  </item>
-  <item>
-    <title>Freescale / meta-freescale</title>
-    <link>https://github.com/Freescale/meta-freescale</link>
-    <description>Layer containing NXP hardware support metadata</description>
+    <title>openembedded / meta-openembedded</title>
+    <link>https://github.com/openembedded/meta-openembedded</link>
+    <description></description>
   </item>
 </channel>
 </rss>

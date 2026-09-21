@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "leanprover / lean4",
@@ -10,9 +10,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9228,
-      "forks": 990,
-      "added_stars": "88 stars this week"
+      "stars": 9238,
+      "forks": 994,
+      "added_stars": "80 stars this week"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -20,8 +20,8 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4152,
-      "forks": 1696,
+      "stars": 4162,
+      "forks": 1698,
       "added_stars": "48 stars this week"
     },
     {
@@ -30,9 +30,9 @@
       "description": "A Lean companion to Analysis I",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1926,
+      "stars": 1930,
       "forks": 266,
-      "added_stars": "24 stars this week"
+      "added_stars": "25 stars this week"
     },
     {
       "title": "ImperialCollegeLondon / FLT",
@@ -60,7 +60,7 @@
       "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 419,
+      "stars": 418,
       "forks": 163,
       "added_stars": "1 star this week"
     },
@@ -75,16 +75,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "leanprover-community / import-graph",
-      "url": "https://github.com/leanprover-community/import-graph",
-      "description": "Tool to analyse the import structure of lean projects.",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 26,
-      "forks": 16,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "leanprover / lean4-cli",
       "url": "https://github.com/leanprover/lean4-cli",
       "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
@@ -93,6 +83,16 @@
       "stars": 120,
       "forks": 30,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 226,
+      "forks": 49,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leanprover-community / quote4",
@@ -105,14 +105,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "title": "leanprover-community / import-graph",
+      "url": "https://github.com/leanprover-community/import-graph",
+      "description": "Tool to analyse the import structure of lean projects.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 226,
-      "forks": 49,
-      "added_stars": "2 stars this week"
+      "stars": 26,
+      "forks": 16,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "leanprover-community / LeanSearchClient",
+      "url": "https://github.com/leanprover-community/LeanSearchClient",
+      "description": "Syntax for searching with natural language from Lean, using https://leansearch.net/ (may extend to other services)",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 36,
+      "forks": 13,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "leanprover-community / plausible",
@@ -130,9 +140,9 @@
       "description": "A project to digitalise results from physics into Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 750,
-      "forks": 191,
-      "added_stars": "13 stars this week"
+      "stars": 753,
+      "forks": 193,
+      "added_stars": "15 stars this week"
     }
   ]
 }

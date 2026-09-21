@@ -4,7 +4,7 @@
   <title>GitHub Starlark Languages Daily Trending</title>
   <description>Daily Trending of Starlark Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Sun, 20 Sep 2026 07:26:19 GMT</pubDate>
+  <pubDate>Mon, 21 Sep 2026 07:36:31 GMT</pubDate>
   <item>
     <title>bazelbuild / bazel-central-registry</title>
     <link>https://github.com/bazelbuild/bazel-central-registry</link>
@@ -36,14 +36,14 @@
     <description>Bazel rules to construct images using https://github.com/GoogleContainerTools/distroless</description>
   </item>
   <item>
-    <title>cel-expr / cel-spec</title>
-    <link>https://github.com/cel-expr/cel-spec</link>
-    <description>Common Expression Language -- specification and binary representation</description>
-  </item>
-  <item>
     <title>bazelbuild / rules_rust</title>
     <link>https://github.com/bazelbuild/rules_rust</link>
     <description>Rust rules for Bazel</description>
+  </item>
+  <item>
+    <title>cel-expr / cel-spec</title>
+    <link>https://github.com/cel-expr/cel-spec</link>
+    <description>Common Expression Language -- specification and binary representation</description>
   </item>
   <item>
     <title>tidbyt / community</title>
@@ -56,24 +56,24 @@
     <description>gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</description>
   </item>
   <item>
-    <title>grpc / grpc-proto</title>
-    <link>https://github.com/grpc/grpc-proto</link>
-    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
-  </item>
-  <item>
-    <title>googleapis / api-common-protos</title>
-    <link>https://github.com/googleapis/api-common-protos</link>
-    <description>A standard library for use in specifying protocol buffer APIs.</description>
-  </item>
-  <item>
     <title>aspect-build / rules_lint</title>
     <link>https://github.com/aspect-build/rules_lint</link>
     <description>Run static analysis tools with Bazel</description>
   </item>
   <item>
+    <title>grpc / grpc-proto</title>
+    <link>https://github.com/grpc/grpc-proto</link>
+    <description>gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</description>
+  </item>
+  <item>
     <title>aspect-build / rules_py</title>
     <link>https://github.com/aspect-build/rules_py</link>
     <description>More compatible Bazel rules for running Python tools and building Python projects</description>
+  </item>
+  <item>
+    <title>googleapis / api-common-protos</title>
+    <link>https://github.com/googleapis/api-common-protos</link>
+    <description>A standard library for use in specifying protocol buffer APIs.</description>
   </item>
   <item>
     <title>aspect-build / aspect-cli</title>

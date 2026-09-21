@@ -2,7 +2,7 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
   "items": [
     {
       "title": "jgm / pandoc",
@@ -10,9 +10,9 @@
       "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 46343,
-      "forks": 4339,
-      "added_stars": "460 stars this month"
+      "stars": 46359,
+      "forks": 4422,
+      "added_stars": "454 stars this month"
     },
     {
       "title": "koalaman / shellcheck",
@@ -20,19 +20,19 @@
       "description": "ShellCheck, a static analysis tool for shell scripts",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 40057,
-      "forks": 1945,
-      "added_stars": "202 stars this month"
+      "stars": 40058,
+      "forks": 1946,
+      "added_stars": "198 stars this month"
     },
     {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "title": "PostgREST / postgrest",
+      "url": "https://github.com/PostgREST/postgrest",
+      "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1817,
-      "forks": 75,
-      "added_stars": "238 stars this month"
+      "stars": 27675,
+      "forks": 1227,
+      "added_stars": "95 stars this month"
     },
     {
       "title": "hadolint / hadolint",
@@ -42,37 +42,17 @@
       "languageColor": "#5e5086",
       "stars": 12419,
       "forks": 502,
-      "added_stars": "66 stars this month"
+      "added_stars": "64 stars this month"
     },
     {
-      "title": "haskell / cabal",
-      "url": "https://github.com/haskell/cabal",
-      "description": "Official upstream development repository for Cabal and cabal-install",
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1744,
-      "forks": 751,
-      "added_stars": "4 stars this month"
-    },
-    {
-      "title": "IntersectMBO / cardano-node",
-      "url": "https://github.com/IntersectMBO/cardano-node",
-      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 3178,
-      "forks": 755,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "PostgREST / postgrest",
-      "url": "https://github.com/PostgREST/postgrest",
-      "description": "REST API for any Postgres database",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 27674,
-      "forks": 1227,
-      "added_stars": "102 stars this month"
+      "stars": 1822,
+      "forks": 76,
+      "added_stars": "238 stars this month"
     },
     {
       "title": "haskell / haskell-language-server",
@@ -82,7 +62,7 @@
       "languageColor": "#5e5086",
       "stars": 2957,
       "forks": 455,
-      "added_stars": "15 stars this month"
+      "added_stars": "13 stars this month"
     },
     {
       "title": "wireapp / wire-server",
@@ -110,9 +90,9 @@
       "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2569,
+      "stars": 2570,
       "forks": 400,
-      "added_stars": "37 stars this month"
+      "added_stars": "38 stars this month"
     },
     {
       "title": "IntersectMBO / cardano-ledger",
@@ -125,14 +105,14 @@
       "added_stars": "4 stars this month"
     },
     {
-      "title": "agda / agda",
-      "url": "https://github.com/agda/agda",
-      "description": "Agda is a dependently typed programming language / interactive theorem prover.",
+      "title": "IntersectMBO / plutus",
+      "url": "https://github.com/IntersectMBO/plutus",
+      "description": "The Plutus language implementation and tools",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 2928,
-      "forks": 429,
-      "added_stars": "21 stars this month"
+      "stars": 1633,
+      "forks": 508,
+      "added_stars": "4 stars this month"
     },
     {
       "title": "digital-asset / daml",
@@ -145,24 +125,34 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "haskell / cabal",
+      "url": "https://github.com/haskell/cabal",
+      "description": "Official upstream development repository for Cabal and cabal-install",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 1744,
+      "forks": 752,
+      "added_stars": "4 stars this month"
+    },
+    {
       "title": "unisonweb / unison",
       "url": "https://github.com/unisonweb/unison",
       "description": "A friendly programming language from the future",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 6734,
+      "stars": 6735,
       "forks": 308,
-      "added_stars": "37 stars this month"
+      "added_stars": "32 stars this month"
     },
     {
-      "title": "IntersectMBO / plutus",
-      "url": "https://github.com/IntersectMBO/plutus",
-      "description": "The Plutus language implementation and tools",
+      "title": "IntersectMBO / cardano-node",
+      "url": "https://github.com/IntersectMBO/cardano-node",
+      "description": "The core component that is used to participate in a Cardano decentralised blockchain.",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 1633,
-      "forks": 508,
-      "added_stars": "4 stars this month"
+      "stars": 3178,
+      "forks": 755,
+      "added_stars": "7 stars this month"
     }
   ]
 }

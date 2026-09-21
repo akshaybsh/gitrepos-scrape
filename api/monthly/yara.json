@@ -2,27 +2,27 @@
   "title": "GitHub Yara Languages Daily Trending",
   "description": "Daily Trending of Yara Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:26:19 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:36:31 GMT",
   "items": [
-    {
-      "title": "Neo23x0 / signature-base",
-      "url": "https://github.com/Neo23x0/signature-base",
-      "description": "YARA signature and IOC database for my scanners and tools",
-      "language": "YARA",
-      "languageColor": "#220000",
-      "stars": 3028,
-      "forks": 677,
-      "added_stars": "24 stars this month"
-    },
     {
       "title": "elastic / protections-artifacts",
       "url": "https://github.com/elastic/protections-artifacts",
       "description": "Elastic Security detection content for Endpoint",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 1494,
+      "stars": 1495,
       "forks": 169,
-      "added_stars": "22 stars this month"
+      "added_stars": "20 stars this month"
+    },
+    {
+      "title": "Neo23x0 / signature-base",
+      "url": "https://github.com/Neo23x0/signature-base",
+      "description": "YARA signature and IOC database for my scanners and tools",
+      "language": "YARA",
+      "languageColor": "#220000",
+      "stars": 3029,
+      "forks": 677,
+      "added_stars": "23 stars this month"
     },
     {
       "title": "magicsword-io / LOLDrivers",
@@ -30,9 +30,9 @@
       "description": "Living Off The Land Drivers",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 1789,
+      "stars": 1790,
       "forks": 225,
-      "added_stars": "39 stars this month"
+      "added_stars": "35 stars this month"
     },
     {
       "title": "mthcht / awesome-lists",
@@ -40,9 +40,9 @@
       "description": "Awesome Security lists for SOC/CERT/CTI",
       "language": "YARA",
       "languageColor": "#220000",
-      "stars": 1916,
-      "forks": 239,
-      "added_stars": "48 stars this month"
+      "stars": 1917,
+      "forks": 240,
+      "added_stars": "41 stars this month"
     },
     {
       "title": "Yara-Rules / rules",
@@ -51,8 +51,8 @@
       "language": "YARA",
       "languageColor": "#220000",
       "stars": 4895,
-      "forks": 1063,
-      "added_stars": "29 stars this month"
+      "forks": 1064,
+      "added_stars": "28 stars this month"
     }
   ]
 }

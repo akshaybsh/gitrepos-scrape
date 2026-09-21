@@ -2,7 +2,7 @@
   "title": "GitHub Daily Trending",
   "description": "Daily Trending of All Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Sun, 20 Sep 2026 07:24:11 GMT",
+  "pubDate": "Mon, 21 Sep 2026 07:34:17 GMT",
   "items": [
     {
       "title": "alibaba / open-code-review",
@@ -10,9 +10,9 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 37901,
-      "forks": 2698,
-      "added_stars": "15,028 stars this week"
+      "stars": 38690,
+      "forks": 2763,
+      "added_stars": "15,504 stars this week"
     },
     {
       "title": "anthropics / claude-code",
@@ -20,9 +20,9 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 146828,
-      "forks": 23981,
-      "added_stars": "1,999 stars this week"
+      "stars": 147297,
+      "forks": 24093,
+      "added_stars": "2,342 stars this week"
     },
     {
       "title": "affaan-m / ECC",
@@ -30,9 +30,9 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 263126,
-      "forks": 39368,
-      "added_stars": "6,265 stars this week"
+      "stars": 264085,
+      "forks": 39490,
+      "added_stars": "6,453 stars this week"
     },
     {
       "title": "Tencent / WeKnora",
@@ -40,19 +40,9 @@
       "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 27677,
-      "forks": 3724,
-      "added_stars": "4,867 stars this week"
-    },
-    {
-      "title": "bilawalsidhu / gods-eye-view",
-      "url": "https://github.com/bilawalsidhu/gods-eye-view",
-      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 38814,
-      "forks": 7842,
-      "added_stars": "10,207 stars this week"
+      "stars": 28233,
+      "forks": 3802,
+      "added_stars": "5,242 stars this week"
     },
     {
       "title": "addyosmani / agent-skills",
@@ -60,9 +50,9 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 97262,
-      "forks": 10262,
-      "added_stars": "3,445 stars this week"
+      "stars": 97875,
+      "forks": 10304,
+      "added_stars": "3,986 stars this week"
     },
     {
       "title": "anthropics / knowledge-work-plugins",
@@ -70,19 +60,19 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 25202,
-      "forks": 3001,
-      "added_stars": "1,034 stars this week"
+      "stars": 25306,
+      "forks": 3008,
+      "added_stars": "1,298 stars this week"
     },
     {
-      "title": "ayghri / i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 48883,
-      "forks": 2841,
-      "added_stars": "5,589 stars this week"
+      "title": "bilawalsidhu / gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 39935,
+      "forks": 8081,
+      "added_stars": "8,111 stars this week"
     },
     {
       "title": "mksglu / context-mode",
@@ -90,9 +80,9 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 23706,
-      "forks": 1710,
-      "added_stars": "1,359 stars this week"
+      "stars": 23808,
+      "forks": 1718,
+      "added_stars": "1,242 stars this week"
     },
     {
       "title": "max-sixty / worktrunk",
@@ -100,19 +90,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 8137,
-      "forks": 283,
-      "added_stars": "1,141 stars this week"
-    },
-    {
-      "title": "blader / humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "description": "Agent skill that removes signs of AI-generated writing from text",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 50369,
-      "forks": 4059,
-      "added_stars": "3,024 stars this week"
+      "stars": 8240,
+      "forks": 284,
+      "added_stars": "822 stars this week"
     },
     {
       "title": "home-assistant / core",
@@ -120,49 +100,19 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 90838,
-      "forks": 38709,
-      "added_stars": "417 stars this week"
+      "stars": 90918,
+      "forks": 38719,
+      "added_stars": "480 stars this week"
     },
     {
-      "title": "microsoft / markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
+      "title": "blader / humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 185745,
-      "forks": 13678,
-      "added_stars": "2,767 stars this week"
-    },
-    {
-      "title": "kunchenguid / firstmate",
-      "url": "https://github.com/kunchenguid/firstmate",
-      "description": "Talk to one agent. Ship with a crew.",
-      "language": "Shell",
-      "languageColor": "#89e051",
-      "stars": 6776,
-      "forks": 2041,
-      "added_stars": "1,073 stars this week"
-    },
-    {
-      "title": "Panniantong / Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "language": "Python",
-      "languageColor": "#3572A5",
-      "stars": 83573,
-      "forks": 7324,
-      "added_stars": "3,914 stars this week"
-    },
-    {
-      "title": "heygen-com / hyperframes",
-      "url": "https://github.com/heygen-com/hyperframes",
-      "description": "Write HTML. Render video. Built for agents.",
-      "language": "TypeScript",
-      "languageColor": "#3178c6",
-      "stars": 51721,
-      "forks": 4715,
-      "added_stars": "2,498 stars this week"
+      "stars": 50777,
+      "forks": 4083,
+      "added_stars": "3,045 stars this week"
     },
     {
       "title": "stablyai / orca",
@@ -170,19 +120,29 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 72926,
-      "forks": 4771,
-      "added_stars": "5,404 stars this week"
+      "stars": 73968,
+      "forks": 4850,
+      "added_stars": "5,841 stars this week"
     },
     {
-      "title": "openai / plugins",
-      "url": "https://github.com/openai/plugins",
-      "description": "OpenAI Plugins",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 7057,
-      "forks": 914,
-      "added_stars": "522 stars this week"
+      "title": "Panniantong / Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 84023,
+      "forks": 7373,
+      "added_stars": "3,690 stars this week"
+    },
+    {
+      "title": "heygen-com / hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 52027,
+      "forks": 4741,
+      "added_stars": "2,546 stars this week"
     },
     {
       "title": "danny-avila / LibreChat",
@@ -190,9 +150,39 @@
       "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 44429,
-      "forks": 9124,
-      "added_stars": "1,573 stars this week"
+      "stars": 44519,
+      "forks": 9142,
+      "added_stars": "1,600 stars this week"
+    },
+    {
+      "title": "ayghri / i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "description": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 49423,
+      "forks": 2860,
+      "added_stars": "5,249 stars this week"
+    },
+    {
+      "title": "cline / cline",
+      "url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "language": "TypeScript",
+      "languageColor": "#3178c6",
+      "stars": 68914,
+      "forks": 7466,
+      "added_stars": "1,167 stars this week"
+    },
+    {
+      "title": "petergyang / no-ai-slop",
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "languageColor": "#3572A5",
+      "stars": 10887,
+      "forks": 739,
+      "added_stars": "1,819 stars this week"
     },
     {
       "title": "supabase / supabase",
@@ -200,19 +190,29 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "language": "TypeScript",
       "languageColor": "#3178c6",
-      "stars": 110366,
-      "forks": 14420,
-      "added_stars": "1,389 stars this week"
+      "stars": 110464,
+      "forks": 14507,
+      "added_stars": "1,484 stars this week"
     },
     {
-      "title": "huggingface / transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
+      "title": "microsoft / markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
       "languageColor": "#3572A5",
-      "stars": 166425,
-      "forks": 34637,
-      "added_stars": "1,290 stars this week"
+      "stars": 186030,
+      "forks": 13702,
+      "added_stars": "2,521 stars this week"
+    },
+    {
+      "title": "cilium / cilium",
+      "url": "https://github.com/cilium/cilium",
+      "description": "eBPF-based Networking, Security, and Observability",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 25403,
+      "forks": 4086,
+      "added_stars": "373 stars this week"
     }
   ]
 }
