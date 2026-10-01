@@ -2,17 +2,27 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 30 Sep 2026 07:43:50 GMT",
+  "pubDate": "Thu, 01 Oct 2026 08:01:40 GMT",
   "items": [
+    {
+      "title": "antonputra / tutorials",
+      "url": "https://github.com/antonputra/tutorials",
+      "description": "DevOps Tutorials",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 4693,
+      "forks": 3111,
+      "added_stars": "3 stars this week"
+    },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
       "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
       "description": "Terraform module to create AWS VPC resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 3270,
+      "stars": 3271,
       "forks": 4627,
-      "added_stars": "4 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -21,8 +31,8 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5007,
-      "forks": 4413,
-      "added_stars": "3 stars this week"
+      "forks": 4412,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -52,17 +62,7 @@
       "languageColor": "#844FBA",
       "stars": 880,
       "forks": 130,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
-      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 119,
-      "forks": 203,
-      "added_stars": "0 stars this week"
+      "added_stars": "7 stars this week"
     },
     {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
@@ -71,7 +71,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 1281,
-      "forks": 1288,
+      "forks": 1289,
       "added_stars": "0 stars this week"
     },
     {
@@ -81,47 +81,17 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 964,
-      "forks": 593,
+      "forks": 592,
       "added_stars": "0 stars this week"
     },
     {
-      "title": "terraform-google-modules / terraform-google-iam",
-      "url": "https://github.com/terraform-google-modules/terraform-google-iam",
-      "description": "Manages multiple IAM roles for resources on Google Cloud",
+      "title": "terraform-aws-modules / terraform-aws-dynamodb-table",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-dynamodb-table",
+      "description": "Terraform module to create AWS DynamoDB resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 242,
-      "forks": 191,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-service-accounts",
-      "url": "https://github.com/terraform-google-modules/terraform-google-service-accounts",
-      "description": "Creates one or more service accounts and grants them basic roles",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 154,
-      "forks": 119,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "cloudposse / terraform-aws-security-group",
-      "url": "https://github.com/cloudposse/terraform-aws-security-group",
-      "description": "Terraform module to provision an AWS Security Group",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 39,
-      "forks": 38,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "terraform-google-modules / terraform-google-network",
-      "url": "https://github.com/terraform-google-modules/terraform-google-network",
-      "description": "Sets up a new VPC network on Google Cloud",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 502,
-      "forks": 1280,
+      "stars": 119,
+      "forks": 203,
       "added_stars": "0 stars this week"
     }
   ]
