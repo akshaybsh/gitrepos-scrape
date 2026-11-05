@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -11,18 +11,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 2811,
-      "forks": 1000,
-      "added_stars": "13 stars this month"
-    },
-    {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 7025,
-      "forks": 2125,
-      "added_stars": "30 stars this month"
+      "forks": 999,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "tidyverse / dplyr",
@@ -30,9 +20,19 @@
       "description": "dplyr: A grammar of data manipulation",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5079,
-      "forks": 2109,
+      "stars": 5078,
+      "forks": 2108,
       "added_stars": "14 stars this month"
+    },
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 7024,
+      "forks": 2126,
+      "added_stars": "29 stars this month"
     },
     {
       "title": "Rdatatable / data.table",
@@ -60,9 +60,9 @@
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5706,
+      "stars": 5705,
       "forks": 1894,
-      "added_stars": "20 stars this month"
+      "added_stars": "19 stars this month"
     },
     {
       "title": "r-spatial / sf",
@@ -103,6 +103,16 @@
       "stars": 691,
       "forks": 116,
       "added_stars": "18 stars this month"
+    },
+    {
+      "title": "mixOmics-org / mixOmics",
+      "url": "https://github.com/mixOmics-org/mixOmics",
+      "description": "Development repository for the Bioconductor package 'mixOmics '",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 271,
+      "forks": 69,
+      "added_stars": "3 stars this month"
     }
   ]
 }

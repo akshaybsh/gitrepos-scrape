@@ -2,37 +2,27 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
-    {
-      "title": "NixOS / nixpkgs",
-      "url": "https://github.com/NixOS/nixpkgs",
-      "description": "Nix Packages collection & NixOS",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 26703,
-      "forks": 20627,
-      "added_stars": "15 stars today"
-    },
     {
       "title": "numtide / llm-agents.nix",
       "url": "https://github.com/numtide/llm-agents.nix",
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2233,
+      "stars": 2240,
       "forks": 320,
       "added_stars": "8 stars today"
     },
     {
-      "title": "nix-community / disko",
-      "url": "https://github.com/nix-community/disko",
-      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
+      "title": "NixOS / nixpkgs",
+      "url": "https://github.com/NixOS/nixpkgs",
+      "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 3418,
-      "forks": 341,
-      "added_stars": "5 stars today"
+      "stars": 26716,
+      "forks": 20638,
+      "added_stars": "20 stars today"
     },
     {
       "title": "nix-community / home-manager",
@@ -40,18 +30,38 @@
       "description": "Manage a user environment using Nix [maintainer=@khaneliman, @rycee]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 10490,
+      "stars": 10489,
       "forks": 2509,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "nix-darwin / nix-darwin",
+      "url": "https://github.com/nix-darwin/nix-darwin",
+      "description": "Manage your macOS using Nix",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 6053,
+      "forks": 671,
       "added_stars": "5 stars today"
     },
     {
-      "title": "supabase / postgres",
-      "url": "https://github.com/supabase/postgres",
-      "description": "Unmodified Postgres with some useful extensions",
+      "title": "nix-community / disko",
+      "url": "https://github.com/nix-community/disko",
+      "description": "Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1800,
-      "forks": 274,
+      "stars": 3419,
+      "forks": 341,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "NixOS / nixos-hardware",
+      "url": "https://github.com/NixOS/nixos-hardware",
+      "description": "A collection of NixOS modules covering hardware quirks.",
+      "language": "Nix",
+      "languageColor": "#7e7eff",
+      "stars": 3351,
+      "forks": 998,
       "added_stars": "0 stars today"
     }
   ]

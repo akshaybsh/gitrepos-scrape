@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
     {
       "title": "semgrep / semgrep-rules",
@@ -10,9 +10,19 @@
       "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1289,
-      "forks": 618,
-      "added_stars": "30 stars this month"
+      "stars": 1291,
+      "forks": 619,
+      "added_stars": "32 stars this month"
+    },
+    {
+      "title": "terraform-aws-modules / terraform-aws-eks",
+      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 5014,
+      "forks": 4413,
+      "added_stars": "12 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -22,17 +32,7 @@
       "languageColor": "#844FBA",
       "stars": 3279,
       "forks": 4621,
-      "added_stars": "10 stars this month"
-    },
-    {
-      "title": "terraform-aws-modules / terraform-aws-eks",
-      "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
-      "description": "Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 5014,
-      "forks": 4414,
-      "added_stars": "13 stars this month"
+      "added_stars": "11 stars this month"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -41,7 +41,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 589,
-      "forks": 3804,
+      "forks": 3803,
       "added_stars": "3 stars this month"
     },
     {
@@ -51,7 +51,7 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 874,
-      "forks": 1114,
+      "forks": 1115,
       "added_stars": "3 stars this month"
     },
     {
@@ -60,9 +60,39 @@
       "description": "Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 1042,
-      "forks": 782,
+      "stars": 1041,
+      "forks": 783,
       "added_stars": "3 stars this month"
+    },
+    {
+      "title": "mysql / mysql-community",
+      "url": "https://github.com/mysql/mysql-community",
+      "description": "To be used by the community team to host wiki pages",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 41,
+      "forks": 5,
+      "added_stars": "8 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-network",
+      "url": "https://github.com/terraform-google-modules/terraform-google-network",
+      "description": "Sets up a new VPC network on Google Cloud",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 502,
+      "forks": 1279,
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "terraform-google-modules / terraform-google-kubernetes-engine",
+      "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+      "description": "Configures opinionated GKE clusters",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1287,
+      "forks": 1293,
+      "added_stars": "7 stars this month"
     }
   ]
 }

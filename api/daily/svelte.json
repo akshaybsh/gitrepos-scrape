@@ -2,37 +2,57 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
+    {
+      "title": "open-webui / open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 157826,
+      "forks": 22946,
+      "added_stars": "129 stars today"
+    },
     {
       "title": "imputnet / cobalt",
       "url": "https://github.com/imputnet/cobalt",
       "description": "best way to save what you love",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 45780,
-      "forks": 4043,
-      "added_stars": "53 stars today"
+      "stars": 45812,
+      "forks": 4046,
+      "added_stars": "30 stars today"
     },
     {
-      "title": "mylofi / lofi.so",
-      "url": "https://github.com/mylofi/lofi.so",
-      "description": "Home for Sync and Local-first",
+      "title": "aukspot / dles",
+      "url": "https://github.com/aukspot/dles",
+      "description": "A curated collection of over 700 daily web games.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 27,
-      "forks": 54,
-      "added_stars": "0 stars today"
+      "stars": 132,
+      "forks": 90,
+      "added_stars": "1 star today"
     },
     {
-      "title": "leaningtech / webvm",
-      "url": "https://github.com/leaningtech/webvm",
-      "description": "Virtual Machine for the Web",
+      "title": "vaibhav-kakde-in / mdhero",
+      "url": "https://github.com/vaibhav-kakde-in/mdhero",
+      "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 17469,
-      "forks": 3354,
+      "stars": 330,
+      "forks": 39,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "seanmorley15 / AdventureLog",
+      "url": "https://github.com/seanmorley15/AdventureLog",
+      "description": "Self-hostable travel tracker and trip planner.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 3860,
+      "forks": 266,
+      "added_stars": "10 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Elixir Languages Daily Trending",
   "description": "Daily Trending of Elixir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:20:46 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
   "items": [
     {
       "title": "elixir-lang / elixir",
@@ -10,9 +10,9 @@
       "description": "Simple from zero to scale",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 26700,
-      "forks": 3727,
-      "added_stars": "9 stars this week"
+      "stars": 26703,
+      "forks": 3720,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "phoenixframework / phoenix",
@@ -20,9 +20,9 @@
       "description": "Peace of mind from prototype to production",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 23213,
-      "forks": 3222,
-      "added_stars": "9 stars this week"
+      "stars": 23215,
+      "forks": 3217,
+      "added_stars": "6 stars this week"
     },
     {
       "title": "OpenFn / lightning",
@@ -35,24 +35,44 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "tuist / tuist",
-      "url": "https://github.com/tuist/tuist",
-      "description": "Your platform team, as a service",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 5857,
-      "forks": 781,
-      "added_stars": "11 stars this week"
-    },
-    {
       "title": "firezone / firezone",
       "url": "https://github.com/firezone/firezone",
       "description": "Blazing-fast remote access",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9165,
+      "stars": 9168,
       "forks": 466,
-      "added_stars": "32 stars this week"
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "teslamate-org / teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 9236,
+      "forks": 1040,
+      "added_stars": "33 stars this week"
+    },
+    {
+      "title": "tuist / tuist",
+      "url": "https://github.com/tuist/tuist",
+      "description": "Your platform team, as a service",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 5860,
+      "forks": 781,
+      "added_stars": "12 stars this week"
+    },
+    {
+      "title": "plausible / analytics",
+      "url": "https://github.com/plausible/analytics",
+      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 29774,
+      "forks": 1932,
+      "added_stars": "80 stars this week"
     },
     {
       "title": "phoenixframework / phoenix_live_view",
@@ -61,18 +81,18 @@
       "language": "Elixir",
       "languageColor": "#6e4a7e",
       "stars": 6835,
-      "forks": 1062,
+      "forks": 1063,
       "added_stars": "1 star this week"
     },
     {
-      "title": "kieraneglin / pinchflat",
-      "url": "https://github.com/kieraneglin/pinchflat",
-      "description": "Your next YouTube media manager",
+      "title": "elixir-lsp / elixir-ls",
+      "url": "https://github.com/elixir-lsp/elixir-ls",
+      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 5441,
-      "forks": 190,
-      "added_stars": "19 stars this week"
+      "stars": 1780,
+      "forks": 230,
+      "added_stars": "0 stars this week"
     },
     {
       "title": "elixir-ecto / ecto",
@@ -85,44 +105,14 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "teslamate-org / teslamate",
-      "url": "https://github.com/teslamate-org/teslamate",
-      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "title": "kieraneglin / pinchflat",
+      "url": "https://github.com/kieraneglin/pinchflat",
+      "description": "Your next YouTube media manager",
       "language": "Elixir",
       "languageColor": "#6e4a7e",
-      "stars": 9230,
-      "forks": 1040,
-      "added_stars": "36 stars this week"
-    },
-    {
-      "title": "elixir-lsp / elixir-ls",
-      "url": "https://github.com/elixir-lsp/elixir-ls",
-      "description": "A frontend-independent IDE \"smartness\" server for Elixir. Implements the \"Language Server Protocol\" standard and provides debugger support via the \"Debug Adapter Protocol\"",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 1780,
-      "forks": 230,
-      "added_stars": "1 star this week"
-    },
-    {
-      "title": "plausible / analytics",
-      "url": "https://github.com/plausible/analytics",
-      "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 29768,
-      "forks": 1930,
-      "added_stars": "83 stars this week"
-    },
-    {
-      "title": "supabase / realtime",
-      "url": "https://github.com/supabase/realtime",
-      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
-      "language": "Elixir",
-      "languageColor": "#6e4a7e",
-      "stars": 7675,
-      "forks": 479,
-      "added_stars": "6 stars this week"
+      "stars": 5442,
+      "forks": 191,
+      "added_stars": "14 stars this week"
     },
     {
       "title": "elixir-lsp / elixir_sense",
@@ -133,6 +123,36 @@
       "stars": 342,
       "forks": 46,
       "added_stars": "0 stars this week"
+    },
+    {
+      "title": "supabase / realtime",
+      "url": "https://github.com/supabase/realtime",
+      "description": "Broadcast, Presence, and Postgres Changes via WebSockets",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 7677,
+      "forks": 480,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "agentjido / req_llm",
+      "url": "https://github.com/agentjido/req_llm",
+      "description": "Composable Elixir library for LLM interactions built on Req and Finch",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 603,
+      "forks": 222,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "operately / operately",
+      "url": "https://github.com/operately/operately",
+      "description": "The open source company operating system.",
+      "language": "Elixir",
+      "languageColor": "#6e4a7e",
+      "stars": 615,
+      "forks": 84,
+      "added_stars": "13 stars this week"
     }
   ]
 }

@@ -2,26 +2,16 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
-    {
-      "title": "rails / rails",
-      "url": "https://github.com/rails/rails",
-      "description": "Ruby on Rails",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 58844,
-      "forks": 23852,
-      "added_stars": "175 stars this month"
-    },
     {
       "title": "mastodon / mastodon",
       "url": "https://github.com/mastodon/mastodon",
       "description": "Your self-hosted, globally interconnected microblogging community",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 50477,
-      "forks": 7536,
+      "stars": 50485,
+      "forks": 7537,
       "added_stars": "218 stars this month"
     },
     {
@@ -31,18 +21,18 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 23795,
-      "forks": 5679,
+      "forks": 5680,
       "added_stars": "92 stars this month"
     },
     {
-      "title": "antiwork / gumroad",
-      "url": "https://github.com/antiwork/gumroad",
-      "description": "See what sticks",
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 10084,
-      "forks": 2110,
-      "added_stars": "358 stars this month"
+      "stars": 58843,
+      "forks": 23824,
+      "added_stars": "172 stars this month"
     },
     {
       "title": "opf / openproject",
@@ -50,39 +40,9 @@
       "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 16970,
-      "forks": 3685,
-      "added_stars": "704 stars this month"
-    },
-    {
-      "title": "huginn / huginn",
-      "url": "https://github.com/huginn/huginn",
-      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 50288,
-      "forks": 4340,
-      "added_stars": "346 stars this month"
-    },
-    {
-      "title": "github / explore",
-      "url": "https://github.com/github/explore",
-      "description": "Community-curated topic and collection pages on GitHub",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 4947,
-      "forks": 14700,
-      "added_stars": "64 stars this month"
-    },
-    {
-      "title": "ruby / rubygems",
-      "url": "https://github.com/ruby/rubygems",
-      "description": "Library packaging and distribution for Ruby.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 3986,
-      "forks": 1957,
-      "added_stars": "21 stars this month"
+      "stars": 17009,
+      "forks": 3692,
+      "added_stars": "723 stars this month"
     },
     {
       "title": "docusealco / docuseal",
@@ -90,19 +50,29 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 18989,
-      "forks": 1938,
-      "added_stars": "368 stars this month"
+      "stars": 18993,
+      "forks": 1940,
+      "added_stars": "370 stars this month"
     },
     {
-      "title": "rapid7 / metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
+      "title": "github / explore",
+      "url": "https://github.com/github/explore",
+      "description": "Community-curated topic and collection pages on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 39308,
-      "forks": 15006,
-      "added_stars": "294 stars this month"
+      "stars": 4949,
+      "forks": 14705,
+      "added_stars": "66 stars this month"
+    },
+    {
+      "title": "huginn / huginn",
+      "url": "https://github.com/huginn/huginn",
+      "description": "Create agents that monitor and act on your behalf. Your agents are standing by!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 50293,
+      "forks": 4342,
+      "added_stars": "350 stars this month"
     },
     {
       "title": "chatwoot / chatwoot",
@@ -110,39 +80,19 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 38841,
-      "forks": 9447,
-      "added_stars": "1,413 stars this month"
+      "stars": 38910,
+      "forks": 9468,
+      "added_stars": "1,438 stars this month"
     },
     {
-      "title": "github / markup",
-      "url": "https://github.com/github/markup",
-      "description": "Determines which markup library to use to render a content file (e.g. README) on GitHub",
+      "title": "rapid7 / metasploit-framework",
+      "url": "https://github.com/rapid7/metasploit-framework",
+      "description": "Metasploit Framework",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 6053,
-      "forks": 3375,
-      "added_stars": "17 stars this month"
-    },
-    {
-      "title": "urbanadventurer / WhatWeb",
-      "url": "https://github.com/urbanadventurer/WhatWeb",
-      "description": "Next generation web scanner",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 6982,
-      "forks": 1020,
-      "added_stars": "119 stars this month"
-    },
-    {
-      "title": "Homebrew / homebrew-core",
-      "url": "https://github.com/Homebrew/homebrew-core",
-      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 15651,
-      "forks": 13943,
-      "added_stars": "68 stars this month"
+      "stars": 39317,
+      "forks": 15007,
+      "added_stars": "292 stars this month"
     },
     {
       "title": "otwcode / otwarchive",
@@ -150,29 +100,19 @@
       "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 2360,
-      "forks": 888,
-      "added_stars": "103 stars this month"
+      "stars": 2365,
+      "forks": 890,
+      "added_stars": "109 stars this month"
     },
     {
-      "title": "Homebrew / homebrew-cask",
-      "url": "https://github.com/Homebrew/homebrew-cask",
-      "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
+      "title": "Homebrew / homebrew-core",
+      "url": "https://github.com/Homebrew/homebrew-core",
+      "description": "🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 22279,
-      "forks": 12056,
-      "added_stars": "78 stars this month"
-    },
-    {
-      "title": "jruby / jruby",
-      "url": "https://github.com/jruby/jruby",
-      "description": "JRuby, an implementation of Ruby on the JVM",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 3923,
-      "forks": 958,
-      "added_stars": "6 stars this month"
+      "stars": 15656,
+      "forks": 13943,
+      "added_stars": "68 stars this month"
     },
     {
       "title": "discourse / discourse",
@@ -180,9 +120,39 @@
       "description": "A platform for community discussion. Free, open, simple.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 48045,
-      "forks": 9061,
-      "added_stars": "202 stars this month"
+      "stars": 48051,
+      "forks": 9063,
+      "added_stars": "204 stars this month"
+    },
+    {
+      "title": "Homebrew / homebrew-cask",
+      "url": "https://github.com/Homebrew/homebrew-cask",
+      "description": "🍻 Default casks (upstream binary packages) for the package manager for everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 22283,
+      "forks": 12063,
+      "added_stars": "76 stars this month"
+    },
+    {
+      "title": "jruby / jruby",
+      "url": "https://github.com/jruby/jruby",
+      "description": "JRuby, an implementation of Ruby on the JVM",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3925,
+      "forks": 958,
+      "added_stars": "7 stars this month"
+    },
+    {
+      "title": "zammad / zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 6081,
+      "forks": 1094,
+      "added_stars": "112 stars this month"
     },
     {
       "title": "hashicorp / vagrant",
@@ -190,19 +160,9 @@
       "description": "Vagrant is a tool for building and distributing development environments.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 27220,
-      "forks": 4496,
+      "stars": 27221,
+      "forks": 4490,
       "added_stars": "41 stars this month"
-    },
-    {
-      "title": "forem / forem",
-      "url": "https://github.com/forem/forem",
-      "description": "For empowering community 🌱",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 22815,
-      "forks": 4191,
-      "added_stars": "53 stars this month"
     },
     {
       "title": "CocoaPods / CocoaPods",
@@ -210,9 +170,39 @@
       "description": "The Cocoa Dependency Manager.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 14835,
-      "forks": 2686,
+      "stars": 14833,
+      "forks": 2685,
       "added_stars": "15 stars this month"
+    },
+    {
+      "title": "ruby / gem_rbs_collection",
+      "url": "https://github.com/ruby/gem_rbs_collection",
+      "description": "A collection of RBS for gems.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 302,
+      "forks": 141,
+      "added_stars": "0 stars this month"
+    },
+    {
+      "title": "rubocop / rubocop",
+      "url": "https://github.com/rubocop/rubocop",
+      "description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 12918,
+      "forks": 3163,
+      "added_stars": "19 stars this month"
+    },
+    {
+      "title": "dependabot / demo",
+      "url": "https://github.com/dependabot/demo",
+      "description": "🤖 Fork me to try out Dependabot",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 347,
+      "forks": 5104,
+      "added_stars": "11 stars this month"
     },
     {
       "title": "instructure / canvas-lms",
@@ -220,7 +210,7 @@
       "description": "The open LMS by Instructure, Inc.",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 6902,
+      "stars": 6903,
       "forks": 3056,
       "added_stars": "49 stars this month"
     }

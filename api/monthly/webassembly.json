@@ -2,17 +2,27 @@
   "title": "GitHub Webassembly Languages Daily Trending",
   "description": "Daily Trending of Webassembly Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
+    {
+      "title": "WebAssembly / component-model",
+      "url": "https://github.com/WebAssembly/component-model",
+      "description": "Repository for design and specification of the Component Model",
+      "language": "WebAssembly",
+      "languageColor": "#04133b",
+      "stars": 1386,
+      "forks": 132,
+      "added_stars": "10 stars this month"
+    },
     {
       "title": "WebAssembly / binaryen",
       "url": "https://github.com/WebAssembly/binaryen",
       "description": "Optimizer and compiler/toolchain library for WebAssembly",
       "language": "WebAssembly",
       "languageColor": "#04133b",
-      "stars": 8675,
-      "forks": 904,
-      "added_stars": "37 stars this month"
+      "stars": 8676,
+      "forks": 906,
+      "added_stars": "38 stars this month"
     }
   ]
 }

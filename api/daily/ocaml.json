@@ -2,7 +2,7 @@
   "title": "GitHub Ocaml Languages Daily Trending",
   "description": "Daily Trending of Ocaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
     {
       "title": "AeneasVerif / aeneas",
@@ -10,9 +10,9 @@
       "description": "A verification toolchain for Rust programs",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 1152,
-      "forks": 143,
-      "added_stars": "9 stars today"
+      "stars": 1160,
+      "forks": 144,
+      "added_stars": "4 stars today"
     },
     {
       "title": "opengrep / opengrep",
@@ -20,18 +20,28 @@
       "description": "🔎 Static code analysis engine to find security issues in code.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 3281,
-      "forks": 288,
-      "added_stars": "5 stars today"
+      "stars": 3285,
+      "forks": 289,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "MinaProtocol / mina",
-      "url": "https://github.com/MinaProtocol/mina",
-      "description": "Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.",
+      "title": "rocq-prover / rocq",
+      "url": "https://github.com/rocq-prover/rocq",
+      "description": "The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.",
       "language": "OCaml",
       "languageColor": "#ef7a08",
-      "stars": 2128,
-      "forks": 587,
+      "stars": 5659,
+      "forks": 771,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "oxcaml / oxcaml",
+      "url": "https://github.com/oxcaml/oxcaml",
+      "description": "OCaml - Oxidized!",
+      "language": "OCaml",
+      "languageColor": "#ef7a08",
+      "stars": 931,
+      "forks": 199,
       "added_stars": "0 stars today"
     }
   ]

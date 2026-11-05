@@ -4,16 +4,16 @@
   <title>GitHub Haskell Languages Daily Trending</title>
   <description>Daily Trending of Haskell Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 04 Nov 2026 08:20:46 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 08:45:04 GMT</pubDate>
   <item>
     <title>simplex-chat / simplex-chat</title>
     <link>https://github.com/simplex-chat/simplex-chat</link>
     <description>SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!</description>
   </item>
   <item>
-    <title>jgm / pandoc</title>
-    <link>https://github.com/jgm/pandoc</link>
-    <description>Universal markup converter</description>
+    <title>hadolint / hadolint</title>
+    <link>https://github.com/hadolint/hadolint</link>
+    <description>Dockerfile linter, validate inline bash, written in Haskell</description>
   </item>
   <item>
     <title>agda / agda</title>
@@ -21,9 +21,9 @@
     <description>Agda is a dependently typed programming language / interactive theorem prover.</description>
   </item>
   <item>
-    <title>hadolint / hadolint</title>
-    <link>https://github.com/hadolint/hadolint</link>
-    <description>Dockerfile linter, validate inline bash, written in Haskell</description>
+    <title>jgm / pandoc</title>
+    <link>https://github.com/jgm/pandoc</link>
+    <description>Universal markup converter</description>
   </item>
   <item>
     <title>haskell / cabal</title>
@@ -41,24 +41,24 @@
     <description>ShellCheck, a static analysis tool for shell scripts</description>
   </item>
   <item>
-    <title>haskell / haskell-language-server</title>
-    <link>https://github.com/haskell/haskell-language-server</link>
-    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
-  </item>
-  <item>
     <title>PostgREST / postgrest</title>
     <link>https://github.com/PostgREST/postgrest</link>
     <description>REST API for any Postgres database</description>
   </item>
   <item>
-    <title>hledgerorg / hledger</title>
-    <link>https://github.com/hledgerorg/hledger</link>
-    <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
+    <title>haskell / haskell-language-server</title>
+    <link>https://github.com/haskell/haskell-language-server</link>
+    <description>Official Haskell IDE support via the language server protocol (LSP)</description>
   </item>
   <item>
     <title>IntersectMBO / cardano-node</title>
     <link>https://github.com/IntersectMBO/cardano-node</link>
     <description>The core component that is used to participate in a Cardano decentralised blockchain.</description>
+  </item>
+  <item>
+    <title>hledgerorg / hledger</title>
+    <link>https://github.com/hledgerorg/hledger</link>
+    <description>Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</description>
   </item>
 </channel>
 </rss>

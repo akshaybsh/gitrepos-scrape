@@ -2,7 +2,7 @@
   "title": "GitHub Systemverilog Languages Daily Trending",
   "description": "Daily Trending of Systemverilog Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:20:46 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
   "items": [
     {
       "title": "verilator / verilator",
@@ -11,18 +11,8 @@
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
       "stars": 4059,
-      "forks": 969,
-      "added_stars": "16 stars this week"
-    },
-    {
-      "title": "lowRISC / opentitan",
-      "url": "https://github.com/lowRISC/opentitan",
-      "description": "OpenTitan: Open source silicon root of trust",
-      "language": "SystemVerilog",
-      "languageColor": "#DAE1C2",
-      "stars": 3736,
-      "forks": 1153,
-      "added_stars": "17 stars this week"
+      "forks": 970,
+      "added_stars": "19 stars this week"
     },
     {
       "title": "lowRISC / ibex",
@@ -30,9 +20,29 @@
       "description": "Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 2157,
-      "forks": 829,
-      "added_stars": "18 stars this week"
+      "stars": 2159,
+      "forks": 830,
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "lowRISC / opentitan",
+      "url": "https://github.com/lowRISC/opentitan",
+      "description": "OpenTitan: Open source silicon root of trust",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 3739,
+      "forks": 1153,
+      "added_stars": "22 stars this week"
+    },
+    {
+      "title": "openhwfoundation / cvw",
+      "url": "https://github.com/openhwfoundation/cvw",
+      "description": "CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.",
+      "language": "SystemVerilog",
+      "languageColor": "#DAE1C2",
+      "stars": 659,
+      "forks": 594,
+      "added_stars": "2 stars this week"
     },
     {
       "title": "adam-maj / tiny-gpu",
@@ -40,9 +50,9 @@
       "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
       "language": "SystemVerilog",
       "languageColor": "#DAE1C2",
-      "stars": 13173,
-      "forks": 1268,
-      "added_stars": "34 stars this week"
+      "stars": 13183,
+      "forks": 1271,
+      "added_stars": "33 stars this week"
     }
   ]
 }

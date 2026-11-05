@@ -2,27 +2,37 @@
   "title": "GitHub Cmake Languages Daily Trending",
   "description": "Daily Trending of Cmake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
-    {
-      "title": "shinchiro / mpv-winbuild-cmake",
-      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
-      "description": "CMake-based MinGW-w64 Cross Toolchain",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 1859,
-      "forks": 278,
-      "added_stars": "3 stars today"
-    },
     {
       "title": "microsoft / vcpkg",
       "url": "https://github.com/microsoft/vcpkg",
       "description": "C++ Library Manager for Windows, Linux, and MacOS",
       "language": "CMake",
       "languageColor": "#DA3434",
-      "stars": 27569,
-      "forks": 7785,
-      "added_stars": "6 stars today"
+      "stars": 27571,
+      "forks": 7787,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "steinbergmedia / vst3sdk",
+      "url": "https://github.com/steinbergmedia/vst3sdk",
+      "description": "VST 3 Plug-In SDK",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 2384,
+      "forks": 234,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "shinchiro / mpv-winbuild-cmake",
+      "url": "https://github.com/shinchiro/mpv-winbuild-cmake",
+      "description": "CMake-based MinGW-w64 Cross Toolchain",
+      "language": "CMake",
+      "languageColor": "#DA3434",
+      "stars": 1862,
+      "forks": 279,
+      "added_stars": "1 star today"
     },
     {
       "title": "corrosion-rs / corrosion",
@@ -42,26 +52,6 @@
       "languageColor": "#DA3434",
       "stars": 855,
       "forks": 56,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "boostorg / cmake",
-      "url": "https://github.com/boostorg/cmake",
-      "description": "CMake support infrastructure Boost submodule",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 119,
-      "forks": 38,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "scaledteam / obs-image-reaction",
-      "url": "https://github.com/scaledteam/obs-image-reaction",
-      "description": "OBS Plugin with image that reacts to sound source.",
-      "language": "CMake",
-      "languageColor": "#DA3434",
-      "stars": 148,
-      "forks": 22,
       "added_stars": "0 stars today"
     }
   ]

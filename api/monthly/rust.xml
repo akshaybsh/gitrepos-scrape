@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 04 Nov 2026 08:23:10 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 08:46:37 GMT</pubDate>
   <item>
     <title>pbakaus / impeccable</title>
     <link>https://github.com/pbakaus/impeccable</link>
@@ -19,6 +19,11 @@
     <title>NVIDIA / OpenShell</title>
     <link>https://github.com/NVIDIA/OpenShell</link>
     <description>OpenShell is the safe, private runtime for autonomous AI agents.</description>
+  </item>
+  <item>
+    <title>storytold / artcraft</title>
+    <link>https://github.com/storytold/artcraft</link>
+    <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
   </item>
   <item>
     <title>xerj-org / xerj</title>
@@ -36,19 +41,14 @@
     <description>Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API &amp; MCP.</description>
   </item>
   <item>
-    <title>lexmount / moli</title>
-    <link>https://github.com/lexmount/moli</link>
-    <description>Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust</description>
-  </item>
-  <item>
     <title>cjpais / Handy</title>
     <link>https://github.com/cjpais/Handy</link>
     <description>A free, open source, and extensible speech-to-text application that works completely offline.</description>
   </item>
   <item>
-    <title>crmne / spotifast</title>
-    <link>https://github.com/crmne/spotifast</link>
-    <description>Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.</description>
+    <title>lexmount / moli</title>
+    <link>https://github.com/lexmount/moli</link>
+    <description>Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust</description>
   </item>
   <item>
     <title>bevyengine / bevy</title>
@@ -56,14 +56,14 @@
     <description>A refreshingly simple data-driven game engine built in Rust</description>
   </item>
   <item>
-    <title>memvid / memvid</title>
-    <link>https://github.com/memvid/memvid</link>
-    <description>Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.</description>
-  </item>
-  <item>
     <title>trymirai / uzu</title>
     <link>https://github.com/trymirai/uzu</link>
     <description>A high-performance inference engine for AI models</description>
+  </item>
+  <item>
+    <title>memvid / memvid</title>
+    <link>https://github.com/memvid/memvid</link>
+    <description>Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.</description>
   </item>
   <item>
     <title>HakanSeven12 / OpenCADStudio</title>
@@ -71,14 +71,9 @@
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
-  </item>
-  <item>
-    <title>denoland / deno</title>
-    <link>https://github.com/denoland/deno</link>
-    <description>A modern runtime for JavaScript and TypeScript.</description>
+    <title>SimoHypers / limusic</title>
+    <link>https://github.com/SimoHypers/limusic</link>
+    <description>Feature rich, native desktop, YouTube Music client.</description>
   </item>
   <item>
     <title>emilk / egui</title>
@@ -86,24 +81,19 @@
     <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
   </item>
   <item>
-    <title>mixelpixx / Konnect</title>
-    <link>https://github.com/mixelpixx/Konnect</link>
-    <description>AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing</description>
+    <title>Mesh-LLM / mesh-llm</title>
+    <link>https://github.com/Mesh-LLM/mesh-llm</link>
+    <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
   </item>
   <item>
-    <title>xingkongliang / skills-manager</title>
-    <link>https://github.com/xingkongliang/skills-manager</link>
-    <description>A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.</description>
+    <title>denoland / deno</title>
+    <link>https://github.com/denoland/deno</link>
+    <description>A modern runtime for JavaScript and TypeScript.</description>
   </item>
   <item>
-    <title>samwhosung / benilla</title>
-    <link>https://github.com/samwhosung/benilla</link>
-    <description>A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy</description>
-  </item>
-  <item>
-    <title>changexbc / workbuddy-switch</title>
-    <link>https://github.com/changexbc/workbuddy-switch</link>
-    <description>WorkBuddy、CodeBuddy 账号切换，支持积分到期监控、积分统计与 Token 统计，agent 状态悬浮窗。</description>
+    <title>rustdesk / rustdesk</title>
+    <link>https://github.com/rustdesk/rustdesk</link>
+    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
 </channel>
 </rss>

@@ -2,8 +2,18 @@
   "title": "GitHub Mlir Languages Daily Trending",
   "description": "Daily Trending of Mlir Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
+    {
+      "title": "triton-lang / triton",
+      "url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "language": "MLIR",
+      "languageColor": "#5EC8DB",
+      "stars": 20522,
+      "forks": 3374,
+      "added_stars": "252 stars this month"
+    },
     {
       "title": "google / heir",
       "url": "https://github.com/google/heir",
@@ -13,16 +23,6 @@
       "stars": 948,
       "forks": 181,
       "added_stars": "22 stars this month"
-    },
-    {
-      "title": "triton-lang / triton",
-      "url": "https://github.com/triton-lang/triton",
-      "description": "Development repository for the Triton language and compiler",
-      "language": "MLIR",
-      "languageColor": "#5EC8DB",
-      "stars": 20514,
-      "forks": 3369,
-      "added_stars": "254 stars this month"
     }
   ]
 }

@@ -2,47 +2,27 @@
   "title": "GitHub Dart Languages Daily Trending",
   "description": "Daily Trending of Dart Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
+    {
+      "title": "GopeedLab / gopeed",
+      "url": "https://github.com/GopeedLab/gopeed",
+      "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 27400,
+      "forks": 1785,
+      "added_stars": "25 stars today"
+    },
     {
       "title": "bggRGjQaUbCoE / PiliPlus",
       "url": "https://github.com/bggRGjQaUbCoE/PiliPlus",
       "description": "PiliPlus",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 20274,
-      "forks": 1584,
-      "added_stars": "77 stars today"
-    },
-    {
-      "title": "xiaoyaocz / dart_simple_live",
-      "url": "https://github.com/xiaoyaocz/dart_simple_live",
-      "description": "简简单单的看直播",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 16224,
-      "forks": 3206,
-      "added_stars": "3 stars today"
-    },
-    {
-      "title": "simonoppowa / OpenNutriTracker",
-      "url": "https://github.com/simonoppowa/OpenNutriTracker",
-      "description": "🍴 OpenNutriTracker is a free and open source calorie tracker with a focus on simplicity and privacy.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 2803,
-      "forks": 399,
-      "added_stars": "9 stars today"
-    },
-    {
-      "title": "KaringX / karing",
-      "url": "https://github.com/KaringX/karing",
-      "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 15922,
-      "forks": 1323,
-      "added_stars": "13 stars today"
+      "stars": 20320,
+      "forks": 1592,
+      "added_stars": "58 stars today"
     },
     {
       "title": "ch6vip / fqapp",
@@ -50,9 +30,9 @@
       "description": "内容聚合 Android 客户端：小说/短剧/漫剧/听书/漫画，Flutter UI + 进程内 Rust 核心，无自建服务器、无需 root",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 1126,
-      "forks": 174,
-      "added_stars": "34 stars today"
+      "stars": 1151,
+      "forks": 180,
+      "added_stars": "36 stars today"
     },
     {
       "title": "kodjodevf / mangayomi",
@@ -60,49 +40,19 @@
       "description": "Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 4342,
-      "forks": 189,
-      "added_stars": "34 stars today"
+      "stars": 4364,
+      "forks": 190,
+      "added_stars": "24 stars today"
     },
     {
-      "title": "AneryCoft / course_helper",
-      "url": "https://github.com/AneryCoft/course_helper",
-      "description": "学习通/雨课堂课程管理，支持签到、随堂练习等功能",
+      "title": "hiddify / hiddify-app",
+      "url": "https://github.com/hiddify/hiddify-app",
+      "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 396,
-      "forks": 47,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "TNT-Likely / BeeCount",
-      "url": "https://github.com/TNT-Likely/BeeCount",
-      "description": "Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 2732,
-      "forks": 371,
-      "added_stars": "6 stars today"
-    },
-    {
-      "title": "getlantern / lantern",
-      "url": "https://github.com/getlantern/lantern",
-      "description": "Open-source VPN for speed, privacy, and censorship circumvention. Free to download on Android, iOS, Windows, macOS, and Linux.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 16660,
-      "forks": 11049,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "hlning / cmbok_app",
-      "url": "https://github.com/hlning/cmbok_app",
-      "description": "你的下一款阅读软件，可以是 Cmbok",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 605,
-      "forks": 40,
-      "added_stars": "6 stars today"
+      "stars": 33656,
+      "forks": 3169,
+      "added_stars": "38 stars today"
     },
     {
       "title": "ComicSparks / jasmine",
@@ -110,49 +60,109 @@
       "description": "A comic browser，support Android / iOS / MacOS / Windows / Linux.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 5519,
-      "forks": 364,
+      "stars": 5521,
+      "forks": 363,
       "added_stars": "5 stars today"
     },
     {
-      "title": "wanghongenpin / proxypin",
-      "url": "https://github.com/wanghongenpin/proxypin",
-      "description": "Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems",
+      "title": "InlitX / GymMane",
+      "url": "https://github.com/InlitX/GymMane",
+      "description": "Offline gym log for Android. No account, no ads, no internet.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 14339,
-      "forks": 1282,
-      "added_stars": "14 stars today"
+      "stars": 1342,
+      "forks": 144,
+      "added_stars": "36 stars today"
     },
     {
-      "title": "GopeedLab / gopeed",
-      "url": "https://github.com/GopeedLab/gopeed",
-      "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+      "title": "ImranR98 / Obtainium",
+      "url": "https://github.com/ImranR98/Obtainium",
+      "description": "Get Android app updates straight from the source.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 27368,
-      "forks": 1786,
-      "added_stars": "32 stars today"
+      "stars": 21224,
+      "forks": 681,
+      "added_stars": "37 stars today"
     },
     {
-      "title": "OpenStrap / edge",
-      "url": "https://github.com/OpenStrap/edge",
-      "description": "App which allows you to use your health devices beyond subscriptions. Supports Workout Tracking, Nutrition Tracking, Wellness Excercise, Sleep, Recovery, Strain, and Many more.",
+      "title": "deckerst / aves",
+      "url": "https://github.com/deckerst/aves",
+      "description": "Aves is a gallery and metadata explorer app, built for Android with Flutter.",
       "language": "Dart",
       "languageColor": "#00B4AB",
-      "stars": 866,
-      "forks": 156,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "rusty4444 / hermes-android",
-      "url": "https://github.com/rusty4444/hermes-android",
-      "description": "Android client for Hermes Agent - chat with your Hermes sessions from a phone or tablet over local Wi-Fi or a private Tailscale network.",
-      "language": "Dart",
-      "languageColor": "#00B4AB",
-      "stars": 478,
-      "forks": 98,
+      "stars": 5490,
+      "forks": 258,
       "added_stars": "2 stars today"
+    },
+    {
+      "title": "akashdh11 / skystream",
+      "url": "https://github.com/akashdh11/skystream",
+      "description": "SkyStream is a modern, cross-platform media streaming client inspired by CloudStream. It uses a custom JavaScript runtime for plugins, allowing users to scrape and stream content from various sources on Android, iOS, Windows, macOS, and Linux from a single codebase.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 678,
+      "forks": 73,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "techjarves / Uncensored-Local-AI-Multiplatform",
+      "url": "https://github.com/techjarves/Uncensored-Local-AI-Multiplatform",
+      "description": "A cross-platform Flutter app that runs uncensored, 100% offline open-source AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total privacy.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 1486,
+      "forks": 358,
+      "added_stars": "9 stars today"
+    },
+    {
+      "title": "openAnimeFlow / AnimeFlow",
+      "url": "https://github.com/openAnimeFlow/AnimeFlow",
+      "description": "跨平台看番 、追番软件,对接Bangumi服务同步用户收藏数据,对接弹弹Play提供弹幕体验，为您提供流畅的观影体验",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 438,
+      "forks": 27,
+      "added_stars": "24 stars today"
+    },
+    {
+      "title": "omnimind-ai / OmniBot",
+      "url": "https://github.com/omnimind-ai/OmniBot",
+      "description": "Your on-phone / mobile AI Agent / Claw, capable of operating terminals and performing a wide range of tasks in the Android world || 你的手机 AI 代理，她可以操作终端，也可以完成 Android 世界的广泛任务",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 2097,
+      "forks": 152,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "Solido / awesome-flutter",
+      "url": "https://github.com/Solido/awesome-flutter",
+      "description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 61795,
+      "forks": 6947,
+      "added_stars": "26 stars today"
+    },
+    {
+      "title": "AppFlowy-IO / AppFlowy",
+      "url": "https://github.com/AppFlowy-IO/AppFlowy",
+      "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 78217,
+      "forks": 6178,
+      "added_stars": "50 stars today"
+    },
+    {
+      "title": "KaringX / karing",
+      "url": "https://github.com/KaringX/karing",
+      "description": "Simple & Powerful proxy utility, Support routing rules for clash/sing-box",
+      "language": "Dart",
+      "languageColor": "#00B4AB",
+      "stars": 15947,
+      "forks": 1325,
+      "added_stars": "33 stars today"
     }
   ]
 }

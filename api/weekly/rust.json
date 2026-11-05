@@ -2,7 +2,7 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:20:46 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
   "items": [
     {
       "title": "pbakaus / impeccable",
@@ -10,9 +10,9 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 101860,
-      "forks": 6004,
-      "added_stars": "11,405 stars this week"
+      "stars": 103219,
+      "forks": 6111,
+      "added_stars": "10,921 stars this week"
     },
     {
       "title": "max-sixty / worktrunk",
@@ -20,19 +20,9 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10688,
-      "forks": 392,
-      "added_stars": "749 stars this week"
-    },
-    {
-      "title": "openai / codex",
-      "url": "https://github.com/openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 133083,
-      "forks": 21071,
-      "added_stars": "1,945 stars this week"
+      "stars": 11235,
+      "forks": 422,
+      "added_stars": "1,261 stars this week"
     },
     {
       "title": "herdrdev / herdr",
@@ -40,19 +30,9 @@
       "description": "the runtime your coding agents live on",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 47962,
-      "forks": 3847,
-      "added_stars": "1,719 stars this week"
-    },
-    {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37408,
-      "forks": 3524,
-      "added_stars": "2,471 stars this week"
+      "stars": 48186,
+      "forks": 3869,
+      "added_stars": "1,797 stars this week"
     },
     {
       "title": "agentgateway / agentgateway",
@@ -60,19 +40,29 @@
       "description": "Next Generation Agentic Proxy for AI Agents and MCP servers",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 5927,
-      "forks": 1048,
+      "stars": 5948,
+      "forks": 1050,
       "added_stars": "228 stars this week"
     },
     {
-      "title": "macro-inc / macro",
-      "url": "https://github.com/macro-inc/macro",
-      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "title": "cjpais / Handy",
+      "url": "https://github.com/cjpais/Handy",
+      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 6132,
-      "forks": 570,
-      "added_stars": "1,044 stars this week"
+      "stars": 37574,
+      "forks": 3546,
+      "added_stars": "2,547 stars this week"
+    },
+    {
+      "title": "Mesh-LLM / mesh-llm",
+      "url": "https://github.com/Mesh-LLM/mesh-llm",
+      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 3944,
+      "forks": 499,
+      "added_stars": "359 stars this week"
     },
     {
       "title": "Nasiko-Labs / nasiko",
@@ -80,59 +70,19 @@
       "description": "The Open Runtime for AI Agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 11704,
-      "forks": 3157,
-      "added_stars": "2,142 stars this week"
+      "stars": 11790,
+      "forks": 3205,
+      "added_stars": "2,234 stars this week"
     },
     {
-      "title": "xai-org / x-algorithm",
-      "url": "https://github.com/xai-org/x-algorithm",
-      "description": "Algorithm powering the For You feed on X",
+      "title": "macro-inc / macro",
+      "url": "https://github.com/macro-inc/macro",
+      "description": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 34052,
-      "forks": 5504,
-      "added_stars": "233 stars this week"
-    },
-    {
-      "title": "leepokai / Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1850,
-      "forks": 185,
-      "added_stars": "865 stars this week"
-    },
-    {
-      "title": "ruvnet / RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 102309,
-      "forks": 13291,
-      "added_stars": "2,174 stars this week"
-    },
-    {
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 45448,
-      "forks": 3118,
-      "added_stars": "706 stars this week"
-    },
-    {
-      "title": "trymirai / uzu",
-      "url": "https://github.com/trymirai/uzu",
-      "description": "A high-performance inference engine for AI models",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3209,
-      "forks": 220,
-      "added_stars": "487 stars this week"
+      "stars": 6153,
+      "forks": 572,
+      "added_stars": "934 stars this week"
     },
     {
       "title": "zed-industries / zed",
@@ -140,19 +90,39 @@
       "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 92648,
-      "forks": 11397,
-      "added_stars": "409 stars this week"
+      "stars": 92758,
+      "forks": 11411,
+      "added_stars": "396 stars this week"
     },
     {
-      "title": "CapSoftware / Cap",
-      "url": "https://github.com/CapSoftware/Cap",
-      "description": "Open source Loom alternative. Beautiful, shareable screen recordings.",
+      "title": "leepokai / Codync",
+      "url": "https://github.com/leepokai/Codync",
+      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 24338,
-      "forks": 2242,
-      "added_stars": "426 stars this week"
+      "stars": 1885,
+      "forks": 195,
+      "added_stars": "895 stars this week"
+    },
+    {
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 45584,
+      "forks": 3137,
+      "added_stars": "767 stars this week"
+    },
+    {
+      "title": "openai / codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 133268,
+      "forks": 21108,
+      "added_stars": "1,863 stars this week"
     },
     {
       "title": "SimoHypers / limusic",
@@ -160,29 +130,19 @@
       "description": "Feature rich, native desktop, YouTube Music client.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 1778,
-      "forks": 116,
-      "added_stars": "434 stars this week"
+      "stars": 1806,
+      "forks": 117,
+      "added_stars": "387 stars this week"
     },
     {
-      "title": "stalwartlabs / stalwart",
-      "url": "https://github.com/stalwartlabs/stalwart",
-      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "title": "xai-org / x-algorithm",
+      "url": "https://github.com/xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 15713,
-      "forks": 1039,
-      "added_stars": "301 stars this week"
-    },
-    {
-      "title": "pollen-robotics / microduck",
-      "url": "https://github.com/pollen-robotics/microduck",
-      "description": "A Tiny biped duck robot 🦆",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13414,
-      "forks": 1682,
-      "added_stars": "700 stars this week"
+      "stars": 34091,
+      "forks": 5508,
+      "added_stars": "230 stars this week"
     },
     {
       "title": "NVIDIA / cuda-rust",
@@ -190,19 +150,39 @@
       "description": "NVIDIA's CUDA platform for Rust. Host runtime crates plus Tile (cutile-rs) and SIMT (cuda-oxide) kernel programming models in idiomatic Rust.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 3975,
-      "forks": 356,
-      "added_stars": "138 stars this week"
+      "stars": 3982,
+      "forks": 359,
+      "added_stars": "145 stars this week"
     },
     {
-      "title": "AprilNEA / OpenLogi",
-      "url": "https://github.com/AprilNEA/OpenLogi",
-      "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
+      "title": "ruvnet / RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 25072,
-      "forks": 907,
-      "added_stars": "748 stars this week"
+      "stars": 102465,
+      "forks": 13301,
+      "added_stars": "1,791 stars this week"
+    },
+    {
+      "title": "stalwartlabs / stalwart",
+      "url": "https://github.com/stalwartlabs/stalwart",
+      "description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 15732,
+      "forks": 1040,
+      "added_stars": "279 stars this week"
+    },
+    {
+      "title": "openinterpreter / openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "description": "A coding agent for open models like Kimi K3 and GLM 5.3",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 68794,
+      "forks": 5934,
+      "added_stars": "117 stars this week"
     }
   ]
 }

@@ -2,77 +2,47 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
+    {
+      "title": "microsoft / onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 22237,
+      "forks": 4408,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "MaaAssistantArknights / MaaAssistantArknights",
+      "url": "https://github.com/MaaAssistantArknights/MaaAssistantArknights",
+      "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 24332,
+      "forks": 2931,
+      "added_stars": "41 stars today"
+    },
     {
       "title": "hyprwm / Hyprland",
       "url": "https://github.com/hyprwm/Hyprland",
       "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40255,
-      "forks": 2165,
-      "added_stars": "526 stars today"
+      "stars": 40321,
+      "forks": 2168,
+      "added_stars": "109 stars today"
     },
     {
-      "title": "meshtastic / firmware",
-      "url": "https://github.com/meshtastic/firmware",
-      "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+      "title": "kvcache-ai / Mooncake",
+      "url": "https://github.com/kvcache-ai/Mooncake",
+      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 8527,
-      "forks": 2887,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "audacity / audacity",
-      "url": "https://github.com/audacity/audacity",
-      "description": "Audio Editor",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 18950,
-      "forks": 2714,
-      "added_stars": "21 stars today"
-    },
-    {
-      "title": "aardappel / goose",
-      "url": "https://github.com/aardappel/goose",
-      "description": "The Goose Programming Language",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 2963,
-      "forks": 118,
-      "added_stars": "133 stars today"
-    },
-    {
-      "title": "jomjol / AI-on-the-edge-device",
-      "url": "https://github.com/jomjol/AI-on-the-edge-device",
-      "description": "Easy to use device for connecting \"old\" measuring units (water, power, gas, ...) to the digital world",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 8950,
-      "forks": 944,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "geode-sdk / geode",
-      "url": "https://github.com/geode-sdk/geode",
-      "description": "The ultimate Geometry Dash modding framework",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3229,
-      "forks": 639,
-      "added_stars": "14 stars today"
-    },
-    {
-      "title": "Adaptix-Framework / AdaptixC2",
-      "url": "https://github.com/Adaptix-Framework/AdaptixC2",
-      "description": "AdaptixC2 is a highly modular advanced redteam toolkit",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 3832,
-      "forks": 702,
-      "added_stars": "4 stars today"
+      "stars": 6982,
+      "forks": 1440,
+      "added_stars": "12 stars today"
     },
     {
       "title": "google / googletest",
@@ -80,49 +50,49 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39702,
-      "forks": 10933,
-      "added_stars": "8 stars today"
+      "stars": 39708,
+      "forks": 10934,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "jimmgreen / pulse",
-      "url": "https://github.com/jimmgreen/pulse",
-      "description": "为 Windows 打造的现代文件管理器，让浏览、搜索和整理文件更顺手。 | QQ Group 1043250162",
+      "title": "ros-navigation / navigation2",
+      "url": "https://github.com/ros-navigation/navigation2",
+      "description": "ROS 2 Navigation Framework and System",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 1300,
-      "forks": 99,
-      "added_stars": "36 stars today"
+      "stars": 5006,
+      "forks": 2013,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "leejet / stable-diffusion.cpp",
-      "url": "https://github.com/leejet/stable-diffusion.cpp",
-      "description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++",
+      "title": "dariulone / cyberpunk-vr-port",
+      "url": "https://github.com/dariulone/cyberpunk-vr-port",
+      "description": "",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 7888,
-      "forks": 925,
-      "added_stars": "18 stars today"
+      "stars": 473,
+      "forks": 53,
+      "added_stars": "17 stars today"
     },
     {
-      "title": "DamRsn / NeuralNote",
-      "url": "https://github.com/DamRsn/NeuralNote",
-      "description": "Audio Plugin for Audio to MIDI transcription using deep learning.",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 3391,
-      "forks": 244,
-      "added_stars": "16 stars today"
+      "stars": 201314,
+      "forks": 78237,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "78 / xiaozhi-esp32",
-      "url": "https://github.com/78/xiaozhi-esp32",
-      "description": "An MCP-based chatbot | 一个基于MCP的聊天机器人",
+      "title": "cloudflare / workerd",
+      "url": "https://github.com/cloudflare/workerd",
+      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 32577,
-      "forks": 7681,
-      "added_stars": "71 stars today"
+      "stars": 9130,
+      "forks": 824,
+      "added_stars": "6 stars today"
     }
   ]
 }

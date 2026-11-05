@@ -2,7 +2,7 @@
   "title": "GitHub Swift Languages Daily Trending",
   "description": "Daily Trending of Swift Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
     {
       "title": "krahets / hello-algo",
@@ -10,9 +10,9 @@
       "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 131925,
-      "forks": 15597,
-      "added_stars": "1,845 stars this month"
+      "stars": 131948,
+      "forks": 15598,
+      "added_stars": "1,857 stars this month"
     },
     {
       "title": "xtool-org / xtool",
@@ -20,9 +20,9 @@
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 14631,
-      "forks": 816,
-      "added_stars": "9,129 stars this month"
+      "stars": 14771,
+      "forks": 830,
+      "added_stars": "9,195 stars this month"
     },
     {
       "title": "manaflow-ai / cmux",
@@ -30,19 +30,9 @@
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 28682,
-      "forks": 2622,
-      "added_stars": "1,304 stars this month"
-    },
-    {
-      "title": "kaishi00 / hermes-conduit",
-      "url": "https://github.com/kaishi00/hermes-conduit",
-      "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 517,
-      "forks": 71,
-      "added_stars": "345 stars this month"
+      "stars": 28707,
+      "forks": 2625,
+      "added_stars": "1,306 stars this month"
     },
     {
       "title": "TelegramMessenger / Telegram-iOS",
@@ -50,9 +40,19 @@
       "description": "Telegram-iOS",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 9393,
-      "forks": 3210,
-      "added_stars": "282 stars this month"
+      "stars": 9399,
+      "forks": 3219,
+      "added_stars": "283 stars this month"
+    },
+    {
+      "title": "kaishi00 / hermes-conduit",
+      "url": "https://github.com/kaishi00/hermes-conduit",
+      "description": "Conduit — native SwiftUI iOS client for Hermes Agent",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 523,
+      "forks": 77,
+      "added_stars": "346 stars this month"
     },
     {
       "title": "jithin-sabu / purge-app",
@@ -60,39 +60,9 @@
       "description": "Free up your Mac. Safely. A free, open-source native Mac app that clears the cache and junk your Mac piles up on its own. Files go to the Trash by default, so you can put them back.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 1512,
+      "stars": 1520,
       "forks": 83,
-      "added_stars": "520 stars this month"
-    },
-    {
-      "title": "LiveContainer / LiveContainer",
-      "url": "https://github.com/LiveContainer/LiveContainer",
-      "description": "Run iOS apps without actually installing them!",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 13783,
-      "forks": 1273,
-      "added_stars": "1,263 stars this month"
-    },
-    {
-      "title": "altstoreio / AltStore",
-      "url": "https://github.com/altstoreio/AltStore",
-      "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 14844,
-      "forks": 1700,
-      "added_stars": "403 stars this month"
-    },
-    {
-      "title": "PlayCover / PlayCover",
-      "url": "https://github.com/PlayCover/PlayCover",
-      "description": "Community fork of PlayCover",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 12088,
-      "forks": 1030,
-      "added_stars": "287 stars this month"
+      "added_stars": "523 stars this month"
     },
     {
       "title": "iliyami / MacSai",
@@ -100,19 +70,29 @@
       "description": "Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2079,
+      "stars": 2088,
       "forks": 130,
-      "added_stars": "391 stars this month"
+      "added_stars": "395 stars this month"
     },
     {
-      "title": "iFurySt / open-computer-use",
-      "url": "https://github.com/iFurySt/open-computer-use",
-      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+      "title": "FluidInference / FluidAudio",
+      "url": "https://github.com/FluidInference/FluidAudio",
+      "description": "Frontier CoreML audio models in your apps — text-to-speech, speech-to-text, voice activity detection, and speaker diarization. In Swift, powered by SOTA open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 2837,
-      "forks": 258,
-      "added_stars": "532 stars this month"
+      "stars": 3262,
+      "forks": 504,
+      "added_stars": "316 stars this month"
+    },
+    {
+      "title": "PlayCover / PlayCover",
+      "url": "https://github.com/PlayCover/PlayCover",
+      "description": "Community fork of PlayCover",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 12095,
+      "forks": 1030,
+      "added_stars": "286 stars this month"
     },
     {
       "title": "claration / feather",
@@ -120,9 +100,39 @@
       "description": "Free on-device iOS/iPadOS application manager/installer, using certificates part of the Apple Developer Program.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 5003,
-      "forks": 466,
-      "added_stars": "240 stars this month"
+      "stars": 5011,
+      "forks": 469,
+      "added_stars": "247 stars this month"
+    },
+    {
+      "title": "iFurySt / open-computer-use",
+      "url": "https://github.com/iFurySt/open-computer-use",
+      "description": "👾 Open Computer Use – Open-Source Alternative to Codex Computer Use",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 2853,
+      "forks": 259,
+      "added_stars": "534 stars this month"
+    },
+    {
+      "title": "LiveContainer / LiveContainer",
+      "url": "https://github.com/LiveContainer/LiveContainer",
+      "description": "Run iOS apps without actually installing them!",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 13806,
+      "forks": 1279,
+      "added_stars": "1,278 stars this month"
+    },
+    {
+      "title": "utmapp / UTM",
+      "url": "https://github.com/utmapp/UTM",
+      "description": "Virtual machines for iOS and macOS",
+      "language": "Swift",
+      "languageColor": "#F05138",
+      "stars": 36707,
+      "forks": 1899,
+      "added_stars": "1,044 stars this month"
     },
     {
       "title": "milika / SmartTubeIOS",
@@ -130,29 +140,19 @@
       "description": "Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV & Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 537,
-      "forks": 81,
-      "added_stars": "160 stars this month"
+      "stars": 540,
+      "forks": 82,
+      "added_stars": "159 stars this month"
     },
     {
-      "title": "permissionlesstech / bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "description": "bluetooth mesh chat, IRC vibes",
+      "title": "altstoreio / AltStore",
+      "url": "https://github.com/altstoreio/AltStore",
+      "description": "AltStore is an alternative app store for non-jailbroken iOS devices.",
       "language": "Swift",
       "languageColor": "#F05138",
-      "stars": 37071,
-      "forks": 5890,
-      "added_stars": "846 stars this month"
-    },
-    {
-      "title": "github / CopilotForXcode",
-      "url": "https://github.com/github/CopilotForXcode",
-      "description": "AI coding assistant for Xcode",
-      "language": "Swift",
-      "languageColor": "#F05138",
-      "stars": 6363,
-      "forks": 2081,
-      "added_stars": "80 stars this month"
+      "stars": 14858,
+      "forks": 1702,
+      "added_stars": "410 stars this month"
     }
   ]
 }

@@ -2,46 +2,66 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
-    {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 4424,
-      "forks": 1819,
-      "added_stars": "7 stars today"
-    },
-    {
-      "title": "leanprover / verso",
-      "url": "https://github.com/leanprover/verso",
-      "description": "Lean documentation authoring tool",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 405,
-      "forks": 131,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "leanprover / lean4",
       "url": "https://github.com/leanprover/lean4",
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9865,
-      "forks": 1086,
-      "added_stars": "27 stars today"
+      "stars": 9880,
+      "forks": 1091,
+      "added_stars": "18 stars today"
     },
     {
-      "title": "strata-org / Strata",
-      "url": "https://github.com/strata-org/Strata",
-      "description": "",
+      "title": "google-deepmind / formal-conjectures",
+      "url": "https://github.com/google-deepmind/formal-conjectures",
+      "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 287,
-      "forks": 62,
+      "stars": 1351,
+      "forks": 571,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 4431,
+      "forks": 1822,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "leanprover-community / mathlib3",
+      "url": "https://github.com/leanprover-community/mathlib3",
+      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 1666,
+      "forks": 291,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / batteries",
+      "url": "https://github.com/leanprover-community/batteries",
+      "description": "The \"batteries included\" extended library for the Lean programming language and theorem prover",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 431,
+      "forks": 171,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "leanprover / lean4-cli",
+      "url": "https://github.com/leanprover/lean4-cli",
+      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 125,
+      "forks": 30,
       "added_stars": "0 stars today"
     }
   ]

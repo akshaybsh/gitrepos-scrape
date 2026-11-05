@@ -2,87 +2,137 @@
   "title": "GitHub Go Languages Daily Trending",
   "description": "Daily Trending of Go Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
-    {
-      "title": "vxcontrol / pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 33237,
-      "forks": 5185,
-      "added_stars": "133 stars today"
-    },
-    {
-      "title": "qax-os / excelize",
-      "url": "https://github.com/qax-os/excelize",
-      "description": "Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 21059,
-      "forks": 1988,
-      "added_stars": "14 stars today"
-    },
     {
       "title": "Asymptote-Labs / agent-beacon",
       "url": "https://github.com/Asymptote-Labs/agent-beacon",
       "description": "The cross-harness, self-improving memory layer for AI agents. Join our community: https://discord.com/invite/zdNChS2fBu",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 3251,
-      "forks": 288,
-      "added_stars": "193 stars today"
+      "stars": 3298,
+      "forks": 290,
+      "added_stars": "73 stars today"
     },
     {
-      "title": "cilium / cilium",
-      "url": "https://github.com/cilium/cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
+      "title": "guohuiyuan / go-music-dl",
+      "url": "https://github.com/guohuiyuan/go-music-dl",
+      "description": "一个基于 Go 语言的全网音乐搜索与下载工具。支持 CLI 命令行与 Web 服务双模式，内置网易云、QQ、酷狗、Bilibili、汽水音乐等 10+ 个主流平台，支持多源并发搜索与无损音质解析。music-dl交流群：755087923",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 25768,
-      "forks": 4211,
+      "stars": 6018,
+      "forks": 570,
+      "added_stars": "87 stars today"
+    },
+    {
+      "title": "superplanehq / superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "description": "Open source factory for one-shot engineering",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 8799,
+      "forks": 691,
+      "added_stars": "58 stars today"
+    },
+    {
+      "title": "xpzouying / xiaohongshu-mcp",
+      "url": "https://github.com/xpzouying/xiaohongshu-mcp",
+      "description": "MCP for xiaohongshu.com",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 16916,
+      "forks": 2482,
+      "added_stars": "43 stars today"
+    },
+    {
+      "title": "pocket-id / pocket-id",
+      "url": "https://github.com/pocket-id/pocket-id",
+      "description": "The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 10011,
+      "forks": 350,
+      "added_stars": "38 stars today"
+    },
+    {
+      "title": "m5stack / StackChan",
+      "url": "https://github.com/m5stack/StackChan",
+      "description": "StackChan open source!",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 1499,
+      "forks": 423,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "influxdata / telegraf",
+      "url": "https://github.com/influxdata/telegraf",
+      "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17895,
+      "forks": 5849,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "QuantumNous / new-api",
+      "url": "https://github.com/QuantumNous/new-api",
+      "description": "Open-source AI gateway. Self-hosted LLM gateway with OpenAI-, Claude- and Gemini-compatible APIs, model routing, access control, usage tracking and cost accounting.",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 51409,
+      "forks": 12483,
+      "added_stars": "75 stars today"
+    },
+    {
+      "title": "coder / coder",
+      "url": "https://github.com/coder/coder",
+      "description": "Secure environments for developers and their agents",
+      "language": "Go",
+      "languageColor": "#00ADD8",
+      "stars": 17282,
+      "forks": 1646,
       "added_stars": "10 stars today"
     },
     {
-      "title": "argoproj / argo-cd",
-      "url": "https://github.com/argoproj/argo-cd",
-      "description": "Declarative Continuous Deployment for Kubernetes",
+      "title": "Tencent / WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 24533,
-      "forks": 8094,
-      "added_stars": "11 stars today"
+      "stars": 36542,
+      "forks": 4998,
+      "added_stars": "103 stars today"
     },
     {
-      "title": "JuliusBrussee / caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "title": "egoist / kero",
+      "url": "https://github.com/egoist/kero",
+      "description": "A cross-platform native terminal app optimized for agents",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 117320,
-      "forks": 6808,
-      "added_stars": "266 stars today"
+      "stars": 1420,
+      "forks": 141,
+      "added_stars": "27 stars today"
     },
     {
-      "title": "gastownhall / beads",
-      "url": "https://github.com/gastownhall/beads",
-      "description": "Beads - A memory upgrade for your coding agent",
+      "title": "moby / buildkit",
+      "url": "https://github.com/moby/buildkit",
+      "description": "concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 28470,
-      "forks": 1922,
-      "added_stars": "42 stars today"
+      "stars": 10368,
+      "forks": 1563,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "CarterPerez-dev / Cybersecurity-Projects",
-      "url": "https://github.com/CarterPerez-dev/Cybersecurity-Projects",
-      "description": "Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Owned by my cybersecurity company 👇",
+      "title": "mcpjungle / MCPJungle",
+      "url": "https://github.com/mcpjungle/MCPJungle",
+      "description": "One place to manage & connect to all your MCP servers",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 9035,
-      "forks": 1335,
-      "added_stars": "44 stars today"
+      "stars": 1598,
+      "forks": 201,
+      "added_stars": "51 stars today"
     },
     {
       "title": "gdy666 / lucky",
@@ -90,79 +140,49 @@
       "description": "软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,rclone,ftp,webdav,filebrowser",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 8322,
-      "forks": 746,
-      "added_stars": "15 stars today"
+      "stars": 8339,
+      "forks": 747,
+      "added_stars": "7 stars today"
     },
     {
-      "title": "warmbly / warmbly",
-      "url": "https://github.com/warmbly/warmbly",
-      "description": "The largest open-source B2B cold outreach and email warmup service.",
+      "title": "ys-ll / uniterm",
+      "url": "https://github.com/ys-ll/uniterm",
+      "description": "All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 918,
-      "forks": 160,
-      "added_stars": "55 stars today"
+      "stars": 1040,
+      "forks": 169,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "mayswind / ezbookkeeping",
-      "url": "https://github.com/mayswind/ezbookkeeping",
-      "description": "ezBookkeeping is an open source, powerful, self-hosted personal finance app that is easy to use.",
+      "title": "ccfos / nightingale",
+      "url": "https://github.com/ccfos/nightingale",
+      "description": "Open-source, self-hosted alerting for metrics, logs, and databases. Includes a built-in AI agent and MCP server.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 5980,
-      "forks": 745,
-      "added_stars": "21 stars today"
+      "stars": 13447,
+      "forks": 1798,
+      "added_stars": "3 stars today"
     },
     {
-      "title": "multica-ai / multica",
-      "url": "https://github.com/multica-ai/multica",
-      "description": "Make humans and AI agents work as one team — open-source and self-hostable.",
+      "title": "argoproj / argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "description": "Declarative Continuous Deployment for Kubernetes",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 54833,
-      "forks": 7222,
-      "added_stars": "128 stars today"
+      "stars": 24545,
+      "forks": 8095,
+      "added_stars": "12 stars today"
     },
     {
-      "title": "avelino / awesome-go",
-      "url": "https://github.com/avelino/awesome-go",
-      "description": "A curated list of awesome Go frameworks, libraries and software",
+      "title": "mudler / LocalAI",
+      "url": "https://github.com/mudler/LocalAI",
+      "description": "LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.",
       "language": "Go",
       "languageColor": "#00ADD8",
-      "stars": 191976,
-      "forks": 13699,
-      "added_stars": "192 stars today"
-    },
-    {
-      "title": "aquasecurity / trivy",
-      "url": "https://github.com/aquasecurity/trivy",
-      "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 38963,
-      "forks": 819,
-      "added_stars": "17 stars today"
-    },
-    {
-      "title": "keploy / keploy",
-      "url": "https://github.com/keploy/keploy",
-      "description": "Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 19322,
-      "forks": 2448,
-      "added_stars": "221 stars today"
-    },
-    {
-      "title": "Christ9038 / Ydisks-Xianyu-Helper",
-      "url": "https://github.com/Christ9038/Ydisks-Xianyu-Helper",
-      "description": "闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建",
-      "language": "Go",
-      "languageColor": "#00ADD8",
-      "stars": 2203,
-      "forks": 616,
-      "added_stars": "15 stars today"
+      "stars": 50210,
+      "forks": 4578,
+      "added_stars": "35 stars today"
     }
   ]
 }

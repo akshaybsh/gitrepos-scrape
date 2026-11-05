@@ -2,37 +2,47 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
+    {
+      "title": "FareedKhan-dev / kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 10568,
+      "forks": 1651,
+      "added_stars": "351 stars today"
+    },
     {
       "title": "JustVugg / colibri",
       "url": "https://github.com/JustVugg/colibri",
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 47453,
-      "forks": 5482,
-      "added_stars": "802 stars today"
+      "stars": 47893,
+      "forks": 5562,
+      "added_stars": "642 stars today"
     },
     {
-      "title": "meshcore-dev / MeshCore",
-      "url": "https://github.com/meshcore-dev/MeshCore",
-      "description": "A new lightweight, hybrid routing mesh protocol for packet radios",
+      "title": "dorianborian / sesame-robot",
+      "url": "https://github.com/dorianborian/sesame-robot",
+      "description": "An open and affordable mini quadruped robot based on ESP32.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3987,
-      "forks": 1543,
-      "added_stars": "11 stars today"
+      "stars": 4956,
+      "forks": 681,
+      "added_stars": "14 stars today"
     },
     {
-      "title": "opa334 / Dopamine",
-      "url": "https://github.com/opa334/Dopamine",
-      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "title": "radareorg / radare2",
+      "url": "https://github.com/radareorg/radare2",
+      "description": "UNIX-like reverse engineering framework and command-line toolset",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7212,
-      "forks": 6512,
-      "added_stars": "18 stars today"
+      "stars": 25321,
+      "forks": 3418,
+      "added_stars": "25 stars today"
     },
     {
       "title": "YizhengWw / HachimoDock",
@@ -40,69 +50,29 @@
       "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 830,
-      "forks": 80,
-      "added_stars": "77 stars today"
+      "stars": 875,
+      "forks": 85,
+      "added_stars": "67 stars today"
     },
     {
-      "title": "rizinorg / rizin",
-      "url": "https://github.com/rizinorg/rizin",
-      "description": "UNIX-like reverse engineering framework and command-line toolset.",
+      "title": "vedderb / bldc",
+      "url": "https://github.com/vedderb/bldc",
+      "description": "The VESC motor control firmware",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4122,
-      "forks": 690,
-      "added_stars": "16 stars today"
+      "stars": 3563,
+      "forks": 2000,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "coolsnowwolf / lede",
-      "url": "https://github.com/coolsnowwolf/lede",
-      "description": "Lean's LEDE source",
+      "title": "Serial-Studio / Serial-Studio",
+      "url": "https://github.com/Serial-Studio/Serial-Studio",
+      "description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 31610,
-      "forks": 19055,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "xmrig / xmrig",
-      "url": "https://github.com/xmrig/xmrig",
-      "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 10201,
-      "forks": 3845,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "FreeRDP / FreeRDP",
-      "url": "https://github.com/FreeRDP/FreeRDP",
-      "description": "FreeRDP is a free remote desktop protocol library and clients",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 13959,
-      "forks": 15576,
-      "added_stars": "16 stars today"
-    },
-    {
-      "title": "git / git",
-      "url": "https://github.com/git/git",
-      "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 64154,
-      "forks": 28733,
-      "added_stars": "30 stars today"
-    },
-    {
-      "title": "valinet / ExplorerPatcher",
-      "url": "https://github.com/valinet/ExplorerPatcher",
-      "description": "This project aims to enhance the working environment on Windows",
-      "language": "C",
-      "languageColor": "#555555",
-      "stars": 34222,
-      "forks": 1386,
-      "added_stars": "10 stars today"
+      "stars": 7309,
+      "forks": 1102,
+      "added_stars": "6 stars today"
     }
   ]
 }

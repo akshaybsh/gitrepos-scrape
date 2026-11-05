@@ -4,7 +4,7 @@
   <title>GitHub Python Languages Daily Trending</title>
   <description>Daily Trending of Python Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Wed, 04 Nov 2026 08:23:10 GMT</pubDate>
+  <pubDate>Thu, 05 Nov 2026 08:46:37 GMT</pubDate>
   <item>
     <title>debpalash / VoiceStudio</title>
     <link>https://github.com/debpalash/VoiceStudio</link>
@@ -26,19 +26,14 @@
     <description>Official, Anthropic-managed directory of high quality Claude Code Plugins.</description>
   </item>
   <item>
-    <title>AgriciDaniel / claude-seo</title>
-    <link>https://github.com/AgriciDaniel/claude-seo</link>
-    <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
-  </item>
-  <item>
-    <title>Panniantong / Agent-Reach</title>
-    <link>https://github.com/Panniantong/Agent-Reach</link>
-    <description>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
-  </item>
-  <item>
     <title>HKUDS / DeepTutor</title>
     <link>https://github.com/HKUDS/DeepTutor</link>
     <description>DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.</description>
+  </item>
+  <item>
+    <title>AgriciDaniel / claude-seo</title>
+    <link>https://github.com/AgriciDaniel/claude-seo</link>
+    <description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</description>
   </item>
   <item>
     <title>calesthio / OpenMontage</title>
@@ -56,9 +51,9 @@
     <description>&quot;CLI-Anything: Making ALL Software Agent-Native&quot; -- CLI-Hub: https://clianything.cc/</description>
   </item>
   <item>
-    <title>NVIDIA / SkillSpector</title>
-    <link>https://github.com/NVIDIA/SkillSpector</link>
-    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
+    <title>Panniantong / Agent-Reach</title>
+    <link>https://github.com/Panniantong/Agent-Reach</link>
+    <description>Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.</description>
   </item>
   <item>
     <title>wshobson / agents</title>
@@ -66,9 +61,19 @@
     <description>Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi</description>
   </item>
   <item>
+    <title>NVIDIA / SkillSpector</title>
+    <link>https://github.com/NVIDIA/SkillSpector</link>
+    <description>Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, security risks, prompt injection, data exfiltration, and supply-chain risks in Claude Code, Codex, and MCP skills before you install them.</description>
+  </item>
+  <item>
     <title>Alishahryar1 / free-claude-code</title>
     <link>https://github.com/Alishahryar1/free-claude-code</link>
     <description>Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)</description>
+  </item>
+  <item>
+    <title>beenuar / AiSOC</title>
+    <link>https://github.com/beenuar/AiSOC</link>
+    <description>Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.</description>
   </item>
   <item>
     <title>luongnv89 / claude-howto</title>
@@ -76,9 +81,14 @@
     <description>A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.</description>
   </item>
   <item>
-    <title>beenuar / AiSOC</title>
-    <link>https://github.com/beenuar/AiSOC</link>
-    <description>Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.</description>
+    <title>ahujasid / mcp-for-blender</title>
+    <link>https://github.com/ahujasid/mcp-for-blender</link>
+    <description>Community plugin to control Blender 3D with any LLM of your choice. Not affiliated with the official Blender Foundation.</description>
+  </item>
+  <item>
+    <title>Kruk2 / jasna</title>
+    <link>https://github.com/Kruk2/jasna</link>
+    <description>Video restoration tool</description>
   </item>
 </channel>
 </rss>

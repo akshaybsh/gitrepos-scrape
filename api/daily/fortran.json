@@ -2,16 +2,16 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 407,
-      "forks": 790,
+      "stars": 450,
+      "forks": 486,
       "added_stars": "0 stars today"
     },
     {
@@ -21,17 +21,7 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 28,
-      "forks": 50,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "MetOffice / lfric_core",
-      "url": "https://github.com/MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 26,
-      "forks": 76,
+      "forks": 51,
       "added_stars": "0 stars today"
     },
     {
@@ -45,13 +35,13 @@
       "added_stars": "1 star today"
     },
     {
-      "title": "ElmerCSC / elmerfem",
-      "url": "https://github.com/ElmerCSC/elmerfem",
-      "description": "Official git repository of Elmer FEM software",
+      "title": "MetOffice / lfric_core",
+      "url": "https://github.com/MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1752,
-      "forks": 409,
+      "stars": 26,
+      "forks": 76,
       "added_stars": "0 stars today"
     },
     {
@@ -65,14 +55,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "wrf-model / WRF",
-      "url": "https://github.com/wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1798,
-      "forks": 898,
-      "added_stars": "1 star today"
+      "stars": 53,
+      "forks": 21,
+      "added_stars": "0 stars today"
     },
     {
       "title": "NGEET / fates",
@@ -85,34 +75,34 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "title": "JuliaPackaging / Yggdrasil",
+      "url": "https://github.com/JuliaPackaging/Yggdrasil",
+      "description": "Collection of builder repositories for BinaryBuilder.jl",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 450,
-      "forks": 486,
+      "stars": 407,
+      "forks": 790,
       "added_stars": "0 stars today"
     },
     {
-      "title": "MCSclimate / MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 53,
-      "forks": 21,
-      "added_stars": "0 stars today"
+      "stars": 1799,
+      "forks": 898,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "grimme-lab / xtb",
-      "url": "https://github.com/grimme-lab/xtb",
-      "description": "Semiempirical Extended Tight-Binding Program Package",
+      "title": "ElmerCSC / elmerfem",
+      "url": "https://github.com/ElmerCSC/elmerfem",
+      "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 876,
-      "forks": 218,
-      "added_stars": "0 stars today"
+      "stars": 1753,
+      "forks": 409,
+      "added_stars": "1 star today"
     }
   ]
 }

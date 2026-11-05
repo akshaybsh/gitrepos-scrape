@@ -2,107 +2,27 @@
   "title": "GitHub Rust Languages Daily Trending",
   "description": "Daily Trending of Rust Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:18:32 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
   "items": [
-    {
-      "title": "vercel-labs / agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "description": "Computer use CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 13571,
-      "forks": 930,
-      "added_stars": "3,791 stars today"
-    },
     {
       "title": "max-sixty / worktrunk",
       "url": "https://github.com/max-sixty/worktrunk",
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 10687,
-      "forks": 392,
-      "added_stars": "438 stars today"
+      "stars": 11235,
+      "forks": 422,
+      "added_stars": "531 stars today"
     },
     {
-      "title": "anomalyco / hex",
-      "url": "https://github.com/anomalyco/hex",
-      "description": "Local voice dictation for mac, windows and linux",
+      "title": "vercel-labs / agent-desktop",
+      "url": "https://github.com/vercel-labs/agent-desktop",
+      "description": "Computer use CLI for AI agents",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 4789,
-      "forks": 268,
-      "added_stars": "410 stars today"
-    },
-    {
-      "title": "cjpais / Handy",
-      "url": "https://github.com/cjpais/Handy",
-      "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 37408,
-      "forks": 3524,
-      "added_stars": "257 stars today"
-    },
-    {
-      "title": "Mesh-LLM / mesh-llm",
-      "url": "https://github.com/Mesh-LLM/mesh-llm",
-      "description": "Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 3916,
-      "forks": 496,
-      "added_stars": "86 stars today"
-    },
-    {
-      "title": "vercel-labs / agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "description": "Browser automation CLI for AI agents",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 45448,
-      "forks": 3118,
-      "added_stars": "143 stars today"
-    },
-    {
-      "title": "ivankovic / omnidiff",
-      "url": "https://github.com/ivankovic/omnidiff",
-      "description": "Fast, robust, accurate diffing",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1006,
-      "forks": 18,
-      "added_stars": "190 stars today"
-    },
-    {
-      "title": "lexmount / moli",
-      "url": "https://github.com/lexmount/moli",
-      "description": "Best headless browser for AI agents. Lite, Fast, High-Compatibility. Built in Rust",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 22518,
-      "forks": 622,
-      "added_stars": "229 stars today"
-    },
-    {
-      "title": "leepokai / Codync",
-      "url": "https://github.com/leepokai/Codync",
-      "description": "Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 1850,
-      "forks": 185,
-      "added_stars": "117 stars today"
-    },
-    {
-      "title": "herdrdev / herdr",
-      "url": "https://github.com/herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "language": "Rust",
-      "languageColor": "#dea584",
-      "stars": 47961,
-      "forks": 3847,
-      "added_stars": "295 stars today"
+      "stars": 15876,
+      "forks": 1105,
+      "added_stars": "2,470 stars today"
     },
     {
       "title": "crmne / zapfast",
@@ -110,9 +30,39 @@
       "description": "ZapFast: a fast, native WhatsApp client in Rust and egui",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 2602,
-      "forks": 292,
-      "added_stars": "31 stars today"
+      "stars": 2875,
+      "forks": 310,
+      "added_stars": "268 stars today"
+    },
+    {
+      "title": "vercel-labs / agent-browser",
+      "url": "https://github.com/vercel-labs/agent-browser",
+      "description": "Browser automation CLI for AI agents",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 45584,
+      "forks": 3137,
+      "added_stars": "132 stars today"
+    },
+    {
+      "title": "Duecki1 / CalibRaw",
+      "url": "https://github.com/Duecki1/CalibRaw",
+      "description": "Free, open-source RAW editor for Linux, Android, Windows and macOS. GPU-accelerated, non-destructive, with masks, HDR merge and local AI.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 297,
+      "forks": 20,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "t8y2 / dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 29161,
+      "forks": 2660,
+      "added_stars": "157 stars today"
     },
     {
       "title": "janhq / jan",
@@ -120,9 +70,69 @@
       "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
       "language": "Rust",
       "languageColor": "#dea584",
-      "stars": 45416,
-      "forks": 3145,
-      "added_stars": "63 stars today"
+      "stars": 45476,
+      "forks": 3151,
+      "added_stars": "62 stars today"
+    },
+    {
+      "title": "hydro-project / infinity",
+      "url": "https://github.com/hydro-project/infinity",
+      "description": "An agent runtime and tool protocol for principled agent concurrency",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 717,
+      "forks": 82,
+      "added_stars": "79 stars today"
+    },
+    {
+      "title": "crmne / spotifast",
+      "url": "https://github.com/crmne/spotifast",
+      "description": "Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 9718,
+      "forks": 573,
+      "added_stars": "76 stars today"
+    },
+    {
+      "title": "emilk / egui",
+      "url": "https://github.com/emilk/egui",
+      "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 32013,
+      "forks": 2323,
+      "added_stars": "33 stars today"
+    },
+    {
+      "title": "rustdesk / rustdesk-server",
+      "url": "https://github.com/rustdesk/rustdesk-server",
+      "description": "RustDesk Server Program",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 10684,
+      "forks": 2741,
+      "added_stars": "13 stars today"
+    },
+    {
+      "title": "martin-olivier / airgorah",
+      "url": "https://github.com/martin-olivier/airgorah",
+      "description": "A WiFi security auditing software",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 5028,
+      "forks": 848,
+      "added_stars": "29 stars today"
+    },
+    {
+      "title": "Muvon / octomind",
+      "url": "https://github.com/Muvon/octomind",
+      "description": "Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon.",
+      "language": "Rust",
+      "languageColor": "#dea584",
+      "stars": 519,
+      "forks": 66,
+      "added_stars": "128 stars today"
     }
   ]
 }

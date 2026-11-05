@@ -2,7 +2,7 @@
   "title": "GitHub Nix Languages Daily Trending",
   "description": "Daily Trending of Nix Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
     {
       "title": "supabase / postgres",
@@ -10,9 +10,9 @@
       "description": "Unmodified Postgres with some useful extensions",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 1800,
-      "forks": 274,
-      "added_stars": "13 stars this month"
+      "stars": 1801,
+      "forks": 275,
+      "added_stars": "14 stars this month"
     },
     {
       "title": "NixOS / nixpkgs",
@@ -20,9 +20,9 @@
       "description": "Nix Packages collection & NixOS",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 26703,
-      "forks": 20627,
-      "added_stars": "435 stars this month"
+      "stars": 26717,
+      "forks": 20638,
+      "added_stars": "436 stars this month"
     },
     {
       "title": "numtide / llm-agents.nix",
@@ -30,19 +30,9 @@
       "description": "Nix packages for AI coding agents and development tools. Automatically updated daily.",
       "language": "Nix",
       "languageColor": "#7e7eff",
-      "stars": 2233,
+      "stars": 2240,
       "forks": 320,
-      "added_stars": "189 stars this month"
-    },
-    {
-      "title": "NixOS / nixos-hardware",
-      "url": "https://github.com/NixOS/nixos-hardware",
-      "description": "A collection of NixOS modules covering hardware quirks.",
-      "language": "Nix",
-      "languageColor": "#7e7eff",
-      "stars": 3351,
-      "forks": 996,
-      "added_stars": "42 stars this month"
+      "added_stars": "193 stars this month"
     }
   ]
 }

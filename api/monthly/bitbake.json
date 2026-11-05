@@ -2,8 +2,18 @@
   "title": "GitHub Bitbake Languages Daily Trending",
   "description": "Daily Trending of Bitbake Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:23:10 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
   "items": [
+    {
+      "title": "qualcomm-linux / meta-qcom",
+      "url": "https://github.com/qualcomm-linux/meta-qcom",
+      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
+      "language": "BitBake",
+      "languageColor": "#00bce4",
+      "stars": 174,
+      "forks": 392,
+      "added_stars": "8 stars this month"
+    },
     {
       "title": "openbmc / openbmc",
       "url": "https://github.com/openbmc/openbmc",
@@ -12,17 +22,7 @@
       "languageColor": "#00bce4",
       "stars": 2610,
       "forks": 1196,
-      "added_stars": "34 stars this month"
-    },
-    {
-      "title": "qualcomm-linux / meta-qcom",
-      "url": "https://github.com/qualcomm-linux/meta-qcom",
-      "description": "OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms",
-      "language": "BitBake",
-      "languageColor": "#00bce4",
-      "stars": 174,
-      "forks": 390,
-      "added_stars": "7 stars this month"
+      "added_stars": "33 stars this month"
     },
     {
       "title": "OpenCentauri / cosmos",
@@ -32,7 +32,7 @@
       "languageColor": "#00bce4",
       "stars": 322,
       "forks": 54,
-      "added_stars": "57 stars this month"
+      "added_stars": "55 stars this month"
     },
     {
       "title": "OE4T / meta-tegra",
@@ -41,7 +41,7 @@
       "language": "BitBake",
       "languageColor": "#00bce4",
       "stars": 583,
-      "forks": 324,
+      "forks": 325,
       "added_stars": "3 stars this month"
     }
   ]

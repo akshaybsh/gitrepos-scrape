@@ -2,17 +2,37 @@
   "title": "GitHub Svelte Languages Daily Trending",
   "description": "Daily Trending of Svelte Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Wed, 04 Nov 2026 08:20:46 GMT",
+  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
   "items": [
+    {
+      "title": "open-webui / open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 157826,
+      "forks": 22946,
+      "added_stars": "821 stars this week"
+    },
     {
       "title": "leaningtech / webvm",
       "url": "https://github.com/leaningtech/webvm",
       "description": "Virtual Machine for the Web",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 17469,
+      "stars": 17467,
       "forks": 3354,
-      "added_stars": "25 stars this week"
+      "added_stars": "19 stars this week"
+    },
+    {
+      "title": "aukspot / dles",
+      "url": "https://github.com/aukspot/dles",
+      "description": "A curated collection of over 700 daily web games.",
+      "language": "Svelte",
+      "languageColor": "#ff3e00",
+      "stars": 132,
+      "forks": 90,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "seanmorley15 / AdventureLog",
@@ -20,9 +40,9 @@
       "description": "Self-hostable travel tracker and trip planner.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 3855,
+      "stars": 3860,
       "forks": 266,
-      "added_stars": "15 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
       "title": "jikan-me / website",
@@ -35,34 +55,24 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "aukspot / dles",
-      "url": "https://github.com/aukspot/dles",
-      "description": "A curated collection of over 700 daily web games.",
-      "language": "Svelte",
-      "languageColor": "#ff3e00",
-      "stars": 132,
-      "forks": 90,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "vaibhav-kakde-in / mdhero",
       "url": "https://github.com/vaibhav-kakde-in/mdhero",
       "description": "A beautiful, native Markdown viewer and lightweight editor for macOS, Windows and Linux. ~8MB, free, open source.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 328,
+      "stars": 330,
       "forks": 39,
-      "added_stars": "23 stars this week"
+      "added_stars": "21 stars this week"
     },
     {
-      "title": "openfoodfacts / openfoodfacts-explorer",
-      "url": "https://github.com/openfoodfacts/openfoodfacts-explorer",
-      "description": "The next-generation frontend for OpenFoodFacts, made with SvelteKit",
+      "title": "Bittu5134 / LOTM-Reader",
+      "url": "https://github.com/Bittu5134/LOTM-Reader",
+      "description": "A community driven webnovel reader built with Svelte, with offline caching and a tons of optimizations. Built to be faster and cleaner than what was out there.",
       "language": "Svelte",
       "languageColor": "#ff3e00",
-      "stars": 80,
-      "forks": 185,
-      "added_stars": "2 stars this week"
+      "stars": 150,
+      "forks": 49,
+      "added_stars": "5 stars this week"
     }
   ]
 }
