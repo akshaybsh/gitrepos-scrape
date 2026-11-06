@@ -2,18 +2,8 @@
   "title": "GitHub Solidity Languages Daily Trending",
   "description": "Daily Trending of Solidity Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
-    {
-      "title": "OpenZeppelin / openzeppelin-contracts",
-      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
-      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
-      "language": "Solidity",
-      "languageColor": "#AA6746",
-      "stars": 27343,
-      "forks": 12419,
-      "added_stars": "22 stars this week"
-    },
     {
       "title": "ethereum / ERCs",
       "url": "https://github.com/ethereum/ERCs",
@@ -21,8 +11,18 @@
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 775,
-      "forks": 1108,
+      "forks": 1107,
       "added_stars": "8 stars this week"
+    },
+    {
+      "title": "OpenZeppelin / openzeppelin-contracts",
+      "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+      "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 27347,
+      "forks": 12416,
+      "added_stars": "28 stars this week"
     },
     {
       "title": "foundry-rs / forge-std",
@@ -55,14 +55,24 @@
       "added_stars": "1 star this week"
     },
     {
+      "title": "Uniswap / v4-core",
+      "url": "https://github.com/Uniswap/v4-core",
+      "description": "🦄 🦄 🦄 🦄 Core smart contracts of Uniswap v4",
+      "language": "Solidity",
+      "languageColor": "#AA6746",
+      "stars": 2561,
+      "forks": 1346,
+      "added_stars": "12 stars this week"
+    },
+    {
       "title": "Vectorized / solady",
       "url": "https://github.com/Vectorized/solady",
       "description": "Optimized Solidity snippets.",
       "language": "Solidity",
       "languageColor": "#AA6746",
       "stars": 3404,
-      "forks": 498,
-      "added_stars": "15 stars this week"
+      "forks": 499,
+      "added_stars": "17 stars this week"
     },
     {
       "title": "transmissions11 / solmate",

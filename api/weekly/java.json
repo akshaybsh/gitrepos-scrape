@@ -2,7 +2,7 @@
   "title": "GitHub Java Languages Daily Trending",
   "description": "Daily Trending of Java Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "floci-io / floci",
@@ -10,9 +10,9 @@
       "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 29888,
-      "forks": 3295,
-      "added_stars": "2,168 stars this week"
+      "stars": 30647,
+      "forks": 3343,
+      "added_stars": "2,908 stars this week"
     },
     {
       "title": "keycloak / keycloak",
@@ -20,9 +20,9 @@
       "description": "Open Source Identity and Access Management For Modern Applications and Services",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 37712,
-      "forks": 9144,
-      "added_stars": "143 stars this week"
+      "stars": 37729,
+      "forks": 9151,
+      "added_stars": "139 stars this week"
     },
     {
       "title": "cryptomator / cryptomator",
@@ -30,9 +30,49 @@
       "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 16453,
-      "forks": 1503,
-      "added_stars": "83 stars this week"
+      "stars": 16460,
+      "forks": 1501,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "NotHarshhaa / DevOps-Projects",
+      "url": "https://github.com/NotHarshhaa/DevOps-Projects",
+      "description": "🚀 Real-world DevOps projects for aspiring engineers — Beginner to Advanced. Covers AWS, Kubernetes, Docker, CI/CD, Terraform, Jenkins, and more. Hands-on learning with step-by-step guides.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5544,
+      "forks": 4952,
+      "added_stars": "122 stars this week"
+    },
+    {
+      "title": "skylot / jadx",
+      "url": "https://github.com/skylot/jadx",
+      "description": "Dex to Java decompiler",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 51622,
+      "forks": 5905,
+      "added_stars": "269 stars this week"
+    },
+    {
+      "title": "openrewrite / rewrite",
+      "url": "https://github.com/openrewrite/rewrite",
+      "description": "Automated mass refactoring of source code.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3947,
+      "forks": 600,
+      "added_stars": "114 stars this week"
+    },
+    {
+      "title": "MewX / light-novel-library_Wenku8_Android",
+      "url": "https://github.com/MewX/light-novel-library_Wenku8_Android",
+      "description": "[CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3382,
+      "forks": 417,
+      "added_stars": "159 stars this week"
     },
     {
       "title": "appdevforall / CodeOnTheGo",
@@ -40,9 +80,29 @@
       "description": "Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 558,
+      "stars": 565,
       "forks": 117,
-      "added_stars": "52 stars this week"
+      "added_stars": "47 stars this week"
+    },
+    {
+      "title": "spring-projects / spring-framework",
+      "url": "https://github.com/spring-projects/spring-framework",
+      "description": "Spring Framework",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 60308,
+      "forks": 38770,
+      "added_stars": "25 stars this week"
+    },
+    {
+      "title": "FasterXML / jackson-databind",
+      "url": "https://github.com/FasterXML/jackson-databind",
+      "description": "General data-binding package for Jackson: works on streaming API (core) implementation(s)",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 3756,
+      "forks": 1557,
+      "added_stars": "1 star this week"
     },
     {
       "title": "openjdk / jdk",
@@ -50,9 +110,9 @@
       "description": "JDK main-line development https://openjdk.org/projects/jdk",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 23508,
-      "forks": 6602,
-      "added_stars": "37 stars this week"
+      "stars": 23510,
+      "forks": 6604,
+      "added_stars": "38 stars this week"
     },
     {
       "title": "apache / iceberg",
@@ -61,98 +121,8 @@
       "language": "Java",
       "languageColor": "#b07219",
       "stars": 9412,
-      "forks": 3660,
-      "added_stars": "29 stars this week"
-    },
-    {
-      "title": "agentscope-ai / agentscope-java",
-      "url": "https://github.com/agentscope-ai/agentscope-java",
-      "description": "Build distributed, production-grade, long-running agents.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 6260,
-      "forks": 1571,
-      "added_stars": "93 stars this week"
-    },
-    {
-      "title": "spring-projects / spring-framework",
-      "url": "https://github.com/spring-projects/spring-framework",
-      "description": "Spring Framework",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 60314,
-      "forks": 38761,
-      "added_stars": "27 stars this week"
-    },
-    {
-      "title": "skylot / jadx",
-      "url": "https://github.com/skylot/jadx",
-      "description": "Dex to Java decompiler",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 51602,
-      "forks": 5901,
-      "added_stars": "279 stars this week"
-    },
-    {
-      "title": "termux / termux-app",
-      "url": "https://github.com/termux/termux-app",
-      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 64122,
-      "forks": 8193,
-      "added_stars": "534 stars this week"
-    },
-    {
-      "title": "jenkinsci / jenkins",
-      "url": "https://github.com/jenkinsci/jenkins",
-      "description": "Jenkins automation server",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 26726,
-      "forks": 9818,
-      "added_stars": "33 stars this week"
-    },
-    {
-      "title": "Keeperorowner / NagramXF",
-      "url": "https://github.com/Keeperorowner/NagramXF",
-      "description": "A fork of NagramX with additional features.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 1104,
-      "forks": 77,
-      "added_stars": "53 stars this week"
-    },
-    {
-      "title": "quarkusio / quarkus",
-      "url": "https://github.com/quarkusio/quarkus",
-      "description": "Quarkus: Supersonic Subatomic Java.",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 15975,
-      "forks": 3356,
-      "added_stars": "14 stars this week"
-    },
-    {
-      "title": "TheAlgorithms / Java",
-      "url": "https://github.com/TheAlgorithms/Java",
-      "description": "All Algorithms implemented in Java",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 66740,
-      "forks": 21466,
-      "added_stars": "148 stars this week"
-    },
-    {
-      "title": "trinodb / trino",
-      "url": "https://github.com/trinodb/trino",
-      "description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)",
-      "language": "Java",
-      "languageColor": "#b07219",
-      "stars": 13463,
-      "forks": 3855,
-      "added_stars": "79 stars this week"
+      "forks": 3662,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "exteraless / exteraless",
@@ -160,9 +130,69 @@
       "description": "",
       "language": "Java",
       "languageColor": "#b07219",
-      "stars": 523,
-      "forks": 47,
-      "added_stars": "87 stars this week"
+      "stars": 526,
+      "forks": 49,
+      "added_stars": "69 stars this week"
+    },
+    {
+      "title": "termux / termux-app",
+      "url": "https://github.com/termux/termux-app",
+      "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 64212,
+      "forks": 8208,
+      "added_stars": "548 stars this week"
+    },
+    {
+      "title": "RikkaApps / Shizuku-API",
+      "url": "https://github.com/RikkaApps/Shizuku-API",
+      "description": "The API and the developer guide for Shizuku and Sui.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 2748,
+      "forks": 1313,
+      "added_stars": "39 stars this week"
+    },
+    {
+      "title": "emanuele-f / PCAPdroid",
+      "url": "https://github.com/emanuele-f/PCAPdroid",
+      "description": "No-root network monitor, firewall and PCAP dumper for Android",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 5099,
+      "forks": 584,
+      "added_stars": "88 stars this week"
+    },
+    {
+      "title": "quarkusio / quarkus",
+      "url": "https://github.com/quarkusio/quarkus",
+      "description": "Quarkus: Supersonic Subatomic Java.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 15974,
+      "forks": 3359,
+      "added_stars": "13 stars this week"
+    },
+    {
+      "title": "LawnchairLauncher / lawnchair",
+      "url": "https://github.com/LawnchairLauncher/lawnchair",
+      "description": "No clever tagline needed.",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 13872,
+      "forks": 1783,
+      "added_stars": "71 stars this week"
+    },
+    {
+      "title": "elastic / elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "description": "Free and Open Source, Distributed, RESTful Search Engine",
+      "language": "Java",
+      "languageColor": "#b07219",
+      "stars": 78500,
+      "forks": 26201,
+      "added_stars": "117 stars this week"
     }
   ]
 }

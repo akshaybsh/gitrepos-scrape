@@ -2,7 +2,7 @@
   "title": "GitHub Powershell Languages Daily Trending",
   "description": "Daily Trending of Powershell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:50:43 GMT",
   "items": [
     {
       "title": "actions / runner-images",
@@ -10,9 +10,9 @@
       "description": "GitHub Actions runner images",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13572,
+      "stars": 13575,
       "forks": 3977,
-      "added_stars": "181 stars this month"
+      "added_stars": "179 stars this month"
     },
     {
       "title": "Raphire / Win11Debloat",
@@ -20,9 +20,9 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 61709,
-      "forks": 2730,
-      "added_stars": "4,058 stars this month"
+      "stars": 61822,
+      "forks": 2741,
+      "added_stars": "4,059 stars this month"
     },
     {
       "title": "Euro-Office / DesktopEditors",
@@ -30,9 +30,9 @@
       "description": "",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 824,
+      "stars": 832,
       "forks": 52,
-      "added_stars": "307 stars this month"
+      "added_stars": "311 stars this month"
     },
     {
       "title": "zoicware / RemoveWindowsAI",
@@ -40,9 +40,9 @@
       "description": "Force Remove Copilot, Recall and More in Windows 11",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 13581,
+      "stars": 13594,
       "forks": 477,
-      "added_stars": "443 stars this month"
+      "added_stars": "445 stars this month"
     },
     {
       "title": "ChrisTitusTech / winutil",
@@ -50,9 +50,9 @@
       "description": "Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 65561,
-      "forks": 3847,
-      "added_stars": "2,158 stars this month"
+      "stars": 65601,
+      "forks": 3854,
+      "added_stars": "2,163 stars this month"
     },
     {
       "title": "javaht / claude-desktop-zh-cn",
@@ -60,19 +60,9 @@
       "description": "Claude Desktop Chinese Patch (macOS & Windows & Linux)",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 8238,
-      "forks": 397,
-      "added_stars": "924 stars this month"
-    },
-    {
-      "title": "SkipToTheEndpoint / OpenIntuneBaseline",
-      "url": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
-      "description": "Community-driven baseline to accelerate Intune adoption and learning.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1571,
-      "forks": 285,
-      "added_stars": "62 stars this month"
+      "stars": 8267,
+      "forks": 400,
+      "added_stars": "936 stars this month"
     },
     {
       "title": "psmux / psmux",
@@ -80,29 +70,9 @@
       "description": "Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native High-Performance Tmux designed for Windows in Rust 🦀",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 3801,
-      "forks": 244,
-      "added_stars": "208 stars this month"
-    },
-    {
-      "title": "irzyxa / Volume2",
-      "url": "https://github.com/irzyxa/Volume2",
-      "description": "Volume² - advanced Windows volume control.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 1387,
-      "forks": 59,
-      "added_stars": "60 stars this month"
-    },
-    {
-      "title": "secretGeek / AwesomeCSV",
-      "url": "https://github.com/secretGeek/AwesomeCSV",
-      "description": "🕶️A curated list of awesome tools for dealing with CSV.",
-      "language": "PowerShell",
-      "languageColor": "#012456",
-      "stars": 958,
-      "forks": 187,
-      "added_stars": "7 stars this month"
+      "stars": 3805,
+      "forks": 245,
+      "added_stars": "207 stars this month"
     },
     {
       "title": "dotnet / core",
@@ -112,7 +82,37 @@
       "languageColor": "#012456",
       "stars": 22065,
       "forks": 4928,
-      "added_stars": "54 stars this month"
+      "added_stars": "53 stars this month"
+    },
+    {
+      "title": "SkipToTheEndpoint / OpenIntuneBaseline",
+      "url": "https://github.com/SkipToTheEndpoint/OpenIntuneBaseline",
+      "description": "Community-driven baseline to accelerate Intune adoption and learning.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1574,
+      "forks": 285,
+      "added_stars": "62 stars this month"
+    },
+    {
+      "title": "irzyxa / Volume2",
+      "url": "https://github.com/irzyxa/Volume2",
+      "description": "Volume² - advanced Windows volume control.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 1389,
+      "forks": 59,
+      "added_stars": "61 stars this month"
+    },
+    {
+      "title": "secretGeek / AwesomeCSV",
+      "url": "https://github.com/secretGeek/AwesomeCSV",
+      "description": "🕶️A curated list of awesome tools for dealing with CSV.",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 958,
+      "forks": 188,
+      "added_stars": "7 stars this month"
     },
     {
       "title": "actions / python-versions",
@@ -130,19 +130,29 @@
       "description": "Automation to assess the state of your M365 tenant against CISA's baselines",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 2788,
-      "forks": 407,
+      "stars": 2791,
+      "forks": 408,
       "added_stars": "100 stars this month"
     },
     {
-      "title": "microsoft / sql-server-samples",
-      "url": "https://github.com/microsoft/sql-server-samples",
-      "description": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+      "title": "OrcaSlicer / OrcaSlicer_WIKI",
+      "url": "https://github.com/OrcaSlicer/OrcaSlicer_WIKI",
+      "description": "The official wiki repository for OrcaSlicer",
       "language": "PowerShell",
       "languageColor": "#012456",
-      "stars": 11290,
-      "forks": 9065,
-      "added_stars": "64 stars this month"
+      "stars": 88,
+      "forks": 141,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "MicrosoftEdge / WebView2Feedback",
+      "url": "https://github.com/MicrosoftEdge/WebView2Feedback",
+      "description": "Feedback and discussions about Microsoft Edge WebView2",
+      "language": "PowerShell",
+      "languageColor": "#012456",
+      "stars": 526,
+      "forks": 70,
+      "added_stars": "0 stars this month"
     }
   ]
 }

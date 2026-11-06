@@ -2,37 +2,17 @@
   "title": "GitHub Makefile Languages Daily Trending",
   "description": "Daily Trending of Makefile Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:50:43 GMT",
   "items": [
-    {
-      "title": "PartialVolume / shredos.x86_64",
-      "url": "https://github.com/PartialVolume/shredos.x86_64",
-      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 3263,
-      "forks": 150,
-      "added_stars": "80 stars this month"
-    },
-    {
-      "title": "adriannovegil / awesome-observability",
-      "url": "https://github.com/adriannovegil/awesome-observability",
-      "description": "Awesome observability page",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 724,
-      "forks": 228,
-      "added_stars": "16 stars this month"
-    },
     {
       "title": "mindsdb / mindshub",
       "url": "https://github.com/mindsdb/mindshub",
       "description": "The unified workspace where open-source models get things done for you.",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 39839,
+      "stars": 39841,
       "forks": 6232,
-      "added_stars": "133 stars this month"
+      "added_stars": "135 stars this month"
     },
     {
       "title": "itchio / itch.io",
@@ -45,13 +25,53 @@
       "added_stars": "4 stars this month"
     },
     {
+      "title": "PartialVolume / shredos.x86_64",
+      "url": "https://github.com/PartialVolume/shredos.x86_64",
+      "description": "Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 3268,
+      "forks": 150,
+      "added_stars": "83 stars this month"
+    },
+    {
+      "title": "adriannovegil / awesome-observability",
+      "url": "https://github.com/adriannovegil/awesome-observability",
+      "description": "Awesome observability page",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 735,
+      "forks": 229,
+      "added_stars": "23 stars this month"
+    },
+    {
+      "title": "open-telemetry / opentelemetry-proto",
+      "url": "https://github.com/open-telemetry/opentelemetry-proto",
+      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 827,
+      "forks": 327,
+      "added_stars": "7 stars this month"
+    },
+    {
       "title": "openwrt / packages",
       "url": "https://github.com/openwrt/packages",
       "description": "Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 4664,
-      "forks": 4019,
+      "stars": 4665,
+      "forks": 4021,
+      "added_stars": "54 stars this month"
+    },
+    {
+      "title": "ROCKNIX / distribution",
+      "url": "https://github.com/ROCKNIX/distribution",
+      "description": "",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 1645,
+      "forks": 401,
       "added_stars": "55 stars this month"
     },
     {
@@ -70,59 +90,9 @@
       "description": "OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 2544,
-      "forks": 362,
-      "added_stars": "34 stars this month"
-    },
-    {
-      "title": "motioneye-project / motioneyeos",
-      "url": "https://github.com/motioneye-project/motioneyeos",
-      "description": "A Video Surveillance OS For Single-board Computers",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 8217,
-      "forks": 916,
-      "added_stars": "14 stars this month"
-    },
-    {
-      "title": "open-telemetry / opentelemetry-proto",
-      "url": "https://github.com/open-telemetry/opentelemetry-proto",
-      "description": "OpenTelemetry protocol (OTLP) specification and Protobuf definitions",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 826,
-      "forks": 327,
-      "added_stars": "7 stars this month"
-    },
-    {
-      "title": "ROCKNIX / distribution",
-      "url": "https://github.com/ROCKNIX/distribution",
-      "description": "",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 1647,
-      "forks": 401,
-      "added_stars": "57 stars this month"
-    },
-    {
-      "title": "HaveAGitGat / Tdarr",
-      "url": "https://github.com/HaveAGitGat/Tdarr",
-      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 4381,
-      "forks": 124,
-      "added_stars": "50 stars this month"
-    },
-    {
-      "title": "ashishb / android-security-awesome",
-      "url": "https://github.com/ashishb/android-security-awesome",
-      "description": "A collection of android security related resources",
-      "language": "Makefile",
-      "languageColor": "#427819",
-      "stars": 9816,
-      "forks": 1587,
-      "added_stars": "109 stars this month"
+      "stars": 2545,
+      "forks": 361,
+      "added_stars": "35 stars this month"
     },
     {
       "title": "qmk / qmk_userspace",
@@ -131,18 +101,28 @@
       "language": "Makefile",
       "languageColor": "#427819",
       "stars": 191,
-      "forks": 2813,
+      "forks": 2815,
       "added_stars": "4 stars this month"
     },
     {
-      "title": "mozilla / addons",
-      "url": "https://github.com/mozilla/addons",
-      "description": "☂ Umbrella repository for Mozilla Addons ✨",
+      "title": "motioneye-project / motioneyeos",
+      "url": "https://github.com/motioneye-project/motioneyeos",
+      "description": "A Video Surveillance OS For Single-board Computers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 134,
-      "forks": 52,
-      "added_stars": "1 star this month"
+      "stars": 8216,
+      "forks": 916,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "HaveAGitGat / Tdarr",
+      "url": "https://github.com/HaveAGitGat/Tdarr",
+      "description": "Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 4384,
+      "forks": 124,
+      "added_stars": "51 stars this month"
     },
     {
       "title": "YuzukiHD / Buildroot-YuzukiSBC",
@@ -160,19 +140,19 @@
       "description": "DeepSeek LLM: Let there be answers",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 7265,
-      "forks": 1220,
-      "added_stars": "66 stars this month"
+      "stars": 7268,
+      "forks": 1222,
+      "added_stars": "68 stars this month"
     },
     {
-      "title": "reportportal / reportportal",
-      "url": "https://github.com/reportportal/reportportal",
-      "description": "Main Repository. ReportPortal starts here - see readme below.",
+      "title": "ashishb / android-security-awesome",
+      "url": "https://github.com/ashishb/android-security-awesome",
+      "description": "A collection of android security related resources",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 2043,
-      "forks": 505,
-      "added_stars": "12 stars this month"
+      "stars": 9813,
+      "forks": 1587,
+      "added_stars": "109 stars this month"
     },
     {
       "title": "liberationfonts / liberation-fonts",
@@ -185,14 +165,34 @@
       "added_stars": "14 stars this month"
     },
     {
+      "title": "reportportal / reportportal",
+      "url": "https://github.com/reportportal/reportportal",
+      "description": "Main Repository. ReportPortal starts here - see readme below.",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 2044,
+      "forks": 505,
+      "added_stars": "13 stars this month"
+    },
+    {
+      "title": "mozilla / addons",
+      "url": "https://github.com/mozilla/addons",
+      "description": "☂ Umbrella repository for Mozilla Addons ✨",
+      "language": "Makefile",
+      "languageColor": "#427819",
+      "stars": 133,
+      "forks": 52,
+      "added_stars": "1 star this month"
+    },
+    {
       "title": "freebsd / freebsd-ports",
       "url": "https://github.com/freebsd/freebsd-ports",
       "description": "FreeBSD ports tree (read-only mirror)",
       "language": "Makefile",
       "languageColor": "#427819",
-      "stars": 1225,
+      "stars": 1226,
       "forks": 892,
-      "added_stars": "17 stars this month"
+      "added_stars": "18 stars this month"
     }
   ]
 }

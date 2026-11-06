@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:50:43 GMT",
   "items": [
     {
       "title": "anthropics / formal-math",
@@ -10,9 +10,9 @@
       "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 461,
+      "stars": 463,
       "forks": 86,
-      "added_stars": "210 stars this month"
+      "added_stars": "212 stars this month"
     },
     {
       "title": "leanprover / lean4",
@@ -20,9 +20,9 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9880,
-      "forks": 1091,
-      "added_stars": "495 stars this month"
+      "stars": 9893,
+      "forks": 1092,
+      "added_stars": "500 stars this month"
     },
     {
       "title": "leanprover-community / mathlib4",
@@ -30,9 +30,9 @@
       "description": "The math library of Lean 4",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4431,
-      "forks": 1822,
-      "added_stars": "226 stars this month"
+      "stars": 4437,
+      "forks": 1824,
+      "added_stars": "225 stars this month"
     },
     {
       "title": "leanprover-community / mathlib3",
@@ -85,16 +85,6 @@
       "added_stars": "8 stars this month"
     },
     {
-      "title": "leanprover-community / ProofWidgets4",
-      "url": "https://github.com/leanprover-community/ProofWidgets4",
-      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 232,
-      "forks": 49,
-      "added_stars": "6 stars this month"
-    },
-    {
       "title": "leanprover / lean4-cli",
       "url": "https://github.com/leanprover/lean4-cli",
       "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
@@ -102,7 +92,17 @@
       "languageColor": "#ccc",
       "stars": 125,
       "forks": 30,
-      "added_stars": "3 stars this month"
+      "added_stars": "2 stars this month"
+    },
+    {
+      "title": "leanprover-community / ProofWidgets4",
+      "url": "https://github.com/leanprover-community/ProofWidgets4",
+      "description": "Helper toolkit for creating your own Lean 4 UserWidgets",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 232,
+      "forks": 49,
+      "added_stars": "5 stars this month"
     },
     {
       "title": "leanprover-community / LeanSearchClient",
@@ -130,19 +130,19 @@
       "description": "A collection of formalized statements of conjectures in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1351,
-      "forks": 571,
+      "stars": 1352,
+      "forks": 572,
       "added_stars": "48 stars this month"
     },
     {
-      "title": "leanprover-community / physlib",
-      "url": "https://github.com/leanprover-community/physlib",
-      "description": "A project to digitalise results from physics into Lean.",
+      "title": "leanprover / cslib",
+      "url": "https://github.com/leanprover/cslib",
+      "description": "The Lean Computer Science Library (CSLib)",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 823,
+      "stars": 799,
       "forks": 220,
-      "added_stars": "54 stars this month"
+      "added_stars": "67 stars this month"
     }
   ]
 }

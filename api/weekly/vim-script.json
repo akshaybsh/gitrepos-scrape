@@ -2,7 +2,7 @@
   "title": "GitHub Vim-script Languages Daily Trending",
   "description": "Daily Trending of Vim-script Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "vim / vim",
@@ -10,8 +10,8 @@
       "description": "The official Vim repository",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 41186,
-      "forks": 6280,
+      "stars": 41189,
+      "forks": 6283,
       "added_stars": "36 stars this week"
     },
     {
@@ -20,39 +20,9 @@
       "description": "Vim-fork focused on extensibility and usability",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 103366,
-      "forks": 7364,
-      "added_stars": "191 stars this week"
-    },
-    {
-      "title": "tpope / vim-fugitive",
-      "url": "https://github.com/tpope/vim-fugitive",
-      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 21816,
-      "forks": 1082,
-      "added_stars": "5 stars this week"
-    },
-    {
-      "title": "kristijanhusak / vim-dadbod-completion",
-      "url": "https://github.com/kristijanhusak/vim-dadbod-completion",
-      "description": "Database autocompletion powered by https://github.com/tpope/vim-dadbod",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 802,
-      "forks": 42,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "jbranchaud / til",
-      "url": "https://github.com/jbranchaud/til",
-      "description": "📝 Today I Learned",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 14162,
-      "forks": 750,
-      "added_stars": "3 stars this week"
+      "stars": 103391,
+      "forks": 7369,
+      "added_stars": "266 stars this week"
     },
     {
       "title": "github / copilot.vim",
@@ -65,34 +35,44 @@
       "added_stars": "12 stars this week"
     },
     {
+      "title": "kristijanhusak / vim-dadbod-completion",
+      "url": "https://github.com/kristijanhusak/vim-dadbod-completion",
+      "description": "Database autocompletion powered by https://github.com/tpope/vim-dadbod",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 803,
+      "forks": 42,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "tpope / vim-fugitive",
+      "url": "https://github.com/tpope/vim-fugitive",
+      "description": "fugitive.vim: A Git wrapper so awesome, it should be illegal",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 21818,
+      "forks": 1082,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "jbranchaud / til",
+      "url": "https://github.com/jbranchaud/til",
+      "description": "📝 Today I Learned",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 14162,
+      "forks": 749,
+      "added_stars": "4 stars this week"
+    },
+    {
       "title": "derekhe / msfs2020-map-enhancement",
       "url": "https://github.com/derekhe/msfs2020-map-enhancement",
       "description": "MSFS2020 Map Enhancement",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 360,
+      "stars": 362,
       "forks": 45,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "preservim / nerdtree",
-      "url": "https://github.com/preservim/nerdtree",
-      "description": "A tree explorer plugin for vim.",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 20082,
-      "forks": 1435,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "junegunn / vim-plug",
-      "url": "https://github.com/junegunn/vim-plug",
-      "description": "🌺 Minimalist Vim Plugin Manager",
-      "language": "Vim Script",
-      "languageColor": "#199f4b",
-      "stars": 35794,
-      "forks": 1928,
-      "added_stars": "15 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "morhetz / gruvbox",
@@ -100,9 +80,9 @@
       "description": "Retro groove color scheme for Vim",
       "language": "Vim Script",
       "languageColor": "#199f4b",
-      "stars": 15829,
+      "stars": 15831,
       "forks": 1122,
-      "added_stars": "17 stars this week"
+      "added_stars": "16 stars this week"
     },
     {
       "title": "kristijanhusak / vim-dadbod-ui",
@@ -113,6 +93,16 @@
       "stars": 2061,
       "forks": 139,
       "added_stars": "1 star this week"
+    },
+    {
+      "title": "junegunn / vim-plug",
+      "url": "https://github.com/junegunn/vim-plug",
+      "description": "🌺 Minimalist Vim Plugin Manager",
+      "language": "Vim Script",
+      "languageColor": "#199f4b",
+      "stars": 35794,
+      "forks": 1928,
+      "added_stars": "15 stars this week"
     }
   ]
 }

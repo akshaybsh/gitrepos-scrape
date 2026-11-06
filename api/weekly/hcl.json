@@ -2,7 +2,7 @@
   "title": "GitHub Hcl Languages Daily Trending",
   "description": "Daily Trending of Hcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "terraform-aws-modules / terraform-aws-eks",
@@ -11,8 +11,18 @@
       "language": "HCL",
       "languageColor": "#844FBA",
       "stars": 5014,
-      "forks": 4413,
-      "added_stars": "0 stars this week"
+      "forks": 4414,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "GoogleCloudPlatform / cloud-foundation-fabric",
+      "url": "https://github.com/GoogleCloudPlatform/cloud-foundation-fabric",
+      "description": "End-to-end modular samples and landing zones toolkit for Terraform on GCP.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 2128,
+      "forks": 1281,
+      "added_stars": "5 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-vpc",
@@ -22,17 +32,7 @@
       "languageColor": "#844FBA",
       "stars": 3279,
       "forks": 4621,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "semgrep / semgrep-rules",
-      "url": "https://github.com/semgrep/semgrep-rules",
-      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 1291,
-      "forks": 619,
-      "added_stars": "8 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-iam",
@@ -40,9 +40,9 @@
       "description": "Terraform module to create AWS IAM resources 🇺🇦",
       "language": "HCL",
       "languageColor": "#844FBA",
-      "stars": 874,
+      "stars": 875,
       "forks": 1115,
-      "added_stars": "0 stars this week"
+      "added_stars": "1 star this week"
     },
     {
       "title": "terraform-aws-modules / terraform-aws-s3-bucket",
@@ -75,16 +75,6 @@
       "added_stars": "1 star this week"
     },
     {
-      "title": "hashicorp / agent-skills",
-      "url": "https://github.com/hashicorp/agent-skills",
-      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
-      "language": "HCL",
-      "languageColor": "#844FBA",
-      "stars": 913,
-      "forks": 136,
-      "added_stars": "5 stars this week"
-    },
-    {
       "title": "terraform-google-modules / terraform-google-kubernetes-engine",
       "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
       "description": "Configures opinionated GKE clusters",
@@ -102,6 +92,36 @@
       "languageColor": "#844FBA",
       "stars": 156,
       "forks": 180,
+      "added_stars": "0 stars this week"
+    },
+    {
+      "title": "hashicorp / agent-skills",
+      "url": "https://github.com/hashicorp/agent-skills",
+      "description": "A collection of Agent skills and Claude Code plugins for HashiCorp products.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 916,
+      "forks": 136,
+      "added_stars": "7 stars this week"
+    },
+    {
+      "title": "semgrep / semgrep-rules",
+      "url": "https://github.com/semgrep/semgrep-rules",
+      "description": "Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 1292,
+      "forks": 622,
+      "added_stars": "9 stars this week"
+    },
+    {
+      "title": "cloudposse / terraform-aws-ecs-container-definition",
+      "url": "https://github.com/cloudposse/terraform-aws-ecs-container-definition",
+      "description": "Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource",
+      "language": "HCL",
+      "languageColor": "#844FBA",
+      "stars": 350,
+      "forks": 239,
       "added_stars": "0 stars this week"
     }
   ]

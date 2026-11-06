@@ -2,27 +2,27 @@
   "title": "GitHub Hlsl Languages Daily Trending",
   "description": "Daily Trending of Hlsl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
+    {
+      "title": "clshortfuse / renodx",
+      "url": "https://github.com/clshortfuse/renodx",
+      "description": "Renovation Engine for DirectX Games",
+      "language": "HLSL",
+      "languageColor": "#aace60",
+      "stars": 4672,
+      "forks": 210,
+      "added_stars": "6 stars today"
+    },
     {
       "title": "Filoppi / Luma-Framework",
       "url": "https://github.com/Filoppi/Luma-Framework",
       "description": "Luma is DX11 games modding framework based on the ReShade Addon system. Multiple mods are currently included, the biggest one being Prey (2017), which refactors its post processing rendering phase (e.g. adding HDR support, DLSS). Mod list here: https://github.com/Filoppi/Luma-Framework/wiki",
       "language": "HLSL",
       "languageColor": "#aace60",
-      "stars": 916,
+      "stars": 917,
       "forks": 73,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "crosire / reshade-shaders",
-      "url": "https://github.com/crosire/reshade-shaders",
-      "description": "A collection of post-processing shaders written for ReShade.",
-      "language": "HLSL",
-      "languageColor": "#aace60",
-      "stars": 1207,
-      "forks": 425,
-      "added_stars": "1 star today"
     }
   ]
 }

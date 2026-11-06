@@ -2,17 +2,27 @@
   "title": "GitHub C# Languages Daily Trending",
   "description": "Daily Trending of C# Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:50:43 GMT",
   "items": [
+    {
+      "title": "lz4 / lz4",
+      "url": "https://github.com/lz4/lz4",
+      "description": "Extremely Fast Compression algorithm",
+      "language": "C",
+      "languageColor": "#555555",
+      "stars": 12489,
+      "forks": 1640,
+      "added_stars": "23 stars today"
+    },
     {
       "title": "FareedKhan-dev / kimi-k3-in-c",
       "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
       "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 10568,
-      "forks": 1651,
-      "added_stars": "351 stars today"
+      "stars": 10796,
+      "forks": 1685,
+      "added_stars": "613 stars today"
     },
     {
       "title": "JustVugg / colibri",
@@ -20,59 +30,59 @@
       "description": "A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 47893,
-      "forks": 5562,
-      "added_stars": "642 stars today"
+      "stars": 48262,
+      "forks": 5614,
+      "added_stars": "455 stars today"
     },
     {
-      "title": "dorianborian / sesame-robot",
-      "url": "https://github.com/dorianborian/sesame-robot",
-      "description": "An open and affordable mini quadruped robot based on ESP32.",
+      "title": "unkyulee / micro-journal",
+      "url": "https://github.com/unkyulee/micro-journal",
+      "description": "",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 4956,
-      "forks": 681,
-      "added_stars": "14 stars today"
+      "stars": 1074,
+      "forks": 48,
+      "added_stars": "9 stars today"
     },
     {
-      "title": "radareorg / radare2",
-      "url": "https://github.com/radareorg/radare2",
-      "description": "UNIX-like reverse engineering framework and command-line toolset",
+      "title": "openwrt / openwrt",
+      "url": "https://github.com/openwrt/openwrt",
+      "description": "This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 25321,
-      "forks": 3418,
-      "added_stars": "25 stars today"
+      "stars": 29108,
+      "forks": 13333,
+      "added_stars": "16 stars today"
     },
     {
-      "title": "YizhengWw / HachimoDock",
-      "url": "https://github.com/YizhengWw/HachimoDock",
-      "description": "A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.",
+      "title": "curl / curl",
+      "url": "https://github.com/curl/curl",
+      "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 875,
-      "forks": 85,
-      "added_stars": "67 stars today"
+      "stars": 43407,
+      "forks": 7483,
+      "added_stars": "28 stars today"
     },
     {
-      "title": "vedderb / bldc",
-      "url": "https://github.com/vedderb/bldc",
-      "description": "The VESC motor control firmware",
+      "title": "FreeRDP / FreeRDP",
+      "url": "https://github.com/FreeRDP/FreeRDP",
+      "description": "FreeRDP is a free remote desktop protocol library and clients",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 3563,
-      "forks": 2000,
-      "added_stars": "4 stars today"
+      "stars": 13980,
+      "forks": 15577,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "Serial-Studio / Serial-Studio",
-      "url": "https://github.com/Serial-Studio/Serial-Studio",
-      "description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.",
+      "title": "mackron / miniaudio",
+      "url": "https://github.com/mackron/miniaudio",
+      "description": "Audio playback and capture library written in C, in a single source file.",
       "language": "C",
       "languageColor": "#555555",
-      "stars": 7309,
-      "forks": 1102,
-      "added_stars": "6 stars today"
+      "stars": 7562,
+      "forks": 631,
+      "added_stars": "40 stars today"
     }
   ]
 }

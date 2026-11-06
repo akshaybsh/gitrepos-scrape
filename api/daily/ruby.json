@@ -2,47 +2,27 @@
   "title": "GitHub Ruby Languages Daily Trending",
   "description": "Daily Trending of Ruby Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
+    {
+      "title": "ruby / ruby",
+      "url": "https://github.com/ruby/ruby",
+      "description": "The Ruby Programming Language",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 23797,
+      "forks": 5681,
+      "added_stars": "5 stars today"
+    },
     {
       "title": "chatwoot / chatwoot",
       "url": "https://github.com/chatwoot/chatwoot",
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 38910,
-      "forks": 9468,
-      "added_stars": "66 stars today"
-    },
-    {
-      "title": "otwcode / otwarchive",
-      "url": "https://github.com/otwcode/otwarchive",
-      "description": "The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2365,
-      "forks": 890,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "rapid7 / metasploit-framework",
-      "url": "https://github.com/rapid7/metasploit-framework",
-      "description": "Metasploit Framework",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 39317,
-      "forks": 15007,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Freika / dawarich",
-      "url": "https://github.com/Freika/dawarich",
-      "description": "Your favorite self-hostable alternative to Google Timeline (Google Location History)",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 10833,
-      "forks": 416,
-      "added_stars": "4 stars today"
+      "stars": 38970,
+      "forks": 9483,
+      "added_stars": "68 stars today"
     },
     {
       "title": "github / explore",
@@ -50,109 +30,19 @@
       "description": "Community-curated topic and collection pages on GitHub",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 4949,
-      "forks": 14705,
-      "added_stars": "5 stars today"
+      "stars": 4951,
+      "forks": 14706,
+      "added_stars": "6 stars today"
     },
     {
-      "title": "ytti / oxidized",
-      "url": "https://github.com/ytti/oxidized",
-      "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+      "title": "rails / rails",
+      "url": "https://github.com/rails/rails",
+      "description": "Ruby on Rails",
       "language": "Ruby",
       "languageColor": "#701516",
-      "stars": 3649,
-      "forks": 1064,
-      "added_stars": "2 stars today"
-    },
-    {
-      "title": "rails / solid_queue",
-      "url": "https://github.com/rails/solid_queue",
-      "description": "Database-backed Active Job backend",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2507,
-      "forks": 267,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "fastlane / fastlane",
-      "url": "https://github.com/fastlane/fastlane",
-      "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 42361,
-      "forks": 6052,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "Homebrew / brew",
-      "url": "https://github.com/Homebrew/brew",
-      "description": "🍺 The Package Manager for Everywhere",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 50219,
-      "forks": 11420,
-      "added_stars": "15 stars today"
-    },
-    {
-      "title": "freeCodeCamp / devdocs",
-      "url": "https://github.com/freeCodeCamp/devdocs",
-      "description": "API Documentation Browser",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 39605,
-      "forks": 2656,
-      "added_stars": "8 stars today"
-    },
-    {
-      "title": "CMSgov / price-transparency-guide",
-      "url": "https://github.com/CMSgov/price-transparency-guide",
-      "description": "The technical implementation guide for the tri-departmental price transparency rule.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 462,
-      "forks": 141,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "dependabot / dependabot-core",
-      "url": "https://github.com/dependabot/dependabot-core",
-      "description": "🤖 Dependabot's core logic for creating update PRs.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 5832,
-      "forks": 1592,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "jekyll / jekyll",
-      "url": "https://github.com/jekyll/jekyll",
-      "description": "🌐 Jekyll is a blog-aware static site generator in Ruby",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 51745,
-      "forks": 10302,
-      "added_stars": "4 stars today"
-    },
-    {
-      "title": "citation-style-language / styles",
-      "url": "https://github.com/citation-style-language/styles",
-      "description": "Official repository for Citation Style Language (CSL) citation styles.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 3936,
-      "forks": 4187,
-      "added_stars": "0 stars today"
-    },
-    {
-      "title": "onetimesecret / onetimesecret",
-      "url": "https://github.com/onetimesecret/onetimesecret",
-      "description": "Keep passwords and other sensitive information out of your chat logs and inboxes.",
-      "language": "Ruby",
-      "languageColor": "#701516",
-      "stars": 2984,
-      "forks": 457,
-      "added_stars": "2 stars today"
+      "stars": 58883,
+      "forks": 23822,
+      "added_stars": "44 stars today"
     },
     {
       "title": "Homebrew / homebrew-cask",
@@ -161,8 +51,158 @@
       "language": "Ruby",
       "languageColor": "#701516",
       "stars": 22283,
-      "forks": 12063,
+      "forks": 12070,
+      "added_stars": "5 stars today"
+    },
+    {
+      "title": "Homebrew / brew",
+      "url": "https://github.com/Homebrew/brew",
+      "description": "🍺 The Package Manager for Everywhere",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 50264,
+      "forks": 11428,
+      "added_stars": "49 stars today"
+    },
+    {
+      "title": "matteocrippa / awesome-swift",
+      "url": "https://github.com/matteocrippa/awesome-swift",
+      "description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 26364,
+      "forks": 3158,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "dependabot / dependabot-core",
+      "url": "https://github.com/dependabot/dependabot-core",
+      "description": "🤖 Dependabot's core logic for creating update PRs.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 5835,
+      "forks": 1592,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "zammad / zammad",
+      "url": "https://github.com/zammad/zammad",
+      "description": "Zammad is a web based open source helpdesk/customer support system.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 6082,
+      "forks": 1095,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "github-linguist / linguist",
+      "url": "https://github.com/github-linguist/linguist",
+      "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 13764,
+      "forks": 5515,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "spree / spree",
+      "url": "https://github.com/spree/spree",
+      "description": "Open Source Platform for DTC, B2B Commerce, Marketplaces & Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 15811,
+      "forks": 5320,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "danbooru / danbooru",
+      "url": "https://github.com/danbooru/danbooru",
+      "description": "A taggable image board written in Rails.",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2856,
+      "forks": 456,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "endoflife-date / endoflife.date",
+      "url": "https://github.com/endoflife-date/endoflife.date",
+      "description": "Informative site with EoL dates of everything",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 3439,
+      "forks": 1346,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "TheOdinProject / ruby-exercises",
+      "url": "https://github.com/TheOdinProject/ruby-exercises",
+      "description": "",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 311,
+      "forks": 1807,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "DataDog / dd-trace-rb",
+      "url": "https://github.com/DataDog/dd-trace-rb",
+      "description": "Datadog's client library for Ruby",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 417,
+      "forks": 425,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "gitlabhq / gitlabhq",
+      "url": "https://github.com/gitlabhq/gitlabhq",
+      "description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 24548,
+      "forks": 5945,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "lineofflight / frankfurter",
+      "url": "https://github.com/lineofflight/frankfurter",
+      "description": "💱 Currency data API",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2071,
+      "forks": 194,
+      "added_stars": "2 stars today"
+    },
+    {
+      "title": "orbitalindex / awesome-space",
+      "url": "https://github.com/orbitalindex/awesome-space",
+      "description": "🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 2243,
+      "forks": 224,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "freeCodeCamp / devdocs",
+      "url": "https://github.com/freeCodeCamp/devdocs",
+      "description": "API Documentation Browser",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 39606,
+      "forks": 2656,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "neutraltone / awesome-stock-resources",
+      "url": "https://github.com/neutraltone/awesome-stock-resources",
+      "description": "🌇 A collection of links for free stock photography, video and Illustration websites",
+      "language": "Ruby",
+      "languageColor": "#701516",
+      "stars": 14677,
+      "forks": 830,
+      "added_stars": "2 stars today"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "firemodels / fds",
@@ -11,8 +11,8 @@
       "language": "Fortran",
       "languageColor": "#4d41b1",
       "stars": 911,
-      "forks": 698,
-      "added_stars": "13 stars this week"
+      "forks": 699,
+      "added_stars": "11 stars this week"
     },
     {
       "title": "JuliaPackaging / Yggdrasil",
@@ -35,16 +35,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "MPAS-Dev / MPAS-Model",
-      "url": "https://github.com/MPAS-Dev/MPAS-Model",
-      "description": "Repository for MPAS models and shared framework releases.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 323,
-      "forks": 437,
-      "added_stars": "2 stars this week"
-    },
-    {
       "title": "E3SM-Project / E3SM",
       "url": "https://github.com/E3SM-Project/E3SM",
       "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
@@ -60,9 +50,9 @@
       "description": "Community Terrestrial Systems Model (includes the Community Land Model of CESM)",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 354,
-      "forks": 368,
-      "added_stars": "1 star this week"
+      "stars": 355,
+      "forks": 369,
+      "added_stars": "3 stars this week"
     },
     {
       "title": "ElmerCSC / elmerfem",
@@ -70,9 +60,19 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1753,
+      "stars": 1756,
       "forks": 409,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "wrf-model / WRF",
+      "url": "https://github.com/wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1800,
+      "forks": 898,
+      "added_stars": "6 stars this week"
     }
   ]
 }

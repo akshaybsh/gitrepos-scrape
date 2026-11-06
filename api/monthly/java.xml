@@ -4,21 +4,21 @@
   <title>GitHub Java Languages Daily Trending</title>
   <description>Daily Trending of Java Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 05 Nov 2026 08:46:37 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 08:50:43 GMT</pubDate>
   <item>
     <title>NationalSecurityAgency / ghidra</title>
     <link>https://github.com/NationalSecurityAgency/ghidra</link>
     <description>Ghidra is a software reverse engineering (SRE) framework</description>
   </item>
   <item>
-    <title>bethington / ghidra-mcp</title>
-    <link>https://github.com/bethington/ghidra-mcp</link>
-    <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
-  </item>
-  <item>
     <title>iBotPeaches / Apktool</title>
     <link>https://github.com/iBotPeaches/Apktool</link>
     <description>A tool for reverse engineering Android apk files</description>
+  </item>
+  <item>
+    <title>bethington / ghidra-mcp</title>
+    <link>https://github.com/bethington/ghidra-mcp</link>
+    <description>Ghidra MCP Server — 200+ MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment.</description>
   </item>
   <item>
     <title>LaurieWired / GhidraMCP</title>
@@ -31,14 +31,14 @@
     <description>A Minecraft Launcher which is multi-functional, cross-platform and popular</description>
   </item>
   <item>
-    <title>mlmvpn / mlmvpn_android</title>
-    <link>https://github.com/mlmvpn/mlmvpn_android</link>
-    <description>Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی</description>
-  </item>
-  <item>
     <title>FCL-Team / FoldCraftLauncher</title>
     <link>https://github.com/FCL-Team/FoldCraftLauncher</link>
     <description>Fold Craft Launcher, an Android Minecraft : Java Edition launcher.</description>
+  </item>
+  <item>
+    <title>mlmvpn / mlmvpn_android</title>
+    <link>https://github.com/mlmvpn/mlmvpn_android</link>
+    <description>Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی</description>
   </item>
   <item>
     <title>elastic / elasticsearch</title>
@@ -61,11 +61,6 @@
     <description>Advanced Sentry Mode for BYD Vehicles</description>
   </item>
   <item>
-    <title>termux / termux-app</title>
-    <link>https://github.com/termux/termux-app</link>
-    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
-  </item>
-  <item>
     <title>zed-0xff / ZombieBuddy</title>
     <link>https://github.com/zed-0xff/ZombieBuddy</link>
     <description>Java agent framework for Project Zomboid that enables runtime bytecode patching using ByteBuddy. Annotation-based API for modding game classes without source code access.</description>
@@ -81,9 +76,9 @@
     <description>All Algorithms implemented in Java</description>
   </item>
   <item>
-    <title>AndroidIDEOfficial / AndroidIDE</title>
-    <link>https://github.com/AndroidIDEOfficial/AndroidIDE</link>
-    <description>AndroidIDE is an IDE for Android to develop full featured Android apps.</description>
+    <title>spring-projects / spring-framework</title>
+    <link>https://github.com/spring-projects/spring-framework</link>
+    <description>Spring Framework</description>
   </item>
   <item>
     <title>appdevforall / CodeOnTheGo</title>
@@ -91,9 +86,14 @@
     <description>Code on the Go is an IDE that lets you build Android apps on Android phones, without a laptop computer and without Internet access. Code on the Go is a project of App Dev for All.</description>
   </item>
   <item>
-    <title>trinodb / trino</title>
-    <link>https://github.com/trinodb/trino</link>
-    <description>Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)</description>
+    <title>AndroidIDEOfficial / AndroidIDE</title>
+    <link>https://github.com/AndroidIDEOfficial/AndroidIDE</link>
+    <description>AndroidIDE is an IDE for Android to develop full featured Android apps.</description>
+  </item>
+  <item>
+    <title>termux / termux-app</title>
+    <link>https://github.com/termux/termux-app</link>
+    <description>Termux - a terminal emulator application for Android OS extendible by variety of packages.</description>
   </item>
 </channel>
 </rss>

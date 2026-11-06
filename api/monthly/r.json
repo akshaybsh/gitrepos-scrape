@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:50:43 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -10,9 +10,19 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2811,
+      "stars": 2812,
       "forks": 999,
       "added_stars": "14 stars this month"
+    },
+    {
+      "title": "tidyverse / ggplot2",
+      "url": "https://github.com/tidyverse/ggplot2",
+      "description": "An implementation of the Grammar of Graphics in R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 7024,
+      "forks": 2126,
+      "added_stars": "28 stars this month"
     },
     {
       "title": "tidyverse / dplyr",
@@ -25,23 +35,13 @@
       "added_stars": "14 stars this month"
     },
     {
-      "title": "tidyverse / ggplot2",
-      "url": "https://github.com/tidyverse/ggplot2",
-      "description": "An implementation of the Grammar of Graphics in R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 7024,
-      "forks": 2126,
-      "added_stars": "29 stars this month"
-    },
-    {
       "title": "Rdatatable / data.table",
       "url": "https://github.com/Rdatatable/data.table",
       "description": "R's data.table package extends data.frame:",
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 3926,
-      "forks": 1061,
+      "forks": 1062,
       "added_stars": "8 stars this month"
     },
     {
@@ -51,8 +51,8 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 3069,
-      "forks": 991,
-      "added_stars": "10 stars this month"
+      "forks": 990,
+      "added_stars": "9 stars this month"
     },
     {
       "title": "rstudio / shiny",
@@ -60,9 +60,9 @@
       "description": "Easy interactive web applications with R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 5705,
+      "stars": 5706,
       "forks": 1894,
-      "added_stars": "19 stars this month"
+      "added_stars": "20 stars this month"
     },
     {
       "title": "r-spatial / sf",
@@ -70,9 +70,9 @@
       "description": "Simple Features for R",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 1453,
+      "stars": 1455,
       "forks": 306,
-      "added_stars": "5 stars this month"
+      "added_stars": "6 stars this month"
     },
     {
       "title": "nflverse / nflverse-data",
@@ -80,9 +80,9 @@
       "description": "Automated nflverse data repository",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 441,
+      "stars": 442,
       "forks": 52,
-      "added_stars": "23 stars this month"
+      "added_stars": "24 stars this month"
     },
     {
       "title": "r-lib / lintr",
@@ -103,16 +103,6 @@
       "stars": 691,
       "forks": 116,
       "added_stars": "18 stars this month"
-    },
-    {
-      "title": "mixOmics-org / mixOmics",
-      "url": "https://github.com/mixOmics-org/mixOmics",
-      "description": "Development repository for the Bioconductor package 'mixOmics '",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 271,
-      "forks": 69,
-      "added_stars": "3 stars this month"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "title": "GitHub R Languages Daily Trending",
   "description": "Daily Trending of R Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "satijalab / seurat",
@@ -10,9 +10,29 @@
       "description": "R toolkit for single cell genomics",
       "language": "R",
       "languageColor": "#198CE7",
-      "stars": 2811,
+      "stars": 2812,
       "forks": 999,
-      "added_stars": "2 stars this week"
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "r-spatial / sf",
+      "url": "https://github.com/r-spatial/sf",
+      "description": "Simple Features for R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 1455,
+      "forks": 306,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "Rdatatable / data.table",
+      "url": "https://github.com/Rdatatable/data.table",
+      "description": "R's data.table package extends data.frame:",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 3926,
+      "forks": 1062,
+      "added_stars": "1 star this week"
     },
     {
       "title": "tidyverse / dplyr",
@@ -25,16 +45,6 @@
       "added_stars": "2 stars this week"
     },
     {
-      "title": "Rdatatable / data.table",
-      "url": "https://github.com/Rdatatable/data.table",
-      "description": "R's data.table package extends data.frame:",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 3926,
-      "forks": 1061,
-      "added_stars": "1 star this week"
-    },
-    {
       "title": "tidyverse / ggplot2",
       "url": "https://github.com/tidyverse/ggplot2",
       "description": "An implementation of the Grammar of Graphics in R",
@@ -42,17 +52,7 @@
       "languageColor": "#198CE7",
       "stars": 7024,
       "forks": 2126,
-      "added_stars": "6 stars this week"
-    },
-    {
-      "title": "r-spatial / sf",
-      "url": "https://github.com/r-spatial/sf",
-      "description": "Simple Features for R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 1453,
-      "forks": 306,
-      "added_stars": "1 star this week"
+      "added_stars": "5 stars this week"
     },
     {
       "title": "rstudio / rmarkdown",
@@ -61,7 +61,27 @@
       "language": "R",
       "languageColor": "#198CE7",
       "stars": 3069,
-      "forks": 991,
+      "forks": 990,
+      "added_stars": "1 star this week"
+    },
+    {
+      "title": "rstudio / shiny",
+      "url": "https://github.com/rstudio/shiny",
+      "description": "Easy interactive web applications with R",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 5706,
+      "forks": 1894,
+      "added_stars": "3 stars this week"
+    },
+    {
+      "title": "benjjneb / dada2",
+      "url": "https://github.com/benjjneb/dada2",
+      "description": "Accurate sample inference from amplicon data with single nucleotide resolution",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 562,
+      "forks": 176,
       "added_stars": "1 star this week"
     },
     {
@@ -75,36 +95,6 @@
       "added_stars": "0 stars this week"
     },
     {
-      "title": "rstudio / shiny",
-      "url": "https://github.com/rstudio/shiny",
-      "description": "Easy interactive web applications with R",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 5705,
-      "forks": 1894,
-      "added_stars": "2 stars this week"
-    },
-    {
-      "title": "benjjneb / dada2",
-      "url": "https://github.com/benjjneb/dada2",
-      "description": "Accurate sample inference from amplicon data with single nucleotide resolution",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 562,
-      "forks": 176,
-      "added_stars": "0 stars this week"
-    },
-    {
-      "title": "rdpeng / ProgrammingAssignment2",
-      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
-      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
-      "language": "R",
-      "languageColor": "#198CE7",
-      "stars": 894,
-      "forks": 143154,
-      "added_stars": "0 stars this week"
-    },
-    {
       "title": "jinworks / CellChat",
       "url": "https://github.com/jinworks/CellChat",
       "description": "R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics",
@@ -113,6 +103,16 @@
       "stars": 691,
       "forks": 116,
       "added_stars": "2 stars this week"
+    },
+    {
+      "title": "rdpeng / ProgrammingAssignment2",
+      "url": "https://github.com/rdpeng/ProgrammingAssignment2",
+      "description": "Repository for Programming Assignment 2 for R Programming on Coursera",
+      "language": "R",
+      "languageColor": "#198CE7",
+      "stars": 895,
+      "forks": 143150,
+      "added_stars": "1 star this week"
     }
   ]
 }

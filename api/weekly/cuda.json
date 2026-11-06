@@ -2,7 +2,7 @@
   "title": "GitHub Cuda Languages Daily Trending",
   "description": "Daily Trending of Cuda Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "karpathy / llm.c",
@@ -10,9 +10,9 @@
       "description": "LLM training in simple, raw C/CUDA",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 31391,
-      "forks": 3814,
-      "added_stars": "115 stars this week"
+      "stars": 31398,
+      "forks": 3813,
+      "added_stars": "118 stars this week"
     },
     {
       "title": "flashinfer-ai / flashinfer",
@@ -20,19 +20,9 @@
       "description": "FlashInfer: Kernel Library for LLM Serving",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 6858,
-      "forks": 1699,
-      "added_stars": "58 stars this week"
-    },
-    {
-      "title": "NVIDIA / cuvs",
-      "url": "https://github.com/NVIDIA/cuvs",
-      "description": "cuVS - a library for vector search and clustering on the GPU",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 887,
-      "forks": 258,
-      "added_stars": "10 stars this week"
+      "stars": 6864,
+      "forks": 1704,
+      "added_stars": "52 stars this week"
     },
     {
       "title": "deepseek-ai / DeepEP",
@@ -40,9 +30,19 @@
       "description": "DeepEP: an efficient expert-parallel communication library",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 10413,
-      "forks": 1544,
-      "added_stars": "37 stars this week"
+      "stars": 10414,
+      "forks": 1545,
+      "added_stars": "38 stars this week"
+    },
+    {
+      "title": "NVIDIA / cuvs",
+      "url": "https://github.com/NVIDIA/cuvs",
+      "description": "cuVS - a library for vector search and clustering on the GPU",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 889,
+      "forks": 259,
+      "added_stars": "7 stars this week"
     },
     {
       "title": "NVIDIA / cuopt",
@@ -50,19 +50,9 @@
       "description": "GPU accelerated decision optimization",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1098,
+      "stars": 1100,
       "forks": 255,
-      "added_stars": "19 stars this week"
-    },
-    {
-      "title": "mirage-project / mirage",
-      "url": "https://github.com/mirage-project/mirage",
-      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
-      "language": "Cuda",
-      "languageColor": "#3A4E3A",
-      "stars": 2599,
-      "forks": 274,
-      "added_stars": "15 stars this week"
+      "added_stars": "17 stars this week"
     },
     {
       "title": "NVIDIA / nccl-tests",
@@ -70,9 +60,9 @@
       "description": "NCCL Tests",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 1692,
+      "stars": 1694,
       "forks": 415,
-      "added_stars": "7 stars this week"
+      "added_stars": "12 stars this week"
     },
     {
       "title": "BBuf / how-to-optim-algorithm-in-cuda",
@@ -80,9 +70,9 @@
       "description": "how to optimize some algorithm in cuda.",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 3340,
+      "stars": 3341,
       "forks": 296,
-      "added_stars": "7 stars this week"
+      "added_stars": "6 stars this week"
     },
     {
       "title": "deepseek-ai / DeepGEMM",
@@ -90,9 +80,19 @@
       "description": "DeepGEMM: clean and efficient BLAS kernel library on GPU",
       "language": "Cuda",
       "languageColor": "#3A4E3A",
-      "stars": 9158,
+      "stars": 9160,
       "forks": 1511,
-      "added_stars": "37 stars this week"
+      "added_stars": "40 stars this week"
+    },
+    {
+      "title": "mirage-project / mirage",
+      "url": "https://github.com/mirage-project/mirage",
+      "description": "Mirage Persistent Kernel: Compiling LLMs into a MegaKernel",
+      "language": "Cuda",
+      "languageColor": "#3A4E3A",
+      "stars": 2602,
+      "forks": 274,
+      "added_stars": "18 stars this week"
     },
     {
       "title": "NVlabs / instant-ngp",
@@ -102,7 +102,7 @@
       "languageColor": "#3A4E3A",
       "stars": 17588,
       "forks": 2066,
-      "added_stars": "6 stars this week"
+      "added_stars": "8 stars this week"
     }
   ]
 }

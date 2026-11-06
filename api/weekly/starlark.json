@@ -2,7 +2,7 @@
   "title": "GitHub Starlark Languages Daily Trending",
   "description": "Daily Trending of Starlark Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "googleapis / googleapis",
@@ -10,7 +10,7 @@
       "description": "Public interface definitions of Google APIs.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 8812,
+      "stars": 8814,
       "forks": 2640,
       "added_stars": "8 stars this week"
     },
@@ -20,9 +20,19 @@
       "description": "🥑 Language focused docker images, minus the operating system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 23203,
+      "stars": 23206,
       "forks": 1441,
-      "added_stars": "31 stars this week"
+      "added_stars": "29 stars this week"
+    },
+    {
+      "title": "cel-expr / cel-spec",
+      "url": "https://github.com/cel-expr/cel-spec",
+      "description": "Common Expression Language -- specification and binary representation",
+      "language": "Starlark",
+      "languageColor": "#76d275",
+      "stars": 4049,
+      "forks": 311,
+      "added_stars": "12 stars this week"
     },
     {
       "title": "bazel-contrib / rules_perl",
@@ -52,17 +62,7 @@
       "languageColor": "#76d275",
       "stars": 692,
       "forks": 734,
-      "added_stars": "3 stars this week"
-    },
-    {
-      "title": "cel-expr / cel-spec",
-      "url": "https://github.com/cel-expr/cel-spec",
-      "description": "Common Expression Language -- specification and binary representation",
-      "language": "Starlark",
-      "languageColor": "#76d275",
-      "stars": 4044,
-      "forks": 310,
-      "added_stars": "10 stars this week"
+      "added_stars": "2 stars this week"
     },
     {
       "title": "cncf / xds",
@@ -90,8 +90,8 @@
       "description": "The central registry of Bazel modules for the Bzlmod external dependency system.",
       "language": "Starlark",
       "languageColor": "#76d275",
-      "stars": 398,
-      "forks": 960,
+      "stars": 399,
+      "forks": 963,
       "added_stars": "1 star this week"
     },
     {
@@ -102,7 +102,7 @@
       "languageColor": "#76d275",
       "stars": 854,
       "forks": 684,
-      "added_stars": "2 stars this week"
+      "added_stars": "0 stars this week"
     }
   ]
 }

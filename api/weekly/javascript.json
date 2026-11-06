@@ -2,17 +2,27 @@
   "title": "GitHub Javascript Languages Daily Trending",
   "description": "Daily Trending of Javascript Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
+    {
+      "title": "Leonxlnx / taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "description": "Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 110926,
+      "forks": 7447,
+      "added_stars": "5,426 stars this week"
+    },
     {
       "title": "affaan-m / ECC",
       "url": "https://github.com/affaan-m/ECC",
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 297455,
-      "forks": 43978,
-      "added_stars": "5,811 stars this week"
+      "stars": 298075,
+      "forks": 44075,
+      "added_stars": "5,542 stars this week"
     },
     {
       "title": "cloudflare / security-audit-skill",
@@ -20,9 +30,9 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 59928,
-      "forks": 3899,
-      "added_stars": "7,528 stars this week"
+      "stars": 62362,
+      "forks": 4048,
+      "added_stars": "8,362 stars this week"
     },
     {
       "title": "HunYiSage / dsh-purge",
@@ -30,19 +40,9 @@
       "description": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 18535,
-      "forks": 4322,
-      "added_stars": "6,079 stars this week"
-    },
-    {
-      "title": "coreyhaines31 / marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 58593,
-      "forks": 8588,
-      "added_stars": "1,466 stars this week"
+      "stars": 19573,
+      "forks": 4616,
+      "added_stars": "6,184 stars this week"
     },
     {
       "title": "github / awesome-copilot",
@@ -50,9 +50,19 @@
       "description": "Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 40813,
-      "forks": 5295,
-      "added_stars": "335 stars this week"
+      "stars": 40861,
+      "forks": 5304,
+      "added_stars": "305 stars this week"
+    },
+    {
+      "title": "coreyhaines31 / marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 58798,
+      "forks": 8606,
+      "added_stars": "1,446 stars this week"
     },
     {
       "title": "techjarves / Portable-Local-Studio",
@@ -60,9 +70,9 @@
       "description": "Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 1907,
-      "forks": 462,
-      "added_stars": "291 stars this week"
+      "stars": 1931,
+      "forks": 468,
+      "added_stars": "347 stars this week"
     },
     {
       "title": "DeanChensj / jiangshan-map",
@@ -70,29 +80,9 @@
       "description": "江山时序 · 中国历史交互地图时间轴 (403 BCE – Present) | Interactive Historical Atlas of China across 18 dynasties, 164 territory snapshots, ancient-to-modern place genealogy & classical poetry routes",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 4288,
-      "forks": 495,
-      "added_stars": "2,450 stars this week"
-    },
-    {
-      "title": "juliangarnier / anime",
-      "url": "https://github.com/juliangarnier/anime",
-      "description": "JavaScript animation engine",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 74303,
-      "forks": 5050,
-      "added_stars": "316 stars this week"
-    },
-    {
-      "title": "hmjz100 / LinkSwift",
-      "url": "https://github.com/hmjz100/LinkSwift",
-      "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
-      "language": "JavaScript",
-      "languageColor": "#f1e05a",
-      "stars": 37892,
-      "forks": 2715,
-      "added_stars": "3,832 stars this week"
+      "stars": 4446,
+      "forks": 507,
+      "added_stars": "2,573 stars this week"
     },
     {
       "title": "vercel-labs / agent-skills",
@@ -100,19 +90,39 @@
       "description": "Vercel's official collection of agent skills",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 33566,
-      "forks": 2938,
-      "added_stars": "412 stars this week"
+      "stars": 33618,
+      "forks": 2940,
+      "added_stars": "410 stars this week"
     },
     {
-      "title": "zarazhangrui / frontend-slides",
-      "url": "https://github.com/zarazhangrui/frontend-slides",
-      "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+      "title": "juliangarnier / anime",
+      "url": "https://github.com/juliangarnier/anime",
+      "description": "JavaScript animation engine",
       "language": "JavaScript",
       "languageColor": "#f1e05a",
-      "stars": 31917,
-      "forks": 2446,
-      "added_stars": "423 stars this week"
+      "stars": 74346,
+      "forks": 5059,
+      "added_stars": "321 stars this week"
+    },
+    {
+      "title": "ericrisco / rsc-harness",
+      "url": "https://github.com/ericrisco/rsc-harness",
+      "description": "Your agent invents things because it has no memory, and can't touch your database because it has no arms. rsc is the meta-harness that gives it both, plus the trade to know the job and the reflexes to not break your repo. For Claude Code, Codex and 15 more.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 508,
+      "forks": 73,
+      "added_stars": "102 stars this week"
+    },
+    {
+      "title": "DietrichGebert / ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "languageColor": "#f1e05a",
+      "stars": 185452,
+      "forks": 10259,
+      "added_stars": "5,368 stars this week"
     }
   ]
 }

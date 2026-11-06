@@ -2,7 +2,7 @@
   "title": "GitHub Tcl Languages Daily Trending",
   "description": "Daily Trending of Tcl Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:46:37 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:50:43 GMT",
   "items": [
     {
       "title": "macports / macports-base",
@@ -10,7 +10,7 @@
       "description": "The MacPorts command-line client",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": 1081,
+      "stars": 1082,
       "forks": 290,
       "added_stars": "35 stars this month"
     },
@@ -20,19 +20,9 @@
       "description": "The MacPorts ports tree",
       "language": "Tcl",
       "languageColor": "#e4cc98",
-      "stars": 1885,
-      "forks": 1608,
+      "stars": 1886,
+      "forks": 1605,
       "added_stars": "40 stars this month"
-    },
-    {
-      "title": "Digilent / digilent-xdc",
-      "url": "https://github.com/Digilent/digilent-xdc",
-      "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
-      "language": "Tcl",
-      "languageColor": "#e4cc98",
-      "stars": 729,
-      "forks": 581,
-      "added_stars": "16 stars this month"
     },
     {
       "title": "analogdevicesinc / hdl",
@@ -43,6 +33,16 @@
       "stars": 2051,
       "forks": 1701,
       "added_stars": "30 stars this month"
+    },
+    {
+      "title": "Digilent / digilent-xdc",
+      "url": "https://github.com/Digilent/digilent-xdc",
+      "description": "A collection of Master XDC files for Digilent FPGA and Zynq boards.",
+      "language": "Tcl",
+      "languageColor": "#e4cc98",
+      "stars": 729,
+      "forks": 581,
+      "added_stars": "16 stars this month"
     }
   ]
 }

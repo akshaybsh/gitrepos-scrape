@@ -2,17 +2,27 @@
   "title": "GitHub C++ Languages Daily Trending",
   "description": "Daily Trending of C++ Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
     {
-      "title": "microsoft / onnxruntime",
-      "url": "https://github.com/microsoft/onnxruntime",
-      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "title": "tensorflow / tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "description": "An Open Source Machine Learning Framework for Everyone",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 22237,
-      "forks": 4408,
-      "added_stars": "3 stars today"
+      "stars": 201311,
+      "forks": 78259,
+      "added_stars": "27 stars today"
+    },
+    {
+      "title": "k2-fsa / sherpa-onnx",
+      "url": "https://github.com/k2-fsa/sherpa-onnx",
+      "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15779,
+      "forks": 1852,
+      "added_stars": "21 stars today"
     },
     {
       "title": "MaaAssistantArknights / MaaAssistantArknights",
@@ -20,29 +30,19 @@
       "description": "《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 24332,
-      "forks": 2931,
-      "added_stars": "41 stars today"
+      "stars": 24364,
+      "forks": 2939,
+      "added_stars": "46 stars today"
     },
     {
-      "title": "hyprwm / Hyprland",
-      "url": "https://github.com/hyprwm/Hyprland",
-      "description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "title": "luanti-org / luanti",
+      "url": "https://github.com/luanti-org/luanti",
+      "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 40321,
-      "forks": 2168,
-      "added_stars": "109 stars today"
-    },
-    {
-      "title": "kvcache-ai / Mooncake",
-      "url": "https://github.com/kvcache-ai/Mooncake",
-      "description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.",
-      "language": "C++",
-      "languageColor": "#f34b7d",
-      "stars": 6982,
-      "forks": 1440,
-      "added_stars": "12 stars today"
+      "stars": 13824,
+      "forks": 2518,
+      "added_stars": "7 stars today"
     },
     {
       "title": "google / googletest",
@@ -50,49 +50,59 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 39708,
-      "forks": 10934,
+      "stars": 39710,
+      "forks": 10935,
       "added_stars": "6 stars today"
     },
     {
-      "title": "ros-navigation / navigation2",
-      "url": "https://github.com/ros-navigation/navigation2",
-      "description": "ROS 2 Navigation Framework and System",
+      "title": "k4yt3x / video2x",
+      "url": "https://github.com/k4yt3x/video2x",
+      "description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 5006,
-      "forks": 2013,
-      "added_stars": "12 stars today"
+      "stars": 22624,
+      "forks": 1976,
+      "added_stars": "52 stars today"
     },
     {
-      "title": "dariulone / cyberpunk-vr-port",
-      "url": "https://github.com/dariulone/cyberpunk-vr-port",
-      "description": "",
+      "title": "microsoft / onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 473,
-      "forks": 53,
-      "added_stars": "17 stars today"
+      "stars": 22252,
+      "forks": 4413,
+      "added_stars": "21 stars today"
     },
     {
-      "title": "tensorflow / tensorflow",
-      "url": "https://github.com/tensorflow/tensorflow",
-      "description": "An Open Source Machine Learning Framework for Everyone",
+      "title": "amnezia-vpn / amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "description": "Amnezia VPN Client (Desktop+Mobile)",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 201314,
-      "forks": 78237,
-      "added_stars": "28 stars today"
+      "stars": 15779,
+      "forks": 1265,
+      "added_stars": "36 stars today"
     },
     {
-      "title": "cloudflare / workerd",
-      "url": "https://github.com/cloudflare/workerd",
-      "description": "The JavaScript / Wasm runtime that powers Cloudflare Workers",
+      "title": "xoxor4d / gta4-rtx",
+      "url": "https://github.com/xoxor4d/gta4-rtx",
+      "description": "GTAIV RTX Remix Compatibility Mod",
       "language": "C++",
       "languageColor": "#f34b7d",
-      "stars": 9130,
-      "forks": 824,
-      "added_stars": "6 stars today"
+      "stars": 846,
+      "forks": 23,
+      "added_stars": "11 stars today"
+    },
+    {
+      "title": "dolphin-emu / dolphin",
+      "url": "https://github.com/dolphin-emu/dolphin",
+      "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+      "language": "C++",
+      "languageColor": "#f34b7d",
+      "stars": 15771,
+      "forks": 3382,
+      "added_stars": "10 stars today"
     }
   ]
 }

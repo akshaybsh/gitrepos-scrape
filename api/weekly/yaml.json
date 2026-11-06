@@ -2,7 +2,7 @@
   "title": "GitHub Yaml Languages Daily Trending",
   "description": "Daily Trending of Yaml Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:45:04 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:48:19 GMT",
   "items": [
     {
       "title": "stashapp / CommunityScrapers",
@@ -10,9 +10,29 @@
       "description": "This is a public repository containing scrapers created by the Stash Community.",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 851,
+      "stars": 852,
       "forks": 522,
       "added_stars": "4 stars this week"
+    },
+    {
+      "title": "kubeflow / community-distribution",
+      "url": "https://github.com/kubeflow/community-distribution",
+      "description": "Kubeflow Community Distribution",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 1049,
+      "forks": 1076,
+      "added_stars": "4 stars this week"
+    },
+    {
+      "title": "GTFOBins / GTFOBins.github.io",
+      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
+      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 13830,
+      "forks": 1719,
+      "added_stars": "31 stars this week"
     },
     {
       "title": "aquaproj / aqua-registry",
@@ -21,7 +41,7 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 397,
-      "forks": 441,
+      "forks": 442,
       "added_stars": "3 stars this week"
     },
     {
@@ -31,28 +51,8 @@
       "language": "YAML",
       "languageColor": "#cb171e",
       "stars": 89,
-      "forks": 446,
+      "forks": 448,
       "added_stars": "0 stars this week"
-    },
-    {
-      "title": "GTFOBins / GTFOBins.github.io",
-      "url": "https://github.com/GTFOBins/GTFOBins.github.io",
-      "description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 13828,
-      "forks": 1718,
-      "added_stars": "32 stars this week"
-    },
-    {
-      "title": "web-platform-dx / web-features",
-      "url": "https://github.com/web-platform-dx/web-features",
-      "description": "Exploring how to present Web platform features adoptability",
-      "language": "YAML",
-      "languageColor": "#cb171e",
-      "stars": 952,
-      "forks": 340,
-      "added_stars": "1 star this week"
     },
     {
       "title": "usnistgov / macos_security",
@@ -60,9 +60,19 @@
       "description": "macOS Security Compliance Project",
       "language": "YAML",
       "languageColor": "#cb171e",
-      "stars": 2517,
-      "forks": 305,
-      "added_stars": "7 stars this week"
+      "stars": 2518,
+      "forks": 306,
+      "added_stars": "6 stars this week"
+    },
+    {
+      "title": "web-platform-dx / web-features",
+      "url": "https://github.com/web-platform-dx/web-features",
+      "description": "Exploring how to present Web platform features adoptability",
+      "language": "YAML",
+      "languageColor": "#cb171e",
+      "stars": 953,
+      "forks": 340,
+      "added_stars": "2 stars this week"
     }
   ]
 }

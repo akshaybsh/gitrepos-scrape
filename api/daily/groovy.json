@@ -2,18 +2,8 @@
   "title": "GitHub Groovy Languages Daily Trending",
   "description": "Daily Trending of Groovy Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
-    {
-      "title": "apache / grails-core",
-      "url": "https://github.com/apache/grails-core",
-      "description": "Grails - the Web Application Framework",
-      "language": "Groovy",
-      "languageColor": "#4298b8",
-      "stars": 2941,
-      "forks": 980,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "gradle / gradle",
       "url": "https://github.com/gradle/gradle",
@@ -21,17 +11,27 @@
       "language": "Groovy",
       "languageColor": "#4298b8",
       "stars": 18918,
-      "forks": 5263,
-      "added_stars": "1 star today"
+      "forks": 5262,
+      "added_stars": "4 stars today"
     },
     {
-      "title": "jenkinsci / job-dsl-plugin",
-      "url": "https://github.com/jenkinsci/job-dsl-plugin",
-      "description": "A Groovy DSL for Jenkins Jobs",
+      "title": "apache / groovy",
+      "url": "https://github.com/apache/groovy",
+      "description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform",
       "language": "Groovy",
       "languageColor": "#4298b8",
-      "stars": 1922,
-      "forks": 819,
+      "stars": 5481,
+      "forks": 1915,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "openboxes / openboxes",
+      "url": "https://github.com/openboxes/openboxes",
+      "description": "OpenBoxes is a warehouse management system designed to manage inventory and track stock movements for healthcare facilities.",
+      "language": "Groovy",
+      "languageColor": "#4298b8",
+      "stars": 922,
+      "forks": 516,
       "added_stars": "0 stars today"
     }
   ]

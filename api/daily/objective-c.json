@@ -2,27 +2,47 @@
   "title": "GitHub Objective-c Languages Daily Trending",
   "description": "Daily Trending of Objective-c Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
+    {
+      "title": "nfzerox / VirtualMacOniPad",
+      "url": "https://github.com/nfzerox/VirtualMacOniPad",
+      "description": "People have dreamed of running macOS on iPad for more than a decade. Today, that dream comes true. With Virtual Mac, iPad finally breaks free from iPadOS, enabling pro apps like Xcode, Terminal, Final Cut Pro, Logic Pro, and Pixelmator Pro to run directly on device. Requires iPad Pro (M1, M2) or iPad Air (M1) running iPadOS 14 up to 16.3.1.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 2025,
+      "forks": 100,
+      "added_stars": "8 stars today"
+    },
     {
       "title": "darlinghq / darling",
       "url": "https://github.com/darlinghq/darling",
       "description": "Darwin/macOS emulation layer for Linux",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 13696,
-      "forks": 561,
+      "stars": 13697,
+      "forks": 562,
+      "added_stars": "4 stars today"
+    },
+    {
+      "title": "sparkle-project / Sparkle",
+      "url": "https://github.com/sparkle-project/Sparkle",
+      "description": "A software update framework for macOS",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 9889,
+      "forks": 1153,
       "added_stars": "8 stars today"
     },
     {
-      "title": "noah-nuebling / mac-mouse-fix",
-      "url": "https://github.com/noah-nuebling/mac-mouse-fix",
-      "description": "Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!",
+      "title": "google / promises",
+      "url": "https://github.com/google/promises",
+      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 11217,
-      "forks": 462,
-      "added_stars": "9 stars today"
+      "stars": 3828,
+      "forks": 316,
+      "added_stars": "0 stars today"
     },
     {
       "title": "google / GoogleDataTransport",
@@ -35,16 +55,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "google / promises",
-      "url": "https://github.com/google/promises",
-      "description": "Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 3829,
-      "forks": 316,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "google / GoogleUtilities",
       "url": "https://github.com/google/GoogleUtilities",
       "description": "",
@@ -53,16 +63,6 @@
       "stars": 136,
       "forks": 84,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "iodefog / VipVideo",
-      "url": "https://github.com/iodefog/VipVideo",
-      "description": "这是一个Mac/Windows聚合App，聚合常见电视/视频/音乐/小说。比如CCTV中央电视台直播免费观看, 爱奇艺、腾讯视频、芒果视频、优酷视频付费电影，VIP会员剧等免费观看，bilibili、美剧、韩剧、日剧、网易云音乐、腾讯音乐、酷狗音乐、喜马拉雅、起点、七猫、有声小说等",
-      "language": "Objective-C",
-      "languageColor": "#438eff",
-      "stars": 6121,
-      "forks": 716,
-      "added_stars": "10 stars today"
     },
     {
       "title": "google / gtm-session-fetcher",
@@ -80,38 +80,38 @@
       "description": "Asynchronous image downloader with cache support as a UIImageView category",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 25608,
-      "forks": 5948,
+      "stars": 25607,
+      "forks": 5949,
       "added_stars": "0 stars today"
     },
     {
-      "title": "geode-sdk / ios-launcher",
-      "url": "https://github.com/geode-sdk/ios-launcher",
-      "description": "Manages installing and launching Geometry Dash for iOS",
+      "title": "realm / realm-swift",
+      "url": "https://github.com/realm/realm-swift",
+      "description": "Realm is a mobile database: a replacement for Core Data & SQLite",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 769,
-      "forks": 281,
-      "added_stars": "2 stars today"
+      "stars": 16600,
+      "forks": 2231,
+      "added_stars": "1 star today"
     },
     {
-      "title": "AzureAD / microsoft-authentication-library-common-for-objc",
-      "url": "https://github.com/AzureAD/microsoft-authentication-library-common-for-objc",
-      "description": "Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)",
+      "title": "kstenerud / KSCrash",
+      "url": "https://github.com/kstenerud/KSCrash",
+      "description": "The Ultimate iOS Crash Reporter",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 66,
-      "forks": 44,
+      "stars": 4506,
+      "forks": 744,
       "added_stars": "0 stars today"
     },
     {
-      "title": "openid / AppAuth-iOS",
-      "url": "https://github.com/openid/AppAuth-iOS",
-      "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
+      "title": "adjust / ios_sdk",
+      "url": "https://github.com/adjust/ios_sdk",
+      "description": "This is the iOS SDK of",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 2038,
-      "forks": 863,
+      "stars": 678,
+      "forks": 318,
       "added_stars": "0 stars today"
     },
     {
@@ -125,23 +125,43 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "kstenerud / KSCrash",
-      "url": "https://github.com/kstenerud/KSCrash",
-      "description": "The Ultimate iOS Crash Reporter",
+      "title": "AzureAD / microsoft-authentication-library-common-for-objc",
+      "url": "https://github.com/AzureAD/microsoft-authentication-library-common-for-objc",
+      "description": "Common code used by both the Active Directory Authentication Library (ADAL) and the Microsoft Authentication Library (MSAL)",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 4506,
-      "forks": 744,
+      "stars": 66,
+      "forks": 44,
       "added_stars": "0 stars today"
     },
     {
-      "title": "SDWebImage / SDWebImageSVGCoder",
-      "url": "https://github.com/SDWebImage/SDWebImageSVGCoder",
-      "description": "A SVG coder plugin for SDWebImage, using Apple's built-in framework",
+      "title": "BranchMetrics / ios-branch-sdk-spm",
+      "url": "https://github.com/BranchMetrics/ios-branch-sdk-spm",
+      "description": "Branch iOS SDK Swift Package Manager distribution",
       "language": "Objective-C",
       "languageColor": "#438eff",
-      "stars": 136,
-      "forks": 46,
+      "stars": 27,
+      "forks": 19,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "opa334 / TrollStore",
+      "url": "https://github.com/opa334/TrollStore",
+      "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 22536,
+      "forks": 1702,
+      "added_stars": "16 stars today"
+    },
+    {
+      "title": "openid / AppAuth-iOS",
+      "url": "https://github.com/openid/AppAuth-iOS",
+      "description": "iOS and macOS SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
+      "language": "Objective-C",
+      "languageColor": "#438eff",
+      "stars": 2038,
+      "forks": 863,
       "added_stars": "0 stars today"
     }
   ]

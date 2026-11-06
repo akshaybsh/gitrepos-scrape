@@ -2,17 +2,17 @@
   "title": "GitHub Clojure Languages Daily Trending",
   "description": "Daily Trending of Clojure Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
     {
-      "title": "metabase / metabase",
-      "url": "https://github.com/metabase/metabase",
-      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+      "title": "status-im / status-legacy",
+      "url": "https://github.com/status-im/status-legacy",
+      "description": "a free (libre) open source, mobile OS for Ethereum",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 50174,
-      "forks": 6985,
-      "added_stars": "26 stars today"
+      "stars": 4022,
+      "forks": 984,
+      "added_stars": "0 stars today"
     },
     {
       "title": "penpot / penpot",
@@ -20,19 +20,9 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 62089,
-      "forks": 4377,
-      "added_stars": "50 stars today"
-    },
-    {
-      "title": "tonsky / FiraCode",
-      "url": "https://github.com/tonsky/FiraCode",
-      "description": "Free monospaced font with programming ligatures",
-      "language": "Clojure",
-      "languageColor": "#db5855",
-      "stars": 82166,
-      "forks": 3210,
-      "added_stars": "3 stars today"
+      "stars": 62130,
+      "forks": 4382,
+      "added_stars": "44 stars today"
     },
     {
       "title": "jepsen-io / jepsen",
@@ -42,7 +32,27 @@
       "languageColor": "#db5855",
       "stars": 7565,
       "forks": 759,
-      "added_stars": "5 stars today"
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "logseq / logseq",
+      "url": "https://github.com/logseq/logseq",
+      "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 45493,
+      "forks": 2866,
+      "added_stars": "8 stars today"
+    },
+    {
+      "title": "metabase / metabase",
+      "url": "https://github.com/metabase/metabase",
+      "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊",
+      "language": "Clojure",
+      "languageColor": "#db5855",
+      "stars": 50196,
+      "forks": 6992,
+      "added_stars": "27 stars today"
     },
     {
       "title": "logseq / docs",
@@ -55,14 +65,14 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "unclebob / swarm-forge",
-      "url": "https://github.com/unclebob/swarm-forge",
-      "description": "A simple tool for coordinating several AI agents.",
+      "title": "tonsky / FiraCode",
+      "url": "https://github.com/tonsky/FiraCode",
+      "description": "Free monospaced font with programming ligatures",
       "language": "Clojure",
       "languageColor": "#db5855",
-      "stars": 4088,
-      "forks": 408,
-      "added_stars": "3 stars today"
+      "stars": 82164,
+      "forks": 3212,
+      "added_stars": "1 star today"
     }
   ]
 }

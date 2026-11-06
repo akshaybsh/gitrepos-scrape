@@ -2,18 +2,8 @@
   "title": "GitHub Fortran Languages Daily Trending",
   "description": "Daily Trending of Fortran Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
-    {
-      "title": "E3SM-Project / E3SM",
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 450,
-      "forks": 486,
-      "added_stars": "0 stars today"
-    },
     {
       "title": "MetOffice / jules",
       "url": "https://github.com/MetOffice/jules",
@@ -23,16 +13,6 @@
       "stars": 28,
       "forks": 51,
       "added_stars": "0 stars today"
-    },
-    {
-      "title": "cp2k / cp2k",
-      "url": "https://github.com/cp2k/cp2k",
-      "description": "Quantum chemistry and solid state physics software package",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 1238,
-      "forks": 517,
-      "added_stars": "1 star today"
     },
     {
       "title": "MetOffice / lfric_core",
@@ -55,16 +35,6 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "MCSclimate / MCT",
-      "url": "https://github.com/MCSclimate/MCT",
-      "description": "Model Coupling Tookit",
-      "language": "Fortran",
-      "languageColor": "#4d41b1",
-      "stars": 53,
-      "forks": 21,
-      "added_stars": "0 stars today"
-    },
-    {
       "title": "NGEET / fates",
       "url": "https://github.com/NGEET/fates",
       "description": "repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)",
@@ -75,13 +45,33 @@
       "added_stars": "0 stars today"
     },
     {
-      "title": "JuliaPackaging / Yggdrasil",
-      "url": "https://github.com/JuliaPackaging/Yggdrasil",
-      "description": "Collection of builder repositories for BinaryBuilder.jl",
+      "title": "MCSclimate / MCT",
+      "url": "https://github.com/MCSclimate/MCT",
+      "description": "Model Coupling Tookit",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 407,
-      "forks": 790,
+      "stars": 53,
+      "forks": 21,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "E3SM-Project / E3SM",
+      "url": "https://github.com/E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code. NOTE: use \"maint\" branches for your work. Head of master is not validated.",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 450,
+      "forks": 486,
+      "added_stars": "0 stars today"
+    },
+    {
+      "title": "cp2k / cp2k",
+      "url": "https://github.com/cp2k/cp2k",
+      "description": "Quantum chemistry and solid state physics software package",
+      "language": "Fortran",
+      "languageColor": "#4d41b1",
+      "stars": 1238,
+      "forks": 517,
       "added_stars": "0 stars today"
     },
     {
@@ -90,7 +80,7 @@
       "description": "The official repository for the Weather Research and Forecasting (WRF) model",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1799,
+      "stars": 1800,
       "forks": 898,
       "added_stars": "2 stars today"
     },
@@ -100,7 +90,7 @@
       "description": "Official git repository of Elmer FEM software",
       "language": "Fortran",
       "languageColor": "#4d41b1",
-      "stars": 1753,
+      "stars": 1756,
       "forks": 409,
       "added_stars": "1 star today"
     }

@@ -4,7 +4,7 @@
   <title>GitHub Rust Languages Daily Trending</title>
   <description>Daily Trending of Rust Languages in GitHub</description>
   <link>https://github.com/trending</link>
-  <pubDate>Thu, 05 Nov 2026 08:46:37 GMT</pubDate>
+  <pubDate>Fri, 06 Nov 2026 08:50:43 GMT</pubDate>
   <item>
     <title>pbakaus / impeccable</title>
     <link>https://github.com/pbakaus/impeccable</link>
@@ -14,6 +14,11 @@
     <title>akitaonrails / ai-memory</title>
     <link>https://github.com/akitaonrails/ai-memory</link>
     <description>Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors</description>
+  </item>
+  <item>
+    <title>microsoft / mxc</title>
+    <link>https://github.com/microsoft/mxc</link>
+    <description>Policy-driven, layered isolation and containment</description>
   </item>
   <item>
     <title>NVIDIA / OpenShell</title>
@@ -26,19 +31,24 @@
     <description>ArtCraft is an intentional crafting engine for artists, designers, and filmmakers</description>
   </item>
   <item>
-    <title>xerj-org / xerj</title>
-    <link>https://github.com/xerj-org/xerj</link>
-    <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
-  </item>
-  <item>
     <title>vercel-labs / agent-desktop</title>
     <link>https://github.com/vercel-labs/agent-desktop</link>
     <description>Computer use CLI for AI agents</description>
   </item>
   <item>
+    <title>xerj-org / xerj</title>
+    <link>https://github.com/xerj-org/xerj</link>
+    <description>AI search engine and MCP server for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.</description>
+  </item>
+  <item>
     <title>jub0t / Concat</title>
     <link>https://github.com/jub0t/Concat</link>
-    <description>Beta: The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API &amp; MCP.</description>
+    <description>Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API &amp; MCP.</description>
+  </item>
+  <item>
+    <title>max-sixty / worktrunk</title>
+    <link>https://github.com/max-sixty/worktrunk</link>
+    <description>Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows</description>
   </item>
   <item>
     <title>cjpais / Handy</title>
@@ -71,29 +81,9 @@
     <description>A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering</description>
   </item>
   <item>
-    <title>SimoHypers / limusic</title>
-    <link>https://github.com/SimoHypers/limusic</link>
-    <description>Feature rich, native desktop, YouTube Music client.</description>
-  </item>
-  <item>
-    <title>emilk / egui</title>
-    <link>https://github.com/emilk/egui</link>
-    <description>egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</description>
-  </item>
-  <item>
     <title>Mesh-LLM / mesh-llm</title>
     <link>https://github.com/Mesh-LLM/mesh-llm</link>
     <description>Distributed AI/LLM for the people. Share compute privately or publicly to power your agents and chat.</description>
-  </item>
-  <item>
-    <title>denoland / deno</title>
-    <link>https://github.com/denoland/deno</link>
-    <description>A modern runtime for JavaScript and TypeScript.</description>
-  </item>
-  <item>
-    <title>rustdesk / rustdesk</title>
-    <link>https://github.com/rustdesk/rustdesk</link>
-    <description>An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</description>
   </item>
 </channel>
 </rss>

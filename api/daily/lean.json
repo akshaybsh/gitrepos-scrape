@@ -2,7 +2,7 @@
   "title": "GitHub Lean Languages Daily Trending",
   "description": "Daily Trending of Lean Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
     {
       "title": "leanprover / lean4",
@@ -10,39 +10,29 @@
       "description": "Lean 4 programming language and theorem prover",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 9880,
-      "forks": 1091,
-      "added_stars": "18 stars today"
+      "stars": 9893,
+      "forks": 1092,
+      "added_stars": "13 stars today"
     },
     {
-      "title": "google-deepmind / formal-conjectures",
-      "url": "https://github.com/google-deepmind/formal-conjectures",
-      "description": "A collection of formalized statements of conjectures in Lean.",
+      "title": "anthropics / formal-math",
+      "url": "https://github.com/anthropics/formal-math",
+      "description": "",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 1351,
-      "forks": 571,
-      "added_stars": "3 stars today"
+      "stars": 463,
+      "forks": 86,
+      "added_stars": "2 stars today"
     },
     {
-      "title": "leanprover-community / mathlib4",
-      "url": "https://github.com/leanprover-community/mathlib4",
-      "description": "The math library of Lean 4",
+      "title": "ethereum / EthLib",
+      "url": "https://github.com/ethereum/EthLib",
+      "description": "Formally verified Ethereum primitives, written in Lean.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 4431,
-      "forks": 1822,
-      "added_stars": "5 stars today"
-    },
-    {
-      "title": "leanprover-community / mathlib3",
-      "url": "https://github.com/leanprover-community/mathlib3",
-      "description": "Lean 3's obsolete mathematical components library: please use mathlib4",
-      "language": "Lean",
-      "languageColor": "#ccc",
-      "stars": 1666,
-      "forks": 291,
-      "added_stars": "0 stars today"
+      "stars": 81,
+      "forks": 20,
+      "added_stars": "7 stars today"
     },
     {
       "title": "leanprover-community / batteries",
@@ -52,17 +42,37 @@
       "languageColor": "#ccc",
       "stars": 431,
       "forks": 171,
-      "added_stars": "3 stars today"
+      "added_stars": "0 stars today"
     },
     {
-      "title": "leanprover / lean4-cli",
-      "url": "https://github.com/leanprover/lean4-cli",
-      "description": "A Lean 4 library for configuring Command Line Interfaces and parsing command line arguments.",
+      "title": "leanprover-community / quote4",
+      "url": "https://github.com/leanprover-community/quote4",
+      "description": "Intuitive, type-safe expression quotations for Lean 4.",
       "language": "Lean",
       "languageColor": "#ccc",
-      "stars": 125,
-      "forks": 30,
+      "stars": 111,
+      "forks": 28,
       "added_stars": "0 stars today"
+    },
+    {
+      "title": "leanprover-community / mathlib4",
+      "url": "https://github.com/leanprover-community/mathlib4",
+      "description": "The math library of Lean 4",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 4437,
+      "forks": 1824,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "facebookresearch / atlas-lean",
+      "url": "https://github.com/facebookresearch/atlas-lean",
+      "description": "ATLAS Autoformalized Textbook Library At Scale",
+      "language": "Lean",
+      "languageColor": "#ccc",
+      "stars": 331,
+      "forks": 50,
+      "added_stars": "2 stars today"
     }
   ]
 }

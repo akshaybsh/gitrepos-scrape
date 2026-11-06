@@ -2,17 +2,37 @@
   "title": "GitHub Haskell Languages Daily Trending",
   "description": "Daily Trending of Haskell Languages in GitHub",
   "link": "https://github.com/trending",
-  "pubDate": "Thu, 05 Nov 2026 08:43:31 GMT",
+  "pubDate": "Fri, 06 Nov 2026 08:44:55 GMT",
   "items": [
     {
-      "title": "simplex-chat / simplex-chat",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "title": "jgm / pandoc",
+      "url": "https://github.com/jgm/pandoc",
+      "description": "Universal markup converter",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 19644,
-      "forks": 1320,
-      "added_stars": "5 stars today"
+      "stars": 46835,
+      "forks": 5132,
+      "added_stars": "25 stars today"
+    },
+    {
+      "title": "hledgerorg / hledger",
+      "url": "https://github.com/hledgerorg/hledger",
+      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 4812,
+      "forks": 426,
+      "added_stars": "1 star today"
+    },
+    {
+      "title": "koalaman / shellcheck",
+      "url": "https://github.com/koalaman/shellcheck",
+      "description": "ShellCheck, a static analysis tool for shell scripts",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 40291,
+      "forks": 1973,
+      "added_stars": "8 stars today"
     },
     {
       "title": "hadolint / hadolint",
@@ -22,6 +42,26 @@
       "languageColor": "#5e5086",
       "stars": 12515,
       "forks": 512,
+      "added_stars": "3 stars today"
+    },
+    {
+      "title": "simplex-chat / simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 19650,
+      "forks": 1322,
+      "added_stars": "6 stars today"
+    },
+    {
+      "title": "monoscope-tech / monoscope",
+      "url": "https://github.com/monoscope-tech/monoscope",
+      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
+      "language": "Haskell",
+      "languageColor": "#5e5086",
+      "stars": 2045,
+      "forks": 87,
       "added_stars": "2 stars today"
     },
     {
@@ -30,39 +70,9 @@
       "description": "REST API for any Postgres database",
       "language": "Haskell",
       "languageColor": "#5e5086",
-      "stars": 27742,
-      "forks": 1237,
+      "stars": 27741,
+      "forks": 1238,
       "added_stars": "2 stars today"
-    },
-    {
-      "title": "monoscope-tech / monoscope",
-      "url": "https://github.com/monoscope-tech/monoscope",
-      "description": "Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 2043,
-      "forks": 87,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "hledgerorg / hledger",
-      "url": "https://github.com/hledgerorg/hledger",
-      "description": "Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 4811,
-      "forks": 426,
-      "added_stars": "1 star today"
-    },
-    {
-      "title": "reanimate / reanimate",
-      "url": "https://github.com/reanimate/reanimate",
-      "description": "Haskell library for building declarative animations based on SVG graphics",
-      "language": "Haskell",
-      "languageColor": "#5e5086",
-      "stars": 1247,
-      "forks": 75,
-      "added_stars": "6 stars today"
     }
   ]
 }
