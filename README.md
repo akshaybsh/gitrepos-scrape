@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3496-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3497-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-11-12
-_Top 3 per language · [view full day →](./2026/2026-11-12.md)_
+## 🔥 Today's Trending — 2026-11-13
+_Top 3 per language · [view full day →](./2026/2026-11-13.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
+| [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) | 🐍 | Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly) |
+| [openai/whisper](https://github.com/openai/whisper) | 🐍 | Robust Speech Recognition via Large-Scale Weak Supervision |
 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 🐍 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs. |
-| [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | 🐍 | Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. |
-| [browser-use/browser-use](https://github.com/browser-use/browser-use) | 🐍 | Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API. |
-| [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) | 🦀 | Browser automation CLI for AI agents |
-| [ruvnet/RuView](https://github.com/ruvnet/RuView) | 🦀 | π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. |
 | [tokio-rs/topcoat](https://github.com/tokio-rs/topcoat) | 🦀 | A batteries-included framework for building web apps |
+| [zellij-org/zellij](https://github.com/zellij-org/zellij) | 🦀 | A terminal workspace with batteries included |
+| [Universal-Debloater-Alliance/universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) | 🦀 | Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device. |
+| [nodejs/node](https://github.com/nodejs/node) | ⚡ | Node.js JavaScript runtime ✨🐢🚀✨ |
 | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | ⚡ | Production-grade engineering skills for AI coding agents. |
-| [kunchenguid/lavish-axi](https://github.com/kunchenguid/lavish-axi) | ⚡ | HTML is the new markdown. Lavish is the new editor for your HTML artifacts. |
-| [microsoft/power-platform-skills](https://github.com/microsoft/power-platform-skills) | ⚡ | A plugin marketplace for GitHub Copilot and other AI agents that provides Power Platform development plugins, including reusable skills, agents, and commands for building and deploying solutions. |
-| [gosom/google-maps-scraper](https://github.com/gosom/google-maps-scraper) | 🐹 | scrape data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place |
-| [evcc-io/evcc](https://github.com/evcc-io/evcc) | 🐹 | smart charging ☀️🚘 |
-| [henrygd/beszel](https://github.com/henrygd/beszel) | 🐹 | Lightweight server monitoring with historical data, docker stats, and alerts. |
-| [YangJiiii/3105](https://github.com/YangJiiii/3105) | 🍎 | Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab. |
-| [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) | 🍎 | iOS 27 MobileGestalt editor |
-| [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) | 🍎 |  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use. |
-| [meta/astryx](https://github.com/meta/astryx) | 🔷 | An open source design system that's fully customizable and agent ready |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 🔷 |  |
+| [laoma528/awesome-zhuiju-free](https://github.com/laoma528/awesome-zhuiju-free) | ⚡ | 免费无广告的追剧资源指南，人工精选资源、每天检测资源有效性。收录在线影视、影视APP、网盘搜索、磁力BT、字幕、TVBox / 影视仓空壳软件/配置地址、IPTV直播源、会员拼团、影视相关开源项目。开源，社区共同维护。 |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 🐹 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
+| [moby/buildkit](https://github.com/moby/buildkit) | 🐹 | concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit |
+| [agent-substrate/substrate](https://github.com/agent-substrate/substrate) | 🐹 | Agent Substrate: the core system |
+| [xtool-org/xtool](https://github.com/xtool-org/xtool) | 🍎 | Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. |
+| [apple/container](https://github.com/apple/container) | 🍎 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) | 🍎 | Process Explorer for MacOS |
+| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 🔷 | Keep your coding agent up to date with the latest web best practices |
 | [openai/codex-security](https://github.com/openai/codex-security) | 🔷 | OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security |
+| [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) | 🔷 | An open-source AI coding agent that lives in your terminal. |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-11-12.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-11-13](./2026/2026-11-13.md) | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [topcoat](https://github.com/tokio-rs/topcoat) | [node](https://github.com/nodejs/node) | [LoopForge](https://github.com/Tencent/LoopForge) | [xtool](https://github.com/xtool-org/xtool) | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) |
 | [2026-11-12](./2026/2026-11-12.md) | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [agent-skills](https://github.com/addyosmani/agent-skills) | [google-maps-scraper](https://github.com/gosom/google-maps-scraper) | [3105](https://github.com/YangJiiii/3105) | [astryx](https://github.com/meta/astryx) |
 | [2026-11-11](./2026/2026-11-11.md) | [skills](https://github.com/anthropics/skills) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [agent-skills](https://github.com/addyosmani/agent-skills) | [nvke](https://github.com/dsx-ai-factory/nvke) | [LiveContainer](https://github.com/LiveContainer/LiveContainer) | [astryx](https://github.com/meta/astryx) |
 | [2026-11-10](./2026/2026-11-10.md) | [skills](https://github.com/anthropics/skills) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | [google-maps-scraper](https://github.com/gosom/google-maps-scraper) | [purge-app](https://github.com/jithin-sabu/purge-app) | [astryx](https://github.com/meta/astryx) |
 | [2026-11-09](./2026/2026-11-09.md) | [sherlock](https://github.com/sherlock-project/sherlock) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) | [nvke](https://github.com/dsx-ai-factory/nvke) | [try-omarchy](https://github.com/omacom/try-omarchy) | [OpenMausBot](https://github.com/milind-soni/OpenMausBot) |
 | [2026-11-08](./2026/2026-11-08.md) | [skills](https://github.com/google/skills) | [agent-browser](https://github.com/vercel-labs/agent-browser) | [security-audit-skill](https://github.com/cloudflare/security-audit-skill) | [prometheus](https://github.com/prometheus/prometheus) | [Heeler](https://github.com/ZingerLittleBee/Heeler) | [astryx](https://github.com/meta/astryx) |
 | [2026-11-07](./2026/2026-11-07.md) | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | [zed](https://github.com/zed-industries/zed) | [react](https://github.com/react/react) | [prometheus](https://github.com/prometheus/prometheus) | [coreai-models](https://github.com/apple/coreai-models) | [angular](https://github.com/angular/angular) |
-| [2026-11-06](./2026/2026-11-06.md) | [auto-ontology](https://github.com/NVIDIA/auto-ontology) | [agent-desktop](https://github.com/vercel-labs/agent-desktop) | [garden-skills](https://github.com/ConardLi/garden-skills) | [trivy](https://github.com/aquasecurity/trivy) | [remote-mic-app](https://github.com/HD838A/remote-mic-app) | [gstack](https://github.com/garrytan/gstack) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [oaustegard/claude-skills](https://github.com/oaustegard/claude-skills) | 🐍 | 2026-11-13 | My collection of Claude skills |
+| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | 🐍 | 2026-11-13 | Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. |
+| [databricks/cli](https://github.com/databricks/cli) | 🐹 | 2026-11-13 | Databricks CLI |
+| [microsoft/Procexp-Mac](https://github.com/microsoft/Procexp-Mac) | 🍎 | 2026-11-13 | Process Explorer for MacOS |
+| [block/buzz-app](https://github.com/block/buzz-app) | 🔷 | 2026-11-13 | A new desktop/web app experience for buzz |
+| [adewaskar/jarvis](https://github.com/adewaskar/jarvis) | 🔷 | 2026-11-13 | J.A.R.V.I.S for automating your daily tasks using Claude Code |
+| [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) | 🔷 | 2026-11-13 | 可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. |
 | [krahets/hello-algo](https://github.com/krahets/hello-algo) | 🐍 | 2026-11-12 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
 | [googleads/google-ads-mcp](https://github.com/googleads/google-ads-mcp) | 🐍 | 2026-11-12 |  |
 | [ja7ad/hydra](https://github.com/ja7ad/hydra) | 🦀 | 2026-11-12 | A fast, resilient, multi-source file retriever and download engine |
-| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 🐹 | 2026-11-12 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
-| [unstablebuild/rune](https://github.com/unstablebuild/rune) | 🐹 | 2026-11-12 | a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming. |
-| [devaccuracy/ledgerforge](https://github.com/devaccuracy/ledgerforge) | 🐹 | 2026-11-12 | The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0. |
-| [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) | 🍎 | 2026-11-12 | iOS 27 MobileGestalt editor |
-| [GoogleChrome/modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) | 🔷 | 2026-11-12 |  |
-| [NapNeko/NapCatQQ](https://github.com/NapNeko/NapCatQQ) | 🔷 | 2026-11-12 | Modern protocol-side framework |
-| [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) | 🦀 | 2026-11-11 | Truly independent web browser |
 
 ---
 
