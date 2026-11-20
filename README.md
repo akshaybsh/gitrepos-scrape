@@ -2,33 +2,33 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3503-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3504-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-11-19
-_Top 3 per language · [view full day →](./2026/2026-11-19.md)_
+## 🔥 Today's Trending — 2026-11-20
+_Top 3 per language · [view full day →](./2026/2026-11-20.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
+| [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | 🐍 | A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. |
 | [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) | 🐍 | "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/ |
-| [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | 🐍 | AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary |
-| [NVIDIA/SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) | 🐍 | Multi-tier framework for evaluating AI agent skills and plugins with quality gates, security scanning, harness compatibility checks, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. Ships reusable CI templates that bring every check to any repository. |
-| [astral-sh/uv](https://github.com/astral-sh/uv) | 🦀 | An extremely fast Python package and project manager, written in Rust. |
-| [SaladDay/cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) | 🦀 | ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI. |
-| [rustfs/rustfs](https://github.com/rustfs/rustfs) | 🦀 | RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph. |
-| [sveltejs/svelte](https://github.com/sveltejs/svelte) | ⚡ | web development for the rest of us |
-| [jquery/jquery](https://github.com/jquery/jquery) | ⚡ | jQuery JavaScript Library |
+| [jingyaogong/minimind](https://github.com/jingyaogong/minimind) | 🐍 | 🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours. |
+| [janhq/jan](https://github.com/janhq/jan) | 🦀 | Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. |
+| [malisper/pgrust](https://github.com/malisper/pgrust) | 🦀 | Postgres rewritten in Rust, now faster than Postgres and Clickhouse |
+| [pola-rs/polars](https://github.com/pola-rs/polars) | 🦀 | Extremely fast Query Engine for DataFrames, written in Rust |
 | [affaan-m/ECC](https://github.com/affaan-m/ECC) | ⚡ | The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. |
-| [getarcaneapp/arcane](https://github.com/getarcaneapp/arcane) | 🐹 | Modern Docker Management, Designed for Everyone |
-| [alibaba/open-code-review](https://github.com/alibaba/open-code-review) | 🐹 | Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. |
-| [docker/compose](https://github.com/docker/compose) | 🐹 | Define and run multi-container applications with Docker |
-| [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) | 🍎 | Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. |
-| [apple/container](https://github.com/apple/container) | 🍎 | A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. |
+| [sveltejs/svelte](https://github.com/sveltejs/svelte) | ⚡ | web development for the rest of us |
+| [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) | ⚡ | This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities |
+| [datazip-inc/olake-go](https://github.com/datazip-inc/olake-go) | 🐹 | OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion. |
+| [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🐹 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
+| [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 🐹 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
 | [consolelabs/hidden](https://github.com/consolelabs/hidden) | 🍎 | An ultra-light MacOS utility that helps hide menu bar icons |
+| [suversal/WrapPin](https://github.com/suversal/WrapPin) | 🍎 | iOS 27+ 本机虚拟定位与步行路线测试工具 |
+| [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) | 🍎 | Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. |
 | [cursor/plugins](https://github.com/cursor/plugins) | 🔷 | Cursor plugin specification and official plugins |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔷 | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 🔷 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
-| [appwrite/appwrite](https://github.com/appwrite/appwrite) | 🔷 | The open-source cloud for agents & devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more |
 
 ---
 
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-11-19.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-11-20](./2026/2026-11-20.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-19](./2026/2026-11-19.md) | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | [uv](https://github.com/astral-sh/uv) | [svelte](https://github.com/sveltejs/svelte) | [arcane](https://github.com/getarcaneapp/arcane) | [openhaystack](https://github.com/seemoo-lab/openhaystack) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-18](./2026/2026-11-18.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jiff](https://github.com/BurntSushi/jiff) | [svelte](https://github.com/sveltejs/svelte) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [univer](https://github.com/dream-num/univer) |
 | [2026-11-17](./2026/2026-11-17.md) | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | [arcane](https://github.com/getarcaneapp/arcane) | [Liter8](https://github.com/Xplo8E/Liter8) | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) |
 | [2026-11-16](./2026/2026-11-16.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [WrapPin](https://github.com/suversal/WrapPin) | [univer](https://github.com/dream-num/univer) |
 | [2026-11-15](./2026/2026-11-15.md) | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [airgorah](https://github.com/martin-olivier/airgorah) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [plannotator](https://github.com/backnotprop/plannotator) |
 | [2026-11-14](./2026/2026-11-14.md) | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [buzz](https://github.com/block/buzz) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) |
-| [2026-11-13](./2026/2026-11-13.md) | [free-claude-code](https://github.com/Alishahryar1/free-claude-code) | [topcoat](https://github.com/tokio-rs/topcoat) | [node](https://github.com/nodejs/node) | [LoopForge](https://github.com/Tencent/LoopForge) | [xtool](https://github.com/xtool-org/xtool) | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,16 +70,16 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) | 🐍 | 2026-11-20 | Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions |
+| [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | 🐍 | 2026-11-20 | Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware. |
+| [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) | 🐍 | 2026-11-20 | let your agent control your phone |
+| [micromatch/picomatch](https://github.com/micromatch/picomatch) | ⚡ | 2026-11-20 | Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i… |
+| [datazip-inc/olake-go](https://github.com/datazip-inc/olake-go) | 🐹 | 2026-11-20 | OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion. |
+| [gauthierpiarrette/highball](https://github.com/gauthierpiarrette/highball) | 🍎 | 2026-11-20 | Run Windows games on Apple Silicon — free, open source, with an open compatibility database that tells you what actually works. |
+| [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 🔷 | 2026-11-20 | AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker. |
 | [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | 🐍 | 2026-11-19 | One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis. |
 | [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) | 🐍 | 2026-11-19 | Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies. |
 | [qwdwqfwq/topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) | ⚡ | 2026-11-19 | 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting |
-| [pugarte7/spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) | ⚡ | 2026-11-19 | MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática. |
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 🔷 | 2026-11-19 | Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local |
-| [3441293738/creatorhub](https://github.com/3441293738/creatorhub) | 🐍 | 2026-11-18 | 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok |
-| [BurntSushi/jiff](https://github.com/BurntSushi/jiff) | 🦀 | 2026-11-18 | A datetime library for Rust that encourages you to jump into the pit of success. |
-| [Minglink/dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) | ⚡ | 2026-11-18 | DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进 |
-| [aliyun/ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) | ⚡ | 2026-11-18 | A practical guide to building enterprise AI agents across their full lifecycle. |
-| [basketikun/chatgpt2api](https://github.com/basketikun/chatgpt2api) | 🐹 | 2026-11-18 | ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件 |
 
 ---
 
