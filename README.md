@@ -2,12 +2,12 @@
 # 📈 GitHub Trending Collection
 _Daily snapshots of GitHub trending repositories since 2015_
 
-![](https://img.shields.io/badge/⭐_days_archived-3504-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
+![](https://img.shields.io/badge/⭐_days_archived-3505-brightgreen?style=flat-square) ![](https://img.shields.io/badge/🌐_languages-6-blue?style=flat-square) ![](https://img.shields.io/badge/🔄_auto--updated-daily-purple?style=flat-square) ![](https://img.shields.io/badge/📅_since-2015-red?style=flat-square)
 
 ---
 
-## 🔥 Today's Trending — 2026-11-20
-_Top 3 per language · [view full day →](./2026/2026-11-20.md)_
+## 🔥 Today's Trending — 2026-11-21
+_Top 3 per language · [view full day →](./2026/2026-11-21.md)_
 
 | Repository | Lang | Description |
 |---|---|---|
@@ -24,10 +24,10 @@ _Top 3 per language · [view full day →](./2026/2026-11-20.md)_
 | [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) | 🐹 | Fully autonomous AI Agents system capable of performing complex penetration testing tasks |
 | [Tencent/LoopForge](https://github.com/Tencent/LoopForge) | 🐹 | Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. |
 | [consolelabs/hidden](https://github.com/consolelabs/hidden) | 🍎 | An ultra-light MacOS utility that helps hide menu bar icons |
+| [driceroland/Search](https://github.com/driceroland/Search) | 🍎 | A small, fast WebKit browser for macOS, by Office Commun. |
 | [suversal/WrapPin](https://github.com/suversal/WrapPin) | 🍎 | iOS 27+ 本机虚拟定位与步行路线测试工具 |
-| [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) | 🍎 | Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network. |
 | [cursor/plugins](https://github.com/cursor/plugins) | 🔷 | Cursor plugin specification and official plugins |
-| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔷 | Knowledge infrastructure to make your agents smarter. Search, scrape and 550+ data providers through one API. |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | 🔷 | Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API. |
 | [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) | 🔷 | A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. |
 
 ---
@@ -36,13 +36,13 @@ _Top 3 per language · [view full day →](./2026/2026-11-20.md)_
 
 | Date | 🐍 | 🦀 | ⚡ | 🐹 | 🍎 | 🔷 |
 |---|---|---|---|---|---|---|
+| [2026-11-21](./2026/2026-11-21.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-20](./2026/2026-11-20.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jan](https://github.com/janhq/jan) | [ECC](https://github.com/affaan-m/ECC) | [olake-go](https://github.com/datazip-inc/olake-go) | [hidden](https://github.com/consolelabs/hidden) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-19](./2026/2026-11-19.md) | [CLI-Anything](https://github.com/HKUDS/CLI-Anything) | [uv](https://github.com/astral-sh/uv) | [svelte](https://github.com/sveltejs/svelte) | [arcane](https://github.com/getarcaneapp/arcane) | [openhaystack](https://github.com/seemoo-lab/openhaystack) | [plugins](https://github.com/cursor/plugins) |
 | [2026-11-18](./2026/2026-11-18.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [jiff](https://github.com/BurntSushi/jiff) | [svelte](https://github.com/sveltejs/svelte) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [univer](https://github.com/dream-num/univer) |
 | [2026-11-17](./2026/2026-11-17.md) | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [jiangshan-map](https://github.com/DeanChensj/jiangshan-map) | [arcane](https://github.com/getarcaneapp/arcane) | [Liter8](https://github.com/Xplo8E/Liter8) | [ag-ui](https://github.com/ag-ui-protocol/ag-ui) |
 | [2026-11-16](./2026/2026-11-16.md) | [Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter) | [omnigraph](https://github.com/ModernRelay/omnigraph) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [WrapPin](https://github.com/suversal/WrapPin) | [univer](https://github.com/dream-num/univer) |
 | [2026-11-15](./2026/2026-11-15.md) | [claude-trading-skills](https://github.com/tradermonty/claude-trading-skills) | [airgorah](https://github.com/martin-olivier/airgorah) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [plannotator](https://github.com/backnotprop/plannotator) |
-| [2026-11-14](./2026/2026-11-14.md) | [daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | [buzz](https://github.com/block/buzz) | [uptime-kuma](https://github.com/louislam/uptime-kuma) | [open-code-review](https://github.com/alibaba/open-code-review) | [container](https://github.com/apple/container) | [modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) |
 | ... | [_view full archive →_](./2026/) | | | | | |
 
 ---
@@ -70,6 +70,7 @@ _Repos appearing on trending for the first time in the last 30 days_
 
 | Repository | Lang | First Seen | Description |
 |---|---|---|---|
+| [driceroland/Search](https://github.com/driceroland/Search) | 🍎 | 2026-11-21 | A small, fast WebKit browser for macOS, by Office Commun. |
 | [awslabs/cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) | 🐍 | 2026-11-20 | Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions |
 | [FlashML-org/FreeVideo](https://github.com/FlashML-org/FreeVideo) | 🐍 | 2026-11-20 | Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware. |
 | [phone-harness/phone-harness](https://github.com/phone-harness/phone-harness) | 🐍 | 2026-11-20 | let your agent control your phone |
@@ -79,7 +80,6 @@ _Repos appearing on trending for the first time in the last 30 days_
 | [tianma-if/edgeever](https://github.com/tianma-if/edgeever) | 🔷 | 2026-11-20 | AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker. |
 | [Dodaios/Dodaios](https://github.com/Dodaios/Dodaios) | 🐍 | 2026-11-19 | One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis. |
 | [ethanplusai/sellbird](https://github.com/ethanplusai/sellbird) | 🐍 | 2026-11-19 | Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies. |
-| [qwdwqfwq/topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) | ⚡ | 2026-11-19 | 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting |
 
 ---
 
